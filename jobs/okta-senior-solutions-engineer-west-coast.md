@@ -1,16 +1,16 @@
-# Sales Consultant at Sysco
+# Senior Solutions Engineer- West Coast at Okta
 
 | Field | Details |
 |-------|---------|
-| Company | [Sysco](https://scoutify.ai/companies/sysco?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Pennsylvania, US |
+| Company | [Okta](https://scoutify.ai/companies/okta?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
+| Location | Arizona, US |
 | Category | Sales |
-| Posted | 2026-02-04 |
-| Apply | [View on company site](https://sysco.wd5.myworkdayjobs.com/syscocareers/job/Greco-PennMac/Sales-Consultant_R237218) |
+| Posted | 2026-02-05 |
+| Apply | [View on company site](https://www.okta.com/company/careers/opportunity/7592210?gh_jid=7592210) |
 
 ## About This Role
 
-This sales position at Sysco was posted on 2026-02-04.
+This sales position at Okta was posted on 2026-02-05.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Part Time Retail Sales Consultant at AT&T
+# Specialist Sales Exec S1 Platinum Mob at AT&T
 
 | Field | Details |
 |-------|---------|
 | Company | [AT&T](https://scoutify.ai/companies/at-t?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Meridian, Idaho, United States |
-| Category | Sales Engineer |
-| Posted | 2026-02-04 |
-| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/USAIDMeridian2386-N-Eagle-RdRETRET/Part-Time-Retail-Sales-Consultant_R-99157-2) |
+| Location | Arlington Heights, Illinois, United States |
+| Category | Sales |
+| Posted | 2026-02-05 |
+| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Arlington-Heights-Illinois/Specialist-Sales-Exec-S1-Platinum-Mob_R-99866) |
 
 ## About This Role
 
-This sales engineer position at AT&T was posted on 2026-02-04.
+This sales position at AT&T was posted on 2026-02-05.
 
 ## Get Real-Time Alerts
 

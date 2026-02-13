@@ -1,16 +1,16 @@
-# Sales Consultant at Sysco
+# Senior Sales Specialist - Voice - EMEA at DeepL
 
 | Field | Details |
 |-------|---------|
-| Company | [Sysco](https://scoutify.ai/companies/sysco?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Pennsylvania, US |
+| Company | [DeepL](https://scoutify.ai/companies/deepl?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
+| Location | London, England, United Kingdom |
 | Category | Sales |
-| Posted | 2026-02-04 |
-| Apply | [View on company site](https://sysco.wd5.myworkdayjobs.com/syscocareers/job/Greco-PennMac/Sales-Consultant_R237218) |
+| Posted | 2026-02-05 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/deepl/c933849c-0ed8-4981-bd35-97800c4e1da0) |
 
 ## About This Role
 
-This sales position at Sysco was posted on 2026-02-04.
+This sales position at DeepL was posted on 2026-02-05.
 
 ## Get Real-Time Alerts
 

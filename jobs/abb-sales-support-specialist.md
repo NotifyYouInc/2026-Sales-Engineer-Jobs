@@ -1,16 +1,16 @@
-# Sales Specialist at ABB
+# Sales Support Specialist at ABB
 
 | Field | Details |
 |-------|---------|
 | Company | [ABB](https://scoutify.ai/companies/abb?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Rotterdam, South Holland, The Netherlands |
-| Category | Sales |
-| Posted | 2026-02-04 |
-| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Rotterdam-South-Holland-Netherlands/Sales-Specialist_JR00021935-1) |
+| Location | Johannesburg, Gauteng, South Africa |
+| Category | Customer Success |
+| Posted | 2026-02-06 |
+| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Johannesburg-Gauteng-South-Africa/Sales-Support-Specialist_JR00023549-1) |
 
 ## About This Role
 
-This sales position at ABB was posted on 2026-02-04.
+This customer success position at ABB was posted on 2026-02-06.
 
 ## Get Real-Time Alerts
 

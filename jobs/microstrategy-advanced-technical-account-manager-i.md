@@ -5,12 +5,12 @@
 | Company | [MicroStrategy](https://scoutify.ai/companies/microstrategy?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Virginia, US |
 | Category | Customer Success |
-| Posted | 2026-02-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/MicroStrategy1/744000107167625-advanced-technical-account-manager-i) |
+| Posted | 2026-02-04 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/MicroStrategy1/744000107400655-advanced-technical-account-manager-i) |
 
 ## About This Role
 
-This customer success position at MicroStrategy was posted on 2026-02-03.
+This customer success position at MicroStrategy was posted on 2026-02-04.
 
 ## Get Real-Time Alerts
 

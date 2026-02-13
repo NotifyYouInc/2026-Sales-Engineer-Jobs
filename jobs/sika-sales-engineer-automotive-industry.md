@@ -1,16 +1,16 @@
-# Sales Consultant at Sysco
+# Sales Engineer - Automotive & Industry  at Sika
 
 | Field | Details |
 |-------|---------|
-| Company | [Sysco](https://scoutify.ai/companies/sysco?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Pennsylvania, US |
+| Company | [Sika](https://scoutify.ai/companies/sika?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
+| Location | Hanoi, Hanoi, Vietnam |
 | Category | Sales |
-| Posted | 2026-02-04 |
-| Apply | [View on company site](https://sysco.wd5.myworkdayjobs.com/syscocareers/job/Greco-PennMac/Sales-Consultant_R237218) |
+| Posted | 2026-02-06 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SikaAG/744000107667754-sales-engineer-automotive-industry) |
 
 ## About This Role
 
-This sales position at Sysco was posted on 2026-02-04.
+This sales position at Sika was posted on 2026-02-06.
 
 ## Get Real-Time Alerts
 

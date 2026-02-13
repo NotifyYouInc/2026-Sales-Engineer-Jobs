@@ -1,16 +1,16 @@
-# Sales Consultant at Sysco
+# Territory Sales Manager SE at SPAN
 
 | Field | Details |
 |-------|---------|
-| Company | [Sysco](https://scoutify.ai/companies/sysco?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Pennsylvania, US |
+| Company | [SPAN](https://scoutify.ai/companies/span?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
+| Location | 3 locations |
 | Category | Sales |
-| Posted | 2026-02-04 |
-| Apply | [View on company site](https://sysco.wd5.myworkdayjobs.com/syscocareers/job/Greco-PennMac/Sales-Consultant_R237218) |
+| Posted | 2026-02-05 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/span/6463fdf0-e071-4b82-b311-74b12b5246fb) |
 
 ## About This Role
 
-This sales position at Sysco was posted on 2026-02-04.
+This sales position at SPAN was posted on 2026-02-05.
 
 ## Get Real-Time Alerts
 

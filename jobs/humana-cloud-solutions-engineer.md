@@ -1,0 +1,22 @@
+# Cloud Solutions Engineer at Humana
+
+| Field | Details |
+|-------|---------|
+| Company | [Humana](https://scoutify.ai/companies/humana?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
+| Location | United States |
+| Category | Devops Engineer |
+| Posted | 2026-02-05 |
+| Apply | [View on company site](https://humana.wd5.myworkdayjobs.com/Humana_External_Career_Site/job/Remote-Nationwide/Cloud-Solutions-Engineer_R-402735-1) |
+
+## About This Role
+
+This devops engineer position at Humana was posted on 2026-02-05.
+
+## Get Real-Time Alerts
+
+This job was posted 7+ days ago. For instant alerts on new jobs like this:
+
+**[Get Instant Job Alerts on Scoutify](https://scoutify.ai?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs)** - Be first to apply at 8,800+ companies.
+
+---
+*Data sourced from [Scoutify](https://scoutify.ai) | Updated daily*

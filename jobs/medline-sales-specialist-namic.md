@@ -1,16 +1,16 @@
-# Sales Consultant at Sysco
+# Sales Specialist-Namic at Medline
 
 | Field | Details |
 |-------|---------|
-| Company | [Sysco](https://scoutify.ai/companies/sysco?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Pennsylvania, US |
+| Company | [Medline](https://scoutify.ai/companies/medline?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
+| Location | 2 locations |
 | Category | Sales |
-| Posted | 2026-02-04 |
-| Apply | [View on company site](https://sysco.wd5.myworkdayjobs.com/syscocareers/job/Greco-PennMac/Sales-Consultant_R237218) |
+| Posted | 2026-02-05 |
+| Apply | [View on company site](https://medline.wd5.myworkdayjobs.com/Medline/job/Ann-Arbor-Michigan/Sales-Specialist-Namic_R2602213) |
 
 ## About This Role
 
-This sales position at Sysco was posted on 2026-02-04.
+This sales position at Medline was posted on 2026-02-05.
 
 ## Get Real-Time Alerts
 
