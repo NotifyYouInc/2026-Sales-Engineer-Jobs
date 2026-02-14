@@ -1,4 +1,4 @@
-# Sr Solutions Consultant (Pre-Sales) at The Nielsen Company
+# Sr Solutions Consultant (Pre-Sales)  at The Nielsen Company
 
 | Field | Details |
 |-------|---------|
@@ -6,7 +6,7 @@
 | Location | New York, US |
 | Category | Sales |
 | Posted | 2026-02-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/TheNielsenCompany/3743990011521606-sr-solutions-consultant-pre-sales) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/TheNielsenCompany/3743990011527026-sr-solutions-consultant-pre-sales) |
 
 ## About This Role
 

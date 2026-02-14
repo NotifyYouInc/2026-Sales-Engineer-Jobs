@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Hitachi](https://scoutify.ai/companies/hitachi?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Faridabad, Haryana, India |
-| Category | Sales |
-| Posted | 2026-02-04 |
-| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Faridabad-Haryana-India/Sales-Specialist_R0118964-1) |
+| Location | Birmingham, England, United Kingdom |
+| Category | Business Development |
+| Posted | 2026-02-06 |
+| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Remote---England-United-Kingdom/Sales-Specialist_R0105442) |
 
 ## About This Role
 
-This sales position at Hitachi was posted on 2026-02-04.
+This business development position at Hitachi was posted on 2026-02-06.
 
 ## Get Real-Time Alerts
 

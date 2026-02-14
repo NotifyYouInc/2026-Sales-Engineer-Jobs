@@ -5,12 +5,12 @@
 | Company | [SpotOn: Sales (Career Site)](https://scoutify.ai/companies/spoton-sales-career-site?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Huntington, West Virginia, United States |
 | Category | Sales |
-| Posted | 2026-02-04 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/regionalspotonsales/jobs/7619115003) |
+| Posted | 2026-02-06 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/regionalspotonsales/jobs/7622315003) |
 
 ## About This Role
 
-This sales position at SpotOn: Sales (Career Site) was posted on 2026-02-04.
+This sales position at SpotOn: Sales (Career Site) was posted on 2026-02-06.
 
 ## Get Real-Time Alerts
 

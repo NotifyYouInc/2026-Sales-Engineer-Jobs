@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Elliott](https://scoutify.ai/companies/elliott?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Edmonton, Alberta, Canada |
+| Location | Baton Rouge, Louisiana, United States |
 | Category | Sales |
-| Posted | 2026-02-04 |
-| Apply | [View on company site](https://elliottgroup.wd5.myworkdayjobs.com/elliottcareers/job/Edmonton-Alberta/Turbomachinery-Sales-Engineer_R3314) |
+| Posted | 2026-02-05 |
+| Apply | [View on company site](https://elliottgroup.wd5.myworkdayjobs.com/elliottcareers/job/US--Baton-Rouge-Service-Center/Turbomachinery-Sales-Engineer_R3380) |
 
 ## About This Role
 
-This sales position at Elliott was posted on 2026-02-04.
+This sales position at Elliott was posted on 2026-02-05.
 
 ## Get Real-Time Alerts
 

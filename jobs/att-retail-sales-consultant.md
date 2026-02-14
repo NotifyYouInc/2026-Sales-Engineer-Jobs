@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [AT&T](https://scoutify.ai/companies/at-t?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Everett, Washington, United States |
+| Location | San Pedro, California, United States |
 | Category | Sales Engineer |
 | Posted | 2026-02-04 |
-| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/USAWAEverett1402-Se-Everett-Mall-WayRETRET/Retail-Sales-Consultant_R-99756-2) |
+| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/USACASan-Pedro980-N-Western-AveRETRET/Retail-Sales-Consultant_R-99802-2) |
 
 ## About This Role
 

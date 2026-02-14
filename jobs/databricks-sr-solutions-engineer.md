@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Databricks](https://scoutify.ai/companies/databricks?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Herzliya, Tel Aviv, Israel |
+| Location | Seoul, Seoul, South Korea |
 | Category | Sales Engineer |
-| Posted | 2026-02-04 |
-| Apply | [View on company site](https://databricks.com/company/careers/open-positions/job?gh_jid=8389712002) |
+| Posted | 2026-02-06 |
+| Apply | [View on company site](https://databricks.com/company/careers/open-positions/job?gh_jid=8408233002) |
 
 ## About This Role
 
-This sales engineer position at Databricks was posted on 2026-02-04.
+This sales engineer position at Databricks was posted on 2026-02-06.
 
 ## Get Real-Time Alerts
 
