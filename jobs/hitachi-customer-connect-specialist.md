@@ -1,4 +1,4 @@
-# Sales Support Specialist at Hitachi
+# Customer Connect Specialist at Hitachi
 
 | Field | Details |
 |-------|---------|
@@ -6,7 +6,7 @@
 | Location | Chennai, Tamil Nadu, India |
 | Category | Customer Success |
 | Posted | 2026-02-09 |
-| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Chennai-Tamil-Nadu-India/Sales-Support-Specialist_R0119970) |
+| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Chennai-Tamil-Nadu-India/Customer-Connect-Specialist_R0119467) |
 
 ## About This Role
 

@@ -1,16 +1,16 @@
-# Sales Support Specialist at Hitachi
+# Implementation Consultant, Data (German) at Assent
 
 | Field | Details |
 |-------|---------|
-| Company | [Hitachi](https://scoutify.ai/companies/hitachi?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Chennai, Tamil Nadu, India |
+| Company | [Assent](https://scoutify.ai/companies/assent?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
+| Location | Berlin, State of Berlin, Germany |
 | Category | Customer Success |
 | Posted | 2026-02-09 |
-| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Chennai-Tamil-Nadu-India/Sales-Support-Specialist_R0119970) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Assent/744000108210366-implementation-consultant-data-german) |
 
 ## About This Role
 
-This customer success position at Hitachi was posted on 2026-02-09.
+This customer success position at Assent was posted on 2026-02-09.
 
 ## Get Real-Time Alerts
 

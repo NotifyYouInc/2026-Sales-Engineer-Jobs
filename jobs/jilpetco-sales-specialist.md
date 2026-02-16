@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Jilpetco](https://scoutify.ai/companies/jilpetco?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Michigan, US |
+| Location | Fort Collins, Colorado, United States |
 | Category | Sales Engineer |
-| Posted | 2026-02-04 |
-| Apply | [View on company site](https://petco.wd1.myworkdayjobs.com/external/job/3845---Shelby-Township-MI/Sales-Specialist_R342709) |
+| Posted | 2026-02-05 |
+| Apply | [View on company site](https://petco.wd1.myworkdayjobs.com/external/job/0489---Fort-Collins-CO/Sales-Specialist_R342777) |
 
 ## About This Role
 
-This sales engineer position at Jilpetco was posted on 2026-02-04.
+This sales engineer position at Jilpetco was posted on 2026-02-05.
 
 ## Get Real-Time Alerts
 

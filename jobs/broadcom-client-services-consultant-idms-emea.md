@@ -1,16 +1,16 @@
-# Sales Support Specialist at Hitachi
+# Client Services Consultant IDMS EMEA at Broadcom
 
 | Field | Details |
 |-------|---------|
-| Company | [Hitachi](https://scoutify.ai/companies/hitachi?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Chennai, Tamil Nadu, India |
+| Company | [Broadcom](https://scoutify.ai/companies/broadcom?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
+| Location | Belgium |
 | Category | Customer Success |
 | Posted | 2026-02-09 |
-| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Chennai-Tamil-Nadu-India/Sales-Support-Specialist_R0119970) |
+| Apply | [View on company site](https://broadcom.wd1.myworkdayjobs.com/External_Career/job/Belgium-Remote-Location/Client-Services-Consultant-IDMS-EMEA_R025114) |
 
 ## About This Role
 
-This customer success position at Hitachi was posted on 2026-02-09.
+This customer success position at Broadcom was posted on 2026-02-09.
 
 ## Get Real-Time Alerts
 

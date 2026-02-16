@@ -5,12 +5,12 @@
 | Company | [MSX International](https://scoutify.ai/companies/msxinternational?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Rome, Lazio, Italy |
 | Category | Customer Success |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/MSXInternational/3743990011530296-customer-service-specialist) |
+| Posted | 2026-02-06 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/MSXInternational/3743990011559196-customer-service-specialist) |
 
 ## About This Role
 
-This customer success position at MSX International was posted on 2026-02-05.
+This customer success position at MSX International was posted on 2026-02-06.
 
 ## Get Real-Time Alerts
 

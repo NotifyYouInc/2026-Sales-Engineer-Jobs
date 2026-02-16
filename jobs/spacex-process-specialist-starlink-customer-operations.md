@@ -1,16 +1,16 @@
-# Process Specialist (Starlink Customer Operations) at SpaceX
+# Process Specialist (Starlink Customer Operations)  at SpaceX
 
 | Field | Details |
 |-------|---------|
 | Company | [SpaceX](https://scoutify.ai/companies/spacex?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Texas, US |
+| Location | Redmond, Washington, United States |
 | Category | Customer Success |
-| Posted | 2026-02-04 |
-| Apply | [View on company site](https://boards.greenhouse.io/spacex/jobs/8401103002?gh_jid=8401103002) |
+| Posted | 2026-02-09 |
+| Apply | [View on company site](https://boards.greenhouse.io/spacex/jobs/8409486002?gh_jid=8409486002) |
 
 ## About This Role
 
-This customer success position at SpaceX was posted on 2026-02-04.
+This customer success position at SpaceX was posted on 2026-02-09.
 
 ## Get Real-Time Alerts
 

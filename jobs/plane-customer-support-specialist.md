@@ -1,16 +1,16 @@
-# Sales Support Specialist at Hitachi
+# Customer Support Specialist at Plane
 
 | Field | Details |
 |-------|---------|
-| Company | [Hitachi](https://scoutify.ai/companies/hitachi?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Chennai, Tamil Nadu, India |
+| Company | [Plane](https://scoutify.ai/companies/plane?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
+| Location | Hyderabad, Telangana, India |
 | Category | Customer Success |
 | Posted | 2026-02-09 |
-| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Chennai-Tamil-Nadu-India/Sales-Support-Specialist_R0119970) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/plane/fce9f7ec-1d24-4af2-8434-d4a627d5a91b) |
 
 ## About This Role
 
-This customer success position at Hitachi was posted on 2026-02-09.
+This customer success position at Plane was posted on 2026-02-09.
 
 ## Get Real-Time Alerts
 

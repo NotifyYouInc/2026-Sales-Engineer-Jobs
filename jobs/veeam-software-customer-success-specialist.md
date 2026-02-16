@@ -1,16 +1,16 @@
-# Sales Support Specialist at Hitachi
+# Customer Success Specialist  at Veeam Software
 
 | Field | Details |
 |-------|---------|
-| Company | [Hitachi](https://scoutify.ai/companies/hitachi?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Chennai, Tamil Nadu, India |
+| Company | [Veeam Software](https://scoutify.ai/companies/veeamsoftware?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
+| Location | Warsaw, Mazovia, Poland |
 | Category | Customer Success |
 | Posted | 2026-02-09 |
-| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Chennai-Tamil-Nadu-India/Sales-Support-Specialist_R0119970) |
+| Apply | [View on company site](https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4743848101) |
 
 ## About This Role
 
-This customer success position at Hitachi was posted on 2026-02-09.
+This customer success position at Veeam Software was posted on 2026-02-09.
 
 ## Get Real-Time Alerts
 

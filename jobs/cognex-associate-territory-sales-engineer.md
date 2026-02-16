@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cognex](https://scoutify.ai/companies/cognex?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Mexico |
+| Location | Chicago, Illinois, United States |
 | Category | Sales |
-| Posted | 2026-02-04 |
-| Apply | [View on company site](https://cognex.wd1.myworkdayjobs.com/External_Career_Site/job/Mexico---Field/Associate-Territory-Sales-Engineer_R0011669) |
+| Posted | 2026-02-06 |
+| Apply | [View on company site](https://cognex.wd1.myworkdayjobs.com/External_Career_Site/job/Chicago---Field/Associate-Territory-Sales-Engineer_R0011668-1) |
 
 ## About This Role
 
-This sales position at Cognex was posted on 2026-02-04.
+This sales position at Cognex was posted on 2026-02-06.
 
 ## Get Real-Time Alerts
 
