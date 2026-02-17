@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sysco](https://scoutify.ai/companies/sysco?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Seattle, Washington, United States |
+| Location | New Orleans, Louisiana, United States |
 | Category | Sales |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://sysco.wd5.myworkdayjobs.com/syscocareers/job/Sysco-Seattle---Burlington-Yard/Sales-Consultant---USBL---US_R236854-1) |
+| Posted | 2026-02-06 |
+| Apply | [View on company site](https://sysco.wd5.myworkdayjobs.com/syscocareers/job/Sysco-New-Orleans-Main-Office/Sales-Consultant---USBL---US_R236476) |
 
 ## About This Role
 
-This sales position at Sysco was posted on 2026-02-05.
+This sales position at Sysco was posted on 2026-02-06.
 
 ## Get Real-Time Alerts
 

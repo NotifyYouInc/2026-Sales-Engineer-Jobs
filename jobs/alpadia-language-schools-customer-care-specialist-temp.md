@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ALPADIA Language Schools](https://scoutify.ai/companies/alpadialanguageschools?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Milan, Lombardy, Italy |
+| Location | Italy |
 | Category | Customer Success |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AlpadiaLanguageSchoolsSA/744000107498280-customer-care-specialist-temp) |
+| Posted | 2026-02-06 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AlpadiaLanguageSchoolsSA/744000107787107-customer-care-specialist-temp) |
 
 ## About This Role
 
-This customer success position at ALPADIA Language Schools was posted on 2026-02-05.
+This customer success position at ALPADIA Language Schools was posted on 2026-02-06.
 
 ## Get Real-Time Alerts
 

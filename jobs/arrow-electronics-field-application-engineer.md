@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Arrow Electronics](https://scoutify.ai/companies/arrow-electronics?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Peabody, Massachusetts, United States |
+| Location | Michigan, US |
 | Category | Sales |
 | Posted | 2026-02-05 |
-| Apply | [View on company site](https://arrow.wd1.myworkdayjobs.com/ac/job/US-MA-Peabody-Massachusetts-Technology-Dr/Field-Application-Engineer_R240483-1) |
+| Apply | [View on company site](https://arrow.wd1.myworkdayjobs.com/ac/job/US-MI-Michigan-Remote-Employees/Field-Application-Engineer_R240211) |
 
 ## About This Role
 

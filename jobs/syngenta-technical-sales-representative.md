@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Syngenta](https://scoutify.ai/companies/syngenta?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Woodland, California, United States |
+| Location | Algeria |
 | Category | Sales |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SyngentaGroup/744000107552236-technical-sales-representative) |
+| Posted | 2026-02-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SyngentaGroup/744000108202073-technical-sales-representative) |
 
 ## About This Role
 
-This sales position at Syngenta was posted on 2026-02-05.
+This sales position at Syngenta was posted on 2026-02-09.
 
 ## Get Real-Time Alerts
 

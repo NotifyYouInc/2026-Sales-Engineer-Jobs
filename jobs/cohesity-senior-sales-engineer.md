@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cohesity](https://scoutify.ai/companies/cohesity?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Georgia, US |
+| Location | Ohio, US |
 | Category | Sales Engineer |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://cohesity.wd5.myworkdayjobs.com/Cohesity_Careers/job/Atlanta-Metro-Area---Georgia---USA-Remote/Senior-Sales-Engineer_R02586) |
+| Posted | 2026-02-06 |
+| Apply | [View on company site](https://cohesity.wd5.myworkdayjobs.com/Cohesity_Careers/job/USA---Ohio---Remote/Senior-Sales-Engineer_R02585-1) |
 
 ## About This Role
 
-This sales engineer position at Cohesity was posted on 2026-02-05.
+This sales engineer position at Cohesity was posted on 2026-02-06.
 
 ## Get Real-Time Alerts
 

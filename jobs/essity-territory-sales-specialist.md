@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Essity](https://scoutify.ai/companies/essity?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | 2 locations |
-| Category | Sales Engineer |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://essity.wd3.myworkdayjobs.com/job_opportunities/job/New-Orleans-LA/Territory-Sales-Specialist_Essity269613-2) |
+| Location | 3 locations |
+| Category | Sales |
+| Posted | 2026-02-06 |
+| Apply | [View on company site](https://essity.wd3.myworkdayjobs.com/job_opportunities/job/Peoria-IL/Territory-Sales-Specialist_Essity269408-1) |
 
 ## About This Role
 
-This sales engineer position at Essity was posted on 2026-02-05.
+This sales position at Essity was posted on 2026-02-06.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Visa International Service Association](https://scoutify.ai/companies/visainternationalserviceassociation?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Buenos Aires, Buenos Aires F.D., Argentina |
-| Category | Sales Engineer |
+| Category | Sales |
 | Posted | 2026-02-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Visa/744000107556330-sr-manager-sales-engineering) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Visa/744000107609664-sr-manager-sales-engineering) |
 
 ## About This Role
 
-This sales engineer position at Visa International Service Association was posted on 2026-02-05.
+This sales position at Visa International Service Association was posted on 2026-02-05.
 
 ## Get Real-Time Alerts
 

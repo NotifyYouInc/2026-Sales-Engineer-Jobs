@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Avnet](https://scoutify.ai/companies/avnet?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | 2 locations |
+| Location | Pune, Maharashtra, India |
 | Category | Software Engineer |
-| Posted | 2026-02-03 |
-| Apply | [View on company site](https://avnet.wd1.myworkdayjobs.com/external/job/Raleigh-North-Carolina-United-States-Of-America/Field-Application-Engineer_JR-021402) |
+| Posted | 2026-02-09 |
+| Apply | [View on company site](https://avnet.wd1.myworkdayjobs.com/external/job/Pune-India/Field-Application-Engineer_JR-021398) |
 
 ## About This Role
 
-This software engineer position at Avnet was posted on 2026-02-03.
+This software engineer position at Avnet was posted on 2026-02-09.
 
 ## Get Real-Time Alerts
 

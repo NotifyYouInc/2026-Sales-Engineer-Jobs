@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Motorola Solutions](https://scoutify.ai/companies/motorola-solutions?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Allen, Texas, United States |
+| Location | Chicago, Illinois, United States |
 | Category | Customer Success |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Allen-TX-TX139/Customer-Engagement-Specialist_R61585) |
+| Posted | 2026-02-09 |
+| Apply | [View on company site](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Chicago-IL/Customer-Engagement-Specialist_R61829) |
 
 ## About This Role
 
-This customer success position at Motorola Solutions was posted on 2026-02-05.
+This customer success position at Motorola Solutions was posted on 2026-02-09.
 
 ## Get Real-Time Alerts
 
