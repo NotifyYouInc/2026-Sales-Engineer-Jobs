@@ -1,16 +1,16 @@
-# Consultant, Territory Sales- Pharmacy Business Consultant at Cardinal Health
+# Consultant, Territory Sales - Pharmacy Business Consultant at Cardinal Health
 
 | Field | Details |
 |-------|---------|
 | Company | [Cardinal Health](https://scoutify.ai/companies/cardinal-health?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Cleveland, Ohio, United States |
+| Location | Indianapolis, Indiana, United States |
 | Category | Sales |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://cardinalhealth.wd1.myworkdayjobs.com/EXT/job/OH-Cleveland/Consultant--Territory-Sales--Pharmacy-Business-Consultant_20175066) |
+| Posted | 2026-02-10 |
+| Apply | [View on company site](https://cardinalhealth.wd1.myworkdayjobs.com/EXT/job/IN-Indiana-FIELD/Consultant--Territory-Sales---Pharmacy-Business-Consultant_20175168) |
 
 ## About This Role
 
-This sales position at Cardinal Health was posted on 2026-02-05.
+This sales position at Cardinal Health was posted on 2026-02-10.
 
 ## Get Real-Time Alerts
 

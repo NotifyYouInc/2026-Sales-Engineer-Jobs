@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Gcore](https://scoutify.ai/companies/gcore?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Serbia |
+| Location | Lithuania |
 | Category | Customer Success |
-| Posted | 2026-02-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Gcore/744000107683936-sales-operations-support-specialist) |
+| Posted | 2026-02-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Gcore/744000108443345-sales-operations-support-specialist) |
 
 ## About This Role
 
-This customer success position at Gcore was posted on 2026-02-06.
+This customer success position at Gcore was posted on 2026-02-10.
 
 ## Get Real-Time Alerts
 

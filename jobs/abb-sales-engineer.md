@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ABB](https://scoutify.ai/companies/abb?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Ankara, Ankara, Turkey |
+| Location | Taiwan |
 | Category | Sales |
-| Posted | 2026-02-06 |
-| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Ankara-Ankara-Turkey/Sales-Engineer_JR00024247) |
+| Posted | 2026-02-09 |
+| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Taipei-City-Taipei-City-Taiwan/Sales-Engineer_JR00012521) |
 
 ## About This Role
 
-This sales position at ABB was posted on 2026-02-06.
+This sales position at ABB was posted on 2026-02-09.
 
 ## Get Real-Time Alerts
 

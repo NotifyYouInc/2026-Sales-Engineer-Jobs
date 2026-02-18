@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Insperity](https://scoutify.ai/companies/insperity?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | San Diego, California, United States |
+| Location | Boston, Massachusetts, United States |
 | Category | Sales |
-| Posted | 2026-02-04 |
-| Apply | [View on company site](https://insperity.wd12.myworkdayjobs.com/NSP/job/San-Diego-CA/Outside-Sales-Consultant---Business-Performance-Advisor_JR101780) |
+| Posted | 2026-02-10 |
+| Apply | [View on company site](https://insperity.wd12.myworkdayjobs.com/NSP/job/Boston-MA/Outside-Sales-Consultant---Business-Performance-Advisor_JR102207) |
 
 ## About This Role
 
-This sales position at Insperity was posted on 2026-02-04.
+This sales position at Insperity was posted on 2026-02-10.
 
 ## Get Real-Time Alerts
 

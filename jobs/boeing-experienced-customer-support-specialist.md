@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Boeing](https://scoutify.ai/companies/boeing?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Wichita, Kansas, United States |
+| Location | Chandler, Arizona, United States |
 | Category | Customer Success |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Wichita-KS/Experienced-Customer-Support-Specialist_JR2026493921-1) |
+| Posted | 2026-02-10 |
+| Apply | [View on company site](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Chandler-AZ/Experienced-Customer-Support-Specialist_JR2026494951-1) |
 
 ## About This Role
 
-This customer success position at Boeing was posted on 2026-02-05.
+This customer success position at Boeing was posted on 2026-02-10.
 
 ## Get Real-Time Alerts
 

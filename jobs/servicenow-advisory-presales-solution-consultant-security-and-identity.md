@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [ServiceNow](https://scoutify.ai/companies/servicenow?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Amsterdam, North Holland, The Netherlands |
+| Location | Issy-les-Moulineaux, Île-de-France, France |
 | Category | Sales |
 | Posted | 2026-02-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000107756715-advisory-presales-solution-consultant-security-and-identity) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000107756699-advisory-presales-solution-consultant-security-and-identity) |
 
 ## About This Role
 

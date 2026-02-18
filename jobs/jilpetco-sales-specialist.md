@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Jilpetco](https://scoutify.ai/companies/jilpetco?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Selden, New York, United States |
-| Category | Sales |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://petco.wd1.myworkdayjobs.com/external/job/0738---Selden-NY/Sales-Specialist_R342852) |
+| Location | Mississippi, US |
+| Category | Sales Engineer |
+| Posted | 2026-02-07 |
+| Apply | [View on company site](https://petco.wd1.myworkdayjobs.com/external/job/1601---Southhaven-MS/Sales-Specialist_R343150) |
 
 ## About This Role
 
-This sales position at Jilpetco was posted on 2026-02-05.
+This sales engineer position at Jilpetco was posted on 2026-02-07.
 
 ## Get Real-Time Alerts
 

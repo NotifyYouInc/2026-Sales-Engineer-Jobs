@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Hitachi](https://scoutify.ai/companies/hitachi?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Birmingham, England, United Kingdom |
-| Category | Business Development |
-| Posted | 2026-02-06 |
-| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Remote---England-United-Kingdom/Sales-Specialist_R0105442) |
+| Location | Dublin, Leinster, Ireland |
+| Category | Sales |
+| Posted | 2026-02-09 |
+| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Dublin-Leinster-Ireland/Sales-Specialist_R0115943-1) |
 
 ## About This Role
 
-This business development position at Hitachi was posted on 2026-02-06.
+This sales position at Hitachi was posted on 2026-02-09.
 
 ## Get Real-Time Alerts
 

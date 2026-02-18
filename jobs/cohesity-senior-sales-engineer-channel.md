@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cohesity](https://scoutify.ai/companies/cohesity?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Illinois, US |
-| Category | Sales Engineer |
-| Posted | 2026-02-06 |
-| Apply | [View on company site](https://cohesity.wd5.myworkdayjobs.com/Cohesity_Careers/job/USA---Illinois---Remote/Senior-Sales-Engineer---Channel_R02601) |
+| Location | Austin, Texas, United States |
+| Category | Sales |
+| Posted | 2026-02-09 |
+| Apply | [View on company site](https://cohesity.wd5.myworkdayjobs.com/Cohesity_Careers/job/Austin-Metro-Area---Texas---USA-Remote/Senior-Sales-Engineer---Channel_R02600) |
 
 ## About This Role
 
-This sales engineer position at Cohesity was posted on 2026-02-06.
+This sales position at Cohesity was posted on 2026-02-09.
 
 ## Get Real-Time Alerts
 

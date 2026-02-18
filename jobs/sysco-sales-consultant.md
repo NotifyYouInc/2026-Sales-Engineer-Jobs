@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sysco](https://scoutify.ai/companies/sysco?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Ocoee, Florida, United States |
+| Location | Boca Raton, Florida, United States |
 | Category | Sales |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://sysco.wd5.myworkdayjobs.com/syscocareers/job/Sysco-Central-FL-----Ocoee/Sales-Consultant_R237365) |
+| Posted | 2026-02-10 |
+| Apply | [View on company site](https://sysco.wd5.myworkdayjobs.com/syscocareers/job/Freshpoint-South-Florida/Sales-Consultant_R237533) |
 
 ## About This Role
 
-This sales position at Sysco was posted on 2026-02-05.
+This sales position at Sysco was posted on 2026-02-10.
 
 ## Get Real-Time Alerts
 

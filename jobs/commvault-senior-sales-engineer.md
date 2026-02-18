@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Commvault](https://scoutify.ai/companies/commvault?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Jakarta, Jakarta, Indonesia |
-| Category | Sales |
-| Posted | 2026-02-06 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/commvault/jobs/5108136008) |
+| Location | Mumbai, Maharashtra, India |
+| Category | Sales Engineer |
+| Posted | 2026-02-09 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/commvault/jobs/5018902008) |
 
 ## About This Role
 
-This sales position at Commvault was posted on 2026-02-06.
+This sales engineer position at Commvault was posted on 2026-02-09.
 
 ## Get Real-Time Alerts
 

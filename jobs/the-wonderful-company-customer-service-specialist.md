@@ -5,12 +5,12 @@
 | Company | [The Wonderful Company](https://scoutify.ai/companies/thewonderfulcompany?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | United States |
 | Category | Customer Success |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/TheWonderfulCompany/744000107596955-customer-service-specialist) |
+| Posted | 2026-02-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/TheWonderfulCompany/744000108638625-customer-service-specialist) |
 
 ## About This Role
 
-This customer success position at The Wonderful Company was posted on 2026-02-05.
+This customer success position at The Wonderful Company was posted on 2026-02-10.
 
 ## Get Real-Time Alerts
 
