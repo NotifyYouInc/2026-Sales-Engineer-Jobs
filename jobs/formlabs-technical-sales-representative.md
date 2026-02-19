@@ -1,16 +1,16 @@
-# Technical Sales Representative at Formlabs
+# Technical Sales Representative  at Formlabs
 
 | Field | Details |
 |-------|---------|
 | Company | [Formlabs](https://scoutify.ai/companies/formlabs?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Somerville, Massachusetts, United States |
+| Location | 2 locations |
 | Category | Sales |
-| Posted | 2026-02-06 |
-| Apply | [View on company site](https://careers.formlabs.com/job/7561012/apply/?gh_jid=7561012) |
+| Posted | 2026-02-10 |
+| Apply | [View on company site](https://careers.formlabs.com/job/7595229/apply/?gh_jid=7595229) |
 
 ## About This Role
 
-This sales position at Formlabs was posted on 2026-02-06.
+This sales position at Formlabs was posted on 2026-02-10.
 
 ## Get Real-Time Alerts
 

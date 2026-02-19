@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Formlabs](https://scoutify.ai/companies/formlabs?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Somerville, Massachusetts, United States |
+| Location | Milwaukee, Wisconsin, United States |
 | Category | Sales |
-| Posted | 2026-02-06 |
-| Apply | [View on company site](https://careers.formlabs.com/job/7595218/apply/?gh_jid=7595218) |
+| Posted | 2026-02-10 |
+| Apply | [View on company site](https://careers.formlabs.com/job/7602189/apply/?gh_jid=7602189) |
 
 ## About This Role
 
-This sales position at Formlabs was posted on 2026-02-06.
+This sales position at Formlabs was posted on 2026-02-10.
 
 ## Get Real-Time Alerts
 

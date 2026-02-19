@@ -1,16 +1,16 @@
-# Territory Sales Representative / Restaurant Specialist -Burlington, VT at SpotOn: Sales (Career Site)
+# Territory Sales Representative / Restaurant Specialist - Burlington, VT at SpotOn: Sales (Career Site)
 
 | Field | Details |
 |-------|---------|
 | Company | [SpotOn: Sales (Career Site)](https://scoutify.ai/companies/spoton-sales-career-site?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Burlington, North Carolina, United States |
 | Category | Sales |
-| Posted | 2026-02-06 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/regionalspotonsales/jobs/7622307003) |
+| Posted | 2026-02-09 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/regionalspotonsales/jobs/7625277003) |
 
 ## About This Role
 
-This sales position at SpotOn: Sales (Career Site) was posted on 2026-02-06.
+This sales position at SpotOn: Sales (Career Site) was posted on 2026-02-09.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Sales Specialist - Pathology imaging at Danaher
+# Sales Specialist - Pathology Imaging at Danaher
 
 | Field | Details |
 |-------|---------|
 | Company | [Danaher](https://scoutify.ai/companies/danaher?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Detroit, Michigan, United States |
+| Location | Boston, Massachusetts, United States |
 | Category | Sales |
-| Posted | 2026-02-06 |
-| Apply | [View on company site](https://danaher.wd1.myworkdayjobs.com/DanaherJobs/job/Detroit-Michigan-United-States/Sales-Specialist---Pathology-imaging_R1304931) |
+| Posted | 2026-02-09 |
+| Apply | [View on company site](https://danaher.wd1.myworkdayjobs.com/DanaherJobs/job/Boston-Massachusetts-United-States/Sales-Specialist---Pathology-Imaging_R1304879) |
 
 ## About This Role
 
-This sales position at Danaher was posted on 2026-02-06.
+This sales position at Danaher was posted on 2026-02-09.
 
 ## Get Real-Time Alerts
 

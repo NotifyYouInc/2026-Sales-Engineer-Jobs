@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wabtec](https://scoutify.ai/companies/wabtec?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Paris, Île-de-France, France |
-| Category | Sales Engineer |
-| Posted | 2026-02-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wabtec/3743990011506426-sales-specialist-mf-rvi) |
+| Location | Lyon, Rhône-Alpes, France |
+| Category | Sales |
+| Posted | 2026-02-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Wabtec/3743990011629821-sales-specialist-mf-rvi) |
 
 ## About This Role
 
-This sales engineer position at Wabtec was posted on 2026-02-04.
+This sales position at Wabtec was posted on 2026-02-11.
 
 ## Get Real-Time Alerts
 

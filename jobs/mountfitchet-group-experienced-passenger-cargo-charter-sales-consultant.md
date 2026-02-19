@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mountfitchet Group](https://scoutify.ai/companies/mountfitchetgroup?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Poland |
-| Category | Business Development |
-| Posted | 2026-02-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/MountfitchetGroup/744000107784195-experienced-passenger-cargo-charter-sales-consultant) |
+| Location | Paris, Île-de-France, France |
+| Category | Sales |
+| Posted | 2026-02-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/MountfitchetGroup/744000108188695-experienced-passenger-cargo-charter-sales-consultant) |
 
 ## About This Role
 
-This business development position at Mountfitchet Group was posted on 2026-02-06.
+This sales position at Mountfitchet Group was posted on 2026-02-09.
 
 ## Get Real-Time Alerts
 
