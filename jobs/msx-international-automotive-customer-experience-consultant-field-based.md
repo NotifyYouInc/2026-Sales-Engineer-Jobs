@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [MSX International](https://scoutify.ai/companies/msxinternational?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Perugia, Umbria, Italy |
+| Location | Italy |
 | Category | Customer Success |
-| Posted | 2026-02-07 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/MSXInternational/3743990011575546-automotive-customer-experience-consultant-field-based) |
+| Posted | 2026-02-12 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/MSXInternational/3743990011658286-automotive-customer-experience-consultant-field-based) |
 
 ## About This Role
 
-This customer success position at MSX International was posted on 2026-02-07.
+This customer success position at MSX International was posted on 2026-02-12.
 
 ## Get Real-Time Alerts
 

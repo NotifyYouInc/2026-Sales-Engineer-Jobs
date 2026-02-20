@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sysco](https://scoutify.ai/companies/sysco?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Not specified |
+| Location | Los Angeles, California, United States |
 | Category | Sales |
-| Posted | 2026-02-04 |
-| Apply | [View on company site](https://sysco.wd5.myworkdayjobs.com/syscocareers/job/Sysco-Boston/Mandarin-Sales-Consultant_R237273) |
+| Posted | 2026-02-12 |
+| Apply | [View on company site](https://sysco.wd5.myworkdayjobs.com/syscocareers/job/Sysco-Los-Angeles-----Home-Office/Mandarin-Sales-Consultant_R238321) |
 
 ## About This Role
 
-This sales position at Sysco was posted on 2026-02-04.
+This sales position at Sysco was posted on 2026-02-12.
 
 ## Get Real-Time Alerts
 

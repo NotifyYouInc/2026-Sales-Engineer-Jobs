@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | 2 locations |
+| Location | Mumbai, Maharashtra, India |
 | Category | Sales |
-| Posted | 2026-02-04 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=91089) |
+| Posted | 2026-02-12 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=92560) |
 
 ## About This Role
 
-This sales position at IBM was posted on 2026-02-04.
+This sales position at IBM was posted on 2026-02-12.
 
 ## Get Real-Time Alerts
 

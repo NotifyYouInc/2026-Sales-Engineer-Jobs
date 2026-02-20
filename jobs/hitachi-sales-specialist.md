@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Hitachi](https://scoutify.ai/companies/hitachi?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Dublin, Leinster, Ireland |
+| Location | 2 locations |
 | Category | Sales |
-| Posted | 2026-02-09 |
-| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Dublin-Leinster-Ireland/Sales-Specialist_R0115943-1) |
+| Posted | 2026-02-10 |
+| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Ballerup-Capital-Denmark/Sales-Specialist_R0119239) |
 
 ## About This Role
 
-This sales position at Hitachi was posted on 2026-02-09.
+This sales position at Hitachi was posted on 2026-02-10.
 
 ## Get Real-Time Alerts
 

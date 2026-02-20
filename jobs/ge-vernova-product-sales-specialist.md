@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [GE Vernova](https://scoutify.ai/companies/ge-vernova?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Not specified |
-| Category | Business Development |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite/job/Chicago/Product-Sales-Specialist_R5030975-3) |
+| Location | São Paulo, São Paulo, Brazil |
+| Category | Sales |
+| Posted | 2026-02-12 |
+| Apply | [View on company site](https://gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite/job/Sao-Paulo/Product-Sales-Specialist_R5032522-2) |
 
 ## About This Role
 
-This business development position at GE Vernova was posted on 2026-02-05.
+This sales position at GE Vernova was posted on 2026-02-12.
 
 ## Get Real-Time Alerts
 

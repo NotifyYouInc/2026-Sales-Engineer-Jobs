@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Lightspeed Commerce](https://scoutify.ai/companies/lightspeed-commerce?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Brussels, Brussels Capital, Belgium |
-| Category | Customer Success |
-| Posted | 2026-02-09 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/lightspeedhq/jobs/7597853) |
+| Location | Belgium |
+| Category | Project Manager |
+| Posted | 2026-02-10 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/lightspeedhq/jobs/7601727) |
 
 ## About This Role
 
-This customer success position at Lightspeed Commerce was posted on 2026-02-09.
+This project manager position at Lightspeed Commerce was posted on 2026-02-10.
 
 ## Get Real-Time Alerts
 

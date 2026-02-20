@@ -5,12 +5,12 @@
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Tokyo, Tokyo, Japan |
 | Category | Business Development |
-| Posted | 2026-02-09 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/jobs/results/73470546427159238-business-development-consultant-new-business-sales-english-japanese?sort_by=date&page=1) |
+| Posted | 2026-02-10 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/jobs/results/80947792431719110-business-development-consultant-new-business-sales-english-japanese?sort_by=date&page=1) |
 
 ## About This Role
 
-This business development position at Google was posted on 2026-02-09.
+This business development position at Google was posted on 2026-02-10.
 
 ## Get Real-Time Alerts
 
