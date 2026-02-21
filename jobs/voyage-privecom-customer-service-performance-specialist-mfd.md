@@ -5,12 +5,12 @@
 | Company | [voyage prive.com](https://scoutify.ai/companies/voyageprivecom?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Aix-en-Provence, Provence-Alpes-Côte d'Azur, France |
 | Category | Customer Success |
-| Posted | 2026-02-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/VoyagePriv/744000107778150-customer-service-performance-specialist-mfd) |
+| Posted | 2026-02-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/VoyagePriv/744000109251020-customer-service-performance-specialist-mfd) |
 
 ## About This Role
 
-This customer success position at voyage prive.com was posted on 2026-02-06.
+This customer success position at voyage prive.com was posted on 2026-02-13.
 
 ## Get Real-Time Alerts
 

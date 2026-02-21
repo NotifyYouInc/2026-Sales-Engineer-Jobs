@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Fivetran](https://scoutify.ai/companies/fivetran?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | United States |
+| Location | New York City, New York, United States |
 | Category | Sales Engineer |
-| Posted | 2026-02-10 |
-| Apply | [View on company site](https://www.fivetran.com/careers/job?gh_jid=7627018003) |
+| Posted | 2026-02-11 |
+| Apply | [View on company site](https://www.fivetran.com/careers/job?gh_jid=7627498003) |
 
 ## About This Role
 
-This sales engineer position at Fivetran was posted on 2026-02-10.
+This sales engineer position at Fivetran was posted on 2026-02-11.
 
 ## Get Real-Time Alerts
 

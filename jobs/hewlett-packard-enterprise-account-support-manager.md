@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Hewlett Packard Enterprise](https://scoutify.ai/companies/hewlett-packard-enterprise?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Mexico City, Mexico City, Mexico |
+| Location | Tunisia |
 | Category | Customer Success |
-| Posted | 2026-02-10 |
-| Apply | [View on company site](https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/Mexico-City-Distrito-Federal/Account-Support-Manager_1201073) |
+| Posted | 2026-02-11 |
+| Apply | [View on company site](https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/Ariana-Ariana-Tunisia/Account-Support-Manager_1201074) |
 
 ## About This Role
 
-This customer success position at Hewlett Packard Enterprise was posted on 2026-02-10.
+This customer success position at Hewlett Packard Enterprise was posted on 2026-02-11.
 
 ## Get Real-Time Alerts
 

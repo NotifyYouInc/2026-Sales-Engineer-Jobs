@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Insperity](https://scoutify.ai/companies/insperity?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Boston, Massachusetts, United States |
+| Location | Bloomington, Minnesota, United States |
 | Category | Sales |
-| Posted | 2026-02-10 |
-| Apply | [View on company site](https://insperity.wd12.myworkdayjobs.com/NSP/job/Boston-MA/Outside-Sales-Consultant---Business-Performance-Advisor_JR102207) |
+| Posted | 2026-02-12 |
+| Apply | [View on company site](https://insperity.wd12.myworkdayjobs.com/NSP/job/Bloomington-MN/Outside-Sales-Consultant---Business-Performance-Advisor_JR102229) |
 
 ## About This Role
 
-This sales position at Insperity was posted on 2026-02-10.
+This sales position at Insperity was posted on 2026-02-12.
 
 ## Get Real-Time Alerts
 

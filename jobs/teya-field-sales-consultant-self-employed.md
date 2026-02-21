@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Teya](https://scoutify.ai/companies/teya?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Plymouth, England, United Kingdom |
+| Location | Blackpool, England, United Kingdom |
 | Category | Sales |
-| Posted | 2026-02-10 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/teya/966b213a-7669-40bd-b3c8-cf2a7324ab9d) |
+| Posted | 2026-02-11 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/teya/d3b2e709-eedf-40b4-8475-649038411965) |
 
 ## About This Role
 
-This sales position at Teya was posted on 2026-02-10.
+This sales position at Teya was posted on 2026-02-11.
 
 ## Get Real-Time Alerts
 
