@@ -1,12 +1,12 @@
-# Sales Consultant at Sysco
+# Sales Consultant-Ft Myers at Sysco
 
 | Field | Details |
 |-------|---------|
 | Company | [Sysco](https://scoutify.ai/companies/sysco?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Connecticut, US |
+| Location | Florida, US |
 | Category | Sales |
 | Posted | 2026-02-14 |
-| Apply | [View on company site](https://sysco.wd5.myworkdayjobs.com/syscocareers/job/Freshpoint-Connecticut/Sales-Consultant_R238678) |
+| Apply | [View on company site](https://sysco.wd5.myworkdayjobs.com/syscocareers/job/Sysco-West-Coast-Florida/Sales-Consultant---Ft-Meyers--FL_R238038) |
 
 ## About This Role
 

@@ -1,16 +1,16 @@
-# Sales Specialist at Jilpetco
+# Mortgage Retail Sales Consultant at Wells Fargo
 
 | Field | Details |
 |-------|---------|
-| Company | [Jilpetco](https://scoutify.ai/companies/jilpetco?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Dover, Delaware, United States |
+| Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
+| Location | 2 locations |
 | Category | Sales Engineer |
 | Posted | 2026-02-14 |
-| Apply | [View on company site](https://petco.wd1.myworkdayjobs.com/external/job/3716---Dover-NH/Sales-Specialist_R344137) |
+| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/PORTLAND-OR/Mortgage-Retail-Sales-Consultant_R-522494) |
 
 ## About This Role
 
-This sales engineer position at Jilpetco was posted on 2026-02-14.
+This sales engineer position at Wells Fargo was posted on 2026-02-14.
 
 ## Get Real-Time Alerts
 

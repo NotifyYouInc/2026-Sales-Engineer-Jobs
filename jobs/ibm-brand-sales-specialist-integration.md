@@ -1,16 +1,16 @@
-# Sales Consultant at Sysco
+# Brand Sales Specialist-Integration at IBM
 
 | Field | Details |
 |-------|---------|
-| Company | [Sysco](https://scoutify.ai/companies/sysco?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Connecticut, US |
-| Category | Sales |
+| Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
+| Location | Not specified |
+| Category | Sales Engineer |
 | Posted | 2026-02-14 |
-| Apply | [View on company site](https://sysco.wd5.myworkdayjobs.com/syscocareers/job/Freshpoint-Connecticut/Sales-Consultant_R238678) |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=92506) |
 
 ## About This Role
 
-This sales position at Sysco was posted on 2026-02-14.
+This sales engineer position at IBM was posted on 2026-02-14.
 
 ## Get Real-Time Alerts
 

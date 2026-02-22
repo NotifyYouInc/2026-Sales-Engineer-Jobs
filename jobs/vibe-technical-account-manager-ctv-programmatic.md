@@ -1,16 +1,16 @@
-# Sales Consultant at Sysco
+# Technical Account Manager, CTV & Programmatic at Vibe
 
 | Field | Details |
 |-------|---------|
-| Company | [Sysco](https://scoutify.ai/companies/sysco?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Connecticut, US |
-| Category | Sales |
+| Company | [Vibe](https://scoutify.ai/companies/vibe?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
+| Location | Paris, Île-de-France, France |
+| Category | Customer Success |
 | Posted | 2026-02-14 |
-| Apply | [View on company site](https://sysco.wd5.myworkdayjobs.com/syscocareers/job/Freshpoint-Connecticut/Sales-Consultant_R238678) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/vibe/ff3a97cc-1f62-48b5-846f-d1be6e832284) |
 
 ## About This Role
 
-This sales position at Sysco was posted on 2026-02-14.
+This customer success position at Vibe was posted on 2026-02-14.
 
 ## Get Real-Time Alerts
 

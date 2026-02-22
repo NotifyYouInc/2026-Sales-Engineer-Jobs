@@ -1,16 +1,16 @@
-# Sales Consultant at Sysco
+# ZCX Sales Specialist at Zoom
 
 | Field | Details |
 |-------|---------|
-| Company | [Sysco](https://scoutify.ai/companies/sysco?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Connecticut, US |
+| Company | [Zoom](https://scoutify.ai/companies/zoom?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
+| Location | Thailand |
 | Category | Sales |
-| Posted | 2026-02-14 |
-| Apply | [View on company site](https://sysco.wd5.myworkdayjobs.com/syscocareers/job/Freshpoint-Connecticut/Sales-Consultant_R238678) |
+| Posted | 2026-02-15 |
+| Apply | [View on company site](https://zoom.wd5.myworkdayjobs.com/zoom/job/Remote-TH/ZCX-Sales-Specialist_R18014-2) |
 
 ## About This Role
 
-This sales position at Sysco was posted on 2026-02-14.
+This sales position at Zoom was posted on 2026-02-15.
 
 ## Get Real-Time Alerts
 

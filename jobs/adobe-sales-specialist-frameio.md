@@ -1,16 +1,16 @@
-# Sales Consultant at Sysco
+# Sales Specialist - Frame.io at Adobe
 
 | Field | Details |
 |-------|---------|
-| Company | [Sysco](https://scoutify.ai/companies/sysco?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Connecticut, US |
+| Company | [Adobe](https://scoutify.ai/companies/adobe-inc?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
+| Location | 4 locations |
 | Category | Sales |
 | Posted | 2026-02-14 |
-| Apply | [View on company site](https://sysco.wd5.myworkdayjobs.com/syscocareers/job/Freshpoint-Connecticut/Sales-Consultant_R238678) |
+| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Seattle/Sales-Sepecialist---Frameio_R164911) |
 
 ## About This Role
 
-This sales position at Sysco was posted on 2026-02-14.
+This sales position at Adobe was posted on 2026-02-14.
 
 ## Get Real-Time Alerts
 
