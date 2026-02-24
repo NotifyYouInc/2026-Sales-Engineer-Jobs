@@ -1,16 +1,16 @@
-# Sales Specialist at ABB
+# Sales Specialist Contact Center (Latam) at Zendesk
 
 | Field | Details |
 |-------|---------|
-| Company | [ABB](https://scoutify.ai/companies/abb?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Buenos Aires, Buenos Aires F.D., Argentina |
+| Company | [Zendesk](https://scoutify.ai/companies/zendesk?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
+| Location | Mexico City, Mexico City, Mexico |
 | Category | Sales |
 | Posted | 2026-02-16 |
-| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Buenos-Aires-Capital-Federal-Argentina/Sales-Specialist_JR00023740) |
+| Apply | [View on company site](https://zendesk.wd1.myworkdayjobs.com/zendesk/job/Mexico-City-Mexico/Sales-Specialist-Contact-Center--Latam-_R34039) |
 
 ## About This Role
 
-This sales position at ABB was posted on 2026-02-16.
+This sales position at Zendesk was posted on 2026-02-16.
 
 ## Get Real-Time Alerts
 

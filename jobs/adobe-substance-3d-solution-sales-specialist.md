@@ -1,16 +1,16 @@
-# Sales Specialist at ABB
+# Substance 3D Solution Sales Specialist at Adobe
 
 | Field | Details |
 |-------|---------|
-| Company | [ABB](https://scoutify.ai/companies/abb?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Buenos Aires, Buenos Aires F.D., Argentina |
+| Company | [Adobe](https://scoutify.ai/companies/adobe-inc?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
+| Location | 2 locations |
 | Category | Sales |
 | Posted | 2026-02-16 |
-| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Buenos-Aires-Capital-Federal-Argentina/Sales-Specialist_JR00023740) |
+| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Shenzhen/Substance-3D-Solution-Sales-Specialist_R165569) |
 
 ## About This Role
 
-This sales position at ABB was posted on 2026-02-16.
+This sales position at Adobe was posted on 2026-02-16.
 
 ## Get Real-Time Alerts
 

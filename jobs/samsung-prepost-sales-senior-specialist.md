@@ -1,16 +1,16 @@
-# Sales Specialist at ABB
+# Pre/Post Sales Senior Specialist at Samsung
 
 | Field | Details |
 |-------|---------|
-| Company | [ABB](https://scoutify.ai/companies/abb?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Buenos Aires, Buenos Aires F.D., Argentina |
+| Company | [Samsung](https://scoutify.ai/companies/samsung?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
+| Location | Cairo, Cairo, Egypt |
 | Category | Sales |
 | Posted | 2026-02-16 |
-| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Buenos-Aires-Capital-Federal-Argentina/Sales-Specialist_JR00023740) |
+| Apply | [View on company site](https://sec.wd3.myworkdayjobs.com/Samsung_Careers/job/Building-13A-District-5-New-Katameya-Cairo-Egypt/Pre-Post-Sales-Senior-Specialist_R114391) |
 
 ## About This Role
 
-This sales position at ABB was posted on 2026-02-16.
+This sales position at Samsung was posted on 2026-02-16.
 
 ## Get Real-Time Alerts
 

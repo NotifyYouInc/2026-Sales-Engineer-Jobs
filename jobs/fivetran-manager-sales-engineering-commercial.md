@@ -1,16 +1,16 @@
-# Sales Engineer at Flowserve
+# Manager, Sales Engineering Commercial at Fivetran
 
 | Field | Details |
 |-------|---------|
-| Company | [Flowserve](https://scoutify.ai/companies/flowserve?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Selangor, MY |
+| Company | [Fivetran](https://scoutify.ai/companies/fivetran?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
+| Location | Oakland, California, United States |
 | Category | Sales Engineer |
 | Posted | 2026-02-16 |
-| Apply | [View on company site](https://flowserve.wd1.myworkdayjobs.com/applied/job/Selangor-Darul-Ehsan-Malaysia/Sales-Engineer_R-18027) |
+| Apply | [View on company site](https://www.fivetran.com/careers/job?gh_jid=7632675003) |
 
 ## About This Role
 
-This sales engineer position at Flowserve was posted on 2026-02-16.
+This sales engineer position at Fivetran was posted on 2026-02-16.
 
 ## Get Real-Time Alerts
 

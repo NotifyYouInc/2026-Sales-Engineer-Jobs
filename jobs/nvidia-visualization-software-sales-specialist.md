@@ -1,16 +1,16 @@
-# Sales Specialist at ABB
+# Visualization Software Sales Specialist at Nvidia
 
 | Field | Details |
 |-------|---------|
-| Company | [ABB](https://scoutify.ai/companies/abb?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Buenos Aires, Buenos Aires F.D., Argentina |
+| Company | [Nvidia](https://scoutify.ai/companies/nvidia?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
+| Location | Reading, England, United Kingdom |
 | Category | Sales |
 | Posted | 2026-02-16 |
-| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Buenos-Aires-Capital-Federal-Argentina/Sales-Specialist_JR00023740) |
+| Apply | [View on company site](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/UK-Remote/Visualization-Software-Sales-Specialist_JR2009034) |
 
 ## About This Role
 
-This sales position at ABB was posted on 2026-02-16.
+This sales position at Nvidia was posted on 2026-02-16.
 
 ## Get Real-Time Alerts
 

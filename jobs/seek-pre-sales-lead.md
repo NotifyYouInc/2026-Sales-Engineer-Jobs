@@ -5,12 +5,12 @@
 | Company | [SEEK](https://scoutify.ai/companies/seek?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Philippines |
 | Category | Sales |
-| Posted | 2026-02-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SEEK/744000108737385-pre-sales-lead) |
+| Posted | 2026-02-12 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SEEK/744000108920176-pre-sales-lead) |
 
 ## About This Role
 
-This sales position at SEEK was posted on 2026-02-11.
+This sales position at SEEK was posted on 2026-02-12.
 
 ## Get Real-Time Alerts
 

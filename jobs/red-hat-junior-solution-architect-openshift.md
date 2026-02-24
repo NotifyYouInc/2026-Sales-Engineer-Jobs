@@ -1,16 +1,16 @@
-# Junior Technical Account Manager at Red Hat
+# Junior Solution Architect - Openshift at Red Hat
 
 | Field | Details |
 |-------|---------|
 | Company | [Red Hat](https://scoutify.ai/companies/red-hat?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Canberra, Australian Capital Territory, Australia |
-| Category | Customer Success |
+| Location | Sydney, New South Wales, Australia |
+| Category | Technical & Solutions Architect |
 | Posted | 2026-02-16 |
-| Apply | [View on company site](https://redhat.wd5.myworkdayjobs.com/Jobs/job/Canberra/Junior-Technical-Account-Manager_R-054532) |
+| Apply | [View on company site](https://redhat.wd5.myworkdayjobs.com/Jobs/job/Sydney/Junior-Solution-Architect---Openshift_R-054530) |
 
 ## About This Role
 
-This customer success position at Red Hat was posted on 2026-02-16.
+This technical & solutions architect position at Red Hat was posted on 2026-02-16.
 
 ## Get Real-Time Alerts
 

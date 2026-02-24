@@ -1,16 +1,16 @@
-# Junior Technical Account Manager at Red Hat
+# Chat Customer Service Specialist at Citigroup
 
 | Field | Details |
 |-------|---------|
-| Company | [Red Hat](https://scoutify.ai/companies/red-hat?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Canberra, Australian Capital Territory, Australia |
+| Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
+| Location | Pune, Maharashtra, India |
 | Category | Customer Success |
 | Posted | 2026-02-16 |
-| Apply | [View on company site](https://redhat.wd5.myworkdayjobs.com/Jobs/job/Canberra/Junior-Technical-Account-Manager_R-054532) |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Pune-Maharashtra-India/Chat-Customer-Service-Specialist_25919272) |
 
 ## About This Role
 
-This customer success position at Red Hat was posted on 2026-02-16.
+This customer success position at Citigroup was posted on 2026-02-16.
 
 ## Get Real-Time Alerts
 

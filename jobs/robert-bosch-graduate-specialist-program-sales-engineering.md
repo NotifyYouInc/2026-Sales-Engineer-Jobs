@@ -1,16 +1,16 @@
-# Sales Specialist at ABB
+# Graduate Specialist Program- Sales Engineering at Robert Bosch
 
 | Field | Details |
 |-------|---------|
-| Company | [ABB](https://scoutify.ai/companies/abb?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Buenos Aires, Buenos Aires F.D., Argentina |
+| Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
+| Location | United States |
 | Category | Sales |
 | Posted | 2026-02-16 |
-| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Buenos-Aires-Capital-Federal-Argentina/Sales-Specialist_JR00023740) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000109578425-graduate-specialist-program-sales-engineering) |
 
 ## About This Role
 
-This sales position at ABB was posted on 2026-02-16.
+This sales position at Robert Bosch was posted on 2026-02-16.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Sales Engineer at Flowserve
+# Senior Sales Engineer - UK North at Arctic Wolf
 
 | Field | Details |
 |-------|---------|
-| Company | [Flowserve](https://scoutify.ai/companies/flowserve?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Selangor, MY |
+| Company | [Arctic Wolf](https://scoutify.ai/companies/arcticwolf?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
+| Location | United Kingdom |
 | Category | Sales Engineer |
 | Posted | 2026-02-16 |
-| Apply | [View on company site](https://flowserve.wd1.myworkdayjobs.com/applied/job/Selangor-Darul-Ehsan-Malaysia/Sales-Engineer_R-18027) |
+| Apply | [View on company site](https://arcticwolf.wd1.myworkdayjobs.com/External/job/Remote-United-Kingdom/Senior-Sales-Engineer---UK-North_R26_195) |
 
 ## About This Role
 
-This sales engineer position at Flowserve was posted on 2026-02-16.
+This sales engineer position at Arctic Wolf was posted on 2026-02-16.
 
 ## Get Real-Time Alerts
 

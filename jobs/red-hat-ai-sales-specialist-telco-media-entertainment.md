@@ -1,16 +1,16 @@
-# Junior Technical Account Manager at Red Hat
+# AI Sales Specialist - Telco, Media & Entertainment at Red Hat
 
 | Field | Details |
 |-------|---------|
 | Company | [Red Hat](https://scoutify.ai/companies/red-hat?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Canberra, Australian Capital Territory, Australia |
-| Category | Customer Success |
-| Posted | 2026-02-16 |
-| Apply | [View on company site](https://redhat.wd5.myworkdayjobs.com/Jobs/job/Canberra/Junior-Technical-Account-Manager_R-054532) |
+| Location | Toronto, Ontario, Canada |
+| Category | Sales Engineer |
+| Posted | 2026-02-17 |
+| Apply | [View on company site](https://redhat.wd5.myworkdayjobs.com/Jobs/job/Toronto---MSO/AI-Sales-Specialist---Telco--Media---Entertainment_R-053893-1) |
 
 ## About This Role
 
-This customer success position at Red Hat was posted on 2026-02-16.
+This sales engineer position at Red Hat was posted on 2026-02-17.
 
 ## Get Real-Time Alerts
 

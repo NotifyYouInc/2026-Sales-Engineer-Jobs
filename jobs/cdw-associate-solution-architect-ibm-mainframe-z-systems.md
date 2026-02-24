@@ -1,16 +1,16 @@
-# CX AI Sales Specialist at Zoom
+# Associate Solution Architect - IBM Mainframe, Z Systems at CDW
 
 | Field | Details |
 |-------|---------|
-| Company | [Zoom](https://scoutify.ai/companies/zoom?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
+| Company | [CDW](https://scoutify.ai/companies/cdw?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-02-12 |
-| Apply | [View on company site](https://zoom.wd5.myworkdayjobs.com/zoom/job/Remote--US/CX-AI-Sales-Specialist_R18510-1) |
+| Posted | 2026-02-16 |
+| Apply | [View on company site](https://cdw.wd5.myworkdayjobs.com/careers/job/Remote--USA/Associate-Solution-Architect---IBM-Mainframe--Z-Systems_R26_00000865-1) |
 
 ## About This Role
 
-This technical & solutions architect position at Zoom was posted on 2026-02-12.
+This technical & solutions architect position at CDW was posted on 2026-02-16.
 
 ## Get Real-Time Alerts
 

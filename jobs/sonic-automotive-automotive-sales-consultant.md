@@ -1,16 +1,16 @@
-# Sales Engineer at Flowserve
+# Automotive Sales Consultant at Sonic Automotive
 
 | Field | Details |
 |-------|---------|
-| Company | [Flowserve](https://scoutify.ai/companies/flowserve?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Selangor, MY |
+| Company | [Sonic Automotive](https://scoutify.ai/companies/sonicautomotive?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
+| Location | Centennial, Colorado, United States |
 | Category | Sales Engineer |
 | Posted | 2026-02-16 |
-| Apply | [View on company site](https://flowserve.wd1.myworkdayjobs.com/applied/job/Selangor-Darul-Ehsan-Malaysia/Sales-Engineer_R-18027) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SonicAutomotive/744000109582545-automotive-sales-consultant) |
 
 ## About This Role
 
-This sales engineer position at Flowserve was posted on 2026-02-16.
+This sales engineer position at Sonic Automotive was posted on 2026-02-16.
 
 ## Get Real-Time Alerts
 
