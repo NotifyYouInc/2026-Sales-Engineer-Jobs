@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ABB](https://scoutify.ai/companies/abb?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Istanbul, Istanbul, Turkey |
-| Category | Sales |
-| Posted | 2026-02-06 |
-| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Istanbul-stanbul-Trkiye/Service-Sales-Engineer_JR00023639) |
+| Location | Jakarta, Jakarta, Indonesia |
+| Category | Account Manager |
+| Posted | 2026-02-18 |
+| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Jakarta-Jakarta-Indonesia/Service-Sales-Engineer_JR00022523) |
 
 ## About This Role
 
-This sales position at ABB was posted on 2026-02-06.
+This account manager position at ABB was posted on 2026-02-18.
 
 ## Get Real-Time Alerts
 

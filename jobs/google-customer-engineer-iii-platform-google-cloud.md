@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Salt Lake City, Utah, United States |
-| Category | Technical & Solutions Architect |
-| Posted | 2026-02-12 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/jobs/results/115265590444073670-customer-engineer-iii-platform-google-cloud?sort_by=date&page=1) |
+| Location | New York, US |
+| Category | Sales Engineer |
+| Posted | 2026-02-18 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/jobs/results/118886895340921542-customer-engineer-iii-platform-google-cloud?sort_by=date&page=1) |
 
 ## About This Role
 
-This technical & solutions architect position at Google was posted on 2026-02-12.
+This sales engineer position at Google was posted on 2026-02-18.
 
 ## Get Real-Time Alerts
 

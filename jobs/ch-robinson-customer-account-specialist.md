@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [C.H. Robinson](https://scoutify.ai/companies/chrobinson?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Monterrey, Nuevo León, Mexico |
+| Location | Atlanta, Georgia, United States |
 | Category | Customer Success |
-| Posted | 2026-02-11 |
-| Apply | [View on company site](https://chrobinson.wd5.myworkdayjobs.com/CHRobinson/job/Monterrey-Nuevo-Leon-Mexico/Customer-Account-Specialist_R46562) |
+| Posted | 2026-02-12 |
+| Apply | [View on company site](https://chrobinson.wd5.myworkdayjobs.com/CHRobinson/job/Atlanta-GA-United-States-of-America/Customer-Account-Specialist_R47210-1) |
 
 ## About This Role
 
-This customer success position at C.H. Robinson was posted on 2026-02-11.
+This customer success position at C.H. Robinson was posted on 2026-02-12.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Red Hat](https://scoutify.ai/companies/red-hat?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Mumbai, Maharashtra, India |
+| Location | Karnataka, IN |
 | Category | Customer Success |
-| Posted | 2026-02-12 |
-| Apply | [View on company site](https://redhat.wd5.myworkdayjobs.com/Jobs/job/Mumbai/Technical-Account-Manager_R-054668-1) |
+| Posted | 2026-02-17 |
+| Apply | [View on company site](https://redhat.wd5.myworkdayjobs.com/Jobs/job/Bangalore---Carina/Technical-Account-Manager_R-054719-1) |
 
 ## About This Role
 
-This customer success position at Red Hat was posted on 2026-02-12.
+This customer success position at Red Hat was posted on 2026-02-17.
 
 ## Get Real-Time Alerts
 

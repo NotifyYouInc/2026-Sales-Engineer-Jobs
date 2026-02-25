@@ -6,7 +6,7 @@
 | Location | Munich, Bavaria, Germany |
 | Category | Venture Capital |
 | Posted | 2026-02-12 |
-| Apply | [View on company site](https://guidewire.wd5.myworkdayjobs.com/external/job/Germany---Munich/Principal-Solution-Consultant_JR_14375) |
+| Apply | [View on company site](https://guidewire.wd5.myworkdayjobs.com/external/job/Germany---Remote/Principal-Solution-Consultant_JR_14380) |
 
 ## About This Role
 
