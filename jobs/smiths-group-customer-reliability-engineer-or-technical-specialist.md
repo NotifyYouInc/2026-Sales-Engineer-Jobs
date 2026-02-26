@@ -5,12 +5,12 @@
 | Company | [Smiths Group](https://scoutify.ai/companies/smithsgroup?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Louisiana, US |
 | Category | Customer Success |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SmithsGroup2/744000107537574-customer-reliability-engineer-or-technical-specialist) |
+| Posted | 2026-02-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SmithsGroup2/744000109975879-customer-reliability-engineer-or-technical-specialist) |
 
 ## About This Role
 
-This customer success position at Smiths Group was posted on 2026-02-05.
+This customer success position at Smiths Group was posted on 2026-02-18.
 
 ## Get Real-Time Alerts
 

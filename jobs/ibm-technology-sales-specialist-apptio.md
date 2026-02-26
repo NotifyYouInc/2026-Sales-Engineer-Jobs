@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Bellevue, Washington, United States |
+| Location | Austin, Texas, United States |
 | Category | Sales |
-| Posted | 2026-02-12 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=94148) |
+| Posted | 2026-02-16 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=94892) |
 
 ## About This Role
 
-This sales position at IBM was posted on 2026-02-12.
+This sales position at IBM was posted on 2026-02-16.
 
 ## Get Real-Time Alerts
 

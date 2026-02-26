@@ -5,12 +5,12 @@
 | Company | [SpotOn: Sales (Career Site)](https://scoutify.ai/companies/spoton-sales-career-site?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Queens, New York, United States |
 | Category | Sales |
-| Posted | 2026-02-12 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/regionalspotonsales/jobs/7630311003) |
+| Posted | 2026-02-16 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/regionalspotonsales/jobs/7633355003) |
 
 ## About This Role
 
-This sales position at SpotOn: Sales (Career Site) was posted on 2026-02-12.
+This sales position at SpotOn: Sales (Career Site) was posted on 2026-02-16.
 
 ## Get Real-Time Alerts
 
