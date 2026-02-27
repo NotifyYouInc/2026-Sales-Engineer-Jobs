@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Atlanta, Georgia, United States |
+| Location | Stockholm, Stockholm, Sweden |
 | Category | Customer Success |
-| Posted | 2026-02-11 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/jobs/results/96862226811364038-technical-account-manager-google-cloud-consulting?sort_by=date&page=1) |
+| Posted | 2026-02-19 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/jobs/results/112564325524087494-technical-account-manager-google-cloud-consulting?sort_by=date&page=1) |
 
 ## About This Role
 
-This customer success position at Google was posted on 2026-02-11.
+This customer success position at Google was posted on 2026-02-19.
 
 ## Get Real-Time Alerts
 

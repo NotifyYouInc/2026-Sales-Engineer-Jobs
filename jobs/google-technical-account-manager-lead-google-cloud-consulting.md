@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Toronto, Ontario, Canada |
+| Location | Mexico City, Mexico City, Mexico |
 | Category | Customer Success |
-| Posted | 2026-02-03 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/jobs/results/84598198953222854-technical-account-manager-lead-google-cloud-consulting?sort_by=date&page=1) |
+| Posted | 2026-02-19 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/jobs/results/108077630887994054-technical-account-manager-lead-google-cloud-consulting?sort_by=date&page=1) |
 
 ## About This Role
 
-This customer success position at Google was posted on 2026-02-03.
+This customer success position at Google was posted on 2026-02-19.
 
 ## Get Real-Time Alerts
 

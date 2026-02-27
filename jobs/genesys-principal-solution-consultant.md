@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Genesys](https://scoutify.ai/companies/genesys?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Bogotá, Bogota D.C., Colombia |
-| Category | Technical & Solutions Architect |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://genesys.wd1.myworkdayjobs.com/Genesys/job/Bogota-Flexible/Principal-Solution-Consultant_JR110036) |
+| Location | Texas, US |
+| Category | Sales Engineer |
+| Posted | 2026-02-19 |
+| Apply | [View on company site](https://genesys.wd1.myworkdayjobs.com/Genesys/job/Texas-USA/Principal-Solution-Consultant_JR110082) |
 
 ## About This Role
 
-This technical & solutions architect position at Genesys was posted on 2026-02-05.
+This sales engineer position at Genesys was posted on 2026-02-19.
 
 ## Get Real-Time Alerts
 

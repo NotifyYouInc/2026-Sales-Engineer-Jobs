@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Atlanta, Georgia, United States |
-| Category | Sales Engineer |
-| Posted | 2026-02-04 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/jobs/results/86824392171889350-customer-engineer-cloud-ai-google-cloud?sort_by=date&page=1) |
+| Location | 2 locations |
+| Category | Customer Success |
+| Posted | 2026-02-19 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/jobs/results/133782700916908742-customer-engineer-cloud-ai-google-cloud?sort_by=date&page=1) |
 
 ## About This Role
 
-This sales engineer position at Google was posted on 2026-02-04.
+This customer success position at Google was posted on 2026-02-19.
 
 ## Get Real-Time Alerts
 

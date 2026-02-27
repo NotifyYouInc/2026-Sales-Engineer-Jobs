@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cohesity](https://scoutify.ai/companies/cohesity?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Chicago, Illinois, United States |
+| Location | Dallas, Texas, United States |
 | Category | Sales Engineer |
-| Posted | 2026-02-10 |
-| Apply | [View on company site](https://cohesity.wd5.myworkdayjobs.com/Cohesity_Careers/job/Chicago-IL---USA-Office/Senior-Sales-Engineer_R02646) |
+| Posted | 2026-02-19 |
+| Apply | [View on company site](https://cohesity.wd5.myworkdayjobs.com/Cohesity_Careers/job/Dallas-TX---USA-Office/Senior-Sales-Engineer_R02648) |
 
 ## About This Role
 
-This sales engineer position at Cohesity was posted on 2026-02-10.
+This sales engineer position at Cohesity was posted on 2026-02-19.
 
 ## Get Real-Time Alerts
 

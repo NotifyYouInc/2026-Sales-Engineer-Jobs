@@ -1,16 +1,16 @@
-# Customer Solutions Engineer at Cloudflare
+# Customer Solutions Engineer  at Cloudflare
 
 | Field | Details |
 |-------|---------|
 | Company | [Cloudflare](https://scoutify.ai/companies/cloudflare?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | London, England, United Kingdom |
+| Location | 2 locations |
 | Category | Customer Success |
-| Posted | 2026-02-13 |
-| Apply | [View on company site](https://boards.greenhouse.io/cloudflare/jobs/7612243?gh_jid=7612243) |
+| Posted | 2026-02-18 |
+| Apply | [View on company site](https://boards.greenhouse.io/cloudflare/jobs/7610334?gh_jid=7610334) |
 
 ## About This Role
 
-This customer success position at Cloudflare was posted on 2026-02-13.
+This customer success position at Cloudflare was posted on 2026-02-18.
 
 ## Get Real-Time Alerts
 
