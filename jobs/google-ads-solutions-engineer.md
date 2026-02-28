@@ -1,16 +1,16 @@
-# Field Application Engineer at Arrow Electronics
+# Ads Solutions Engineer at Google
 
 | Field | Details |
 |-------|---------|
-| Company | [Arrow Electronics](https://scoutify.ai/companies/arrow-electronics?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Ohio, US |
+| Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
+| Location | Warsaw, Mazovia, Poland |
 | Category | Software Engineer |
 | Posted | 2026-02-20 |
-| Apply | [View on company site](https://arrow.wd1.myworkdayjobs.com/ac/job/US-OH-Ohio-Remote-Employees/Field-Application-Engineer_R239499-1) |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/jobs/results/85527454856159942-ads-solutions-engineer?sort_by=date&page=1) |
 
 ## About This Role
 
-This software engineer position at Arrow Electronics was posted on 2026-02-20.
+This software engineer position at Google was posted on 2026-02-20.
 
 ## Get Real-Time Alerts
 

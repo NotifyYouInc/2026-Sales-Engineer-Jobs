@@ -1,16 +1,16 @@
-# Technical Account Manager B2B Mining at Michelin
+# Technical Sales Consultant Rheology at Anton Paar
 
 | Field | Details |
 |-------|---------|
-| Company | [Michelin](https://scoutify.ai/companies/michelinhr?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
+| Company | [Anton Paar](https://scoutify.ai/companies/antonpaar?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | 2 locations |
 | Category | Account Executive |
 | Posted | 2026-02-20 |
-| Apply | [View on company site](https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Australia-Perth-Office/Technical-Account-Manager-B2B-Mining_R-2025046154-1) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AntonPaar1/744000110451635-technical-sales-consultant-rheology) |
 
 ## About This Role
 
-This account executive position at Michelin was posted on 2026-02-20.
+This account executive position at Anton Paar was posted on 2026-02-20.
 
 ## Get Real-Time Alerts
 

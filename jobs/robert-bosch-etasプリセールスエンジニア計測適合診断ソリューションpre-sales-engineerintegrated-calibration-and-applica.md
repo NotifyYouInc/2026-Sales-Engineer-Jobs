@@ -1,16 +1,16 @@
-# Graduate Specialist Program- Sales Engineering at Robert Bosch
+# ［ETAS］プリセールスエンジニア（計測適合・診断ソリューション）／Pre-Sales Engineer（Integrated Calibration and Application Solutions） at Robert Bosch
 
 | Field | Details |
 |-------|---------|
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | United States |
-| Category | Account Manager |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000109819965-graduate-specialist-program-sales-engineering) |
+| Location | Yokohama, Kanagawa, Japan |
+| Category | Sales Engineer |
+| Posted | 2026-02-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000110351735-etaspre-sales-engineerintegrated-calibration-and-application-solutions) |
 
 ## About This Role
 
-This account manager position at Robert Bosch was posted on 2026-02-17.
+This sales engineer position at Robert Bosch was posted on 2026-02-20.
 
 ## Get Real-Time Alerts
 

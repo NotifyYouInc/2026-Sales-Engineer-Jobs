@@ -1,16 +1,16 @@
-# Technical Account Manager at Veeam Software
+# Technical Consultant (f/m/d) at Awin
 
 | Field | Details |
 |-------|---------|
-| Company | [Veeam Software](https://scoutify.ai/companies/veeamsoftware?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Athens, Attica, Greece |
+| Company | [Awin](https://scoutify.ai/companies/awin?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
+| Location | Brazil |
 | Category | Customer Success |
 | Posted | 2026-02-20 |
-| Apply | [View on company site](https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4779188101) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/awin/jobs/7590240003) |
 
 ## About This Role
 
-This customer success position at Veeam Software was posted on 2026-02-20.
+This customer success position at Awin was posted on 2026-02-20.
 
 ## Get Real-Time Alerts
 

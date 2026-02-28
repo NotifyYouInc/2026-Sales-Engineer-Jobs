@@ -1,16 +1,16 @@
-# Technical Account Manager B2B Mining at Michelin
+# Applied AI Engineer EMEA  at Pure Storage
 
 | Field | Details |
 |-------|---------|
-| Company | [Michelin](https://scoutify.ai/companies/michelinhr?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
+| Company | [Pure Storage](https://scoutify.ai/companies/pure-storage?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | 2 locations |
-| Category | Account Executive |
+| Category | AI / LLM Engineer |
 | Posted | 2026-02-20 |
-| Apply | [View on company site](https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Australia-Perth-Office/Technical-Account-Manager-B2B-Mining_R-2025046154-1) |
+| Apply | [View on company site](https://boards.greenhouse.io/purestorage/jobs/7597454?gh_jid=7597454) |
 
 ## About This Role
 
-This account executive position at Michelin was posted on 2026-02-20.
+This ai / llm engineer position at Pure Storage was posted on 2026-02-20.
 
 ## Get Real-Time Alerts
 

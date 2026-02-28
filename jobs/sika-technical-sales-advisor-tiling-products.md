@@ -1,16 +1,16 @@
-# Technical Account Manager B2B Mining at Michelin
+# Technical Sales Advisor - Tiling Products at Sika
 
 | Field | Details |
 |-------|---------|
-| Company | [Michelin](https://scoutify.ai/companies/michelinhr?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | 2 locations |
+| Company | [Sika](https://scoutify.ai/companies/sika?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
+| Location | Dublin, Leinster, Ireland |
 | Category | Account Executive |
 | Posted | 2026-02-20 |
-| Apply | [View on company site](https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Australia-Perth-Office/Technical-Account-Manager-B2B-Mining_R-2025046154-1) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SikaAG/744000110335247-technical-sales-advisor-tiling-products) |
 
 ## About This Role
 
-This account executive position at Michelin was posted on 2026-02-20.
+This account executive position at Sika was posted on 2026-02-20.
 
 ## Get Real-Time Alerts
 

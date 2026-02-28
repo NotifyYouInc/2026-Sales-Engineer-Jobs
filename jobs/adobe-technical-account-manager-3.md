@@ -1,16 +1,16 @@
-# Technical Account Manager at Veeam Software
+# Technical Account Manager 3 at Adobe
 
 | Field | Details |
 |-------|---------|
-| Company | [Veeam Software](https://scoutify.ai/companies/veeamsoftware?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Athens, Attica, Greece |
+| Company | [Adobe](https://scoutify.ai/companies/adobe-inc?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
+| Location | Noida, Uttar Pradesh, India |
 | Category | Customer Success |
 | Posted | 2026-02-20 |
-| Apply | [View on company site](https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4779188101) |
+| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Noida/Technical-Account-Manager-3_R165775-1) |
 
 ## About This Role
 
-This customer success position at Veeam Software was posted on 2026-02-20.
+This customer success position at Adobe was posted on 2026-02-20.
 
 ## Get Real-Time Alerts
 

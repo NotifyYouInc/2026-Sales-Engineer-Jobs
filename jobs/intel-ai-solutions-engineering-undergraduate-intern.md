@@ -1,16 +1,16 @@
-# Field Application Engineer at Arrow Electronics
+# AI Solutions Engineering Undergraduate Intern at Intel
 
 | Field | Details |
 |-------|---------|
-| Company | [Arrow Electronics](https://scoutify.ai/companies/arrow-electronics?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Ohio, US |
+| Company | [Intel](https://scoutify.ai/companies/intel?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
+| Location | Hillsboro, Oregon, United States |
 | Category | Software Engineer |
 | Posted | 2026-02-20 |
-| Apply | [View on company site](https://arrow.wd1.myworkdayjobs.com/ac/job/US-OH-Ohio-Remote-Employees/Field-Application-Engineer_R239499-1) |
+| Apply | [View on company site](https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/AI-Solutions-Engineering-Undergraduate-Intern_JR0280992) |
 
 ## About This Role
 
-This software engineer position at Arrow Electronics was posted on 2026-02-20.
+This software engineer position at Intel was posted on 2026-02-20.
 
 ## Get Real-Time Alerts
 

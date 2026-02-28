@@ -1,12 +1,12 @@
-# Technical Account Manager, Google Cloud Consulting (English) at Google
+# Technical Account Manager Lead III, Google Cloud Consulting at Google
 
 | Field | Details |
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Madrid, Madrid, Spain |
+| Location | Atlanta, Georgia, United States |
 | Category | Customer Success |
 | Posted | 2026-02-20 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/jobs/results/82304442677764806-technical-account-manager-google-cloud-consulting-english?sort_by=date&page=1) |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/jobs/results/113238034094138054-technical-account-manager-lead-iii-google-cloud-consulting?sort_by=date&page=1) |
 
 ## About This Role
 

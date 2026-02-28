@@ -1,16 +1,16 @@
-# Technical Account Manager at Veeam Software
+# Technical Account Manager at Zendesk
 
 | Field | Details |
 |-------|---------|
-| Company | [Veeam Software](https://scoutify.ai/companies/veeamsoftware?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Athens, Attica, Greece |
+| Company | [Zendesk](https://scoutify.ai/companies/zendesk?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
+| Location | Brazil |
 | Category | Customer Success |
 | Posted | 2026-02-20 |
-| Apply | [View on company site](https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4779188101) |
+| Apply | [View on company site](https://zendesk.wd1.myworkdayjobs.com/zendesk/job/So-Paulo-Brazil/Technical-Account-Manager_R34021) |
 
 ## About This Role
 
-This customer success position at Veeam Software was posted on 2026-02-20.
+This customer success position at Zendesk was posted on 2026-02-20.
 
 ## Get Real-Time Alerts
 

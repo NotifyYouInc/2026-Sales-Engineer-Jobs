@@ -1,16 +1,16 @@
-# Solutions Engineer at Cisco
+# Sales Engineer  at Sierra
 
 | Field | Details |
 |-------|---------|
-| Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Appleton, Wisconsin, United States |
+| Company | [Sierra](https://scoutify.ai/companies/sierra?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
+| Location | Tokyo, Tokyo, Japan |
 | Category | Sales Engineer |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Appleton-Wisconsin-US/Solutions-Engineer_2009159) |
+| Posted | 2026-02-20 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/sierra/409c7bae-fdfc-4d36-a427-297683063d43) |
 
 ## About This Role
 
-This sales engineer position at Cisco was posted on 2026-02-18.
+This sales engineer position at Sierra was posted on 2026-02-20.
 
 ## Get Real-Time Alerts
 

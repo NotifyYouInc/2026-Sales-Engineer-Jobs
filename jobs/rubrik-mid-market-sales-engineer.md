@@ -1,16 +1,16 @@
-# Solutions Engineer at Cisco
+# Mid Market Sales Engineer at Rubrik
 
 | Field | Details |
 |-------|---------|
-| Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Appleton, Wisconsin, United States |
+| Company | [Rubrik](https://scoutify.ai/companies/rubrik?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
+| Location | Munich, Bavaria, Germany |
 | Category | Sales Engineer |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Appleton-Wisconsin-US/Solutions-Engineer_2009159) |
+| Posted | 2026-02-20 |
+| Apply | [View on company site](https://www.rubrik.com/company/careers/departments/job.7641380?gh_jid=7641380) |
 
 ## About This Role
 
-This sales engineer position at Cisco was posted on 2026-02-18.
+This sales engineer position at Rubrik was posted on 2026-02-20.
 
 ## Get Real-Time Alerts
 

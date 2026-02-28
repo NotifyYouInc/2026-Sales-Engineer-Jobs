@@ -1,16 +1,16 @@
-# Technical Account Manager B2B Mining at Michelin
+# Product Specialist - Add Ons at BambooHR
 
 | Field | Details |
 |-------|---------|
-| Company | [Michelin](https://scoutify.ai/companies/michelinhr?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | 2 locations |
+| Company | [BambooHR](https://scoutify.ai/companies/bamboohr?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
+| Location | Utah, US |
 | Category | Account Executive |
 | Posted | 2026-02-20 |
-| Apply | [View on company site](https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Australia-Perth-Office/Technical-Account-Manager-B2B-Mining_R-2025046154-1) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/bamboohr17/jobs/5746730004) |
 
 ## About This Role
 
-This account executive position at Michelin was posted on 2026-02-20.
+This account executive position at BambooHR was posted on 2026-02-20.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Field Application Engineer at Arrow Electronics
+# Graduate - IT Solution Engineer (f/m/d) at LGT
 
 | Field | Details |
 |-------|---------|
-| Company | [Arrow Electronics](https://scoutify.ai/companies/arrow-electronics?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Ohio, US |
+| Company | [LGT](https://scoutify.ai/companies/lgt?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
+| Location | Schwyz, CH |
 | Category | Software Engineer |
 | Posted | 2026-02-20 |
-| Apply | [View on company site](https://arrow.wd1.myworkdayjobs.com/ac/job/US-OH-Ohio-Remote-Employees/Field-Application-Engineer_R239499-1) |
+| Apply | [View on company site](https://lgt.wd3.myworkdayjobs.com/lgtcurrentvacancies/job/Bendern/Graduate---IT-Solution-Engineer--f-m-d-_JR7336-2) |
 
 ## About This Role
 
-This software engineer position at Arrow Electronics was posted on 2026-02-20.
+This software engineer position at LGT was posted on 2026-02-20.
 
 ## Get Real-Time Alerts
 

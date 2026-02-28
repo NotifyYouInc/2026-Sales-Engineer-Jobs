@@ -1,12 +1,12 @@
-# Technical Account Manager, Google Cloud Consulting (English) at Google
+# Customer Engineer, Google Workspace, SMB (English, Japanese) at Google
 
 | Field | Details |
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Madrid, Madrid, Spain |
+| Location | Tokyo, Tokyo, Japan |
 | Category | Customer Success |
 | Posted | 2026-02-20 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/jobs/results/82304442677764806-technical-account-manager-google-cloud-consulting-english?sort_by=date&page=1) |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/jobs/results/79688154759471814-customer-engineer-google-workspace-smb-english-japanese?sort_by=date&page=1) |
 
 ## About This Role
 

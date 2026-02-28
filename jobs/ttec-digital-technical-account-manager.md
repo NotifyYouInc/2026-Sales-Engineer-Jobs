@@ -1,16 +1,16 @@
-# Technical Account Manager at Veeam Software
+# Technical Account Manager at TTEC Digital
 
 | Field | Details |
 |-------|---------|
-| Company | [Veeam Software](https://scoutify.ai/companies/veeamsoftware?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Athens, Attica, Greece |
+| Company | [TTEC Digital](https://scoutify.ai/companies/ttec-digital?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
+| Location | Manila, National Capital Region, Philippines |
 | Category | Customer Success |
 | Posted | 2026-02-20 |
-| Apply | [View on company site](https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4779188101) |
+| Apply | [View on company site](https://jobs.lever.co/ttecdigital/37afa6de-13a0-47cb-9430-f1f36d3378f8) |
 
 ## About This Role
 
-This customer success position at Veeam Software was posted on 2026-02-20.
+This customer success position at TTEC Digital was posted on 2026-02-20.
 
 ## Get Real-Time Alerts
 

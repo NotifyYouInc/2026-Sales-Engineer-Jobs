@@ -1,16 +1,16 @@
-# Technical Account Manager at Veeam Software
+# Technical Account Manager (Advisory Solutions) at Appian
 
 | Field | Details |
 |-------|---------|
-| Company | [Veeam Software](https://scoutify.ai/companies/veeamsoftware?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Athens, Attica, Greece |
+| Company | [Appian](https://scoutify.ai/companies/appian?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
+| Location | McLean, Virginia, United States |
 | Category | Customer Success |
 | Posted | 2026-02-20 |
-| Apply | [View on company site](https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4779188101) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/appian/jobs/7643669) |
 
 ## About This Role
 
-This customer success position at Veeam Software was posted on 2026-02-20.
+This customer success position at Appian was posted on 2026-02-20.
 
 ## Get Real-Time Alerts
 
