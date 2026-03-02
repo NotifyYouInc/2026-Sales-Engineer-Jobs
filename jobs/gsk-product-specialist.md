@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [GSK](https://scoutify.ai/companies/gsk?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Chennai, Tamil Nadu, India |
+| Location | Kolkata, West Bengal, India |
 | Category | Account Executive |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://gsk.wd5.myworkdayjobs.com/gskcareers/job/Field-Worker---IND-Rx/Product-Specialist_435822) |
+| Posted | 2026-02-18 |
+| Apply | [View on company site](https://gsk.wd5.myworkdayjobs.com/gskcareers/job/Field-Worker---IND-Rx/Product-Specialist_435819) |
 
 ## About This Role
 
-This account executive position at GSK was posted on 2026-02-17.
+This account executive position at GSK was posted on 2026-02-18.
 
 ## Get Real-Time Alerts
 
