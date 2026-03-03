@@ -1,16 +1,16 @@
-# Solutions Consultant at Adobe
+# Technical Specialist/Field SME at Wabtec
 
 | Field | Details |
 |-------|---------|
-| Company | [Adobe](https://scoutify.ai/companies/adobe-inc?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Georgia, US |
+| Company | [Wabtec](https://scoutify.ai/companies/wabtec?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
+| Location | Rustenburg, North West, South Africa |
 | Category | Customer Success |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Remote-Illinois/Solutions-Consultant_R165402) |
+| Posted | 2026-02-23 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Wabtec/3743990011797456-technical-specialistfield-sme) |
 
 ## About This Role
 
-This customer success position at Adobe was posted on 2026-02-19.
+This customer success position at Wabtec was posted on 2026-02-23.
 
 ## Get Real-Time Alerts
 

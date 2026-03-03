@@ -1,16 +1,16 @@
-# Product Specialist at AbbVie
+# Clinical Product Specialist- Michigan at Owensminor
 
 | Field | Details |
 |-------|---------|
-| Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Prague, Prague, Czechia |
+| Company | [Owensminor](https://scoutify.ai/companies/owensminor?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
+| Location | 2 locations |
 | Category | Account Executive |
 | Posted | 2026-02-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990011797916-product-specialist) |
+| Apply | [View on company site](https://owensminor.wd1.myworkdayjobs.com/omcareers/job/Detroit-MI/Clinical-Product-Specialist--Michigan_REQ_26_30471) |
 
 ## About This Role
 
-This account executive position at AbbVie was posted on 2026-02-23.
+This account executive position at Owensminor was posted on 2026-02-23.
 
 ## Get Real-Time Alerts
 

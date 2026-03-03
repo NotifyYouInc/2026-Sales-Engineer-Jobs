@@ -1,16 +1,16 @@
-# Solutions Consultant at Adobe
+# Technical Account Manager at PlanetScale
 
 | Field | Details |
 |-------|---------|
-| Company | [Adobe](https://scoutify.ai/companies/adobe-inc?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Georgia, US |
+| Company | [PlanetScale](https://scoutify.ai/companies/planetscale?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
+| Location | Not specified |
 | Category | Customer Success |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Remote-Illinois/Solutions-Consultant_R165402) |
+| Posted | 2026-02-23 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/planetscale/jobs/4146189009) |
 
 ## About This Role
 
-This customer success position at Adobe was posted on 2026-02-19.
+This customer success position at PlanetScale was posted on 2026-02-23.
 
 ## Get Real-Time Alerts
 

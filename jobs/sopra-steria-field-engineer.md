@@ -1,16 +1,16 @@
-# Solutions Consultant at Adobe
+# Field Engineer at Sopra Steria
 
 | Field | Details |
 |-------|---------|
-| Company | [Adobe](https://scoutify.ai/companies/adobe-inc?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Georgia, US |
+| Company | [Sopra Steria](https://scoutify.ai/companies/soprasteria?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
+| Location | Brussels, Brussels Capital, Belgium |
 | Category | Customer Success |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Remote-Illinois/Solutions-Consultant_R165402) |
+| Posted | 2026-02-23 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000110778081-field-engineer) |
 
 ## About This Role
 
-This customer success position at Adobe was posted on 2026-02-19.
+This customer success position at Sopra Steria was posted on 2026-02-23.
 
 ## Get Real-Time Alerts
 

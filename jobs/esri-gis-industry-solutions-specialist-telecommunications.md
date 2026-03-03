@@ -1,16 +1,16 @@
-# Product Specialist at AbbVie
+# GIS Industry Solutions Specialist - Telecommunications at Esri
 
 | Field | Details |
 |-------|---------|
-| Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Prague, Prague, Czechia |
-| Category | Account Executive |
+| Company | [Esri](https://scoutify.ai/companies/esri?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
+| Location | 5 locations |
+| Category | Content Marketing |
 | Posted | 2026-02-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990011797916-product-specialist) |
+| Apply | [View on company site](https://www.esri.com/careers/5058133007?gh_jid=5058133007) |
 
 ## About This Role
 
-This account executive position at AbbVie was posted on 2026-02-23.
+This content marketing position at Esri was posted on 2026-02-23.
 
 ## Get Real-Time Alerts
 

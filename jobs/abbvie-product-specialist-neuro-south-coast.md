@@ -1,12 +1,12 @@
-# Product Specialist at AbbVie
+# Product Specialist (Neuro) - South Coast at AbbVie
 
 | Field | Details |
 |-------|---------|
 | Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Prague, Prague, Czechia |
+| Location | Winchester, England, United Kingdom |
 | Category | Account Executive |
 | Posted | 2026-02-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990011797916-product-specialist) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990011805316-product-specialist-neuro-south-coast) |
 
 ## About This Role
 

@@ -1,16 +1,16 @@
-# Product Specialist at AbbVie
+# Senior FinOps Solution Consultant – Apptio Presales at IBM
 
 | Field | Details |
 |-------|---------|
-| Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Prague, Prague, Czechia |
-| Category | Account Executive |
+| Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
+| Location | London, England, United Kingdom |
+| Category | Sales Engineer |
 | Posted | 2026-02-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990011797916-product-specialist) |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=96233) |
 
 ## About This Role
 
-This account executive position at AbbVie was posted on 2026-02-23.
+This sales engineer position at IBM was posted on 2026-02-23.
 
 ## Get Real-Time Alerts
 

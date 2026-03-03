@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CyberArk Software](https://scoutify.ai/companies/cyberarksoftware?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Chicago, Illinois, United States |
+| Location | Columbus, Ohio, United States |
 | Category | Sales Engineer |
-| Posted | 2026-02-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Cyberark1/744000109292815-senior-solutions-engineer-enterprise-accounts-central) |
+| Posted | 2026-02-23 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Cyberark1/744000110857045-senior-solutions-engineer-enterprise-accounts-central) |
 
 ## About This Role
 
-This sales engineer position at CyberArk Software was posted on 2026-02-13.
+This sales engineer position at CyberArk Software was posted on 2026-02-23.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Solutions Consultant at Adobe
+# Technical Consultant- AEM at Adobe
 
 | Field | Details |
 |-------|---------|
 | Company | [Adobe](https://scoutify.ai/companies/adobe-inc?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Georgia, US |
-| Category | Customer Success |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Remote-Illinois/Solutions-Consultant_R165402) |
+| Location | 2 locations |
+| Category | Technology / IT Consulting |
+| Posted | 2026-02-24 |
+| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Noida/Technical-Consultant--AEM_R165599) |
 
 ## About This Role
 
-This customer success position at Adobe was posted on 2026-02-19.
+This technology / it consulting position at Adobe was posted on 2026-02-24.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Product Specialist at AbbVie
+# Product Specialist - Immunology/IBD at Johnson & Johnson
 
 | Field | Details |
 |-------|---------|
-| Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Prague, Prague, Czechia |
+| Company | [Johnson & Johnson](https://scoutify.ai/companies/johnson-johnson?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
+| Location | Cairo, Cairo, Egypt |
 | Category | Account Executive |
 | Posted | 2026-02-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990011797916-product-specialist) |
+| Apply | [View on company site](https://jj.wd5.myworkdayjobs.com/JJ/job/Cairo-Egypt/Product-Specialist---Immunology-IBD_R-060220-1) |
 
 ## About This Role
 
-This account executive position at AbbVie was posted on 2026-02-23.
+This account executive position at Johnson & Johnson was posted on 2026-02-23.
 
 ## Get Real-Time Alerts
 

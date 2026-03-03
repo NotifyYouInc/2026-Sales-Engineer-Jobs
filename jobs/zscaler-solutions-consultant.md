@@ -1,16 +1,16 @@
-# Product Specialist at AbbVie
+# Solutions Consultant at Zscaler
 
 | Field | Details |
 |-------|---------|
-| Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Prague, Prague, Czechia |
-| Category | Account Executive |
+| Company | [Zscaler](https://scoutify.ai/companies/zscaler?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
+| Location | Costa Rica |
+| Category | Implementation / Professional Services |
 | Posted | 2026-02-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990011797916-product-specialist) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/zscaler/jobs/5055460007) |
 
 ## About This Role
 
-This account executive position at AbbVie was posted on 2026-02-23.
+This implementation / professional services position at Zscaler was posted on 2026-02-23.
 
 ## Get Real-Time Alerts
 

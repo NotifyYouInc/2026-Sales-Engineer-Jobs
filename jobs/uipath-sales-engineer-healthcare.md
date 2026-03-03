@@ -1,16 +1,16 @@
-# Product Specialist at AbbVie
+# Sales Engineer - Healthcare at UiPath
 
 | Field | Details |
 |-------|---------|
-| Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Prague, Prague, Czechia |
-| Category | Account Executive |
+| Company | [UiPath](https://scoutify.ai/companies/uipath?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
+| Location | Texas, US |
+| Category | Sales Engineer |
 | Posted | 2026-02-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990011797916-product-specialist) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/uipath/1092d64a-57e3-469a-9106-080227119e3d) |
 
 ## About This Role
 
-This account executive position at AbbVie was posted on 2026-02-23.
+This sales engineer position at UiPath was posted on 2026-02-23.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Product Specialist at AbbVie
+# Partner Engineer, Generative AI at Meta
 
 | Field | Details |
 |-------|---------|
-| Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Prague, Prague, Czechia |
-| Category | Account Executive |
+| Company | [Meta](https://scoutify.ai/companies/meta?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
+| Location | Not specified |
+| Category | AI / LLM Engineer |
 | Posted | 2026-02-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990011797916-product-specialist) |
+| Apply | [View on company site](https://www.metacareers.com/profile/job_details/25141192702199005) |
 
 ## About This Role
 
-This account executive position at AbbVie was posted on 2026-02-23.
+This ai / llm engineer position at Meta was posted on 2026-02-23.
 
 ## Get Real-Time Alerts
 

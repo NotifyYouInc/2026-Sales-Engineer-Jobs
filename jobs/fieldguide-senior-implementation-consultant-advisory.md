@@ -1,16 +1,16 @@
-# Senior Technical Field Engineer at Unisys
+# Senior Implementation Consultant, Advisory at Fieldguide
 
 | Field | Details |
 |-------|---------|
-| Company | [Unisys](https://scoutify.ai/companies/unisys?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Perth, Western Australia, Australia |
+| Company | [Fieldguide](https://scoutify.ai/companies/fieldguide?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
+| Location | San Francisco, California, United States |
 | Category | Customer Success |
 | Posted | 2026-02-24 |
-| Apply | [View on company site](https://unisys.wd5.myworkdayjobs.com/External/job/Perth-WA-Australia/Senior-Technical-Field-Engineer_REQ570868) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/fieldguide/272b27ba-e7e2-4da5-9fba-7336c5a4083a) |
 
 ## About This Role
 
-This customer success position at Unisys was posted on 2026-02-24.
+This customer success position at Fieldguide was posted on 2026-02-24.
 
 ## Get Real-Time Alerts
 

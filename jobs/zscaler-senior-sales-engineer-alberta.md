@@ -1,16 +1,16 @@
-# Product Specialist at AbbVie
+# Senior Sales Engineer - Alberta at Zscaler
 
 | Field | Details |
 |-------|---------|
-| Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Prague, Prague, Czechia |
-| Category | Account Executive |
+| Company | [Zscaler](https://scoutify.ai/companies/zscaler?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
+| Location | Alberta, CA |
+| Category | Sales Engineer |
 | Posted | 2026-02-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990011797916-product-specialist) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/zscaler/jobs/5053938007) |
 
 ## About This Role
 
-This account executive position at AbbVie was posted on 2026-02-23.
+This sales engineer position at Zscaler was posted on 2026-02-23.
 
 ## Get Real-Time Alerts
 

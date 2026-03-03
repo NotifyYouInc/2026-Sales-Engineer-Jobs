@@ -1,16 +1,16 @@
-# Solutions Consultant at Adobe
+# Sr Field Engineer at Striim
 
 | Field | Details |
 |-------|---------|
-| Company | [Adobe](https://scoutify.ai/companies/adobe-inc?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Georgia, US |
+| Company | [Striim](https://scoutify.ai/companies/striiminc?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
+| Location | United States |
 | Category | Customer Success |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Remote-Illinois/Solutions-Consultant_R165402) |
+| Posted | 2026-02-23 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/striiminc/jobs/5055534007) |
 
 ## About This Role
 
-This customer success position at Adobe was posted on 2026-02-19.
+This customer success position at Striim was posted on 2026-02-23.
 
 ## Get Real-Time Alerts
 
