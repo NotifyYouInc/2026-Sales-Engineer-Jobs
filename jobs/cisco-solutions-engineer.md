@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Appleton, Wisconsin, United States |
-| Category | Sales Engineer |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Appleton-Wisconsin-US/Solutions-Engineer_2009159) |
+| Location | New Delhi, Delhi, India |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-02-19 |
+| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/New-Delhi-India/Solutions-Engineer_2004190) |
 
 ## About This Role
 
-This sales engineer position at Cisco was posted on 2026-02-18.
+This technical & solutions architect position at Cisco was posted on 2026-02-19.
 
 ## Get Real-Time Alerts
 

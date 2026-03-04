@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Trend Micro](https://scoutify.ai/companies/trendmicro?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Panama |
+| Location | Hanoi, Hanoi, Vietnam |
 | Category | Sales Engineer |
-| Posted | 2026-02-10 |
-| Apply | [View on company site](https://trendmicro.wd3.myworkdayjobs.com/External/job/Panama-Off-Site/Solutions-Engineer_R0009098) |
+| Posted | 2026-02-25 |
+| Apply | [View on company site](https://trendmicro.wd3.myworkdayjobs.com/External/job/Hanoi/Solutions-Engineer_R0009175) |
 
 ## About This Role
 
-This sales engineer position at Trend Micro was posted on 2026-02-10.
+This sales engineer position at Trend Micro was posted on 2026-02-25.
 
 ## Get Real-Time Alerts
 

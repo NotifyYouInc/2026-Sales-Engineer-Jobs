@@ -5,12 +5,12 @@
 | Company | [Hewlett Packard Enterprise](https://scoutify.ai/companies/hewlett-packard-enterprise?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Heredia, Heredia Province, Costa Rica |
 | Category | Customer Success |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/Heredia-Heredia-Costa-Rica/OS-Technical-Consultant_1199479-1) |
+| Posted | 2026-02-23 |
+| Apply | [View on company site](https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/Heredia-Heredia-Costa-Rica/OS-Technical-Consultant_1199478-1) |
 
 ## About This Role
 
-This customer success position at Hewlett Packard Enterprise was posted on 2026-02-18.
+This customer success position at Hewlett Packard Enterprise was posted on 2026-02-23.
 
 ## Get Real-Time Alerts
 

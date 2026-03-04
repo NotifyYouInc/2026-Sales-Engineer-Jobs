@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [The Nielsen Company](https://scoutify.ai/companies/thenielsencompany?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | New York, US |
-| Category | Sales |
-| Posted | 2026-02-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/TheNielsenCompany/3743990011527026-sr-solutions-consultant-pre-sales) |
+| Location | New York City, New York, United States |
+| Category | Customer Success |
+| Posted | 2026-02-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/TheNielsenCompany/3743990011819426-sr-solutions-consultant-pre-sales) |
 
 ## About This Role
 
-This sales position at The Nielsen Company was posted on 2026-02-04.
+This customer success position at The Nielsen Company was posted on 2026-02-24.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Commvault](https://scoutify.ai/companies/commvault?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Mumbai, Maharashtra, India |
-| Category | Sales Engineer |
-| Posted | 2026-02-09 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/commvault/jobs/5018902008) |
+| Location | Calgary, Alberta, Canada |
+| Category | Business Development |
+| Posted | 2026-02-24 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/commvault/jobs/5129616008) |
 
 ## About This Role
 
-This sales engineer position at Commvault was posted on 2026-02-09.
+This business development position at Commvault was posted on 2026-02-24.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Flowserve](https://scoutify.ai/companies/flowserve?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Selangor, MY |
+| Location | Imperial, California, United States |
 | Category | Sales Engineer |
-| Posted | 2026-02-16 |
-| Apply | [View on company site](https://flowserve.wd1.myworkdayjobs.com/applied/job/Selangor-Darul-Ehsan-Malaysia/Sales-Engineer_R-18027) |
+| Posted | 2026-02-24 |
+| Apply | [View on company site](https://flowserve.wd1.myworkdayjobs.com/applied/job/US_Pennsylvania_WFH/Sales-Engineer_R-17650) |
 
 ## About This Role
 
-This sales engineer position at Flowserve was posted on 2026-02-16.
+This sales engineer position at Flowserve was posted on 2026-02-24.
 
 ## Get Real-Time Alerts
 

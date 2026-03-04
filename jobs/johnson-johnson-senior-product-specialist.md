@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Johnson & Johnson](https://scoutify.ai/companies/johnson-johnson?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Singapore, Singapore |
+| Location | Nanjing, Jiangsu, China |
 | Category | Account Executive |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://jj.wd5.myworkdayjobs.com/JJ/job/Singapore-Singapore/Senior-Product-Specialist_R-057421) |
+| Posted | 2026-02-25 |
+| Apply | [View on company site](https://jj.wd5.myworkdayjobs.com/JJ/job/Nanjing-Jiangsu-China/Senior-Product-Specialist_R-060446) |
 
 ## About This Role
 
-This account executive position at Johnson & Johnson was posted on 2026-02-19.
+This account executive position at Johnson & Johnson was posted on 2026-02-25.
 
 ## Get Real-Time Alerts
 
