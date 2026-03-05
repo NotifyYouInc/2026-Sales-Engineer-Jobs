@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Singapore, Singapore |
+| Location | Singapore |
 | Category | Customer Success |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/3185644/technical-account-manager-enterprise-support) |
+| Posted | 2026-02-23 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/3186590/technical-account-manager-enterprise-support) |
 
 ## About This Role
 
-This customer success position at Amazon was posted on 2026-02-20.
+This customer success position at Amazon was posted on 2026-02-23.
 
 ## Get Real-Time Alerts
 

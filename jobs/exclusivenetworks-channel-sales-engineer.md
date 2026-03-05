@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Exclusivenetworks](https://scoutify.ai/companies/exclusivenetworks?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Malaysia |
-| Category | Sales |
-| Posted | 2026-02-04 |
-| Apply | [View on company site](https://exclusivenetworks.wd103.myworkdayjobs.com/exclusive-networks-career/job/Remote-Malaysia/Channel-Sales-Engineer_JR1359-1) |
+| Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
+| Category | Channel / Partner Sales |
+| Posted | 2026-02-26 |
+| Apply | [View on company site](https://exclusivenetworks.wd103.myworkdayjobs.com/exclusive-networks-career/job/Kuala-Lumpur/Channel-Sales-Engineer_JR1055-2) |
 
 ## About This Role
 
-This sales position at Exclusivenetworks was posted on 2026-02-04.
+This channel / partner sales position at Exclusivenetworks was posted on 2026-02-26.
 
 ## Get Real-Time Alerts
 
