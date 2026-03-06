@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Zendesk](https://scoutify.ai/companies/zendesk?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Brazil |
+| Location | Lisbon, Lisbon, Portugal |
 | Category | Customer Success |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://zendesk.wd1.myworkdayjobs.com/zendesk/job/So-Paulo-Brazil/Technical-Account-Manager_R34021) |
+| Posted | 2026-02-25 |
+| Apply | [View on company site](https://zendesk.wd1.myworkdayjobs.com/zendesk/job/Lisbon-Portugal/Technical-Account-Manager_R34019) |
 
 ## About This Role
 
-This customer success position at Zendesk was posted on 2026-02-20.
+This customer success position at Zendesk was posted on 2026-02-25.
 
 ## Get Real-Time Alerts
 

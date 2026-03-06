@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Lightspeed Commerce](https://scoutify.ai/companies/lightspeed-commerce?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Belgium |
-| Category | Project Manager |
-| Posted | 2026-02-10 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/lightspeedhq/jobs/7601727) |
+| Location | Amsterdam, North Holland, The Netherlands |
+| Category | Implementation / Professional Services |
+| Posted | 2026-02-26 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/lightspeedhq/jobs/7657319) |
 
 ## About This Role
 
-This project manager position at Lightspeed Commerce was posted on 2026-02-10.
+This implementation / professional services position at Lightspeed Commerce was posted on 2026-02-26.
 
 ## Get Real-Time Alerts
 

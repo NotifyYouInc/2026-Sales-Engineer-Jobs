@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sopra Steria](https://scoutify.ai/companies/soprasteria?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Hamburg, Hamburg, Germany |
+| Location | Munich, Bavaria, Germany |
 | Category | Technology / IT Consulting |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000110341294-technical-consultant-engineering-applications-licensing-mwd) |
+| Posted | 2026-02-26 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000111612969-technical-consultant-engineering-applications-licensing-mwd) |
 
 ## About This Role
 
-This technology / it consulting position at Sopra Steria was posted on 2026-02-20.
+This technology / it consulting position at Sopra Steria was posted on 2026-02-26.
 
 ## Get Real-Time Alerts
 

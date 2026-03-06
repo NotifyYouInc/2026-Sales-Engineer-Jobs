@@ -1,16 +1,16 @@
-# Contact Center Consulting Solutions Engineer at Zoom
+# Contact Center - Consulting Solutions Engineer at Zoom
 
 | Field | Details |
 |-------|---------|
 | Company | [Zoom](https://scoutify.ai/companies/zoom?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | United States |
+| Location | Quebec, CA |
 | Category | Sales Engineer |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://zoom.wd5.myworkdayjobs.com/zoom/job/Remote--US/Contact-Center-Consulting-Solutions-Engineer_R18583-1) |
+| Posted | 2026-02-23 |
+| Apply | [View on company site](https://zoom.wd5.myworkdayjobs.com/zoom/job/Remote--CAN-QC/Contact-Center---Consulting-Solutions-Engineer_R18612-2) |
 
 ## About This Role
 
-This sales engineer position at Zoom was posted on 2026-02-20.
+This sales engineer position at Zoom was posted on 2026-02-23.
 
 ## Get Real-Time Alerts
 
