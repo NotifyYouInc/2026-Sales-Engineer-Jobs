@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Esri](https://scoutify.ai/companies/esri?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | 5 locations |
-| Category | Content Marketing |
-| Posted | 2026-02-23 |
-| Apply | [View on company site](https://www.esri.com/careers/5058133007?gh_jid=5058133007) |
+| Location | 6 locations |
+| Category | Social Media / Community |
+| Posted | 2026-02-24 |
+| Apply | [View on company site](https://www.esri.com/careers/5062061007?gh_jid=5062061007) |
 
 ## About This Role
 
-This content marketing position at Esri was posted on 2026-02-23.
+This social media / community position at Esri was posted on 2026-02-24.
 
 ## Get Real-Time Alerts
 

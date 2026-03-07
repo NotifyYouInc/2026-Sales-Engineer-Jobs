@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Nasdaq](https://scoutify.ai/companies/nasdaq?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Tokyo, Tokyo, Japan |
+| Location | Stockholm, Stockholm, Sweden |
 | Category | Customer Success |
-| Posted | 2026-02-06 |
-| Apply | [View on company site](https://nasdaq.wd1.myworkdayjobs.com/Global_External_Site/job/Japan---Tokyo/Technical-Account-Manager_R0024740) |
+| Posted | 2026-02-27 |
+| Apply | [View on company site](https://nasdaq.wd1.myworkdayjobs.com/Global_External_Site/job/Stockholm---Zenit/Technical-Account-Manager_R0025336) |
 
 ## About This Role
 
-This customer success position at Nasdaq was posted on 2026-02-06.
+This customer success position at Nasdaq was posted on 2026-02-27.
 
 ## Get Real-Time Alerts
 

@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Sydney, New South Wales, Australia |
+| Location | 2 locations |
 | Category | Customer Success |
 | Posted | 2026-02-24 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/jobs/results/139172945002930886-outcome-customer-engineer-google-cloud?sort_by=date&page=1) |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/jobs/results/102530276898284230-outcome-customer-engineer-google-cloud?sort_by=date&page=1) |
 
 ## About This Role
 

@@ -1,16 +1,16 @@
-# Customer Engineer II, Outcome, SaaS, Google Cloud at Google
+# Customer Engineer II, Outcome SaaS, Google Cloud at Google
 
 | Field | Details |
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Sunnyvale, California, United States |
-| Category | Technical & Solutions Architect |
-| Posted | 2026-02-11 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/jobs/results/138544244468916934-customer-engineer-ii-outcome-saas-google-cloud?sort_by=date&page=1) |
+| Location | 2 locations |
+| Category | Customer Success |
+| Posted | 2026-02-27 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/jobs/results/75197684847125190-customer-engineer-ii-outcome-saas-google-cloud?sort_by=date&page=1) |
 
 ## About This Role
 
-This technical & solutions architect position at Google was posted on 2026-02-11.
+This customer success position at Google was posted on 2026-02-27.
 
 ## Get Real-Time Alerts
 

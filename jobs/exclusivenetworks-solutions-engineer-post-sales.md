@@ -5,12 +5,12 @@
 | Company | [Exclusivenetworks](https://scoutify.ai/companies/exclusivenetworks?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Philippines |
 | Category | Customer Success |
-| Posted | 2026-02-06 |
-| Apply | [View on company site](https://exclusivenetworks.wd103.myworkdayjobs.com/exclusive-networks-career/job/Remote-Philippines/Solutions-Engineer---Post-Sales_JR1381-1) |
+| Posted | 2026-02-27 |
+| Apply | [View on company site](https://exclusivenetworks.wd103.myworkdayjobs.com/exclusive-networks-career/job/Remote-Philippines/Solutions-Engineer---Post-Sales_JR1489-1) |
 
 ## About This Role
 
-This customer success position at Exclusivenetworks was posted on 2026-02-06.
+This customer success position at Exclusivenetworks was posted on 2026-02-27.
 
 ## Get Real-Time Alerts
 

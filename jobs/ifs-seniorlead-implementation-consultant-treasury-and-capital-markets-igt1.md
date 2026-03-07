@@ -5,12 +5,12 @@
 | Company | [IFS](https://scoutify.ai/companies/ifs?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Colombo, Western Province, Sri Lanka |
 | Category | Implementation / Professional Services |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/IFS1/744000111046885-seniorlead-implementation-consultant-treasury-and-capital-markets-igt1) |
+| Posted | 2026-02-25 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/IFS1/744000111315105-seniorlead-implementation-consultant-treasury-and-capital-markets-igt1) |
 
 ## About This Role
 
-This implementation / professional services position at IFS was posted on 2026-02-24.
+This implementation / professional services position at IFS was posted on 2026-02-25.
 
 ## Get Real-Time Alerts
 
