@@ -1,16 +1,16 @@
-# Sr. Solutions Engineer at Trend Micro
+# Corporate Sales Engineer - Singapore at CrowdStrike
 
 | Field | Details |
 |-------|---------|
-| Company | [Trend Micro](https://scoutify.ai/companies/trendmicro?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Brisbane, Queensland, Australia |
+| Company | [CrowdStrike](https://scoutify.ai/companies/crowdstrike?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
+| Location | Singapore, Singapore |
 | Category | Sales Engineer |
 | Posted | 2026-03-02 |
-| Apply | [View on company site](https://trendmicro.wd3.myworkdayjobs.com/External/job/Brisbane/Sr-Solutions-Engineer_R0009207) |
+| Apply | [View on company site](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/Singapore/Corporate-Sales-Engineer---Singapore_R27642-1) |
 
 ## About This Role
 
-This sales engineer position at Trend Micro was posted on 2026-03-02.
+This sales engineer position at CrowdStrike was posted on 2026-03-02.
 
 ## Get Real-Time Alerts
 

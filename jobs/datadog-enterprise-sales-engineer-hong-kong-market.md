@@ -1,16 +1,16 @@
-# Sr. Solutions Engineer at Trend Micro
+# Enterprise Sales Engineer (Hong Kong Market) at Datadog
 
 | Field | Details |
 |-------|---------|
-| Company | [Trend Micro](https://scoutify.ai/companies/trendmicro?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Brisbane, Queensland, Australia |
+| Company | [Datadog](https://scoutify.ai/companies/datadog?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
+| Location | Singapore, Singapore |
 | Category | Sales Engineer |
 | Posted | 2026-03-02 |
-| Apply | [View on company site](https://trendmicro.wd3.myworkdayjobs.com/External/job/Brisbane/Sr-Solutions-Engineer_R0009207) |
+| Apply | [View on company site](https://careers.datadoghq.com/detail/7667809/?gh_jid=7667809) |
 
 ## About This Role
 
-This sales engineer position at Trend Micro was posted on 2026-03-02.
+This sales engineer position at Datadog was posted on 2026-03-02.
 
 ## Get Real-Time Alerts
 

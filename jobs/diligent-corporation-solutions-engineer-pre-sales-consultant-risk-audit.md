@@ -1,16 +1,16 @@
-# Solutions Engineer / Pre Sales Consultant (Risk & Audit) at Diligent Corporation
+# Solutions Engineer / Pre-Sales Consultant (Risk & Audit) at Diligent Corporation
 
 | Field | Details |
 |-------|---------|
 | Company | [Diligent Corporation](https://scoutify.ai/companies/diligentcorporation?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Sydney, New South Wales, Australia |
+| Location | Dubai, Dubai, United Arab Emirates |
 | Category | Sales Engineer |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/diligentcorporation/jobs/5793164004) |
+| Posted | 2026-02-25 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/diligentcorporation/jobs/5803586004) |
 
 ## About This Role
 
-This sales engineer position at Diligent Corporation was posted on 2026-02-24.
+This sales engineer position at Diligent Corporation was posted on 2026-02-25.
 
 ## Get Real-Time Alerts
 

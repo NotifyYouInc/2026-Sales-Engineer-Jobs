@@ -1,16 +1,16 @@
-# Sr. Solutions Engineer at Trend Micro
+# Solution Engineering - Cloud Endpoint at Microsoft
 
 | Field | Details |
 |-------|---------|
-| Company | [Trend Micro](https://scoutify.ai/companies/trendmicro?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Brisbane, Queensland, Australia |
+| Company | [Microsoft](https://scoutify.ai/companies/microsoft?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
+| Location | Tokyo, Tokyo, Japan |
 | Category | Sales Engineer |
 | Posted | 2026-03-02 |
-| Apply | [View on company site](https://trendmicro.wd3.myworkdayjobs.com/External/job/Brisbane/Sr-Solutions-Engineer_R0009207) |
+| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556822653) |
 
 ## About This Role
 
-This sales engineer position at Trend Micro was posted on 2026-03-02.
+This sales engineer position at Microsoft was posted on 2026-03-02.
 
 ## Get Real-Time Alerts
 
