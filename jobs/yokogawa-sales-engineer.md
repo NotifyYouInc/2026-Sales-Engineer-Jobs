@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Yokogawa](https://scoutify.ai/companies/yokogawa?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Johor Bahru, Johor, Malaysia |
-| Category | Account Manager |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://yokogawa.wd3.myworkdayjobs.com/yokogawa-career-site/job/Johor-Bahru/Sales-Engineer_R-9978) |
+| Location | 2 locations |
+| Category | Sales Engineer |
+| Posted | 2026-02-27 |
+| Apply | [View on company site](https://yokogawa.wd3.myworkdayjobs.com/yokogawa-career-site/job/Bucharest/Sales-Engineer_R-9120) |
 
 ## About This Role
 
-This account manager position at Yokogawa was posted on 2026-02-25.
+This sales engineer position at Yokogawa was posted on 2026-02-27.
 
 ## Get Real-Time Alerts
 

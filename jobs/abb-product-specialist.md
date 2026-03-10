@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ABB](https://scoutify.ai/companies/abb?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Karnataka, IN |
-| Category | Sales Engineer |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Bangalore-Karnataka-India/Product-Specialist_JR00025900) |
+| Location | Brno, South Moravian, Czechia |
+| Category | Customer Success |
+| Posted | 2026-03-02 |
+| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Brno-Jihomoravsk-kraj-Czechia/Product-Specialist_JR00025639) |
 
 ## About This Role
 
-This sales engineer position at ABB was posted on 2026-02-19.
+This customer success position at ABB was posted on 2026-03-02.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Johnson Controls](https://scoutify.ai/companies/jci?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Cinisello Balsamo, Lombardy, Italy |
-| Category | Account Executive |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Cinisello-Balsamo-Milano-Italy/Presales-Engineer_WD30262673) |
+| Location | Spain |
+| Category | Sales Engineer |
+| Posted | 2026-02-26 |
+| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Sant-Boi-Barcelona-Spain/Presales-Engineer_WD30262650) |
 
 ## About This Role
 
-This account executive position at Johnson Controls was posted on 2026-02-25.
+This sales engineer position at Johnson Controls was posted on 2026-02-26.
 
 ## Get Real-Time Alerts
 

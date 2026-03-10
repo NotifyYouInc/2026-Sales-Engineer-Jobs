@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Aggreko](https://scoutify.ai/companies/aggreko?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Dublin, Leinster, Ireland |
-| Category | Sales Engineer |
-| Posted | 2026-02-09 |
-| Apply | [View on company site](https://aggreko.wd3.myworkdayjobs.com/aggreko_careers_1/job/Portlaoise/Sales-Engineer_JR19159-6) |
+| Category | Account Executive |
+| Posted | 2026-03-02 |
+| Apply | [View on company site](https://aggreko.wd3.myworkdayjobs.com/aggreko_careers_1/job/Portlaoise/Sales-Engineer_JR19378-6) |
 
 ## About This Role
 
-This sales engineer position at Aggreko was posted on 2026-02-09.
+This account executive position at Aggreko was posted on 2026-03-02.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Visa International Service Association](https://scoutify.ai/companies/visainternationalserviceassociation?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Lehi, Utah, United States |
+| Location | Mentor, Ohio, United States |
 | Category | Sales Engineer |
-| Posted | 2026-02-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Visa/744000108834076-sales-engineer-analyst) |
+| Posted | 2026-03-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Visa/744000112261014-sales-engineer-analyst) |
 
 ## About This Role
 
-This sales engineer position at Visa International Service Association was posted on 2026-02-11.
+This sales engineer position at Visa International Service Association was posted on 2026-03-02.
 
 ## Get Real-Time Alerts
 

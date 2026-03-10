@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Proofpoint](https://scoutify.ai/companies/proofpoint?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Illinois, US |
-| Category | Sales Engineer |
-| Posted | 2026-02-11 |
-| Apply | [View on company site](https://proofpoint.wd5.myworkdayjobs.com/ProofpointCareers/job/Illinois/Senior-Sales-Engineer---Data-Security_R13661) |
+| Location | Texas, US |
+| Category | Technical Writer |
+| Posted | 2026-03-03 |
+| Apply | [View on company site](https://proofpoint.wd5.myworkdayjobs.com/ProofpointCareers/job/Texas/Senior-Sales-Engineer---Data-Security_R13797) |
 
 ## About This Role
 
-This sales engineer position at Proofpoint was posted on 2026-02-11.
+This technical writer position at Proofpoint was posted on 2026-03-03.
 
 ## Get Real-Time Alerts
 

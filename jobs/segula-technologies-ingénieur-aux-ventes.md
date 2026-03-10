@@ -5,12 +5,12 @@
 | Company | [SEGULA Technologies](https://scoutify.ai/companies/segulatechnologies?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Saint-Eustache, Quebec, Canada |
 | Category | Sales Engineer |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SegulaTechnologies/744000111423514-ingenieur-aux-ventes) |
+| Posted | 2026-02-26 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SegulaTechnologies/744000111704785-ingenieur-aux-ventes) |
 
 ## About This Role
 
-This sales engineer position at SEGULA Technologies was posted on 2026-02-25.
+This sales engineer position at SEGULA Technologies was posted on 2026-02-26.
 
 ## Get Real-Time Alerts
 

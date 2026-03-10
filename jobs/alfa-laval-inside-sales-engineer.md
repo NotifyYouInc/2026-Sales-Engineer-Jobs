@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Alfa Laval](https://scoutify.ai/companies/alfa-laval?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Warsaw, Mazovia, Poland |
+| Location | Istanbul, Istanbul, Turkey |
 | Category | Account Executive |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://alfalaval.wd3.myworkdayjobs.com/alfa_laval_jobs/job/Warszawa/Inside-Sales-Engineer_JR0043151) |
+| Posted | 2026-03-02 |
+| Apply | [View on company site](https://alfalaval.wd3.myworkdayjobs.com/alfa_laval_jobs/job/Istanbul/Inside-Sales-Engineer_JR0042617) |
 
 ## About This Role
 
-This account executive position at Alfa Laval was posted on 2026-02-18.
+This account executive position at Alfa Laval was posted on 2026-03-02.
 
 ## Get Real-Time Alerts
 

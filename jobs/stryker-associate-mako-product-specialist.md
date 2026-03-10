@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Stryker](https://scoutify.ai/companies/stryker?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Melbourne, Victoria, Australia |
+| Location | Perth, Western Australia, Australia |
 | Category | Customer Success |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Melbourne-Australia/Associate-Mako-Product-Specialist_R560002) |
+| Posted | 2026-02-25 |
+| Apply | [View on company site](https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Perth-Australia/Associate-Mako-Product-Specialist_R560705) |
 
 ## About This Role
 
-This customer success position at Stryker was posted on 2026-02-24.
+This customer success position at Stryker was posted on 2026-02-25.
 
 ## Get Real-Time Alerts
 
