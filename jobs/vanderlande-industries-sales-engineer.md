@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Vanderlande Industries](https://scoutify.ai/companies/vanderlande-industries?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | 2 locations |
+| Location | Veghel, North Brabant, The Netherlands |
 | Category | Sales Engineer |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://vanderlande.wd3.myworkdayjobs.com/careers/job/Veghel/Sales-Engineer_JR34779-1) |
+| Posted | 2026-03-03 |
+| Apply | [View on company site](https://vanderlande.wd3.myworkdayjobs.com/careers/job/Veghel/Senior-Sales-Engineer_JR27730) |
 
 ## About This Role
 
-This sales engineer position at Vanderlande Industries was posted on 2026-02-26.
+This sales engineer position at Vanderlande Industries was posted on 2026-03-03.
 
 ## Get Real-Time Alerts
 

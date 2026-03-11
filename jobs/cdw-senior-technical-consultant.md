@@ -5,12 +5,12 @@
 | Company | [CDW](https://scoutify.ai/companies/cdw?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | London, England, United Kingdom |
 | Category | Technology / IT Consulting |
-| Posted | 2026-02-23 |
-| Apply | [View on company site](https://cdw.wd5.myworkdayjobs.com/careers/job/London----GBR/Senior-Technical-Consultant_R26_00000913) |
+| Posted | 2026-03-03 |
+| Apply | [View on company site](https://cdw.wd5.myworkdayjobs.com/careers/job/London----GBR/Senior-Technical-Consultant_R25_00003581) |
 
 ## About This Role
 
-This technology / it consulting position at CDW was posted on 2026-02-23.
+This technology / it consulting position at CDW was posted on 2026-03-03.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | 2 locations |
 | Category | Customer Success |
-| Posted | 2026-02-23 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/jobs/results/124660456668177094-practice-customer-engineer-cloud-ai-google-cloud?sort_by=date&page=1) |
+| Posted | 2026-03-03 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/jobs/results/78192831830598342-practice-customer-engineer-cloud-ai-google-cloud?sort_by=date&page=1) |
 
 ## About This Role
 
-This customer success position at Google was posted on 2026-02-23.
+This customer success position at Google was posted on 2026-03-03.
 
 ## Get Real-Time Alerts
 

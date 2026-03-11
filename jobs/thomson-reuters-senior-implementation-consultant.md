@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Thomson Reuters](https://scoutify.ai/companies/thomson-reuters?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | 2 locations |
+| Location | Bengaluru, Karnataka, India |
 | Category | Customer Success |
-| Posted | 2026-02-10 |
-| Apply | [View on company site](https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/India-Hyderabad-Telangana/Senior-Implementation-Consultant_JREQ198145) |
+| Posted | 2026-03-03 |
+| Apply | [View on company site](https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/India-Bengaluru-Karnataka/Senior-Implementation-Consultant_JREQ198573) |
 
 ## About This Role
 
-This customer success position at Thomson Reuters was posted on 2026-02-10.
+This customer success position at Thomson Reuters was posted on 2026-03-03.
 
 ## Get Real-Time Alerts
 

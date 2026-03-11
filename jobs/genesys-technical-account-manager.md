@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Genesys](https://scoutify.ai/companies/genesys?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Florida, US |
+| Location | Alberta, CA |
 | Category | Customer Success |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://genesys.wd1.myworkdayjobs.com/Genesys/job/Utah-USA/Technical-Account-Manager_JR109707-2) |
+| Posted | 2026-03-03 |
+| Apply | [View on company site](https://genesys.wd1.myworkdayjobs.com/Genesys/job/Ontario-Canada/Technical-Account-Manager_JR110084-2) |
 
 ## About This Role
 
-This customer success position at Genesys was posted on 2026-02-05.
+This customer success position at Genesys was posted on 2026-03-03.
 
 ## Get Real-Time Alerts
 

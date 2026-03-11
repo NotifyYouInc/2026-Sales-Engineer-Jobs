@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Salesforce](https://scoutify.ai/companies/salesforce?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | 2 locations |
+| Location | Philippines |
 | Category | Sales Engineer |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/New-York---New-York/Solution-Engineer--Financial-Services---AI-Innovation_JR325592) |
+| Posted | 2026-03-03 |
+| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Philippines---Metro-Manila/Strategic-Solution-Engineer---Financial-Services_JR331437) |
 
 ## About This Role
 
-This sales engineer position at Salesforce was posted on 2026-02-20.
+This sales engineer position at Salesforce was posted on 2026-03-03.
 
 ## Get Real-Time Alerts
 

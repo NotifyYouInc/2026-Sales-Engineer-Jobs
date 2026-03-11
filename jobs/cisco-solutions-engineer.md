@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | 3 locations |
+| Location | Mumbai, Maharashtra, India |
 | Category | Sales Engineer |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Chicago-Illinois-US/Solutions-Engineer_2008874) |
+| Posted | 2026-03-03 |
+| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Mumbai-India/Solutions-Engineer_2008944) |
 
 ## About This Role
 
-This sales engineer position at Cisco was posted on 2026-02-24.
+This sales engineer position at Cisco was posted on 2026-03-03.
 
 ## Get Real-Time Alerts
 

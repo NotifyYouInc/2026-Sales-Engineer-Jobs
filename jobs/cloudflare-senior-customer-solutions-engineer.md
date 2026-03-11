@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cloudflare](https://scoutify.ai/companies/cloudflare?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Not specified |
-| Category | Customer Success |
-| Posted | 2026-02-13 |
-| Apply | [View on company site](https://boards.greenhouse.io/cloudflare/jobs/7612689?gh_jid=7612689) |
+| Location | Sweden |
+| Category | Sales Engineer |
+| Posted | 2026-03-03 |
+| Apply | [View on company site](https://boards.greenhouse.io/cloudflare/jobs/7646137?gh_jid=7646137) |
 
 ## About This Role
 
-This customer success position at Cloudflare was posted on 2026-02-13.
+This sales engineer position at Cloudflare was posted on 2026-03-03.
 
 ## Get Real-Time Alerts
 
