@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ServiceNow](https://scoutify.ai/companies/servicenow?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | United States |
+| Location | San Diego, California, United States |
 | Category | Sales Engineer |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000111665395-sr-advisory-solution-consultant-nonprofit) |
+| Posted | 2026-03-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000112261250-sr-advisory-solution-consultant-nonprofit) |
 
 ## About This Role
 
-This sales engineer position at ServiceNow was posted on 2026-02-26.
+This sales engineer position at ServiceNow was posted on 2026-03-02.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Johnson Controls](https://scoutify.ai/companies/jci?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Dubai, AE |
+| Location | Abu Dhabi, Abu Dhabi, United Arab Emirates |
 | Category | Industrial Automation |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Al-Quoz-Dubai-United-Arab-Emirates/Sales-Engineer---Controls-Systems_WD30262755) |
+| Posted | 2026-03-02 |
+| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Abu-Dhabi-Abu-Dhabi-United-Arab-Emirates/Sales-Engineer---Controls-Systems_WD30263371) |
 
 ## About This Role
 
-This industrial automation position at Johnson Controls was posted on 2026-02-27.
+This industrial automation position at Johnson Controls was posted on 2026-03-02.
 
 ## Get Real-Time Alerts
 

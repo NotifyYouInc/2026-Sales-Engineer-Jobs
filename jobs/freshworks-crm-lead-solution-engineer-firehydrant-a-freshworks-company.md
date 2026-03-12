@@ -5,12 +5,12 @@
 | Company | [Freshworks CRM](https://scoutify.ai/companies/freshworkscrm?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Boston, Massachusetts, United States |
 | Category | Sales Engineer |
-| Posted | 2026-02-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Freshworks/744000110724005-lead-solution-engineer-firehydrant-a-freshworks-company) |
+| Posted | 2026-03-04 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Freshworks/744000112763223-lead-solution-engineer-firehydrant-a-freshworks-company) |
 
 ## About This Role
 
-This sales engineer position at Freshworks CRM was posted on 2026-02-23.
+This sales engineer position at Freshworks CRM was posted on 2026-03-04.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Veolia](https://scoutify.ai/companies/veolia?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Boulder, Colorado, United States |
-| Category | Sales Engineer |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000110416833-product-specialist-industrial-environmental) |
+| Category | Customer Success |
+| Posted | 2026-03-04 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000112748429-product-specialist-industrial-environmental) |
 
 ## About This Role
 
-This sales engineer position at Veolia was posted on 2026-02-20.
+This customer success position at Veolia was posted on 2026-03-04.
 
 ## Get Real-Time Alerts
 

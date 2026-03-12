@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Snowflake](https://scoutify.ai/companies/snowflake?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Menlo Park, California, United States |
+| Location | London, England, United Kingdom |
 | Category | Sales Engineer |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/snowflake/750a5a36-a317-4773-95e6-5cfc037b8a18) |
+| Posted | 2026-03-04 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/snowflake/5cd12277-ea38-4437-b84c-a9f4b08d566e) |
 
 ## About This Role
 
-This sales engineer position at Snowflake was posted on 2026-02-20.
+This sales engineer position at Snowflake was posted on 2026-03-04.
 
 ## Get Real-Time Alerts
 

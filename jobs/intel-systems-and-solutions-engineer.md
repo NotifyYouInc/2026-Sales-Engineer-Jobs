@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Intel](https://scoutify.ai/companies/intel?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Haifa, Haifa, Israel |
-| Category | Embedded / Firmware Engineer |
-| Posted | 2026-02-22 |
-| Apply | [View on company site](https://intel.wd1.myworkdayjobs.com/External/job/Israel-Haifa/Systems-and-Solutions-Engineer_JR0279444) |
+| Location | India |
+| Category | DevOps Engineer |
+| Posted | 2026-03-05 |
+| Apply | [View on company site](https://intel.wd1.myworkdayjobs.com/External/job/India-Bangalore/Systems-and-Solutions-Engineer_JR0281341-1) |
 
 ## About This Role
 
-This embedded / firmware engineer position at Intel was posted on 2026-02-22.
+This devops engineer position at Intel was posted on 2026-03-05.
 
 ## Get Real-Time Alerts
 

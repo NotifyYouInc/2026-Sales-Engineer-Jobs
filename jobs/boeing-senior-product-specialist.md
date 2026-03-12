@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Boeing](https://scoutify.ai/companies/boeing?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | 7 locations |
+| Location | 3 locations |
 | Category | Product Manager |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Renton-WA/Senior-Product-Specialist_JR2025467678-1) |
+| Posted | 2026-03-05 |
+| Apply | [View on company site](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Seattle-WA/Senior-Product-Specialist_JR2026493947-1) |
 
 ## About This Role
 
-This product manager position at Boeing was posted on 2026-02-24.
+This product manager position at Boeing was posted on 2026-03-05.
 
 ## Get Real-Time Alerts
 

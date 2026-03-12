@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Otis](https://scoutify.ai/companies/otis?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Dubai, Dubai, United Arab Emirates |
-| Category | Account Manager |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://otis.wd5.myworkdayjobs.com/REC_Ext_Gateway/job/Otis-LLC-37th-floor-The-One-Tower-Sheikh-Zayed-Road-Dubai-United-Arab-Emirates/Senior-Service-Sales-Engineer_20151947) |
+| Location | Riyadh, Riyadh Region, Saudi Arabia |
+| Category | Account Executive |
+| Posted | 2026-03-04 |
+| Apply | [View on company site](https://otis.wd5.myworkdayjobs.com/REC_Ext_Gateway/job/Otis-Elevator-Company-Saudi-Arabia-Ltd-1st-Floor-Tower-A-Al-Malga-Business-Center-Anas-Bin-Malik-Street-Al-Malga-Riyadh-Saudi-Arabia/Senior-Service-Sales-Engineer_20120261) |
 
 ## About This Role
 
-This account manager position at Otis was posted on 2026-02-19.
+This account executive position at Otis was posted on 2026-03-04.
 
 ## Get Real-Time Alerts
 
