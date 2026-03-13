@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [BlackBerry](https://scoutify.ai/companies/blackberry?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | New York City, New York, United States |
-| Category | Software Engineer |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://bb.wd3.myworkdayjobs.com/blackberry/job/New-York-New-York/Senior-Implementation-Engineer_20260115) |
+| Location | 4 locations |
+| Category | Customer Success |
+| Posted | 2026-03-02 |
+| Apply | [View on company site](https://bb.wd3.myworkdayjobs.com/blackberry/job/Los-Angeles-California/Senior-Implementation-Engineer_20260116) |
 
 ## About This Role
 
-This software engineer position at BlackBerry was posted on 2026-02-27.
+This customer success position at BlackBerry was posted on 2026-03-02.
 
 ## Get Real-Time Alerts
 

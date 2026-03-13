@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Boyd Gaming](https://scoutify.ai/companies/boydgaming?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | United States |
-| Category | Customer Success |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoydGaming/3743990011752106-it-field-engineer-ii) |
+| Category | IT & Systems Administration |
+| Posted | 2026-03-05 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoydGaming/3743990012004989-it-field-engineer-ii) |
 
 ## About This Role
 
-This customer success position at Boyd Gaming was posted on 2026-02-19.
+This it & systems administration position at Boyd Gaming was posted on 2026-03-05.
 
 ## Get Real-Time Alerts
 

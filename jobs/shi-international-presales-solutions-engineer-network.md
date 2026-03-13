@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [SHI International](https://scoutify.ai/companies/shi-international?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | 2 locations |
-| Category | Sales Engineer |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://shi.wd12.myworkdayjobs.com/shicareers/job/Durham-NC-USA/Presales-Solutions-Engineer---Network_JR2572-1) |
+| Location | St. Louis, Missouri, United States |
+| Category | Business Development |
+| Posted | 2026-03-05 |
+| Apply | [View on company site](https://shi.wd12.myworkdayjobs.com/shicareers/job/US---MO---Home-Office/Presales-Solutions-Engineer---Network_JR2683) |
 
 ## About This Role
 
-This sales engineer position at SHI International was posted on 2026-02-17.
+This business development position at SHI International was posted on 2026-03-05.
 
 ## Get Real-Time Alerts
 

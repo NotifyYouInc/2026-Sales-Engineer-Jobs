@@ -1,16 +1,16 @@
-# Senior Gen AI Software Solutions Engineer at Intel
+# IT BI Solutions Engineer, ES at Terex
 
 | Field | Details |
 |-------|---------|
-| Company | [Intel](https://scoutify.ai/companies/intel?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | United States |
+| Company | [Terex](https://scoutify.ai/companies/terex?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
+| Location | Chattanooga, Tennessee, United States |
 | Category | Software Engineer |
 | Posted | 2026-03-05 |
-| Apply | [View on company site](https://intel.wd1.myworkdayjobs.com/External/job/Virtual-US/Senior-Gen-AI-Software-Solutions-Engineer_JR0281633) |
+| Apply | [View on company site](https://terex.wd1.myworkdayjobs.com/terexcareers/job/US-TN-Chattanooga/IT-BI-Solutions-Engineer--ES_REQ-11717) |
 
 ## About This Role
 
-This software engineer position at Intel was posted on 2026-03-05.
+This software engineer position at Terex was posted on 2026-03-05.
 
 ## Get Real-Time Alerts
 

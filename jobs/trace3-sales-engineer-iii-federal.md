@@ -1,16 +1,16 @@
-# Sales Engineer I at Dialpad
+# Sales Engineer III - Federal at Trace3
 
 | Field | Details |
 |-------|---------|
-| Company | [Dialpad](https://scoutify.ai/companies/dialpad?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Vancouver, British Columbia, Canada |
+| Company | [Trace3](https://scoutify.ai/companies/trace3?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
+| Location | Huntsville, Alabama, United States |
 | Category | Sales Engineer |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/dialpad/jobs/8435401002) |
+| Posted | 2026-03-05 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/trace3/jobs/7684020) |
 
 ## About This Role
 
-This sales engineer position at Dialpad was posted on 2026-03-02.
+This sales engineer position at Trace3 was posted on 2026-03-05.
 
 ## Get Real-Time Alerts
 

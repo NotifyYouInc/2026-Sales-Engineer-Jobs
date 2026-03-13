@@ -1,16 +1,16 @@
-# Senior Gen AI Software Solutions Engineer at Intel
+# Field Engineer, Wind MCE  at Pearce Services
 
 | Field | Details |
 |-------|---------|
-| Company | [Intel](https://scoutify.ai/companies/intel?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
+| Company | [Pearce Services](https://scoutify.ai/companies/pearce-services?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | United States |
-| Category | Software Engineer |
+| Category | Business Development |
 | Posted | 2026-03-05 |
-| Apply | [View on company site](https://intel.wd1.myworkdayjobs.com/External/job/Virtual-US/Senior-Gen-AI-Software-Solutions-Engineer_JR0281633) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/pearceservices/jobs/5142556008) |
 
 ## About This Role
 
-This software engineer position at Intel was posted on 2026-03-05.
+This business development position at Pearce Services was posted on 2026-03-05.
 
 ## Get Real-Time Alerts
 

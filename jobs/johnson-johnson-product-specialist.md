@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Johnson & Johnson](https://scoutify.ai/companies/johnson-johnson?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Auckland, Auckland, New Zealand |
+| Location | Melbourne, Victoria, Australia |
 | Category | Account Executive |
-| Posted | 2026-03-01 |
-| Apply | [View on company site](https://jj.wd5.myworkdayjobs.com/JJ/job/Mount-Wellington-Auckland-New-Zealand/Product-Specialist_R-060709) |
+| Posted | 2026-03-03 |
+| Apply | [View on company site](https://jj.wd5.myworkdayjobs.com/JJ/job/Notting-Hill-Victoria-Australia/Product-Specialist_R-061172) |
 
 ## About This Role
 
-This account executive position at Johnson & Johnson was posted on 2026-03-01.
+This account executive position at Johnson & Johnson was posted on 2026-03-03.
 
 ## Get Real-Time Alerts
 

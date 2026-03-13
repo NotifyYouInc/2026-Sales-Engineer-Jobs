@@ -1,16 +1,16 @@
-# Senior Gen AI Software Solutions Engineer at Intel
+# Senior Solutions Engineer (Multiple Positions) at TikTok
 
 | Field | Details |
 |-------|---------|
-| Company | [Intel](https://scoutify.ai/companies/intel?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | United States |
+| Company | [TikTok](https://scoutify.ai/companies/tiktok?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
+| Location | San Jose, California, United States |
 | Category | Software Engineer |
 | Posted | 2026-03-05 |
-| Apply | [View on company site](https://intel.wd1.myworkdayjobs.com/External/job/Virtual-US/Senior-Gen-AI-Software-Solutions-Engineer_JR0281633) |
+| Apply | [View on company site](https://careers.tiktok.com/position/7613184208623814917/detail) |
 
 ## About This Role
 
-This software engineer position at Intel was posted on 2026-03-05.
+This software engineer position at TikTok was posted on 2026-03-05.
 
 ## Get Real-Time Alerts
 

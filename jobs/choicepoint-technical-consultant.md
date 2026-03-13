@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ChoicePoint](https://scoutify.ai/companies/choicepoint?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Not specified |
+| Location | London, England, United Kingdom |
 | Category | Technology / IT Consulting |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://relx.wd3.myworkdayjobs.com/risksolutions/job/Home-Based---Oakland-CA/Technical-Consultant_R106682) |
+| Posted | 2026-03-04 |
+| Apply | [View on company site](https://relx.wd3.myworkdayjobs.com/risksolutions/job/UK---London-London-Wall/Technical-Consultant_R109061) |
 
 ## About This Role
 
-This technology / it consulting position at ChoicePoint was posted on 2026-02-27.
+This technology / it consulting position at ChoicePoint was posted on 2026-03-04.
 
 ## Get Real-Time Alerts
 

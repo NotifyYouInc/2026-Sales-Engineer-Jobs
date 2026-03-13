@@ -1,16 +1,16 @@
-# Product Specialist Migraine - Luxembourg at AbbVie
+# Product Specialist (Vaccine) at Merck
 
 | Field | Details |
 |-------|---------|
-| Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Luxembourg, Luxembourg, Luxembourg |
+| Company | [Merck](https://scoutify.ai/companies/merck?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
+| Location | Petaling Jaya, Selangor, Malaysia |
 | Category | Account Executive |
 | Posted | 2026-03-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990011992976-product-specialist-migraine-luxembourg) |
+| Apply | [View on company site](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/MYS---Selangor---Petaling-Jaya-Ascent-Paradigm/Product-Specialist--Vaccine-_R387712) |
 
 ## About This Role
 
-This account executive position at AbbVie was posted on 2026-03-05.
+This account executive position at Merck was posted on 2026-03-05.
 
 ## Get Real-Time Alerts
 

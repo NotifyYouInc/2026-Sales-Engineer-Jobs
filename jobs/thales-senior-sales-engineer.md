@@ -1,16 +1,16 @@
-# Sales Engineer I at Dialpad
+# Senior Sales Engineer at Thales
 
 | Field | Details |
 |-------|---------|
-| Company | [Dialpad](https://scoutify.ai/companies/dialpad?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Vancouver, British Columbia, Canada |
+| Company | [Thales](https://scoutify.ai/companies/thales?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
+| Location | Melbourne, Victoria, Australia |
 | Category | Sales Engineer |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/dialpad/jobs/8435401002) |
+| Posted | 2026-03-05 |
+| Apply | [View on company site](https://thales.wd3.myworkdayjobs.com/Careers/job/VIC---80-Collins/Senior-Sales-Engineer_R0315655) |
 
 ## About This Role
 
-This sales engineer position at Dialpad was posted on 2026-03-02.
+This sales engineer position at Thales was posted on 2026-03-05.
 
 ## Get Real-Time Alerts
 

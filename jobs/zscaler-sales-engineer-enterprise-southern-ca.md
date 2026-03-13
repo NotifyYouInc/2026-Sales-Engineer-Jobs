@@ -1,16 +1,16 @@
-# Sales Engineer I at Dialpad
+# Sales Engineer, Enterprise - Southern CA at Zscaler
 
 | Field | Details |
 |-------|---------|
-| Company | [Dialpad](https://scoutify.ai/companies/dialpad?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Vancouver, British Columbia, Canada |
+| Company | [Zscaler](https://scoutify.ai/companies/zscaler?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
+| Location | Not specified |
 | Category | Sales Engineer |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/dialpad/jobs/8435401002) |
+| Posted | 2026-03-05 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/zscaler/jobs/5061905007) |
 
 ## About This Role
 
-This sales engineer position at Dialpad was posted on 2026-03-02.
+This sales engineer position at Zscaler was posted on 2026-03-05.
 
 ## Get Real-Time Alerts
 

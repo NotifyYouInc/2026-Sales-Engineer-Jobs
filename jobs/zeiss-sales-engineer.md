@@ -1,16 +1,16 @@
-# Sales Engineer I at Dialpad
+# Sales Engineer at Zeiss
 
 | Field | Details |
 |-------|---------|
-| Company | [Dialpad](https://scoutify.ai/companies/dialpad?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Vancouver, British Columbia, Canada |
+| Company | [Zeiss](https://scoutify.ai/companies/zeissgroup?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
+| Location | Shanghai, Shanghai, China |
 | Category | Sales Engineer |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/dialpad/jobs/8435401002) |
+| Posted | 2026-03-05 |
+| Apply | [View on company site](https://zeissgroup.wd3.myworkdayjobs.com/External/job/Shanghai/Sales-Engineer_JR_1046598) |
 
 ## About This Role
 
-This sales engineer position at Dialpad was posted on 2026-03-02.
+This sales engineer position at Zeiss was posted on 2026-03-05.
 
 ## Get Real-Time Alerts
 

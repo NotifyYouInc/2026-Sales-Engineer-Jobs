@@ -1,16 +1,16 @@
-# Sales Engineer I at Dialpad
+# Sales Engineer Associate at Ecovadis
 
 | Field | Details |
 |-------|---------|
-| Company | [Dialpad](https://scoutify.ai/companies/dialpad?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Vancouver, British Columbia, Canada |
+| Company | [Ecovadis](https://scoutify.ai/companies/ecovadis?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
+| Location | Barcelona, Catalonia, Spain |
 | Category | Sales Engineer |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/dialpad/jobs/8435401002) |
+| Posted | 2026-03-06 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ecovadis/744000113089237-sales-engineer-associate) |
 
 ## About This Role
 
-This sales engineer position at Dialpad was posted on 2026-03-02.
+This sales engineer position at Ecovadis was posted on 2026-03-06.
 
 ## Get Real-Time Alerts
 

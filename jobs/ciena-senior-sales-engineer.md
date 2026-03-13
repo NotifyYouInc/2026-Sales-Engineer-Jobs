@@ -1,16 +1,16 @@
-# Sales Engineer I at Dialpad
+# Senior Sales Engineer at Ciena
 
 | Field | Details |
 |-------|---------|
-| Company | [Dialpad](https://scoutify.ai/companies/dialpad?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Vancouver, British Columbia, Canada |
+| Company | [Ciena](https://scoutify.ai/companies/ciena?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
+| Location | Not specified |
 | Category | Sales Engineer |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/dialpad/jobs/8435401002) |
+| Posted | 2026-03-06 |
+| Apply | [View on company site](https://ciena.wd5.myworkdayjobs.com/Careers/job/Remote-US-GA/Senior-Sales-Engineer_R029421) |
 
 ## About This Role
 
-This sales engineer position at Dialpad was posted on 2026-03-02.
+This sales engineer position at Ciena was posted on 2026-03-06.
 
 ## Get Real-Time Alerts
 

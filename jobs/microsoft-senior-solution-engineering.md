@@ -1,16 +1,16 @@
-# Sales Engineer I at Dialpad
+# Senior Solution Engineering at Microsoft
 
 | Field | Details |
 |-------|---------|
-| Company | [Dialpad](https://scoutify.ai/companies/dialpad?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Vancouver, British Columbia, Canada |
+| Company | [Microsoft](https://scoutify.ai/companies/microsoft?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
+| Location | 3 locations |
 | Category | Sales Engineer |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/dialpad/jobs/8435401002) |
+| Posted | 2026-03-06 |
+| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556803965) |
 
 ## About This Role
 
-This sales engineer position at Dialpad was posted on 2026-03-02.
+This sales engineer position at Microsoft was posted on 2026-03-06.
 
 ## Get Real-Time Alerts
 

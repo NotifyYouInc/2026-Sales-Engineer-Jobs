@@ -1,16 +1,16 @@
-# Senior Gen AI Software Solutions Engineer at Intel
+# Technology Specialist, Communications at Google
 
 | Field | Details |
 |-------|---------|
-| Company | [Intel](https://scoutify.ai/companies/intel?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | United States |
+| Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
+| Location | 2 locations |
 | Category | Software Engineer |
 | Posted | 2026-03-05 |
-| Apply | [View on company site](https://intel.wd1.myworkdayjobs.com/External/job/Virtual-US/Senior-Gen-AI-Software-Solutions-Engineer_JR0281633) |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/jobs/results/137272071934616262-technology-specialist-communications?sort_by=date&page=1) |
 
 ## About This Role
 
-This software engineer position at Intel was posted on 2026-03-05.
+This software engineer position at Google was posted on 2026-03-05.
 
 ## Get Real-Time Alerts
 

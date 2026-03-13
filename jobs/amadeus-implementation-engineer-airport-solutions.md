@@ -1,16 +1,16 @@
-# Senior Technical Account Manager at Qualys
+# Implementation Engineer - Airport Solutions at Amadeus
 
 | Field | Details |
 |-------|---------|
-| Company | [Qualys](https://scoutify.ai/companies/qualys?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Dubai, Dubai, United Arab Emirates |
+| Company | [Amadeus](https://scoutify.ai/companies/amadeus?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
+| Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
 | Category | Customer Success |
 | Posted | 2026-03-05 |
-| Apply | [View on company site](https://qualys.wd5.myworkdayjobs.com/careers/job/Dubai/Senior-Technical-Account-Manager_R0004508) |
+| Apply | [View on company site](https://amadeus.wd502.myworkdayjobs.com/jobs/job/Kuala-Lumpur/Implementation-Engineer---Airport-Solutions_R32944) |
 
 ## About This Role
 
-This customer success position at Qualys was posted on 2026-03-05.
+This customer success position at Amadeus was posted on 2026-03-05.
 
 ## Get Real-Time Alerts
 
