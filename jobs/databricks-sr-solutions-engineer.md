@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Databricks](https://scoutify.ai/companies/databricks?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Stockholm, Stockholm, Sweden |
+| Location | 2 locations |
 | Category | Sales Engineer |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://databricks.com/company/careers/open-positions/job?gh_jid=8368205002) |
+| Posted | 2026-03-06 |
+| Apply | [View on company site](https://databricks.com/company/careers/open-positions/job?gh_jid=8450648002) |
 
 ## About This Role
 
-This sales engineer position at Databricks was posted on 2026-02-24.
+This sales engineer position at Databricks was posted on 2026-03-06.
 
 ## Get Real-Time Alerts
 

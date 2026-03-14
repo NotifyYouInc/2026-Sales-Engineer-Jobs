@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Trend Micro](https://scoutify.ai/companies/trendmicro?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Hanoi, Hanoi, Vietnam |
+| Location | Paris, Île-de-France, France |
 | Category | Sales Engineer |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://trendmicro.wd3.myworkdayjobs.com/External/job/Hanoi/Solutions-Engineer_R0009175) |
+| Posted | 2026-03-06 |
+| Apply | [View on company site](https://trendmicro.wd3.myworkdayjobs.com/External/job/Paris/Solutions-Engineer_R0009250) |
 
 ## About This Role
 
-This sales engineer position at Trend Micro was posted on 2026-02-25.
+This sales engineer position at Trend Micro was posted on 2026-03-06.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Spectris](https://scoutify.ai/companies/spectris?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Royston, England, United Kingdom |
+| Location | Tokyo, Tokyo, Japan |
 | Category | Account Executive |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://spectris.wd3.myworkdayjobs.com/hbk_careers/job/Royston-GB/Service-Sales-Engineer_17359) |
+| Posted | 2026-03-06 |
+| Apply | [View on company site](https://spectris.wd3.myworkdayjobs.com/hbk_careers/job/Tokyo-JP/Service-Sales-Engineer_17358) |
 
 ## About This Role
 
-This account executive position at Spectris was posted on 2026-02-17.
+This account executive position at Spectris was posted on 2026-03-06.
 
 ## Get Real-Time Alerts
 

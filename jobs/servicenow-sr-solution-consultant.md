@@ -1,16 +1,16 @@
-# Sr Solution Consultant at ServiceNow
+# Sr. Solution Consultant at ServiceNow
 
 | Field | Details |
 |-------|---------|
 | Company | [ServiceNow](https://scoutify.ai/companies/servicenow?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Charlottesville, Virginia, United States |
+| Location | San Diego, California, United States |
 | Category | Sales Engineer |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000111481340-sr-solution-consultant) |
+| Posted | 2026-03-06 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000113264147-sr-solution-consultant) |
 
 ## About This Role
 
-This sales engineer position at ServiceNow was posted on 2026-02-26.
+This sales engineer position at ServiceNow was posted on 2026-03-06.
 
 ## Get Real-Time Alerts
 

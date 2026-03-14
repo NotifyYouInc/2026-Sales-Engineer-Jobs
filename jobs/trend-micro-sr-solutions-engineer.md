@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Trend Micro](https://scoutify.ai/companies/trendmicro?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Brisbane, Queensland, Australia |
-| Category | Sales Engineer |
+| Location | United States |
+| Category | Business Development |
 | Posted | 2026-03-02 |
-| Apply | [View on company site](https://trendmicro.wd3.myworkdayjobs.com/External/job/Brisbane/Sr-Solutions-Engineer_R0009207) |
+| Apply | [View on company site](https://trendmicro.wd3.myworkdayjobs.com/External/job/US-Off-Site/Sr-Solutions-Engineer_R0009217-1) |
 
 ## About This Role
 
-This sales engineer position at Trend Micro was posted on 2026-03-02.
+This business development position at Trend Micro was posted on 2026-03-02.
 
 ## Get Real-Time Alerts
 

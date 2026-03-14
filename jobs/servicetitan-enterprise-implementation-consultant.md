@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ServiceTitan](https://scoutify.ai/companies/servicetitan?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Not specified |
-| Category | Sales Engineer |
-| Posted | 2026-02-04 |
-| Apply | [View on company site](https://servicetitan.wd1.myworkdayjobs.com/ServiceTitan/job/US-Remote/Enterprise-Implementation-Consultant_JR113375) |
+| Location | United States |
+| Category | Customer Success |
+| Posted | 2026-03-06 |
+| Apply | [View on company site](https://servicetitan.wd1.myworkdayjobs.com/ServiceTitan/job/US-Remote/Enterprise-Implementation-Consultant_JR114137) |
 
 ## About This Role
 
-This sales engineer position at ServiceTitan was posted on 2026-02-04.
+This customer success position at ServiceTitan was posted on 2026-03-06.
 
 ## Get Real-Time Alerts
 

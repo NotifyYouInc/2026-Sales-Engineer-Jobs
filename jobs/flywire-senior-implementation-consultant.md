@@ -5,12 +5,12 @@
 | Company | [Flywire](https://scoutify.ai/companies/flywire?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Boston, Massachusetts, United States |
 | Category | Customer Success |
-| Posted | 2026-02-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Flywire1/744000109050725-senior-implementation-consultant) |
+| Posted | 2026-03-06 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Flywire1/744000113234935-senior-implementation-consultant) |
 
 ## About This Role
 
-This customer success position at Flywire was posted on 2026-02-12.
+This customer success position at Flywire was posted on 2026-03-06.
 
 ## Get Real-Time Alerts
 
