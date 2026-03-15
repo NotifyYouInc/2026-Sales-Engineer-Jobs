@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Trend Micro](https://scoutify.ai/companies/trendmicro?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | United States |
-| Category | Business Development |
+| Category | Sales Engineer |
 | Posted | 2026-03-02 |
-| Apply | [View on company site](https://trendmicro.wd3.myworkdayjobs.com/External/job/US-Off-Site/Sr-Solutions-Engineer_R0009217-1) |
+| Apply | [View on company site](https://trendmicro.wd3.myworkdayjobs.com/External/job/US-Off-Site/Sr-Solutions-Engineer_R0009220) |
 
 ## About This Role
 
-This business development position at Trend Micro was posted on 2026-03-02.
+This sales engineer position at Trend Micro was posted on 2026-03-02.
 
 ## Get Real-Time Alerts
 

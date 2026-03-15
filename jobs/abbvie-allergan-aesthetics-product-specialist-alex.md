@@ -5,12 +5,12 @@
 | Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Alexandria, Alexandria, Egypt |
 | Category | Account Executive |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990011928341-allergan-aesthetics-product-specialist-alex) |
+| Posted | 2026-03-03 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990011939404-allergan-aesthetics-product-specialist-alex) |
 
 ## About This Role
 
-This account executive position at AbbVie was posted on 2026-03-02.
+This account executive position at AbbVie was posted on 2026-03-03.
 
 ## Get Real-Time Alerts
 
