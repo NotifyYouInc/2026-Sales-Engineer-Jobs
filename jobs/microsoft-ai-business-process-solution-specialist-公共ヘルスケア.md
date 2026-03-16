@@ -1,16 +1,16 @@
-# Solution Engineer (EMEA) at Sigma Computing
+# AI Business Process Solution Specialist (公共/ヘルスケア) at Microsoft
 
 | Field | Details |
 |-------|---------|
-| Company | [Sigma Computing](https://scoutify.ai/companies/sigma-computing?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | London, England, United Kingdom |
+| Company | [Microsoft](https://scoutify.ai/companies/microsoft?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
+| Location | Tokyo, Tokyo, Japan |
 | Category | Sales Engineer |
 | Posted | 2026-03-09 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/sigmacomputing/jobs/7657081003) |
+| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556827662) |
 
 ## About This Role
 
-This sales engineer position at Sigma Computing was posted on 2026-03-09.
+This sales engineer position at Microsoft was posted on 2026-03-09.
 
 ## Get Real-Time Alerts
 

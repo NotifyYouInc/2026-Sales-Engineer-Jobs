@@ -1,16 +1,16 @@
-# Solution Engineer (EMEA) at Sigma Computing
+# Sales Engineer at Veralto
 
 | Field | Details |
 |-------|---------|
-| Company | [Sigma Computing](https://scoutify.ai/companies/sigma-computing?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | London, England, United Kingdom |
+| Company | [Veralto](https://scoutify.ai/companies/veralto?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
+| Location | Bangkok, Bangkok, Thailand |
 | Category | Sales Engineer |
 | Posted | 2026-03-09 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/sigmacomputing/jobs/7657081003) |
+| Apply | [View on company site](https://veralto.wd1.myworkdayjobs.com/hachjobs/job/Bangkok-Thailand/Sales-Engineer_R10264750-1) |
 
 ## About This Role
 
-This sales engineer position at Sigma Computing was posted on 2026-03-09.
+This sales engineer position at Veralto was posted on 2026-03-09.
 
 ## Get Real-Time Alerts
 

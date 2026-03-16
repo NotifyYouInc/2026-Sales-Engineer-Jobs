@@ -1,16 +1,16 @@
-# Product Specialist at AbbVie
+# Sales Engineer at H.B. Fuller
 
 | Field | Details |
 |-------|---------|
-| Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Romania |
+| Company | [H.B. Fuller](https://scoutify.ai/companies/hbfuller?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
+| Location | Kaohsiung, Takao, Taiwan |
 | Category | Account Executive |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990011940224-product-specialist) |
+| Posted | 2026-03-09 |
+| Apply | [View on company site](https://hbfuller.wd1.myworkdayjobs.com/Careers/job/Kaouhsiung-Taiwan/Sales-Engineer_R25_0000000689) |
 
 ## About This Role
 
-This account executive position at AbbVie was posted on 2026-03-03.
+This account executive position at H.B. Fuller was posted on 2026-03-09.
 
 ## Get Real-Time Alerts
 
