@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Visa International Service Association](https://scoutify.ai/companies/visainternationalserviceassociation?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Highlands Ranch, Colorado, United States |
-| Category | Customer Success |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Visa/744000112496179-sr-implementation-consultant) |
+| Location | Toronto, Ontario, Canada |
+| Category | Implementation / Professional Services |
+| Posted | 2026-03-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Visa/744000113550282-sr-implementation-consultant) |
 
 ## About This Role
 
-This customer success position at Visa International Service Association was posted on 2026-03-03.
+This implementation / professional services position at Visa International Service Association was posted on 2026-03-09.
 
 ## Get Real-Time Alerts
 

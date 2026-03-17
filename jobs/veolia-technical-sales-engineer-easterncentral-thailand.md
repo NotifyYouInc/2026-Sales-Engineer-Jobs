@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Veolia](https://scoutify.ai/companies/veolia?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Bangkok, Bangkok, Thailand |
-| Category | Account Executive |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000112082687-technical-sales-engineer-easterncentral-thailand) |
+| Category | Business Development |
+| Posted | 2026-03-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000113624707-technical-sales-engineer-easterncentral-thailand) |
 
 ## About This Role
 
-This account executive position at Veolia was posted on 2026-03-02.
+This business development position at Veolia was posted on 2026-03-10.
 
 ## Get Real-Time Alerts
 

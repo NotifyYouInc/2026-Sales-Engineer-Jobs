@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Experian](https://scoutify.ai/companies/experian?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Not specified |
-| Category | Sales Engineer |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000107441286-solutions-engineer-generative-ai) |
+| Location | Hyderabad, Telangana, India |
+| Category | Technical Writer |
+| Posted | 2026-03-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000113447937-solutions-engineer-generative-ai) |
 
 ## About This Role
 
-This sales engineer position at Experian was posted on 2026-02-05.
+This technical writer position at Experian was posted on 2026-03-09.
 
 ## Get Real-Time Alerts
 

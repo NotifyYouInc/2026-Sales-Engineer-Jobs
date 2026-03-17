@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Johnson & Johnson](https://scoutify.ai/companies/johnson-johnson?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Melbourne, Victoria, Australia |
-| Category | Account Executive |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://jj.wd5.myworkdayjobs.com/JJ/job/Notting-Hill-Victoria-Australia/Product-Specialist_R-061172) |
+| Location | Bangkok, Bangkok, Thailand |
+| Category | Operations |
+| Posted | 2026-03-09 |
+| Apply | [View on company site](https://jj.wd5.myworkdayjobs.com/JJ/job/Bangkok-Bangkok-Thailand/Product-Specialist_R-062375) |
 
 ## About This Role
 
-This account executive position at Johnson & Johnson was posted on 2026-03-03.
+This operations position at Johnson & Johnson was posted on 2026-03-09.
 
 ## Get Real-Time Alerts
 

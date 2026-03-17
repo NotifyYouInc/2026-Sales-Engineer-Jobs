@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Trend Micro](https://scoutify.ai/companies/trendmicro?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Bangkok, Bangkok, Thailand |
+| Location | Belo Horizonte, Minas Gerais, Brazil |
 | Category | Sales Engineer |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://trendmicro.wd3.myworkdayjobs.com/External/job/Bangkok/Sales-Engineer_R0009015) |
+| Posted | 2026-03-09 |
+| Apply | [View on company site](https://trendmicro.wd3.myworkdayjobs.com/External/job/Brazil-Off-Site/Sales-Engineer_R0009263) |
 
 ## About This Role
 
-This sales engineer position at Trend Micro was posted on 2026-02-19.
+This sales engineer position at Trend Micro was posted on 2026-03-09.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Freshworks CRM](https://scoutify.ai/companies/freshworkscrm?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Denver, Colorado, United States |
-| Category | Business Development |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Freshworks/744000112513812-lead-solution-engineer) |
+| Category | Sales Engineer |
+| Posted | 2026-03-04 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Freshworks/744000112774904-lead-solution-engineer) |
 
 ## About This Role
 
-This business development position at Freshworks CRM was posted on 2026-03-03.
+This sales engineer position at Freshworks CRM was posted on 2026-03-04.
 
 ## Get Real-Time Alerts
 

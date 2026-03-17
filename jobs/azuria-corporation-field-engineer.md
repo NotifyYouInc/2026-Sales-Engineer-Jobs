@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Azuria Corporation](https://scoutify.ai/companies/aegion?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Tampa, Florida, United States |
+| Location | New Mexico, US |
 | Category | Project Manager |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://aegion.wd501.myworkdayjobs.com/Aegion_Careers/job/Tampa-FL/Field-Engineer_R-7268) |
+| Posted | 2026-03-04 |
+| Apply | [View on company site](https://aegion.wd501.myworkdayjobs.com/Aegion_Careers/job/Remote---NM-USA/Field-Engineer_R-7277) |
 
 ## About This Role
 
-This project manager position at Azuria Corporation was posted on 2026-03-03.
+This project manager position at Azuria Corporation was posted on 2026-03-04.
 
 ## Get Real-Time Alerts
 
