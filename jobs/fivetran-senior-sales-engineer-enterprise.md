@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Fivetran](https://scoutify.ai/companies/fivetran?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | New Jersey, US |
+| Location | Florida, US |
 | Category | Sales Engineer |
-| Posted | 2026-02-12 |
-| Apply | [View on company site](https://www.fivetran.com/careers/job?gh_jid=7629790003) |
+| Posted | 2026-03-10 |
+| Apply | [View on company site](https://www.fivetran.com/careers/job?gh_jid=7660857003) |
 
 ## About This Role
 
-This sales engineer position at Fivetran was posted on 2026-02-12.
+This sales engineer position at Fivetran was posted on 2026-03-10.
 
 ## Get Real-Time Alerts
 

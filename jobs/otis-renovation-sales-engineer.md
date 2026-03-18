@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Otis](https://scoutify.ai/companies/otis?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Riyadh, Riyadh Region, Saudi Arabia |
+| Location | Dubai, Dubai, United Arab Emirates |
 | Category | Account Executive |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://otis.wd5.myworkdayjobs.com/REC_Ext_Gateway/job/Otis-Elevator-Company-Saudi-Arabia-Ltd-1st-Floor-Tower-A-Al-Malga-Business-Center-Anas-Bin-Malik-Street-Al-Malga-Riyadh-Saudi-Arabia/Renovation-Sales-Engineer_20150742) |
+| Posted | 2026-03-09 |
+| Apply | [View on company site](https://otis.wd5.myworkdayjobs.com/REC_Ext_Gateway/job/Otis-LLC-37th-floor-The-One-Tower-Sheikh-Zayed-Road-Dubai-United-Arab-Emirates/Renovation-Sales-Engineer_20149917) |
 
 ## About This Role
 
-This account executive position at Otis was posted on 2026-03-04.
+This account executive position at Otis was posted on 2026-03-09.
 
 ## Get Real-Time Alerts
 

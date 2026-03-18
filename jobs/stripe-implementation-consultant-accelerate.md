@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Stripe](https://scoutify.ai/companies/stripe?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Tokyo, Tokyo, Japan |
+| Location | Singapore, Singapore |
 | Category | Customer Success |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://stripe.com/jobs/search?gh_jid=7656704) |
+| Posted | 2026-03-10 |
+| Apply | [View on company site](https://stripe.com/jobs/search?gh_jid=7694115) |
 
 ## About This Role
 
-This customer success position at Stripe was posted on 2026-02-26.
+This customer success position at Stripe was posted on 2026-03-10.
 
 ## Get Real-Time Alerts
 

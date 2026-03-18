@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Trellix](https://scoutify.ai/companies/trellix?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Riyadh, Riyadh Region, Saudi Arabia |
+| Location | United States |
 | Category | Sales Engineer |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://trellix.wd1.myworkdayjobs.com/EnterpriseCareers/job/Saudi-Arabia-Riyadh/Senior-Solutions-Engineer_JR0036437) |
+| Posted | 2026-03-10 |
+| Apply | [View on company site](https://trellix.wd1.myworkdayjobs.com/EnterpriseCareers/job/Remote-United-States/Senior-Solutions-Engineer_JR0037141) |
 
 ## About This Role
 
-This sales engineer position at Trellix was posted on 2026-03-04.
+This sales engineer position at Trellix was posted on 2026-03-10.
 
 ## Get Real-Time Alerts
 

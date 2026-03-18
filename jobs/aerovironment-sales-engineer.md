@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AeroVironment](https://scoutify.ai/companies/avav?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Sunrise, Florida, United States |
+| Location | San Diego, California, United States |
 | Category | Sales Engineer |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://avav.wd1.myworkdayjobs.com/AVAV/job/1613-NW-136th-Avenue-Sunrise-FL/Sales-Engineer_6995) |
+| Posted | 2026-03-09 |
+| Apply | [View on company site](https://avav.wd1.myworkdayjobs.com/AVAV/job/7535-Metropolitan-Drive-San-Diego--CA/Sales-Engineer_7165) |
 
 ## About This Role
 
-This sales engineer position at AeroVironment was posted on 2026-03-04.
+This sales engineer position at AeroVironment was posted on 2026-03-09.
 
 ## Get Real-Time Alerts
 

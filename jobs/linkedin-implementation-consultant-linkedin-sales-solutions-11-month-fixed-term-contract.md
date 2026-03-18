@@ -5,12 +5,12 @@
 | Company | [LinkedIn](https://scoutify.ai/companies/linkedin?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Dublin, Leinster, Ireland |
 | Category | Customer Success |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/LinkedIn3/744000112630717-implementation-consultant-linkedin-sales-solutions-11-month-fixed-term-contract) |
+| Posted | 2026-03-05 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/LinkedIn3/744000112872167-implementation-consultant-linkedin-sales-solutions-11-month-fixed-term-contract) |
 
 ## About This Role
 
-This customer success position at LinkedIn was posted on 2026-03-04.
+This customer success position at LinkedIn was posted on 2026-03-05.
 
 ## Get Real-Time Alerts
 

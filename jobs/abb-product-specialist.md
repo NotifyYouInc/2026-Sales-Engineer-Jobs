@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ABB](https://scoutify.ai/companies/abb?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Brno, South Moravian, Czechia |
-| Category | Customer Success |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Brno-Jihomoravsk-kraj-Czechia/Product-Specialist_JR00025639) |
+| Location | Bergamo, Lombardy, Italy |
+| Category | Product Manager |
+| Posted | 2026-03-10 |
+| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Bergamo-Bergamo-Italy/Product-Specialist_JR00027217) |
 
 ## About This Role
 
-This customer success position at ABB was posted on 2026-03-02.
+This product manager position at ABB was posted on 2026-03-10.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Solutions Engineer, Okta  at Okta
+# Solutions Engineer, Okta at Okta
 
 | Field | Details |
 |-------|---------|
 | Company | [Okta](https://scoutify.ai/companies/okta?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | 2 locations |
+| Location | Dublin, Leinster, Ireland |
 | Category | Sales Engineer |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://www.okta.com/company/careers/opportunity/7535312?gh_jid=7535312) |
+| Posted | 2026-03-10 |
+| Apply | [View on company site](https://www.okta.com/company/careers/opportunity/6629089?gh_jid=6629089) |
 
 ## About This Role
 
-This sales engineer position at Okta was posted on 2026-02-25.
+This sales engineer position at Okta was posted on 2026-03-10.
 
 ## Get Real-Time Alerts
 

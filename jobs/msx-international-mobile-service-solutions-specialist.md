@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [MSX International](https://scoutify.ai/companies/msxinternational?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Pittsburgh, Pennsylvania, United States |
-| Category | Strategy / Management Consulting |
-| Posted | 2026-02-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/MSXInternational/3743990011802266-mobile-service-solutions-specialist) |
+| Location | Tampa, Florida, United States |
+| Category | Customer Success |
+| Posted | 2026-03-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/MSXInternational/3743990012056011-mobile-service-solutions-specialist) |
 
 ## About This Role
 
-This strategy / management consulting position at MSX International was posted on 2026-02-23.
+This customer success position at MSX International was posted on 2026-03-10.
 
 ## Get Real-Time Alerts
 

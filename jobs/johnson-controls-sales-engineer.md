@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Johnson Controls](https://scoutify.ai/companies/jci?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Bengaluru, Karnataka, India |
-| Category | Account Executive |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Bengaluru-Karnataka-India/Sales-Engineer_WD30262119) |
+| Location | Chengdu, Sichuan, China |
+| Category | Sales Engineer |
+| Posted | 2026-03-11 |
+| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Chengdu-Sichuan-China/Sales-Engineer_WD30263691-2) |
 
 ## About This Role
 
-This account executive position at Johnson Controls was posted on 2026-02-24.
+This sales engineer position at Johnson Controls was posted on 2026-03-11.
 
 ## Get Real-Time Alerts
 
