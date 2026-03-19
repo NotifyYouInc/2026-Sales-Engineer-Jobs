@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Ecolab](https://scoutify.ai/companies/ecolab?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | 2 locations |
+| Location | Virginia, US |
 | Category | Technology / IT Consulting |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://ecolab.wd1.myworkdayjobs.com/ecolab_external/job/USA---Texas---Dallas/Industry-Technical-Consultant_R00285821) |
+| Posted | 2026-03-11 |
+| Apply | [View on company site](https://ecolab.wd1.myworkdayjobs.com/ecolab_external/job/USA---Virginia---Boydton/Industry-Technical-Consultant_R00286939) |
 
 ## About This Role
 
-This technology / it consulting position at Ecolab was posted on 2026-02-27.
+This technology / it consulting position at Ecolab was posted on 2026-03-11.
 
 ## Get Real-Time Alerts
 

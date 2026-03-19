@@ -6,7 +6,7 @@
 | Location | Barcelona, Catalonia, Spain |
 | Category | Sales Engineer |
 | Posted | 2026-03-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ecovadis/744000113089237-sales-engineer-associate) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ecovadis/744000113236164-sales-engineer-associate) |
 
 ## About This Role
 

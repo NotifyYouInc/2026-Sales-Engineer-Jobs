@@ -6,7 +6,7 @@
 | Location | Pune, Maharashtra, India |
 | Category | SOC & Incident Response |
 | Posted | 2026-03-06 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=88287) |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=88291) |
 
 ## About This Role
 

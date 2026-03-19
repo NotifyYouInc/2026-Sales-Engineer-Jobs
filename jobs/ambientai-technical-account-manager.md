@@ -5,12 +5,12 @@
 | Company | [Ambient.ai](https://scoutify.ai/companies/ambient-ai?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Boston, Massachusetts, United States |
 | Category | Customer Success |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/ambient.ai/f371f92a-002d-4471-9961-897c4883260c) |
+| Posted | 2026-03-11 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/ambient.ai/e4202787-9ef9-4e4c-888c-85d3cbbabeb0) |
 
 ## About This Role
 
-This customer success position at Ambient.ai was posted on 2026-02-24.
+This customer success position at Ambient.ai was posted on 2026-03-11.
 
 ## Get Real-Time Alerts
 

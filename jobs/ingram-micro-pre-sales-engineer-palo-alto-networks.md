@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Ingram Micro](https://scoutify.ai/companies/ingram-micro?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Mexico City, Mexico City, Mexico |
+| Location | Belgrade, Central Serbia, Serbia |
 | Category | Sales Engineer |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://ingrammicro.wd5.myworkdayjobs.com/ingrammicro/job/Mexico-DF-Mexico/Pre-Sales-Engineer---Palo-Alto-Networks_R-113357-1) |
+| Posted | 2026-03-11 |
+| Apply | [View on company site](https://ingrammicro.wd5.myworkdayjobs.com/ingrammicro/job/Belgrade-Serbia/Pre-Sales-Engineer---Palo-Alto-Networks_R-114048) |
 
 ## About This Role
 
-This sales engineer position at Ingram Micro was posted on 2026-02-25.
+This sales engineer position at Ingram Micro was posted on 2026-03-11.
 
 ## Get Real-Time Alerts
 

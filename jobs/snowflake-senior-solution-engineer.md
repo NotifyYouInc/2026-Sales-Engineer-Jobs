@@ -1,16 +1,16 @@
-# Senior Solution Engineer  at Snowflake
+# Senior Solution Engineer at Snowflake
 
 | Field | Details |
 |-------|---------|
 | Company | [Snowflake](https://scoutify.ai/companies/snowflake?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Minnesota, US |
-| Category | Sales Engineer |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/snowflake/4e71bc61-894c-4bcc-a901-b862913ee50d) |
+| Location | Massachusetts, US |
+| Category | Account Executive |
+| Posted | 2026-03-11 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/snowflake/e5333632-ca88-45da-938c-20f14baa74d5) |
 
 ## About This Role
 
-This sales engineer position at Snowflake was posted on 2026-02-26.
+This account executive position at Snowflake was posted on 2026-03-11.
 
 ## Get Real-Time Alerts
 

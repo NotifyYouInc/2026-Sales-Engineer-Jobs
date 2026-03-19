@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Arista Networks](https://scoutify.ai/companies/aristanetworks?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Santa Clara, California, United States |
-| Category | Technical & Solutions Architect |
-| Posted | 2026-02-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AristaNetworks/744000108783554-systems-engineer-campus-wired-and-wireless) |
+| Category | Sales Engineer |
+| Posted | 2026-03-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AristaNetworks/744000114062505-systems-engineer-campus-wired-and-wireless) |
 
 ## About This Role
 
-This technical & solutions architect position at Arista Networks was posted on 2026-02-11.
+This sales engineer position at Arista Networks was posted on 2026-03-11.
 
 ## Get Real-Time Alerts
 
