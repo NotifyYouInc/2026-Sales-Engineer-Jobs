@@ -6,7 +6,7 @@
 | Location | Kolkata, West Bengal, India |
 | Category | Technology / IT Consulting |
 | Posted | 2026-03-09 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=100724) |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=100762) |
 
 ## About This Role
 

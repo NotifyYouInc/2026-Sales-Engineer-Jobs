@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Veeam Software](https://scoutify.ai/companies/veeamsoftware?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Switzerland |
+| Location | São Paulo, São Paulo, Brazil |
 | Category | Sales Engineer |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4781639101) |
+| Posted | 2026-03-12 |
+| Apply | [View on company site](https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4807924101) |
 
 ## About This Role
 
-This sales engineer position at Veeam Software was posted on 2026-03-02.
+This sales engineer position at Veeam Software was posted on 2026-03-12.
 
 ## Get Real-Time Alerts
 

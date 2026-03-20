@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Hewlett Packard Enterprise](https://scoutify.ai/companies/hewlett-packard-enterprise?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Heredia, Heredia Province, Costa Rica |
+| Location | Karnataka, IN |
 | Category | Technology / IT Consulting |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/Heredia-Heredia-Costa-Rica/OS-Technical-Consultant_1199476) |
+| Posted | 2026-03-09 |
+| Apply | [View on company site](https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/Bangalore-Karnataka-India/OS-Technical-Consultant_1199435-1) |
 
 ## About This Role
 
-This technology / it consulting position at Hewlett Packard Enterprise was posted on 2026-03-06.
+This technology / it consulting position at Hewlett Packard Enterprise was posted on 2026-03-09.
 
 ## Get Real-Time Alerts
 

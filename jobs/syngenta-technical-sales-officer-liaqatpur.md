@@ -5,12 +5,12 @@
 | Company | [Syngenta](https://scoutify.ai/companies/syngenta?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Rahim Yar Khan, Punjab, Pakistan |
 | Category | Sales Leadership |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SyngentaGroup/744000111551022-technical-sales-officer-liaqatpur) |
+| Posted | 2026-03-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SyngentaGroup/744000114533368-technical-sales-officer-liaqatpur) |
 
 ## About This Role
 
-This sales leadership position at Syngenta was posted on 2026-02-26.
+This sales leadership position at Syngenta was posted on 2026-03-13.
 
 ## Get Real-Time Alerts
 

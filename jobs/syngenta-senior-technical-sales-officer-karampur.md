@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Syngenta](https://scoutify.ai/companies/syngenta?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Punjab, PK |
-| Category | Sales Leadership |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SyngentaGroup/744000111553425-senior-technical-sales-officer-karampur) |
+| Category | Channel / Partner Sales |
+| Posted | 2026-03-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SyngentaGroup/744000114534527-senior-technical-sales-officer-karampur) |
 
 ## About This Role
 
-This sales leadership position at Syngenta was posted on 2026-02-26.
+This channel / partner sales position at Syngenta was posted on 2026-03-13.
 
 ## Get Real-Time Alerts
 

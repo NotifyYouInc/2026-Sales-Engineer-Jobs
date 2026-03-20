@@ -5,12 +5,12 @@
 | Company | [Radius](https://scoutify.ai/companies/radius?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Belfast, Northern Ireland, United Kingdom |
 | Category | Customer Success |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/RadiusLimited/744000112725127-telecoms-hosted-voice-field-engineer) |
+| Posted | 2026-03-12 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/RadiusLimited/744000114316188-telecoms-hosted-voice-field-engineer) |
 
 ## About This Role
 
-This customer success position at Radius was posted on 2026-03-04.
+This customer success position at Radius was posted on 2026-03-12.
 
 ## Get Real-Time Alerts
 

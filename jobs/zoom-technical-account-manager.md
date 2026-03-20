@@ -5,12 +5,12 @@
 | Company | [Zoom](https://scoutify.ai/companies/zoom?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | United States |
 | Category | Customer Success |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://zoom.wd5.myworkdayjobs.com/zoom/job/Remote--US/Technical-Account-Manager_R18708-1) |
+| Posted | 2026-03-12 |
+| Apply | [View on company site](https://zoom.wd5.myworkdayjobs.com/zoom/job/Remote--US/Technical-Account-Manager_R18759-1) |
 
 ## About This Role
 
-This customer success position at Zoom was posted on 2026-03-06.
+This customer success position at Zoom was posted on 2026-03-12.
 
 ## Get Real-Time Alerts
 

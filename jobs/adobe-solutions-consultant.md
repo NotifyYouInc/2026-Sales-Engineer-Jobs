@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Adobe](https://scoutify.ai/companies/adobe-inc?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Georgia, US |
-| Category | Customer Success |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Remote-Illinois/Solutions-Consultant_R165402) |
+| Location | 2 locations |
+| Category | Technical Writer |
+| Posted | 2026-03-12 |
+| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Madrid/Solutions-Consultant_R166474) |
 
 ## About This Role
 
-This customer success position at Adobe was posted on 2026-02-19.
+This technical writer position at Adobe was posted on 2026-03-12.
 
 ## Get Real-Time Alerts
 

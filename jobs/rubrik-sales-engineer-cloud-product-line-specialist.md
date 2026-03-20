@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Rubrik](https://scoutify.ai/companies/rubrik?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | California, US |
-| Category | Sales Engineer |
-| Posted | 2026-02-23 |
-| Apply | [View on company site](https://www.rubrik.com/company/careers/departments/job.7523627?gh_jid=7523627) |
+| Category | Account Executive |
+| Posted | 2026-03-12 |
+| Apply | [View on company site](https://www.rubrik.com/company/careers/departments/job.6988304?gh_jid=6988304) |
 
 ## About This Role
 
-This sales engineer position at Rubrik was posted on 2026-02-23.
+This account executive position at Rubrik was posted on 2026-03-12.
 
 ## Get Real-Time Alerts
 

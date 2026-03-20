@@ -1,16 +1,16 @@
-# Allergan Aesthetics Product Specialist  at AbbVie
+# Allergan Aesthetics Product Specialist at AbbVie
 
 | Field | Details |
 |-------|---------|
 | Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Al Aḩmadī, Al Aḩmadī, Kuwait |
+| Location | Doha, Baladīyat ad Dawḩah, Qatar |
 | Category | Account Executive |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990011838156-allergan-aesthetics-product-specialist) |
+| Posted | 2026-03-12 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012103900-allergan-aesthetics-product-specialist) |
 
 ## About This Role
 
-This account executive position at AbbVie was posted on 2026-02-25.
+This account executive position at AbbVie was posted on 2026-03-12.
 
 ## Get Real-Time Alerts
 
