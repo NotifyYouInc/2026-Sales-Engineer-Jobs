@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Hewlett Packard Enterprise](https://scoutify.ai/companies/hewlett-packard-enterprise?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | 2 locations |
+| Location | Tlaquepaque, Jalisco, Mexico |
 | Category | Technology / IT Consulting |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/Mexico-City-Distrito-Federal-Mexico/Tech-Center---Technical-Consultant_1202540-3) |
+| Posted | 2026-03-13 |
+| Apply | [View on company site](https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/Tlaquepaque-Jalisco-Mexico/Tech-Center---Technical-Consultant_1203135) |
 
 ## About This Role
 
-This technology / it consulting position at Hewlett Packard Enterprise was posted on 2026-02-17.
+This technology / it consulting position at Hewlett Packard Enterprise was posted on 2026-03-13.
 
 ## Get Real-Time Alerts
 

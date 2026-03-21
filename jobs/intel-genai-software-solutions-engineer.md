@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Intel](https://scoutify.ai/companies/intel?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Penang, MY |
-| Category | Software Engineer |
-| Posted | 2026-02-10 |
-| Apply | [View on company site](https://intel.wd1.myworkdayjobs.com/External/job/Malaysia-Penang/GenAI-Software-Solutions-Engineer_JR0280836) |
+| Category | AI / LLM Engineer |
+| Posted | 2026-03-13 |
+| Apply | [View on company site](https://intel.wd1.myworkdayjobs.com/External/job/Malaysia-Penang/GenAI-Software-Solutions-Engineer_JR0282038) |
 
 ## About This Role
 
-This software engineer position at Intel was posted on 2026-02-10.
+This ai / llm engineer position at Intel was posted on 2026-03-13.
 
 ## Get Real-Time Alerts
 

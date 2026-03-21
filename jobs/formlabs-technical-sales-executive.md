@@ -1,16 +1,16 @@
-# Technical Sales Executive at Formlabs
+# Technical Sales Executive  at Formlabs
 
 | Field | Details |
 |-------|---------|
 | Company | [Formlabs](https://scoutify.ai/companies/formlabs?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Berlin, State of Berlin, Germany |
+| Location | 3 locations |
 | Category | Account Executive |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://careers.formlabs.com/job/7661627/apply/?gh_jid=7661627) |
+| Posted | 2026-03-13 |
+| Apply | [View on company site](https://careers.formlabs.com/job/7715807/apply/?gh_jid=7715807) |
 
 ## About This Role
 
-This account executive position at Formlabs was posted on 2026-02-27.
+This account executive position at Formlabs was posted on 2026-03-13.
 
 ## Get Real-Time Alerts
 

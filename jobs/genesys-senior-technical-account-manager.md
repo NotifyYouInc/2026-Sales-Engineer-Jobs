@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Genesys](https://scoutify.ai/companies/genesys?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Paris, Île-de-France, France |
+| Location | Munich, Bavaria, Germany |
 | Category | Customer Success |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://genesys.wd1.myworkdayjobs.com/Genesys/job/Paris-France/Senior-Technical-Account-Manager_JR110181-2) |
+| Posted | 2026-03-11 |
+| Apply | [View on company site](https://genesys.wd1.myworkdayjobs.com/Genesys/job/Frankfurt-Flexible/Senior-Technical-Account-Manager_JR110164-2) |
 
 ## About This Role
 
-This customer success position at Genesys was posted on 2026-03-09.
+This customer success position at Genesys was posted on 2026-03-11.
 
 ## Get Real-Time Alerts
 

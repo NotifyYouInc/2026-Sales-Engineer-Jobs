@@ -1,16 +1,16 @@
-# Product specialist at Smith+Nephew
+# Product Specialist at Smith+Nephew
 
 | Field | Details |
 |-------|---------|
 | Company | [Smith+Nephew](https://scoutify.ai/companies/smithnephew?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Dubai, Dubai, United Arab Emirates |
+| Location | 2 locations |
 | Category | Account Executive |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://smithnephew.wd5.myworkdayjobs.com/External/job/UAE---DUBAI/Product-specialist_R88680-1) |
+| Posted | 2026-03-13 |
+| Apply | [View on company site](https://smithnephew.wd5.myworkdayjobs.com/External/job/SAU-Western-Region-Jeddah-City-Madina-city-Mecca-city-Taif-City-Tabuk-City/Product-Specialist_R87977) |
 
 ## About This Role
 
-This account executive position at Smith+Nephew was posted on 2026-03-06.
+This account executive position at Smith+Nephew was posted on 2026-03-13.
 
 ## Get Real-Time Alerts
 
