@@ -1,0 +1,22 @@
+# IEW Field Engineer (TROJAN/PROPHET) - Vicenza, IT (TESA) (Secret Clearance Required - with ability to obtain a TS/SCI w/ Poly) at General Dynamics Information Technology
+
+| Field | Details |
+|-------|---------|
+| Company | [General Dynamics Information Technology](https://scoutify.ai/companies/general-dynamics-information-technology?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
+| Location | Not specified |
+| Category | Electrical / Hardware Engineer |
+| Posted | 2026-03-15 |
+| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/International/IEW-Field-Engineer--TROJAN-PROPHET----Vicenza--IT--TESA---Secret-Clearance-Required---with-ability-to-obtain-a-TS-SCI-w--Poly-_RQ216479-1) |
+
+## About This Role
+
+This electrical / hardware engineer position at General Dynamics Information Technology was posted on 2026-03-15.
+
+## Get Real-Time Alerts
+
+This job was posted 7+ days ago. For instant alerts on new jobs like this:
+
+**[Get Instant Job Alerts on Scoutify](https://scoutify.ai?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs)** - Be first to apply at 8,800+ companies.
+
+---
+*Data sourced from [Scoutify](https://scoutify.ai) | Updated daily*

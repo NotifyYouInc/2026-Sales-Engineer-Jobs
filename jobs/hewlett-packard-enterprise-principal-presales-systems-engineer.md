@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Hewlett Packard Enterprise](https://scoutify.ai/companies/hewlett-packard-enterprise?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Denver, Colorado, United States |
-| Category | Technical & Solutions Architect |
-| Posted | 2026-02-09 |
-| Apply | [View on company site](https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/All-Colorado-United-States-of-America/Principal-Presales--Systems-Engineer_1198599) |
+| Location | Iowa, US |
+| Category | Sales Engineer |
+| Posted | 2026-03-14 |
+| Apply | [View on company site](https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/All-Iowa-United-States-of-America/Principal-Presales--Systems-Engineer_1203173) |
 
 ## About This Role
 
-This technical & solutions architect position at Hewlett Packard Enterprise was posted on 2026-02-09.
+This sales engineer position at Hewlett Packard Enterprise was posted on 2026-03-14.
 
 ## Get Real-Time Alerts
 
