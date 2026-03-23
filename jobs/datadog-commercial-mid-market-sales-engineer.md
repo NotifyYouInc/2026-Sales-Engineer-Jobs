@@ -1,16 +1,16 @@
-# Technical Consultant-Threat Detection Content & Administration at IBM
+# Commercial & Mid-Market Sales Engineer at Datadog
 
 | Field | Details |
 |-------|---------|
-| Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
+| Company | [Datadog](https://scoutify.ai/companies/datadog?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | India |
-| Category | SOC & Incident Response |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=100130) |
+| Category | Sales Engineer |
+| Posted | 2026-03-16 |
+| Apply | [View on company site](https://careers.datadoghq.com/detail/7685641/?gh_jid=7685641) |
 
 ## About This Role
 
-This soc & incident response position at IBM was posted on 2026-03-10.
+This sales engineer position at Datadog was posted on 2026-03-16.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Technical Specialist at EML
+# Solution Consultant - II at New Relic
 
 | Field | Details |
 |-------|---------|
-| Company | [EML](https://scoutify.ai/companies/eml?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | 3 locations |
-| Category | Legal |
+| Company | [New Relic](https://scoutify.ai/companies/new-relic?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
+| Location | Delhi, Delhi, India |
+| Category | Sales Engineer |
 | Posted | 2026-03-16 |
-| Apply | [View on company site](https://eml.wd105.myworkdayjobs.com/eml/job/Canberra-Australian-Capital-Territory/Technical-Specialist_JR5314) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/newrelic/jobs/5147050008) |
 
 ## About This Role
 
-This legal position at EML was posted on 2026-03-16.
+This sales engineer position at New Relic was posted on 2026-03-16.
 
 ## Get Real-Time Alerts
 

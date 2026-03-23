@@ -1,16 +1,16 @@
-# Technical Specialist at EML
+# プリセールスエンジニア（日本市場担当） at Wix.com
 
 | Field | Details |
 |-------|---------|
-| Company | [EML](https://scoutify.ai/companies/eml?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | 3 locations |
-| Category | Legal |
+| Company | [Wix.com](https://scoutify.ai/companies/wixcom?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
+| Location | Tokyo, Tokyo, Japan |
+| Category | Sales Engineer |
 | Posted | 2026-03-16 |
-| Apply | [View on company site](https://eml.wd105.myworkdayjobs.com/eml/job/Canberra-Australian-Capital-Territory/Technical-Specialist_JR5314) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Wix2/744000114896542-) |
 
 ## About This Role
 
-This legal position at EML was posted on 2026-03-16.
+This sales engineer position at Wix.com was posted on 2026-03-16.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ABB](https://scoutify.ai/companies/abb?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Bergamo, Lombardy, Italy |
-| Category | Product Manager |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Bergamo-Bergamo-Italy/Product-Specialist_JR00027217) |
+| Location | Cary, North Carolina, United States |
+| Category | Marketing |
+| Posted | 2026-03-12 |
+| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/USA-NC-Cary/Product-Specialist_JR00026292) |
 
 ## About This Role
 
-This product manager position at ABB was posted on 2026-03-10.
+This marketing position at ABB was posted on 2026-03-12.
 
 ## Get Real-Time Alerts
 

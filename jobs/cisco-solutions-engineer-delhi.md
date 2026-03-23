@@ -1,16 +1,16 @@
-# Sales Engineer at Trend Micro
+# Solutions Engineer - Delhi at Cisco
 
 | Field | Details |
 |-------|---------|
-| Company | [Trend Micro](https://scoutify.ai/companies/trendmicro?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Istanbul, Istanbul, Turkey |
+| Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
+| Location | New Delhi, Delhi, India |
 | Category | Sales Engineer |
 | Posted | 2026-03-15 |
-| Apply | [View on company site](https://trendmicro.wd3.myworkdayjobs.com/External/job/Istanbul/Sales-Engineer_R0009310) |
+| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/New-Delhi-India/Solutions-Engineer---Delhi_2009928) |
 
 ## About This Role
 
-This sales engineer position at Trend Micro was posted on 2026-03-15.
+This sales engineer position at Cisco was posted on 2026-03-15.
 
 ## Get Real-Time Alerts
 

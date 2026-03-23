@@ -1,12 +1,12 @@
-# Senior Channel Sales Engineer at Johnson Controls
+# Senior Channel Sales Engineer, 轻商，台州/宁波 at Johnson Controls
 
 | Field | Details |
 |-------|---------|
 | Company | [Johnson Controls](https://scoutify.ai/companies/jci?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Guangzhou, Guangdong, China |
+| Location | Ningbo, Zhejiang, China |
 | Category | Channel / Partner Sales |
 | Posted | 2026-03-16 |
-| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Guangzhou-Guangdong-China/Senior-Channel-Sales-Engineer_WD30263241) |
+| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Ningbo-Zhejiang-China/Senior-Channel-Sales-Engineer----_WD30264318) |
 
 ## About This Role
 

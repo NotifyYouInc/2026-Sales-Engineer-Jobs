@@ -1,16 +1,16 @@
-# Technical Specialist at EML
+# Senior Lead Sales Engineer at Equinix
 
 | Field | Details |
 |-------|---------|
-| Company | [EML](https://scoutify.ai/companies/eml?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | 3 locations |
-| Category | Legal |
+| Company | [Equinix](https://scoutify.ai/companies/equinix?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
+| Location | Hong Kong |
+| Category | Sales Engineer |
 | Posted | 2026-03-16 |
-| Apply | [View on company site](https://eml.wd105.myworkdayjobs.com/eml/job/Canberra-Australian-Capital-Territory/Technical-Specialist_JR5314) |
+| Apply | [View on company site](https://equinix.wd1.myworkdayjobs.com/external/job/Kowloon-West/Senior-Lead-Sales-Engineer_JR-159169) |
 
 ## About This Role
 
-This legal position at EML was posted on 2026-03-16.
+This sales engineer position at Equinix was posted on 2026-03-16.
 
 ## Get Real-Time Alerts
 

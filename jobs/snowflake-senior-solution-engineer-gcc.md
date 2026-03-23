@@ -1,16 +1,16 @@
-# Technical Specialist at EML
+# Senior Solution Engineer - GCC at Snowflake
 
 | Field | Details |
 |-------|---------|
-| Company | [EML](https://scoutify.ai/companies/eml?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | 3 locations |
-| Category | Legal |
+| Company | [Snowflake](https://scoutify.ai/companies/snowflake?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
+| Location | Hyderabad, Telangana, India |
+| Category | Sales Engineer |
 | Posted | 2026-03-16 |
-| Apply | [View on company site](https://eml.wd105.myworkdayjobs.com/eml/job/Canberra-Australian-Capital-Territory/Technical-Specialist_JR5314) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/snowflake/593fe4d5-b95a-49f4-bb66-0705f3102e83) |
 
 ## About This Role
 
-This legal position at EML was posted on 2026-03-16.
+This sales engineer position at Snowflake was posted on 2026-03-16.
 
 ## Get Real-Time Alerts
 

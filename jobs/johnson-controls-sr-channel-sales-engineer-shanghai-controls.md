@@ -1,16 +1,16 @@
-# Senior Channel Sales Engineer at Johnson Controls
+# Sr Channel Sales Engineer, Shanghai, Controls at Johnson Controls
 
 | Field | Details |
 |-------|---------|
 | Company | [Johnson Controls](https://scoutify.ai/companies/jci?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Guangzhou, Guangdong, China |
-| Category | Channel / Partner Sales |
+| Location | Shanghai, Shanghai, China |
+| Category | Industrial Automation |
 | Posted | 2026-03-16 |
-| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Guangzhou-Guangdong-China/Senior-Channel-Sales-Engineer_WD30263241) |
+| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Shanghai-Shanghai-China/Sr-Channel-Sales-Engineer--Shanghai--Controls_WD30264094) |
 
 ## About This Role
 
-This channel / partner sales position at Johnson Controls was posted on 2026-03-16.
+This industrial automation position at Johnson Controls was posted on 2026-03-16.
 
 ## Get Real-Time Alerts
 
