@@ -5,12 +5,12 @@
 | Company | [ServiceNow](https://scoutify.ai/companies/servicenow?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Stockholm, Stockholm, Sweden |
 | Category | Technology / IT Consulting |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000110193362-principal-technical-consultant-customer-workflows) |
+| Posted | 2026-03-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000115083707-principal-technical-consultant-customer-workflows) |
 
 ## About This Role
 
-This technology / it consulting position at ServiceNow was posted on 2026-02-19.
+This technology / it consulting position at ServiceNow was posted on 2026-03-16.
 
 ## Get Real-Time Alerts
 

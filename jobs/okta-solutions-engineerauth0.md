@@ -1,16 +1,16 @@
-# Senior Systems Engineer at Veeam Software
+# Solutions Engineer/Auth0 at Okta
 
 | Field | Details |
 |-------|---------|
-| Company | [Veeam Software](https://scoutify.ai/companies/veeamsoftware?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Alberta, CA |
+| Company | [Okta](https://scoutify.ai/companies/okta?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
+| Location | San Francisco, California, United States |
 | Category | Sales Engineer |
 | Posted | 2026-03-16 |
-| Apply | [View on company site](https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4802783101) |
+| Apply | [View on company site](https://www.okta.com/company/careers/opportunity/7692313?gh_jid=7692313) |
 
 ## About This Role
 
-This sales engineer position at Veeam Software was posted on 2026-03-16.
+This sales engineer position at Okta was posted on 2026-03-16.
 
 ## Get Real-Time Alerts
 

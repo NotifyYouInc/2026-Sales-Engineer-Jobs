@@ -1,16 +1,16 @@
-# Cloud & AI Data Solution Engineer at Microsoft
+# Cloud Solutions Engineer at The Aerospace Corporation
 
 | Field | Details |
 |-------|---------|
-| Company | [Microsoft](https://scoutify.ai/companies/microsoft?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Tokyo, Tokyo, Japan |
+| Company | [The Aerospace Corporation](https://scoutify.ai/companies/aero?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
+| Location | 2 locations |
 | Category | DevOps Engineer |
 | Posted | 2026-03-16 |
-| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556849268) |
+| Apply | [View on company site](https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/Cloud-Solutions-Engineer_R014770) |
 
 ## About This Role
 
-This devops engineer position at Microsoft was posted on 2026-03-16.
+This devops engineer position at The Aerospace Corporation was posted on 2026-03-16.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Senior Systems Engineer at Veeam Software
+# Product Specialist Rare/ Hemato at Sanofi
 
 | Field | Details |
 |-------|---------|
-| Company | [Veeam Software](https://scoutify.ai/companies/veeamsoftware?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Alberta, CA |
+| Company | [Sanofi](https://scoutify.ai/companies/sanofi?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
+| Location | Not specified |
 | Category | Sales Engineer |
 | Posted | 2026-03-16 |
-| Apply | [View on company site](https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4802783101) |
+| Apply | [View on company site](https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Cear/Product-Specialist-Rare--Hemato_R2847170) |
 
 ## About This Role
 
-This sales engineer position at Veeam Software was posted on 2026-03-16.
+This sales engineer position at Sanofi was posted on 2026-03-16.
 
 ## Get Real-Time Alerts
 

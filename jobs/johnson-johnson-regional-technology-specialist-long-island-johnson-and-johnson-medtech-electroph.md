@@ -1,16 +1,16 @@
-# Product Specialist at Johnson & Johnson
+# Regional Technology Specialist - Long Island - Johnson and Johnson MedTech - Electrophysiology at Johnson & Johnson
 
 | Field | Details |
 |-------|---------|
 | Company | [Johnson & Johnson](https://scoutify.ai/companies/johnson-johnson?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Hangzhou, Zhejiang, China |
-| Category | Account Executive |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://jj.wd5.myworkdayjobs.com/JJ/job/Hangzhou-Zhejiang-China/Product-Specialist_R-064298) |
+| Location | New York, US |
+| Category | Account Manager |
+| Posted | 2026-03-16 |
+| Apply | [View on company site](https://jj.wd5.myworkdayjobs.com/JJ/job/New-York-Any-City/Regional-Technology-Specialist---Long-Island---Johnson-and-Johnson-MedTech---Electrophysiology_R-063028-1) |
 
 ## About This Role
 
-This account executive position at Johnson & Johnson was posted on 2026-03-17.
+This account manager position at Johnson & Johnson was posted on 2026-03-16.
 
 ## Get Real-Time Alerts
 

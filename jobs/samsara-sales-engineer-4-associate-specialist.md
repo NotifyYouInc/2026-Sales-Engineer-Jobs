@@ -1,16 +1,16 @@
-# Senior Systems Engineer at Veeam Software
+# Sales Engineer 4 - Associate Specialist at Samsara
 
 | Field | Details |
 |-------|---------|
-| Company | [Veeam Software](https://scoutify.ai/companies/veeamsoftware?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Alberta, CA |
+| Company | [Samsara](https://scoutify.ai/companies/samsara?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
+| Location | Not specified |
 | Category | Sales Engineer |
 | Posted | 2026-03-16 |
-| Apply | [View on company site](https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4802783101) |
+| Apply | [View on company site](https://www.samsara.com/company/careers/roles/7717258?gh_jid=7717258) |
 
 ## About This Role
 
-This sales engineer position at Veeam Software was posted on 2026-03-16.
+This sales engineer position at Samsara was posted on 2026-03-16.
 
 ## Get Real-Time Alerts
 

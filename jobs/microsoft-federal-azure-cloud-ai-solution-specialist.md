@@ -1,16 +1,16 @@
-# Senior Systems Engineer at Veeam Software
+# Federal Azure Cloud & AI Solution Specialist at Microsoft
 
 | Field | Details |
 |-------|---------|
-| Company | [Veeam Software](https://scoutify.ai/companies/veeamsoftware?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Alberta, CA |
+| Company | [Microsoft](https://scoutify.ai/companies/microsoft?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
+| Location | Washington, District of Columbia, United States |
 | Category | Sales Engineer |
 | Posted | 2026-03-16 |
-| Apply | [View on company site](https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4802783101) |
+| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556834475) |
 
 ## About This Role
 
-This sales engineer position at Veeam Software was posted on 2026-03-16.
+This sales engineer position at Microsoft was posted on 2026-03-16.
 
 ## Get Real-Time Alerts
 

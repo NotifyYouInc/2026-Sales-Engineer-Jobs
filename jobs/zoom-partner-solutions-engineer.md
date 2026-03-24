@@ -1,16 +1,16 @@
-# Senior Systems Engineer at Veeam Software
+# Partner Solutions Engineer at Zoom
 
 | Field | Details |
 |-------|---------|
-| Company | [Veeam Software](https://scoutify.ai/companies/veeamsoftware?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Alberta, CA |
+| Company | [Zoom](https://scoutify.ai/companies/zoom?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
+| Location | United States |
 | Category | Sales Engineer |
 | Posted | 2026-03-16 |
-| Apply | [View on company site](https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4802783101) |
+| Apply | [View on company site](https://zoom.wd5.myworkdayjobs.com/zoom/job/Remote--US/Partner-Solutions-Engineer_R18794-1) |
 
 ## About This Role
 
-This sales engineer position at Veeam Software was posted on 2026-03-16.
+This sales engineer position at Zoom was posted on 2026-03-16.
 
 ## Get Real-Time Alerts
 

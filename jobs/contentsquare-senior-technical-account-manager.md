@@ -1,16 +1,16 @@
-# Cloud & AI Data Solution Engineer at Microsoft
+# Senior Technical Account Manager at ContentSquare
 
 | Field | Details |
 |-------|---------|
-| Company | [Microsoft](https://scoutify.ai/companies/microsoft?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
+| Company | [ContentSquare](https://scoutify.ai/companies/contentsquare?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Tokyo, Tokyo, Japan |
-| Category | DevOps Engineer |
-| Posted | 2026-03-16 |
-| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556849268) |
+| Category | Customer Success |
+| Posted | 2026-03-17 |
+| Apply | [View on company site](https://jobs.lever.co/contentsquare/b2e07e2a-343e-4330-81be-ecc05074d61b) |
 
 ## About This Role
 
-This devops engineer position at Microsoft was posted on 2026-03-16.
+This customer success position at ContentSquare was posted on 2026-03-17.
 
 ## Get Real-Time Alerts
 

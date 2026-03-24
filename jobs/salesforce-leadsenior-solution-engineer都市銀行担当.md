@@ -1,16 +1,16 @@
-# Director, Solution Engineering at Salesforce
+# Lead/Senior Solution Engineer（都市銀行担当） at Salesforce
 
 | Field | Details |
 |-------|---------|
 | Company | [Salesforce](https://scoutify.ai/companies/salesforce?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | 3 locations |
+| Location | Tokyo, Tokyo, Japan |
 | Category | Sales Engineer |
-| Posted | 2026-03-16 |
-| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/New-York---New-York-City-Metro---Remote/Director--Solution-Engineering_JR332940) |
+| Posted | 2026-03-17 |
+| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Japan---Tokyo/Lead-Senior-Solution-Engineer--_JR333702) |
 
 ## About This Role
 
-This sales engineer position at Salesforce was posted on 2026-03-16.
+This sales engineer position at Salesforce was posted on 2026-03-17.
 
 ## Get Real-Time Alerts
 

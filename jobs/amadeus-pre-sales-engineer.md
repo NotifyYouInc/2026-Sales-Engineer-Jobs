@@ -1,16 +1,16 @@
-# Senior Systems Engineer at Veeam Software
+# Pre-Sales Engineer at Amadeus
 
 | Field | Details |
 |-------|---------|
-| Company | [Veeam Software](https://scoutify.ai/companies/veeamsoftware?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Alberta, CA |
+| Company | [Amadeus](https://scoutify.ai/companies/amadeus?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
+| Location | Bangkok, Bangkok, Thailand |
 | Category | Sales Engineer |
-| Posted | 2026-03-16 |
-| Apply | [View on company site](https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4802783101) |
+| Posted | 2026-03-17 |
+| Apply | [View on company site](https://amadeus.wd502.myworkdayjobs.com/jobs/job/Bangkok/Pre-Sales-Engineer_R34057) |
 
 ## About This Role
 
-This sales engineer position at Veeam Software was posted on 2026-03-16.
+This sales engineer position at Amadeus was posted on 2026-03-17.
 
 ## Get Real-Time Alerts
 

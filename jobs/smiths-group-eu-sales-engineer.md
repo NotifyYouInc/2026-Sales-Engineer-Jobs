@@ -1,16 +1,16 @@
-# Senior Systems Engineer at Veeam Software
+# EU Sales Engineer at Smiths Group
 
 | Field | Details |
 |-------|---------|
-| Company | [Veeam Software](https://scoutify.ai/companies/veeamsoftware?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Alberta, CA |
+| Company | [Smiths Group](https://scoutify.ai/companies/smithsgroup?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
+| Location | Tianjin, Tianjin, China |
 | Category | Sales Engineer |
-| Posted | 2026-03-16 |
-| Apply | [View on company site](https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4802783101) |
+| Posted | 2026-03-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SmithsGroup2/744000115109296-eu-sales-engineer) |
 
 ## About This Role
 
-This sales engineer position at Veeam Software was posted on 2026-03-16.
+This sales engineer position at Smiths Group was posted on 2026-03-17.
 
 ## Get Real-Time Alerts
 
