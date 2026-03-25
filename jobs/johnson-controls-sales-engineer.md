@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Johnson Controls](https://scoutify.ai/companies/jci?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Chengdu, Sichuan, China |
-| Category | Sales Engineer |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Chengdu-Sichuan-China/Sales-Engineer_WD30263691-2) |
+| Location | Beijing, Beijing, China |
+| Category | Account Executive |
+| Posted | 2026-03-13 |
+| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Beijing-Beijing-China/Sales-Engineer_WD30263053-1) |
 
 ## About This Role
 
-This sales engineer position at Johnson Controls was posted on 2026-03-11.
+This account executive position at Johnson Controls was posted on 2026-03-13.
 
 ## Get Real-Time Alerts
 

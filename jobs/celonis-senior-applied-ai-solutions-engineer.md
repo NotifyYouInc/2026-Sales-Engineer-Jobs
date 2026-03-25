@@ -1,12 +1,12 @@
-# Senior Applied AI Solutions Engineer  at Celonis
+# Senior Applied AI Solutions Engineer at Celonis
 
 | Field | Details |
 |-------|---------|
 | Company | [Celonis](https://scoutify.ai/companies/celonis?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Paris, Île-de-France, France |
+| Location | Amsterdam, North Holland, The Netherlands |
 | Category | AI / LLM Engineer |
 | Posted | 2026-03-11 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/celonis/jobs/7661395003?gh_jid=7661395003) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/celonis/jobs/7661696003?gh_jid=7661696003) |
 
 ## About This Role
 

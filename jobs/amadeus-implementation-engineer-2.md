@@ -5,12 +5,12 @@
 | Company | [Amadeus](https://scoutify.ai/companies/amadeus?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | India |
 | Category | Customer Success |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://amadeus.wd502.myworkdayjobs.com/jobs/job/Bangalore/Implementation-Engineer-2_R33922) |
+| Posted | 2026-03-17 |
+| Apply | [View on company site](https://amadeus.wd502.myworkdayjobs.com/jobs/job/Bangalore/Implementation-Engineer-2_R34161) |
 
 ## About This Role
 
-This customer success position at Amadeus was posted on 2026-03-09.
+This customer success position at Amadeus was posted on 2026-03-17.
 
 ## Get Real-Time Alerts
 

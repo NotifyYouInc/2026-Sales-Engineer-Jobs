@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [UiPath](https://scoutify.ai/companies/uipath?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Karnataka, IN |
+| Location | India |
 | Category | Sales Leadership |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/uipath/4bc2ee5a-0403-456b-bbd6-22c3eb8a6b67) |
+| Posted | 2026-03-13 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/uipath/7e491683-1749-4690-992c-a929eafd0585) |
 
 ## About This Role
 
-This sales leadership position at UiPath was posted on 2026-03-11.
+This sales leadership position at UiPath was posted on 2026-03-13.
 
 ## Get Real-Time Alerts
 

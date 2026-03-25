@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [The Weir Group](https://scoutify.ai/companies/weir?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | United Kingdom |
-| Category | Sales |
-| Posted | 2026-02-06 |
-| Apply | [View on company site](https://weir.wd3.myworkdayjobs.com/weir_external_careers/job/Todmorden/Technical-Sales-Engineer_R0035150) |
+| Category | Sales Engineer |
+| Posted | 2026-03-17 |
+| Apply | [View on company site](https://weir.wd3.myworkdayjobs.com/weir_external_careers/job/GB018---MIN---Todmorden---WM-Europe-Todmorden/Technical-Sales-Engineer_R0035443) |
 
 ## About This Role
 
-This sales position at The Weir Group was posted on 2026-02-06.
+This sales engineer position at The Weir Group was posted on 2026-03-17.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CyberArk Software](https://scoutify.ai/companies/cyberarksoftware?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Taipei, Taiwan, Taiwan |
+| Location | Hong Kong, Hong Kong |
 | Category | Sales Engineer |
-| Posted | 2026-02-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Cyberark1/744000109136895-channel-solutions-engineer-north-asia-taiwanhong-kong-based) |
+| Posted | 2026-03-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Cyberark1/744000115364847-channel-solutions-engineer-north-asia-taiwanhong-kong-based) |
 
 ## About This Role
 
-This sales engineer position at CyberArk Software was posted on 2026-02-13.
+This sales engineer position at CyberArk Software was posted on 2026-03-18.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Arista Networks](https://scoutify.ai/companies/aristanetworks?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Jakarta, Jakarta, Indonesia |
 | Category | Sales Engineer |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AristaNetworks/744000112663577-network-systems-engineer-pre-sales-indonesia) |
+| Posted | 2026-03-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AristaNetworks/744000115259219-network-systems-engineer-pre-sales-indonesia) |
 
 ## About This Role
 
-This sales engineer position at Arista Networks was posted on 2026-03-04.
+This sales engineer position at Arista Networks was posted on 2026-03-17.
 
 ## Get Real-Time Alerts
 

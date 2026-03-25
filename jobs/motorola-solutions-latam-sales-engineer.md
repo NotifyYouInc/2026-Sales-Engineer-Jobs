@@ -5,12 +5,12 @@
 | Company | [Motorola Solutions](https://scoutify.ai/companies/motorola-solutions?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | 2 locations |
 | Category | Sales Engineer |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Brazil-Remote-Work/LATAM-Sales-Engineer_R62866) |
+| Posted | 2026-03-17 |
+| Apply | [View on company site](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Brazil-Remote-Work/LATAM-Sales-Engineer_R62946-1) |
 
 ## About This Role
 
-This sales engineer position at Motorola Solutions was posted on 2026-03-06.
+This sales engineer position at Motorola Solutions was posted on 2026-03-17.
 
 ## Get Real-Time Alerts
 

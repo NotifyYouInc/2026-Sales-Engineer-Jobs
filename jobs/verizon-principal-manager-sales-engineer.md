@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Verizon](https://scoutify.ai/companies/verizon?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Boston, Massachusetts, United States |
+| Location | Twinsburg, Ohio, United States |
 | Category | Sales Engineer |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Boston-Massachusetts/Principal-Manager-Sales-Engineer_R-1091737) |
+| Posted | 2026-03-17 |
+| Apply | [View on company site](https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Twinsburg-Ohio/Principal-Manager-Sales-Engineer_R-1091662-1) |
 
 ## About This Role
 
-This sales engineer position at Verizon was posted on 2026-03-09.
+This sales engineer position at Verizon was posted on 2026-03-17.
 
 ## Get Real-Time Alerts
 

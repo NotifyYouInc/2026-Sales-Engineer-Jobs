@@ -1,16 +1,16 @@
-# Principal, Specialist SE at Salesforce
+# Principal Specialist SE at Salesforce
 
 | Field | Details |
 |-------|---------|
 | Company | [Salesforce](https://scoutify.ai/companies/salesforce?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | San Francisco, California, United States |
+| Location | London, England, United Kingdom |
 | Category | Sales Engineer |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Principal--Specialist-SE_JR329629-1) |
+| Posted | 2026-03-17 |
+| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/United-Kingdom---London/Principal-Specialist-SE_JR332501-1) |
 
 ## About This Role
 
-This sales engineer position at Salesforce was posted on 2026-02-19.
+This sales engineer position at Salesforce was posted on 2026-03-17.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Sales Engineer, CML at Carrier Global
+# Sales Engineer-CML at Carrier Global
 
 | Field | Details |
 |-------|---------|
 | Company | [Carrier Global](https://scoutify.ai/companies/carrier?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Hangzhou, Zhejiang, China |
+| Location | Xiamen, Fujian, China |
 | Category | Sales Engineer |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://carrier.wd5.myworkdayjobs.com/jobs/job/LOC3177-Room-602-North-Building-Yefeng-Modern-Center-No161-Shaoxing-Road-Hangzhou-Zhejiang-China/Sales-Engineer--CML_30199088-2) |
+| Posted | 2026-03-17 |
+| Apply | [View on company site](https://carrier.wd5.myworkdayjobs.com/jobs/job/LOC3162-Unit-2405-Qixing-Building-No178-Qixing-West-Road-Xiamen-Fujian-China/Sales-Engineer-CML_30202110) |
 
 ## About This Role
 
-This sales engineer position at Carrier Global was posted on 2026-03-04.
+This sales engineer position at Carrier Global was posted on 2026-03-17.
 
 ## Get Real-Time Alerts
 

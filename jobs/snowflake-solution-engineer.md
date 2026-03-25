@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Snowflake](https://scoutify.ai/companies/snowflake?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Atlanta, Georgia, United States |
+| Location | Toronto, Ontario, Canada |
 | Category | Sales Engineer |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/snowflake/3d8a8850-eeff-49e6-a94a-638a6f1360c9) |
+| Posted | 2026-03-17 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/snowflake/6547cdbf-a09e-4a94-87db-831b75d5e9c2) |
 
 ## About This Role
 
-This sales engineer position at Snowflake was posted on 2026-02-17.
+This sales engineer position at Snowflake was posted on 2026-03-17.
 
 ## Get Real-Time Alerts
 

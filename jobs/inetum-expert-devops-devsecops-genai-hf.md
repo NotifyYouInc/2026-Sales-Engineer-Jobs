@@ -5,12 +5,12 @@
 | Company | [Inetum](https://scoutify.ai/companies/inetum?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | La Chapelle-sur-Erdre, Pays de la Loire, France |
 | Category | DevOps Engineer |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Inetum2/744000113200877-expert-devops-devsecops-genai-hf) |
+| Posted | 2026-03-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Inetum2/744000115256057-expert-devops-devsecops-genai-hf) |
 
 ## About This Role
 
-This devops engineer position at Inetum was posted on 2026-03-06.
+This devops engineer position at Inetum was posted on 2026-03-17.
 
 ## Get Real-Time Alerts
 
