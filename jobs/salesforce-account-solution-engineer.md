@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Salesforce](https://scoutify.ai/companies/salesforce?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Madrid, Madrid, Spain |
+| Location | 2 locations |
 | Category | Sales Engineer |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Spain---Madrid/Account-Solution-Engineer_JR332384) |
+| Posted | 2026-03-18 |
+| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Japan---Osaka/Account-Solution-Engineer_JR334271) |
 
 ## About This Role
 
-This sales engineer position at Salesforce was posted on 2026-03-09.
+This sales engineer position at Salesforce was posted on 2026-03-18.
 
 ## Get Real-Time Alerts
 

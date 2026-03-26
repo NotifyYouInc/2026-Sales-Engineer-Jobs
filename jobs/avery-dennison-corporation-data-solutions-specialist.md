@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Avery Dennison Corporation](https://scoutify.ai/companies/averydennisoncorporation?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Nottingham, England, United Kingdom |
+| Location | Spain |
 | Category | Customer Success |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AveryDennison/744000112709724-data-solutions-specialist) |
+| Posted | 2026-03-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AveryDennison/744000115504447-data-solutions-specialist) |
 
 ## About This Role
 
-This customer success position at Avery Dennison Corporation was posted on 2026-03-04.
+This customer success position at Avery Dennison Corporation was posted on 2026-03-18.
 
 ## Get Real-Time Alerts
 

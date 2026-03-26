@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Zeiss](https://scoutify.ai/companies/zeissgroup?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Beijing, Beijing, China |
+| Location | Shanghai, Shanghai, China |
 | Category | Sales Engineer |
-| Posted | 2026-03-12 |
-| Apply | [View on company site](https://zeissgroup.wd3.myworkdayjobs.com/External/job/Beijing/Sales-Engineer_JR_1047874) |
+| Posted | 2026-03-17 |
+| Apply | [View on company site](https://zeissgroup.wd3.myworkdayjobs.com/External/job/Shanghai/Sales-Engineer_JR_1048127) |
 
 ## About This Role
 
-This sales engineer position at Zeiss was posted on 2026-03-12.
+This sales engineer position at Zeiss was posted on 2026-03-17.
 
 ## Get Real-Time Alerts
 

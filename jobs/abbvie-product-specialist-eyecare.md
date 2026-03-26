@@ -5,12 +5,12 @@
 | Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Philippines |
 | Category | Account Executive |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012097776-product-specialist-eyecare) |
+| Posted | 2026-03-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012136680-product-specialist-eyecare) |
 
 ## About This Role
 
-This account executive position at AbbVie was posted on 2026-03-11.
+This account executive position at AbbVie was posted on 2026-03-13.
 
 ## Get Real-Time Alerts
 

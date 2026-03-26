@@ -5,12 +5,12 @@
 | Company | [Sierra](https://scoutify.ai/companies/sierra?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Paris, Île-de-France, France |
 | Category | Sales Engineer |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/sierra/8338fcb0-7ccf-4fd2-a347-3098a699b3c5) |
+| Posted | 2026-03-18 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/sierra/c6d2a0ee-2401-4751-bafb-e1468876e568) |
 
 ## About This Role
 
-This sales engineer position at Sierra was posted on 2026-02-25.
+This sales engineer position at Sierra was posted on 2026-03-18.
 
 ## Get Real-Time Alerts
 

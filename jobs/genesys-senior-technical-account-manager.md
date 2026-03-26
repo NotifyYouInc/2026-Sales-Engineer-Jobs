@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Genesys](https://scoutify.ai/companies/genesys?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Munich, Bavaria, Germany |
+| Location | Vimercate, Lombardy, Italy |
 | Category | Customer Success |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://genesys.wd1.myworkdayjobs.com/Genesys/job/Frankfurt-Flexible/Senior-Technical-Account-Manager_JR110164-2) |
+| Posted | 2026-03-18 |
+| Apply | [View on company site](https://genesys.wd1.myworkdayjobs.com/Genesys/job/Vimercate-Flexible/Senior-Technical-Account-Manager_JR110180-2) |
 
 ## About This Role
 
-This customer success position at Genesys was posted on 2026-03-11.
+This customer success position at Genesys was posted on 2026-03-18.
 
 ## Get Real-Time Alerts
 

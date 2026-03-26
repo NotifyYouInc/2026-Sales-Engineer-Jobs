@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Johnson & Johnson](https://scoutify.ai/companies/johnson-johnson?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Suzhou, Jiangsu, China |
+| Location | Jinan, Shandong, China |
 | Category | Account Executive |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://jj.wd5.myworkdayjobs.com/JJ/job/Suzhou-Jiangsu-China/Senior-Product-Specialist_R-062907) |
+| Posted | 2026-03-18 |
+| Apply | [View on company site](https://jj.wd5.myworkdayjobs.com/JJ/job/Jinan-Shandong-China/Senior-Product-Specialist_R-051395) |
 
 ## About This Role
 
-This account executive position at Johnson & Johnson was posted on 2026-03-09.
+This account executive position at Johnson & Johnson was posted on 2026-03-18.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cox](https://scoutify.ai/companies/cox?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Phoenix, Arizona, United States |
+| Location | Wichita, Kansas, United States |
 | Category | Sales Engineer |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Phoenix-AZ/Sales-Engineer-II--Cox-Business-_R202673416) |
+| Posted | 2026-03-18 |
+| Apply | [View on company site](https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Wichita-KS/Sales-Engineer-II--Cox-Business-_R202674658) |
 
 ## About This Role
 
-This sales engineer position at Cox was posted on 2026-02-20.
+This sales engineer position at Cox was posted on 2026-03-18.
 
 ## Get Real-Time Alerts
 

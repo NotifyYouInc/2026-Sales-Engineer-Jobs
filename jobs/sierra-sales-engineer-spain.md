@@ -5,12 +5,12 @@
 | Company | [Sierra](https://scoutify.ai/companies/sierra?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Madrid, Madrid, Spain |
 | Category | Sales Engineer |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/sierra/3a976fd9-dc6c-457a-b55a-4675ac48cfc6) |
+| Posted | 2026-03-18 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/sierra/39355227-d7a2-4066-b930-2bf2eeebc20c) |
 
 ## About This Role
 
-This sales engineer position at Sierra was posted on 2026-02-25.
+This sales engineer position at Sierra was posted on 2026-03-18.
 
 ## Get Real-Time Alerts
 

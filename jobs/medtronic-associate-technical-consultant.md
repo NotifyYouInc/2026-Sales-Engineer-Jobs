@@ -5,12 +5,12 @@
 | Company | [Medtronic](https://scoutify.ai/companies/medtronic?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Italy |
 | Category | Customer Success |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Milano-Lombardia-Italy/Associate-Technical-Consultant_R61277-1) |
+| Posted | 2026-03-18 |
+| Apply | [View on company site](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Milano-Lombardia-Italy/Associate-Technical-Consultant_R61715-1) |
 
 ## About This Role
 
-This customer success position at Medtronic was posted on 2026-03-11.
+This customer success position at Medtronic was posted on 2026-03-18.
 
 ## Get Real-Time Alerts
 
