@@ -1,16 +1,16 @@
-# Full Time - Field Engineer Program - Technical Consultant - Hospital Patient Monitoring - Summer 2026 at Philips
+# Full Time - Field Engineer Program - Technical Consultant - Hospital Patient Monitoring - East Zone - July 2026 at Philips
 
 | Field | Details |
 |-------|---------|
 | Company | [Philips](https://scoutify.ai/companies/philips?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | United States |
+| Location | 5 locations |
 | Category | Customer Success |
-| Posted | 2026-02-21 |
-| Apply | [View on company site](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/United-States-of-America---Home-Based-United-States/Full-Time---Field-Engineer-Program---Technical-Consultant---Hospital-Patient-Monitoring---Summer-2026_574724) |
+| Posted | 2026-03-19 |
+| Apply | [View on company site](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/United-States-of-America---Home-Based-United-States/Full-Time---Field-Engineer-Program---Technical-Consultant---Hospital-Patient-Monitoring---East-Zone---July-2026_574729) |
 
 ## About This Role
 
-This customer success position at Philips was posted on 2026-02-21.
+This customer success position at Philips was posted on 2026-03-19.
 
 ## Get Real-Time Alerts
 

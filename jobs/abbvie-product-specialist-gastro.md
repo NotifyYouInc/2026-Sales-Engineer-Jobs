@@ -5,12 +5,12 @@
 | Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Bratislava, Bratislava Region, Slovakia |
 | Category | Account Executive |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012137466-product-specialist-gastro) |
+| Posted | 2026-03-19 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012218246-product-specialist-gastro) |
 
 ## About This Role
 
-This account executive position at AbbVie was posted on 2026-03-13.
+This account executive position at AbbVie was posted on 2026-03-19.
 
 ## Get Real-Time Alerts
 

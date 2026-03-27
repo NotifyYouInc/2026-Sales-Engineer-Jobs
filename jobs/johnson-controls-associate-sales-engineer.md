@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Johnson Controls](https://scoutify.ai/companies/jci?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Dalian, Liaoning, China |
+| Location | New York, US |
 | Category | Account Executive |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Dalian-Liaoning-China/Associate-Sales-Engineer_WD30263054-3) |
+| Posted | 2026-03-18 |
+| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/New-York-New-York-United-States-of-America/Associate-Sales-Engineer_WD30262165) |
 
 ## About This Role
 
-This account executive position at Johnson Controls was posted on 2026-03-13.
+This account executive position at Johnson Controls was posted on 2026-03-18.
 
 ## Get Real-Time Alerts
 

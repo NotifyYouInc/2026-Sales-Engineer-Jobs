@@ -5,12 +5,12 @@
 | Company | [LinkedIn](https://scoutify.ai/companies/linkedin?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Singapore, Singapore |
 | Category | Customer Success |
-| Posted | 2026-03-15 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/LinkedIn3/744000114859677-senior-technical-consultant-talent-solutions) |
+| Posted | 2026-03-19 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/LinkedIn3/744000115545509-senior-technical-consultant-talent-solutions) |
 
 ## About This Role
 
-This customer success position at LinkedIn was posted on 2026-03-15.
+This customer success position at LinkedIn was posted on 2026-03-19.
 
 ## Get Real-Time Alerts
 

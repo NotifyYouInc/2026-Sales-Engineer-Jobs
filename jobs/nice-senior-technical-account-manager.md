@@ -5,12 +5,12 @@
 | Company | [NiCE](https://scoutify.ai/companies/nice?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | United States |
 | Category | Customer Success |
-| Posted | 2026-02-06 |
-| Apply | [View on company site](https://boards.eu.greenhouse.io/nice/jobs/4776025101?gh_jid=4776025101) |
+| Posted | 2026-03-19 |
+| Apply | [View on company site](https://boards.eu.greenhouse.io/nice/jobs/4809556101?gh_jid=4809556101) |
 
 ## About This Role
 
-This customer success position at NiCE was posted on 2026-02-06.
+This customer success position at NiCE was posted on 2026-03-19.
 
 ## Get Real-Time Alerts
 

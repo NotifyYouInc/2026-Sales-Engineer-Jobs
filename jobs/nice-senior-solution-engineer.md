@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [NiCE](https://scoutify.ai/companies/nice?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | United States |
-| Category | Sales Engineer |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://boards.eu.greenhouse.io/nice/jobs/4790765101?gh_jid=4790765101) |
+| Location | 2 locations |
+| Category | Technical Writer |
+| Posted | 2026-03-19 |
+| Apply | [View on company site](https://boards.eu.greenhouse.io/nice/jobs/4782286101?gh_jid=4782286101) |
 
 ## About This Role
 
-This sales engineer position at NiCE was posted on 2026-02-26.
+This technical writer position at NiCE was posted on 2026-03-19.
 
 ## Get Real-Time Alerts
 

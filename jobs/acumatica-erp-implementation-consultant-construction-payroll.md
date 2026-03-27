@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Acumatica](https://scoutify.ai/companies/acumatica?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Westerville, Ohio, United States |
-| Category | Accounting |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Acumatica/744000114732127-erp-implementation-consultant-construction-payroll) |
+| Category | Customer Success |
+| Posted | 2026-03-19 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Acumatica/744000115750097-erp-implementation-consultant-construction-payroll) |
 
 ## About This Role
 
-This accounting position at Acumatica was posted on 2026-03-13.
+This customer success position at Acumatica was posted on 2026-03-19.
 
 ## Get Real-Time Alerts
 

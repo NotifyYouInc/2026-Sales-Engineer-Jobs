@@ -1,16 +1,16 @@
-# Senior Technical Consultant, Data & Integrations, Platform Products Expert Implementation Services  at ServiceNow
+# Senior Technical Consultant, Data & Integrations, Platform Products Expert Implementation Services at ServiceNow
 
 | Field | Details |
 |-------|---------|
 | Company | [ServiceNow](https://scoutify.ai/companies/servicenow?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Toronto, Ontario, Canada |
+| Location | West Palm Beach, Florida, United States |
 | Category | Customer Success |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000110021765-senior-technical-consultant-data-integrations-platform-products-expert-implementation-services) |
+| Posted | 2026-03-19 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000115682522-senior-technical-consultant-data-integrations-platform-products-expert-implementation-services) |
 
 ## About This Role
 
-This customer success position at ServiceNow was posted on 2026-02-18.
+This customer success position at ServiceNow was posted on 2026-03-19.
 
 ## Get Real-Time Alerts
 

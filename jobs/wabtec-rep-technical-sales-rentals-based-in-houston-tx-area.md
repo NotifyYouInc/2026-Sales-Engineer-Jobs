@@ -5,12 +5,12 @@
 | Company | [Wabtec](https://scoutify.ai/companies/wabtec?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Houston, Texas, United States |
 | Category | Account Executive |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wabtec/3743990012055251-rep-technical-sales-rentals-based-in-houston-tx-area) |
+| Posted | 2026-03-19 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Wabtec/3743990012220636-rep-technical-sales-rentals-based-in-houston-tx-area) |
 
 ## About This Role
 
-This account executive position at Wabtec was posted on 2026-03-10.
+This account executive position at Wabtec was posted on 2026-03-19.
 
 ## Get Real-Time Alerts
 

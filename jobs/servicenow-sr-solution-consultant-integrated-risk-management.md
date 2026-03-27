@@ -5,12 +5,12 @@
 | Company | [ServiceNow](https://scoutify.ai/companies/servicenow?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Waltham, Massachusetts, United States |
 | Category | Compliance & Risk Management |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000111529705-sr-solution-consultant-integrated-risk-management) |
+| Posted | 2026-03-19 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000115709496-sr-solution-consultant-integrated-risk-management) |
 
 ## About This Role
 
-This compliance & risk management position at ServiceNow was posted on 2026-02-26.
+This compliance & risk management position at ServiceNow was posted on 2026-03-19.
 
 ## Get Real-Time Alerts
 

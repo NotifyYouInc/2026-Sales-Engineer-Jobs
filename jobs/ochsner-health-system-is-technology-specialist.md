@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Ochsner Health System](https://scoutify.ai/companies/ochsner-health-system?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Lafayette, Louisiana, United States |
-| Category | Customer Success |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://ochsner.wd1.myworkdayjobs.com/ochsner/job/Lafayette---Acadiana-Region---Louisiana/IS-Technology-Specialist_REQ_00239347) |
+| Location | New Orleans, Louisiana, United States |
+| Category | IT & Systems Administration |
+| Posted | 2026-03-19 |
+| Apply | [View on company site](https://ochsner.wd1.myworkdayjobs.com/ochsner/job/New-Orleans---New-Orleans-Region---Louisiana/IS-Technology-Specialist_REQ_00256274) |
 
 ## About This Role
 
-This customer success position at Ochsner Health System was posted on 2026-02-25.
+This it & systems administration position at Ochsner Health System was posted on 2026-03-19.
 
 ## Get Real-Time Alerts
 

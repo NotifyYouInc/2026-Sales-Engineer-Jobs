@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Comcast](https://scoutify.ai/companies/comcast?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | West Palm Beach, Florida, United States |
+| Location | Jacksonville, Florida, United States |
 | Category | Sales Engineer |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/FL---West-Palm-Beach-1401-NORTHPOINT-PKWY/Sales-Engineer-2--Technical-Product-Sales-Support_R432398) |
+| Posted | 2026-03-19 |
+| Apply | [View on company site](https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/FL---Jacksonville-5934-Richard-St/Sales-Engineer-2--Technical-Product-Sales-Support_R433567) |
 
 ## About This Role
 
-This sales engineer position at Comcast was posted on 2026-03-10.
+This sales engineer position at Comcast was posted on 2026-03-19.
 
 ## Get Real-Time Alerts
 
