@@ -5,12 +5,12 @@
 | Company | [ServiceNow](https://scoutify.ai/companies/servicenow?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | West Palm Beach, Florida, United States |
 | Category | Customer Success |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000114100777-technical-consultant-risk-security-expert-services) |
+| Posted | 2026-03-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000115955957-technical-consultant-risk-security-expert-services) |
 
 ## About This Role
 
-This customer success position at ServiceNow was posted on 2026-03-11.
+This customer success position at ServiceNow was posted on 2026-03-20.
 
 ## Get Real-Time Alerts
 

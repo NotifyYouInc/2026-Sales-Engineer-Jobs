@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Samsara](https://scoutify.ai/companies/samsara?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | London, England, United Kingdom |
+| Location | United Kingdom |
 | Category | Customer Success |
-| Posted | 2026-02-10 |
-| Apply | [View on company site](https://www.samsara.com/company/careers/roles/7520472?gh_jid=7520472) |
+| Posted | 2026-03-20 |
+| Apply | [View on company site](https://www.samsara.com/company/careers/roles/7731754?gh_jid=7731754) |
 
 ## About This Role
 
-This customer success position at Samsara was posted on 2026-02-10.
+This customer success position at Samsara was posted on 2026-03-20.
 
 ## Get Real-Time Alerts
 

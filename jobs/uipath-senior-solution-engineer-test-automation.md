@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [UiPath](https://scoutify.ai/companies/uipath?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | London, England, United Kingdom |
-| Category | Business Development |
-| Posted | 2026-03-12 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/uipath/8995283f-7f07-4f29-adfb-cb137e76e316) |
+| Location | Bucharest, București, Romania |
+| Category | Sales Engineer |
+| Posted | 2026-03-20 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/uipath/6319da06-f832-4773-80c4-f471739f82ee) |
 
 ## About This Role
 
-This business development position at UiPath was posted on 2026-03-12.
+This sales engineer position at UiPath was posted on 2026-03-20.
 
 ## Get Real-Time Alerts
 

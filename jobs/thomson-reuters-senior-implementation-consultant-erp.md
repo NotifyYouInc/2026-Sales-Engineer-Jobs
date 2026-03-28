@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Thomson Reuters](https://scoutify.ai/companies/thomson-reuters?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Location | Bengaluru, Karnataka, India |
 | Category | Implementation / Professional Services |
-| Posted | 2026-02-23 |
-| Apply | [View on company site](https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/India-Hyderabad-Telangana/Senior-Implementation-Consultant--ERP_JREQ197983-1) |
+| Posted | 2026-03-20 |
+| Apply | [View on company site](https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/India-Bengaluru-Karnataka/Senior-Implementation-Consultant--ERP_JREQ199020) |
 
 ## About This Role
 
-This implementation / professional services position at Thomson Reuters was posted on 2026-02-23.
+This implementation / professional services position at Thomson Reuters was posted on 2026-03-20.
 
 ## Get Real-Time Alerts
 
