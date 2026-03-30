@@ -1,16 +1,16 @@
-# Solution Engineering: Graduates Internship Opportunities at Microsoft
+# Client Engineering at IBM
 
 | Field | Details |
 |-------|---------|
-| Company | [Microsoft](https://scoutify.ai/companies/microsoft?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Seoul, Seoul, South Korea |
+| Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
+| Location | Singapore, Singapore |
 | Category | Sales Engineer |
 | Posted | 2026-03-23 |
-| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556851419) |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=101702) |
 
 ## About This Role
 
-This sales engineer position at Microsoft was posted on 2026-03-23.
+This sales engineer position at IBM was posted on 2026-03-23.
 
 ## Get Real-Time Alerts
 

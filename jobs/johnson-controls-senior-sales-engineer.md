@@ -1,16 +1,16 @@
-# Senior Sales Engineer at Johnson Controls
+# Senior sales engineer at Johnson Controls
 
 | Field | Details |
 |-------|---------|
 | Company | [Johnson Controls](https://scoutify.ai/companies/jci?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Tianjin, Tianjin, China |
+| Location | Xiamen, Fujian, China |
 | Category | Account Executive |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Tianjin-Tianjin-China/Senior-Sales-Engineer_WD30263052) |
+| Posted | 2026-03-23 |
+| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Xiamen-Fujian-China/Senior-sales-engineer_WD30264654) |
 
 ## About This Role
 
-This account executive position at Johnson Controls was posted on 2026-02-25.
+This account executive position at Johnson Controls was posted on 2026-03-23.
 
 ## Get Real-Time Alerts
 

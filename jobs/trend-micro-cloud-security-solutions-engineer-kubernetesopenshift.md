@@ -1,4 +1,4 @@
-# Technical Account Manager at Trend Micro
+# Cloud Security Solutions Engineer (Kubernetes/OpenShift) at Trend Micro
 
 | Field | Details |
 |-------|---------|
@@ -6,7 +6,7 @@
 | Location | Tokyo, Tokyo, Japan |
 | Category | Customer Success |
 | Posted | 2026-03-23 |
-| Apply | [View on company site](https://trendmicro.wd3.myworkdayjobs.com/External/job/Tokyo/Technical-Account-Manager_R0009374-14) |
+| Apply | [View on company site](https://trendmicro.wd3.myworkdayjobs.com/External/job/Tokyo/Cloud-Security-Solutions-Engineer--Kubernetes-OpenShift-_R0009375-7) |
 
 ## About This Role
 
