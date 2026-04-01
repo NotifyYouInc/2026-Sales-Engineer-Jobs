@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Motorola Solutions](https://scoutify.ai/companies/motorola-solutions?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | New South Wales, AU |
-| Category | Customer Success |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Silverwater-Australia/Field-Engineer_R60069) |
+| Location | Tennessee, US |
+| Category | IT & Systems Administration |
+| Posted | 2026-03-23 |
+| Apply | [View on company site](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Illinois-Remote-Work/Field-Engineer_R62939) |
 
 ## About This Role
 
-This customer success position at Motorola Solutions was posted on 2026-02-19.
+This it & systems administration position at Motorola Solutions was posted on 2026-03-23.
 
 ## Get Real-Time Alerts
 

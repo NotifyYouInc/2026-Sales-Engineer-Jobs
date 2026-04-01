@@ -5,12 +5,12 @@
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Tokyo, Tokyo, Japan |
 | Category | Sales Engineer |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=72788) |
+| Posted | 2026-03-24 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=105503) |
 
 ## About This Role
 
-This sales engineer position at IBM was posted on 2026-02-05.
+This sales engineer position at IBM was posted on 2026-03-24.
 
 ## Get Real-Time Alerts
 

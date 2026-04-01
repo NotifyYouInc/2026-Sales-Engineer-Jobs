@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mixpanel](https://scoutify.ai/companies/mixpanel?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | San Francisco, California, United States |
-| Category | Sales Leadership |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/mixpanel/jobs/7513876) |
+| Location | 2 locations |
+| Category | Engineering Manager |
+| Posted | 2026-03-24 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/mixpanel/jobs/7746430) |
 
 ## About This Role
 
-This sales leadership position at Mixpanel was posted on 2026-03-17.
+This engineering manager position at Mixpanel was posted on 2026-03-24.
 
 ## Get Real-Time Alerts
 

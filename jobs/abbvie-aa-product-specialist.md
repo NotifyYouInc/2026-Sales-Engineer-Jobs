@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Lviv, Lviv, Ukraine |
+| Location | Singapore, Singapore |
 | Category | Account Executive |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012059266-aa-product-specialist) |
+| Posted | 2026-03-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012280156-aa-product-specialist) |
 
 ## About This Role
 
-This account executive position at AbbVie was posted on 2026-03-10.
+This account executive position at AbbVie was posted on 2026-03-24.
 
 ## Get Real-Time Alerts
 

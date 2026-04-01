@@ -5,12 +5,12 @@
 | Company | [KPN](https://scoutify.ai/companies/kpn?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Hilversum, North Holland, The Netherlands |
 | Category | Security Engineer |
-| Posted | 2026-03-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/KPN/744000115669948-senior-implementation-engineer-soc) |
+| Posted | 2026-03-23 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/KPN/744000116130071-senior-implementation-engineer-soc) |
 
 ## About This Role
 
-This security engineer position at KPN was posted on 2026-03-19.
+This security engineer position at KPN was posted on 2026-03-23.
 
 ## Get Real-Time Alerts
 

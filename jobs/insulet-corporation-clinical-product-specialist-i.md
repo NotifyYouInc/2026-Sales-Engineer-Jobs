@@ -5,12 +5,12 @@
 | Company | [Insulet Corporation](https://scoutify.ai/companies/insulet?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Guadalajara, Jalisco, Mexico |
 | Category | Customer Success |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://insulet.wd5.myworkdayjobs.com/insuletcareers/job/Guadalajara-Jalisco/Diabetes-Clinical-Product-Specialist-2_REQ-2026-14773) |
+| Posted | 2026-03-24 |
+| Apply | [View on company site](https://insulet.wd5.myworkdayjobs.com/insuletcareers/job/MX---Guadalajara-Office/Clinical-Product-Specialist-I_REQ-2026-14757) |
 
 ## About This Role
 
-This customer success position at Insulet Corporation was posted on 2026-03-09.
+This customer success position at Insulet Corporation was posted on 2026-03-24.
 
 ## Get Real-Time Alerts
 

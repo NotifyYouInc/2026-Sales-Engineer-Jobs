@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Okta](https://scoutify.ai/companies/okta?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Chicago, Illinois, United States |
+| Location | Florida, US |
 | Category | Sales Engineer |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://www.okta.com/company/careers/opportunity/7728933?gh_jid=7728933) |
+| Posted | 2026-03-19 |
+| Apply | [View on company site](https://www.okta.com/company/careers/opportunity/7728942?gh_jid=7728942) |
 
 ## About This Role
 
-This sales engineer position at Okta was posted on 2026-03-17.
+This sales engineer position at Okta was posted on 2026-03-19.
 
 ## Get Real-Time Alerts
 

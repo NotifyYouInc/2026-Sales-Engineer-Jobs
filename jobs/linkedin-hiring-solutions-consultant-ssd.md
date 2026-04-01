@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [LinkedIn](https://scoutify.ai/companies/linkedin?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Not specified |
-| Category | Customer Success |
-| Posted | 2026-03-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/LinkedIn3/744000115063145-hiring-solutions-consultant-ssd) |
+| Location | Omaha, Nebraska, United States |
+| Category | Business Development |
+| Posted | 2026-03-23 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/LinkedIn3/744000116285611-hiring-solutions-consultant-ssd) |
 
 ## About This Role
 
-This customer success position at LinkedIn was posted on 2026-03-16.
+This business development position at LinkedIn was posted on 2026-03-23.
 
 ## Get Real-Time Alerts
 

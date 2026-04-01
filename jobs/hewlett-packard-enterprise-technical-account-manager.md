@@ -5,12 +5,12 @@
 | Company | [Hewlett Packard Enterprise](https://scoutify.ai/companies/hewlett-packard-enterprise?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Karnataka, IN |
 | Category | Customer Success |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/Bangalore-Karnataka-India/Technical-Account-Manager_1197522) |
+| Posted | 2026-03-24 |
+| Apply | [View on company site](https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/Bangalore-Karnataka-India/Technical-Account-Manager_1202552-1) |
 
 ## About This Role
 
-This customer success position at Hewlett Packard Enterprise was posted on 2026-03-04.
+This customer success position at Hewlett Packard Enterprise was posted on 2026-03-24.
 
 ## Get Real-Time Alerts
 

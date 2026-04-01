@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Genesys](https://scoutify.ai/companies/genesys?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Vimercate, Lombardy, Italy |
+| Location | Sweden |
 | Category | Customer Success |
-| Posted | 2026-03-18 |
-| Apply | [View on company site](https://genesys.wd1.myworkdayjobs.com/Genesys/job/Vimercate-Flexible/Senior-Technical-Account-Manager_JR110180-2) |
+| Posted | 2026-03-19 |
+| Apply | [View on company site](https://genesys.wd1.myworkdayjobs.com/Genesys/job/Sweden/Senior-Technical-Account-Manager_JR110330-2) |
 
 ## About This Role
 
-This customer success position at Genesys was posted on 2026-03-18.
+This customer success position at Genesys was posted on 2026-03-19.
 
 ## Get Real-Time Alerts
 

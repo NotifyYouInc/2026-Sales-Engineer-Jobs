@@ -5,12 +5,12 @@
 | Company | [MicroStrategy](https://scoutify.ai/companies/microstrategy?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Virginia, US |
 | Category | Sales Engineer |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/MicroStrategy1/744000114606195-senior-sales-engineer) |
+| Posted | 2026-03-23 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/MicroStrategy1/744000116230737-senior-sales-engineer) |
 
 ## About This Role
 
-This sales engineer position at MicroStrategy was posted on 2026-03-13.
+This sales engineer position at MicroStrategy was posted on 2026-03-23.
 
 ## Get Real-Time Alerts
 

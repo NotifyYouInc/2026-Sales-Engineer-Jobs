@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Arrow Electronics](https://scoutify.ai/companies/arrow-electronics?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | 2 locations |
+| Location | Taiwan |
 | Category | Account Executive |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://arrow.wd1.myworkdayjobs.com/ac/job/TH-Bangkok-Thailand9-Rama-9/Field-Sales-Engineer_R241831) |
+| Posted | 2026-03-24 |
+| Apply | [View on company site](https://arrow.wd1.myworkdayjobs.com/ac/job/Zhonghe-Dist-New-Taipei-City/Field-Sales-Engineer_R241320) |
 
 ## About This Role
 
-This account executive position at Arrow Electronics was posted on 2026-03-11.
+This account executive position at Arrow Electronics was posted on 2026-03-24.
 
 ## Get Real-Time Alerts
 

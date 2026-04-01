@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Salesforce](https://scoutify.ai/companies/salesforce?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | 3 locations |
+| Location | New York City, New York, United States |
 | Category | Sales Engineer |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Washington-DC---Remote/Account-Solution-Engineer--Non-Profit_JR331415) |
+| Posted | 2026-03-23 |
+| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Illinois---Chicago-Metro---Remote/Account-Solution-Engineer--Non-Profit_JR334767) |
 
 ## About This Role
 
-This sales engineer position at Salesforce was posted on 2026-03-10.
+This sales engineer position at Salesforce was posted on 2026-03-23.
 
 ## Get Real-Time Alerts
 

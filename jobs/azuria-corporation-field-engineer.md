@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Azuria Corporation](https://scoutify.ai/companies/aegion?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Pennsylvania, US |
+| Location | Michigan, US |
 | Category | Project Manager |
-| Posted | 2026-03-12 |
-| Apply | [View on company site](https://aegion.wd501.myworkdayjobs.com/Aegion_Careers/job/Mechanicsburg-PA/Field-Engineer_R-7304) |
+| Posted | 2026-03-24 |
+| Apply | [View on company site](https://aegion.wd501.myworkdayjobs.com/Aegion_Careers/job/Howell-MI/Field-Engineer_R-7339) |
 
 ## About This Role
 
-This project manager position at Azuria Corporation was posted on 2026-03-12.
+This project manager position at Azuria Corporation was posted on 2026-03-24.
 
 ## Get Real-Time Alerts
 

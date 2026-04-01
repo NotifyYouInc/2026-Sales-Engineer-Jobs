@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Johnson Controls](https://scoutify.ai/companies/jci?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Singapore, Singapore |
-| Category | Account Executive |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Singapore-Singapore-Singapore/Senior-Service-Sales-Engineer_WD30263723-1) |
+| Location | Warsaw, Mazovia, Poland |
+| Category | Sales Engineer |
+| Posted | 2026-03-24 |
+| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Warsaw-Poland-Poland/Senior-Service-Sales-Engineer_WD30264953) |
 
 ## About This Role
 
-This account executive position at Johnson Controls was posted on 2026-03-09.
+This sales engineer position at Johnson Controls was posted on 2026-03-24.
 
 ## Get Real-Time Alerts
 

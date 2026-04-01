@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [REXEL](https://scoutify.ai/companies/rexel?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Greenville, North Carolina, United States |
+| Location | Indianapolis, Indiana, United States |
 | Category | Business Development |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/REXEL1/744000109804385-product-specialist) |
+| Posted | 2026-03-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/REXEL1/744000116463397-product-specialist) |
 
 ## About This Role
 
-This business development position at REXEL was posted on 2026-02-17.
+This business development position at REXEL was posted on 2026-03-24.
 
 ## Get Real-Time Alerts
 

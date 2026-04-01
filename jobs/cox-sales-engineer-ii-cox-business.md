@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cox](https://scoutify.ai/companies/cox?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Wichita, Kansas, United States |
+| Location | Springfield, Missouri, United States |
 | Category | Sales Engineer |
-| Posted | 2026-03-18 |
-| Apply | [View on company site](https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Wichita-KS/Sales-Engineer-II--Cox-Business-_R202674658) |
+| Posted | 2026-03-23 |
+| Apply | [View on company site](https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Springfield-VA/Sales-Engineer-II--Cox-Business-_R202674885) |
 
 ## About This Role
 
-This sales engineer position at Cox was posted on 2026-03-18.
+This sales engineer position at Cox was posted on 2026-03-23.
 
 ## Get Real-Time Alerts
 

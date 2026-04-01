@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Johnson & Johnson](https://scoutify.ai/companies/johnson-johnson?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Hangzhou, Zhejiang, China |
-| Category | Account Executive |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://jj.wd5.myworkdayjobs.com/JJ/job/Hangzhou-Zhejiang-China/Product-Specialist_R-064298) |
+| Location | Ningbo, Zhejiang, China |
+| Category | Corporate Finance |
+| Posted | 2026-03-24 |
+| Apply | [View on company site](https://jj.wd5.myworkdayjobs.com/JJ/job/Ningbo-Zhejiang-China/Product-Specialist_R-066056) |
 
 ## About This Role
 
-This account executive position at Johnson & Johnson was posted on 2026-03-17.
+This corporate finance position at Johnson & Johnson was posted on 2026-03-24.
 
 ## Get Real-Time Alerts
 

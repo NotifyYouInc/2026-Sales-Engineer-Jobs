@@ -5,12 +5,12 @@
 | Company | [SGS](https://scoutify.ai/companies/sgs?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Madrid, Madrid, Spain |
 | Category | Software Engineer |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SGS/744000114550567-oracle-fusion-erp-solution-engineer) |
+| Posted | 2026-03-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SGS/744000116409257-oracle-fusion-erp-solution-engineer) |
 
 ## About This Role
 
-This software engineer position at SGS was posted on 2026-03-13.
+This software engineer position at SGS was posted on 2026-03-24.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Syntegon Technology](https://scoutify.ai/companies/syntegontechnology?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Terrassa, Catalonia, Spain |
 | Category | Customer Success |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SYNTEGON/744000113689807-customer-service-field-engineer-tecnologia-de-esterilizacion) |
+| Posted | 2026-03-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SYNTEGON/744000116391527-customer-service-field-engineer-tecnologia-de-esterilizacion) |
 
 ## About This Role
 
-This customer success position at Syntegon Technology was posted on 2026-03-10.
+This customer success position at Syntegon Technology was posted on 2026-03-24.
 
 ## Get Real-Time Alerts
 

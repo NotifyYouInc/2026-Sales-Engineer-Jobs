@@ -5,12 +5,12 @@
 | Company | [Western Digital](https://scoutify.ai/companies/westerndigital?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | San Jose, California, United States |
 | Category | Sales Engineer |
-| Posted | 2026-02-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/WesternDigital/744000110544184-summer-2026-intern-field-applications-sales-engineering) |
+| Posted | 2026-03-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/WesternDigital/744000116461888-summer-2026-intern-field-applications-sales-engineering) |
 
 ## About This Role
 
-This sales engineer position at Western Digital was posted on 2026-02-22.
+This sales engineer position at Western Digital was posted on 2026-03-24.
 
 ## Get Real-Time Alerts
 

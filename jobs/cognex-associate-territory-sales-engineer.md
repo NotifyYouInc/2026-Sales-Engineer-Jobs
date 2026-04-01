@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cognex](https://scoutify.ai/companies/cognex?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Detroit, Michigan, United States |
+| Location | India |
 | Category | Account Executive |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://cognex.wd1.myworkdayjobs.com/External_Career_Site/job/Michigan---Field/Associate-Territory-Sales-Engineer_R0011737) |
+| Posted | 2026-03-24 |
+| Apply | [View on company site](https://cognex.wd1.myworkdayjobs.com/External_Career_Site/job/India_Bangalore/Associate-Territory-Sales-Engineer_R0011418) |
 
 ## About This Role
 
-This account executive position at Cognex was posted on 2026-02-24.
+This account executive position at Cognex was posted on 2026-03-24.
 
 ## Get Real-Time Alerts
 
