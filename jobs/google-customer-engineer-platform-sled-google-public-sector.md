@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | United States |
+| Location | 2 locations |
 | Category | Sales Engineer |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/jobs/results/83006345560629958-customer-engineer-platform-sled-google-public-sector?sort_by=date&page=1) |
+| Posted | 2026-03-25 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/jobs/results/138002875115545286-customer-engineer-platform-sled-google-public-sector?sort_by=date&page=1) |
 
 ## About This Role
 
-This sales engineer position at Google was posted on 2026-03-06.
+This sales engineer position at Google was posted on 2026-03-25.
 
 ## Get Real-Time Alerts
 

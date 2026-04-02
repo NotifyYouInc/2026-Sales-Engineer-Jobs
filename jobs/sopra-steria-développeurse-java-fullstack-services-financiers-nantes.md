@@ -5,12 +5,12 @@
 | Company | [Sopra Steria](https://scoutify.ai/companies/soprasteria?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Nantes, Pays de la Loire, France |
 | Category | Frontend Engineer |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000110412264-developpeurse-java-fullstack-services-financiers-nantes) |
+| Posted | 2026-03-25 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000116634428-developpeurse-java-fullstack-services-financiers-nantes) |
 
 ## About This Role
 
-This frontend engineer position at Sopra Steria was posted on 2026-02-20.
+This frontend engineer position at Sopra Steria was posted on 2026-03-25.
 
 ## Get Real-Time Alerts
 

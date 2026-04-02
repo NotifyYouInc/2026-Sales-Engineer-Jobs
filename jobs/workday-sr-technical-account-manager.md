@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Workday](https://scoutify.ai/companies/workday?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Warsaw, Mazovia, Poland |
+| Location | Montréal, Quebec, Canada |
 | Category | Customer Success |
-| Posted | 2026-02-10 |
-| Apply | [View on company site](https://workday.wd5.myworkdayjobs.com/Workday/job/Poland-Warsaw/Sr-Technical-Account-Manager_JR-0104224) |
+| Posted | 2026-03-25 |
+| Apply | [View on company site](https://workday.wd5.myworkdayjobs.com/Workday/job/Canada-QC-Montreal/Sr-Technical-Account-Manager_JR-0104920-1) |
 
 ## About This Role
 
-This customer success position at Workday was posted on 2026-02-10.
+This customer success position at Workday was posted on 2026-03-25.
 
 ## Get Real-Time Alerts
 

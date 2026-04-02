@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Boulder, Colorado, United States |
+| Location | Toronto, Ontario, Canada |
 | Category | Customer Success |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/jobs/results/103905658570449606-technical-account-manager-google-cloud-consulting?sort_by=date&page=1) |
+| Posted | 2026-03-25 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/jobs/results/81634693530690246-technical-account-manager-google-cloud-consulting?sort_by=date&page=1) |
 
 ## About This Role
 
-This customer success position at Google was posted on 2026-02-27.
+This customer success position at Google was posted on 2026-03-25.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Snowflake](https://scoutify.ai/companies/snowflake?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Toronto, Ontario, Canada |
+| Location | Paris, Île-de-France, France |
 | Category | Sales Engineer |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/snowflake/6547cdbf-a09e-4a94-87db-831b75d5e9c2) |
+| Posted | 2026-03-25 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/snowflake/cfddf5bb-0526-4157-984f-adf91a18e978) |
 
 ## About This Role
 
-This sales engineer position at Snowflake was posted on 2026-03-17.
+This sales engineer position at Snowflake was posted on 2026-03-25.
 
 ## Get Real-Time Alerts
 

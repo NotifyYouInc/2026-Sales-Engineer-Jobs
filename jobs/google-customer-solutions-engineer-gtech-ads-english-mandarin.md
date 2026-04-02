@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Taipei, Taiwan, Taiwan |
-| Category | Sales Engineer |
-| Posted | 2026-02-04 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/jobs/results/105669471716156102-customer-solutions-engineer-gtech-ads-english-mandarin?sort_by=date&page=1) |
+| Category | Customer Success |
+| Posted | 2026-03-25 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/jobs/results/132571218954855110-customer-solutions-engineer-gtech-ads-english-mandarin?sort_by=date&page=1) |
 
 ## About This Role
 
-This sales engineer position at Google was posted on 2026-02-04.
+This customer success position at Google was posted on 2026-03-25.
 
 ## Get Real-Time Alerts
 

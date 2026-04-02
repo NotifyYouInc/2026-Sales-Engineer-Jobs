@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Sika](https://scoutify.ai/companies/sika?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Istanbul, Istanbul, Turkey |
-| Category | Technical Writer |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SikaAG/744000113104387-it-support-digital-solutions-specialist) |
+| Category | Customer Success |
+| Posted | 2026-03-25 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SikaAG/744000116596257-it-support-digital-solutions-specialist) |
 
 ## About This Role
 
-This technical writer position at Sika was posted on 2026-03-06.
+This customer success position at Sika was posted on 2026-03-25.
 
 ## Get Real-Time Alerts
 

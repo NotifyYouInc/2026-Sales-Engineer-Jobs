@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Hewlett Packard Enterprise](https://scoutify.ai/companies/hewlett-packard-enterprise?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Dallas, Texas, United States |
+| Location | 3 locations |
 | Category | Customer Success |
-| Posted | 2026-03-19 |
-| Apply | [View on company site](https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/Spring-Texas/Advanced-Customer-Engineer---Critical-Account-Team_1203571-1) |
+| Posted | 2026-03-26 |
+| Apply | [View on company site](https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/Spring-Texas-United-States-of-America/Advanced-Customer-Engineer---Critical-Account-Team_1203584-1) |
 
 ## About This Role
 
-This customer success position at Hewlett Packard Enterprise was posted on 2026-03-19.
+This customer success position at Hewlett Packard Enterprise was posted on 2026-03-26.
 
 ## Get Real-Time Alerts
 

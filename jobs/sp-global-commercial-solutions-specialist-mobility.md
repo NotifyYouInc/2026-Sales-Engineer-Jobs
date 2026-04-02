@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [S&P Global](https://scoutify.ai/companies/s-p-global?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Monterrey, Nuevo León, Mexico |
-| Category | Product Manager |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://spgi.wd5.myworkdayjobs.com/SPGI_Careers/job/Monterrey-MEX/Commercial-Solutions-Specialist_326492-1) |
+| Location | 2 locations |
+| Category | Sales Engineer |
+| Posted | 2026-03-25 |
+| Apply | [View on company site](https://spgi.wd5.myworkdayjobs.com/SPGI_Careers/job/Bengaluru-Karnataka/Commercial-Solutions-Specialist---Mobility_327317-1) |
 
 ## About This Role
 
-This product manager position at S&P Global was posted on 2026-03-02.
+This sales engineer position at S&P Global was posted on 2026-03-25.
 
 ## Get Real-Time Alerts
 

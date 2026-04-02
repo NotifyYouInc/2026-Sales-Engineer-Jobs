@@ -5,12 +5,12 @@
 | Company | [ServiceNow](https://scoutify.ai/companies/servicenow?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Dublin, Leinster, Ireland |
 | Category | Frontend Engineer |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000113226506-forward-deployed-solution-engineer-applied-ai-fde) |
+| Posted | 2026-03-25 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000116702082-forward-deployed-solution-engineer-applied-ai-fde) |
 
 ## About This Role
 
-This frontend engineer position at ServiceNow was posted on 2026-03-06.
+This frontend engineer position at ServiceNow was posted on 2026-03-25.
 
 ## Get Real-Time Alerts
 

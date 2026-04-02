@@ -5,12 +5,12 @@
 | Company | [Experian](https://scoutify.ai/companies/experian?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | United States |
 | Category | Implementation / Professional Services |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000111428535-revenue-cycle-solutions-consultant-healthcare-remote) |
+| Posted | 2026-03-25 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000116630422-revenue-cycle-solutions-consultant-healthcare-remote) |
 
 ## About This Role
 
-This implementation / professional services position at Experian was posted on 2026-02-25.
+This implementation / professional services position at Experian was posted on 2026-03-25.
 
 ## Get Real-Time Alerts
 

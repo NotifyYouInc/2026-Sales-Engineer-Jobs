@@ -1,16 +1,16 @@
-# Associate MAKO Product Specialist at Stryker
+# Associate Mako Product Specialist at Stryker
 
 | Field | Details |
 |-------|---------|
 | Company | [Stryker](https://scoutify.ai/companies/stryker?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Hong Kong, Hong Kong |
+| Location | Bengaluru, Karnataka, India |
 | Category | Customer Success |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Taikoo-Shing-12-Taikoo-Wan-Road/Associate-MAKO-Product-Specialist_R560299) |
+| Posted | 2026-03-25 |
+| Apply | [View on company site](https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Karnataka-Bengaluru-Virtual-Address/Associate-Mako-Product-Specialist_R557094) |
 
 ## About This Role
 
-This customer success position at Stryker was posted on 2026-03-10.
+This customer success position at Stryker was posted on 2026-03-25.
 
 ## Get Real-Time Alerts
 

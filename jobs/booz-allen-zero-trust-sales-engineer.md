@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Washington, District of Columbia, United States |
-| Category | Business Development |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Fort-Meade-MD/Zero-Trust-Sales-Engineer_R0235085-1) |
+| Location | Alexandria, Virginia, United States |
+| Category | Sales Engineer |
+| Posted | 2026-03-25 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Arlington-VA/Zero-Trust-Sales-Engineer_R0236870) |
 
 ## About This Role
 
-This business development position at Booz Allen was posted on 2026-03-04.
+This sales engineer position at Booz Allen was posted on 2026-03-25.
 
 ## Get Real-Time Alerts
 

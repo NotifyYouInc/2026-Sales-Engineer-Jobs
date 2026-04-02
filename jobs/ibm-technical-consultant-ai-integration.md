@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Karnataka, IN |
+| Location | Kochi, Kerala, India |
 | Category | Technology / IT Consulting |
 | Posted | 2026-03-20 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=101695) |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=101233) |
 
 ## About This Role
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cloudera](https://scoutify.ai/companies/cloudera?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Germany |
+| Location | India |
 | Category | Sales Engineer |
-| Posted | 2026-03-20 |
-| Apply | [View on company site](https://cloudera.wd5.myworkdayjobs.com/External_Career/job/Germany-Remote/Partner-Solutions-Engineer_260376-1) |
+| Posted | 2026-03-25 |
+| Apply | [View on company site](https://cloudera.wd5.myworkdayjobs.com/External_Career/job/India-Bangalore/Partner-Solutions-Engineer_260355-1) |
 
 ## About This Role
 
-This sales engineer position at Cloudera was posted on 2026-03-20.
+This sales engineer position at Cloudera was posted on 2026-03-25.
 
 ## Get Real-Time Alerts
 

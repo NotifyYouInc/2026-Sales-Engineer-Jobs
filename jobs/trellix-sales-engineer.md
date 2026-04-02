@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Trellix](https://scoutify.ai/companies/trellix?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | San Jose, California, United States |
-| Category | Sales Engineer |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://trellix.wd1.myworkdayjobs.com/EnterpriseCareers/job/US-California-San-Jose/Sales-Engineer_JR0037195-1) |
+| Location | Denver, Colorado, United States |
+| Category | Account Executive |
+| Posted | 2026-03-25 |
+| Apply | [View on company site](https://trellix.wd1.myworkdayjobs.com/EnterpriseCareers/job/US-Colorado-Denver/Sales-Engineer_JR0037230) |
 
 ## About This Role
 
-This sales engineer position at Trellix was posted on 2026-03-13.
+This account executive position at Trellix was posted on 2026-03-25.
 
 ## Get Real-Time Alerts
 
