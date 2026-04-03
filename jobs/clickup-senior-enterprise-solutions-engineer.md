@@ -1,16 +1,16 @@
-# Senior Enterprise Solutions Engineer at ClickUp
+# Senior Enterprise Solutions Engineer  at ClickUp
 
 | Field | Details |
 |-------|---------|
 | Company | [ClickUp](https://scoutify.ai/companies/clickup?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | United States |
 | Category | Sales Engineer |
-| Posted | 2026-03-20 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/clickup/7c9076b7-c7d9-432f-b284-710a1fdeeec2) |
+| Posted | 2026-03-26 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/clickup/f5f6ec4d-289c-4b1a-90f6-0ed92d48393c) |
 
 ## About This Role
 
-This sales engineer position at ClickUp was posted on 2026-03-20.
+This sales engineer position at ClickUp was posted on 2026-03-26.
 
 ## Get Real-Time Alerts
 

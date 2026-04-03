@@ -5,12 +5,12 @@
 | Company | [Syntegon Technology](https://scoutify.ai/companies/syntegontechnology?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Terrassa, Catalonia, Spain |
 | Category | Technology / IT Consulting |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SYNTEGON/744000113694668-sap-senior-integration-consultant) |
+| Posted | 2026-03-26 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SYNTEGON/744000116879678-sap-senior-integration-consultant) |
 
 ## About This Role
 
-This technology / it consulting position at Syntegon Technology was posted on 2026-03-10.
+This technology / it consulting position at Syntegon Technology was posted on 2026-03-26.
 
 ## Get Real-Time Alerts
 

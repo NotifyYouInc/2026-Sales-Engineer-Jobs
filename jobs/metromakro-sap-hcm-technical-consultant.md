@@ -5,12 +5,12 @@
 | Company | [METRO/MAKRO](https://scoutify.ai/companies/metromakro?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Pune, Maharashtra, India |
 | Category | Technology / IT Consulting |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/METROMAKRO/744000115233017-sap-hcm-technical-consultant) |
+| Posted | 2026-03-26 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/METROMAKRO/744000116895760-sap-hcm-technical-consultant) |
 
 ## About This Role
 
-This technology / it consulting position at METRO/MAKRO was posted on 2026-03-17.
+This technology / it consulting position at METRO/MAKRO was posted on 2026-03-26.
 
 ## Get Real-Time Alerts
 

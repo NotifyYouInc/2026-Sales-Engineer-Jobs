@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Austin, Texas, United States |
-| Category | Technology / IT Consulting |
-| Posted | 2026-03-12 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=102562) |
+| Location | United States |
+| Category | Business Development |
+| Posted | 2026-03-26 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=106234) |
 
 ## About This Role
 
-This technology / it consulting position at IBM was posted on 2026-03-12.
+This business development position at IBM was posted on 2026-03-26.
 
 ## Get Real-Time Alerts
 

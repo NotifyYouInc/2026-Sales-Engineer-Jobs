@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Carrier Global](https://scoutify.ai/companies/carrier?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Riyadh, Riyadh Region, Saudi Arabia |
-| Category | Sales Engineer |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://carrier.wd5.myworkdayjobs.com/jobs/job/Riyadh-Riyadh-Saudi-Arabia/Senior-Sales-Engineer_30199936) |
+| Category | Account Executive |
+| Posted | 2026-03-26 |
+| Apply | [View on company site](https://carrier.wd5.myworkdayjobs.com/jobs/job/Carrier-6th-Floor-Tatweer-Tower-King-Fahad-Road-Riyadh-Saudi-Arabia/Senior-Sales-Engineer_30201563) |
 
 ## About This Role
 
-This sales engineer position at Carrier Global was posted on 2026-02-24.
+This account executive position at Carrier Global was posted on 2026-03-26.
 
 ## Get Real-Time Alerts
 

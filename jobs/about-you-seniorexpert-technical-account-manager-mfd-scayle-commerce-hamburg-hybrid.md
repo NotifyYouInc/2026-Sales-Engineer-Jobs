@@ -5,12 +5,12 @@
 | Company | [About You](https://scoutify.ai/companies/aboutyou?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Hamburg, Hamburg, Germany |
 | Category | Customer Success |
-| Posted | 2026-03-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ABOUTYOUGmbH/744000115812858-seniorexpert-technical-account-manager-mfd-scayle-commerce-hamburg-hybrid) |
+| Posted | 2026-03-26 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ABOUTYOUGmbH/744000116968107-seniorexpert-technical-account-manager-mfd-scayle-commerce-hamburg-hybrid) |
 
 ## About This Role
 
-This customer success position at About You was posted on 2026-03-20.
+This customer success position at About You was posted on 2026-03-26.
 
 ## Get Real-Time Alerts
 

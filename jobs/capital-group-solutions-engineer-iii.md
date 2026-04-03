@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Capital Group](https://scoutify.ai/companies/capgroup?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | San Antonio, Texas, United States |
+| Location | Luxembourg |
 | Category | Software Engineer |
-| Posted | 2026-02-21 |
-| Apply | [View on company site](https://capgroup.wd1.myworkdayjobs.com/capitalgroupcareers/job/San-Antonio/Solutions-Engineer-III_JR5350) |
+| Posted | 2026-03-26 |
+| Apply | [View on company site](https://capgroup.wd1.myworkdayjobs.com/capitalgroupcareers/job/Luxembourg/Solutions-Engineer-III_JR6412) |
 
 ## About This Role
 
-This software engineer position at Capital Group was posted on 2026-02-21.
+This software engineer position at Capital Group was posted on 2026-03-26.
 
 ## Get Real-Time Alerts
 

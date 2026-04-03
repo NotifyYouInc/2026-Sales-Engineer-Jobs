@@ -5,12 +5,12 @@
 | Company | [Caterpillar](https://scoutify.ai/companies/caterpillar?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Karnataka, IN |
 | Category | Program Manager |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Bangalore-Karnataka/Parts-Product-Specialist_R0000341973) |
+| Posted | 2026-03-26 |
+| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Bangalore-Karnataka/Parts-Product-Specialist_R0000333478) |
 
 ## About This Role
 
-This program manager position at Caterpillar was posted on 2026-02-18.
+This program manager position at Caterpillar was posted on 2026-03-26.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [American Electric Power](https://scoutify.ai/companies/aep?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Columbus, Ohio, United States |
-| Category | DevOps Engineer |
-| Posted | 2026-03-20 |
-| Apply | [View on company site](https://aep.wd1.myworkdayjobs.com/AEPCareerSite/job/Columbus-OH/Solution-Engineer-Prin_R14670) |
+| Category | Software Engineer |
+| Posted | 2026-03-26 |
+| Apply | [View on company site](https://aep.wd1.myworkdayjobs.com/AEPCareerSite/job/Columbus-OH/Solution-Engineer-Prin_R14040-1) |
 
 ## About This Role
 
-This devops engineer position at American Electric Power was posted on 2026-03-20.
+This software engineer position at American Electric Power was posted on 2026-03-26.
 
 ## Get Real-Time Alerts
 

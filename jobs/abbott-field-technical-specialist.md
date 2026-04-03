@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Abbott](https://scoutify.ai/companies/abbott-laboratories?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | New South Wales, AU |
+| Location | South Australia, AU |
 | Category | Customer Success |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/Australia--Macquarie-Park--299-Lane-Cove-Road/Field-Technical-Specialist_31143561-1) |
+| Posted | 2026-03-27 |
+| Apply | [View on company site](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/Australia---South-Australia/Field-Technical-Specialist_31145087) |
 
 ## About This Role
 
-This customer success position at Abbott was posted on 2026-03-06.
+This customer success position at Abbott was posted on 2026-03-27.
 
 ## Get Real-Time Alerts
 
