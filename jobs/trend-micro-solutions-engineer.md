@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Trend Micro](https://scoutify.ai/companies/trendmicro?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Rio Grande do Norte, BR |
+| Location | Mexico City, Mexico City, Mexico |
 | Category | Sales Engineer |
-| Posted | 2026-03-19 |
-| Apply | [View on company site](https://trendmicro.wd3.myworkdayjobs.com/External/job/Brazil-Off-Site/Solutions-Engineer_R0009361) |
+| Posted | 2026-03-27 |
+| Apply | [View on company site](https://trendmicro.wd3.myworkdayjobs.com/External/job/Mexico-City/Solutions-Engineer_R0009394) |
 
 ## About This Role
 
-This sales engineer position at Trend Micro was posted on 2026-03-19.
+This sales engineer position at Trend Micro was posted on 2026-03-27.
 
 ## Get Real-Time Alerts
 

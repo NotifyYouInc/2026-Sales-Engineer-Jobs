@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Esri](https://scoutify.ai/companies/esri?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | 3 locations |
+| Location | 2 locations |
 | Category | Technology / IT Consulting |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://www.esri.com/careers/5064931007?gh_jid=5064931007) |
+| Posted | 2026-03-27 |
+| Apply | [View on company site](https://www.esri.com/careers/5091594007?gh_jid=5091594007) |
 
 ## About This Role
 
-This technology / it consulting position at Esri was posted on 2026-02-27.
+This technology / it consulting position at Esri was posted on 2026-03-27.
 
 ## Get Real-Time Alerts
 

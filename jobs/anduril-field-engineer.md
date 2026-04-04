@@ -5,12 +5,12 @@
 | Company | [Anduril](https://scoutify.ai/companies/andurilindustries?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Lexington, Kentucky, United States |
 | Category | Electrical / Hardware Engineer |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://boards.greenhouse.io/andurilindustries/jobs/5072515007?gh_jid=5072515007) |
+| Posted | 2026-03-27 |
+| Apply | [View on company site](https://boards.greenhouse.io/andurilindustries/jobs/5092054007?gh_jid=5092054007) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Anduril was posted on 2026-03-06.
+This electrical / hardware engineer position at Anduril was posted on 2026-03-27.
 
 ## Get Real-Time Alerts
 

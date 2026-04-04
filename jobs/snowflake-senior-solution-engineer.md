@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Snowflake](https://scoutify.ai/companies/snowflake?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Massachusetts, US |
-| Category | Account Executive |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/snowflake/e5333632-ca88-45da-938c-20f14baa74d5) |
+| Location | Indianapolis, Indiana, United States |
+| Category | Sales Engineer |
+| Posted | 2026-03-27 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/snowflake/7eaced8c-a9fa-4833-bda8-b7f6f60e5662) |
 
 ## About This Role
 
-This account executive position at Snowflake was posted on 2026-03-11.
+This sales engineer position at Snowflake was posted on 2026-03-27.
 
 ## Get Real-Time Alerts
 

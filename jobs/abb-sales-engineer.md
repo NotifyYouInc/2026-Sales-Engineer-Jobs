@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ABB](https://scoutify.ai/companies/abb?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Taiwan |
-| Category | Sales |
-| Posted | 2026-02-09 |
-| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Taipei-City-Taipei-City-Taiwan/Sales-Engineer_JR00012521) |
+| Location | Rayong, TH |
+| Category | Account Executive |
+| Posted | 2026-03-27 |
+| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Banchang-Rayong-Thailand/Sales-Engineer_JR00026824) |
 
 ## About This Role
 
-This sales position at ABB was posted on 2026-02-09.
+This account executive position at ABB was posted on 2026-03-27.
 
 ## Get Real-Time Alerts
 

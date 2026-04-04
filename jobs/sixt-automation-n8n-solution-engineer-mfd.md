@@ -5,12 +5,12 @@
 | Company | [Sixt](https://scoutify.ai/companies/sixt?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Lisbon, Lisbon, Portugal |
 | Category | Developer Relations |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SIXT/744000113196067-automation-n8n-solution-engineer-mfd) |
+| Posted | 2026-03-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SIXT/744000117319940-automation-n8n-solution-engineer-mfd) |
 
 ## About This Role
 
-This developer relations position at Sixt was posted on 2026-03-06.
+This developer relations position at Sixt was posted on 2026-03-27.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Demo Engineer  at Cresta
+# Demo Engineer at Cresta
 
 | Field | Details |
 |-------|---------|
 | Company | [Cresta](https://scoutify.ai/companies/cresta?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | India |
 | Category | Sales Engineer |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/cresta/jobs/5146185008) |
+| Posted | 2026-03-27 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/cresta/jobs/5167511008) |
 
 ## About This Role
 
-This sales engineer position at Cresta was posted on 2026-03-06.
+This sales engineer position at Cresta was posted on 2026-03-27.
 
 ## Get Real-Time Alerts
 
