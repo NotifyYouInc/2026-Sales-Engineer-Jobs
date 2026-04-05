@@ -5,12 +5,12 @@
 | Company | [Method](https://scoutify.ai/companies/method?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | San Francisco, California, United States |
 | Category | Sales Engineer |
-| Posted | 2026-02-23 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/method/37382ca3-8e64-44bd-9319-19cbbfed916e) |
+| Posted | 2026-03-28 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/method/ae69beed-33d7-462b-ab83-5680c647741e) |
 
 ## About This Role
 
-This sales engineer position at Method was posted on 2026-02-23.
+This sales engineer position at Method was posted on 2026-03-28.
 
 ## Get Real-Time Alerts
 
