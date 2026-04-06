@@ -6,7 +6,7 @@
 | Location | 2 locations |
 | Category | Sales Engineer |
 | Posted | 2026-03-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/StaubliGroup/744000116337742-sales-engineer) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/StaubliGroup/744000116338853-sales-engineer) |
 
 ## About This Role
 
