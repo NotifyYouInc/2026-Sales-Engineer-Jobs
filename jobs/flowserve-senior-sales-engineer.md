@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Flowserve](https://scoutify.ai/companies/flowserve?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Singapore, Singapore |
+| Location | Ferndale, Michigan, United States |
 | Category | Account Executive |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://flowserve.wd1.myworkdayjobs.com/applied/job/9-Tuas-Loop-Singapore/Senior-Sales-Engineer_R-15374) |
+| Posted | 2026-03-30 |
+| Apply | [View on company site](https://flowserve.wd1.myworkdayjobs.com/applied/job/Ferndale-Washington-US/Senior-Sales-Engineer_R-18573) |
 
 ## About This Role
 
-This account executive position at Flowserve was posted on 2026-03-03.
+This account executive position at Flowserve was posted on 2026-03-30.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ABB](https://scoutify.ai/companies/abb?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Quebec, CA |
+| Location | Georgia, US |
 | Category | Sales Engineer |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Remote-Quebec-Canada/Lead-Sales-Engineer_JR00028237) |
+| Posted | 2026-03-30 |
+| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Remote-Georgia-USA/Lead-Sales-Engineer_JR00028236) |
 
 ## About This Role
 
-This sales engineer position at ABB was posted on 2026-03-17.
+This sales engineer position at ABB was posted on 2026-03-30.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [CyberArk Software](https://scoutify.ai/companies/cyberarksoftware?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Riyadh, Riyadh Region, Saudi Arabia |
 | Category | Sales Engineer |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Cyberark1/744000114086187-senior-solutions-engineer-saudi) |
+| Posted | 2026-03-30 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Cyberark1/744000117679127-senior-solutions-engineer-saudi) |
 
 ## About This Role
 
-This sales engineer position at CyberArk Software was posted on 2026-03-11.
+This sales engineer position at CyberArk Software was posted on 2026-03-30.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Hitachi](https://scoutify.ai/companies/hitachi?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Mannheim, Baden-Wurttemberg, Germany |
 | Category | Technology / IT Consulting |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Mannheim-Baden-Wurttemberg-Germany/Associate-Technical-Consultant--f-m-d-_R0111897) |
+| Posted | 2026-03-30 |
+| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Mannheim-Baden-Wurttemberg-Germany/Associate-Technical-Consultant--f-m-d-_R0111896) |
 
 ## About This Role
 
-This technology / it consulting position at Hitachi was posted on 2026-03-11.
+This technology / it consulting position at Hitachi was posted on 2026-03-30.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Johnson & Johnson](https://scoutify.ai/companies/johnson-johnson?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | United Kingdom |
-| Category | Account Executive |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://jj.wd5.myworkdayjobs.com/JJ/job/Leicestershire-England-United-Kingdom/Technical-Specialist---J-J-MedTech---Electrophysiology----East-Midlands_R-052825) |
+| Location | Leeds, England, United Kingdom |
+| Category | Account Manager |
+| Posted | 2026-03-30 |
+| Apply | [View on company site](https://jj.wd5.myworkdayjobs.com/JJ/job/Leeds-West-Yorkshire-United-Kingdom/Technical-Specialist---J-J-MedTech---Electrophysiology----East-Midlands_R-066941) |
 
 ## About This Role
 
-This account executive position at Johnson & Johnson was posted on 2026-02-26.
+This account manager position at Johnson & Johnson was posted on 2026-03-30.
 
 ## Get Real-Time Alerts
 

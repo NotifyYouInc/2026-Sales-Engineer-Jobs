@@ -5,12 +5,12 @@
 | Company | [SQLI](https://scoutify.ai/companies/sqli?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Dortmund, North Rhine-Westphalia, Germany |
 | Category | Technology / IT Consulting |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SQLI1/744000109943126-technical-consultant-pim-mdm-mwd) |
+| Posted | 2026-03-30 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SQLI1/744000117668245-technical-consultant-pim-mdm-mwd) |
 
 ## About This Role
 
-This technology / it consulting position at SQLI was posted on 2026-02-18.
+This technology / it consulting position at SQLI was posted on 2026-03-30.
 
 ## Get Real-Time Alerts
 

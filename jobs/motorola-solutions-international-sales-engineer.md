@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Motorola Solutions](https://scoutify.ai/companies/motorola-solutions?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Poland |
+| Location | Sweden |
 | Category | Sales Engineer |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Poland-Offsite-ZPL99/International-Sales-Engineer_R62971) |
+| Posted | 2026-03-27 |
+| Apply | [View on company site](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Sweden-Offsite-ZSE99/International-Sales-Engineer_R63263) |
 
 ## About This Role
 
-This sales engineer position at Motorola Solutions was posted on 2026-03-24.
+This sales engineer position at Motorola Solutions was posted on 2026-03-27.
 
 ## Get Real-Time Alerts
 
