@@ -1,16 +1,16 @@
-# Sr. Partner Solutions Engineer at LinkedIn
+# Technical Account Manager at CYE
 
 | Field | Details |
 |-------|---------|
-| Company | [LinkedIn](https://scoutify.ai/companies/linkedin?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | 2 locations |
-| Category | Sales Engineer |
+| Company | [CYE](https://scoutify.ai/companies/cye?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
+| Location | United States |
+| Category | Customer Success |
 | Posted | 2026-03-31 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/LinkedIn3/744000117994367-sr-partner-solutions-engineer) |
+| Apply | [View on company site](https://jobs.lever.co/CYE/eb9f7bcc-4f09-4b63-9b16-f362dd72dc21) |
 
 ## About This Role
 
-This sales engineer position at LinkedIn was posted on 2026-03-31.
+This customer success position at CYE was posted on 2026-03-31.
 
 ## Get Real-Time Alerts
 

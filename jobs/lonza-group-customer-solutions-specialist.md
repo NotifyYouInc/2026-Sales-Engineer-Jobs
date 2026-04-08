@@ -1,16 +1,16 @@
-# Senior Technical Account Manager at Red Hat
+# Customer Solutions Specialist at Lonza Group
 
 | Field | Details |
 |-------|---------|
-| Company | [Red Hat](https://scoutify.ai/companies/red-hat?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Tokyo, Tokyo, Japan |
+| Company | [Lonza Group](https://scoutify.ai/companies/lonza-group?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
+| Location | Suzhou, Jiangsu, China |
 | Category | Customer Success |
 | Posted | 2026-04-01 |
-| Apply | [View on company site](https://redhat.wd5.myworkdayjobs.com/Jobs/job/Tokyo/Senior-Technical-Account-Manager_R-056106-1) |
+| Apply | [View on company site](https://lonza.wd3.myworkdayjobs.com/lonza_careers/job/CN---Suzhou/Customer-Solutions-Specialist_R75081) |
 
 ## About This Role
 
-This customer success position at Red Hat was posted on 2026-04-01.
+This customer success position at Lonza Group was posted on 2026-04-01.
 
 ## Get Real-Time Alerts
 

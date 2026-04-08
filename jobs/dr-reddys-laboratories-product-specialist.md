@@ -1,16 +1,16 @@
-# Sales Engineer at Johnson Controls
+# Product Specialist at Dr. Reddy's Laboratories
 
 | Field | Details |
 |-------|---------|
-| Company | [Johnson Controls](https://scoutify.ai/companies/jci?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Guangzhou, Guangdong, China |
+| Company | [Dr. Reddy's Laboratories](https://scoutify.ai/companies/drreddyslaboratories?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
+| Location | Philippines |
 | Category | Account Executive |
 | Posted | 2026-04-01 |
-| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Guangzhou-Guangdong-China/Sales-Engineer_WD30265785) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/DrReddysLaboratoriesLimited/744000118049588-product-specialist) |
 
 ## About This Role
 
-This account executive position at Johnson Controls was posted on 2026-04-01.
+This account executive position at Dr. Reddy's Laboratories was posted on 2026-04-01.
 
 ## Get Real-Time Alerts
 

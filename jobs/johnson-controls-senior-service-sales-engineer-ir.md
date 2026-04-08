@@ -1,12 +1,12 @@
-# Sales Engineer at Johnson Controls
+# Senior Service Sales Engineer, IR at Johnson Controls
 
 | Field | Details |
 |-------|---------|
 | Company | [Johnson Controls](https://scoutify.ai/companies/jci?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Guangzhou, Guangdong, China |
+| Location | Jakarta, Jakarta, Indonesia |
 | Category | Account Executive |
 | Posted | 2026-04-01 |
-| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Guangzhou-Guangdong-China/Sales-Engineer_WD30265785) |
+| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Jakarta-Jakarta-Raya-Indonesia/Senior-Service-Sales-Engineer--IR_WD30265808) |
 
 ## About This Role
 

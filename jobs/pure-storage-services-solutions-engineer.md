@@ -1,16 +1,16 @@
-# Technical Sales Support Specialist at ABB
+# Services Solutions Engineer at Pure Storage
 
 | Field | Details |
 |-------|---------|
-| Company | [ABB](https://scoutify.ai/companies/abb?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Saint-Laurent, Quebec, Canada |
+| Company | [Pure Storage](https://scoutify.ai/companies/pure-storage?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
+| Location | Raleigh, North Carolina, United States |
 | Category | Customer Success |
 | Posted | 2026-03-31 |
-| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Saint-Laurent-Quebec-Canada/Technical-Sales-Support-Specialist_96828333) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/purestorage/jobs/7741157) |
 
 ## About This Role
 
-This customer success position at ABB was posted on 2026-03-31.
+This customer success position at Pure Storage was posted on 2026-03-31.
 
 ## Get Real-Time Alerts
 

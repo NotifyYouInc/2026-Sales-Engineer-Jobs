@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Veeam Software](https://scoutify.ai/companies/veeamsoftware?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Pittsburgh, Pennsylvania, United States |
+| Location | 2 locations |
 | Category | Sales Engineer |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4821753101) |
+| Posted | 2026-03-27 |
+| Apply | [View on company site](https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4825105101) |
 
 ## About This Role
 
-This sales engineer position at Veeam Software was posted on 2026-03-25.
+This sales engineer position at Veeam Software was posted on 2026-03-27.
 
 ## Get Real-Time Alerts
 

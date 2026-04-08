@@ -1,16 +1,16 @@
-# Sr. Partner Solutions Engineer at LinkedIn
+# Senior Solution Consultant at ServiceNow
 
 | Field | Details |
 |-------|---------|
-| Company | [LinkedIn](https://scoutify.ai/companies/linkedin?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | 2 locations |
+| Company | [ServiceNow](https://scoutify.ai/companies/servicenow?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
+| Location | Munich, Bavaria, Germany |
 | Category | Sales Engineer |
 | Posted | 2026-03-31 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/LinkedIn3/744000117994367-sr-partner-solutions-engineer) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000117970089-senior-solution-consultant) |
 
 ## About This Role
 
-This sales engineer position at LinkedIn was posted on 2026-03-31.
+This sales engineer position at ServiceNow was posted on 2026-03-31.
 
 ## Get Real-Time Alerts
 

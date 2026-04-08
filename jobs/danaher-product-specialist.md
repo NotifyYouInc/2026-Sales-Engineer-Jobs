@@ -1,16 +1,16 @@
-# Sr. Partner Solutions Engineer at LinkedIn
+# Product Specialist at Danaher
 
 | Field | Details |
 |-------|---------|
-| Company | [LinkedIn](https://scoutify.ai/companies/linkedin?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | 2 locations |
-| Category | Sales Engineer |
+| Company | [Danaher](https://scoutify.ai/companies/danaher?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
+| Location | Brazil |
+| Category | Content Marketing |
 | Posted | 2026-03-31 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/LinkedIn3/744000117994367-sr-partner-solutions-engineer) |
+| Apply | [View on company site](https://danaher.wd1.myworkdayjobs.com/DanaherJobs/job/So-Paulo-Brazil/Product-Specialist_R1307541-1) |
 
 ## About This Role
 
-This sales engineer position at LinkedIn was posted on 2026-03-31.
+This content marketing position at Danaher was posted on 2026-03-31.
 
 ## Get Real-Time Alerts
 

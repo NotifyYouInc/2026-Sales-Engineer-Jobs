@@ -6,7 +6,7 @@
 | Location | 3 locations |
 | Category | Customer Success |
 | Posted | 2026-03-25 |
-| Apply | [View on company site](https://www.okta.com/company/careers/opportunity/7747835?gh_jid=7747835) |
+| Apply | [View on company site](https://www.okta.com/company/careers/opportunity/7749410?gh_jid=7749410) |
 
 ## About This Role
 

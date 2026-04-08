@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [R1 Rcm](https://scoutify.ai/companies/r1rcm?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | United States |
+| Location | Utah, US |
 | Category | Customer Success |
-| Posted | 2026-03-18 |
-| Apply | [View on company site](https://r1rcm.wd1.myworkdayjobs.com/r1rcm/job/Remote-USA/Implementation-Consultant-I_R260000001795-1) |
+| Posted | 2026-03-31 |
+| Apply | [View on company site](https://r1rcm.wd1.myworkdayjobs.com/r1rcm/job/Remote-UT/Implementation-Consultant-I_R260000002037) |
 
 ## About This Role
 
-This customer success position at R1 Rcm was posted on 2026-03-18.
+This customer success position at R1 Rcm was posted on 2026-03-31.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Sr. Partner Solutions Engineer at LinkedIn
+# Solution Consultant- FIN at Workday
 
 | Field | Details |
 |-------|---------|
-| Company | [LinkedIn](https://scoutify.ai/companies/linkedin?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | 2 locations |
+| Company | [Workday](https://scoutify.ai/companies/workday?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
+| Location | Colorado, US |
 | Category | Sales Engineer |
 | Posted | 2026-03-31 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/LinkedIn3/744000117994367-sr-partner-solutions-engineer) |
+| Apply | [View on company site](https://workday.wd5.myworkdayjobs.com/Workday/job/USA-CO-Remote/Solution-Consultant--FIN_JR-0105452) |
 
 ## About This Role
 
-This sales engineer position at LinkedIn was posted on 2026-03-31.
+This sales engineer position at Workday was posted on 2026-03-31.
 
 ## Get Real-Time Alerts
 
