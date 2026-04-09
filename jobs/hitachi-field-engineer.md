@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Hitachi](https://scoutify.ai/companies/hitachi?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Derby, England, United Kingdom |
-| Category | Customer Success |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/HRE-Derby-Kelvin-House/Field-Engineer_R0111609) |
+| Location | Naples, Campania, Italy |
+| Category | Electrical / Hardware Engineer |
+| Posted | 2026-04-01 |
+| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Naples-Campania-Italy/Field-Engineer_R0109742) |
 
 ## About This Role
 
-This customer success position at Hitachi was posted on 2026-02-18.
+This electrical / hardware engineer position at Hitachi was posted on 2026-04-01.
 
 ## Get Real-Time Alerts
 

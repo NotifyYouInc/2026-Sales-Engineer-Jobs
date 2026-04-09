@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Carrier Global](https://scoutify.ai/companies/carrier?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Wuxi, Jiangsu, China |
+| Location | Hefei, Anhui, China |
 | Category | Account Executive |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://carrier.wd5.myworkdayjobs.com/jobs/job/LOC4036-Room-11-12-33F-Guojin-Center-No-99--Zhongshan-Rd-Wuxi-Taihu-Plaza-Nanchang-District--Wuxi-Jiangsu-China/Sales-Engineer--Mod_30198935) |
+| Posted | 2026-04-02 |
+| Apply | [View on company site](https://carrier.wd5.myworkdayjobs.com/jobs/job/LOC3163-Room-4203-Tower-C-Landmark-Plaza-No288-Huaining-Road-Zhengwu-District-Hefei-Anhui-Province-China/Sales-Engineer--Mod_30198918) |
 
 ## About This Role
 
-This account executive position at Carrier Global was posted on 2026-02-25.
+This account executive position at Carrier Global was posted on 2026-04-02.
 
 ## Get Real-Time Alerts
 

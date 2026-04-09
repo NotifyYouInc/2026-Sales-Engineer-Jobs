@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cloudflare](https://scoutify.ai/companies/cloudflare?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Lisbon, Lisbon, Portugal |
-| Category | Sales Engineer |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://boards.greenhouse.io/cloudflare/jobs/7738938?gh_jid=7738938) |
+| Location | Singapore, Singapore |
+| Category | Software Engineer |
+| Posted | 2026-04-01 |
+| Apply | [View on company site](https://boards.greenhouse.io/cloudflare/jobs/7765500?gh_jid=7765500) |
 
 ## About This Role
 
-This sales engineer position at Cloudflare was posted on 2026-03-24.
+This software engineer position at Cloudflare was posted on 2026-04-01.
 
 ## Get Real-Time Alerts
 

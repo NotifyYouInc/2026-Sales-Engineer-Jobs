@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Red Hat](https://scoutify.ai/companies/red-hat?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Virginia, US |
+| Location | Buenos Aires, Buenos Aires F.D., Argentina |
 | Category | Customer Success |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://redhat.wd5.myworkdayjobs.com/Jobs/job/Remote-US-VA/OpenShift-Technical-Account-Manager_R-054687) |
+| Posted | 2026-04-01 |
+| Apply | [View on company site](https://redhat.wd5.myworkdayjobs.com/Jobs/job/Buenos-Aires/OpenShift-Technical-Account-Manager_R-051235-1) |
 
 ## About This Role
 
-This customer success position at Red Hat was posted on 2026-02-19.
+This customer success position at Red Hat was posted on 2026-04-01.
 
 ## Get Real-Time Alerts
 

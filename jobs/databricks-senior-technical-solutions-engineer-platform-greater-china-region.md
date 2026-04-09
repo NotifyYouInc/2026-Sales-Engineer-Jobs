@@ -1,16 +1,16 @@
-# Senior Technical Solutions Engineer - Platform (Greater China Region)  at Databricks
+# Senior Technical Solutions Engineer - Platform (Greater China Region) at Databricks
 
 | Field | Details |
 |-------|---------|
 | Company | [Databricks](https://scoutify.ai/companies/databricks?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | 2 locations |
+| Location | Singapore, Singapore |
 | Category | Customer Success |
-| Posted | 2026-03-26 |
-| Apply | [View on company site](https://databricks.com/company/careers/open-positions/job?gh_jid=8480729002) |
+| Posted | 2026-04-01 |
+| Apply | [View on company site](https://databricks.com/company/careers/open-positions/job?gh_jid=8407891002) |
 
 ## About This Role
 
-This customer success position at Databricks was posted on 2026-03-26.
+This customer success position at Databricks was posted on 2026-04-01.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Salesforce](https://scoutify.ai/companies/salesforce?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Argentina |
 | Category | DevOps Engineer |
-| Posted | 2026-03-12 |
-| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Argentina---Remote/Technical-Architect_JR332956) |
+| Posted | 2026-04-01 |
+| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Brazil---Remote/Technical-Architect_JR335018) |
 
 ## About This Role
 
-This devops engineer position at Salesforce was posted on 2026-03-12.
+This devops engineer position at Salesforce was posted on 2026-04-01.
 
 ## Get Real-Time Alerts
 
