@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Trend Micro](https://scoutify.ai/companies/trendmicro?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | United States |
-| Category | Sales Engineer |
-| Posted | 2026-03-23 |
-| Apply | [View on company site](https://trendmicro.wd3.myworkdayjobs.com/External/job/US-Off-Site/Sr-Solutions-Engineer_R0009378) |
+| Location | Jersey City, New Jersey, United States |
+| Category | Technical Writer |
+| Posted | 2026-04-02 |
+| Apply | [View on company site](https://trendmicro.wd3.myworkdayjobs.com/External/job/Jersey-City/Sr-Solutions-Engineer_R0009397) |
 
 ## About This Role
 
-This sales engineer position at Trend Micro was posted on 2026-03-23.
+This technical writer position at Trend Micro was posted on 2026-04-02.
 
 ## Get Real-Time Alerts
 

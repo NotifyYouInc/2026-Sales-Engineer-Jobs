@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Okta](https://scoutify.ai/companies/okta?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Tel Aviv, Tel Aviv, Israel |
+| Location | Warsaw, Mazovia, Poland |
 | Category | Sales Engineer |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://www.okta.com/company/careers/opportunity/7588146?gh_jid=7588146) |
+| Posted | 2026-04-02 |
+| Apply | [View on company site](https://www.okta.com/company/careers/opportunity/7774918?gh_jid=7774918) |
 
 ## About This Role
 
-This sales engineer position at Okta was posted on 2026-03-04.
+This sales engineer position at Okta was posted on 2026-04-02.
 
 ## Get Real-Time Alerts
 

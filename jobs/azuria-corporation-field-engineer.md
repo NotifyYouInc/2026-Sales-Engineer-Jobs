@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Azuria Corporation](https://scoutify.ai/companies/aegion?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Virginia, US |
+| Location | Cerritos, California, United States |
 | Category | Project Manager |
-| Posted | 2026-03-26 |
-| Apply | [View on company site](https://aegion.wd501.myworkdayjobs.com/Aegion_Careers/job/ITI-Berryville-VA/Field-Engineer_R-7359) |
+| Posted | 2026-04-02 |
+| Apply | [View on company site](https://aegion.wd501.myworkdayjobs.com/Aegion_Careers/job/ITI-Cerritos-CA/Field-Engineer_R-7365) |
 
 ## About This Role
 
-This project manager position at Azuria Corporation was posted on 2026-03-26.
+This project manager position at Azuria Corporation was posted on 2026-04-02.
 
 ## Get Real-Time Alerts
 

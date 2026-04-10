@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [U.S. Bank](https://scoutify.ai/companies/u-s-bank?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | 2 locations |
+| Location | 4 locations |
 | Category | Customer Success |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Minneapolis-MN/Client-Connectivity-Solutions-Consultant_2026-0006974) |
+| Posted | 2026-04-02 |
+| Apply | [View on company site](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Chicago-IL/Client-Connectivity-Solutions-Consultant_2026-0007445-1) |
 
 ## About This Role
 
-This customer success position at U.S. Bank was posted on 2026-03-24.
+This customer success position at U.S. Bank was posted on 2026-04-02.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Greenhouse](https://scoutify.ai/companies/greenhouse?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | British Columbia, CA |
+| Location | United States |
 | Category | Customer Success |
-| Posted | 2026-02-09 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/greenhouse/jobs/7600032?gh_jid=7600032) |
+| Posted | 2026-04-02 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/greenhouse/jobs/7767657?gh_jid=7767657) |
 
 ## About This Role
 
-This customer success position at Greenhouse was posted on 2026-02-09.
+This customer success position at Greenhouse was posted on 2026-04-02.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Implementation Consultant, E-Invoicing at Thomson Reuters
+# Implementation Consultant, E-invoicing at Thomson Reuters
 
 | Field | Details |
 |-------|---------|
 | Company | [Thomson Reuters](https://scoutify.ai/companies/thomson-reuters?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | 10 locations |
-| Category | Implementation / Professional Services |
-| Posted | 2026-03-19 |
-| Apply | [View on company site](https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/United-States-of-America-Eagan-Minnesota/Implementation-Consultant--E-Invoicing_JREQ199243) |
+| Location | Eagan, Minnesota, United States |
+| Category | Customer Success |
+| Posted | 2026-04-03 |
+| Apply | [View on company site](https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/United-States-of-America-Eagan-Minnesota/Implementation-Consultant--E-invoicing_JREQ199315) |
 
 ## About This Role
 
-This implementation / professional services position at Thomson Reuters was posted on 2026-03-19.
+This customer success position at Thomson Reuters was posted on 2026-04-03.
 
 ## Get Real-Time Alerts
 

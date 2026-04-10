@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Saviynt](https://scoutify.ai/companies/saviynt?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Georgia, US |
-| Category | Sales |
-| Posted | 2026-02-06 |
-| Apply | [View on company site](https://jobs.lever.co/saviynt/ba7305f9-b3a5-4f46-8483-5ca9c49795e7) |
+| Location | Minneapolis, Minnesota, United States |
+| Category | Technical Writer |
+| Posted | 2026-04-03 |
+| Apply | [View on company site](https://jobs.lever.co/saviynt/deeb9f65-a652-4e11-ad48-bea8d2ca9b7c) |
 
 ## About This Role
 
-This sales position at Saviynt was posted on 2026-02-06.
+This technical writer position at Saviynt was posted on 2026-04-03.
 
 ## Get Real-Time Alerts
 

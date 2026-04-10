@@ -5,12 +5,12 @@
 | Company | [Okta](https://scoutify.ai/companies/okta?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Toronto, Ontario, Canada |
 | Category | Customer Success |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://www.okta.com/company/careers/opportunity/7747830?gh_jid=7747830) |
+| Posted | 2026-04-03 |
+| Apply | [View on company site](https://www.okta.com/company/careers/opportunity/7776839?gh_jid=7776839) |
 
 ## About This Role
 
-This customer success position at Okta was posted on 2026-03-25.
+This customer success position at Okta was posted on 2026-04-03.
 
 ## Get Real-Time Alerts
 

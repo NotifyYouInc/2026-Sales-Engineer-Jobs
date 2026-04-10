@@ -5,12 +5,12 @@
 | Company | [Cloudflare](https://scoutify.ai/companies/cloudflare?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Seoul, Seoul, South Korea |
 | Category | Sales Engineer |
-| Posted | 2026-02-09 |
-| Apply | [View on company site](https://boards.greenhouse.io/cloudflare/jobs/7593565?gh_jid=7593565) |
+| Posted | 2026-04-02 |
+| Apply | [View on company site](https://boards.greenhouse.io/cloudflare/jobs/7767766?gh_jid=7767766) |
 
 ## About This Role
 
-This sales engineer position at Cloudflare was posted on 2026-02-09.
+This sales engineer position at Cloudflare was posted on 2026-04-02.
 
 ## Get Real-Time Alerts
 
