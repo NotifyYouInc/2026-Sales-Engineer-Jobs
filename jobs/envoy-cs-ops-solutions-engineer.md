@@ -1,16 +1,16 @@
-# AI Product Specialist at S&P Global
+# CS Ops, Solutions Engineer at Envoy
 
 | Field | Details |
 |-------|---------|
-| Company | [S&P Global](https://scoutify.ai/companies/s-p-global?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
+| Company | [Envoy](https://scoutify.ai/companies/envoy?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | 2 locations |
-| Category | Business Development |
+| Category | Software Engineer |
 | Posted | 2026-04-03 |
-| Apply | [View on company site](https://spgi.wd5.myworkdayjobs.com/SPGI_Careers/job/Cambridge-MA/AI-Product-Specialist_327223-1) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/envoy/67ad856d-edb2-47a7-85dd-a4084668d72a) |
 
 ## About This Role
 
-This business development position at S&P Global was posted on 2026-04-03.
+This software engineer position at Envoy was posted on 2026-04-03.
 
 ## Get Real-Time Alerts
 

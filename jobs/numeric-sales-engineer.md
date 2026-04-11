@@ -1,16 +1,16 @@
-#  AI Implementation Engineer - Moveworks at ServiceNow
+# Sales Engineer at Numeric
 
 | Field | Details |
 |-------|---------|
-| Company | [ServiceNow](https://scoutify.ai/companies/servicenow?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
+| Company | [Numeric](https://scoutify.ai/companies/numeric?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | San Francisco, California, United States |
-| Category | Customer Success |
-| Posted | 2026-03-30 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000117751827-ai-implementation-engineer-moveworks) |
+| Category | Sales Engineer |
+| Posted | 2026-04-03 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/numeric/acc26c47-3521-4f94-8882-4f69803ffd49) |
 
 ## About This Role
 
-This customer success position at ServiceNow was posted on 2026-03-30.
+This sales engineer position at Numeric was posted on 2026-04-03.
 
 ## Get Real-Time Alerts
 

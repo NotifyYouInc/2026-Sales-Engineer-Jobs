@@ -1,16 +1,16 @@
-# Field Engineer, Wind MCE  at Pearce Services
+# Intermediate Life Solutions Specialist - Plano at USAA
 
 | Field | Details |
 |-------|---------|
-| Company | [Pearce Services](https://scoutify.ai/companies/pearce-services?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | United States |
+| Company | [USAA](https://scoutify.ai/companies/usaa?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
+| Location | Plano, Texas, United States |
 | Category | Account Executive |
 | Posted | 2026-04-03 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/pearceservices/jobs/5176122008) |
+| Apply | [View on company site](https://usaa.wd1.myworkdayjobs.com/USAAJOBSWD/job/Plano-Legacy/Intermediate-Life-Solutions-Specialist---Plano_R0116787) |
 
 ## About This Role
 
-This account executive position at Pearce Services was posted on 2026-04-03.
+This account executive position at USAA was posted on 2026-04-03.
 
 ## Get Real-Time Alerts
 

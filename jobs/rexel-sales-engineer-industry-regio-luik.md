@@ -1,16 +1,16 @@
-# Field Engineer, Wind MCE  at Pearce Services
+# Sales Engineer Industry - Regio Luik at REXEL
 
 | Field | Details |
 |-------|---------|
-| Company | [Pearce Services](https://scoutify.ai/companies/pearce-services?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | United States |
+| Company | [REXEL](https://scoutify.ai/companies/rexel?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
+| Location | Verviers, Wallonia, Belgium |
 | Category | Account Executive |
 | Posted | 2026-04-03 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/pearceservices/jobs/5176122008) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/REXEL1/744000118565289-sales-engineer-industry-regio-luik) |
 
 ## About This Role
 
-This account executive position at Pearce Services was posted on 2026-04-03.
+This account executive position at REXEL was posted on 2026-04-03.
 
 ## Get Real-Time Alerts
 

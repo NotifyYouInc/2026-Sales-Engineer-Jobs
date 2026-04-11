@@ -1,16 +1,16 @@
-# AI Product Specialist at S&P Global
+# Lead Solutions Consultant at Braze
 
 | Field | Details |
 |-------|---------|
-| Company | [S&P Global](https://scoutify.ai/companies/s-p-global?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
+| Company | [Braze](https://scoutify.ai/companies/braze?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | 2 locations |
-| Category | Business Development |
+| Category | Implementation / Professional Services |
 | Posted | 2026-04-03 |
-| Apply | [View on company site](https://spgi.wd5.myworkdayjobs.com/SPGI_Careers/job/Cambridge-MA/AI-Product-Specialist_327223-1) |
+| Apply | [View on company site](https://boards.greenhouse.io/braze/jobs/7743328?gh_jid=7743328) |
 
 ## About This Role
 
-This business development position at S&P Global was posted on 2026-04-03.
+This implementation / professional services position at Braze was posted on 2026-04-03.
 
 ## Get Real-Time Alerts
 

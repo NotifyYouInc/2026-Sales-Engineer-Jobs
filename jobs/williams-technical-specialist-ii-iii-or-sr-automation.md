@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Williams](https://scoutify.ai/companies/williams?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | 2 locations |
+| Location | 4 locations |
 | Category | Industrial Automation |
-| Posted | 2026-03-26 |
-| Apply | [View on company site](https://williams.wd5.myworkdayjobs.com/External/job/NC-Lexington/Technical-Specialist-II--III-or-Sr_R111710) |
+| Posted | 2026-04-03 |
+| Apply | [View on company site](https://williams.wd5.myworkdayjobs.com/External/job/UT-Salt-Lake-City---Office/Technical-Specialist-II--III-or-Sr---Automation_R111727) |
 
 ## About This Role
 
-This industrial automation position at Williams was posted on 2026-03-26.
+This industrial automation position at Williams was posted on 2026-04-03.
 
 ## Get Real-Time Alerts
 

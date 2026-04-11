@@ -1,12 +1,12 @@
-# Senior Field Engineer at Carrier Global
+# Field Engineer - Automated Logic (ALC) at Carrier Global
 
 | Field | Details |
 |-------|---------|
 | Company | [Carrier Global](https://scoutify.ai/companies/carrier?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Clifton, New Jersey, United States |
+| Location | Orlando, Florida, United States |
 | Category | Customer Success |
 | Posted | 2026-04-03 |
-| Apply | [View on company site](https://carrier.wd5.myworkdayjobs.com/jobs/job/CAN79-Clifton-100-Delawanna-Avenue-Clifton-NJ-07014-USA/Senior-Field-Engineer_30203257) |
+| Apply | [View on company site](https://carrier.wd5.myworkdayjobs.com/jobs/job/CAF43-AL-Florida-MCO-7305-Greenbriar-Parkway-Orlando-FL-32819-USA/Field-Engineer---Automated-Logic--ALC-_30203361) |
 
 ## About This Role
 

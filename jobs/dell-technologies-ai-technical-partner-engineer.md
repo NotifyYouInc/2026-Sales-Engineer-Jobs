@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Dell Technologies](https://scoutify.ai/companies/dell-technologies?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Herzliya, Tel Aviv, Israel |
+| Location | 2 locations |
 | Category | Developer Relations |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://dell.wd1.myworkdayjobs.com/External/job/Herzliya-Israel/AI-Technical-Partner-Engineer_R286462) |
+| Posted | 2026-04-03 |
+| Apply | [View on company site](https://dell.wd1.myworkdayjobs.com/External/job/Hopkinton-Massachusetts-United-States/AI-Technical-Partner-Engineer_R289798) |
 
 ## About This Role
 
-This developer relations position at Dell Technologies was posted on 2026-02-24.
+This developer relations position at Dell Technologies was posted on 2026-04-03.
 
 ## Get Real-Time Alerts
 

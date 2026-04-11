@@ -1,16 +1,16 @@
-# Field Engineer, Wind MCE  at Pearce Services
+# Sales Engineering Manager, Cloud at Rubrik
 
 | Field | Details |
 |-------|---------|
-| Company | [Pearce Services](https://scoutify.ai/companies/pearce-services?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
+| Company | [Rubrik](https://scoutify.ai/companies/rubrik?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | United States |
-| Category | Account Executive |
+| Category | Engineering Manager |
 | Posted | 2026-04-03 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/pearceservices/jobs/5176122008) |
+| Apply | [View on company site](https://www.rubrik.com/company/careers/departments/job.7743401?gh_jid=7743401) |
 
 ## About This Role
 
-This account executive position at Pearce Services was posted on 2026-04-03.
+This engineering manager position at Rubrik was posted on 2026-04-03.
 
 ## Get Real-Time Alerts
 

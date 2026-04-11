@@ -1,16 +1,16 @@
-# AI Product Specialist at S&P Global
+# Senior AI Solutions Engineer at Concentrix
 
 | Field | Details |
 |-------|---------|
-| Company | [S&P Global](https://scoutify.ai/companies/s-p-global?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
+| Company | [Concentrix](https://scoutify.ai/companies/concentrix?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | 2 locations |
-| Category | Business Development |
+| Category | AI / LLM Engineer |
 | Posted | 2026-04-03 |
-| Apply | [View on company site](https://spgi.wd5.myworkdayjobs.com/SPGI_Careers/job/Cambridge-MA/AI-Product-Specialist_327223-1) |
+| Apply | [View on company site](https://cnx.wd1.myworkdayjobs.com/external_global/job/USA-Bellevue-13555-SE-36th-Street/Senior-AI-Solutions-Engineer_R1719474) |
 
 ## About This Role
 
-This business development position at S&P Global was posted on 2026-04-03.
+This ai / llm engineer position at Concentrix was posted on 2026-04-03.
 
 ## Get Real-Time Alerts
 

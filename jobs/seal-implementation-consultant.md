@@ -1,16 +1,16 @@
-# Field Engineer, Wind MCE  at Pearce Services
+# Implementation Consultant at Seal
 
 | Field | Details |
 |-------|---------|
-| Company | [Pearce Services](https://scoutify.ai/companies/pearce-services?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
+| Company | [Seal](https://scoutify.ai/companies/seal-2?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | United States |
-| Category | Account Executive |
+| Category | Customer Success |
 | Posted | 2026-04-03 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/pearceservices/jobs/5176122008) |
+| Apply | [View on company site](https://www.ycombinator.com/companies/seal-2/jobs/FrYzntx-implementation-consultant) |
 
 ## About This Role
 
-This account executive position at Pearce Services was posted on 2026-04-03.
+This customer success position at Seal was posted on 2026-04-03.
 
 ## Get Real-Time Alerts
 
