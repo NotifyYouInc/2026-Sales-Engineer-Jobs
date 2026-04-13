@@ -1,16 +1,16 @@
-# Lead, Account Solution Engineer at Salesforce
+# Sales Engineer, Control at Johnson Controls
 
 | Field | Details |
 |-------|---------|
-| Company | [Salesforce](https://scoutify.ai/companies/salesforce?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Karnataka, IN |
+| Company | [Johnson Controls](https://scoutify.ai/companies/jci?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
+| Location | Petaling Jaya, Selangor, Malaysia |
 | Category | Sales Engineer |
 | Posted | 2026-04-06 |
-| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Bangalore/Lead--Account-Solution-Engineer_JR330223) |
+| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Petaling-Jaya-Selangor-Malaysia/Sales-Engineer--Control_WD30264789) |
 
 ## About This Role
 
-This sales engineer position at Salesforce was posted on 2026-04-06.
+This sales engineer position at Johnson Controls was posted on 2026-04-06.
 
 ## Get Real-Time Alerts
 

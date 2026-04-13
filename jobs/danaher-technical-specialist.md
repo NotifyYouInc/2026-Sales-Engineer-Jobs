@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Danaher](https://scoutify.ai/companies/danaher?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Jiangsu, CN |
+| Location | Shanghai, Shanghai, China |
 | Category | Customer Success |
-| Posted | 2026-03-30 |
-| Apply | [View on company site](https://danaher.wd1.myworkdayjobs.com/DanaherJobs/job/Jiangsu-Jiangsu-China/Technical-Specialist_R1307886) |
+| Posted | 2026-04-01 |
+| Apply | [View on company site](https://danaher.wd1.myworkdayjobs.com/DanaherJobs/job/CHN---Shanghai---HiTech-Park---Multiple-OpCo/Technical-Specialist_R1308373) |
 
 ## About This Role
 
-This customer success position at Danaher was posted on 2026-03-30.
+This customer success position at Danaher was posted on 2026-04-01.
 
 ## Get Real-Time Alerts
 
