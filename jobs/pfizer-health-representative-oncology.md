@@ -1,16 +1,16 @@
-# Sales Engineer at Freudenberg Group
+# Health Representative Oncology at Pfizer
 
 | Field | Details |
 |-------|---------|
-| Company | [Freudenberg Group](https://scoutify.ai/companies/freudenberg?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Not specified |
+| Company | [Pfizer](https://scoutify.ai/companies/pfizer?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
+| Location | Riyadh, Riyadh Region, Saudi Arabia |
 | Category | Sales Engineer |
 | Posted | 2026-04-06 |
-| Apply | [View on company site](https://freudenberg.wd3.myworkdayjobs.com/freudenberg-group/job/United-States-of-America---Remote/Sales-Engineer_R_00092097) |
+| Apply | [View on company site](https://pfizer.wd1.myworkdayjobs.com/PfizerCareers/job/Saudi-Arabia---Riyadh/Health-Representative-Oncology_4954856-1) |
 
 ## About This Role
 
-This sales engineer position at Freudenberg Group was posted on 2026-04-06.
+This sales engineer position at Pfizer was posted on 2026-04-06.
 
 ## Get Real-Time Alerts
 

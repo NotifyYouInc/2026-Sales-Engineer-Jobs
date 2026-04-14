@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Zscaler](https://scoutify.ai/companies/zscaler?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | France |
+| Location | Delaware, US |
 | Category | Sales Engineer |
-| Posted | 2026-03-18 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/zscaler/jobs/5081523007) |
+| Posted | 2026-04-06 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/zscaler/jobs/5091443007) |
 
 ## About This Role
 
-This sales engineer position at Zscaler was posted on 2026-03-18.
+This sales engineer position at Zscaler was posted on 2026-04-06.
 
 ## Get Real-Time Alerts
 

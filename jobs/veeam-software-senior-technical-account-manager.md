@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Veeam Software](https://scoutify.ai/companies/veeamsoftware?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Singapore, Singapore |
+| Location | Australia |
 | Category | Customer Success |
-| Posted | 2026-02-13 |
-| Apply | [View on company site](https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4743990101) |
+| Posted | 2026-04-06 |
+| Apply | [View on company site](https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4744068101) |
 
 ## About This Role
 
-This customer success position at Veeam Software was posted on 2026-02-13.
+This customer success position at Veeam Software was posted on 2026-04-06.
 
 ## Get Real-Time Alerts
 

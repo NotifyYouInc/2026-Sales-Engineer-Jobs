@@ -1,16 +1,16 @@
-# Sales Engineer at Freudenberg Group
+# Senior Technical Sales T&D Specialist at GE Vernova
 
 | Field | Details |
 |-------|---------|
-| Company | [Freudenberg Group](https://scoutify.ai/companies/freudenberg?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Not specified |
+| Company | [GE Vernova](https://scoutify.ai/companies/ge-vernova?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
+| Location | 2 locations |
 | Category | Sales Engineer |
 | Posted | 2026-04-06 |
-| Apply | [View on company site](https://freudenberg.wd3.myworkdayjobs.com/freudenberg-group/job/United-States-of-America---Remote/Sales-Engineer_R_00092097) |
+| Apply | [View on company site](https://gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite/job/Manama/Senior-Technical-Sales-T-D-Specialist_R5037090-2) |
 
 ## About This Role
 
-This sales engineer position at Freudenberg Group was posted on 2026-04-06.
+This sales engineer position at GE Vernova was posted on 2026-04-06.
 
 ## Get Real-Time Alerts
 

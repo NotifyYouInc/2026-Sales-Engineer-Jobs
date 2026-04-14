@@ -1,16 +1,16 @@
-# Agentic Solution Engineer at Netomi
+# Digital Solution Area Specialist - Azure at Microsoft
 
 | Field | Details |
 |-------|---------|
-| Company | [Netomi](https://scoutify.ai/companies/netomi?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
+| Company | [Microsoft](https://scoutify.ai/companies/microsoft?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Gurugram, Haryana, India |
 | Category | Technical & Solutions Architect |
 | Posted | 2026-04-06 |
-| Apply | [View on company site](https://jobs.lever.co/netomi/cc7c0f28-0eac-4924-8294-91369e38c1c2) |
+| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556856154) |
 
 ## About This Role
 
-This technical & solutions architect position at Netomi was posted on 2026-04-06.
+This technical & solutions architect position at Microsoft was posted on 2026-04-06.
 
 ## Get Real-Time Alerts
 

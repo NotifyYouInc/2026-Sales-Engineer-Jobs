@@ -1,16 +1,16 @@
-# Sales Engineer at Freudenberg Group
+# Field Sales Engineer - Food Industry at Alfa Laval
 
 | Field | Details |
 |-------|---------|
-| Company | [Freudenberg Group](https://scoutify.ai/companies/freudenberg?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Not specified |
+| Company | [Alfa Laval](https://scoutify.ai/companies/alfa-laval?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
+| Location | 2 locations |
 | Category | Sales Engineer |
 | Posted | 2026-04-06 |
-| Apply | [View on company site](https://freudenberg.wd3.myworkdayjobs.com/freudenberg-group/job/United-States-of-America---Remote/Sales-Engineer_R_00092097) |
+| Apply | [View on company site](https://alfalaval.wd3.myworkdayjobs.com/alfa_laval_jobs/job/Bogota/Field-Sales-Engineer---Food-Industry_JR0044285) |
 
 ## About This Role
 
-This sales engineer position at Freudenberg Group was posted on 2026-04-06.
+This sales engineer position at Alfa Laval was posted on 2026-04-06.
 
 ## Get Real-Time Alerts
 

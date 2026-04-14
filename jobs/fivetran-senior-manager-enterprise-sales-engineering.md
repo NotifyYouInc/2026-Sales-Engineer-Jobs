@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Fivetran](https://scoutify.ai/companies/fivetran?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | France |
-| Category | Sales Leadership |
-| Posted | 2026-03-30 |
-| Apply | [View on company site](https://www.fivetran.com/careers/job?gh_jid=7675061003) |
+| Location | Not specified |
+| Category | Business Development |
+| Posted | 2026-04-01 |
+| Apply | [View on company site](https://www.fivetran.com/careers/job?gh_jid=7687102003) |
 
 ## About This Role
 
-This sales leadership position at Fivetran was posted on 2026-03-30.
+This business development position at Fivetran was posted on 2026-04-01.
 
 ## Get Real-Time Alerts
 

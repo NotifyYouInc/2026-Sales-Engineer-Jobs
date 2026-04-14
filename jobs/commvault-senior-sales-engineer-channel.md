@@ -1,16 +1,16 @@
-# Sales Engineer at Veralto
+# Senior Sales Engineer - Channel at Commvault
 
 | Field | Details |
 |-------|---------|
-| Company | [Veralto](https://scoutify.ai/companies/veralto?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Bangkok, Bangkok, Thailand |
+| Company | [Commvault](https://scoutify.ai/companies/commvault?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
+| Location | Mumbai, Maharashtra, India |
 | Category | Sales Engineer |
-| Posted | 2026-04-07 |
-| Apply | [View on company site](https://veralto.wd1.myworkdayjobs.com/hachjobs/job/Bangkok-Thailand/Sales-Engineer_R10265120-1) |
+| Posted | 2026-04-06 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/commvault/jobs/5172812008) |
 
 ## About This Role
 
-This sales engineer position at Veralto was posted on 2026-04-07.
+This sales engineer position at Commvault was posted on 2026-04-06.
 
 ## Get Real-Time Alerts
 

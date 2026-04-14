@@ -5,12 +5,12 @@
 | Company | [ServiceNow](https://scoutify.ai/companies/servicenow?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Maryland, US |
 | Category | Technology / IT Consulting |
-| Posted | 2026-03-30 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000117701057-senior-technical-consultant-platform-federal-tsscifsp-clearance) |
+| Posted | 2026-04-03 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000118628677-senior-technical-consultant-platform-federal-tsscifsp-clearance) |
 
 ## About This Role
 
-This technology / it consulting position at ServiceNow was posted on 2026-03-30.
+This technology / it consulting position at ServiceNow was posted on 2026-04-03.
 
 ## Get Real-Time Alerts
 

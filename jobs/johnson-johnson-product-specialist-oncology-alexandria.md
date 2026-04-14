@@ -1,16 +1,16 @@
-# Product Specialist at Johnson & Johnson
+# Product Specialist Oncology - Alexandria at Johnson & Johnson
 
 | Field | Details |
 |-------|---------|
 | Company | [Johnson & Johnson](https://scoutify.ai/companies/johnson-johnson?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Victoria, AU |
-| Category | Account Executive |
-| Posted | 2026-03-30 |
-| Apply | [View on company site](https://jj.wd5.myworkdayjobs.com/JJ/job/Notting-Hill-Victoria-Australia/Product-Specialist_R-066835) |
+| Location | Alexandria, Alexandria, Egypt |
+| Category | Corporate Finance |
+| Posted | 2026-04-06 |
+| Apply | [View on company site](https://jj.wd5.myworkdayjobs.com/JJ/job/Alexandria-Egypt/Product-Specialist-Oncology---Alexandria_R-068396) |
 
 ## About This Role
 
-This account executive position at Johnson & Johnson was posted on 2026-03-30.
+This corporate finance position at Johnson & Johnson was posted on 2026-04-06.
 
 ## Get Real-Time Alerts
 

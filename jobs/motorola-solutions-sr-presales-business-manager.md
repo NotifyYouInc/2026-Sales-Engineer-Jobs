@@ -1,16 +1,16 @@
-# Sales Engineer at Freudenberg Group
+# Sr. Presales Business Manager at Motorola Solutions
 
 | Field | Details |
 |-------|---------|
-| Company | [Freudenberg Group](https://scoutify.ai/companies/freudenberg?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Not specified |
+| Company | [Motorola Solutions](https://scoutify.ai/companies/motorola-solutions?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
+| Location | 4 locations |
 | Category | Sales Engineer |
 | Posted | 2026-04-06 |
-| Apply | [View on company site](https://freudenberg.wd3.myworkdayjobs.com/freudenberg-group/job/United-States-of-America---Remote/Sales-Engineer_R_00092097) |
+| Apply | [View on company site](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Chicago-IL/Sr-Presales-Business-Manager_R62835) |
 
 ## About This Role
 
-This sales engineer position at Freudenberg Group was posted on 2026-04-06.
+This sales engineer position at Motorola Solutions was posted on 2026-04-06.
 
 ## Get Real-Time Alerts
 

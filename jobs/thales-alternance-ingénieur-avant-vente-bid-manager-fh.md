@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Thales](https://scoutify.ai/companies/thales?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Paris, Île-de-France, France |
+| Location | Gennevilliers, Île-de-France, France |
 | Category | Sales Engineer |
-| Posted | 2026-03-30 |
-| Apply | [View on company site](https://thales.wd3.myworkdayjobs.com/Careers/job/Paris/ALTERNANCE---Ingnieur-Avant-Vente---Bid-Manager---F-H_R0321674) |
+| Posted | 2026-03-31 |
+| Apply | [View on company site](https://thales.wd3.myworkdayjobs.com/Careers/job/Gennevilliers/ALTERNANCE---Ingnieur-Avant-Vente---Bid-Manager---F-H_R0321081-1) |
 
 ## About This Role
 
-This sales engineer position at Thales was posted on 2026-03-30.
+This sales engineer position at Thales was posted on 2026-03-31.
 
 ## Get Real-Time Alerts
 

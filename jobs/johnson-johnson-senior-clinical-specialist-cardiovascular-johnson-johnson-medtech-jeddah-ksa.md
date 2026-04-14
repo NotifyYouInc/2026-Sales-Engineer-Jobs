@@ -1,16 +1,16 @@
-# Product Specialist at Johnson & Johnson
+# Senior Clinical Specialist - Cardiovascular | Johnson & Johnson MedTech | Jeddah, KSA at Johnson & Johnson
 
 | Field | Details |
 |-------|---------|
 | Company | [Johnson & Johnson](https://scoutify.ai/companies/johnson-johnson?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Victoria, AU |
-| Category | Account Executive |
-| Posted | 2026-03-30 |
-| Apply | [View on company site](https://jj.wd5.myworkdayjobs.com/JJ/job/Notting-Hill-Victoria-Australia/Product-Specialist_R-066835) |
+| Location | Jeddah, Mecca Region, Saudi Arabia |
+| Category | Sales Engineer |
+| Posted | 2026-04-06 |
+| Apply | [View on company site](https://jj.wd5.myworkdayjobs.com/JJ/job/Jeddah-Makkah-Saudi-Arabia/Senior-Clinical-Specialist---Cardiovascular---Johnson---Johnson-MedTech---Jeddah--KSA_R-056286) |
 
 ## About This Role
 
-This account executive position at Johnson & Johnson was posted on 2026-03-30.
+This sales engineer position at Johnson & Johnson was posted on 2026-04-06.
 
 ## Get Real-Time Alerts
 

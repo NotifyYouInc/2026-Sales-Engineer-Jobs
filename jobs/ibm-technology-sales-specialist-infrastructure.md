@@ -1,16 +1,16 @@
-# Solutions Engineer at Trend Micro
+# Technology Sales Specialist - Infrastructure at IBM
 
 | Field | Details |
 |-------|---------|
-| Company | [Trend Micro](https://scoutify.ai/companies/trendmicro?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Brazil |
-| Category | Sales Engineer |
+| Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
+| Location | Canada |
+| Category | Account Executive |
 | Posted | 2026-04-06 |
-| Apply | [View on company site](https://trendmicro.wd3.myworkdayjobs.com/External/job/Brazil-Off-Site/Solutions-Engineer_R0009446) |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=107046) |
 
 ## About This Role
 
-This sales engineer position at Trend Micro was posted on 2026-04-06.
+This account executive position at IBM was posted on 2026-04-06.
 
 ## Get Real-Time Alerts
 

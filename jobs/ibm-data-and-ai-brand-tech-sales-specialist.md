@@ -1,16 +1,16 @@
-# Sales Engineer at Veralto
+# Data and AI Brand Tech Sales Specialist at IBM
 
 | Field | Details |
 |-------|---------|
-| Company | [Veralto](https://scoutify.ai/companies/veralto?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Bangkok, Bangkok, Thailand |
-| Category | Sales Engineer |
+| Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
+| Location | Austin, Texas, United States |
+| Category | Account Executive |
 | Posted | 2026-04-07 |
-| Apply | [View on company site](https://veralto.wd1.myworkdayjobs.com/hachjobs/job/Bangkok-Thailand/Sales-Engineer_R10265120-1) |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=108209) |
 
 ## About This Role
 
-This sales engineer position at Veralto was posted on 2026-04-07.
+This account executive position at IBM was posted on 2026-04-07.
 
 ## Get Real-Time Alerts
 

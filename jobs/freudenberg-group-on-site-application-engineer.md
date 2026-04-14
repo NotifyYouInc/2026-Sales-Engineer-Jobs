@@ -1,16 +1,16 @@
-# Sales Engineer at Freudenberg Group
+# On-Site Application Engineer at Freudenberg Group
 
 | Field | Details |
 |-------|---------|
 | Company | [Freudenberg Group](https://scoutify.ai/companies/freudenberg?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Not specified |
-| Category | Sales Engineer |
+| Location | Baton Rouge, Louisiana, United States |
+| Category | Software Engineer |
 | Posted | 2026-04-06 |
-| Apply | [View on company site](https://freudenberg.wd3.myworkdayjobs.com/freudenberg-group/job/United-States-of-America---Remote/Sales-Engineer_R_00092097) |
+| Apply | [View on company site](https://freudenberg.wd3.myworkdayjobs.com/freudenberg-group/job/Baton-Rouge-LA/On-Site-Application-Engineer_R_00099983) |
 
 ## About This Role
 
-This sales engineer position at Freudenberg Group was posted on 2026-04-06.
+This software engineer position at Freudenberg Group was posted on 2026-04-06.
 
 ## Get Real-Time Alerts
 
