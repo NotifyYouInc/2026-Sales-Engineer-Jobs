@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | 2 locations |
+| Location | 3 locations |
 | Category | Customer Success |
-| Posted | 2026-03-27 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/jobs/results/78538417247265478-technical-account-manager-google-cloud-consulting?sort_by=date&page=1) |
+| Posted | 2026-04-07 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckYsV56sFKNyv_HrCqAxa5Cmqn9D74fMNSx6GH0hVs_QmEjsACxwdTBfVNhB6zMwMbkCLP84MMc-0srjmxtSL-e8bexNKPs2iJsZ2wd1rKq__sl6TOmbYHRxH1ws9wA%3D%3D_V2&loc=US&title=Technical+Account+Manager) |
 
 ## About This Role
 
-This customer success position at Google was posted on 2026-03-27.
+This customer success position at Google was posted on 2026-04-07.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Zuora](https://scoutify.ai/companies/zuora?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Heredia, Heredia Province, Costa Rica |
+| Location | United States |
 | Category | Sales Engineer |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://boards.greenhouse.io/zuora/jobs/7550604?gh_jid=7550604) |
+| Posted | 2026-04-07 |
+| Apply | [View on company site](https://boards.greenhouse.io/zuora/jobs/7770757?gh_jid=7770757) |
 
 ## About This Role
 
-This sales engineer position at Zuora was posted on 2026-02-05.
+This sales engineer position at Zuora was posted on 2026-04-07.
 
 ## Get Real-Time Alerts
 

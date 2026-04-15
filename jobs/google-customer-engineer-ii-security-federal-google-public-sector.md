@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Reston, Virginia, United States |
-| Category | Customer Success |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/jobs/results/92018542009819846-customer-engineer-ii-security-federal-google-public-sector?sort_by=date&page=1) |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-04-07 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckWKOU8DRelHSTYE8kJVwKoM9Rd1e9RzZ1KkTqfIm0i_uEjsACxwdTCjG0tm10_e5TU30TcqzZmiVJRL8B3PW-Et4JQECaOgVowy2wvDUyQD9NlhtyomyqH45r47ajw%3D%3D_V2&loc=US&title=Customer+Engineer+II) |
 
 ## About This Role
 
-This customer success position at Google was posted on 2026-02-18.
+This technical & solutions architect position at Google was posted on 2026-04-07.
 
 ## Get Real-Time Alerts
 

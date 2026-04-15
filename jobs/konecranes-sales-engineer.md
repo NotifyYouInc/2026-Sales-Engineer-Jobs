@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Konecranes](https://scoutify.ai/companies/konecranes?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Indonesia |
-| Category | Account Executive |
-| Posted | 2026-03-28 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Konecranes/744000117448847-sales-engineer) |
+| Location | Balikpapan, East Kalimantan, Indonesia |
+| Category | Sales Engineer |
+| Posted | 2026-04-07 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Konecranes/744000119148429-sales-engineer) |
 
 ## About This Role
 
-This account executive position at Konecranes was posted on 2026-03-28.
+This sales engineer position at Konecranes was posted on 2026-04-07.
 
 ## Get Real-Time Alerts
 

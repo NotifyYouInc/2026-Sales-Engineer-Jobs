@@ -5,12 +5,12 @@
 | Company | [Otis](https://scoutify.ai/companies/otis?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Hangzhou, Zhejiang, China |
 | Category | Sales Engineer |
-| Posted | 2026-03-23 |
-| Apply | [View on company site](https://otis.wd5.myworkdayjobs.com/REC_Ext_Gateway/job/LOC3309-No28-Jiuhuan-Road-Hangzhou-Shangcheng-District-Zhejiang-China/Senior-Sales-Engineer_20155597) |
+| Posted | 2026-04-07 |
+| Apply | [View on company site](https://otis.wd5.myworkdayjobs.com/REC_Ext_Gateway/job/LOC3309-No28-Jiuhuan-Road-Hangzhou-Shangcheng-District-Zhejiang-China/Senior-Sales-Engineer_20156879) |
 
 ## About This Role
 
-This sales engineer position at Otis was posted on 2026-03-23.
+This sales engineer position at Otis was posted on 2026-04-07.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Applied Materials](https://scoutify.ai/companies/applied-materials?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Singapore, Singapore |
-| Category | Electrical / Hardware Engineer |
-| Posted | 2026-04-01 |
-| Apply | [View on company site](https://amat.wd1.myworkdayjobs.com/External/job/SingaporeSGP/Customer-Engineer_R2613102-1) |
+| Category | Customer Success |
+| Posted | 2026-04-02 |
+| Apply | [View on company site](https://amat.wd1.myworkdayjobs.com/External/job/SingaporeSGP/Customer-Engineer_R2614755-1) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Applied Materials was posted on 2026-04-01.
+This customer success position at Applied Materials was posted on 2026-04-02.
 
 ## Get Real-Time Alerts
 
