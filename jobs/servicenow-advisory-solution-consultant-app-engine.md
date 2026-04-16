@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [ServiceNow](https://scoutify.ai/companies/servicenow?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Washington, District of Columbia, United States |
-| Category | Sales Engineer |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000111765851-advisory-solution-consultant-app-engine) |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-04-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000119486867-advisory-solution-consultant-app-engine) |
 
 ## About This Role
 
-This sales engineer position at ServiceNow was posted on 2026-02-27.
+This technical & solutions architect position at ServiceNow was posted on 2026-04-09.
 
 ## Get Real-Time Alerts
 

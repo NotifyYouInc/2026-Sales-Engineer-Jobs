@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Thales](https://scoutify.ai/companies/thales?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Colombia |
+| Location | Austin, Texas, United States |
 | Category | Technology / IT Consulting |
-| Posted | 2026-03-01 |
-| Apply | [View on company site](https://thales.wd3.myworkdayjobs.com/Careers/job/Bogota/Embedded-Technical-Consultant_R0312812) |
+| Posted | 2026-04-09 |
+| Apply | [View on company site](https://thales.wd3.myworkdayjobs.com/Careers/job/Austin/Embedded-Technical-Consultant_R0320068-1) |
 
 ## About This Role
 
-This technology / it consulting position at Thales was posted on 2026-03-01.
+This technology / it consulting position at Thales was posted on 2026-04-09.
 
 ## Get Real-Time Alerts
 

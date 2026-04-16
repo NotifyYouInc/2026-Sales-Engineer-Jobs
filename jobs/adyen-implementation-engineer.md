@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Adyen](https://scoutify.ai/companies/adyen?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Paris, Île-de-France, France |
+| Location | Toronto, Ontario, Canada |
 | Category | Customer Success |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/adyen/jobs/7641067) |
+| Posted | 2026-04-08 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/adyen/jobs/7736384) |
 
 ## About This Role
 
-This customer success position at Adyen was posted on 2026-02-20.
+This customer success position at Adyen was posted on 2026-04-08.
 
 ## Get Real-Time Alerts
 

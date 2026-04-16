@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Hewlett Packard Enterprise](https://scoutify.ai/companies/hewlett-packard-enterprise?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Connecticut, US |
-| Category | Sales |
-| Posted | 2026-02-12 |
-| Apply | [View on company site](https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/All-Massachusetts-United-States-of-America/Storage-Sales-Specialist_1202344) |
+| Location | Florida, PR |
+| Category | Account Executive |
+| Posted | 2026-04-08 |
+| Apply | [View on company site](https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/All-Florida-United-States-of-America/Storage-Sales-Specialist_1205049) |
 
 ## About This Role
 
-This sales position at Hewlett Packard Enterprise was posted on 2026-02-12.
+This account executive position at Hewlett Packard Enterprise was posted on 2026-04-08.
 
 ## Get Real-Time Alerts
 

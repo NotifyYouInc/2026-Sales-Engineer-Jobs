@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ABB](https://scoutify.ai/companies/abb?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Buenos Aires, Buenos Aires F.D., Argentina |
-| Category | Sales |
-| Posted | 2026-02-16 |
-| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Buenos-Aires-Capital-Federal-Argentina/Sales-Specialist_JR00023740) |
+| Location | Jinan, Shandong, China |
+| Category | Account Executive |
+| Posted | 2026-04-09 |
+| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Jinan-Shandong-China/Sales-Specialist_JR00028937-2) |
 
 ## About This Role
 
-This sales position at ABB was posted on 2026-02-16.
+This account executive position at ABB was posted on 2026-04-09.
 
 ## Get Real-Time Alerts
 

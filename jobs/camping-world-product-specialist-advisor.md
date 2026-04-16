@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Camping World](https://scoutify.ai/companies/campingworld?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Not specified |
-| Category | Sales Engineer |
-| Posted | 2026-04-03 |
-| Apply | [View on company site](https://campingworld.wd5.myworkdayjobs.com/Jobs/job/Little-Falls-MN/Product-Specialist-Advisor_26_03375) |
+| Location | United States |
+| Category | Customer Success |
+| Posted | 2026-04-07 |
+| Apply | [View on company site](https://campingworld.wd5.myworkdayjobs.com/Jobs/job/Poteau-OK/Product-Specialist-Advisor_26_03494) |
 
 ## About This Role
 
-This sales engineer position at Camping World was posted on 2026-04-03.
+This customer success position at Camping World was posted on 2026-04-07.
 
 ## Get Real-Time Alerts
 

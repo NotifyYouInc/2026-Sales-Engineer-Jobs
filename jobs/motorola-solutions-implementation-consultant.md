@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Motorola Solutions](https://scoutify.ai/companies/motorola-solutions?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | United Kingdom |
+| Location | Sydney, New South Wales, Australia |
 | Category | Customer Success |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/United-Kingdom-Offsite-ZUK99/Implementation-Consultant_R62316) |
+| Posted | 2026-04-09 |
+| Apply | [View on company site](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Sydney-Australia/Implementation-Consultant_R63454) |
 
 ## About This Role
 
-This customer success position at Motorola Solutions was posted on 2026-02-18.
+This customer success position at Motorola Solutions was posted on 2026-04-09.
 
 ## Get Real-Time Alerts
 

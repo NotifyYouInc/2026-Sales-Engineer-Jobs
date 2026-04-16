@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Applied Materials](https://scoutify.ai/companies/applied-materials?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Singapore, Singapore |
-| Category | Customer Success |
-| Posted | 2026-04-02 |
-| Apply | [View on company site](https://amat.wd1.myworkdayjobs.com/External/job/SingaporeSGP/Customer-Engineer_R2614755-1) |
+| Location | Shanghai, Shanghai, China |
+| Category | Marketing |
+| Posted | 2026-04-09 |
+| Apply | [View on company site](https://amat.wd1.myworkdayjobs.com/External/job/ShanghaiCHN/Customer-Engineer_R2616847) |
 
 ## About This Role
 
-This customer success position at Applied Materials was posted on 2026-04-02.
+This marketing position at Applied Materials was posted on 2026-04-09.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Thales](https://scoutify.ai/companies/thales?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Singapore |
-| Category | Electrical / Hardware Engineer |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://thales.wd3.myworkdayjobs.com/Careers/job/Singapore/Technical-Specialist-I--Contract-_R0319153-1) |
+| Location | Singapore, Singapore |
+| Category | Customer Success |
+| Posted | 2026-04-08 |
+| Apply | [View on company site](https://thales.wd3.myworkdayjobs.com/Careers/job/Singapore/Technical-Specialist-I--Contract-_R0324387-1) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Thales was posted on 2026-03-09.
+This customer success position at Thales was posted on 2026-04-08.
 
 ## Get Real-Time Alerts
 

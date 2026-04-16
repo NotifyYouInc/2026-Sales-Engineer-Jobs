@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [PagerDuty](https://scoutify.ai/companies/pagerduty?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Atlanta, Georgia, United States |
-| Category | Customer Success |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/pagerduty/jobs/5814292004) |
+| Category | Implementation / Professional Services |
+| Posted | 2026-04-08 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/pagerduty/jobs/5841337004) |
 
 ## About This Role
 
-This customer success position at PagerDuty was posted on 2026-03-03.
+This implementation / professional services position at PagerDuty was posted on 2026-04-08.
 
 ## Get Real-Time Alerts
 

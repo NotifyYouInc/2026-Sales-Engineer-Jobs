@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ABB](https://scoutify.ai/companies/abb?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Rayong, TH |
-| Category | Account Executive |
-| Posted | 2026-03-27 |
-| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Banchang-Rayong-Thailand/Sales-Engineer_JR00026824) |
+| Location | Karnataka, IN |
+| Category | Sales Engineer |
+| Posted | 2026-04-08 |
+| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Bangalore-Karnataka-India/Sales-Engineer_JR00030565-1) |
 
 ## About This Role
 
-This account executive position at ABB was posted on 2026-03-27.
+This sales engineer position at ABB was posted on 2026-04-08.
 
 ## Get Real-Time Alerts
 
