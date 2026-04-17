@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Arrow Electronics](https://scoutify.ai/companies/arrow-electronics?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | North Carolina, US |
+| Location | United States |
 | Category | Software Engineer |
-| Posted | 2026-04-03 |
-| Apply | [View on company site](https://arrow.wd1.myworkdayjobs.com/ac/job/US-NC-North-Carolina-Remote-Employees/Field-Applications-Engineer_R242612) |
+| Posted | 2026-04-09 |
+| Apply | [View on company site](https://arrow.wd1.myworkdayjobs.com/ac/job/US-NY-New-York-Remote-Employees/Field-Applications-Engineer_R241626) |
 
 ## About This Role
 
-This software engineer position at Arrow Electronics was posted on 2026-04-03.
+This software engineer position at Arrow Electronics was posted on 2026-04-09.
 
 ## Get Real-Time Alerts
 

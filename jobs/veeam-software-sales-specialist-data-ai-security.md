@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Veeam Software](https://scoutify.ai/companies/veeamsoftware?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | India |
-| Category | Sales Engineer |
-| Posted | 2026-02-13 |
-| Apply | [View on company site](https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4781645101) |
+| Location | Not specified |
+| Category | Account Executive |
+| Posted | 2026-04-09 |
+| Apply | [View on company site](https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4837419101) |
 
 ## About This Role
 
-This sales engineer position at Veeam Software was posted on 2026-02-13.
+This account executive position at Veeam Software was posted on 2026-04-09.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ZipRecruiter](https://scoutify.ai/companies/ziprecruiter?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Not specified |
+| Location | Chicago, Illinois, United States |
 | Category | Sales Engineer |
-| Posted | 2026-03-31 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/ziprecruiter/jobs/7767630) |
+| Posted | 2026-04-09 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/ziprecruiter/jobs/7767634) |
 
 ## About This Role
 
-This sales engineer position at ZipRecruiter was posted on 2026-03-31.
+This sales engineer position at ZipRecruiter was posted on 2026-04-09.
 
 ## Get Real-Time Alerts
 

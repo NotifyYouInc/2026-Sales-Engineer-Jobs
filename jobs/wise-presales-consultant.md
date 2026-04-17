@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [WISE](https://scoutify.ai/companies/wise?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Austin, Texas, United States |
-| Category | Technical & Solutions Architect |
-| Posted | 2026-04-07 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000119156917-presales-consultant) |
+| Location | New York, US |
+| Category | Sales Engineer |
+| Posted | 2026-04-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000119658817-presales-consultant) |
 
 ## About This Role
 
-This technical & solutions architect position at WISE was posted on 2026-04-07.
+This sales engineer position at WISE was posted on 2026-04-09.
 
 ## Get Real-Time Alerts
 

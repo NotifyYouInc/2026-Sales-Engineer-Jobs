@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ServiceNow](https://scoutify.ai/companies/servicenow?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | London, England, United Kingdom |
-| Category | Technical Writer |
-| Posted | 2026-03-30 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000117702202-staff-ai-implementation-engineer-moveworks) |
+| Location | New York, US |
+| Category | AI / LLM Engineer |
+| Posted | 2026-04-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000119656818-staff-ai-implementation-engineer-moveworks) |
 
 ## About This Role
 
-This technical writer position at ServiceNow was posted on 2026-03-30.
+This ai / llm engineer position at ServiceNow was posted on 2026-04-09.
 
 ## Get Real-Time Alerts
 

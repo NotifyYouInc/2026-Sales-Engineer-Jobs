@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Dell Technologies](https://scoutify.ai/companies/dell-technologies?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Austin, Texas, United States |
+| Location | Round Rock, Texas, United States |
 | Category | Customer Success |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://dell.wd1.myworkdayjobs.com/External/job/Austin-Texas-United-States/Consultant--Technical-Account-Manager_R286591) |
+| Posted | 2026-04-09 |
+| Apply | [View on company site](https://dell.wd1.myworkdayjobs.com/External/job/Round-Rock-Texas-United-States/Consultant--Technical-Account-Manager_R286595-1) |
 
 ## About This Role
 
-This customer success position at Dell Technologies was posted on 2026-02-24.
+This customer success position at Dell Technologies was posted on 2026-04-09.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Workday](https://scoutify.ai/companies/workday?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Dublin, Leinster, Ireland |
+| Location | Zapopan, Jalisco, Mexico |
 | Category | Customer Success |
-| Posted | 2026-03-26 |
-| Apply | [View on company site](https://workday.wd5.myworkdayjobs.com/Workday/job/Ireland-Dublin/Technical-Integration-Consultant_JR-0100170) |
+| Posted | 2026-04-09 |
+| Apply | [View on company site](https://workday.wd5.myworkdayjobs.com/Workday/job/MEXZapopan/Technical-Integration-Consultant_JR-0106223) |
 
 ## About This Role
 
-This customer success position at Workday was posted on 2026-03-26.
+This customer success position at Workday was posted on 2026-04-09.
 
 ## Get Real-Time Alerts
 
