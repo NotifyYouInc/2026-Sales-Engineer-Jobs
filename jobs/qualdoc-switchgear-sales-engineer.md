@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Qualdoc](https://scoutify.ai/companies/qualdoc?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Marietta, Georgia, United States |
-| Category | Account Executive |
-| Posted | 2026-03-23 |
-| Apply | [View on company site](https://jobs.lever.co/qualdoc/b3289c06-bf0a-4468-8c66-a1606870b761) |
+| Category | Sales Engineer |
+| Posted | 2026-04-10 |
+| Apply | [View on company site](https://jobs.lever.co/qualdoc/d0f7ea7d-31c5-4945-aa7a-35022627de51) |
 
 ## About This Role
 
-This account executive position at Qualdoc was posted on 2026-03-23.
+This sales engineer position at Qualdoc was posted on 2026-04-10.
 
 ## Get Real-Time Alerts
 

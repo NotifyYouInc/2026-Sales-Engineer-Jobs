@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Happyrobot Inc.](https://scoutify.ai/companies/happyrobot-inc?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Madrid, Madrid, Spain |
-| Category | Sales Engineer |
-| Posted | 2025-11-24 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/happyrobot.ai/cbe1a890-b126-4670-b572-590d1a550e6a) |
+| Location | San Francisco, California, United States |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-03-24 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/happyrobot.ai/a5078338-757c-49ef-836a-0ed5d3fcb37c) |
 
 ## About This Role
 
-This sales engineer position at Happyrobot Inc. was posted on 2025-11-24.
+This technical & solutions architect position at Happyrobot Inc. was posted on 2026-03-24.
 
 ## Get Real-Time Alerts
 

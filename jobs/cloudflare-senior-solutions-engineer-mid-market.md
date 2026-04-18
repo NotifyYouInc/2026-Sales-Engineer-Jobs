@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cloudflare](https://scoutify.ai/companies/cloudflare?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | New York, US |
-| Category | Sales Engineer |
-| Posted | 2026-03-01 |
-| Apply | [View on company site](https://boards.greenhouse.io/cloudflare/jobs/7654328?gh_jid=7654328) |
+| Location | 2 locations |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-04-10 |
+| Apply | [View on company site](https://boards.greenhouse.io/cloudflare/jobs/7786402?gh_jid=7786402) |
 
 ## About This Role
 
-This sales engineer position at Cloudflare was posted on 2026-03-01.
+This technical & solutions architect position at Cloudflare was posted on 2026-04-10.
 
 ## Get Real-Time Alerts
 

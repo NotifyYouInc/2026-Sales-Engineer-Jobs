@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Airbnb](https://scoutify.ai/companies/airbnb?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | India |
-| Category | Program Manager |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://careers.airbnb.com/positions/7641063?gh_jid=7641063) |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-04-10 |
+| Apply | [View on company site](https://careers.airbnb.com/positions/7716311?gh_jid=7716311) |
 
 ## About This Role
 
-This program manager position at Airbnb was posted on 2026-02-20.
+This technical & solutions architect position at Airbnb was posted on 2026-04-10.
 
 ## Get Real-Time Alerts
 

@@ -1,4 +1,4 @@
-# Sales Engineer (Federal - Washington DC) at Armis Security
+# Sales Engineer (Federal- Washington DC) at Armis Security
 
 | Field | Details |
 |-------|---------|
@@ -6,7 +6,7 @@
 | Location | District of Columbia, US |
 | Category | Sales Engineer |
 | Posted | 2026-02-09 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/armissecurity/jobs/5789443004) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/armissecurity/jobs/5789444004) |
 
 ## About This Role
 

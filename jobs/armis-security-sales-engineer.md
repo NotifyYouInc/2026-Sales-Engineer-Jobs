@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Armis Security](https://scoutify.ai/companies/armis-security?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Bavaria, DE |
+| Location | Tokyo, Tokyo, Japan |
 | Category | Sales Engineer |
-| Posted | 2026-01-09 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/armissecurity/jobs/5547167004) |
+| Posted | 2026-01-30 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/armissecurity/jobs/5765358004) |
 
 ## About This Role
 
-This sales engineer position at Armis Security was posted on 2026-01-09.
+This sales engineer position at Armis Security was posted on 2026-01-30.
 
 ## Get Real-Time Alerts
 

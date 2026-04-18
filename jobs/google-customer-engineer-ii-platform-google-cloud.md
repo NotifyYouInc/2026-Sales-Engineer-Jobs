@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | New York, US |
-| Category | Customer Success |
-| Posted | 2026-02-23 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/jobs/results/87044308456088262-customer-engineer-ii-platform-google-cloud?sort_by=date&page=1) |
+| Location | 2 locations |
+| Category | Sales Engineer |
+| Posted | 2026-04-10 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckQlDuPrEGWS8VpD8k-mXBss0QnOIqtRy_a_U7FOVugr1EjsACxwdTEjqNpivTlruwSRJ-dra_yMcGIv-O7mPHapXWYLnrnHIWKbMX-6vNiqvJY31crM4-QD2H12dDg%3D%3D_V2&loc=US&title=Customer+Engineer+II) |
 
 ## About This Role
 
-This customer success position at Google was posted on 2026-02-23.
+This sales engineer position at Google was posted on 2026-04-10.
 
 ## Get Real-Time Alerts
 

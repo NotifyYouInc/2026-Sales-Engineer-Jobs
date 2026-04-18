@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Adaptive Financial Consulting](https://scoutify.ai/companies/adaptive-financial-consulting?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | London, England, United Kingdom |
+| Location | New York, US |
 | Category | Software Engineer |
-| Posted | 2025-04-10 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/adaptivefinancialconsulting/jobs/6562151) |
+| Posted | 2026-02-05 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/adaptivefinancialconsulting/jobs/7461379) |
 
 ## About This Role
 
-This software engineer position at Adaptive Financial Consulting was posted on 2025-04-10.
+This software engineer position at Adaptive Financial Consulting was posted on 2026-02-05.
 
 ## Get Real-Time Alerts
 

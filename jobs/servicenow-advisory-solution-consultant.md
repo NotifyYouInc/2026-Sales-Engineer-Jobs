@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ServiceNow](https://scoutify.ai/companies/servicenow?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Switzerland |
+| Location | Boston, Massachusetts, United States |
 | Category | Sales Engineer |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000112377227-advisory-solution-consultant) |
+| Posted | 2026-04-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000120021257-advisory-solution-consultant) |
 
 ## About This Role
 
-This sales engineer position at ServiceNow was posted on 2026-03-03.
+This sales engineer position at ServiceNow was posted on 2026-04-10.
 
 ## Get Real-Time Alerts
 

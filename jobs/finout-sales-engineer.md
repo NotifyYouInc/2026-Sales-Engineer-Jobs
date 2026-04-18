@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Finout](https://scoutify.ai/companies/finout?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Illinois, US |
+| Location | United States |
 | Category | Sales Engineer |
-| Posted | 2026-01-29 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/finout/cc2d5629-4d1b-43d2-b14e-dad9ac869fad) |
+| Posted | 2026-02-25 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/finout/98d92e71-970e-420b-b7d7-49bb48ffebc6) |
 
 ## About This Role
 
-This sales engineer position at Finout was posted on 2026-01-29.
+This sales engineer position at Finout was posted on 2026-02-25.
 
 ## Get Real-Time Alerts
 

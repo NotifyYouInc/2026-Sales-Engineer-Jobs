@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Xometry Europe](https://scoutify.ai/companies/xometry-europe?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Georgia, US |
+| Location | Serbia |
 | Category | Sales Engineer |
 | Posted | 2026-03-21 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/xometryeurope/jobs/4804952007) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/xometryeurope/jobs/4744277007) |
 
 ## About This Role
 

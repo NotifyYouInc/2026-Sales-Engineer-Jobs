@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [WISE](https://scoutify.ai/companies/wise?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Tallinn, Harjumaa, Estonia |
-| Category | Project Manager |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000114050642-payment-operations-product-specialist-cards-pay-in) |
+| Category | Product Manager |
+| Posted | 2026-04-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000119937027-payment-operations-product-specialist-cards-pay-in) |
 
 ## About This Role
 
-This project manager position at WISE was posted on 2026-03-11.
+This product manager position at WISE was posted on 2026-04-10.
 
 ## Get Real-Time Alerts
 

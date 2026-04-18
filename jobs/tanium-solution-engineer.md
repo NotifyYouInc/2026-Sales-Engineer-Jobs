@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Tanium](https://scoutify.ai/companies/tanium?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Singapore, Singapore |
+| Location | Germany |
 | Category | Sales Engineer |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/tanium/jobs/7531629) |
+| Posted | 2026-04-10 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/tanium/jobs/7800284) |
 
 ## About This Role
 
-This sales engineer position at Tanium was posted on 2026-03-10.
+This sales engineer position at Tanium was posted on 2026-04-10.
 
 ## Get Real-Time Alerts
 

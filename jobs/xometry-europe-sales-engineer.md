@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Xometry Europe](https://scoutify.ai/companies/xometry-europe?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Portugal |
+| Location | Spain |
 | Category | Sales Engineer |
 | Posted | 2026-03-21 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/xometryeurope/jobs/5071952007) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/xometryeurope/jobs/5071951007) |
 
 ## About This Role
 

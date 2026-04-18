@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Huntington Bancshares](https://scoutify.ai/companies/huntington?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Dallas, Texas, United States |
-| Category | IT & Systems Administration |
-| Posted | 2026-04-01 |
-| Apply | [View on company site](https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Dallas-TX/IS-Technical-Specialist_R0070916) |
+| Location | Columbus, Ohio, United States |
+| Category | Software Engineer |
+| Posted | 2026-04-10 |
+| Apply | [View on company site](https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Columbus-OH/IS-Technical-Specialist_R0071326-1) |
 
 ## About This Role
 
-This it & systems administration position at Huntington Bancshares was posted on 2026-04-01.
+This software engineer position at Huntington Bancshares was posted on 2026-04-10.
 
 ## Get Real-Time Alerts
 

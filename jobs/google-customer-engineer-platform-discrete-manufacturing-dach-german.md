@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | 2 locations |
-| Category | Sales Engineer |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/jobs/results/113483160762622662-customer-engineer-platform-discrete-manufacturing-dach-german?sort_by=date&page=1) |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-04-10 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckRZzO2jZwJXxXcxjHfqjr6xDeZ2jgPtr6JxEpClOehncEjsACxwdTGYvq6dG_cqa-IVpcHxaAX0-TiJh4EJQwKWXWirKvGU8RsoeWj_0D7CotLjWqvKca7U39OB5fQ%3D%3D_V2&loc=DE&title=Customer+Engineer) |
 
 ## About This Role
 
-This sales engineer position at Google was posted on 2026-02-27.
+This technical & solutions architect position at Google was posted on 2026-04-10.
 
 ## Get Real-Time Alerts
 

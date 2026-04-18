@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mantisinnovation](https://scoutify.ai/companies/mantisinnovation?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Wilmington, North Carolina, United States |
+| Location | Dallas, Texas, United States |
 | Category | Sales Engineer |
 | Posted | 2026-03-04 |
-| Apply | [View on company site](https://jobs.lever.co/mantisinnovation/0f62a4ca-57ea-47bb-af54-5bd3487cbf87) |
+| Apply | [View on company site](https://jobs.lever.co/mantisinnovation/583d83bc-9e51-457d-a875-ac3ef05bec71) |
 
 ## About This Role
 

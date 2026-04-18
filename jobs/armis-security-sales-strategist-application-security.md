@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Armis Security](https://scoutify.ai/companies/armis-security?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Austin, Texas, United States |
-| Category | Technical & Solutions Architect |
+| Location | Boston, Massachusetts, United States |
+| Category | Sales Engineer |
 | Posted | 2026-03-04 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/armissecurity/jobs/5765869004) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/armissecurity/jobs/5765872004) |
 
 ## About This Role
 
-This technical & solutions architect position at Armis Security was posted on 2026-03-04.
+This sales engineer position at Armis Security was posted on 2026-03-04.
 
 ## Get Real-Time Alerts
 

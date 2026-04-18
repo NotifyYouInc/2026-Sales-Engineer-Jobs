@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Qualys](https://scoutify.ai/companies/qualys?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Indiana, US |
+| Location | Tokyo, Tokyo, Japan |
 | Category | Customer Success |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://qualys.wd5.myworkdayjobs.com/careers/job/Illinois/Technical-Account-Manager_R0004480) |
+| Posted | 2026-04-10 |
+| Apply | [View on company site](https://qualys.wd5.myworkdayjobs.com/careers/job/Tokyo/Technical-Account-Manager_R0004614) |
 
 ## About This Role
 
-This customer success position at Qualys was posted on 2026-03-02.
+This customer success position at Qualys was posted on 2026-04-10.
 
 ## Get Real-Time Alerts
 

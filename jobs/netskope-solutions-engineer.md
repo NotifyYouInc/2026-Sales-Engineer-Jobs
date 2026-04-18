@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Netskope](https://scoutify.ai/companies/netskope?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Mexico |
+| Location | United Arab Emirates |
 | Category | Sales Engineer |
-| Posted | 2026-03-20 |
-| Apply | [View on company site](https://www.netskope.com/company/careers/open-positions/?gh_jid=7738126) |
+| Posted | 2026-04-10 |
+| Apply | [View on company site](https://www.netskope.com/company/careers/open-positions/?gh_jid=7791793) |
 
 ## About This Role
 
-This sales engineer position at Netskope was posted on 2026-03-20.
+This sales engineer position at Netskope was posted on 2026-04-10.
 
 ## Get Real-Time Alerts
 

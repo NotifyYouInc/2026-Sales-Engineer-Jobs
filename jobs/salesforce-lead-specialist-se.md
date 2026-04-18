@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Salesforce](https://scoutify.ai/companies/salesforce?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | 5 locations |
+| Location | California, US |
 | Category | Sales Engineer |
-| Posted | 2026-04-08 |
-| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/New-York---New-York/Lead--Specialist-SE_JR336889) |
+| Posted | 2026-04-10 |
+| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---Remote/Lead--Specialist-SE_JR337492) |
 
 ## About This Role
 
-This sales engineer position at Salesforce was posted on 2026-04-08.
+This sales engineer position at Salesforce was posted on 2026-04-10.
 
 ## Get Real-Time Alerts
 

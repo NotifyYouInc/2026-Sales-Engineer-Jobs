@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Ljubljana, Ljubljana, Slovenia |
-| Category | Technical & Solutions Architect |
-| Posted | 2026-04-07 |
-| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Ljubljana-Slovenia/Solutions-Engineer_2010352-1) |
+| Location | New York, US |
+| Category | Sales Engineer |
+| Posted | 2026-04-10 |
+| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/New-York-New-York-US/Solutions-Engineer_2009511) |
 
 ## About This Role
 
-This technical & solutions architect position at Cisco was posted on 2026-04-07.
+This sales engineer position at Cisco was posted on 2026-04-10.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Carrier Global](https://scoutify.ai/companies/carrier?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Hong Kong |
-| Category | Business Development |
-| Posted | 2026-03-27 |
-| Apply | [View on company site](https://carrier.wd5.myworkdayjobs.com/jobs/job/Unit-901-9F-8-Lam-Chak-Street-Kowloon-Bay-Kowloon-Hong-Kong/Senior-Sales-Engineer_30202613-1) |
+| Location | Kennesaw, Georgia, United States |
+| Category | Sales Engineer |
+| Posted | 2026-04-10 |
+| Apply | [View on company site](https://carrier.wd5.myworkdayjobs.com/jobs/job/CAG16-AL-Georgia-ATL-1975-Vaughn-Road-Kennesaw-GA-30144-USA/Senior-Sales-Engineer_30203489) |
 
 ## About This Role
 
-This business development position at Carrier Global was posted on 2026-03-27.
+This sales engineer position at Carrier Global was posted on 2026-04-10.
 
 ## Get Real-Time Alerts
 

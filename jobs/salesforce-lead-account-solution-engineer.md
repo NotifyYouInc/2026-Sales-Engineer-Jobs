@@ -1,16 +1,16 @@
-# Lead, Account Solution Engineer at Salesforce
+# Lead Account Solution Engineer at Salesforce
 
 | Field | Details |
 |-------|---------|
 | Company | [Salesforce](https://scoutify.ai/companies/salesforce?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Karnataka, IN |
+| Location | 3 locations |
 | Category | Sales Engineer |
-| Posted | 2026-04-06 |
-| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Bangalore/Lead--Account-Solution-Engineer_JR330223) |
+| Posted | 2026-04-10 |
+| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Spain---Barcelona/Lead-Account-Solution-Engineer_JR336789) |
 
 ## About This Role
 
-This sales engineer position at Salesforce was posted on 2026-04-06.
+This sales engineer position at Salesforce was posted on 2026-04-10.
 
 ## Get Real-Time Alerts
 
