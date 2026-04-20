@@ -1,16 +1,16 @@
-# Informatica Solution Engineer (Pre-Sales), Tokyo at Salesforce
+# Copilot Strategic Solution Engineer (Enterprise Commercial) at Microsoft
 
 | Field | Details |
 |-------|---------|
-| Company | [Salesforce](https://scoutify.ai/companies/salesforce?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
+| Company | [Microsoft](https://scoutify.ai/companies/microsoft?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Tokyo, Tokyo, Japan |
 | Category | Technical & Solutions Architect |
 | Posted | 2026-04-13 |
-| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Japan---Tokyo/Informatica-Solution-Engineer--Pre-Sales---Tokyo_JR334034) |
+| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556858541) |
 
 ## About This Role
 
-This technical & solutions architect position at Salesforce was posted on 2026-04-13.
+This technical & solutions architect position at Microsoft was posted on 2026-04-13.
 
 ## Get Real-Time Alerts
 

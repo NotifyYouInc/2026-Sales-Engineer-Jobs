@@ -1,16 +1,16 @@
-# Product Specialist at Dr. Reddy's Laboratories
+# Service Sales Specialist at ABB
 
 | Field | Details |
 |-------|---------|
-| Company | [Dr. Reddy's Laboratories](https://scoutify.ai/companies/drreddyslaboratories?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Philippines |
+| Company | [ABB](https://scoutify.ai/companies/abb?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
+| Location | Mumbai, Maharashtra, India |
 | Category | Account Executive |
 | Posted | 2026-04-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/DrReddysLaboratoriesLimited/744000120309913-product-specialist) |
+| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Mumbai-Maharashtra-India/Service-Sales-Specialist_JR00030631) |
 
 ## About This Role
 
-This account executive position at Dr. Reddy's Laboratories was posted on 2026-04-13.
+This account executive position at ABB was posted on 2026-04-13.
 
 ## Get Real-Time Alerts
 

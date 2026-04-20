@@ -1,12 +1,12 @@
-# Informatica Solution Engineer (Pre-Sales), Tokyo at Salesforce
+# Agentforce & Data 360 Solution Engineer - Indonesia at Salesforce
 
 | Field | Details |
 |-------|---------|
 | Company | [Salesforce](https://scoutify.ai/companies/salesforce?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Tokyo, Tokyo, Japan |
+| Location | Jakarta, Jakarta, Indonesia |
 | Category | Technical & Solutions Architect |
 | Posted | 2026-04-13 |
-| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Japan---Tokyo/Informatica-Solution-Engineer--Pre-Sales---Tokyo_JR334034) |
+| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Indonesia---Jakarta/Agentforce---Data-360-Solution-Engineer---Indonesia_JR338166) |
 
 ## About This Role
 

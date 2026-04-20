@@ -1,16 +1,16 @@
-# Implementation Consultant at HighRadius
+# Technical Sales and Support Engineer at Ocean Optics
 
 | Field | Details |
 |-------|---------|
-| Company | [HighRadius](https://scoutify.ai/companies/highradius?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Company | [Ocean Optics](https://scoutify.ai/companies/halma?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
+| Location | Tucson, Arizona, United States |
 | Category | Customer Success |
 | Posted | 2026-04-12 |
-| Apply | [View on company site](https://www.highradius.com/about/careers-list/?gh_jid=7686320003) |
+| Apply | [View on company site](https://halma.wd3.myworkdayjobs.com/halma/job/Tucson/Technical-Sales-and-Support-Engineer_JR26_000395) |
 
 ## About This Role
 
-This customer success position at HighRadius was posted on 2026-04-12.
+This customer success position at Ocean Optics was posted on 2026-04-12.
 
 ## Get Real-Time Alerts
 

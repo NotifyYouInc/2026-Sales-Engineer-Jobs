@@ -1,16 +1,16 @@
-# Sales Engineer at Trend Micro
+# Senior Product Sales, MR at Philips
 
 | Field | Details |
 |-------|---------|
-| Company | [Trend Micro](https://scoutify.ai/companies/trendmicro?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Jakarta, Jakarta, Indonesia |
+| Company | [Philips](https://scoutify.ai/companies/philips?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
+| Location | Lanzhou, Gansu, China |
 | Category | Sales Engineer |
 | Posted | 2026-04-13 |
-| Apply | [View on company site](https://trendmicro.wd3.myworkdayjobs.com/External/job/Jakarta/Sales-Engineer_R0007387) |
+| Apply | [View on company site](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Lanzhou/Senior-Product-Sales--MR_563546) |
 
 ## About This Role
 
-This sales engineer position at Trend Micro was posted on 2026-04-13.
+This sales engineer position at Philips was posted on 2026-04-13.
 
 ## Get Real-Time Alerts
 

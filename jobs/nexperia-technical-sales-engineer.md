@@ -1,16 +1,16 @@
-# Sales Engineer at Trend Micro
+# Technical Sales Engineer at Nexperia
 
 | Field | Details |
 |-------|---------|
-| Company | [Trend Micro](https://scoutify.ai/companies/trendmicro?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Jakarta, Jakarta, Indonesia |
+| Company | [Nexperia](https://scoutify.ai/companies/nexperia?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
+| Location | Pune, Maharashtra, India |
 | Category | Sales Engineer |
 | Posted | 2026-04-13 |
-| Apply | [View on company site](https://trendmicro.wd3.myworkdayjobs.com/External/job/Jakarta/Sales-Engineer_R0007387) |
+| Apply | [View on company site](https://nexperia.wd3.myworkdayjobs.com/careers/job/Pune/Technical-Sales-Engineer_R-20014184) |
 
 ## About This Role
 
-This sales engineer position at Trend Micro was posted on 2026-04-13.
+This sales engineer position at Nexperia was posted on 2026-04-13.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Sales Engineer at Trend Micro
+# IBM Brand Sales Specialist - LinuxONE at IBM
 
 | Field | Details |
 |-------|---------|
-| Company | [Trend Micro](https://scoutify.ai/companies/trendmicro?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
+| Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Jakarta, Jakarta, Indonesia |
-| Category | Sales Engineer |
+| Category | Account Executive |
 | Posted | 2026-04-13 |
-| Apply | [View on company site](https://trendmicro.wd3.myworkdayjobs.com/External/job/Jakarta/Sales-Engineer_R0007387) |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=101094) |
 
 ## About This Role
 
-This sales engineer position at Trend Micro was posted on 2026-04-13.
+This account executive position at IBM was posted on 2026-04-13.
 
 ## Get Real-Time Alerts
 
