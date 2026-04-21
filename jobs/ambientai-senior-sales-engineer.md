@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Ambient.ai](https://scoutify.ai/companies/ambient-ai?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Chicago, Illinois, United States |
-| Category | Account Executive |
-| Posted | 2026-03-01 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/ambient.ai/b4e4681c-61eb-4f26-96fa-7569d9fd10ea) |
+| Location | Boston, Massachusetts, United States |
+| Category | Sales Engineer |
+| Posted | 2026-04-13 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/ambient.ai/70e91af0-c7b0-45d0-bf09-3fdc4fc55c28) |
 
 ## About This Role
 
-This account executive position at Ambient.ai was posted on 2026-03-01.
+This sales engineer position at Ambient.ai was posted on 2026-04-13.
 
 ## Get Real-Time Alerts
 

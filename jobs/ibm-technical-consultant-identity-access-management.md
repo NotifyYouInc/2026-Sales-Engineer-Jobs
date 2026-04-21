@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Pune, Maharashtra, India |
+| Location | India |
 | Category | Technology / IT Consulting |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=105535) |
+| Posted | 2026-04-13 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=93829) |
 
 ## About This Role
 
-This technology / it consulting position at IBM was posted on 2026-03-24.
+This technology / it consulting position at IBM was posted on 2026-04-13.
 
 ## Get Real-Time Alerts
 

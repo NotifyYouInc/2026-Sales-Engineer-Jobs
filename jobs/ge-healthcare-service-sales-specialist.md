@@ -1,16 +1,16 @@
-# Service sales specialist at GE HealthCare
+# Service Sales Specialist at GE HealthCare
 
 | Field | Details |
 |-------|---------|
 | Company | [GE HealthCare](https://scoutify.ai/companies/ge-healthcare?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Beijing, Beijing, China |
+| Location | Nanchang, Jiangxi, China |
 | Category | Account Executive |
-| Posted | 2026-04-07 |
-| Apply | [View on company site](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/BeiJing/Service-sales-specialist_R4039223-1) |
+| Posted | 2026-04-14 |
+| Apply | [View on company site](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Nanchang/Service-Sales-Specialist_R4039640-1) |
 
 ## About This Role
 
-This account executive position at GE HealthCare was posted on 2026-04-07.
+This account executive position at GE HealthCare was posted on 2026-04-14.
 
 ## Get Real-Time Alerts
 

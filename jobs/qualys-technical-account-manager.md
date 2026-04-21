@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Qualys](https://scoutify.ai/companies/qualys?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Tokyo, Tokyo, Japan |
+| Location | Texas, US |
 | Category | Customer Success |
 | Posted | 2026-04-10 |
-| Apply | [View on company site](https://qualys.wd5.myworkdayjobs.com/careers/job/Tokyo/Technical-Account-Manager_R0004614) |
+| Apply | [View on company site](https://qualys.wd5.myworkdayjobs.com/careers/job/Arizona/Technical-Account-Manager_R0004615) |
 
 ## About This Role
 

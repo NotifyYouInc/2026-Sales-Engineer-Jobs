@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Madrid, Madrid, Spain |
-| Category | Sales |
-| Posted | 2026-02-13 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=94507) |
+| Location | Israel |
+| Category | Account Executive |
+| Posted | 2026-04-13 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=109611) |
 
 ## About This Role
 
-This sales position at IBM was posted on 2026-02-13.
+This account executive position at IBM was posted on 2026-04-13.
 
 ## Get Real-Time Alerts
 

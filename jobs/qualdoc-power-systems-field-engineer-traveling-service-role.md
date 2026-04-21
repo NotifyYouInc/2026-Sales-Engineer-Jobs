@@ -5,12 +5,12 @@
 | Company | [Qualdoc](https://scoutify.ai/companies/qualdoc?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Columbus, Ohio, United States |
 | Category | Electrical / Hardware Engineer |
-| Posted | 2026-04-02 |
-| Apply | [View on company site](https://jobs.lever.co/qualdoc/b0fd024c-e2b8-4011-9a52-e2fe38db8bd0) |
+| Posted | 2026-04-13 |
+| Apply | [View on company site](https://jobs.lever.co/qualdoc/c0ea0418-7fa0-4d18-99ec-c8f520b2835f) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Qualdoc was posted on 2026-04-02.
+This electrical / hardware engineer position at Qualdoc was posted on 2026-04-13.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Affinity.co](https://scoutify.ai/companies/affinity-co?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Canada |
+| Location | United States |
 | Category | Sales Engineer |
-| Posted | 2026-03-20 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/affinity/jobs/7670462003) |
+| Posted | 2026-04-13 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/affinity/jobs/7698699003) |
 
 ## About This Role
 
-This sales engineer position at Affinity.co was posted on 2026-03-20.
+This sales engineer position at Affinity.co was posted on 2026-04-13.
 
 ## Get Real-Time Alerts
 

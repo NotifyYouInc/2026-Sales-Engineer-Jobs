@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [FirstRand](https://scoutify.ai/companies/firstrand?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Cape Town, Western Cape, South Africa |
+| Location | Johannesburg, Gauteng, South Africa |
 | Category | Sales Engineer |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://firstrand.wd3.myworkdayjobs.com/frb/job/Cape-Town/Solutions-Specialist_R46928) |
+| Posted | 2026-04-13 |
+| Apply | [View on company site](https://firstrand.wd3.myworkdayjobs.com/frb/job/Johannesburg/Solutions-Specialist_R45412) |
 
 ## About This Role
 
-This sales engineer position at FirstRand was posted on 2026-03-10.
+This sales engineer position at FirstRand was posted on 2026-04-13.
 
 ## Get Real-Time Alerts
 

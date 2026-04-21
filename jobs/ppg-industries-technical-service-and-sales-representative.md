@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [PPG Industries](https://scoutify.ai/companies/ppg-industries?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Ho Chi Minh City, Ho Chi Minh City (HCMC), Vietnam |
+| Location | Thailand |
 | Category | Account Executive |
-| Posted | 2026-04-06 |
-| Apply | [View on company site](https://ppg.wd5.myworkdayjobs.com/ppg_careers/job/VNM---Ho-Chi-Minh-City-Office/Technical-Service-and-Sales-Representative_JR261505) |
+| Posted | 2026-04-14 |
+| Apply | [View on company site](https://ppg.wd5.myworkdayjobs.com/ppg_careers/job/THA---Bangplee-Plant/Technical-Service-and-Sales-Representative_JR261851) |
 
 ## About This Role
 
-This account executive position at PPG Industries was posted on 2026-04-06.
+This account executive position at PPG Industries was posted on 2026-04-14.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Carrier Global](https://scoutify.ai/companies/carrier?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Riyadh, Riyadh Region, Saudi Arabia |
-| Category | Account Executive |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://carrier.wd5.myworkdayjobs.com/jobs/job/Carrier-6th-Floor-Tatweer-Tower-King-Fahad-Road-Riyadh-Saudi-Arabia/Sales-Engineer_30202452) |
+| Location | London, England, United Kingdom |
+| Category | Sales Engineer |
+| Posted | 2026-04-13 |
+| Apply | [View on company site](https://carrier.wd5.myworkdayjobs.com/jobs/job/London-United-Kingdom/Sales-Engineer_30201181-1) |
 
 ## About This Role
 
-This account executive position at Carrier Global was posted on 2026-03-24.
+This sales engineer position at Carrier Global was posted on 2026-04-13.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Veeam Software](https://scoutify.ai/companies/veeamsoftware?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | 2 locations |
+| Location | Buenos Aires, Buenos Aires F.D., Argentina |
 | Category | Sales Engineer |
-| Posted | 2026-03-27 |
-| Apply | [View on company site](https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4825105101) |
+| Posted | 2026-04-13 |
+| Apply | [View on company site](https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4837401101) |
 
 ## About This Role
 
-This sales engineer position at Veeam Software was posted on 2026-03-27.
+This sales engineer position at Veeam Software was posted on 2026-04-13.
 
 ## Get Real-Time Alerts
 

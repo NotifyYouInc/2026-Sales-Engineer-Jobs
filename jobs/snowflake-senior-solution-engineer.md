@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Snowflake](https://scoutify.ai/companies/snowflake?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Indianapolis, Indiana, United States |
+| Location | Alberta, CA |
 | Category | Sales Engineer |
-| Posted | 2026-03-27 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/snowflake/7eaced8c-a9fa-4833-bda8-b7f6f60e5662) |
+| Posted | 2026-04-13 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/snowflake/84a6d413-62f9-4e84-9bac-53e79e371778) |
 
 ## About This Role
 
-This sales engineer position at Snowflake was posted on 2026-03-27.
+This sales engineer position at Snowflake was posted on 2026-04-13.
 
 ## Get Real-Time Alerts
 

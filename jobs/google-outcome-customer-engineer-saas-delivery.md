@@ -5,12 +5,12 @@
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Stockholm, Stockholm, Sweden |
 | Category | Customer Success |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/jobs/results/90880830406042310-outcome-customer-engineer-saas-delivery?sort_by=date&page=1) |
+| Posted | 2026-04-13 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckQYK5aHGNfwhu_4bSsgwkxVg1pYKvPARoXmLBOSIMUx7EjsACxwdTBKAdA3YYWYpS1zPI7QRZj4EuyBNAKBySsQmmZE_JjPGbAPBC8TaU1L7GwTlT-WK11fDsF759A%3D%3D_V2&loc=SE&title=Outcome+Customer+Engineer) |
 
 ## About This Role
 
-This customer success position at Google was posted on 2026-03-25.
+This customer success position at Google was posted on 2026-04-13.
 
 ## Get Real-Time Alerts
 

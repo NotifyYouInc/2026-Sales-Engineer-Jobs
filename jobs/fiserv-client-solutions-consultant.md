@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Fiserv](https://scoutify.ai/companies/fiserv?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | New Jersey, US |
+| Location | Texas, US |
 | Category | Implementation / Professional Services |
-| Posted | 2026-03-18 |
-| Apply | [View on company site](https://fiserv.wd5.myworkdayjobs.com/ext/job/Berkeley-Heights-New-Jersey/Client-Solutions-Consultant_R-10377164) |
+| Posted | 2026-04-13 |
+| Apply | [View on company site](https://fiserv.wd5.myworkdayjobs.com/ext/job/Remote-Texas/Client-Solutions-Consultant_R-10390635) |
 
 ## About This Role
 
-This implementation / professional services position at Fiserv was posted on 2026-03-18.
+This implementation / professional services position at Fiserv was posted on 2026-04-13.
 
 ## Get Real-Time Alerts
 

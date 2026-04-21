@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Philips](https://scoutify.ai/companies/philips?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | United Kingdom |
+| Location | Stockholm, Stockholm, Sweden |
 | Category | Customer Success |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/United-Kingdom---Remote-Based/Technical-Account-Manager_576661-1) |
+| Posted | 2026-04-13 |
+| Apply | [View on company site](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Stockholm/Technical-Account-Manager_574209-1) |
 
 ## About This Role
 
-This customer success position at Philips was posted on 2026-03-24.
+This customer success position at Philips was posted on 2026-04-13.
 
 ## Get Real-Time Alerts
 

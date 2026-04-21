@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Block](https://scoutify.ai/companies/block?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | California, US |
-| Category | Technical & Solutions Architect |
-| Posted | 2026-04-08 |
-| Apply | [View on company site](http://block.xyz/careers/jobs/5181690008?gh_jid=5181690008) |
+| Location | London, England, United Kingdom |
+| Category | Sales Engineer |
+| Posted | 2026-04-13 |
+| Apply | [View on company site](http://block.xyz/careers/jobs/5187354008?gh_jid=5187354008) |
 
 ## About This Role
 
-This technical & solutions architect position at Block was posted on 2026-04-08.
+This sales engineer position at Block was posted on 2026-04-13.
 
 ## Get Real-Time Alerts
 
