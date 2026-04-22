@@ -5,12 +5,12 @@
 | Company | [SailPoint Technologies](https://scoutify.ai/companies/sailpoint-technologies?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | California, US |
 | Category | Sales Leadership |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://sailpoint.wd1.myworkdayjobs.com/sailpoint/job/Remote-Arizona-USA/Manager--Sales-Engineering_R012830) |
+| Posted | 2026-04-14 |
+| Apply | [View on company site](https://sailpoint.wd1.myworkdayjobs.com/sailpoint/job/Remote-California-USA/Manager--Sales-Engineering_R013223) |
 
 ## About This Role
 
-This sales leadership position at SailPoint Technologies was posted on 2026-03-10.
+This sales leadership position at SailPoint Technologies was posted on 2026-04-14.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Applied Materials](https://scoutify.ai/companies/applied-materials?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Xiamen, Fujian, China |
+| Location | Beijing, Beijing, China |
 | Category | Customer Success |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://amat.wd1.myworkdayjobs.com/External/job/XiamenCHN/Customer-Engineer-I-Senior_R2615332) |
+| Posted | 2026-04-14 |
+| Apply | [View on company site](https://amat.wd1.myworkdayjobs.com/External/job/BeijingCHN/Customer-Engineer-I-Senior_R2617214) |
 
 ## About This Role
 
-This customer success position at Applied Materials was posted on 2026-04-13.
+This customer success position at Applied Materials was posted on 2026-04-14.
 
 ## Get Real-Time Alerts
 

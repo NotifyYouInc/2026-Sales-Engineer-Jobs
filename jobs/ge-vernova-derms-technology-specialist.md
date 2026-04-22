@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [GE Vernova](https://scoutify.ai/companies/ge-vernova?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | 3 locations |
-| Category | Technical & Solutions Architect |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite/job/Melbourne-AUS/DERMS-Technology-Specialist_R5038319) |
+| Category | DevOps Engineer |
+| Posted | 2026-04-14 |
+| Apply | [View on company site](https://gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite/job/Melbourne-AUS/DERMS-Technology-Specialist_R5037506-2) |
 
 ## About This Role
 
-This technical & solutions architect position at GE Vernova was posted on 2026-04-13.
+This devops engineer position at GE Vernova was posted on 2026-04-14.
 
 ## Get Real-Time Alerts
 

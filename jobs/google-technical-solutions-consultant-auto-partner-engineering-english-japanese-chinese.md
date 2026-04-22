@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Tokyo, Tokyo, Japan |
-| Category | Implementation / Professional Services |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/jobs/results/87323837812613830-technical-solutions-consultant-auto-partner-engineering-english-japanese-chinese?sort_by=date&page=1) |
+| Category | Customer Success |
+| Posted | 2026-04-14 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckUhDxKLcIiGLdVesZv_FRZgCF3qr4bHqMlA54J3BfUzEEjsACxwdTEw8afDtG0PE-clB5ZoXjGXQLIUPR1CQXrw9_4JxOy4ELI8XwmgoIaNzuHd93bA4BXwABpVaLA%3D%3D_V2&loc=JP&title=Technical+Solutions+Consultant) |
 
 ## About This Role
 
-This implementation / professional services position at Google was posted on 2026-02-25.
+This customer success position at Google was posted on 2026-04-14.
 
 ## Get Real-Time Alerts
 

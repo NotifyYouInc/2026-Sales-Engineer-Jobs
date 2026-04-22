@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Reston, Virginia, United States |
-| Category | Customer Success |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/jobs/results/107704969460622022-senior-customer-engineer-civilian-google-public-sector?sort_by=date&page=1) |
+| Category | Sales Engineer |
+| Posted | 2026-04-14 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckSLqq-diXRrAeseLNXKOIUTz0R32sBPXMuM0YoBcS7pFEjsACxwdTA1cHjW4cgmU76K94GVkAztc2kj5vEFXW7S3qTTDBh0VVZpQns33IvXHvB_afHt5wG9BIUWyrw%3D%3D_V2&loc=US&title=Senior+Customer+Engineer) |
 
 ## About This Role
 
-This customer success position at Google was posted on 2026-02-26.
+This sales engineer position at Google was posted on 2026-04-14.
 
 ## Get Real-Time Alerts
 

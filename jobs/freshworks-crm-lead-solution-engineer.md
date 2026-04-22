@@ -1,12 +1,12 @@
-# Lead - Solution Engineer at Freshworks CRM
+# Lead - Solution Engineer  at Freshworks CRM
 
 | Field | Details |
 |-------|---------|
 | Company | [Freshworks CRM](https://scoutify.ai/companies/freshworkscrm?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Boston, Massachusetts, United States |
+| Location | Denver, Colorado, United States |
 | Category | Sales Engineer |
 | Posted | 2026-04-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Freshworks/744000120339048-lead-solution-engineer) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Freshworks/744000120340437-lead-solution-engineer) |
 
 ## About This Role
 

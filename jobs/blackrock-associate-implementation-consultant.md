@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Blackrock](https://scoutify.ai/companies/blackrock?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | India |
+| Location | 3 locations |
 | Category | Customer Success |
-| Posted | 2026-04-07 |
-| Apply | [View on company site](https://blackrock.wd1.myworkdayjobs.com/blackrock_professional/job/M11---Commers-III-43-44--45-Fl-Internatl-Business-Park-Oberoi-Garden-City/Associate--Implementation-Consultant_R260660) |
+| Posted | 2026-04-14 |
+| Apply | [View on company site](https://blackrock.wd1.myworkdayjobs.com/blackrock_professional/job/Singapore-Singapore/Associate--Implementation-Consultant--NE-_R261645) |
 
 ## About This Role
 
-This customer success position at Blackrock was posted on 2026-04-07.
+This customer success position at Blackrock was posted on 2026-04-14.
 
 ## Get Real-Time Alerts
 

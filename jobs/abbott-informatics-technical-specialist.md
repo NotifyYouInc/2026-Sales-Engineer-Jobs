@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Abbott](https://scoutify.ai/companies/abbott-laboratories?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Doncaster, Victoria, Australia |
+| Location | Milan, Lombardy, Italy |
 | Category | Customer Success |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/Australia--Doncaster--666-Doncaster-Road/Informatics-Technical-Specialist_31142602) |
+| Posted | 2026-04-14 |
+| Apply | [View on company site](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/Italy---Milan/Informatics-Technical-Specialist_31146925-1) |
 
 ## About This Role
 
-This customer success position at Abbott was posted on 2026-02-26.
+This customer success position at Abbott was posted on 2026-04-14.
 
 ## Get Real-Time Alerts
 

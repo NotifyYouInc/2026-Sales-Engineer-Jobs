@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Arrow Electronics](https://scoutify.ai/companies/arrow-electronics?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Shenzhen, Guangdong, China |
+| Location | 2 locations |
 | Category | Software Engineer |
-| Posted | 2026-03-18 |
-| Apply | [View on company site](https://arrow.wd1.myworkdayjobs.com/ac/job/Shenzhen-Guangdong/Senior-Field-Applications-Engineer_R240176) |
+| Posted | 2026-04-14 |
+| Apply | [View on company site](https://arrow.wd1.myworkdayjobs.com/ac/job/IN-MH-Pune-India-Solitaire-Bldg/Senior-Field-Applications-Engineer_R241356) |
 
 ## About This Role
 
-This software engineer position at Arrow Electronics was posted on 2026-03-18.
+This software engineer position at Arrow Electronics was posted on 2026-04-14.
 
 ## Get Real-Time Alerts
 

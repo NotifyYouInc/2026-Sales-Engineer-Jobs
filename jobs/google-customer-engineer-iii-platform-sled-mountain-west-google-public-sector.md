@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | 2 locations |
-| Category | Customer Success |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/jobs/results/130505522758460102-customer-engineer-iii-platform-sled-mountain-west-google-public-sector?sort_by=date&page=1) |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-04-14 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckU3-ZPRekaNBYZ7HAcYQ9UCRtQddf4zkgN_OyeDfB35BEjsACxwdTOuUoSssGlTtSDsL2ERufz-0rMQDctyPuFvQe8dHf7vp5--Mr_XntStZkveL9ad_89MpybJQmw%3D%3D_V2&loc=US&title=Customer+Engineer+III) |
 
 ## About This Role
 
-This customer success position at Google was posted on 2026-03-06.
+This technical & solutions architect position at Google was posted on 2026-04-14.
 
 ## Get Real-Time Alerts
 

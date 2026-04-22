@@ -1,16 +1,16 @@
-# Senior AI Implementation Engineer - Moveworks  at ServiceNow
+# Senior AI Implementation Engineer - Moveworks at ServiceNow
 
 | Field | Details |
 |-------|---------|
 | Company | [ServiceNow](https://scoutify.ai/companies/servicenow?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | London, England, United Kingdom |
-| Category | Customer Success |
-| Posted | 2026-03-30 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000117697874-senior-ai-implementation-engineer-moveworks) |
+| Location | San Francisco, California, United States |
+| Category | AI / LLM Engineer |
+| Posted | 2026-04-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000120776287-senior-ai-implementation-engineer-moveworks) |
 
 ## About This Role
 
-This customer success position at ServiceNow was posted on 2026-03-30.
+This ai / llm engineer position at ServiceNow was posted on 2026-04-14.
 
 ## Get Real-Time Alerts
 

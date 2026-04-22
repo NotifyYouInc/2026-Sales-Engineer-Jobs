@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Baker Hughes](https://scoutify.ai/companies/baker-hughes?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Karnataka, IN |
-| Category | Frontend Engineer |
-| Posted | 2026-03-16 |
-| Apply | [View on company site](https://bakerhughes.wd5.myworkdayjobs.com/BakerHughes/job/IN-KA-BANGALORE-NEON-BUILDING-WEST-TOWER/Digital-Technology-Specialist---Software-Engineering_R161126) |
+| Category | Software Engineer |
+| Posted | 2026-04-14 |
+| Apply | [View on company site](https://bakerhughes.wd5.myworkdayjobs.com/BakerHughes/job/IN-KA-BANGALORE-NEON-BUILDING-WEST-TOWER/Digital-Technology-Specialist---Software-Engineering_R162709) |
 
 ## About This Role
 
-This frontend engineer position at Baker Hughes was posted on 2026-03-16.
+This software engineer position at Baker Hughes was posted on 2026-04-14.
 
 ## Get Real-Time Alerts
 

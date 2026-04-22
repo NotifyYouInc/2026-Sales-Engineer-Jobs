@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ABB](https://scoutify.ai/companies/abb?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Ostrava, Moravskoslezský, Czechia |
-| Category | Software Engineer |
-| Posted | 2026-04-01 |
-| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Ostrava-Moravskoslezsk-kraj-Czechia/Product-Specialist_JR00026761) |
+| Location | Cary, North Carolina, United States |
+| Category | Sales Engineer |
+| Posted | 2026-04-14 |
+| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/USA-NC-Cary/Product-Specialist_JR00031960) |
 
 ## About This Role
 
-This software engineer position at ABB was posted on 2026-04-01.
+This sales engineer position at ABB was posted on 2026-04-14.
 
 ## Get Real-Time Alerts
 

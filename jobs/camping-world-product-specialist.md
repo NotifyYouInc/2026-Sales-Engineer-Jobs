@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Camping World](https://scoutify.ai/companies/campingworld?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Spring, Texas, United States |
+| Location | Syracuse, New York, United States |
 | Category | Customer Success |
-| Posted | 2026-04-10 |
-| Apply | [View on company site](https://campingworld.wd5.myworkdayjobs.com/Jobs/job/Spring-TX/Product-Specialist_26_03575) |
+| Posted | 2026-04-14 |
+| Apply | [View on company site](https://campingworld.wd5.myworkdayjobs.com/Jobs/job/Syracuse-NY/Product-Specialist_26_03439) |
 
 ## About This Role
 
-This customer success position at Camping World was posted on 2026-04-10.
+This customer success position at Camping World was posted on 2026-04-14.
 
 ## Get Real-Time Alerts
 

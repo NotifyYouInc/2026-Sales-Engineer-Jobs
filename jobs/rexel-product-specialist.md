@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [REXEL](https://scoutify.ai/companies/rexel?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | New York, US |
-| Category | Sales Engineer |
-| Posted | 2026-04-07 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/REXEL1/744000119204126-product-specialist) |
+| Location | Mansfield, Texas, United States |
+| Category | Account Manager |
+| Posted | 2026-04-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/REXEL1/744000120795187-product-specialist) |
 
 ## About This Role
 
-This sales engineer position at REXEL was posted on 2026-04-07.
+This account manager position at REXEL was posted on 2026-04-14.
 
 ## Get Real-Time Alerts
 

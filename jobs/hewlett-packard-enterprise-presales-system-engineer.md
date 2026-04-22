@@ -1,16 +1,16 @@
-# Presales, System Engineer at Hewlett Packard Enterprise
+# Presales System Engineer at Hewlett Packard Enterprise
 
 | Field | Details |
 |-------|---------|
 | Company | [Hewlett Packard Enterprise](https://scoutify.ai/companies/hewlett-packard-enterprise?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | 2 locations |
-| Category | Sales |
-| Posted | 2026-02-09 |
-| Apply | [View on company site](https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/Cleveland-Ohio/Presales--System-Engineer_1198570) |
+| Location | Arizona, US |
+| Category | Sales Engineer |
+| Posted | 2026-04-15 |
+| Apply | [View on company site](https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/All-Arizona-United-States-of-America/Presales-System-Engineer_1205672-3) |
 
 ## About This Role
 
-This sales position at Hewlett Packard Enterprise was posted on 2026-02-09.
+This sales engineer position at Hewlett Packard Enterprise was posted on 2026-04-15.
 
 ## Get Real-Time Alerts
 

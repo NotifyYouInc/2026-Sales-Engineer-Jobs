@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Unisys](https://scoutify.ai/companies/unisys?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Canberra, Australian Capital Territory, Australia |
+| Location | Perth, Western Australia, Australia |
 | Category | Customer Success |
-| Posted | 2026-03-19 |
-| Apply | [View on company site](https://unisys.wd5.myworkdayjobs.com/External/job/Canberra-ACT-Australia/Sr-Tech-Field-Eng_REQ571417) |
+| Posted | 2026-04-15 |
+| Apply | [View on company site](https://unisys.wd5.myworkdayjobs.com/External/job/Perth-WA-Australia/Senior-Technical-Field-Engineer_REQ572440) |
 
 ## About This Role
 
-This customer success position at Unisys was posted on 2026-03-19.
+This customer success position at Unisys was posted on 2026-04-15.
 
 ## Get Real-Time Alerts
 

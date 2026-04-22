@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Zip](https://scoutify.ai/companies/zip?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | London, England, United Kingdom |
-| Category | Implementation / Professional Services |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/zip/16515cad-59d6-4658-896e-2164c6c6cfea) |
+| Location | Israel |
+| Category | Customer Success |
+| Posted | 2026-04-14 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/zip/5d19a4bc-9cc4-460a-b573-3611a683da88) |
 
 ## About This Role
 
-This implementation / professional services position at Zip was posted on 2026-02-25.
+This customer success position at Zip was posted on 2026-04-14.
 
 ## Get Real-Time Alerts
 
