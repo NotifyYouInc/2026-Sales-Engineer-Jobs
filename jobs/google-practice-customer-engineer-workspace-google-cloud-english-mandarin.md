@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Not specified |
-| Category | Sales Engineer |
-| Posted | 2026-02-04 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/jobs/results/117673664790307526-practice-customer-engineer-workspace-google-cloud-english-mandarin?sort_by=date&page=1) |
+| Location | Taipei, Taiwan, Taiwan |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-04-15 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2Fckdm8LZc7_BjdKE2p8WAWBYtJIU1-TXCtufjCT-TPfu2CEjsACxwdTByaFJvu2-9cQCGgD6U_ckqdQnl7C2FcI2rQDVqcuMemvWkKeW9aUIdxpdQuolqXKP7nxQoUDg%3D%3D_V2&loc=TW&title=Practice+Customer+Engineer) |
 
 ## About This Role
 
-This sales engineer position at Google was posted on 2026-02-04.
+This technical & solutions architect position at Google was posted on 2026-04-15.
 
 ## Get Real-Time Alerts
 

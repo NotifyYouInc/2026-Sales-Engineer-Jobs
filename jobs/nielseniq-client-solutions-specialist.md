@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Istanbul, Istanbul, Turkey |
-| Category | Project Manager |
-| Posted | 2026-03-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000115074988-client-solutions-specialist) |
+| Category | Account Manager |
+| Posted | 2026-04-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000120911427-client-solutions-specialist) |
 
 ## About This Role
 
-This project manager position at NielsenIQ was posted on 2026-03-16.
+This account manager position at NielsenIQ was posted on 2026-04-15.
 
 ## Get Real-Time Alerts
 

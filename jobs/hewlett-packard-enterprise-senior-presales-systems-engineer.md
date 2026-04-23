@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Hewlett Packard Enterprise](https://scoutify.ai/companies/hewlett-packard-enterprise?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | San Francisco, California, United States |
-| Category | Technical & Solutions Architect |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/San-Francisco-California-United-States-of-America/Senior-Presales--Systems-Engineer_1203171) |
+| Category | Sales Engineer |
+| Posted | 2026-04-14 |
+| Apply | [View on company site](https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/All-Virginia-United-States-of-America/Senior-Presales--Systems-Engineer_1205835) |
 
 ## About This Role
 
-This technical & solutions architect position at Hewlett Packard Enterprise was posted on 2026-04-13.
+This sales engineer position at Hewlett Packard Enterprise was posted on 2026-04-14.
 
 ## Get Real-Time Alerts
 

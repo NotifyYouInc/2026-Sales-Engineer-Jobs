@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Camping World](https://scoutify.ai/companies/campingworld?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | United States |
+| Location | Albany, New York, United States |
 | Category | Customer Success |
-| Posted | 2026-04-07 |
-| Apply | [View on company site](https://campingworld.wd5.myworkdayjobs.com/Jobs/job/Poteau-OK/Product-Specialist-Advisor_26_03494) |
+| Posted | 2026-04-15 |
+| Apply | [View on company site](https://campingworld.wd5.myworkdayjobs.com/Jobs/job/Albany-NY/Product-Specialist-Advisor_26_03637) |
 
 ## About This Role
 
-This customer success position at Camping World was posted on 2026-04-07.
+This customer success position at Camping World was posted on 2026-04-15.
 
 ## Get Real-Time Alerts
 

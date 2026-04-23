@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Salesforce](https://scoutify.ai/companies/salesforce?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Paris, Île-de-France, France |
+| Location | Chile |
 | Category | Sales Engineer |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/France---Paris/Account-Solution-Engineer_JR338217) |
+| Posted | 2026-04-14 |
+| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Chile---Remote/Account-Solution-Engineer_JR336964) |
 
 ## About This Role
 
-This sales engineer position at Salesforce was posted on 2026-04-13.
+This sales engineer position at Salesforce was posted on 2026-04-14.
 
 ## Get Real-Time Alerts
 

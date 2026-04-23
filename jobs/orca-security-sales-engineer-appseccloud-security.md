@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Orca Security](https://scoutify.ai/companies/orca-security?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | California, US |
+| Location | United States |
 | Category | Security Engineer |
-| Posted | 2026-04-10 |
-| Apply | [View on company site](https://orca.security/about/careers/5823501004?gh_jid=5823501004) |
+| Posted | 2026-04-16 |
+| Apply | [View on company site](https://orca.security/about/careers/5970924004?gh_jid=5970924004) |
 
 ## About This Role
 
-This security engineer position at Orca Security was posted on 2026-04-10.
+This security engineer position at Orca Security was posted on 2026-04-16.
 
 ## Get Real-Time Alerts
 

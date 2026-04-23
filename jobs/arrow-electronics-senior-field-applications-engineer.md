@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Arrow Electronics](https://scoutify.ai/companies/arrow-electronics?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | 2 locations |
+| Location | Melbourne, Victoria, Australia |
 | Category | Software Engineer |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://arrow.wd1.myworkdayjobs.com/ac/job/IN-MH-Pune-India-Solitaire-Bldg/Senior-Field-Applications-Engineer_R241356) |
+| Posted | 2026-04-15 |
+| Apply | [View on company site](https://arrow.wd1.myworkdayjobs.com/ac/job/Melbourne-Victoria/Senior-Field-Applications-Engineer_R241765) |
 
 ## About This Role
 
-This software engineer position at Arrow Electronics was posted on 2026-04-14.
+This software engineer position at Arrow Electronics was posted on 2026-04-15.
 
 ## Get Real-Time Alerts
 

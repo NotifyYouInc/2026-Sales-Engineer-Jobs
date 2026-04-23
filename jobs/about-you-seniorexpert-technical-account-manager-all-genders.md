@@ -5,12 +5,12 @@
 | Company | [About You](https://scoutify.ai/companies/aboutyou?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Hamburg, Hamburg, Germany |
 | Category | Customer Success |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ABOUTYOUGmbH/744000120435787-seniorexpert-technical-account-manager-all-genders) |
+| Posted | 2026-04-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ABOUTYOUGmbH/744000120726036-seniorexpert-technical-account-manager-all-genders) |
 
 ## About This Role
 
-This customer success position at About You was posted on 2026-04-13.
+This customer success position at About You was posted on 2026-04-14.
 
 ## Get Real-Time Alerts
 

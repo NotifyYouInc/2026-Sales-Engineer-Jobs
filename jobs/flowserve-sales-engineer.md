@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Flowserve](https://scoutify.ai/companies/flowserve?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Villach, Carinthia, Austria |
+| Location | Thailand |
 | Category | Sales Engineer |
-| Posted | 2026-03-23 |
-| Apply | [View on company site](https://flowserve.wd1.myworkdayjobs.com/applied/job/Villach-Austria/Sales-Engineer_R-18489-1) |
+| Posted | 2026-04-15 |
+| Apply | [View on company site](https://flowserve.wd1.myworkdayjobs.com/applied/job/Maptaput-Muang-Thailand/Sales-Engineer_R-18326) |
 
 ## About This Role
 
-This sales engineer position at Flowserve was posted on 2026-03-23.
+This sales engineer position at Flowserve was posted on 2026-04-15.
 
 ## Get Real-Time Alerts
 

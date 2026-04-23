@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Crusoe](https://scoutify.ai/companies/crusoe?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | United States |
+| Location | San Francisco, California, United States |
 | Category | Electrical / Hardware Engineer |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/crusoe/380263bb-f0b6-4cbe-a653-e5a23cca5824) |
+| Posted | 2026-04-15 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/crusoe/95347434-cb96-426e-b1d7-b15bb327c4fd) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Crusoe was posted on 2026-03-02.
+This electrical / hardware engineer position at Crusoe was posted on 2026-04-15.
 
 ## Get Real-Time Alerts
 

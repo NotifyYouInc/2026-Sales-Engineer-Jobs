@@ -5,12 +5,12 @@
 | Company | [Sopra Steria](https://scoutify.ai/companies/soprasteria?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Stockholm, Stockholm, Sweden |
 | Category | Technology / IT Consulting |
-| Posted | 2026-04-01 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000118080757-power-platform-ai-solutions-specialist-stockholm) |
+| Posted | 2026-04-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000120939093-power-platform-ai-solutions-specialist-stockholm) |
 
 ## About This Role
 
-This technology / it consulting position at Sopra Steria was posted on 2026-04-01.
+This technology / it consulting position at Sopra Steria was posted on 2026-04-15.
 
 ## Get Real-Time Alerts
 

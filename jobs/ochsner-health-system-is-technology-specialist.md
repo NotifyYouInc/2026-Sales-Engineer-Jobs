@@ -5,12 +5,12 @@
 | Company | [Ochsner Health System](https://scoutify.ai/companies/ochsner-health-system?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | New Orleans, Louisiana, United States |
 | Category | IT & Systems Administration |
-| Posted | 2026-03-19 |
-| Apply | [View on company site](https://ochsner.wd1.myworkdayjobs.com/ochsner/job/New-Orleans---New-Orleans-Region---Louisiana/IS-Technology-Specialist_REQ_00256274) |
+| Posted | 2026-04-15 |
+| Apply | [View on company site](https://ochsner.wd1.myworkdayjobs.com/ochsner/job/New-Orleans---New-Orleans-Region---Louisiana/IS-Technology-Specialist_REQ_00259436) |
 
 ## About This Role
 
-This it & systems administration position at Ochsner Health System was posted on 2026-03-19.
+This it & systems administration position at Ochsner Health System was posted on 2026-04-15.
 
 ## Get Real-Time Alerts
 

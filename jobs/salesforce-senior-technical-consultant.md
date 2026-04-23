@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Salesforce](https://scoutify.ai/companies/salesforce?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Colombia |
+| Location | Hyderabad, Telangana, India |
 | Category | Customer Success |
-| Posted | 2026-04-08 |
-| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Mexico---Remote/Senior-Technical-Consultant_JR335122) |
+| Posted | 2026-04-15 |
+| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Bangalore/Senior-Technical-Consultant_JR338379) |
 
 ## About This Role
 
-This customer success position at Salesforce was posted on 2026-04-08.
+This customer success position at Salesforce was posted on 2026-04-15.
 
 ## Get Real-Time Alerts
 

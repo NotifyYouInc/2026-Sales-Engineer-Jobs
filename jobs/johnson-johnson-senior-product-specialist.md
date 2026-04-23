@@ -5,12 +5,12 @@
 | Company | [Johnson & Johnson](https://scoutify.ai/companies/johnson-johnson?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Nanjing, Jiangsu, China |
 | Category | Sales Leadership |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://jj.wd5.myworkdayjobs.com/JJ/job/Nanjing-Jiangsu-China/Senior-Product-Specialist_R-069772) |
+| Posted | 2026-04-15 |
+| Apply | [View on company site](https://jj.wd5.myworkdayjobs.com/JJ/job/Nanjing-Jiangsu-China/Senior-Product-Specialist_R-070076) |
 
 ## About This Role
 
-This sales leadership position at Johnson & Johnson was posted on 2026-04-14.
+This sales leadership position at Johnson & Johnson was posted on 2026-04-15.
 
 ## Get Real-Time Alerts
 

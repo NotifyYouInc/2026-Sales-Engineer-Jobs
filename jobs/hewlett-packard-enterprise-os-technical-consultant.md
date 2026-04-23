@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Hewlett Packard Enterprise](https://scoutify.ai/companies/hewlett-packard-enterprise?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Dalian, Liaoning, China |
+| Location | Tunisia |
 | Category | Technology / IT Consulting |
-| Posted | 2026-03-20 |
-| Apply | [View on company site](https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/Dalian-Liaoning-China/OS-Technical-Consultant_1197943-1) |
+| Posted | 2026-04-15 |
+| Apply | [View on company site](https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/Ariana-Ariana-Tunisia/OS-Technical-Consultant_1201056) |
 
 ## About This Role
 
-This technology / it consulting position at Hewlett Packard Enterprise was posted on 2026-03-20.
+This technology / it consulting position at Hewlett Packard Enterprise was posted on 2026-04-15.
 
 ## Get Real-Time Alerts
 

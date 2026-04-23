@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Northgate Information Solutions](https://scoutify.ai/companies/northgateinformationsolutions?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | United Kingdom |
-| Category | Implementation / Professional Services |
-| Posted | 2026-03-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NECSWS/744000117321806-senior-implementation-consultant) |
+| Category | Customer Success |
+| Posted | 2026-04-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NECSWS/744000120877907-senior-implementation-consultant) |
 
 ## About This Role
 
-This implementation / professional services position at Northgate Information Solutions was posted on 2026-03-27.
+This customer success position at Northgate Information Solutions was posted on 2026-04-15.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Medtronic](https://scoutify.ai/companies/medtronic?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | New York, US |
+| Location | Boston, Massachusetts, United States |
 | Category | Customer Success |
-| Posted | 2026-04-10 |
-| Apply | [View on company site](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/New-York-New-York-United-States-of-America/Clinical-Specialist---Cardiac-Rhythm-Management--CRM-_R63536-1) |
+| Posted | 2026-04-15 |
+| Apply | [View on company site](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Boston-Massachusetts-United-States-of-America/Clinical-Specialist---Cardiac-Rhythm-Management--CRM-_R64200-1) |
 
 ## About This Role
 
-This customer success position at Medtronic was posted on 2026-04-10.
+This customer success position at Medtronic was posted on 2026-04-15.
 
 ## Get Real-Time Alerts
 

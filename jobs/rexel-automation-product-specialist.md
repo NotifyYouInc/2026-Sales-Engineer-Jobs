@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [REXEL](https://scoutify.ai/companies/rexel?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Solon, Ohio, United States |
-| Category | Account Executive |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/REXEL1/744000112471644-automation-product-specialist) |
+| Category | Sales Engineer |
+| Posted | 2026-04-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/REXEL1/744000121016148-automation-product-specialist) |
 
 ## About This Role
 
-This account executive position at REXEL was posted on 2026-03-03.
+This sales engineer position at REXEL was posted on 2026-04-15.
 
 ## Get Real-Time Alerts
 

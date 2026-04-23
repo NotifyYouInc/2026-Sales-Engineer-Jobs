@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Snowflake](https://scoutify.ai/companies/snowflake?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Alberta, CA |
+| Location | California, US |
 | Category | Sales Engineer |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/snowflake/84a6d413-62f9-4e84-9bac-53e79e371778) |
+| Posted | 2026-04-14 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/snowflake/7923e603-3808-4f12-80e5-6bb1a06fc404) |
 
 ## About This Role
 
-This sales engineer position at Snowflake was posted on 2026-04-13.
+This sales engineer position at Snowflake was posted on 2026-04-14.
 
 ## Get Real-Time Alerts
 

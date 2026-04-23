@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Workday](https://scoutify.ai/companies/workday?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | 3 locations |
+| Location | Atlanta, Georgia, United States |
 | Category | Customer Success |
-| Posted | 2026-04-03 |
-| Apply | [View on company site](https://workday.wd5.myworkdayjobs.com/Workday/job/USA-GA-Atlanta/Technical-Consultant---Data-Conversion_JR-0105853) |
+| Posted | 2026-04-15 |
+| Apply | [View on company site](https://workday.wd5.myworkdayjobs.com/Workday/job/USA-GA-Atlanta/Technical-Consultant---Data-Conversion_JR-0106398) |
 
 ## About This Role
 
-This customer success position at Workday was posted on 2026-04-03.
+This customer success position at Workday was posted on 2026-04-15.
 
 ## Get Real-Time Alerts
 

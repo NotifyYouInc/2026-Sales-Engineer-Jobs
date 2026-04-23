@@ -5,12 +5,12 @@
 | Company | [DXC Technology](https://scoutify.ai/companies/dxctechnology?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | São Paulo, São Paulo, Brazil |
 | Category | Customer Success |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/BRA---SP---SAO-PAULO/Dynatrace-Implementation-Engineer_51577796) |
+| Posted | 2026-04-14 |
+| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/BRA---SP---SAO-PAULO/Dynatrace-Implementation-Engineer_51576929) |
 
 ## About This Role
 
-This customer success position at DXC Technology was posted on 2026-04-13.
+This customer success position at DXC Technology was posted on 2026-04-14.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [St Vincent's Health Australia](https://scoutify.ai/companies/st-vincent-s-health-australia?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Sydney, New South Wales, Australia |
 | Category | Customer Success |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://svha.wd3.myworkdayjobs.com/svha_svha/job/NSW---Sydney-CBD-Inner-West-and-Eastern-Suburbs/Technical-Field-Engineer_JR145739-1) |
+| Posted | 2026-04-15 |
+| Apply | [View on company site](https://svha.wd3.myworkdayjobs.com/svha_svha/job/NSW---Sydney-CBD-Inner-West-and-Eastern-Suburbs/Technical-Field-Engineer_JR145740-1) |
 
 ## About This Role
 
-This customer success position at St Vincent's Health Australia was posted on 2026-02-17.
+This customer success position at St Vincent's Health Australia was posted on 2026-04-15.
 
 ## Get Real-Time Alerts
 

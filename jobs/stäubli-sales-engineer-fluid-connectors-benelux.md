@@ -5,12 +5,12 @@
 | Company | [Stäubli](https://scoutify.ai/companies/stubli?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Kortrijk, Flanders, Belgium |
 | Category | Sales Engineer |
-| Posted | 2026-03-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/StaubliGroup/744000117250697-sales-engineer-fluid-connectors-benelux) |
+| Posted | 2026-04-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/StaubliGroup/744000120949881-sales-engineer-fluid-connectors-benelux) |
 
 ## About This Role
 
-This sales engineer position at Stäubli was posted on 2026-03-27.
+This sales engineer position at Stäubli was posted on 2026-04-15.
 
 ## Get Real-Time Alerts
 

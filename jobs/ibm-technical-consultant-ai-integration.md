@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | India |
+| Location | Kochi, Kerala, India |
 | Category | Technology / IT Consulting |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=101154) |
+| Posted | 2026-04-15 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=101225) |
 
 ## About This Role
 
-This technology / it consulting position at IBM was posted on 2026-04-13.
+This technology / it consulting position at IBM was posted on 2026-04-15.
 
 ## Get Real-Time Alerts
 

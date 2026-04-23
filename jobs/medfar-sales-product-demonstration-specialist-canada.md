@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Medfar](https://scoutify.ai/companies/medfar?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | 3 locations |
+| Location | Ottawa, Ontario, Canada |
 | Category | Sales Engineer |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/medfar/744000113526624-sales-product-demonstration-specialist-canada) |
+| Posted | 2026-04-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/medfar/744000120999958-sales-product-demonstration-specialist-canada) |
 
 ## About This Role
 
-This sales engineer position at Medfar was posted on 2026-03-09.
+This sales engineer position at Medfar was posted on 2026-04-15.
 
 ## Get Real-Time Alerts
 
