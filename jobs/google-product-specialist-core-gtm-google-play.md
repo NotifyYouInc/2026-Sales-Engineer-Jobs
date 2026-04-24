@@ -5,12 +5,12 @@
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | 2 locations |
 | Category | Product Marketing |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2Fckc6Yf7tkTSFFIA9_Pn5KjzRhQqjd8a71bTlrDdBwn9i8EjsACxwdTI_sIPCCczkQLNHfuHEK9p2j4J3_AcnC10OM9wYeQhxhQi5ZnmJ4lKrQ8S0pAX3abnNMwI3Kmw%3D%3D_V2&loc=US&title=Product+Specialist) |
+| Posted | 2026-04-16 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckbKXMBqnUHeo5gr9_rixigcV1UoSfXzxbltAGMU0uTiFEjsACxwdTMJ9wexhIgz581y4YP4HGyWY56bUL-QXarru7I5km1EeifpIVYM2_O6Q9U8JuM-gqw6rLho7ug%3D%3D_V2&loc=US&title=Product+Specialist) |
 
 ## About This Role
 
-This product marketing position at Google was posted on 2026-04-13.
+This product marketing position at Google was posted on 2026-04-16.
 
 ## Get Real-Time Alerts
 

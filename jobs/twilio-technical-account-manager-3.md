@@ -5,12 +5,12 @@
 | Company | [Twilio](https://scoutify.ai/companies/twilio?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Colombia |
 | Category | Customer Success |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/twilio/jobs/7698050) |
+| Posted | 2026-04-16 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/twilio/jobs/7815483) |
 
 ## About This Role
 
-This customer success position at Twilio was posted on 2026-03-10.
+This customer success position at Twilio was posted on 2026-04-16.
 
 ## Get Real-Time Alerts
 

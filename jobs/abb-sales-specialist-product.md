@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ABB](https://scoutify.ai/companies/abb?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Vadodara, Gujarat, India |
+| Location | Ankara, Ankara, Turkey |
 | Category | Account Executive |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Vadodara-Gujarat-India/Sales-Specialist---Product_JR00007676) |
+| Posted | 2026-04-16 |
+| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Ankara-Ankara-Turkey/Sales-Specialist---Product_JR00011461-1) |
 
 ## About This Role
 
-This account executive position at ABB was posted on 2026-04-14.
+This account executive position at ABB was posted on 2026-04-16.
 
 ## Get Real-Time Alerts
 

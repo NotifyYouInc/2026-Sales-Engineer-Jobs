@@ -1,16 +1,16 @@
-# Sr Technical Consultant - Cloud - SAAS, BY SCPO, JDA Demand and fulfillment, SQL/PLSQL, Shell/Python/Perl, Jira at Blue Yonder
+# Sr Technical Consultant - Cloud - SAAS, BY SCPO, JDA Demand and fulfillment, SQL/PLSQL, Shell/Python/Perl, Jira (Open) at Blue Yonder
 
 | Field | Details |
 |-------|---------|
 | Company | [Blue Yonder](https://scoutify.ai/companies/jda?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Coimbatore, Tamil Nadu, India |
-| Category | Technology / IT Consulting |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://jda.wd5.myworkdayjobs.com/JDA_Careers/job/IND---Coimbatore-708/Sr-Technical-Consultant---Cloud---SAAS--BY-SCPO--JDA-Demand-and-fulfillment--SQL-PLSQL--Shell-Python-Perl--Jira_260771) |
+| Category | Customer Success |
+| Posted | 2026-04-16 |
+| Apply | [View on company site](https://jda.wd5.myworkdayjobs.com/JDA_Careers/job/IND---Coimbatore-708/Sr-Technical-Consultant---Cloud---SAAS--BY-SCPO--JDA-Demand-and-fulfillment--SQL-PLSQL--Shell-Python-Perl--Jira--Open-_260772) |
 
 ## About This Role
 
-This technology / it consulting position at Blue Yonder was posted on 2026-03-10.
+This customer success position at Blue Yonder was posted on 2026-04-16.
 
 ## Get Real-Time Alerts
 

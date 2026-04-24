@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Smiths Group](https://scoutify.ai/companies/smithsgroup?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | United States |
-| Category | Customer Success |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SmithsGroup2/744000112708966-customer-reliability-engineer-or-technical-specialist) |
+| Location | Tyler, Texas, United States |
+| Category | DevOps Engineer |
+| Posted | 2026-04-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SmithsGroup2/744000121232657-customer-reliability-engineer-or-technical-specialist) |
 
 ## About This Role
 
-This customer success position at Smiths Group was posted on 2026-03-04.
+This devops engineer position at Smiths Group was posted on 2026-04-16.
 
 ## Get Real-Time Alerts
 

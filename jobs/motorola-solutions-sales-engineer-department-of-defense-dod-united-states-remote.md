@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Motorola Solutions](https://scoutify.ai/companies/motorola-solutions?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Florida, US |
+| Location | Washington, District of Columbia, United States |
 | Category | Sales Engineer |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/California-Southern-Remote-Work/Sales-Engineer---Department-of-Defense--DoD----United-States--Remote-_R62951) |
+| Posted | 2026-04-16 |
+| Apply | [View on company site](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/California-Southern-Remote-Work/Sales-Engineer---Department-of-Defense--DoD----United-States--Remote-_R63981) |
 
 ## About This Role
 
-This sales engineer position at Motorola Solutions was posted on 2026-03-17.
+This sales engineer position at Motorola Solutions was posted on 2026-04-16.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Senior Presales, Systems Engineer at Hewlett Packard Enterprise
+# Senior, Presales Systems Engineer at Hewlett Packard Enterprise
 
 | Field | Details |
 |-------|---------|
 | Company | [Hewlett Packard Enterprise](https://scoutify.ai/companies/hewlett-packard-enterprise?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | San Francisco, California, United States |
+| Location | Delaware, US |
 | Category | Sales Engineer |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/All-Virginia-United-States-of-America/Senior-Presales--Systems-Engineer_1205835) |
+| Posted | 2026-04-16 |
+| Apply | [View on company site](https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/All-Delaware-United-States-of-America/Presales-Systems-Engineer_1201410) |
 
 ## About This Role
 
-This sales engineer position at Hewlett Packard Enterprise was posted on 2026-04-14.
+This sales engineer position at Hewlett Packard Enterprise was posted on 2026-04-16.
 
 ## Get Real-Time Alerts
 

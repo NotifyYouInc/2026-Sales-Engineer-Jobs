@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [REXEL](https://scoutify.ai/companies/rexel?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Richmond, Virginia, United States |
-| Category | Account Executive |
-| Posted | 2026-03-30 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/REXEL1/744000117687916-business-development-technical-specialist) |
+| Location | Birmingham, Alabama, United States |
+| Category | Sales Development (SDR / BDR) |
+| Posted | 2026-04-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/REXEL1/744000121189757-business-development-technical-specialist) |
 
 ## About This Role
 
-This account executive position at REXEL was posted on 2026-03-30.
+This sales development (sdr / bdr) position at REXEL was posted on 2026-04-16.
 
 ## Get Real-Time Alerts
 

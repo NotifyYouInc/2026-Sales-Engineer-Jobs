@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Rawalpindi, Punjab, Pakistan |
+| Location | Karachi, Sindh, Pakistan |
 | Category | Customer Success |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000120642208-customer-integration-consultant) |
+| Posted | 2026-04-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000121177187-customer-integration-consultant) |
 
 ## About This Role
 
-This customer success position at NielsenIQ was posted on 2026-04-14.
+This customer success position at NielsenIQ was posted on 2026-04-16.
 
 ## Get Real-Time Alerts
 

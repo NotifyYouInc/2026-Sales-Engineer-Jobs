@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [FirstRand](https://scoutify.ai/companies/firstrand?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Johannesburg, Gauteng, South Africa |
-| Category | Software Engineer |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://firstrand.wd3.myworkdayjobs.com/frb/job/Johannesburg/Technical-Specialist_R42602) |
+| Category | DevOps Engineer |
+| Posted | 2026-04-16 |
+| Apply | [View on company site](https://firstrand.wd3.myworkdayjobs.com/frb/job/Johannesburg/Technical-Specialist_R48943) |
 
 ## About This Role
 
-This software engineer position at FirstRand was posted on 2026-02-18.
+This devops engineer position at FirstRand was posted on 2026-04-16.
 
 ## Get Real-Time Alerts
 

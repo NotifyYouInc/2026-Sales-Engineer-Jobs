@@ -5,12 +5,12 @@
 | Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Milan, Lombardy, Italy |
 | Category | Product Manager |
-| Posted | 2026-04-08 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012501196-product-specialist-oncology-lombardia-trentino-alto-adige) |
+| Posted | 2026-04-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012631216-product-specialist-oncology-lombardia-trentino-alto-adige) |
 
 ## About This Role
 
-This product manager position at AbbVie was posted on 2026-04-08.
+This product manager position at AbbVie was posted on 2026-04-16.
 
 ## Get Real-Time Alerts
 

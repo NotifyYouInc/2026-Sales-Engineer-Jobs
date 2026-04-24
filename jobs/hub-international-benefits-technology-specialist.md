@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [HUB International](https://scoutify.ai/companies/hubinternational?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Casper, Wyoming, United States |
-| Category | Customer Success |
-| Posted | 2026-03-23 |
-| Apply | [View on company site](https://hubinternational.wd1.myworkdayjobs.com/hubinternational/job/Casper-WY/Benefits-Technology-Specialist_R0035390) |
+| Location | 2 locations |
+| Category | Account Manager |
+| Posted | 2026-04-16 |
+| Apply | [View on company site](https://hubinternational.wd1.myworkdayjobs.com/hubinternational/job/Kansas-City--MO/Benefits-Technology-Specialist_R0035891) |
 
 ## About This Role
 
-This customer success position at HUB International was posted on 2026-03-23.
+This account manager position at HUB International was posted on 2026-04-16.
 
 ## Get Real-Time Alerts
 

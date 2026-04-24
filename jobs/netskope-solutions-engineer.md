@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Netskope](https://scoutify.ai/companies/netskope?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Nevada, US |
-| Category | Sales Engineer |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://www.netskope.com/company/careers/open-positions/?gh_jid=7786997) |
+| Location | London, England, United Kingdom |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-04-16 |
+| Apply | [View on company site](https://www.netskope.com/company/careers/open-positions/?gh_jid=7791813) |
 
 ## About This Role
 
-This sales engineer position at Netskope was posted on 2026-04-13.
+This technical & solutions architect position at Netskope was posted on 2026-04-16.
 
 ## Get Real-Time Alerts
 

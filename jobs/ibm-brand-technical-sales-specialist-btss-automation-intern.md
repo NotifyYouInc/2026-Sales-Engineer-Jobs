@@ -1,16 +1,16 @@
-# Brand Technical Sales Specialist (BTSS) - Automation (Intern) at IBM
+# Brand Technical Sales Specialist - BTSS Automation (Intern) at IBM
 
 | Field | Details |
 |-------|---------|
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Vietnam |
 | Category | Sales Engineer |
-| Posted | 2026-04-06 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=103262) |
+| Posted | 2026-04-16 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=110202) |
 
 ## About This Role
 
-This sales engineer position at IBM was posted on 2026-04-06.
+This sales engineer position at IBM was posted on 2026-04-16.
 
 ## Get Real-Time Alerts
 

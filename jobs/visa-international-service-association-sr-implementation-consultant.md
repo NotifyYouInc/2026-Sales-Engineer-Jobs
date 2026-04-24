@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Visa International Service Association](https://scoutify.ai/companies/visainternationalserviceassociation?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Toronto, Ontario, Canada |
-| Category | Implementation / Professional Services |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Visa/744000113550282-sr-implementation-consultant) |
+| Location | Atlanta, Georgia, United States |
+| Category | Customer Success |
+| Posted | 2026-04-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Visa/744000121183828-sr-implementation-consultant) |
 
 ## About This Role
 
-This implementation / professional services position at Visa International Service Association was posted on 2026-03-09.
+This customer success position at Visa International Service Association was posted on 2026-04-16.
 
 ## Get Real-Time Alerts
 

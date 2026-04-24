@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [PPG Industries](https://scoutify.ai/companies/ppg-industries?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Thailand |
+| Location | Petaling Jaya, Selangor, Malaysia |
 | Category | Account Executive |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://ppg.wd5.myworkdayjobs.com/ppg_careers/job/THA---Bangplee-Plant/Technical-Service-and-Sales-Representative_JR261851) |
+| Posted | 2026-04-17 |
+| Apply | [View on company site](https://ppg.wd5.myworkdayjobs.com/ppg_careers/job/MYS---Petaling-Jaya-Plant/Technical-Service-and-Sales-Representative_JR262635-1) |
 
 ## About This Role
 
-This account executive position at PPG Industries was posted on 2026-04-14.
+This account executive position at PPG Industries was posted on 2026-04-17.
 
 ## Get Real-Time Alerts
 

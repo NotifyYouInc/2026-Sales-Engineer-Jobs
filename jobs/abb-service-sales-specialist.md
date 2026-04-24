@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ABB](https://scoutify.ai/companies/abb?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Mumbai, Maharashtra, India |
+| Location | Thailand |
 | Category | Account Executive |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Mumbai-Maharashtra-India/Service-Sales-Specialist_JR00030631) |
+| Posted | 2026-04-16 |
+| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Muang-Thailand/Service-Sales-Specialist_JR00030995) |
 
 ## About This Role
 
-This account executive position at ABB was posted on 2026-04-13.
+This account executive position at ABB was posted on 2026-04-16.
 
 ## Get Real-Time Alerts
 

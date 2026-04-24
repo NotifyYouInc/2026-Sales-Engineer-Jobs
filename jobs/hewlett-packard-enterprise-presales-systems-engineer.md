@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Hewlett Packard Enterprise](https://scoutify.ai/companies/hewlett-packard-enterprise?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Colorado, US |
+| Location | Toronto, Ontario, Canada |
 | Category | Sales Engineer |
 | Posted | 2026-04-15 |
-| Apply | [View on company site](https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/All-Colorado-United-States-of-America/Presales--Systems-Engineer_1198586) |
+| Apply | [View on company site](https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/All-Texas-United-States-of-America/Presales--Systems-Engineer_1204822) |
 
 ## About This Role
 
