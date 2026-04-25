@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Dr. Reddy's Laboratories](https://scoutify.ai/companies/drreddyslaboratories?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Paris, Île-de-France, France |
+| Location | Amiens, Hauts-de-France, France |
 | Category | Sales Engineer |
-| Posted | 2026-04-08 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/DrReddysLaboratoriesLimited/744000119459582-delegue-hospitalier-produits-biologiques) |
+| Posted | 2026-04-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/DrReddysLaboratoriesLimited/744000121439072-delegue-hospitalier-produits-biologiques) |
 
 ## About This Role
 
-This sales engineer position at Dr. Reddy's Laboratories was posted on 2026-04-08.
+This sales engineer position at Dr. Reddy's Laboratories was posted on 2026-04-17.
 
 ## Get Real-Time Alerts
 

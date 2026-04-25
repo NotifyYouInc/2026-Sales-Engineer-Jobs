@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | 2 locations |
-| Category | Sales Engineer |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/jobs/results/82026145976853190-customer-engineer-platform-google-cloud?sort_by=date&page=1) |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-04-17 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckUSoQ8_su8LAxua99_2heyv5sdxlQujefDNIR46wuA3nEjsACxwdTEJc3bT67rEh9OutSUmK0TzHIAWdneJRrYQqQ3wb_1zs3P3pFPyEhsKkHJiMd4r9j9HQosYvYg%3D%3D_V2&loc=US&title=Customer+Engineer) |
 
 ## About This Role
 
-This sales engineer position at Google was posted on 2026-02-19.
+This technical & solutions architect position at Google was posted on 2026-04-17.
 
 ## Get Real-Time Alerts
 

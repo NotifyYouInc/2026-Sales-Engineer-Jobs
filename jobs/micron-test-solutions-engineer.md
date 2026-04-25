@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Micron](https://scoutify.ai/companies/micron?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Taichung, Taiwan, Taiwan |
-| Category | Semiconductor / Chip Design |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Taichung---Fab-16-Taiwan/TEST-SOLUTIONS-ENGINEER_JR97683) |
+| Category | Electrical / Hardware Engineer |
+| Posted | 2026-04-17 |
+| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Taichung---Fab-16-Taiwan/TEST-SOLUTIONS-ENGINEER_JR95437) |
 
 ## About This Role
 
-This semiconductor / chip design position at Micron was posted on 2026-04-14.
+This electrical / hardware engineer position at Micron was posted on 2026-04-17.
 
 ## Get Real-Time Alerts
 

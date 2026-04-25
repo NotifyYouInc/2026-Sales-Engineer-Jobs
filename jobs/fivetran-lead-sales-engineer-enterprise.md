@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Fivetran](https://scoutify.ai/companies/fivetran?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Australia |
+| Location | Singapore, Singapore |
 | Category | Sales Engineer |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://www.fivetran.com/careers/job?gh_jid=7699321003) |
+| Posted | 2026-04-16 |
+| Apply | [View on company site](https://www.fivetran.com/careers/job?gh_jid=7699319003) |
 
 ## About This Role
 
-This sales engineer position at Fivetran was posted on 2026-04-15.
+This sales engineer position at Fivetran was posted on 2026-04-16.
 
 ## Get Real-Time Alerts
 

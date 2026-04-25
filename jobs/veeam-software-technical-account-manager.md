@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Veeam Software](https://scoutify.ai/companies/veeamsoftware?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Not specified |
+| Location | Vienna, Vienna, Austria |
 | Category | Customer Success |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4744018101) |
+| Posted | 2026-04-17 |
+| Apply | [View on company site](https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4845015101) |
 
 ## About This Role
 
-This customer success position at Veeam Software was posted on 2026-03-17.
+This customer success position at Veeam Software was posted on 2026-04-17.
 
 ## Get Real-Time Alerts
 

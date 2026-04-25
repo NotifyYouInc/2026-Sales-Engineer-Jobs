@@ -5,12 +5,12 @@
 | Company | [Acumatica](https://scoutify.ai/companies/acumatica?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Reston, Virginia, United States |
 | Category | Sales Engineer |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Acumatica/744000113814848-presales-engineer) |
+| Posted | 2026-04-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Acumatica/744000121510317-presales-engineer) |
 
 ## About This Role
 
-This sales engineer position at Acumatica was posted on 2026-03-10.
+This sales engineer position at Acumatica was posted on 2026-04-17.
 
 ## Get Real-Time Alerts
 

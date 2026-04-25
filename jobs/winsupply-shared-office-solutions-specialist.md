@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Winsupply](https://scoutify.ai/companies/winsupply?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | United States |
+| Location | Lawrenceville, Georgia, United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-01 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Winsupply1/3743990012411526-shared-office-solutions-specialist) |
+| Posted | 2026-04-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Winsupply1/3743990012652412-shared-office-solutions-specialist) |
 
 ## About This Role
 
-This corporate finance position at Winsupply was posted on 2026-04-01.
+This corporate finance position at Winsupply was posted on 2026-04-17.
 
 ## Get Real-Time Alerts
 

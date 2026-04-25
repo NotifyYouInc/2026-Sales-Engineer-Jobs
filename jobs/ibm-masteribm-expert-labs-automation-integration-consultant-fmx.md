@@ -1,16 +1,16 @@
-# Master@IBM – Expert Labs Automation  Integration Consultant (f/m/x) at IBM
+# Master@IBM - Expert Labs Automation Integration Consultant (f/m/x) at IBM
 
 | Field | Details |
 |-------|---------|
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | 3 locations |
-| Category | Technology / IT Consulting |
-| Posted | 2026-03-26 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=104563) |
+| Location | Austria |
+| Category | Customer Success |
+| Posted | 2026-04-17 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=107350) |
 
 ## About This Role
 
-This technology / it consulting position at IBM was posted on 2026-03-26.
+This customer success position at IBM was posted on 2026-04-17.
 
 ## Get Real-Time Alerts
 

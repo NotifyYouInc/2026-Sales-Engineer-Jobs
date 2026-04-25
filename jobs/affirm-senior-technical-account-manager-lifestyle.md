@@ -5,12 +5,12 @@
 | Company | [Affirm](https://scoutify.ai/companies/affirm-inc?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Canada |
 | Category | Customer Success |
-| Posted | 2026-03-19 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/affirm/jobs/7666749003) |
+| Posted | 2026-04-17 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/affirm/jobs/7666751003) |
 
 ## About This Role
 
-This customer success position at Affirm was posted on 2026-03-19.
+This customer success position at Affirm was posted on 2026-04-17.
 
 ## Get Real-Time Alerts
 

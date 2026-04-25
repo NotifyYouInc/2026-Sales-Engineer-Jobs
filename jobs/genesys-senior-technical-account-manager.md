@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Genesys](https://scoutify.ai/companies/genesys?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Sweden |
+| Location | São Paulo, São Paulo, Brazil |
 | Category | Customer Success |
-| Posted | 2026-03-19 |
-| Apply | [View on company site](https://genesys.wd1.myworkdayjobs.com/Genesys/job/Sweden/Senior-Technical-Account-Manager_JR110330-2) |
+| Posted | 2026-04-17 |
+| Apply | [View on company site](https://genesys.wd1.myworkdayjobs.com/Genesys/job/Sao-Paulo-Flexible/Senior-Technical-Account-Manager_JR110781-1) |
 
 ## About This Role
 
-This customer success position at Genesys was posted on 2026-03-19.
+This customer success position at Genesys was posted on 2026-04-17.
 
 ## Get Real-Time Alerts
 

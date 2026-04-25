@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [METRO/MAKRO](https://scoutify.ai/companies/metromakro?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | 3 locations |
+| Location | Not specified |
 | Category | Sales Engineer |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/METROMAKRO/744000120360952-commercial-expert-btob-cuisine-professionnelle-cdi-fh) |
+| Posted | 2026-04-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/METROMAKRO/744000121430347-commercial-expert-btob-cuisine-professionnelle-cdi-fh) |
 
 ## About This Role
 
-This sales engineer position at METRO/MAKRO was posted on 2026-04-13.
+This sales engineer position at METRO/MAKRO was posted on 2026-04-17.
 
 ## Get Real-Time Alerts
 

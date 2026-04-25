@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ABB](https://scoutify.ai/companies/abb?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Pune, Maharashtra, India |
+| Location | Tokyo, Tokyo, Japan |
 | Category | Account Executive |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Pune-Maharashtra-India/Sales-Specialist_JR00031630) |
+| Posted | 2026-04-17 |
+| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Tokyo-Tokyo-Japan/Sales-Specialist_JR00029081) |
 
 ## About This Role
 
-This account executive position at ABB was posted on 2026-04-15.
+This account executive position at ABB was posted on 2026-04-17.
 
 ## Get Real-Time Alerts
 

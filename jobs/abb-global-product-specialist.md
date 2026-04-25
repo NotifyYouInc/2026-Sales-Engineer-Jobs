@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ABB](https://scoutify.ai/companies/abb?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Lombardy, IT |
+| Location | Italy |
 | Category | Product Manager |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Vittuone-Milano-Italy/Global-Product-Specialist_JR00024465) |
+| Posted | 2026-04-17 |
+| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Vittuone-Milano-Italy/Global-Product-Specialist_JR00030767) |
 
 ## About This Role
 
-This product manager position at ABB was posted on 2026-02-19.
+This product manager position at ABB was posted on 2026-04-17.
 
 ## Get Real-Time Alerts
 
