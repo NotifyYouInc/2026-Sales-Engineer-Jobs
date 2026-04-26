@@ -1,16 +1,16 @@
-# Agreement Sales Engineer at Konecranes
+# Senior Sales Engineer - APAC at Camunda
 
 | Field | Details |
 |-------|---------|
-| Company | [Konecranes](https://scoutify.ai/companies/konecranes?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Indonesia |
+| Company | [Camunda](https://scoutify.ai/companies/camunda?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
+| Location | Singapore, Singapore |
 | Category | Sales Engineer |
-| Posted | 2026-04-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Konecranes/744000121617168-agreement-sales-engineer) |
+| Posted | 2026-04-18 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/camunda/8768b354-9810-41fa-8f8b-d799fb896699) |
 
 ## About This Role
 
-This sales engineer position at Konecranes was posted on 2026-04-19.
+This sales engineer position at Camunda was posted on 2026-04-18.
 
 ## Get Real-Time Alerts
 
