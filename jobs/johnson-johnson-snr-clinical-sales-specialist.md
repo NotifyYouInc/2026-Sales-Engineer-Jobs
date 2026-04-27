@@ -1,16 +1,16 @@
-# Senior Product Specialist at Johnson & Johnson
+# Snr Clinical & Sales Specialist at Johnson & Johnson
 
 | Field | Details |
 |-------|---------|
 | Company | [Johnson & Johnson](https://scoutify.ai/companies/johnson-johnson?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Singapore, Singapore |
-| Category | Sales Engineer |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://jj.wd5.myworkdayjobs.com/JJ/job/Singapore-Singapore/Senior-Product-Specialist_R-069574) |
+| Location | New South Wales, AU |
+| Category | Account Executive |
+| Posted | 2026-04-19 |
+| Apply | [View on company site](https://jj.wd5.myworkdayjobs.com/JJ/job/North-Ryde-New-South-Wales-Australia/Snr-Clinical---Sales-Specialist_R-070063) |
 
 ## About This Role
 
-This sales engineer position at Johnson & Johnson was posted on 2026-04-20.
+This account executive position at Johnson & Johnson was posted on 2026-04-19.
 
 ## Get Real-Time Alerts
 

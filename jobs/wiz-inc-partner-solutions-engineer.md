@@ -1,16 +1,16 @@
-# Senior Strategic Solutions Engineer, Bengaluru at Cloudflare
+# Partner Solutions Engineer at Wiz, Inc.
 
 | Field | Details |
 |-------|---------|
-| Company | [Cloudflare](https://scoutify.ai/companies/cloudflare?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Company | [Wiz, Inc.](https://scoutify.ai/companies/wiz-inc?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
+| Location | South Korea |
 | Category | Technical & Solutions Architect |
 | Posted | 2026-04-20 |
-| Apply | [View on company site](https://boards.greenhouse.io/cloudflare/jobs/7822857?gh_jid=7822857) |
+| Apply | [View on company site](https://www.wiz.io/careers/job/4671778006/:title?gh_jid=4671778006) |
 
 ## About This Role
 
-This technical & solutions architect position at Cloudflare was posted on 2026-04-20.
+This technical & solutions architect position at Wiz, Inc. was posted on 2026-04-20.
 
 ## Get Real-Time Alerts
 

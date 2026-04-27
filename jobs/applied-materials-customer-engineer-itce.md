@@ -1,16 +1,16 @@
-# Product specialist at ABB
+# Customer Engineer - (ITCE) at Applied Materials
 
 | Field | Details |
 |-------|---------|
-| Company | [ABB](https://scoutify.ai/companies/abb?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Xiamen, Fujian, China |
+| Company | [Applied Materials](https://scoutify.ai/companies/applied-materials?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
+| Location | Tainan, Taiwan, Taiwan |
 | Category | Marketing |
 | Posted | 2026-04-20 |
-| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Xiamen-Fujian-China/Product-specialist_JR00031460-4) |
+| Apply | [View on company site](https://amat.wd1.myworkdayjobs.com/External/job/TainanTWN/Customer-Engineer----ITCE-_R2617785) |
 
 ## About This Role
 
-This marketing position at ABB was posted on 2026-04-20.
+This marketing position at Applied Materials was posted on 2026-04-20.
 
 ## Get Real-Time Alerts
 

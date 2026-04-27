@@ -1,12 +1,12 @@
-# Senior Product Specialist at Johnson & Johnson
+# Senior Clinical Development Specialist-德州 at Johnson & Johnson
 
 | Field | Details |
 |-------|---------|
 | Company | [Johnson & Johnson](https://scoutify.ai/companies/johnson-johnson?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Singapore, Singapore |
+| Location | Dezhou, Shandong, China |
 | Category | Sales Engineer |
 | Posted | 2026-04-20 |
-| Apply | [View on company site](https://jj.wd5.myworkdayjobs.com/JJ/job/Singapore-Singapore/Senior-Product-Specialist_R-069574) |
+| Apply | [View on company site](https://jj.wd5.myworkdayjobs.com/JJ/job/Dezhou-Shandong-China/Senior-Clinical-Development-Specialist-_R-069472) |
 
 ## About This Role
 

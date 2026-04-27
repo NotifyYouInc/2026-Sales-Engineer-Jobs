@@ -1,16 +1,16 @@
-# Sales Engineer at Danaher
+# 疫苗事业部-医学信息沟通代表-广州 at Sanofi
 
 | Field | Details |
 |-------|---------|
-| Company | [Danaher](https://scoutify.ai/companies/danaher?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Beijing, Beijing, China |
+| Company | [Sanofi](https://scoutify.ai/companies/sanofi?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
+| Location | Guangzhou, Guangdong, China |
 | Category | Sales Engineer |
 | Posted | 2026-04-20 |
-| Apply | [View on company site](https://danaher.wd1.myworkdayjobs.com/DanaherJobs/job/CHN---Beijing---Pall-Corporation/Sales-Engineer_R1309288-1) |
+| Apply | [View on company site](https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Guangzhou/--_R2841326) |
 
 ## About This Role
 
-This sales engineer position at Danaher was posted on 2026-04-20.
+This sales engineer position at Sanofi was posted on 2026-04-20.
 
 ## Get Real-Time Alerts
 

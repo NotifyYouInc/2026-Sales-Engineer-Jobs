@@ -1,16 +1,16 @@
-# Sales Engineer at Danaher
+# Lead, Field Applications at Entegris
 
 | Field | Details |
 |-------|---------|
-| Company | [Danaher](https://scoutify.ai/companies/danaher?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Beijing, Beijing, China |
+| Company | [Entegris](https://scoutify.ai/companies/entegris?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
+| Location | Shanghai, Shanghai, China |
 | Category | Sales Engineer |
 | Posted | 2026-04-20 |
-| Apply | [View on company site](https://danaher.wd1.myworkdayjobs.com/DanaherJobs/job/CHN---Beijing---Pall-Corporation/Sales-Engineer_R1309288-1) |
+| Apply | [View on company site](https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Shanghai-China/Lead--Field-Applications_REQ-11447) |
 
 ## About This Role
 
-This sales engineer position at Danaher was posted on 2026-04-20.
+This sales engineer position at Entegris was posted on 2026-04-20.
 
 ## Get Real-Time Alerts
 

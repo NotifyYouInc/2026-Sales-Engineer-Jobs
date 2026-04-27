@@ -1,16 +1,16 @@
-# Senior Technical Field Engineer at Unisys
+# Field Application Specialist at Sartorius
 
 | Field | Details |
 |-------|---------|
-| Company | [Unisys](https://scoutify.ai/companies/unisys?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Australia |
+| Company | [Sartorius](https://scoutify.ai/companies/sartorius?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
+| Location | 2 locations |
 | Category | Customer Success |
 | Posted | 2026-04-20 |
-| Apply | [View on company site](https://unisys.wd5.myworkdayjobs.com/External/job/Edinburg-SA-Australia/Senior-Technical-Field-Engineer_REQ571855) |
+| Apply | [View on company site](https://sartorius.wd3.myworkdayjobs.com/sartoriuscareers/job/Shanghai/Field-Application-Specialist_R40159) |
 
 ## About This Role
 
-This customer success position at Unisys was posted on 2026-04-20.
+This customer success position at Sartorius was posted on 2026-04-20.
 
 ## Get Real-Time Alerts
 

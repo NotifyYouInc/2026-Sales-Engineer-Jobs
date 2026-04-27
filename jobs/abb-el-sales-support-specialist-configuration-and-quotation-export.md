@@ -1,16 +1,16 @@
-# Product specialist at ABB
+# EL Sales Support Specialist - Configuration and Quotation _ Export at ABB
 
 | Field | Details |
 |-------|---------|
 | Company | [ABB](https://scoutify.ai/companies/abb?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Xiamen, Fujian, China |
-| Category | Marketing |
+| Category | Sales Engineer |
 | Posted | 2026-04-20 |
-| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Xiamen-Fujian-China/Product-specialist_JR00031460-4) |
+| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Xiamen-Fujian-China/EL-Sales-Support-Specialist---Configuration-and-Quotation---Export_JR00032363) |
 
 ## About This Role
 
-This marketing position at ABB was posted on 2026-04-20.
+This sales engineer position at ABB was posted on 2026-04-20.
 
 ## Get Real-Time Alerts
 
