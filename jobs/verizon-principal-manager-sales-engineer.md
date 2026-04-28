@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Verizon](https://scoutify.ai/companies/verizon?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Twinsburg, Ohio, United States |
+| Location | Milwaukee, Wisconsin, United States |
 | Category | Sales Engineer |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Twinsburg-Ohio/Principal-Manager-Sales-Engineer_R-1091662-1) |
+| Posted | 2026-04-20 |
+| Apply | [View on company site](https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Milwaukee-Wisconsin/Principal-Manager-Sales-Engineer_R-1093785-1) |
 
 ## About This Role
 
-This sales engineer position at Verizon was posted on 2026-03-17.
+This sales engineer position at Verizon was posted on 2026-04-20.
 
 ## Get Real-Time Alerts
 

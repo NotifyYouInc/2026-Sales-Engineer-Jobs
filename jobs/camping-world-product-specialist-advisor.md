@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Camping World](https://scoutify.ai/companies/campingworld?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Sherman, Texas, United States |
+| Location | Clermont, Florida, United States |
 | Category | Customer Success |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://campingworld.wd5.myworkdayjobs.com/Jobs/job/Sherman-TX/Product-Specialist-Advisor_26_03407) |
+| Posted | 2026-04-20 |
+| Apply | [View on company site](https://campingworld.wd5.myworkdayjobs.com/Jobs/job/Clermont-FL/Product-Specialist-Advisor_26_03547) |
 
 ## About This Role
 
-This customer success position at Camping World was posted on 2026-04-16.
+This customer success position at Camping World was posted on 2026-04-20.
 
 ## Get Real-Time Alerts
 

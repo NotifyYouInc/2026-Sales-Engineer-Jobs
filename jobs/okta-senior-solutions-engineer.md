@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Okta](https://scoutify.ai/companies/okta?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Texas, US |
+| Location | London, England, United Kingdom |
 | Category | Sales Engineer |
-| Posted | 2026-04-01 |
-| Apply | [View on company site](https://www.okta.com/company/careers/opportunity/7727835?gh_jid=7727835) |
+| Posted | 2026-04-20 |
+| Apply | [View on company site](https://www.okta.com/company/careers/opportunity/7768480?gh_jid=7768480) |
 
 ## About This Role
 
-This sales engineer position at Okta was posted on 2026-04-01.
+This sales engineer position at Okta was posted on 2026-04-20.
 
 ## Get Real-Time Alerts
 

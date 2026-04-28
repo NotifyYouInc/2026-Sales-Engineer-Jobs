@@ -1,16 +1,16 @@
-# Technical Account Manager (French Speaking) at SOTI
+# Technical Account Manager (French-Speaking) at SOTI
 
 | Field | Details |
 |-------|---------|
 | Company | [SOTI](https://scoutify.ai/companies/soti?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Galway, Connacht, Ireland |
+| Location | Morocco |
 | Category | Customer Success |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://soti.wd3.myworkdayjobs.com/careers/job/Galway-Ireland/Technical-Account-Manager--French-Speaking-_R09793) |
+| Posted | 2026-04-20 |
+| Apply | [View on company site](https://soti.wd3.myworkdayjobs.com/careers/job/Morocco---Remote/Technical-Account-Manager--French-Speaking-_R09902) |
 
 ## About This Role
 
-This customer success position at SOTI was posted on 2026-02-18.
+This customer success position at SOTI was posted on 2026-04-20.
 
 ## Get Real-Time Alerts
 

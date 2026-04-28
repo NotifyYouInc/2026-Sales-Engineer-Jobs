@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | North Carolina, US |
-| Category | Sales Engineer |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/RTP-North-Carolina-US/Solutions-Engineer_2011592) |
+| Location | London, England, United Kingdom |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-04-17 |
+| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/London-United-Kingdom/Solutions-Engineer_2011205-1) |
 
 ## About This Role
 
-This sales engineer position at Cisco was posted on 2026-04-16.
+This technical & solutions architect position at Cisco was posted on 2026-04-17.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cohesity](https://scoutify.ai/companies/cohesity?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | South Africa |
+| Location | Seoul, Seoul, South Korea |
 | Category | Sales Engineer |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://cohesity.wd5.myworkdayjobs.com/Cohesity_Careers/job/South-Africa---Remote/Sales-Engineer_R02995) |
+| Posted | 2026-04-21 |
+| Apply | [View on company site](https://cohesity.wd5.myworkdayjobs.com/Cohesity_Careers/job/Seoul---Korea-Republic-of-Office/Sales-Engineer_R03065) |
 
 ## About This Role
 
-This sales engineer position at Cohesity was posted on 2026-03-13.
+This sales engineer position at Cohesity was posted on 2026-04-21.
 
 ## Get Real-Time Alerts
 

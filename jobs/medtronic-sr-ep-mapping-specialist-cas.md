@@ -1,16 +1,16 @@
-# Sr EP Mapping Specialist CAS at Medtronic
+# Sr EP Mapping Specialist CAS. at Medtronic
 
 | Field | Details |
 |-------|---------|
 | Company | [Medtronic](https://scoutify.ai/companies/medtronic?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Petaling Jaya, Selangor, Malaysia |
+| Location | Bern, Bern, Switzerland |
 | Category | Sales Engineer |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Petaling-Jaya-Selangor-Malaysia/Sr-EP-Mapping-Specialist-CAS_R56286-1) |
+| Posted | 2026-04-20 |
+| Apply | [View on company site](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Bern-Canton-de-Berne-Switzerland/Sr-EP-Mapping-Specialist-CAS_R64282-1) |
 
 ## About This Role
 
-This sales engineer position at Medtronic was posted on 2026-04-14.
+This sales engineer position at Medtronic was posted on 2026-04-20.
 
 ## Get Real-Time Alerts
 

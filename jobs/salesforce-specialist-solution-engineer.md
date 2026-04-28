@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Salesforce](https://scoutify.ai/companies/salesforce?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Philippines |
+| Location | 2 locations |
 | Category | Sales Engineer |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Philippines---Metro-Manila/Specialist-Solution-Engineer_JR337676) |
+| Posted | 2026-04-20 |
+| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Italy---Milan/Specialist-Solution-Engineer_JR338779) |
 
 ## About This Role
 
-This sales engineer position at Salesforce was posted on 2026-04-13.
+This sales engineer position at Salesforce was posted on 2026-04-20.
 
 ## Get Real-Time Alerts
 

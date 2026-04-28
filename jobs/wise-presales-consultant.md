@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [WISE](https://scoutify.ai/companies/wise?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | New York, US |
+| Location | Austin, Texas, United States |
 | Category | Sales Engineer |
-| Posted | 2026-04-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000119658817-presales-consultant) |
+| Posted | 2026-04-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000121875147-presales-consultant) |
 
 ## About This Role
 
-This sales engineer position at WISE was posted on 2026-04-09.
+This sales engineer position at WISE was posted on 2026-04-20.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Zeiss](https://scoutify.ai/companies/zeissgroup?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Beijing, Beijing, China |
-| Category | Account Executive |
-| Posted | 2026-03-19 |
-| Apply | [View on company site](https://zeissgroup.wd3.myworkdayjobs.com/External/job/Beijing/Sales-Engineer_JR_1047560-1) |
+| Location | Chengdu, Sichuan, China |
+| Category | Sales Engineer |
+| Posted | 2026-04-21 |
+| Apply | [View on company site](https://zeissgroup.wd3.myworkdayjobs.com/External/job/Chengdu/Sales-Engineer_JR_1049009) |
 
 ## About This Role
 
-This account executive position at Zeiss was posted on 2026-03-19.
+This sales engineer position at Zeiss was posted on 2026-04-21.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Applied Materials](https://scoutify.ai/companies/applied-materials?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Pyeongtaek, Gyeonggi-do, South Korea |
-| Category | Customer Success |
-| Posted | 2026-02-06 |
-| Apply | [View on company site](https://amat.wd1.myworkdayjobs.com/External/job/Pyeongtaek-NF-SummitKOR/Manager--ETCH-Customer-Engineer_R2520079-1) |
+| Category | Engineering Manager |
+| Posted | 2026-04-21 |
+| Apply | [View on company site](https://amat.wd1.myworkdayjobs.com/External/job/Pyeongtaek-NF-SummitKOR/Manager--ETCH-Customer-Engineer_R2615245) |
 
 ## About This Role
 
-This customer success position at Applied Materials was posted on 2026-02-06.
+This engineering manager position at Applied Materials was posted on 2026-04-21.
 
 ## Get Real-Time Alerts
 

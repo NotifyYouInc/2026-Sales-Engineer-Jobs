@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Avnet](https://scoutify.ai/companies/avnet?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Wisconsin, US |
+| Location | Hyderabad, Telangana, India |
 | Category | Software Engineer |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://avnet.wd1.myworkdayjobs.com/external/job/Pewaukee-Wisconsin-United-States-Of-America/Field-Application-Engineer_JR-021654) |
+| Posted | 2026-04-20 |
+| Apply | [View on company site](https://avnet.wd1.myworkdayjobs.com/external/job/Hyderabad-India/Field-Application-Engineer_JR-022372) |
 
 ## About This Role
 
-This software engineer position at Avnet was posted on 2026-02-24.
+This software engineer position at Avnet was posted on 2026-04-20.
 
 ## Get Real-Time Alerts
 

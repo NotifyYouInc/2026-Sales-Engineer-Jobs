@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Zenoti](https://scoutify.ai/companies/zenoti?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Seattle, Washington, United States |
+| Location | Hyderabad, Telangana, India |
 | Category | Customer Success |
-| Posted | 2026-04-12 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/zenoti/jobs/7693084003) |
+| Posted | 2026-04-21 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/zenoti/jobs/7620150003) |
 
 ## About This Role
 
-This customer success position at Zenoti was posted on 2026-04-12.
+This customer success position at Zenoti was posted on 2026-04-21.
 
 ## Get Real-Time Alerts
 

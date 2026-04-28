@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Braze](https://scoutify.ai/companies/braze?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | London, England, United Kingdom |
+| Location | New York City, New York, United States |
 | Category | Customer Success |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://boards.greenhouse.io/braze/jobs/7677006?gh_jid=7677006) |
+| Posted | 2026-04-20 |
+| Apply | [View on company site](https://boards.greenhouse.io/braze/jobs/7081349?gh_jid=7081349) |
 
 ## About This Role
 
-This customer success position at Braze was posted on 2026-03-04.
+This customer success position at Braze was posted on 2026-04-20.
 
 ## Get Real-Time Alerts
 
