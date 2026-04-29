@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Johnson & Johnson](https://scoutify.ai/companies/johnson-johnson?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Riyadh, Riyadh Region, Saudi Arabia |
-| Category | Account Executive |
-| Posted | 2026-04-02 |
-| Apply | [View on company site](https://jj.wd5.myworkdayjobs.com/JJ/job/Riyadh-Saudi-Arabia/Product-Specialist_R-068078) |
+| Location | Diegem, Flanders, Belgium |
+| Category | Sales Engineer |
+| Posted | 2026-04-21 |
+| Apply | [View on company site](https://jj.wd5.myworkdayjobs.com/JJ/job/Diegem-Flemish-Brabant-Belgium/Product-Specialist_R-071144) |
 
 ## About This Role
 
-This account executive position at Johnson & Johnson was posted on 2026-04-02.
+This sales engineer position at Johnson & Johnson was posted on 2026-04-21.
 
 ## Get Real-Time Alerts
 

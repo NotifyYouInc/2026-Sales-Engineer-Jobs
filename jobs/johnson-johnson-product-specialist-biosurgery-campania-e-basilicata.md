@@ -1,16 +1,16 @@
-# Product Specialist Biosurgery - Campania e Basilicata at Johnson & Johnson
+# Product Specialist Biosurgery | Campania e Basilicata at Johnson & Johnson
 
 | Field | Details |
 |-------|---------|
 | Company | [Johnson & Johnson](https://scoutify.ai/companies/johnson-johnson?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Pomezia, Lazio, Italy |
 | Category | Sales Engineer |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://jj.wd5.myworkdayjobs.com/JJ/job/Pomezia-Roma-Italy/Product-Specialist-Biosurgery---Campania-e-Basilicata_R-069883) |
+| Posted | 2026-04-20 |
+| Apply | [View on company site](https://jj.wd5.myworkdayjobs.com/JJ/job/Pomezia-Roma-Italy/Product-Specialist-Biosurgery---Campania-e-Basilicata_R-070835) |
 
 ## About This Role
 
-This sales engineer position at Johnson & Johnson was posted on 2026-04-17.
+This sales engineer position at Johnson & Johnson was posted on 2026-04-20.
 
 ## Get Real-Time Alerts
 

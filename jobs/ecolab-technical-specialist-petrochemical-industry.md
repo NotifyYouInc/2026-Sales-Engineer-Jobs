@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Ecolab](https://scoutify.ai/companies/ecolab?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | England, GB |
+| Location | Immingham, England, United Kingdom |
 | Category | Customer Success |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://ecolab.wd1.myworkdayjobs.com/ecolab_external/job/GBR--England--Immingham/Technical-Specialist---Petrochemical-Industry_R00289626) |
+| Posted | 2026-04-21 |
+| Apply | [View on company site](https://ecolab.wd1.myworkdayjobs.com/ecolab_external/job/GBR--England--Immingham/Technical-Specialist---Petrochemical-Industry_R00290337) |
 
 ## About This Role
 
-This customer success position at Ecolab was posted on 2026-04-15.
+This customer success position at Ecolab was posted on 2026-04-21.
 
 ## Get Real-Time Alerts
 

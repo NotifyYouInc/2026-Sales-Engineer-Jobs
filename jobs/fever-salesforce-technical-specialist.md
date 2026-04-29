@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Fever](https://scoutify.ai/companies/fever?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Madrid, Madrid, Spain |
-| Category | Marketing |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://job-boards.eu.greenhouse.io/feverup/jobs/4793389101) |
+| Category | Growth Marketing |
+| Posted | 2026-04-21 |
+| Apply | [View on company site](https://job-boards.eu.greenhouse.io/feverup/jobs/4846371101) |
 
 ## About This Role
 
-This marketing position at Fever was posted on 2026-03-02.
+This growth marketing position at Fever was posted on 2026-04-21.
 
 ## Get Real-Time Alerts
 

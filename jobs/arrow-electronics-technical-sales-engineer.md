@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Arrow Electronics](https://scoutify.ai/companies/arrow-electronics?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Israel |
-| Category | Account Executive |
-| Posted | 2026-03-05 |
-| Apply | [View on company site](https://arrow.wd1.myworkdayjobs.com/ac/job/IL-Petah-Tikva-Israel-Shacham-Street/Technical-Sales-Engineer_R239029) |
+| Location | Warsaw, Mazovia, Poland |
+| Category | Sales Engineer |
+| Posted | 2026-04-21 |
+| Apply | [View on company site](https://arrow.wd1.myworkdayjobs.com/ac/job/PL-Warsaw-Poland-Krakowiakw/Technical-Sales-Engineer_R242713) |
 
 ## About This Role
 
-This account executive position at Arrow Electronics was posted on 2026-03-05.
+This sales engineer position at Arrow Electronics was posted on 2026-04-21.
 
 ## Get Real-Time Alerts
 

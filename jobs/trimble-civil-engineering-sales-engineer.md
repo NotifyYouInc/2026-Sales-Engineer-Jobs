@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Trimble](https://scoutify.ai/companies/trimble?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Finland |
+| Location | Belgium |
 | Category | Sales Engineer |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://trimble.wd1.myworkdayjobs.com/TrimbleCareers/job/UK---Remote/Civil-Engineering-Sales-Engineer_R54595-1) |
+| Posted | 2026-04-21 |
+| Apply | [View on company site](https://trimble.wd1.myworkdayjobs.com/TrimbleCareers/job/France---Remote/Civil-Engineering-Sales-Engineer_R55747) |
 
 ## About This Role
 
-This sales engineer position at Trimble was posted on 2026-02-18.
+This sales engineer position at Trimble was posted on 2026-04-21.
 
 ## Get Real-Time Alerts
 

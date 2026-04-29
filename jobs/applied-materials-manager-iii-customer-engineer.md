@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Applied Materials](https://scoutify.ai/companies/applied-materials?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Hiroshima, Hiroshima, Japan |
-| Category | Customer Success |
-| Posted | 2026-04-01 |
-| Apply | [View on company site](https://amat.wd1.myworkdayjobs.com/External/job/HiroshimaJPN/Manager-III--Customer-Engineer_R2616361) |
+| Location | 2 locations |
+| Category | Engineering Manager |
+| Posted | 2026-04-21 |
+| Apply | [View on company site](https://amat.wd1.myworkdayjobs.com/External/job/XianCHN/Manager-III--Customer-Engineer_R2617791) |
 
 ## About This Role
 
-This customer success position at Applied Materials was posted on 2026-04-01.
+This engineering manager position at Applied Materials was posted on 2026-04-21.
 
 ## Get Real-Time Alerts
 

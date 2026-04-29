@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Exclusivenetworks](https://scoutify.ai/companies/exclusivenetworks?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
-| Category | Channel / Partner Sales |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://exclusivenetworks.wd103.myworkdayjobs.com/exclusive-networks-career/job/Kuala-Lumpur/Channel-Sales-Engineer_JR1055-2) |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-04-22 |
+| Apply | [View on company site](https://exclusivenetworks.wd103.myworkdayjobs.com/exclusive-networks-career/job/Kuala-Lumpur/Channel-Sales-Engineer_JR1775-1) |
 
 ## About This Role
 
-This channel / partner sales position at Exclusivenetworks was posted on 2026-02-26.
+This technical & solutions architect position at Exclusivenetworks was posted on 2026-04-22.
 
 ## Get Real-Time Alerts
 

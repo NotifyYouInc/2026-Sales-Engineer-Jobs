@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Fil](https://scoutify.ai/companies/fil?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Karnataka, IN |
-| Category | Software Engineer |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://fil.wd3.myworkdayjobs.com/001/job/Gurgaon-Office/Technical-Specialist_J66370-1) |
+| Location | Gurugram, Haryana, India |
+| Category | Data Engineer |
+| Posted | 2026-04-22 |
+| Apply | [View on company site](https://fil.wd3.myworkdayjobs.com/001/job/Gurgaon-Office/Technical-Specialist_J65571-1) |
 
 ## About This Role
 
-This software engineer position at Fil was posted on 2026-04-20.
+This data engineer position at Fil was posted on 2026-04-22.
 
 ## Get Real-Time Alerts
 

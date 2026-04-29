@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Phoenix Contact](https://scoutify.ai/companies/phoenix-contact?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Chicago, Illinois, United States |
+| Location | Seattle, Washington, United States |
 | Category | Sales Engineer |
-| Posted | 2026-04-09 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/phoenixcontact/jobs/7690691003) |
+| Posted | 2026-04-21 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/phoenixcontact/jobs/7701956003) |
 
 ## About This Role
 
-This sales engineer position at Phoenix Contact was posted on 2026-04-09.
+This sales engineer position at Phoenix Contact was posted on 2026-04-21.
 
 ## Get Real-Time Alerts
 

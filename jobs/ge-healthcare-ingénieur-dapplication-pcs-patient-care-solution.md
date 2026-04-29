@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [GE HealthCare](https://scoutify.ai/companies/ge-healthcare?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Switzerland |
+| Location | 2 locations |
 | Category | Sales Engineer |
-| Posted | 2026-04-10 |
-| Apply | [View on company site](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Vandoeuvres/Ingnieur-d-Application-PCS--Patient-Care-Solution-_R4039518-1) |
+| Posted | 2026-04-21 |
+| Apply | [View on company site](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/La-Chapelle-sur-Erdre/Ingnieur-d-Application-PCS--Patient-Care-Solution-_R4037260-2) |
 
 ## About This Role
 
-This sales engineer position at GE HealthCare was posted on 2026-04-10.
+This sales engineer position at GE HealthCare was posted on 2026-04-21.
 
 ## Get Real-Time Alerts
 

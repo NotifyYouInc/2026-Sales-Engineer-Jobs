@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [IFS](https://scoutify.ai/companies/ifs?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Toronto, Ontario, Canada |
-| Category | Business Development |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/IFS1/744000110236665-solutions-consultant-pre-sales-copperleaf-canada) |
+| Location | Vancouver, British Columbia, Canada |
+| Category | Implementation / Professional Services |
+| Posted | 2026-04-21 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/IFS1/744000122030338-solutions-consultant-pre-sales-copperleaf-canada) |
 
 ## About This Role
 
-This business development position at IFS was posted on 2026-02-19.
+This implementation / professional services position at IFS was posted on 2026-04-21.
 
 ## Get Real-Time Alerts
 

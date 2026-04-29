@@ -1,16 +1,16 @@
-# Technical Solutions Engineer, Retail Media - EMEA at Criteo
+# Technical Solutions Engineer, Retail Media, EMEA at Criteo
 
 | Field | Details |
 |-------|---------|
 | Company | [Criteo](https://scoutify.ai/companies/criteo?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | India |
-| Category | Customer Success |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://criteo.wd3.myworkdayjobs.com/criteo_career_site/job/Gurgaon/Technical-Solutions-Engineer--Retail-Media---EMEA_r20230) |
+| Location | Barcelona, Catalonia, Spain |
+| Category | Sales Engineer |
+| Posted | 2026-04-21 |
+| Apply | [View on company site](https://criteo.wd3.myworkdayjobs.com/criteo_career_site/job/Barcelona/Technical-Solutions-Engineer--Retail-Media--EMEA_r20520-1) |
 
 ## About This Role
 
-This customer success position at Criteo was posted on 2026-04-16.
+This sales engineer position at Criteo was posted on 2026-04-21.
 
 ## Get Real-Time Alerts
 

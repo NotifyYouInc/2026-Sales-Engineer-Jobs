@@ -1,16 +1,16 @@
-# Presales, Systems Engineer III at Hewlett Packard Enterprise
+# Presales Systems Engineer III at Hewlett Packard Enterprise
 
 | Field | Details |
 |-------|---------|
 | Company | [Hewlett Packard Enterprise](https://scoutify.ai/companies/hewlett-packard-enterprise?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | California, US |
-| Category | Sales Engineer |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/All-California-United-States-of-America/Presales--Systems-Engineer-III_1198591) |
+| Location | New York City, New York, United States |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-04-21 |
+| Apply | [View on company site](https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/All-New-York-United-States-of-America/Presales-Systems-Engineer-III_1205232) |
 
 ## About This Role
 
-This sales engineer position at Hewlett Packard Enterprise was posted on 2026-02-25.
+This technical & solutions architect position at Hewlett Packard Enterprise was posted on 2026-04-21.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [New Relic](https://scoutify.ai/companies/new-relic?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | 5 locations |
-| Category | Business Development |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/newrelic/jobs/5141637008) |
+| Location | 9 locations |
+| Category | Implementation / Professional Services |
+| Posted | 2026-04-21 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/newrelic/jobs/5195950008) |
 
 ## About This Role
 
-This business development position at New Relic was posted on 2026-03-13.
+This implementation / professional services position at New Relic was posted on 2026-04-21.
 
 ## Get Real-Time Alerts
 

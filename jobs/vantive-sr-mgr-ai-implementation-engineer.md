@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Vantive](https://scoutify.ai/companies/vantive?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Jiutepec, Morelos, Mexico |
+| Location | Suzhou, Jiangsu, China |
 | Category | Sales Engineer |
-| Posted | 2026-04-09 |
-| Apply | [View on company site](https://vantive.wd108.myworkdayjobs.com/vantive/job/Jiutepec-Morelos/Sr-Mgr---AI-Implementation-Engineer_JR-192622) |
+| Posted | 2026-04-22 |
+| Apply | [View on company site](https://vantive.wd108.myworkdayjobs.com/vantive/job/Suzhou-Jiangsu/Sr-Mgr---AI-Implementation-Engineer_JR-192620) |
 
 ## About This Role
 
-This sales engineer position at Vantive was posted on 2026-04-09.
+This sales engineer position at Vantive was posted on 2026-04-22.
 
 ## Get Real-Time Alerts
 

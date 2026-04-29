@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Genesys](https://scoutify.ai/companies/genesys?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | São Paulo, São Paulo, Brazil |
+| Location | Tokyo, Tokyo, Japan |
 | Category | Customer Success |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://genesys.wd1.myworkdayjobs.com/Genesys/job/Sao-Paulo-Flexible/Senior-Technical-Account-Manager_JR110781-1) |
+| Posted | 2026-04-21 |
+| Apply | [View on company site](https://genesys.wd1.myworkdayjobs.com/Genesys/job/Tokyo-Flexible/Senior-Technical-Account-Manager_JR110662) |
 
 ## About This Role
 
-This customer success position at Genesys was posted on 2026-04-17.
+This customer success position at Genesys was posted on 2026-04-21.
 
 ## Get Real-Time Alerts
 

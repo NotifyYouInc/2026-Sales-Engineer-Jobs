@@ -5,12 +5,12 @@
 | Company | [Coderabbit](https://scoutify.ai/companies/coderabbit?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Boston, Massachusetts, United States |
 | Category | Sales Engineer |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/coderabbit/4b670f30-b138-490f-8e0b-89b770e58893) |
+| Posted | 2026-04-20 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/coderabbit/6ce16f52-729d-4342-9088-3f89904b2d3b) |
 
 ## About This Role
 
-This sales engineer position at Coderabbit was posted on 2026-04-17.
+This sales engineer position at Coderabbit was posted on 2026-04-20.
 
 ## Get Real-Time Alerts
 

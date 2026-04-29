@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Kansas, US |
-| Category | Sales |
-| Posted | 2026-02-10 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/jobs/results/117434742202081990-security-sales-specialist-sled-public-sector?sort_by=date&page=1) |
+| Location | California, Maryland, United States |
+| Category | Account Executive |
+| Posted | 2026-04-21 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckQmq_F8Sr9GVgSp4jwROlYIm2pBoGvflygdCqCyJZDOWEjsACxwdTIuSYzELXKOoDJTCFfU1T5LuxBpWpoj4_ZilqLwLN_AuxrZ7g2hRWpSTsa6aoOA_Mjan6Oy3AA%3D%3D_V2&loc=US&title=Security+Sales+Specialist) |
 
 ## About This Role
 
-This sales position at Google was posted on 2026-02-10.
+This account executive position at Google was posted on 2026-04-21.
 
 ## Get Real-Time Alerts
 

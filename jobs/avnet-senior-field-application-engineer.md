@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Avnet](https://scoutify.ai/companies/avnet?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Taiwan |
+| Location | Bayswater, Western Australia, Australia |
 | Category | Software Engineer |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://avnet.wd1.myworkdayjobs.com/external/job/Taipei-City-Taiwan/Senior-Field-Application-Engineer_JR-022424-1) |
+| Posted | 2026-04-21 |
+| Apply | [View on company site](https://avnet.wd1.myworkdayjobs.com/external/job/Bayswater-Victoria-Australia/Senior-Field-Application-Engineer_JR-022340) |
 
 ## About This Role
 
-This software engineer position at Avnet was posted on 2026-04-16.
+This software engineer position at Avnet was posted on 2026-04-21.
 
 ## Get Real-Time Alerts
 

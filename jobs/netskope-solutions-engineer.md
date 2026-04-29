@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Netskope](https://scoutify.ai/companies/netskope?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | St. Louis, Missouri, United States |
+| Location | Seoul, Seoul, South Korea |
 | Category | Sales Engineer |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://www.netskope.com/company/careers/open-positions/?gh_jid=7787015) |
+| Posted | 2026-04-21 |
+| Apply | [View on company site](https://www.netskope.com/company/careers/open-positions/?gh_jid=7824323) |
 
 ## About This Role
 
-This sales engineer position at Netskope was posted on 2026-04-17.
+This sales engineer position at Netskope was posted on 2026-04-21.
 
 ## Get Real-Time Alerts
 

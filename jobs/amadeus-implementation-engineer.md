@@ -5,12 +5,12 @@
 | Company | [Amadeus](https://scoutify.ai/companies/amadeus?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Warsaw, Mazovia, Poland |
 | Category | Customer Success |
-| Posted | 2026-03-23 |
-| Apply | [View on company site](https://amadeus.wd502.myworkdayjobs.com/jobs/job/Warsaw/Implementation-Engineer_R34365) |
+| Posted | 2026-04-21 |
+| Apply | [View on company site](https://amadeus.wd502.myworkdayjobs.com/jobs/job/Warsaw/Implementation-Engineer_R34809) |
 
 ## About This Role
 
-This customer success position at Amadeus was posted on 2026-03-23.
+This customer success position at Amadeus was posted on 2026-04-21.
 
 ## Get Real-Time Alerts
 

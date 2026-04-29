@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Hewlett Packard Enterprise](https://scoutify.ai/companies/hewlett-packard-enterprise?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Seattle, Washington, United States |
-| Category | Technology / IT Consulting |
-| Posted | 2026-03-27 |
-| Apply | [View on company site](https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/Seattle-Washington-United-States-of-America/Senior-5G-Technical-Consultant_1204065-1) |
+| Category | Customer Success |
+| Posted | 2026-04-21 |
+| Apply | [View on company site](https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/Seattle-Washington-United-States-of-America/Senior-5G-Technical-Consultant_1205535) |
 
 ## About This Role
 
-This technology / it consulting position at Hewlett Packard Enterprise was posted on 2026-03-27.
+This customer success position at Hewlett Packard Enterprise was posted on 2026-04-21.
 
 ## Get Real-Time Alerts
 
