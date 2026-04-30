@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Camping World](https://scoutify.ai/companies/campingworld?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Clermont, Florida, United States |
+| Location | Benton, Arkansas, United States |
 | Category | Customer Success |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://campingworld.wd5.myworkdayjobs.com/Jobs/job/Clermont-FL/Product-Specialist-Advisor_26_03547) |
+| Posted | 2026-04-21 |
+| Apply | [View on company site](https://campingworld.wd5.myworkdayjobs.com/Jobs/job/Benton-AR/Product-Specialist-Advisor_26_03964) |
 
 ## About This Role
 
-This customer success position at Camping World was posted on 2026-04-20.
+This customer success position at Camping World was posted on 2026-04-21.
 
 ## Get Real-Time Alerts
 

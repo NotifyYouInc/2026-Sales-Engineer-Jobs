@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Rockwell Automation](https://scoutify.ai/companies/rockwellautomation?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | 2 locations |
+| Location | 3 locations |
 | Category | Sales Engineer |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Gurgaon-India/Commercial-Engineer_R26-661) |
+| Posted | 2026-04-22 |
+| Apply | [View on company site](https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Sao-Paulo-Brazil/Commercial-Engineer_R26-2582) |
 
 ## About This Role
 
-This sales engineer position at Rockwell Automation was posted on 2026-02-17.
+This sales engineer position at Rockwell Automation was posted on 2026-04-22.
 
 ## Get Real-Time Alerts
 

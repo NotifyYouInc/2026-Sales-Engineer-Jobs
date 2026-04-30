@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [nVent](https://scoutify.ai/companies/nvent?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Italy |
+| Location | Raleigh, North Carolina, United States |
 | Category | Product Manager |
-| Posted | 2026-03-26 |
-| Apply | [View on company site](https://nvent.wd5.myworkdayjobs.com/nVent/job/Pegognaga-IT/Product-Specialist_R19650) |
+| Posted | 2026-04-22 |
+| Apply | [View on company site](https://nvent.wd5.myworkdayjobs.com/nVent/job/Raleigh-NC-US/Product-Specialist_R20827-1) |
 
 ## About This Role
 
-This product manager position at nVent was posted on 2026-03-26.
+This product manager position at nVent was posted on 2026-04-22.
 
 ## Get Real-Time Alerts
 

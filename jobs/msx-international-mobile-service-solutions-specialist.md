@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [MSX International](https://scoutify.ai/companies/msxinternational?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Phoenix, Arizona, United States |
+| Location | Albuquerque, New Mexico, United States |
 | Category | Customer Success |
-| Posted | 2026-04-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/MSXInternational/3743990012464626-mobile-service-solutions-specialist) |
+| Posted | 2026-04-22 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/MSXInternational/3743990012769006-mobile-service-solutions-specialist) |
 
 ## About This Role
 
-This customer success position at MSX International was posted on 2026-04-06.
+This customer success position at MSX International was posted on 2026-04-22.
 
 ## Get Real-Time Alerts
 

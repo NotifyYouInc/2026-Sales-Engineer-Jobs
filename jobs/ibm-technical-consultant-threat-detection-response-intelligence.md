@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Karnataka, IN |
-| Category | SOC & Incident Response |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=99498) |
+| Category | Security Engineer |
+| Posted | 2026-04-22 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=110215) |
 
 ## About This Role
 
-This soc & incident response position at IBM was posted on 2026-03-25.
+This security engineer position at IBM was posted on 2026-04-22.
 
 ## Get Real-Time Alerts
 

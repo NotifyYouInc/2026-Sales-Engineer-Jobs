@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Spectris](https://scoutify.ai/companies/spectris?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Canton, Michigan, United States |
+| Location | United States |
 | Category | Software Engineer |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://spectris.wd3.myworkdayjobs.com/hbk_careers/job/Canton-MI/Application-Engineer_16907) |
+| Posted | 2026-04-22 |
+| Apply | [View on company site](https://spectris.wd3.myworkdayjobs.com/hbk_careers/job/United-States---Remote/Application-Engineer_17576-1) |
 
 ## About This Role
 
-This software engineer position at Spectris was posted on 2026-02-26.
+This software engineer position at Spectris was posted on 2026-04-22.
 
 ## Get Real-Time Alerts
 

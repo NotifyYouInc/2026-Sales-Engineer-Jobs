@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Airwallex](https://scoutify.ai/companies/airwallex?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | San Francisco, California, United States |
+| Location | Shanghai, Shanghai, China |
 | Category | Customer Success |
-| Posted | 2026-03-12 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/airwallex/b8059bae-1a9e-4f4a-86f2-3eddb43d0d7e) |
+| Posted | 2026-04-22 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/airwallex/065caf94-4ec2-421b-95c2-ded5782abbef) |
 
 ## About This Role
 
-This customer success position at Airwallex was posted on 2026-03-12.
+This customer success position at Airwallex was posted on 2026-04-22.
 
 ## Get Real-Time Alerts
 

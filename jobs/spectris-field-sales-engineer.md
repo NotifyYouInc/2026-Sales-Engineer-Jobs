@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Spectris](https://scoutify.ai/companies/spectris?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | United Kingdom |
+| Location | Barcelona, Catalonia, Spain |
 | Category | Sales Engineer |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://spectris.wd3.myworkdayjobs.com/hbk_careers/job/Home-Working-GB/Field-Sales-Engineer_17354) |
+| Posted | 2026-04-21 |
+| Apply | [View on company site](https://spectris.wd3.myworkdayjobs.com/hbk_careers/job/Barcelona-ES/Account-Manager_15614) |
 
 ## About This Role
 
-This sales engineer position at Spectris was posted on 2026-04-16.
+This sales engineer position at Spectris was posted on 2026-04-21.
 
 ## Get Real-Time Alerts
 

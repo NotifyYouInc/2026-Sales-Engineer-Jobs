@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Diligent Corporation](https://scoutify.ai/companies/diligentcorporation?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Not specified |
+| Location | Sydney, New South Wales, Australia |
 | Category | Sales Engineer |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/diligentcorporation/jobs/5835955004) |
+| Posted | 2026-04-22 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/diligentcorporation/jobs/5978659004) |
 
 ## About This Role
 
-This sales engineer position at Diligent Corporation was posted on 2026-03-24.
+This sales engineer position at Diligent Corporation was posted on 2026-04-22.
 
 ## Get Real-Time Alerts
 

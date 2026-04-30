@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [IQVIA](https://scoutify.ai/companies/iqvia?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Germany |
+| Location | Rosenheim, Bavaria, Germany |
 | Category | Sales Engineer |
-| Posted | 2026-04-10 |
-| Apply | [View on company site](https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Freiburg-im-Breisgau-Baden-Wrttemberg-Germany/Pharmaberater-m-w-d-Immunologie_R1538521) |
+| Posted | 2026-04-22 |
+| Apply | [View on company site](https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Rosenheim-Bayern-Germany/Pharmaberater-m-w-d-Immunologie_R1517566) |
 
 ## About This Role
 
-This sales engineer position at IQVIA was posted on 2026-04-10.
+This sales engineer position at IQVIA was posted on 2026-04-22.
 
 ## Get Real-Time Alerts
 

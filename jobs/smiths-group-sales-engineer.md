@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Smiths Group](https://scoutify.ai/companies/smithsgroup?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Doddaballapura, Karnataka, India |
+| Location | Saudi Arabia |
 | Category | Sales Engineer |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SmithsGroup2/744000121226826-sales-engineer) |
+| Posted | 2026-04-22 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SmithsGroup2/744000122206746-sales-engineer) |
 
 ## About This Role
 
-This sales engineer position at Smiths Group was posted on 2026-04-16.
+This sales engineer position at Smiths Group was posted on 2026-04-22.
 
 ## Get Real-Time Alerts
 

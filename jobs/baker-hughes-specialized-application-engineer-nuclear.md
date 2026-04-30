@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Baker Hughes](https://scoutify.ai/companies/baker-hughes?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Texas, US |
+| Location | Houston, Texas, United States |
 | Category | Software Engineer |
-| Posted | 2026-03-30 |
-| Apply | [View on company site](https://bakerhughes.wd5.myworkdayjobs.com/BakerHughes/job/US-TX-10575-Red-Bluff-Road/Specialized-Application-Engineer---Nuclear_R161770-1) |
+| Posted | 2026-04-22 |
+| Apply | [View on company site](https://bakerhughes.wd5.myworkdayjobs.com/BakerHughes/job/US-TX-10575-Red-Bluff-Road/Specialized-Application-Engineer---Nuclear_R158465-1) |
 
 ## About This Role
 
-This software engineer position at Baker Hughes was posted on 2026-03-30.
+This software engineer position at Baker Hughes was posted on 2026-04-22.
 
 ## Get Real-Time Alerts
 

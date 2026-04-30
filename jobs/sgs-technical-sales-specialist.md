@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [SGS](https://scoutify.ai/companies/sgs?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Makati City, National Capital Region, Philippines |
+| Location | Philippines |
 | Category | Sales Engineer |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SGS/744000121131097-technical-sales-specialist) |
+| Posted | 2026-04-23 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SGS/744000122374329-technical-sales-specialist) |
 
 ## About This Role
 
-This sales engineer position at SGS was posted on 2026-04-16.
+This sales engineer position at SGS was posted on 2026-04-23.
 
 ## Get Real-Time Alerts
 

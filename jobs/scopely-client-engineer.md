@@ -5,12 +5,12 @@
 | Company | [Scopely](https://scoutify.ai/companies/scopely?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Shanghai, Shanghai, China |
 | Category | Mobile Engineer |
-| Posted | 2026-04-08 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/scopely/jobs/5123828008) |
+| Posted | 2026-04-23 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/scopely/jobs/5196235008) |
 
 ## About This Role
 
-This mobile engineer position at Scopely was posted on 2026-04-08.
+This mobile engineer position at Scopely was posted on 2026-04-23.
 
 ## Get Real-Time Alerts
 

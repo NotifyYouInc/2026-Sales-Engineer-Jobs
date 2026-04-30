@@ -1,16 +1,16 @@
-# Technical Sales Manager Water Treatment at Brenntag
+# Technical Sales Manager - Water Treatment at Brenntag
 
 | Field | Details |
 |-------|---------|
 | Company | [Brenntag](https://scoutify.ai/companies/brenntag?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Norway |
+| Location | 2 locations |
 | Category | Sales Engineer |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://brenntag.wd3.myworkdayjobs.com/brenntag_jobs/job/GralumNorway/Technical-Sales-Manager-Water-Treatment_JR109273) |
+| Posted | 2026-04-22 |
+| Apply | [View on company site](https://brenntag.wd3.myworkdayjobs.com/brenntag_jobs/job/LondonUnited-Kingdom/Technical-Sales-Manager---Water-Treatment_JR108084) |
 
 ## About This Role
 
-This sales engineer position at Brenntag was posted on 2026-04-16.
+This sales engineer position at Brenntag was posted on 2026-04-22.
 
 ## Get Real-Time Alerts
 

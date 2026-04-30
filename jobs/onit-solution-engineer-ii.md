@@ -1,16 +1,16 @@
-# Solution engineer II at Onit
+# Solution Engineer II at Onit
 
 | Field | Details |
 |-------|---------|
 | Company | [Onit](https://scoutify.ai/companies/onit?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Pune, Maharashtra, India |
-| Category | Software Engineer |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://jobs.lever.co/onit/c7a5e090-7621-4d68-8821-8716f0ec97be) |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-04-22 |
+| Apply | [View on company site](https://jobs.lever.co/onit/620fc7e6-1218-473a-b1be-dd6f2d4671fb) |
 
 ## About This Role
 
-This software engineer position at Onit was posted on 2026-04-14.
+This technical & solutions architect position at Onit was posted on 2026-04-22.
 
 ## Get Real-Time Alerts
 

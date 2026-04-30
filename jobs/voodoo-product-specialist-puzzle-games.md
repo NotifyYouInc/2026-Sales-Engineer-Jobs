@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Voodoo](https://scoutify.ai/companies/voodoo?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Paris, Île-de-France, France |
+| Location | Istanbul, Istanbul, Turkey |
 | Category | Product Manager |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/voodoo/d30bce47-a4ea-4160-bb53-d1250be69f9e) |
+| Posted | 2026-04-22 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/voodoo/f8f26f9b-d9cd-47d6-a1a5-3b77a50d6dc4) |
 
 ## About This Role
 
-This product manager position at Voodoo was posted on 2026-04-21.
+This product manager position at Voodoo was posted on 2026-04-22.
 
 ## Get Real-Time Alerts
 

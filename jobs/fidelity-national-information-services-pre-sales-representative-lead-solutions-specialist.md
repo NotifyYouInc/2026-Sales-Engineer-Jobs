@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Fidelity National Information Services](https://scoutify.ai/companies/fis?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Chicago, Illinois, United States |
+| Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
 | Category | Implementation / Professional Services |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://fis.wd5.myworkdayjobs.com/searchjobs/job/US-IL-CHI-222-STE-1700/Pre-Sales-Representative-Lead--Solutions-Specialist_JR0304833-1) |
+| Posted | 2026-04-23 |
+| Apply | [View on company site](https://fis.wd5.myworkdayjobs.com/searchjobs/job/MYS-KUAL-STE1003/Pre-Sales-Representative-Lead--Solutions-Specialist_JR0306780) |
 
 ## About This Role
 
-This implementation / professional services position at Fidelity National Information Services was posted on 2026-04-20.
+This implementation / professional services position at Fidelity National Information Services was posted on 2026-04-23.
 
 ## Get Real-Time Alerts
 

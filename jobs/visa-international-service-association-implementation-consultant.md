@@ -5,12 +5,12 @@
 | Company | [Visa International Service Association](https://scoutify.ai/companies/visainternationalserviceassociation?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Bogotá, Bogota D.C., Colombia |
 | Category | Customer Success |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Visa/744000121888867-implementation-consultant) |
+| Posted | 2026-04-22 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Visa/744000122310469-implementation-consultant) |
 
 ## About This Role
 
-This customer success position at Visa International Service Association was posted on 2026-04-20.
+This customer success position at Visa International Service Association was posted on 2026-04-22.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Thermo Fisher Scientific](https://scoutify.ai/companies/thermo-fisher-scientific?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | South Africa |
+| Location | United Arab Emirates |
 | Category | Sales Engineer |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Remote-South-Africa/Technical-Sales-Specialist_R-01347906) |
+| Posted | 2026-04-22 |
+| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Remote-United-Arab-Emirates/Technical-Sales-Specialist_R-01349543) |
 
 ## About This Role
 
-This sales engineer position at Thermo Fisher Scientific was posted on 2026-04-20.
+This sales engineer position at Thermo Fisher Scientific was posted on 2026-04-22.
 
 ## Get Real-Time Alerts
 
