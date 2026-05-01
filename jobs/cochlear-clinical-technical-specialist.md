@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cochlear](https://scoutify.ai/companies/cochlear?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Istanbul, Istanbul, Turkey |
+| Location | Riyadh, Riyadh Region, Saudi Arabia |
 | Category | Customer Success |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://cochlear.wd3.myworkdayjobs.com/cochlear_careers/job/TR-Istanbul-Service-Point/Clinical-Technical-Specialist_R-623179) |
+| Posted | 2026-04-23 |
+| Apply | [View on company site](https://cochlear.wd3.myworkdayjobs.com/cochlear_careers/job/Riyadh-Saudi-Arabia/Clinical-Technical-Specialist_R-623460) |
 
 ## About This Role
 
-This customer success position at Cochlear was posted on 2026-03-03.
+This customer success position at Cochlear was posted on 2026-04-23.
 
 ## Get Real-Time Alerts
 

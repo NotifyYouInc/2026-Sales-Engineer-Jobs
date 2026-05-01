@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Applied Materials](https://scoutify.ai/companies/applied-materials?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Santa Clara, California, United States |
+| Location | Hsinchu, Taiwan, Taiwan |
 | Category | Sales Engineer |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Account-Technologist-IV_R2616673-1) |
+| Posted | 2026-04-24 |
+| Apply | [View on company site](https://amat.wd1.myworkdayjobs.com/External/job/HsinchuTWN/Account-Technologist-IV_R2618510) |
 
 ## About This Role
 
-This sales engineer position at Applied Materials was posted on 2026-04-15.
+This sales engineer position at Applied Materials was posted on 2026-04-24.
 
 ## Get Real-Time Alerts
 

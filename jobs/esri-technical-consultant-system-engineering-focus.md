@@ -1,16 +1,16 @@
-# Technical Consultant (System Engineering focus) at Esri
+# Technical Consultant - System Engineering focus at Esri
 
 | Field | Details |
 |-------|---------|
 | Company | [Esri](https://scoutify.ai/companies/esri?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | 7 locations |
-| Category | Technology / IT Consulting |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://www.esri.com/careers/5057319007?gh_jid=5057319007) |
+| Location | 2 locations |
+| Category | Customer Success |
+| Posted | 2026-04-23 |
+| Apply | [View on company site](https://www.esri.com/careers/5119380007?gh_jid=5119380007) |
 
 ## About This Role
 
-This technology / it consulting position at Esri was posted on 2026-02-19.
+This customer success position at Esri was posted on 2026-04-23.
 
 ## Get Real-Time Alerts
 

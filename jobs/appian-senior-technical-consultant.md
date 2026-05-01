@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Appian](https://scoutify.ai/companies/appian?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | McLean, Virginia, United States |
-| Category | Customer Success |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/appian/jobs/7837441) |
+| Location | Raleigh, North Carolina, United States |
+| Category | Technology / IT Consulting |
+| Posted | 2026-04-23 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/appian/jobs/7847010) |
 
 ## About This Role
 
-This customer success position at Appian was posted on 2026-04-21.
+This technology / it consulting position at Appian was posted on 2026-04-23.
 
 ## Get Real-Time Alerts
 

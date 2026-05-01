@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Workday](https://scoutify.ai/companies/workday?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Zapopan, Jalisco, Mexico |
+| Location | Tel Aviv, Tel Aviv, Israel |
 | Category | Customer Success |
-| Posted | 2026-04-09 |
-| Apply | [View on company site](https://workday.wd5.myworkdayjobs.com/Workday/job/MEXZapopan/Technical-Integration-Consultant_JR-0106223) |
+| Posted | 2026-04-23 |
+| Apply | [View on company site](https://workday.wd5.myworkdayjobs.com/Workday/job/Israel-Tel-Aviv/Technical-Integration-Consultant_JR-0105929) |
 
 ## About This Role
 
-This customer success position at Workday was posted on 2026-04-09.
+This customer success position at Workday was posted on 2026-04-23.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Monolithic Power Systems](https://scoutify.ai/companies/monolithic-power-systems?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | San Jose, California, United States |
-| Category | Account Executive |
-| Posted | 2026-03-12 |
-| Apply | [View on company site](https://monolithicpower.wd12.myworkdayjobs.com/mps_careers/job/San-Jose-CA/Sr-Technical-Sales-Engineer_R-1205) |
+| Category | Sales Engineer |
+| Posted | 2026-04-23 |
+| Apply | [View on company site](https://monolithicpower.wd12.myworkdayjobs.com/mps_careers/job/San-Jose-CA/Sr-Technical-Sales-Engineer_R-1357) |
 
 ## About This Role
 
-This account executive position at Monolithic Power Systems was posted on 2026-03-12.
+This sales engineer position at Monolithic Power Systems was posted on 2026-04-23.
 
 ## Get Real-Time Alerts
 

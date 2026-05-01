@@ -5,12 +5,12 @@
 | Company | [Wabtec](https://scoutify.ai/companies/wabtec?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Singapore, Singapore |
 | Category | Account Executive |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wabtec/3743990012764176-sales-specialist-ani) |
+| Posted | 2026-04-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Wabtec/3743990012802716-sales-specialist-ani) |
 
 ## About This Role
 
-This account executive position at Wabtec was posted on 2026-04-22.
+This account executive position at Wabtec was posted on 2026-04-24.
 
 ## Get Real-Time Alerts
 

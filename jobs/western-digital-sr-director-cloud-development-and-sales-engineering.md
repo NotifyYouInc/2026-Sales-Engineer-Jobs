@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Western Digital](https://scoutify.ai/companies/westerndigital?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | San Jose, California, United States |
+| Location | Durham, North Carolina, United States |
 | Category | Sales Engineer |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/WesternDigital/744000112535527-sr-director-cloud-development-and-sales-engineering) |
+| Posted | 2026-04-23 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/WesternDigital/744000122496190-sr-director-cloud-development-and-sales-engineering) |
 
 ## About This Role
 
-This sales engineer position at Western Digital was posted on 2026-03-03.
+This sales engineer position at Western Digital was posted on 2026-04-23.
 
 ## Get Real-Time Alerts
 

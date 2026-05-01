@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Boyd Gaming](https://scoutify.ai/companies/boydgaming?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | United States |
+| Location | Vinton, Virginia, United States |
 | Category | IT & Systems Administration |
-| Posted | 2026-03-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoydGaming/3743990012004989-it-field-engineer-ii) |
+| Posted | 2026-04-23 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoydGaming/3743990012800746-it-field-engineer-ii) |
 
 ## About This Role
 
-This it & systems administration position at Boyd Gaming was posted on 2026-03-05.
+This it & systems administration position at Boyd Gaming was posted on 2026-04-23.
 
 ## Get Real-Time Alerts
 

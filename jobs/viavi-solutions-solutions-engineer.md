@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Viavi Solutions](https://scoutify.ai/companies/viavisolutions?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Wichita, Kansas, United States |
-| Category | Account Executive |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://viavisolutions.wd1.myworkdayjobs.com/careers/job/Wichita-KS-USA/Solutions-Engineer_260004284-1) |
+| Location | Taipei, Taiwan, Taiwan |
+| Category | Sales Engineer |
+| Posted | 2026-04-24 |
+| Apply | [View on company site](https://viavisolutions.wd1.myworkdayjobs.com/careers/job/Taipei-TWN/Solutions-Engineer_260004576-3) |
 
 ## About This Role
 
-This account executive position at Viavi Solutions was posted on 2026-03-25.
+This sales engineer position at Viavi Solutions was posted on 2026-04-24.
 
 ## Get Real-Time Alerts
 

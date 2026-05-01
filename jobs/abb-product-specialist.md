@@ -1,16 +1,16 @@
-# Product specialist at ABB
+# Product Specialist at ABB
 
 | Field | Details |
 |-------|---------|
 | Company | [ABB](https://scoutify.ai/companies/abb?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Xiamen, Fujian, China |
-| Category | Marketing |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Xiamen-Fujian-China/Product-specialist_JR00031460-4) |
+| Location | Skien, Telemark, Norway |
+| Category | Product Manager |
+| Posted | 2026-04-23 |
+| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Skien-Telemark-Norway/Product-Specialist_JR00026252) |
 
 ## About This Role
 
-This marketing position at ABB was posted on 2026-04-20.
+This product manager position at ABB was posted on 2026-04-23.
 
 ## Get Real-Time Alerts
 

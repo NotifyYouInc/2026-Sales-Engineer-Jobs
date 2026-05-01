@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [VTEX](https://scoutify.ai/companies/vtex?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Mexico City, Mexico City, Mexico |
+| Location | 2 locations |
 | Category | Sales Engineer |
-| Posted | 2026-03-16 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/vtex/jobs/5829070004) |
+| Posted | 2026-04-23 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/vtex/jobs/5980040004) |
 
 ## About This Role
 
-This sales engineer position at VTEX was posted on 2026-03-16.
+This sales engineer position at VTEX was posted on 2026-04-23.
 
 ## Get Real-Time Alerts
 

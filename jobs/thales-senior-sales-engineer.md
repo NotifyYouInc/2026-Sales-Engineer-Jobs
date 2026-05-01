@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Thales](https://scoutify.ai/companies/thales?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Melbourne, Victoria, Australia |
-| Category | Sales Engineer |
-| Posted | 2026-03-05 |
-| Apply | [View on company site](https://thales.wd3.myworkdayjobs.com/Careers/job/VIC---80-Collins/Senior-Sales-Engineer_R0315655) |
+| Location | Mumbai, Maharashtra, India |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-04-23 |
+| Apply | [View on company site](https://thales.wd3.myworkdayjobs.com/Careers/job/MUMBAI/Senior-Sales-Engineer_R0306823-1) |
 
 ## About This Role
 
-This sales engineer position at Thales was posted on 2026-03-05.
+This technical & solutions architect position at Thales was posted on 2026-04-23.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [GE HealthCare](https://scoutify.ai/companies/ge-healthcare?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Shanghai, Shanghai, China |
-| Category | Sales |
-| Posted | 2026-02-10 |
-| Apply | [View on company site](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Shanghai/Product-Sales-Specialist_R4036133-1) |
+| Location | Jinan, Shandong, China |
+| Category | Account Executive |
+| Posted | 2026-04-23 |
+| Apply | [View on company site](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Jinan/Product-Sales-Specialist_R4040205-1) |
 
 ## About This Role
 
-This sales position at GE HealthCare was posted on 2026-02-10.
+This account executive position at GE HealthCare was posted on 2026-04-23.
 
 ## Get Real-Time Alerts
 

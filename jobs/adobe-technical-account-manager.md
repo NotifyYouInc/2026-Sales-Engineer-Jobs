@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Adobe](https://scoutify.ai/companies/adobe-inc?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | 3 locations |
+| Location | Tokyo, Tokyo, Japan |
 | Category | Customer Success |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Remote-Germany/Technical-Account-Manager_R167799) |
+| Posted | 2026-04-23 |
+| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Tokyo/Technical-Account-Manager_R167891) |
 
 ## About This Role
 
-This customer success position at Adobe was posted on 2026-04-20.
+This customer success position at Adobe was posted on 2026-04-23.
 
 ## Get Real-Time Alerts
 
