@@ -6,7 +6,7 @@
 | Location | El Segundo, California, United States |
 | Category | Customer Success |
 | Posted | 2026-04-23 |
-| Apply | [View on company site](https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/Infrared-Laboratory-Technical-Specialist--III-IV_R015167) |
+| Apply | [View on company site](https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/Infrared-Laboratory-Technical-Specialist--III-IV_R015192) |
 
 ## About This Role
 

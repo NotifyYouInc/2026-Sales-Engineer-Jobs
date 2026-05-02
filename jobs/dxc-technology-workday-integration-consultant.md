@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [DXC Technology](https://scoutify.ai/companies/dxctechnology?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Location | National Capital Region, PH |
 | Category | Software Engineer |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/IND---AP---HYDERABAD/Workday-Integration-Consultant_51576254) |
+| Posted | 2026-04-24 |
+| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/PHL---TAGUIG-CITY/Workday-Integration-Consultant_51578988) |
 
 ## About This Role
 
-This software engineer position at DXC Technology was posted on 2026-04-13.
+This software engineer position at DXC Technology was posted on 2026-04-24.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Crane Co.](https://scoutify.ai/companies/cranecompany?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | The Woodlands, Texas, United States |
+| Location | Canada |
 | Category | Sales Engineer |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://cranecompany.wd5.myworkdayjobs.com/Careers/job/The-Woodlands-Texas/Sales-Engineer_JR101551) |
+| Posted | 2026-04-24 |
+| Apply | [View on company site](https://cranecompany.wd5.myworkdayjobs.com/Careers/job/71000-CAN7007-CPE-Alberta/Sales-Engineer_JR101559) |
 
 ## About This Role
 
-This sales engineer position at Crane Co. was posted on 2026-04-22.
+This sales engineer position at Crane Co. was posted on 2026-04-24.
 
 ## Get Real-Time Alerts
 

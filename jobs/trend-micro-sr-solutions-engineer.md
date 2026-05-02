@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Trend Micro](https://scoutify.ai/companies/trendmicro?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | United States |
-| Category | Sales Engineer |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://trendmicro.wd3.myworkdayjobs.com/External/job/US-Off-Site/Sr-Solutions-Engineer_R0009517) |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-04-24 |
+| Apply | [View on company site](https://trendmicro.wd3.myworkdayjobs.com/External/job/US-Off-Site/Sr-Solutions-Engineer_R0009574) |
 
 ## About This Role
 
-This sales engineer position at Trend Micro was posted on 2026-04-17.
+This technical & solutions architect position at Trend Micro was posted on 2026-04-24.
 
 ## Get Real-Time Alerts
 

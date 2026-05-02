@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [SHI International](https://scoutify.ai/companies/shi-international?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Oregon, US |
-| Category | Technical & Solutions Architect |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://shi.wd12.myworkdayjobs.com/shicareers/job/US---OR---Home-Office/Presales-Solutions-Engineer---Network_JR2955) |
+| Location | Denver, Colorado, United States |
+| Category | Sales Engineer |
+| Posted | 2026-04-24 |
+| Apply | [View on company site](https://shi.wd12.myworkdayjobs.com/shicareers/job/US---CO---Home-Office/Presales-Solutions-Engineer---Network_JR2978) |
 
 ## About This Role
 
-This technical & solutions architect position at SHI International was posted on 2026-04-22.
+This sales engineer position at SHI International was posted on 2026-04-24.
 
 ## Get Real-Time Alerts
 

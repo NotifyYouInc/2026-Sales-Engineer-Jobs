@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [The Nielsen Company](https://scoutify.ai/companies/thenielsencompany?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | California, US |
-| Category | Implementation / Professional Services |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/TheNielsenCompany/3743990012681616-senior-solutions-consultant-pre-sales-i) |
+| Location | New York City, New York, United States |
+| Category | Sales Leadership |
+| Posted | 2026-04-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/TheNielsenCompany/3743990012813068-senior-solutions-consultant-pre-sales-i) |
 
 ## About This Role
 
-This implementation / professional services position at The Nielsen Company was posted on 2026-04-20.
+This sales leadership position at The Nielsen Company was posted on 2026-04-24.
 
 ## Get Real-Time Alerts
 

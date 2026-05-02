@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Air Products](https://scoutify.ai/companies/airproducts?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Wenquan, Chongqing, China |
-| Category | Account Executive |
-| Posted | 2026-03-30 |
-| Apply | [View on company site](https://airproducts.wd5.myworkdayjobs.com/AP0001/job/Wenquan-Beijing/PG-Sales-Engineer_JR-2026-19905) |
+| Location | Wuxi, Jiangsu, China |
+| Category | Sales Engineer |
+| Posted | 2026-04-24 |
+| Apply | [View on company site](https://airproducts.wd5.myworkdayjobs.com/AP0001/job/Wuxi-Jiangsu/PG-Sales-Engineer_JR-2026-19177) |
 
 ## About This Role
 
-This account executive position at Air Products was posted on 2026-03-30.
+This sales engineer position at Air Products was posted on 2026-04-24.
 
 ## Get Real-Time Alerts
 

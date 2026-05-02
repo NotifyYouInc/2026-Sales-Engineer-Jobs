@@ -5,12 +5,12 @@
 | Company | [TD Synnex](https://scoutify.ai/companies/synnex?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Malaysia |
 | Category | Sales Engineer |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://synnex.wd5.myworkdayjobs.com/tdsynnexcareers/job/Penang-Malaysia/Technical-Sales_R50040) |
+| Posted | 2026-04-24 |
+| Apply | [View on company site](https://synnex.wd5.myworkdayjobs.com/tdsynnexcareers/job/Sabah-Malaysia/Technical-Sales_R50083) |
 
 ## About This Role
 
-This sales engineer position at TD Synnex was posted on 2026-04-17.
+This sales engineer position at TD Synnex was posted on 2026-04-24.
 
 ## Get Real-Time Alerts
 

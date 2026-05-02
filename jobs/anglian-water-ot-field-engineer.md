@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Anglian Water](https://scoutify.ai/companies/awg?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | 3 locations |
+| Location | 4 locations |
 | Category | Industrial Automation |
-| Posted | 2026-04-02 |
-| Apply | [View on company site](https://awg.wd3.myworkdayjobs.com/AW/job/Lincoln/OT-Field-Engineer_DC174b-1) |
+| Posted | 2026-04-24 |
+| Apply | [View on company site](https://awg.wd3.myworkdayjobs.com/AW/job/Colchester/OT-Field-Engineer_R37056-1) |
 
 ## About This Role
 
-This industrial automation position at Anglian Water was posted on 2026-04-02.
+This industrial automation position at Anglian Water was posted on 2026-04-24.
 
 ## Get Real-Time Alerts
 

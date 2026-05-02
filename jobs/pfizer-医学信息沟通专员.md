@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Pfizer](https://scoutify.ai/companies/pfizer?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Heilongjiang, CN |
+| Location | Shanghai, Shanghai, China |
 | Category | Sales Engineer |
 | Posted | 2026-04-23 |
-| Apply | [View on company site](https://pfizer.wd1.myworkdayjobs.com/PfizerCareers/job/China---Heilongjiang---Haerbin/_4952096) |
+| Apply | [View on company site](https://pfizer.wd1.myworkdayjobs.com/PfizerCareers/job/China---Shanghai---Shanghai/_4951512) |
 
 ## About This Role
 

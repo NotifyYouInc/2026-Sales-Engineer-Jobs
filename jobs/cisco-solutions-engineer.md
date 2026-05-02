@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Memphis, Tennessee, United States |
+| Location | Atlanta, Georgia, United States |
 | Category | Sales Engineer |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Memphis-Tennessee-US/Solutions-Engineer_2012720) |
+| Posted | 2026-04-23 |
+| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Atlanta-Georgia-US/Solutions-Engineer_2012990-1) |
 
 ## About This Role
 
-This sales engineer position at Cisco was posted on 2026-04-22.
+This sales engineer position at Cisco was posted on 2026-04-23.
 
 ## Get Real-Time Alerts
 

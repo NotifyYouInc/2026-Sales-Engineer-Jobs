@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Humana](https://scoutify.ai/companies/humana?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Kentucky, US |
+| Location | 2 locations |
 | Category | DevOps Engineer |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://humana.wd5.myworkdayjobs.com/Humana_External_Career_Site/job/Work-at-Home---Kentucky/Lead-Cloud-Solutions-Engineer_R-406246) |
+| Posted | 2026-04-24 |
+| Apply | [View on company site](https://humana.wd5.myworkdayjobs.com/Humana_External_Career_Site/job/Louisville-KY/Lead-Cloud-Solutions-Engineer_R-414091) |
 
 ## About This Role
 
-This devops engineer position at Humana was posted on 2026-04-15.
+This devops engineer position at Humana was posted on 2026-04-24.
 
 ## Get Real-Time Alerts
 

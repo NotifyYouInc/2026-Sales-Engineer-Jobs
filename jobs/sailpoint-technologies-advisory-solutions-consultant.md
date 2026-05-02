@@ -5,12 +5,12 @@
 | Company | [SailPoint Technologies](https://scoutify.ai/companies/sailpoint-technologies?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Germany |
 | Category | Implementation / Professional Services |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://sailpoint.wd1.myworkdayjobs.com/sailpoint/job/Remote-Germany/Advisory-Solutions-Consultant_R013089-1) |
+| Posted | 2026-04-24 |
+| Apply | [View on company site](https://sailpoint.wd1.myworkdayjobs.com/sailpoint/job/Remote-Germany/Advisory-Solutions-Consultant_R013156) |
 
 ## About This Role
 
-This implementation / professional services position at SailPoint Technologies was posted on 2026-04-15.
+This implementation / professional services position at SailPoint Technologies was posted on 2026-04-24.
 
 ## Get Real-Time Alerts
 

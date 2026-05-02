@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [SHI International](https://scoutify.ai/companies/shi-international?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Austin, Texas, United States |
-| Category | Sales Engineer |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://shi.wd12.myworkdayjobs.com/shicareers/job/US---Remote/Presales-Solutions-Engineer---Security_JR2662-1) |
+| Category | Security Engineer |
+| Posted | 2026-04-24 |
+| Apply | [View on company site](https://shi.wd12.myworkdayjobs.com/shicareers/job/US---TX---Home-Office/Presales-Solutions-Engineer---Security_JR2979) |
 
 ## About This Role
 
-This sales engineer position at SHI International was posted on 2026-03-02.
+This security engineer position at SHI International was posted on 2026-04-24.
 
 ## Get Real-Time Alerts
 

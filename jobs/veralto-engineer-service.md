@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Veralto](https://scoutify.ai/companies/veralto?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Jodhpur, Rajasthan, India |
+| Location | 2 locations |
 | Category | Sales Engineer |
 | Posted | 2026-04-23 |
-| Apply | [View on company site](https://veralto.wd1.myworkdayjobs.com/hachjobs/job/Rajasthan-India/Engineer---Service_R10265890) |
+| Apply | [View on company site](https://veralto.wd1.myworkdayjobs.com/hachjobs/job/Gujarat-India/Engineer---Service_R10265892) |
 
 ## About This Role
 

@@ -1,16 +1,16 @@
-# Hospital Surgical Rep (HS), Allergan Aesthetics, Orlando S. FL  at AbbVie
+# Hospital Surgical Rep (HS), Allergan Aesthetics, Orlando S. FL at AbbVie
 
 | Field | Details |
 |-------|---------|
 | Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Orlando, Florida, United States |
 | Category | Sales Engineer |
-| Posted | 2026-04-08 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012504121-hospital-surgical-rep-hs-allergan-aesthetics-orlando-s-fl) |
+| Posted | 2026-04-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012806366-hospital-surgical-rep-hs-allergan-aesthetics-orlando-s-fl) |
 
 ## About This Role
 
-This sales engineer position at AbbVie was posted on 2026-04-08.
+This sales engineer position at AbbVie was posted on 2026-04-24.
 
 ## Get Real-Time Alerts
 
