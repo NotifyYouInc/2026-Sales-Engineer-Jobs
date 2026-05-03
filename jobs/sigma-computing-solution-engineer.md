@@ -1,16 +1,16 @@
-# Senior Partner Engineer, Snowflake Alliance at Sigma Computing
+# Solution Engineer   at Sigma Computing
 
 | Field | Details |
 |-------|---------|
 | Company | [Sigma Computing](https://scoutify.ai/companies/sigma-computing?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | San Francisco, California, United States |
-| Category | Technical & Solutions Architect |
+| Location | United States |
+| Category | Sales Engineer |
 | Posted | 2026-04-25 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/sigmacomputing/jobs/7714478003) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/sigmacomputing/jobs/7714465003) |
 
 ## About This Role
 
-This technical & solutions architect position at Sigma Computing was posted on 2026-04-25.
+This sales engineer position at Sigma Computing was posted on 2026-04-25.
 
 ## Get Real-Time Alerts
 

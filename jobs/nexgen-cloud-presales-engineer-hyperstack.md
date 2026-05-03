@@ -1,16 +1,16 @@
-# Senior Partner Engineer, Snowflake Alliance at Sigma Computing
+# Presales Engineer Hyperstack  at NexGen Cloud
 
 | Field | Details |
 |-------|---------|
-| Company | [Sigma Computing](https://scoutify.ai/companies/sigma-computing?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | San Francisco, California, United States |
+| Company | [NexGen Cloud](https://scoutify.ai/companies/nexgen-cloud?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
+| Location | London, England, United Kingdom |
 | Category | Technical & Solutions Architect |
 | Posted | 2026-04-25 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/sigmacomputing/jobs/7714478003) |
+| Apply | [View on company site](https://job-boards.eu.greenhouse.io/nexgencloud/jobs/4770872101) |
 
 ## About This Role
 
-This technical & solutions architect position at Sigma Computing was posted on 2026-04-25.
+This technical & solutions architect position at NexGen Cloud was posted on 2026-04-25.
 
 ## Get Real-Time Alerts
 
