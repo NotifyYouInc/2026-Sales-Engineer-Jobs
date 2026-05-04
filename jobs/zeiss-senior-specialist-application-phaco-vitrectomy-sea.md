@@ -1,16 +1,16 @@
-# Technical Field Engineer at Unisys
+# Senior / Specialist, Application, Phaco & Vitrectomy, SEA at Zeiss
 
 | Field | Details |
 |-------|---------|
-| Company | [Unisys](https://scoutify.ai/companies/unisys?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
+| Company | [Zeiss](https://scoutify.ai/companies/zeissgroup?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Singapore, Singapore |
-| Category | Customer Success |
+| Category | Sales Engineer |
 | Posted | 2026-04-27 |
-| Apply | [View on company site](https://unisys.wd5.myworkdayjobs.com/External/job/Multi-Client-Singapore/Technical-Field-Engineer_REQ572182) |
+| Apply | [View on company site](https://zeissgroup.wd3.myworkdayjobs.com/External/job/Singapore/Senior---Specialist--Application--Phaco---Vitrectomy--SEA_JR_1048850) |
 
 ## About This Role
 
-This customer success position at Unisys was posted on 2026-04-27.
+This sales engineer position at Zeiss was posted on 2026-04-27.
 
 ## Get Real-Time Alerts
 

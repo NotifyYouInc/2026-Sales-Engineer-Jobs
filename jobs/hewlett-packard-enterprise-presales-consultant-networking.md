@@ -1,12 +1,12 @@
-# Senior Presales Systems Engineer at Hewlett Packard Enterprise
+# Presales Consultant - Networking at Hewlett Packard Enterprise
 
 | Field | Details |
 |-------|---------|
 | Company | [Hewlett Packard Enterprise](https://scoutify.ai/companies/hewlett-packard-enterprise?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Florida, PR |
+| Location | Kaohsiung, Takao, Taiwan |
 | Category | Sales Engineer |
 | Posted | 2026-04-27 |
-| Apply | [View on company site](https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/All-Florida-United-States-of-America/Senior-Presales-Systems-Engineer_1205877) |
+| Apply | [View on company site](https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/Kaohsiung-Kaohsiung-City-Taiwan/Presales-Consultant---Networking_1205029) |
 
 ## About This Role
 
