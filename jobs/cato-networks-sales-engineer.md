@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cato Networks](https://scoutify.ai/companies/cato-networks?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Maharashtra, IN |
+| Location | 3 locations |
 | Category | Sales Engineer |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://www.catonetworks.com/careers/careers-post/4841914101?gh_jid=4841914101) |
+| Posted | 2026-04-27 |
+| Apply | [View on company site](https://www.catonetworks.com/careers/careers-post/4851554101?gh_jid=4851554101) |
 
 ## About This Role
 
-This sales engineer position at Cato Networks was posted on 2026-04-21.
+This sales engineer position at Cato Networks was posted on 2026-04-27.
 
 ## Get Real-Time Alerts
 

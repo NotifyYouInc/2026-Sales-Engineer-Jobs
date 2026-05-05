@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Intapp](https://scoutify.ai/companies/intapp?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | London, England, United Kingdom |
+| Location | New York City, New York, United States |
 | Category | Implementation / Professional Services |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://intapp.wd1.myworkdayjobs.com/Intapp/job/London-UK/Senior-Solutions-Consultant_R2024850-1) |
+| Posted | 2026-04-27 |
+| Apply | [View on company site](https://intapp.wd1.myworkdayjobs.com/Intapp/job/US-NJ-Metro-Remote/Senior-Solutions-Consultant_R2024953-1) |
 
 ## About This Role
 
-This implementation / professional services position at Intapp was posted on 2026-03-24.
+This implementation / professional services position at Intapp was posted on 2026-04-27.
 
 ## Get Real-Time Alerts
 

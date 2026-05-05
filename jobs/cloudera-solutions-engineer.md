@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cloudera](https://scoutify.ai/companies/cloudera?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Stockholm, Stockholm, Sweden |
-| Category | Sales Engineer |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://cloudera.wd5.myworkdayjobs.com/External_Career/job/Sweden-Stockholm/Solutions-Engineer_260537-1) |
+| Location | New York City, New York, United States |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-04-27 |
+| Apply | [View on company site](https://cloudera.wd5.myworkdayjobs.com/External_Career/job/US-Georgia-Remote/Sales-Engineer_260616-1) |
 
 ## About This Role
 
-This sales engineer position at Cloudera was posted on 2026-04-20.
+This technical & solutions architect position at Cloudera was posted on 2026-04-27.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Xylem](https://scoutify.ai/companies/xylem?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | 3 locations |
+| Location | Törökbálint, Pest County, Hungary |
 | Category | Software Engineer |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://xylem.wd5.myworkdayjobs.com/xylem-careers/job/Lainate/Application-Engineer_R46151) |
+| Posted | 2026-04-27 |
+| Apply | [View on company site](https://xylem.wd5.myworkdayjobs.com/xylem-careers/job/Trkblint/Application-Engineer_R47372) |
 
 ## About This Role
 
-This software engineer position at Xylem was posted on 2026-04-21.
+This software engineer position at Xylem was posted on 2026-04-27.
 
 ## Get Real-Time Alerts
 

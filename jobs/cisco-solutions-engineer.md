@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Atlanta, Georgia, United States |
-| Category | Sales Engineer |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Atlanta-Georgia-US/Solutions-Engineer_2012990-1) |
+| Location | Minato, Wakayama, Japan |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-04-26 |
+| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Minato-Japan/Solutions-Engineer_2010739) |
 
 ## About This Role
 
-This sales engineer position at Cisco was posted on 2026-04-23.
+This technical & solutions architect position at Cisco was posted on 2026-04-26.
 
 ## Get Real-Time Alerts
 

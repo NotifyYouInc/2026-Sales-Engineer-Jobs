@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Cairo, Cairo, Egypt |
-| Category | Channel / Partner Sales |
-| Posted | 2026-03-12 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=102352) |
+| Category | Sales Engineer |
+| Posted | 2026-04-27 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=112118) |
 
 ## About This Role
 
-This channel / partner sales position at IBM was posted on 2026-03-12.
+This sales engineer position at IBM was posted on 2026-04-27.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Warsaw, Mazovia, Poland |
-| Category | Technical Writer |
-| Posted | 2026-03-26 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/jobs/results/111622189551100614-technical-solutions-engineer-google-health-partner-engineering?sort_by=date&page=1) |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-04-27 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckVzXpV2hHu0ZvBo58upvyefu27VNT6Uk0VRBg0mkrFl0EjsACxwdTNVW-Ncz-5x_Jeg7fOAFU7lCHZLsVY0TZid2rudaZkHn_gIR1_nbNXsg9R1Yg4ThqQMFdcN2IQ%3D%3D_V2&loc=PL&title=Technical+Solutions+Engineer) |
 
 ## About This Role
 
-This technical writer position at Google was posted on 2026-03-26.
+This technical & solutions architect position at Google was posted on 2026-04-27.
 
 ## Get Real-Time Alerts
 

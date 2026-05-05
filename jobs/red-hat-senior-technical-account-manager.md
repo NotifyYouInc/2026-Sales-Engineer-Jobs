@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Red Hat](https://scoutify.ai/companies/red-hat?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Tokyo, Tokyo, Japan |
+| Location | Singapore, Singapore |
 | Category | Customer Success |
-| Posted | 2026-04-01 |
-| Apply | [View on company site](https://redhat.wd5.myworkdayjobs.com/Jobs/job/Tokyo/Senior-Technical-Account-Manager_R-056106-1) |
+| Posted | 2026-04-27 |
+| Apply | [View on company site](https://redhat.wd5.myworkdayjobs.com/Jobs/job/Singapore/Senior-Technical-Account-Manager_R-051679-1) |
 
 ## About This Role
 
-This customer success position at Red Hat was posted on 2026-04-01.
+This customer success position at Red Hat was posted on 2026-04-27.
 
 ## Get Real-Time Alerts
 

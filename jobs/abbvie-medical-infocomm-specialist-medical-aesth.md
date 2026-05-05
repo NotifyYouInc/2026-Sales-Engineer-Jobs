@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Shanghai, Shanghai, China |
+| Location | Kunming, Yunnan, China |
 | Category | Sales Engineer |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012608967-medical-infocomm-specialist-medical-aesth) |
+| Posted | 2026-04-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012828556-medical-infocomm-specialist-medical-aesth) |
 
 ## About This Role
 
-This sales engineer position at AbbVie was posted on 2026-04-15.
+This sales engineer position at AbbVie was posted on 2026-04-27.
 
 ## Get Real-Time Alerts
 

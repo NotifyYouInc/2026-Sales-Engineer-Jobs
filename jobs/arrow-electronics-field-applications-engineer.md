@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Arrow Electronics](https://scoutify.ai/companies/arrow-electronics?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Peabody, Massachusetts, United States |
+| Location | Shenzhen, Guangdong, China |
 | Category | Software Engineer |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://arrow.wd1.myworkdayjobs.com/ac/job/US-MA-Peabody-Massachusetts-Technology-Dr/Field-Applications-Engineer_R239741) |
+| Posted | 2026-04-27 |
+| Apply | [View on company site](https://arrow.wd1.myworkdayjobs.com/ac/job/Shenzhen-Guangdong/Field-Applications-Engineer_R241579) |
 
 ## About This Role
 
-This software engineer position at Arrow Electronics was posted on 2026-04-13.
+This software engineer position at Arrow Electronics was posted on 2026-04-27.
 
 ## Get Real-Time Alerts
 

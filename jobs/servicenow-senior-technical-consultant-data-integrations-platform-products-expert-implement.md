@@ -5,12 +5,12 @@
 | Company | [ServiceNow](https://scoutify.ai/companies/servicenow?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | West Palm Beach, Florida, United States |
 | Category | Customer Success |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000122535389-senior-technical-consultant-data-integrations-platform-products-expert-implementation-servicessr) |
+| Posted | 2026-04-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000123283770-senior-technical-consultant-data-integrations-platform-products-expert-implementation-servicessr) |
 
 ## About This Role
 
-This customer success position at ServiceNow was posted on 2026-04-23.
+This customer success position at ServiceNow was posted on 2026-04-27.
 
 ## Get Real-Time Alerts
 

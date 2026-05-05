@@ -5,12 +5,12 @@
 | Company | [Broadcom](https://scoutify.ai/companies/broadcom?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | San Jose, California, United States |
 | Category | Semiconductor / Chip Design |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://broadcom.wd1.myworkdayjobs.com/External_Career/job/USA-CA-San-Jose-Innovation-Drive/ASIC-Implementation-Engineer_R025211) |
+| Posted | 2026-04-27 |
+| Apply | [View on company site](https://broadcom.wd1.myworkdayjobs.com/External_Career/job/USA-CA-San-Jose-Innovation-Drive/ASIC-Implementation-Engineer_R025853) |
 
 ## About This Role
 
-This semiconductor / chip design position at Broadcom was posted on 2026-02-24.
+This semiconductor / chip design position at Broadcom was posted on 2026-04-27.
 
 ## Get Real-Time Alerts
 

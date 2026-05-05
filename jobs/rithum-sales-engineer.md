@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Rithum](https://scoutify.ai/companies/rithum?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | United Kingdom |
+| Location | Ireland |
 | Category | Sales Engineer |
-| Posted | 2026-04-02 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/rithum/jobs/7437740) |
+| Posted | 2026-04-27 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/rithum/jobs/7438886) |
 
 ## About This Role
 
-This sales engineer position at Rithum was posted on 2026-04-02.
+This sales engineer position at Rithum was posted on 2026-04-27.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Smiths Group](https://scoutify.ai/companies/smithsgroup?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Milpitas, California, United States |
 | Category | Software Engineer |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SmithsGroup2/744000122520305-field-applications-engineer) |
+| Posted | 2026-04-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SmithsGroup2/744000123280059-field-applications-engineer) |
 
 ## About This Role
 
-This software engineer position at Smiths Group was posted on 2026-04-23.
+This software engineer position at Smiths Group was posted on 2026-04-27.
 
 ## Get Real-Time Alerts
 

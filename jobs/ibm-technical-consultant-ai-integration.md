@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Kolkata, West Bengal, India |
-| Category | Customer Success |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=111555) |
+| Category | Technology / IT Consulting |
+| Posted | 2026-04-27 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=100819) |
 
 ## About This Role
 
-This customer success position at IBM was posted on 2026-04-22.
+This technology / it consulting position at IBM was posted on 2026-04-27.
 
 ## Get Real-Time Alerts
 

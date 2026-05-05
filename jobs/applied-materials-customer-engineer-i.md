@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Applied Materials](https://scoutify.ai/companies/applied-materials?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Guangzhou, Guangdong, China |
+| Location | Beijing, Beijing, China |
 | Category | Marketing |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://amat.wd1.myworkdayjobs.com/External/job/GuangzhouCHN/Customer-Engineer-I_R2617219) |
+| Posted | 2026-04-27 |
+| Apply | [View on company site](https://amat.wd1.myworkdayjobs.com/External/job/BeijingCHN/Customer-Engineer-I_R2617215) |
 
 ## About This Role
 
-This marketing position at Applied Materials was posted on 2026-04-21.
+This marketing position at Applied Materials was posted on 2026-04-27.
 
 ## Get Real-Time Alerts
 

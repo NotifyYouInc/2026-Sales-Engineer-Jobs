@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Reltio](https://scoutify.ai/companies/reltio?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | United States |
-| Category | Operations |
-| Posted | 2026-02-06 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/reltio/jobs/5778091004) |
+| Location | Austin, Texas, United States |
+| Category | Customer Success |
+| Posted | 2026-04-27 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/reltio/jobs/5576245004) |
 
 ## About This Role
 
-This operations position at Reltio was posted on 2026-02-06.
+This customer success position at Reltio was posted on 2026-04-27.
 
 ## Get Real-Time Alerts
 

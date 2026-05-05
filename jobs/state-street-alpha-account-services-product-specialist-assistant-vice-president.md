@@ -5,12 +5,12 @@
 | Company | [State Street](https://scoutify.ai/companies/statestreet?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | London, England, United Kingdom |
 | Category | Product Manager |
-| Posted | 2026-03-20 |
-| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/London-England/Alpha-Account-Services---Product-Specialist--Assistant-Vice-President_R-786466) |
+| Posted | 2026-04-27 |
+| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/London-England/Alpha-Account-Services---Product-Specialist--Assistant-Vice-President_R-788054) |
 
 ## About This Role
 
-This product manager position at State Street was posted on 2026-03-20.
+This product manager position at State Street was posted on 2026-04-27.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Sales Engineer |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000122065732-in-bosch-rexroth-india-executive-assistant-manager-technical-sales-hydraulics) |
+| Posted | 2026-04-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000123229076-in-bosch-rexroth-india-executive-assistant-manager-technical-sales-hydraulics) |
 
 ## About This Role
 
-This sales engineer position at Robert Bosch was posted on 2026-04-21.
+This sales engineer position at Robert Bosch was posted on 2026-04-27.
 
 ## Get Real-Time Alerts
 

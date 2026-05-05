@@ -5,12 +5,12 @@
 | Company | [Pfizer](https://scoutify.ai/companies/pfizer?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Beijing, Beijing, China |
 | Category | Sales Engineer |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://pfizer.wd1.myworkdayjobs.com/PfizerCareers/job/China---Beijing---Beijing/_4952566) |
+| Posted | 2026-04-28 |
+| Apply | [View on company site](https://pfizer.wd1.myworkdayjobs.com/PfizerCareers/job/China---Beijing---Beijing/_4952602) |
 
 ## About This Role
 
-This sales engineer position at Pfizer was posted on 2026-04-24.
+This sales engineer position at Pfizer was posted on 2026-04-28.
 
 ## Get Real-Time Alerts
 

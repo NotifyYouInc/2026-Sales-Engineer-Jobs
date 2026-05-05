@@ -5,12 +5,12 @@
 | Company | [Sopra Steria](https://scoutify.ai/companies/soprasteria?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Courbevoie, Île-de-France, France |
 | Category | Sales Engineer |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000122465524-alternance-ingenieure-commerciale-cybersecurite-ile-de-france) |
+| Posted | 2026-04-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000122629838-alternance-ingenieure-commerciale-cybersecurite-ile-de-france) |
 
 ## About This Role
 
-This sales engineer position at Sopra Steria was posted on 2026-04-23.
+This sales engineer position at Sopra Steria was posted on 2026-04-24.
 
 ## Get Real-Time Alerts
 

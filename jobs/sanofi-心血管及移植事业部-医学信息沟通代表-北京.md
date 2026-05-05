@@ -5,12 +5,12 @@
 | Company | [Sanofi](https://scoutify.ai/companies/sanofi?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Beijing, Beijing, China |
 | Category | Sales Engineer |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Beijing/--_R2853254) |
+| Posted | 2026-04-28 |
+| Apply | [View on company site](https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Beijing/--_R2855401) |
 
 ## About This Role
 
-This sales engineer position at Sanofi was posted on 2026-04-16.
+This sales engineer position at Sanofi was posted on 2026-04-28.
 
 ## Get Real-Time Alerts
 

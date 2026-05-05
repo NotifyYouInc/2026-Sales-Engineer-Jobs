@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [CrowdStrike](https://scoutify.ai/companies/crowdstrike?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | United Kingdom |
-| Category | Technical Writer |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/United-Kingdom---Remote/Corporate-Sales-Engineer--Remote--GBR-_R27786) |
+| Category | Sales Engineer |
+| Posted | 2026-04-27 |
+| Apply | [View on company site](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/United-Kingdom---Remote/Corporate-Sales-Engineer--Remote--GBR-_R28642) |
 
 ## About This Role
 
-This technical writer position at CrowdStrike was posted on 2026-03-06.
+This sales engineer position at CrowdStrike was posted on 2026-04-27.
 
 ## Get Real-Time Alerts
 

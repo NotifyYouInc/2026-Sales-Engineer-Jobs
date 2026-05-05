@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Singapore, Singapore |
-| Category | Customer Success |
-| Posted | 2026-03-26 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/jobs/results/133844281621127878-senior-customer-engineer-ai-infrastructure-google-cloud?sort_by=date&page=1) |
+| Category | Sales Engineer |
+| Posted | 2026-04-27 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckbwXcAYOpORGg-eA50XzeK-W45T-Lw65UfP9LBTx1BKxEjsACxwdTBduUnz3f2mQ2ApLlFU8_P9wR5UBRvD3-W8ZP8m6cZgEp9rFifGM1PIzUp03c_Qq4JW0p-6MDg%3D%3D_V2&loc=SG&title=Senior+Customer+Engineer) |
 
 ## About This Role
 
-This customer success position at Google was posted on 2026-03-26.
+This sales engineer position at Google was posted on 2026-04-27.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Singapore, Singapore |
 | Category | Customer Success |
-| Posted | 2026-03-26 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/jobs/results/105933178950034118-top-customer-solutions-engineer-storage-google-cloud-english-mandarin?sort_by=date&page=1) |
+| Posted | 2026-04-27 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckUxJskqceAibDb9hcGaJSgVhD-n11FowdTkoLOzgHbEtEjsACxwdTAEJUjLJoWG-TcVJtWF3TqDvRl8T9LP9-OxZjUM3EWZianL59wXmbRQ1rtDWeuO23mRsPLvs8g%3D%3D_V2&loc=SG&title=Top+Customer+Solutions+Engineer) |
 
 ## About This Role
 
-This customer success position at Google was posted on 2026-03-26.
+This customer success position at Google was posted on 2026-04-27.
 
 ## Get Real-Time Alerts
 
