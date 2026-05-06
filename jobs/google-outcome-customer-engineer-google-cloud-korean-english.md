@@ -5,12 +5,12 @@
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Seoul, Seoul, South Korea |
 | Category | Customer Success |
-| Posted | 2026-03-26 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/jobs/results/129854978557649606-outcome-customer-engineer-google-cloud-korean-english?sort_by=date&page=1) |
+| Posted | 2026-04-28 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckYWtQdNmjuSr0C71xEo14bzkWCb5IR9OMoLFmNlijcbVEjsACxwdTCKC9JCPnELbjYbyfqs5SC2hFCZQDRS-D58wgv9GLwuUammTKZVtiTWyPjgrnrLHlzEpsKh9SQ%3D%3D_V2&loc=KR&title=Outcome+Customer+Engineer) |
 
 ## About This Role
 
-This customer success position at Google was posted on 2026-03-26.
+This customer success position at Google was posted on 2026-04-28.
 
 ## Get Real-Time Alerts
 

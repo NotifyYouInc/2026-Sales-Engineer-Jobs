@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Johnson Controls](https://scoutify.ai/companies/jci?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Beijing, Beijing, China |
+| Location | Dalian, Liaoning, China |
 | Category | Sales Engineer |
-| Posted | 2026-04-27 |
-| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Beijing-Beijing-China/Associate-Sales-Engineer_WD30267627) |
+| Posted | 2026-04-28 |
+| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Dalian-Liaoning-China/Associate-Sales-Engineer_WD30265927-1) |
 
 ## About This Role
 
-This sales engineer position at Johnson Controls was posted on 2026-04-27.
+This sales engineer position at Johnson Controls was posted on 2026-04-28.
 
 ## Get Real-Time Alerts
 

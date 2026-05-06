@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Groundworks](https://scoutify.ai/companies/groundworks?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Obetz, Ohio, United States |
+| Location | Winston-Salem, North Carolina, United States |
 | Category | Sales Engineer |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://groundworks.wd1.myworkdayjobs.com/groundworks/job/Obetz-OH/Sales---Service-Technician_JR111078) |
+| Posted | 2026-04-28 |
+| Apply | [View on company site](https://groundworks.wd1.myworkdayjobs.com/groundworks/job/Winston-Salem-NC/Sales---Service-Technician_JR110403) |
 
 ## About This Role
 
-This sales engineer position at Groundworks was posted on 2026-04-22.
+This sales engineer position at Groundworks was posted on 2026-04-28.
 
 ## Get Real-Time Alerts
 

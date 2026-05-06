@@ -5,12 +5,12 @@
 | Company | [Datadog](https://scoutify.ai/companies/datadog?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | California, US |
 | Category | Sales Engineer |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://careers.datadoghq.com/detail/7739410/?gh_jid=7739410) |
+| Posted | 2026-04-28 |
+| Apply | [View on company site](https://careers.datadoghq.com/detail/7857695/?gh_jid=7857695) |
 
 ## About This Role
 
-This sales engineer position at Datadog was posted on 2026-03-24.
+This sales engineer position at Datadog was posted on 2026-04-28.
 
 ## Get Real-Time Alerts
 

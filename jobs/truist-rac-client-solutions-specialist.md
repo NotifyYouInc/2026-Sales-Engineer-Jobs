@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Truist](https://scoutify.ai/companies/truist?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Arlington, Texas, United States |
-| Category | Account Executive |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://truist.wd1.myworkdayjobs.com/Careers/job/Arlington-TX/RAC-Client-Solutions-specialist_R0113741) |
+| Location | Tempe, Arizona, United States |
+| Category | Customer Success |
+| Posted | 2026-04-28 |
+| Apply | [View on company site](https://truist.wd1.myworkdayjobs.com/Careers/job/Tempe-AZ/RAC-Client-Solutions-specialist_R0113853-1) |
 
 ## About This Role
 
-This account executive position at Truist was posted on 2026-04-23.
+This customer success position at Truist was posted on 2026-04-28.
 
 ## Get Real-Time Alerts
 

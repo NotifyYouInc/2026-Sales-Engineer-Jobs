@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Concentrix](https://scoutify.ai/companies/concentrix?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Yokohama, Kanagawa, Japan |
+| Location | Gurugram, Haryana, India |
 | Category | Sales Engineer |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://cnx.wd1.myworkdayjobs.com/external_global/job/JPN-Yokohama-MM-Park-Building-11th-Flr-3-6-3-Minatomirai-Nishi-ku/Professional-I--Sales-Engineer_R1705461) |
+| Posted | 2026-04-28 |
+| Apply | [View on company site](https://cnx.wd1.myworkdayjobs.com/external_global/job/IND-Gurugram---SP-Infocity-Industrial-Plot-No-243-1st-3rd-4th-5th--7th-Floors/Professional-I--Sales-Engineer_R1726119) |
 
 ## About This Role
 
-This sales engineer position at Concentrix was posted on 2026-04-13.
+This sales engineer position at Concentrix was posted on 2026-04-28.
 
 ## Get Real-Time Alerts
 

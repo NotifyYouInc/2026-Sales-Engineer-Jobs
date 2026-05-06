@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Pure Storage](https://scoutify.ai/companies/pure-storage?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Raleigh, North Carolina, United States |
+| Location | Lehi, Utah, United States |
 | Category | Customer Success |
-| Posted | 2026-03-31 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/purestorage/jobs/7741157) |
+| Posted | 2026-04-28 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/purestorage/jobs/7819100) |
 
 ## About This Role
 
-This customer success position at Pure Storage was posted on 2026-03-31.
+This customer success position at Pure Storage was posted on 2026-04-28.
 
 ## Get Real-Time Alerts
 

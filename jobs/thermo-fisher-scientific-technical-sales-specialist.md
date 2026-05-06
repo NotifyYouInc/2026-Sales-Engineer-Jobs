@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Thermo Fisher Scientific](https://scoutify.ai/companies/thermo-fisher-scientific?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | United Arab Emirates |
+| Location | Lenexa, Kansas, United States |
 | Category | Sales Engineer |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Remote-United-Arab-Emirates/Technical-Sales-Specialist_R-01349543) |
+| Posted | 2026-04-28 |
+| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Lenexa-Kansas-USA/Technical-Sales-Specialist_R-01351092) |
 
 ## About This Role
 
-This sales engineer position at Thermo Fisher Scientific was posted on 2026-04-22.
+This sales engineer position at Thermo Fisher Scientific was posted on 2026-04-28.
 
 ## Get Real-Time Alerts
 

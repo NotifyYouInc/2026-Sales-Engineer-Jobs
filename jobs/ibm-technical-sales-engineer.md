@@ -5,12 +5,12 @@
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Austin, Texas, United States |
 | Category | Sales Engineer |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=110059) |
+| Posted | 2026-04-28 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=112631) |
 
 ## About This Role
 
-This sales engineer position at IBM was posted on 2026-04-15.
+This sales engineer position at IBM was posted on 2026-04-28.
 
 ## Get Real-Time Alerts
 

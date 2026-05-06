@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Autodesk](https://scoutify.ai/companies/autodesk?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Tokyo, Tokyo, Japan |
-| Category | Software Engineer |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://autodesk.wd1.myworkdayjobs.com/Ext/job/APAC---Japan---Tokyo---Toranomon-Hills-Mori-Tower/Account-Technical-Lead_26WD99244-1) |
+| Location | London, England, United Kingdom |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-04-28 |
+| Apply | [View on company site](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Netherlands---Remote/Account-Technical-Lead_26WD97542) |
 
 ## About This Role
 
-This software engineer position at Autodesk was posted on 2026-02-26.
+This technical & solutions architect position at Autodesk was posted on 2026-04-28.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Principal Solution Engineer - Service cloud at Salesforce
+# Principal Solution Engineer | Service Cloud at Salesforce
 
 | Field | Details |
 |-------|---------|
 | Company | [Salesforce](https://scoutify.ai/companies/salesforce?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Tokyo, Tokyo, Japan |
-| Category | Sales Engineer |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Japan---Tokyo/Principal-Solution-Engineer---Service-cloud_JR338360) |
+| Location | 2 locations |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-04-29 |
+| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Australia---Sydney/Principal-Solution-Engineer---Service-Cloud_JR340170) |
 
 ## About This Role
 
-This sales engineer position at Salesforce was posted on 2026-04-23.
+This technical & solutions architect position at Salesforce was posted on 2026-04-29.
 
 ## Get Real-Time Alerts
 

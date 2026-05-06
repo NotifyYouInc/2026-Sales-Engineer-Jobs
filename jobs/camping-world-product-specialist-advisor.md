@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Camping World](https://scoutify.ai/companies/campingworld?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Fort Myers, Florida, United States |
+| Location | Buford, Georgia, United States |
 | Category | Customer Success |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://campingworld.wd5.myworkdayjobs.com/Jobs/job/Fort-Myers-FL/Product-Specialist-Advisor_26_04079) |
+| Posted | 2026-04-28 |
+| Apply | [View on company site](https://campingworld.wd5.myworkdayjobs.com/Jobs/job/Buford-GA/Product-Specialist-Advisor_26_04118) |
 
 ## About This Role
 
-This customer success position at Camping World was posted on 2026-04-23.
+This customer success position at Camping World was posted on 2026-04-28.
 
 ## Get Real-Time Alerts
 

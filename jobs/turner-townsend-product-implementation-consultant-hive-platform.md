@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Turner & Townsend](https://scoutify.ai/companies/turnertownsend?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | London, England, United Kingdom |
-| Category | Implementation / Professional Services |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/TurnerTownsend/744000110425065-product-implementation-consultant-hive-platform) |
+| Category | Customer Success |
+| Posted | 2026-04-28 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/TurnerTownsend/744000123416838-product-implementation-consultant-hive-platform) |
 
 ## About This Role
 
-This implementation / professional services position at Turner & Townsend was posted on 2026-02-20.
+This customer success position at Turner & Townsend was posted on 2026-04-28.
 
 ## Get Real-Time Alerts
 

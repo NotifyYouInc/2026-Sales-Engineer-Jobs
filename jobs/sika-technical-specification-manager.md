@@ -5,12 +5,12 @@
 | Company | [Sika](https://scoutify.ai/companies/sika?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Washington, District of Columbia, United States |
 | Category | Sales Engineer |
-| Posted | 2026-04-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SikaAG/744000119667037-technical-specification-manager) |
+| Posted | 2026-04-28 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SikaAG/744000123544223-technical-specification-manager) |
 
 ## About This Role
 
-This sales engineer position at Sika was posted on 2026-04-09.
+This sales engineer position at Sika was posted on 2026-04-28.
 
 ## Get Real-Time Alerts
 

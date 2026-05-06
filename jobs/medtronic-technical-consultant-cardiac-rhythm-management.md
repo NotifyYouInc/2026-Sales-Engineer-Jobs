@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Medtronic](https://scoutify.ai/companies/medtronic?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Denmark |
+| Location | Oslo, Oslo, Norway |
 | Category | Customer Success |
-| Posted | 2026-04-01 |
-| Apply | [View on company site](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Aarhus-Jutland-Denmark/Technical-Consultant-Cardiac-Rhythm-Management_R63143-1) |
+| Posted | 2026-04-28 |
+| Apply | [View on company site](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Oslo-Oslo-Norway/Technical-Consultant-Cardiac-Rhythm-Management_R55970-1) |
 
 ## About This Role
 
-This customer success position at Medtronic was posted on 2026-04-01.
+This customer success position at Medtronic was posted on 2026-04-28.
 
 ## Get Real-Time Alerts
 

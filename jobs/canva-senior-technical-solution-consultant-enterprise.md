@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Canva](https://scoutify.ai/companies/canva?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | San Francisco, California, United States |
-| Category | Sales Engineer |
-| Posted | 2026-03-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Canva/6000000000947609-senior-technical-solution-consultant-enterprise) |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-04-28 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Canva/6000000001031899-senior-technical-solution-consultant-enterprise) |
 
 ## About This Role
 
-This sales engineer position at Canva was posted on 2026-03-20.
+This technical & solutions architect position at Canva was posted on 2026-04-28.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Red Hat](https://scoutify.ai/companies/red-hat?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Canberra, Australian Capital Territory, Australia |
+| Location | 2 locations |
 | Category | Customer Success |
-| Posted | 2026-02-16 |
-| Apply | [View on company site](https://redhat.wd5.myworkdayjobs.com/Jobs/job/Canberra/Junior-Technical-Account-Manager_R-054532) |
+| Posted | 2026-04-28 |
+| Apply | [View on company site](https://redhat.wd5.myworkdayjobs.com/Jobs/job/Mumbai/Junior-Technical-Account-Manager_R-054560-1) |
 
 ## About This Role
 
-This customer success position at Red Hat was posted on 2026-02-16.
+This customer success position at Red Hat was posted on 2026-04-28.
 
 ## Get Real-Time Alerts
 

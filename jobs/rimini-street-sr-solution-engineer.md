@@ -5,12 +5,12 @@
 | Company | [Rimini Street](https://scoutify.ai/companies/rimini-street?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-04-25 |
-| Apply | [View on company site](https://riministreet.wd1.myworkdayjobs.com/riministreet/job/Remote-United-States/Sr-Solution-Engineer_R-102182) |
+| Posted | 2026-04-27 |
+| Apply | [View on company site](https://riministreet.wd1.myworkdayjobs.com/riministreet/job/Remote-United-States/Sr-Solution-Engineer_R-102181) |
 
 ## About This Role
 
-This technical & solutions architect position at Rimini Street was posted on 2026-04-25.
+This technical & solutions architect position at Rimini Street was posted on 2026-04-27.
 
 ## Get Real-Time Alerts
 

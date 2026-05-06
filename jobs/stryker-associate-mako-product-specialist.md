@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Stryker](https://scoutify.ai/companies/stryker?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Melbourne, Victoria, Australia |
 | Category | Customer Success |
-| Posted | 2026-04-06 |
-| Apply | [View on company site](https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Bengaluru-India/Associate-Mako-Product-Specialist_R557095) |
+| Posted | 2026-04-28 |
+| Apply | [View on company site](https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Melbourne-Australia/Associate-Mako-Product-Specialist_R563922) |
 
 ## About This Role
 
-This customer success position at Stryker was posted on 2026-04-06.
+This customer success position at Stryker was posted on 2026-04-28.
 
 ## Get Real-Time Alerts
 

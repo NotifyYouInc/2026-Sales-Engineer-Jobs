@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Singapore, Singapore |
-| Category | Sales Engineer |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/jobs/results/91334263525253830-customer-engineer-platform-digital-natives-google-cloud?sort_by=date&page=1) |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-04-28 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckUA7L0opGfs-eb3foc_gHU9Uv9xIjMr6ZuEk_9hH1-27EjsACxwdTAGu6JTb65zTqqPiTV5Tw_5UB6SoeNAS6e4uKdah_6XwXDxJNgrlxIJkd0xzxZMgsnJT3tz5ZA%3D%3D_V2&loc=SG&title=Customer+Engineer) |
 
 ## About This Role
 
-This sales engineer position at Google was posted on 2026-03-02.
+This technical & solutions architect position at Google was posted on 2026-04-28.
 
 ## Get Real-Time Alerts
 

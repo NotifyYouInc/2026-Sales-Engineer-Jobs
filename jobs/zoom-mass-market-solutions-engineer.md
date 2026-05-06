@@ -5,12 +5,12 @@
 | Company | [Zoom](https://scoutify.ai/companies/zoom?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | United States |
 | Category | Sales Engineer |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://zoom.wd5.myworkdayjobs.com/zoom/job/Remote--US/Solutions-Engineer_R18903-1) |
+| Posted | 2026-04-28 |
+| Apply | [View on company site](https://zoom.wd5.myworkdayjobs.com/zoom/job/Remote--US/Mass-Market-Solutions-Engineer_R19082-2) |
 
 ## About This Role
 
-This sales engineer position at Zoom was posted on 2026-04-14.
+This sales engineer position at Zoom was posted on 2026-04-28.
 
 ## Get Real-Time Alerts
 

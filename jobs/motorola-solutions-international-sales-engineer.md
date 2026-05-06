@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Motorola Solutions](https://scoutify.ai/companies/motorola-solutions?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | 2 locations |
+| Location | Algeria |
 | Category | Sales Engineer |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Sydney-Australia/International-Sales-Engineer_R63414) |
+| Posted | 2026-04-28 |
+| Apply | [View on company site](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Algeria-Offsite-ZAL99/International-Sales-Engineer_R63787-1) |
 
 ## About This Role
 
-This sales engineer position at Motorola Solutions was posted on 2026-04-14.
+This sales engineer position at Motorola Solutions was posted on 2026-04-28.
 
 ## Get Real-Time Alerts
 
