@@ -5,12 +5,12 @@
 | Company | [Camping World](https://scoutify.ai/companies/campingworld?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Pooler, Georgia, United States |
 | Category | Customer Success |
-| Posted | 2026-04-07 |
-| Apply | [View on company site](https://campingworld.wd5.myworkdayjobs.com/Jobs/job/Pooler-GA/Product-Specialist-Advisor-2_26_03527) |
+| Posted | 2026-04-29 |
+| Apply | [View on company site](https://campingworld.wd5.myworkdayjobs.com/Jobs/job/Pooler-GA/Product-Specialist-Advisor-2_26_04292) |
 
 ## About This Role
 
-This customer success position at Camping World was posted on 2026-04-07.
+This customer success position at Camping World was posted on 2026-04-29.
 
 ## Get Real-Time Alerts
 

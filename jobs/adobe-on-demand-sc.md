@@ -5,12 +5,12 @@
 | Company | [Adobe](https://scoutify.ai/companies/adobe-inc?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Missouri, US |
 | Category | Sales Engineer |
-| Posted | 2026-04-28 |
-| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Remote-Missouri/On-Demand-SC_R167911) |
+| Posted | 2026-04-29 |
+| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Remote-Missouri/On-Demand-SC_R168019-1) |
 
 ## About This Role
 
-This sales engineer position at Adobe was posted on 2026-04-28.
+This sales engineer position at Adobe was posted on 2026-04-29.
 
 ## Get Real-Time Alerts
 

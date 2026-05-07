@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Eversource Energy](https://scoutify.ai/companies/eversource-energy?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Yarmouth, Massachusetts, United States |
+| Location | Waltham, Massachusetts, United States |
 | Category | Electrical / Hardware Engineer |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://eversource.wd1.myworkdayjobs.com/ExternalSite/job/Yarmouth-MA/Field-Engineer-Gr-3_R-029663) |
+| Posted | 2026-04-29 |
+| Apply | [View on company site](https://eversource.wd1.myworkdayjobs.com/ExternalSite/job/Waltham-MA/Field-Engineer-Gr-3_R-030408) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Eversource Energy was posted on 2026-03-17.
+This electrical / hardware engineer position at Eversource Energy was posted on 2026-04-29.
 
 ## Get Real-Time Alerts
 

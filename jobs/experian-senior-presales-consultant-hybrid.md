@@ -5,12 +5,12 @@
 | Company | [Experian](https://scoutify.ai/companies/experian?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Southbank, Victoria, Australia |
 | Category | Sales Engineer |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000121066618-senior-presales-consultant-hybrid) |
+| Posted | 2026-04-29 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000123628116-senior-presales-consultant-hybrid) |
 
 ## About This Role
 
-This sales engineer position at Experian was posted on 2026-04-15.
+This sales engineer position at Experian was posted on 2026-04-29.
 
 ## Get Real-Time Alerts
 

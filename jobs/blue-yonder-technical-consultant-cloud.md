@@ -1,16 +1,16 @@
-# Technical Consultant - Cloud at Blue Yonder
+# Technical consultant cloud at Blue Yonder
 
 | Field | Details |
 |-------|---------|
 | Company | [Blue Yonder](https://scoutify.ai/companies/jda?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Coimbatore, Tamil Nadu, India |
+| Location | 2 locations |
 | Category | Customer Success |
-| Posted | 2026-03-27 |
-| Apply | [View on company site](https://jda.wd5.myworkdayjobs.com/JDA_Careers/job/IND---Coimbatore-708/Technical-Consultant-Int--Cloud_253668) |
+| Posted | 2026-04-29 |
+| Apply | [View on company site](https://jda.wd5.myworkdayjobs.com/JDA_Careers/job/Bangalore/Technical-consultant-cloud_260493) |
 
 ## About This Role
 
-This customer success position at Blue Yonder was posted on 2026-03-27.
+This customer success position at Blue Yonder was posted on 2026-04-29.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ServiceNow](https://scoutify.ai/companies/servicenow?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Maryland, US |
-| Category | Technology / IT Consulting |
-| Posted | 2026-04-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000118628677-senior-technical-consultant-platform-federal-tsscifsp-clearance) |
+| Location | Vienna, Virginia, United States |
+| Category | Customer Success |
+| Posted | 2026-04-29 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000123715954-senior-technical-consultant-platform-federal-tsscifsp-clearance) |
 
 ## About This Role
 
-This technology / it consulting position at ServiceNow was posted on 2026-04-03.
+This customer success position at ServiceNow was posted on 2026-04-29.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Fidelity National Information Services](https://scoutify.ai/companies/fis?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Jacksonville, Florida, United States |
+| Location | Boston, Massachusetts, United States |
 | Category | Implementation / Professional Services |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://fis.wd5.myworkdayjobs.com/searchjobs/job/US-FL-JAX-347/Pre-Sales-Representative-Sr-Lead--Solutions-Specialist_JR0306412) |
+| Posted | 2026-04-29 |
+| Apply | [View on company site](https://fis.wd5.myworkdayjobs.com/searchjobs/job/US-MA-BOS-1-Virtual/Pre-Sales-Representative-Sr-Lead--Solutions-Specialist_JR0306174) |
 
 ## About This Role
 
-This implementation / professional services position at Fidelity National Information Services was posted on 2026-04-21.
+This implementation / professional services position at Fidelity National Information Services was posted on 2026-04-29.
 
 ## Get Real-Time Alerts
 

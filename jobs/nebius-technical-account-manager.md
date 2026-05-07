@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Nebius](https://scoutify.ai/companies/nebius?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Not specified |
+| Location | United States |
 | Category | Customer Success |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://careers.nebius.com/?gh_jid=4831199101) |
+| Posted | 2026-04-29 |
+| Apply | [View on company site](https://careers.nebius.com/?gh_jid=4816975101) |
 
 ## About This Role
 
-This customer success position at Nebius was posted on 2026-04-21.
+This customer success position at Nebius was posted on 2026-04-29.
 
 ## Get Real-Time Alerts
 

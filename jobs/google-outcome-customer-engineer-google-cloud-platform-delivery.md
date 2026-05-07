@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Stockholm, Stockholm, Sweden |
+| Location | Amsterdam, North Holland, The Netherlands |
 | Category | Customer Success |
-| Posted | 2026-03-26 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/jobs/results/97071115230159558-outcome-customer-engineer-google-cloud-platform-delivery?sort_by=date&page=1) |
+| Posted | 2026-04-29 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckU1Wa_SDoSNc6KC87POpq2RUA8VV5WsCaQtnotuakjSwEjsACxwdTBXURfWU2CavtsEOUKwqX2BeMnCisBCvojig1XXtiCcbHus_7GXvjwjR1_T2DRX3rUjkWWOUPg%3D%3D_V2&loc=NL&title=Outcome+Customer+Engineer) |
 
 ## About This Role
 
-This customer success position at Google was posted on 2026-03-26.
+This customer success position at Google was posted on 2026-04-29.
 
 ## Get Real-Time Alerts
 

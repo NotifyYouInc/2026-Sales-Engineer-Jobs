@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Air Liquide](https://scoutify.ai/companies/airliquidehr?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Not specified |
+| Location | Taichung, Taiwan, Taiwan |
 | Category | Sales Engineer |
-| Posted | 2026-03-23 |
-| Apply | [View on company site](https://airliquidehr.wd3.myworkdayjobs.com/AirLiquideExternalCareer/job/ALES-Asia---Management/Regional-Sales-Engineer---_R10088082-1) |
+| Posted | 2026-04-29 |
+| Apply | [View on company site](https://airliquidehr.wd3.myworkdayjobs.com/AirLiquideExternalCareer/job/ALES-Asia---Management/Regional-Sales-Engineer---_R10090962) |
 
 ## About This Role
 
-This sales engineer position at Air Liquide was posted on 2026-03-23.
+This sales engineer position at Air Liquide was posted on 2026-04-29.
 
 ## Get Real-Time Alerts
 

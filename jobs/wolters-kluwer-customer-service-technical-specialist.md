@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wolters Kluwer](https://scoutify.ai/companies/wolters-kluwer?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Arkansas, US |
+| Location | Minnesota, US |
 | Category | Customer Success |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://wk.wd3.myworkdayjobs.com/External/job/USA-AR-Remote/Customer-Service-Technical-Specialist_R0054678) |
+| Posted | 2026-04-29 |
+| Apply | [View on company site](https://wk.wd3.myworkdayjobs.com/External/job/USA---St-Cloud-MN/Customer-Service-Technical-Specialist_R0057061) |
 
 ## About This Role
 
-This customer success position at Wolters Kluwer was posted on 2026-03-03.
+This customer success position at Wolters Kluwer was posted on 2026-04-29.
 
 ## Get Real-Time Alerts
 

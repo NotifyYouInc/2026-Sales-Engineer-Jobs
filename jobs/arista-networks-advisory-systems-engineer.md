@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Arista Networks](https://scoutify.ai/companies/aristanetworks?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | San Jose, California, United States |
-| Category | Technical & Solutions Architect |
-| Posted | 2026-04-07 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AristaNetworks/744000119135594-advisory-systems-engineer) |
+| Location | Salt Lake City, Utah, United States |
+| Category | Sales Engineer |
+| Posted | 2026-04-29 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AristaNetworks/744000123745049-advisory-systems-engineer) |
 
 ## About This Role
 
-This technical & solutions architect position at Arista Networks was posted on 2026-04-07.
+This sales engineer position at Arista Networks was posted on 2026-04-29.
 
 ## Get Real-Time Alerts
 

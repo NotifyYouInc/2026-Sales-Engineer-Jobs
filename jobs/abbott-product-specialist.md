@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Abbott](https://scoutify.ai/companies/abbott-laboratories?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Ho Chi Minh City, Ho Chi Minh City (HCMC), Vietnam |
+| Location | Singapore, Singapore |
 | Category | Account Executive |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/Vietnam---Ho-Chi-Minh-City/Product-Specialist_31148555) |
+| Posted | 2026-04-30 |
+| Apply | [View on company site](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/Singapore/Product-Specialist_31149084) |
 
 ## About This Role
 
-This account executive position at Abbott was posted on 2026-04-23.
+This account executive position at Abbott was posted on 2026-04-30.
 
 ## Get Real-Time Alerts
 

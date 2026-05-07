@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Veolia](https://scoutify.ai/companies/veolia?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Oakville, Ontario, Canada |
+| Location | Brea, California, United States |
 | Category | Sales Engineer |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000122272307-technical-sales-engineer-biological-intensification) |
+| Posted | 2026-04-29 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000123729705-technical-sales-engineer-biological-intensification) |
 
 ## About This Role
 
-This sales engineer position at Veolia was posted on 2026-04-22.
+This sales engineer position at Veolia was posted on 2026-04-29.
 
 ## Get Real-Time Alerts
 

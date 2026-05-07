@@ -1,16 +1,16 @@
-# Senior Manager, Sales Engineering at Cohesity
+# Senior Manager Sales Engineering at Cohesity
 
 | Field | Details |
 |-------|---------|
 | Company | [Cohesity](https://scoutify.ai/companies/cohesity?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Texas, US |
-| Category | Sales Engineer |
-| Posted | 2026-02-09 |
-| Apply | [View on company site](https://cohesity.wd5.myworkdayjobs.com/Cohesity_Careers/job/Austin-Metro-Area---Texas---USA-Remote/Senior-Manager--Sales-Engineering_R02689) |
+| Location | Germany |
+| Category | Sales Leadership |
+| Posted | 2026-04-29 |
+| Apply | [View on company site](https://cohesity.wd5.myworkdayjobs.com/Cohesity_Careers/job/Germany---Remote/Senior-Manager-Sales-Engineering_R02597) |
 
 ## About This Role
 
-This sales engineer position at Cohesity was posted on 2026-02-09.
+This sales leadership position at Cohesity was posted on 2026-04-29.
 
 ## Get Real-Time Alerts
 

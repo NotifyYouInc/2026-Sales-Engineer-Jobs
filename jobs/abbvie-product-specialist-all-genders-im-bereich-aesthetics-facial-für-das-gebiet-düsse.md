@@ -6,7 +6,7 @@
 | Location | 3 locations |
 | Category | Sales Engineer |
 | Posted | 2026-04-28 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012847566-product-specialist-all-genders-im-bereich-aesthetics-facial-fur-das-gebiet-dusselsdorf-duisburg-wuppertal) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012852366-product-specialist-all-genders-im-bereich-aesthetics-facial-fur-das-gebiet-dusselsdorf-duisburg-wuppertal) |
 
 ## About This Role
 

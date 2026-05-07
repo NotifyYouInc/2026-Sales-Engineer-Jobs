@@ -6,7 +6,7 @@
 | Location | Beijing, Beijing, China |
 | Category | Sales Engineer |
 | Posted | 2026-04-28 |
-| Apply | [View on company site](https://pfizer.wd1.myworkdayjobs.com/PfizerCareers/job/China---Beijing---Beijing/_4952602) |
+| Apply | [View on company site](https://pfizer.wd1.myworkdayjobs.com/PfizerCareers/job/China---Beijing---Beijing/_4952567) |
 
 ## About This Role
 

@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [ABB](https://scoutify.ai/companies/abb?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | 2 locations |
+| Location | Faridabad, Haryana, India |
 | Category | Account Executive |
 | Posted | 2026-04-28 |
-| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Hangzhou-Zhejiang-China/Sales-Specialist_JR00032965-3) |
+| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Faridabad-Haryana-India/Sales-Specialist_JR00004070) |
 
 ## About This Role
 

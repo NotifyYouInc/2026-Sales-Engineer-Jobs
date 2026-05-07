@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Truist](https://scoutify.ai/companies/truist?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Lumberton, North Carolina, United States |
+| Location | Richmond, Virginia, United States |
 | Category | Customer Success |
-| Posted | 2026-04-10 |
-| Apply | [View on company site](https://truist.wd1.myworkdayjobs.com/Careers/job/Lumberton-NC/Client-Solutions-Specialist-I_R0113267) |
+| Posted | 2026-04-29 |
+| Apply | [View on company site](https://truist.wd1.myworkdayjobs.com/Careers/job/Richmond-VA/Client-Solutions-Specialist-I_R0113761) |
 
 ## About This Role
 
-This customer success position at Truist was posted on 2026-04-10.
+This customer success position at Truist was posted on 2026-04-29.
 
 ## Get Real-Time Alerts
 

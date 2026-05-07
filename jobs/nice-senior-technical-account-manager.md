@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [NiCE](https://scoutify.ai/companies/nice?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Pune, Maharashtra, India |
+| Location | Tokyo, Tokyo, Japan |
 | Category | Customer Success |
-| Posted | 2026-04-28 |
-| Apply | [View on company site](https://boards.eu.greenhouse.io/nice/jobs/4847357101?gh_jid=4847357101) |
+| Posted | 2026-04-30 |
+| Apply | [View on company site](https://boards.eu.greenhouse.io/nice/jobs/4852207101?gh_jid=4852207101) |
 
 ## About This Role
 
-This customer success position at NiCE was posted on 2026-04-28.
+This customer success position at NiCE was posted on 2026-04-30.
 
 ## Get Real-Time Alerts
 

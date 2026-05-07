@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Johnson & Johnson](https://scoutify.ai/companies/johnson-johnson?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Shanghai, Shanghai, China |
-| Category | Sales Leadership |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://jj.wd5.myworkdayjobs.com/JJ/job/Shanghai-China/Product-Specialist_R-071143) |
+| Location | Hefei, Anhui, China |
+| Category | Sales Engineer |
+| Posted | 2026-04-29 |
+| Apply | [View on company site](https://jj.wd5.myworkdayjobs.com/JJ/job/Hefei-Anhui-China/Product-Specialist_R-058279) |
 
 ## About This Role
 
-This sales leadership position at Johnson & Johnson was posted on 2026-04-22.
+This sales engineer position at Johnson & Johnson was posted on 2026-04-29.
 
 ## Get Real-Time Alerts
 

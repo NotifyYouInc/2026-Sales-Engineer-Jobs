@@ -1,16 +1,16 @@
-# Senior Care Solutions Specialist  at Honor
+#  Senior Care Solutions Specialist  at Honor
 
 | Field | Details |
 |-------|---------|
 | Company | [Honor](https://scoutify.ai/companies/honor?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | United States |
 | Category | Customer Success |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://boards.greenhouse.io/honor/jobs/8505124002?gh_jid=8505124002) |
+| Posted | 2026-04-29 |
+| Apply | [View on company site](https://boards.greenhouse.io/honor/jobs/8505122002?gh_jid=8505122002) |
 
 ## About This Role
 
-This customer success position at Honor was posted on 2026-04-17.
+This customer success position at Honor was posted on 2026-04-29.
 
 ## Get Real-Time Alerts
 
