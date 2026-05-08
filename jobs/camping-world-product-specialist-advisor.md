@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Camping World](https://scoutify.ai/companies/campingworld?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Buford, Georgia, United States |
+| Location | Ridgeland, Mississippi, United States |
 | Category | Customer Success |
 | Posted | 2026-04-28 |
-| Apply | [View on company site](https://campingworld.wd5.myworkdayjobs.com/Jobs/job/Buford-GA/Product-Specialist-Advisor_26_04118) |
+| Apply | [View on company site](https://campingworld.wd5.myworkdayjobs.com/Jobs/job/Ridgeland-SC/Product-Specialist-Advisor_26_04217-1) |
 
 ## About This Role
 

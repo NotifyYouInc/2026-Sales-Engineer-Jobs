@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Kochi, Kerala, India |
-| Category | Customer Success |
-| Posted | 2026-04-28 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=101227) |
+| Location | Bengaluru, Karnataka, India |
+| Category | Technology / IT Consulting |
+| Posted | 2026-04-29 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=112790) |
 
 ## About This Role
 
-This customer success position at IBM was posted on 2026-04-28.
+This technology / it consulting position at IBM was posted on 2026-04-29.
 
 ## Get Real-Time Alerts
 

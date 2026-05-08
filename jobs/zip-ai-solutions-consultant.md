@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Zip](https://scoutify.ai/companies/zip?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Israel |
-| Category | Customer Success |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/zip/5d19a4bc-9cc4-460a-b573-3611a683da88) |
+| Location | Australia |
+| Category | Implementation / Professional Services |
+| Posted | 2026-04-30 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/zip/1beeef88-ffb0-4c39-8de4-429c98611edb) |
 
 ## About This Role
 
-This customer success position at Zip was posted on 2026-04-14.
+This implementation / professional services position at Zip was posted on 2026-04-30.
 
 ## Get Real-Time Alerts
 

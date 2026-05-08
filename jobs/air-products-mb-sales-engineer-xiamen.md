@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Air Products](https://scoutify.ai/companies/airproducts?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Xiamen, Fujian, China |
-| Category | Account Executive |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://airproducts.wd5.myworkdayjobs.com/AP0001/job/Xiamen-Fujian/MB-Sales-Engineer---Xiamen_JR-2025-18042) |
+| Category | Sales Engineer |
+| Posted | 2026-04-30 |
+| Apply | [View on company site](https://airproducts.wd5.myworkdayjobs.com/AP0001/job/Xiamen-Fujian/MB-Sales-Engineer---Xiamen_JR-2026-20089) |
 
 ## About This Role
 
-This account executive position at Air Products was posted on 2026-03-10.
+This sales engineer position at Air Products was posted on 2026-04-30.
 
 ## Get Real-Time Alerts
 

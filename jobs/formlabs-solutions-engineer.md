@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Formlabs](https://scoutify.ai/companies/formlabs?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Somerville, Massachusetts, United States |
-| Category | Software Engineer |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://careers.formlabs.com/job/7747247/apply/?gh_jid=7747247) |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-04-30 |
+| Apply | [View on company site](https://careers.formlabs.com/job/7870702/apply/?gh_jid=7870702) |
 
 ## About This Role
 
-This software engineer position at Formlabs was posted on 2026-03-24.
+This technical & solutions architect position at Formlabs was posted on 2026-04-30.
 
 ## Get Real-Time Alerts
 

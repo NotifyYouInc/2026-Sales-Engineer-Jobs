@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Kone](https://scoutify.ai/companies/kone?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Metz, Grand Est, France |
+| Location | Hennebont, Brittany, France |
 | Category | Sales Engineer |
-| Posted | 2026-04-28 |
-| Apply | [View on company site](https://kone.wd3.myworkdayjobs.com/careers/job/Metz/Ingnieur-des-Ventes-Service-H-F_R0659746) |
+| Posted | 2026-04-30 |
+| Apply | [View on company site](https://kone.wd3.myworkdayjobs.com/careers/job/Hennebont/Ingnieur-des-Ventes-Service-H-F_R0660052-1) |
 
 ## About This Role
 
-This sales engineer position at Kone was posted on 2026-04-28.
+This sales engineer position at Kone was posted on 2026-04-30.
 
 ## Get Real-Time Alerts
 

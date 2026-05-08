@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Veralto](https://scoutify.ai/companies/veralto?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Delhi, Delhi, India |
+| Location | Bengaluru, Karnataka, India |
 | Category | Sales Engineer |
-| Posted | 2026-04-28 |
-| Apply | [View on company site](https://veralto.wd1.myworkdayjobs.com/hachjobs/job/Delhi-India/Sales-Engineer---Contracts-and-Spares_R10265934) |
+| Posted | 2026-04-29 |
+| Apply | [View on company site](https://veralto.wd1.myworkdayjobs.com/hachjobs/job/Bangalore-Karnataka-India/Sales-Engineer---Contracts-and-Spares_R10265935) |
 
 ## About This Role
 
-This sales engineer position at Veralto was posted on 2026-04-28.
+This sales engineer position at Veralto was posted on 2026-04-29.
 
 ## Get Real-Time Alerts
 

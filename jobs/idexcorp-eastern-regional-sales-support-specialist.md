@@ -5,12 +5,12 @@
 | Company | [Idexcorp](https://scoutify.ai/companies/idexcorp?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Randolph, Massachusetts, United States |
 | Category | Sales Engineer |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://idexcorp.wd5.myworkdayjobs.com/idex_careers/job/Randolph-NJ/Eastern-Regional-Sales-Support-Specialist_R-08865-2) |
+| Posted | 2026-04-30 |
+| Apply | [View on company site](https://idexcorp.wd5.myworkdayjobs.com/idex_careers/job/Randolph-NJ/Eastern-Regional-Sales-Support-Specialist_R-08937-1) |
 
 ## About This Role
 
-This sales engineer position at Idexcorp was posted on 2026-04-17.
+This sales engineer position at Idexcorp was posted on 2026-04-30.
 
 ## Get Real-Time Alerts
 

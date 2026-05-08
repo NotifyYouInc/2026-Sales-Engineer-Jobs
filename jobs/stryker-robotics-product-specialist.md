@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Stryker](https://scoutify.ai/companies/stryker?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Geelong, Victoria, Australia |
-| Category | Customer Success |
-| Posted | 2026-04-01 |
-| Apply | [View on company site](https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Geelong-Australia/Robotics-Product-Specialist_R562685) |
+| Location | Auckland, Auckland, New Zealand |
+| Category | Robotics Engineer |
+| Posted | 2026-04-30 |
+| Apply | [View on company site](https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Auckland-Auckland-511-Mt-Wellington-Highway/Robotics-Product-Specialist_R564771) |
 
 ## About This Role
 
-This customer success position at Stryker was posted on 2026-04-01.
+This robotics engineer position at Stryker was posted on 2026-04-30.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Hong Kong, Hong Kong |
-| Category | Sales Engineer |
-| Posted | 2026-03-26 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/jobs/results/114925122480939718-strategic-customer-engineer-web3-google-cloud?sort_by=date&page=1) |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-04-30 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckYGH3dw8BRc7QKLlPFBGpk8xGFPbRp28Mpl-KxVEuy90EjsACxwdTHk3PgZTAO9Xx5BKIQ3pKKJy9Jvh7h6k1a_9fxdFTVlUp68Lk3cbbr0j7EP0anjXF0TZmfo1hg%3D%3D_V2&loc=HK&title=Strategic+Customer+Engineer) |
 
 ## About This Role
 
-This sales engineer position at Google was posted on 2026-03-26.
+This technical & solutions architect position at Google was posted on 2026-04-30.
 
 ## Get Real-Time Alerts
 

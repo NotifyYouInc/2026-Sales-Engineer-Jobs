@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Flowserve](https://scoutify.ai/companies/flowserve?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Thailand |
+| Location | 2 locations |
 | Category | Sales Engineer |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://flowserve.wd1.myworkdayjobs.com/applied/job/Maptaput-Muang-Thailand/Sales-Engineer_R-18326) |
+| Posted | 2026-04-30 |
+| Apply | [View on company site](https://flowserve.wd1.myworkdayjobs.com/applied/job/Kaohsiung-Country-Taiwan/Sales-Engineer_R-19151) |
 
 ## About This Role
 
-This sales engineer position at Flowserve was posted on 2026-04-15.
+This sales engineer position at Flowserve was posted on 2026-04-30.
 
 ## Get Real-Time Alerts
 

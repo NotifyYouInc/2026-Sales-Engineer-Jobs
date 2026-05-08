@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ABB](https://scoutify.ai/companies/abb?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Seoul, Seoul, South Korea |
-| Category | Marketing |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Seoul-Seoul-Korea/Tendering-Specialist_JR00031055) |
+| Location | Singapore, Singapore |
+| Category | Sales Engineer |
+| Posted | 2026-04-30 |
+| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Singapore-Central-Singapore-Singapore/Tendering-Specialist_JR00031774) |
 
 ## About This Role
 
-This marketing position at ABB was posted on 2026-04-20.
+This sales engineer position at ABB was posted on 2026-04-30.
 
 ## Get Real-Time Alerts
 

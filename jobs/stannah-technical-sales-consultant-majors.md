@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Stannah](https://scoutify.ai/companies/stannah?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | United Kingdom |
-| Category | Account Executive |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Stannah1/744000109687905-technical-sales-consultant-majors) |
+| Location | Glasgow, Scotland, United Kingdom |
+| Category | Sales Engineer |
+| Posted | 2026-04-30 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Stannah1/744000123959147-technical-sales-consultant-majors) |
 
 ## About This Role
 
-This account executive position at Stannah was posted on 2026-02-17.
+This sales engineer position at Stannah was posted on 2026-04-30.
 
 ## Get Real-Time Alerts
 

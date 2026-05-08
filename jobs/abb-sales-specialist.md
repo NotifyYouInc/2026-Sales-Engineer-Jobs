@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ABB](https://scoutify.ai/companies/abb?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Faridabad, Haryana, India |
+| Location | Santa Paolina, Campania, Italy |
 | Category | Account Executive |
-| Posted | 2026-04-28 |
-| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Faridabad-Haryana-India/Sales-Specialist_JR00004070) |
+| Posted | 2026-04-29 |
+| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Santa-Paolina-Italy/Sales-Specialist_JR00032572) |
 
 ## About This Role
 
-This account executive position at ABB was posted on 2026-04-28.
+This account executive position at ABB was posted on 2026-04-29.
 
 ## Get Real-Time Alerts
 

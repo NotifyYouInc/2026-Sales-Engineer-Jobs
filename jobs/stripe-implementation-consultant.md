@@ -5,12 +5,12 @@
 | Company | [Stripe](https://scoutify.ai/companies/stripe?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | San Francisco, California, United States |
 | Category | Customer Success |
-| Posted | 2026-04-27 |
-| Apply | [View on company site](https://stripe.com/jobs/search?gh_jid=7819429) |
+| Posted | 2026-04-30 |
+| Apply | [View on company site](https://stripe.com/jobs/search?gh_jid=7862528) |
 
 ## About This Role
 
-This customer success position at Stripe was posted on 2026-04-27.
+This customer success position at Stripe was posted on 2026-04-30.
 
 ## Get Real-Time Alerts
 

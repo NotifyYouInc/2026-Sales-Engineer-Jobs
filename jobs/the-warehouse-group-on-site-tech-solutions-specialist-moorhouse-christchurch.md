@@ -5,12 +5,12 @@
 | Company | [The Warehouse Group](https://scoutify.ai/companies/the-warehouse-group?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Christchurch, Canterbury, New Zealand |
 | Category | Customer Success |
-| Posted | 2026-04-28 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/thewarehousegroup1/744000123561430-on-site-tech-solutions-specialist-moorhouse-christchurch) |
+| Posted | 2026-04-29 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/thewarehousegroup1/744000123594360-on-site-tech-solutions-specialist-moorhouse-christchurch) |
 
 ## About This Role
 
-This customer success position at The Warehouse Group was posted on 2026-04-28.
+This customer success position at The Warehouse Group was posted on 2026-04-29.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Johnson & Johnson](https://scoutify.ai/companies/johnson-johnson?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Singapore, Singapore |
 | Category | Sales Leadership |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://jj.wd5.myworkdayjobs.com/JJ/job/Singapore-Singapore/Senior-Product-Specialist_R-071102) |
+| Posted | 2026-04-30 |
+| Apply | [View on company site](https://jj.wd5.myworkdayjobs.com/JJ/job/Singapore-Singapore/Senior-Product-Specialist_R-072963) |
 
 ## About This Role
 
-This sales leadership position at Johnson & Johnson was posted on 2026-04-21.
+This sales leadership position at Johnson & Johnson was posted on 2026-04-30.
 
 ## Get Real-Time Alerts
 

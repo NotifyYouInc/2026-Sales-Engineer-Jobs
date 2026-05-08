@@ -5,12 +5,12 @@
 | Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Los Angeles, California, United States |
 | Category | Customer Success |
-| Posted | 2026-03-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012266026-customer-solutions-specialist-los-angeles-ca) |
+| Posted | 2026-04-30 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012913097-customer-solutions-specialist-los-angeles-ca) |
 
 ## About This Role
 
-This customer success position at AbbVie was posted on 2026-03-23.
+This customer success position at AbbVie was posted on 2026-04-30.
 
 ## Get Real-Time Alerts
 

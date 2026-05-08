@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Avnet](https://scoutify.ai/companies/avnet?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Location | Irvine, California, United States |
 | Category | Software Engineer |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://avnet.wd1.myworkdayjobs.com/external/job/Hyderabad-India/Field-Application-Engineer_JR-022372) |
+| Posted | 2026-04-30 |
+| Apply | [View on company site](https://avnet.wd1.myworkdayjobs.com/external/job/Irvine-California-United-States-Of-America/Field-Application-Engineer_JR-022577) |
 
 ## About This Role
 
-This software engineer position at Avnet was posted on 2026-04-20.
+This software engineer position at Avnet was posted on 2026-04-30.
 
 ## Get Real-Time Alerts
 

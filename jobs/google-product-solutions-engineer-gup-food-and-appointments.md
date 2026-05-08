@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Boulder, Colorado, United States |
-| Category | Software Engineer |
-| Posted | 2026-03-30 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/jobs/results/76788866614207174-product-solutions-engineer-gup-food-and-appointments?sort_by=date&page=1) |
+| Location | 3 locations |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-04-30 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckY3qQT5GFkRcMntII_eiDZcqA2erkCUDRo_XstXOXR8cEjsACxwdTF4YZUt46P1P_DjecmC7NAGoS1TQHj-j9v5IAeSrnVeRfKEQorSaVjNqIcYjbEKozW8geVy5Ng%3D%3D_V2&loc=US&title=Product+Solutions+Engineer) |
 
 ## About This Role
 
-This software engineer position at Google was posted on 2026-03-30.
+This technical & solutions architect position at Google was posted on 2026-04-30.
 
 ## Get Real-Time Alerts
 

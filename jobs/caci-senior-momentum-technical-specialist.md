@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CACI](https://scoutify.ai/companies/caci?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Not specified |
-| Category | Database Administration |
-| Posted | 2026-03-30 |
-| Apply | [View on company site](https://caci.wd1.myworkdayjobs.com/external/job/Remote-Any-State/Senior-Momentum-Technical-Specialist_323999) |
+| Location | United States |
+| Category | IT & Systems Administration |
+| Posted | 2026-04-30 |
+| Apply | [View on company site](https://caci.wd1.myworkdayjobs.com/external/job/Remote-Any-State/Senior-Momentum-Technical-Specialist_325563) |
 
 ## About This Role
 
-This database administration position at CACI was posted on 2026-03-30.
+This it & systems administration position at CACI was posted on 2026-04-30.
 
 ## Get Real-Time Alerts
 

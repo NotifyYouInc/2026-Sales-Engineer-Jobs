@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ABB](https://scoutify.ai/companies/abb?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Santiago, Santiago Metropolitan, Chile |
+| Location | Singapore, Singapore |
 | Category | Sales Engineer |
-| Posted | 2026-04-28 |
-| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Santiago-Region-Metropolitana-de-Santiago-Chile/Sales-Support-Specialist_JR00027192) |
+| Posted | 2026-05-01 |
+| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Singapore-Central-Singapore-Singapore/Sales-Support-Specialist_JR00032996) |
 
 ## About This Role
 
-This sales engineer position at ABB was posted on 2026-04-28.
+This sales engineer position at ABB was posted on 2026-05-01.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Braze](https://scoutify.ai/companies/braze?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | New York City, New York, United States |
+| Location | San Francisco, California, United States |
 | Category | Customer Success |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://boards.greenhouse.io/braze/jobs/7081349?gh_jid=7081349) |
+| Posted | 2026-04-30 |
+| Apply | [View on company site](https://boards.greenhouse.io/braze/jobs/7872124?gh_jid=7872124) |
 
 ## About This Role
 
-This customer success position at Braze was posted on 2026-04-20.
+This customer success position at Braze was posted on 2026-04-30.
 
 ## Get Real-Time Alerts
 

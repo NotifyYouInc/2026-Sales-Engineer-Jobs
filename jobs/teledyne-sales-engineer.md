@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Teledyne](https://scoutify.ai/companies/flir?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | 5 locations |
+| Location | Hsinchu, Taiwan, Taiwan |
 | Category | Sales Engineer |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Billerica-MA/Sales-Engineer_REQ33729) |
+| Posted | 2026-04-30 |
+| Apply | [View on company site](https://flir.wd1.myworkdayjobs.com/flircareers/job/Taiwan---Field/Sales-Engineer_REQ34234) |
 
 ## About This Role
 
-This sales engineer position at Teledyne was posted on 2026-03-24.
+This sales engineer position at Teledyne was posted on 2026-04-30.
 
 ## Get Real-Time Alerts
 

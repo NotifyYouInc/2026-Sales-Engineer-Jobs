@@ -1,16 +1,16 @@
-# Senior Staff Customer Engineer – Automotive AI Engineer at Sonatus
+# Senior Staff Customer Engineer - Automotive AI Engineer at Sonatus
 
 | Field | Details |
 |-------|---------|
 | Company | [Sonatus](https://scoutify.ai/companies/sonatus?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Germany |
+| Location | Seoul, Seoul, South Korea |
 | Category | AI / LLM Engineer |
-| Posted | 2026-04-01 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/sonatus/jobs/5096513007) |
+| Posted | 2026-05-01 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/sonatus/jobs/5124672007) |
 
 ## About This Role
 
-This ai / llm engineer position at Sonatus was posted on 2026-04-01.
+This ai / llm engineer position at Sonatus was posted on 2026-05-01.
 
 ## Get Real-Time Alerts
 

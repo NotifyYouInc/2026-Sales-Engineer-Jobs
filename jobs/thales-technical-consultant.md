@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Thales](https://scoutify.ai/companies/thales?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Karachi, Sindh, Pakistan |
-| Category | Technology / IT Consulting |
-| Posted | 2026-03-12 |
-| Apply | [View on company site](https://thales.wd3.myworkdayjobs.com/Careers/job/Karachi/Technical-Consultant_R0316191-1) |
+| Location | Johannesburg, Gauteng, South Africa |
+| Category | Customer Success |
+| Posted | 2026-04-30 |
+| Apply | [View on company site](https://thales.wd3.myworkdayjobs.com/Careers/job/Johannesburg/Technical-Consultant_R0325596-1) |
 
 ## About This Role
 
-This technology / it consulting position at Thales was posted on 2026-03-12.
+This customer success position at Thales was posted on 2026-04-30.
 
 ## Get Real-Time Alerts
 
