@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cohesity](https://scoutify.ai/companies/cohesity?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Maryland, US |
+| Location | New York City, New York, United States |
 | Category | Sales Leadership |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://cohesity.wd5.myworkdayjobs.com/Cohesity_Careers/job/USA---Maryland---Remote/Sr-Manager--Sales-Engineering_R03292) |
+| Posted | 2026-05-01 |
+| Apply | [View on company site](https://cohesity.wd5.myworkdayjobs.com/Cohesity_Careers/job/USA---New-York---Remote/Sr-Manager--Sales-Engineering_R03296) |
 
 ## About This Role
 
-This sales leadership position at Cohesity was posted on 2026-04-24.
+This sales leadership position at Cohesity was posted on 2026-05-01.
 
 ## Get Real-Time Alerts
 

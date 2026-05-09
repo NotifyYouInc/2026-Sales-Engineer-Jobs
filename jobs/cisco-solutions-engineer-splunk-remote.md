@@ -1,16 +1,16 @@
-# Solutions Engineer- Splunk - Remote at Cisco
+# Solutions Engineer - Splunk (Remote) at Cisco
 
 | Field | Details |
 |-------|---------|
 | Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | 2 locations |
+| Location | Florida, New York, United States |
 | Category | Sales Engineer |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Boulder-Colorado-US/Solutions-Engineer--Splunk---Remote_2012003-2) |
+| Posted | 2026-05-02 |
+| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Remote---North-Carolina-USA/Solutions-Engineer---Splunk--Remote-_2009577-1) |
 
 ## About This Role
 
-This sales engineer position at Cisco was posted on 2026-04-13.
+This sales engineer position at Cisco was posted on 2026-05-02.
 
 ## Get Real-Time Alerts
 

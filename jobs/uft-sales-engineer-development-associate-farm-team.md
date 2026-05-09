@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [uft](https://scoutify.ai/companies/uft?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Lake Mary, Florida, United States |
+| Location | Waldwick, New Jersey, United States |
 | Category | Sales Engineer |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://jobs.lever.co/uft/f990c505-596f-4c18-abc4-197da4aa7b4b) |
+| Posted | 2026-05-01 |
+| Apply | [View on company site](https://jobs.lever.co/uft/4bf9605a-096b-438f-8067-b80e277d4a6a) |
 
 ## About This Role
 
-This sales engineer position at uft was posted on 2026-03-13.
+This sales engineer position at uft was posted on 2026-05-01.
 
 ## Get Real-Time Alerts
 

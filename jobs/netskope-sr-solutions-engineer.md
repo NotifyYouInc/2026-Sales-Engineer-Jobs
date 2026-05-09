@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Netskope](https://scoutify.ai/companies/netskope?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Virginia, Minnesota, United States |
-| Category | Sales Engineer |
-| Posted | 2026-04-25 |
-| Apply | [View on company site](https://www.netskope.com/company/careers/open-positions/?gh_jid=7851931) |
+| Location | New York City, New York, United States |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-05-01 |
+| Apply | [View on company site](https://www.netskope.com/company/careers/open-positions/?gh_jid=7457596) |
 
 ## About This Role
 
-This sales engineer position at Netskope was posted on 2026-04-25.
+This technical & solutions architect position at Netskope was posted on 2026-05-01.
 
 ## Get Real-Time Alerts
 

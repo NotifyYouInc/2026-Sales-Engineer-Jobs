@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Graybar](https://scoutify.ai/companies/graybar?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Milwaukee, Wisconsin, United States |
+| Location | Pittsburgh, Pennsylvania, United States |
 | Category | Sales Engineer |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://graybar.wd1.myworkdayjobs.com/Careers/job/Milwaukee-WI/Sales-Engineer---Industrial-Automation_R260717) |
+| Posted | 2026-05-01 |
+| Apply | [View on company site](https://graybar.wd1.myworkdayjobs.com/Careers/job/Pittsburgh-PA/Sales-Engineer---Industrial-Automation_R261314-1) |
 
 ## About This Role
 
-This sales engineer position at Graybar was posted on 2026-03-13.
+This sales engineer position at Graybar was posted on 2026-05-01.
 
 ## Get Real-Time Alerts
 

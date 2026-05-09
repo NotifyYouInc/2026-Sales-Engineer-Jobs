@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Carrier Global](https://scoutify.ai/companies/carrier?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Kennesaw, Georgia, United States |
+| Location | Utrecht, Utrecht, The Netherlands |
 | Category | Sales Engineer |
-| Posted | 2026-04-10 |
-| Apply | [View on company site](https://carrier.wd5.myworkdayjobs.com/jobs/job/CAG16-AL-Georgia-ATL-1975-Vaughn-Road-Kennesaw-GA-30144-USA/Senior-Sales-Engineer_30203489) |
+| Posted | 2026-05-01 |
+| Apply | [View on company site](https://carrier.wd5.myworkdayjobs.com/jobs/job/Utrecht-Netherlands/Senior-Sales-Engineer_30205042) |
 
 ## About This Role
 
-This sales engineer position at Carrier Global was posted on 2026-04-10.
+This sales engineer position at Carrier Global was posted on 2026-05-01.
 
 ## Get Real-Time Alerts
 

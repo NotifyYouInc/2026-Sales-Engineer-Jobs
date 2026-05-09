@@ -5,12 +5,12 @@
 | Company | [UiPath](https://scoutify.ai/companies/uipath?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Toronto, Ontario, Canada |
 | Category | Customer Success |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/uipath/4df680af-4f7a-4b53-b1ec-4c59ce98bd6f) |
+| Posted | 2026-05-01 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/uipath/bd6678e1-3288-469a-ba1c-759b4232e097) |
 
 ## About This Role
 
-This customer success position at UiPath was posted on 2026-02-25.
+This customer success position at UiPath was posted on 2026-05-01.
 
 ## Get Real-Time Alerts
 

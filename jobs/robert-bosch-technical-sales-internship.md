@@ -6,7 +6,7 @@
 | Location | Italy |
 | Category | Sales Engineer |
 | Posted | 2026-04-29 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000123700299-technical-sales-internship) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000123700459-technical-sales-internship) |
 
 ## About This Role
 

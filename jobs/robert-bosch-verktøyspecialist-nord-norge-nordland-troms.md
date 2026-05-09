@@ -5,12 +5,12 @@
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | 2 locations |
 | Category | Sales Engineer |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000123623579-verktyspecialist-nord-norge-nordland-troms) |
+| Posted | 2026-04-30 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000123899899-verktyspecialist-nord-norge-nordland-troms) |
 
 ## About This Role
 
-This sales engineer position at Robert Bosch was posted on 2026-04-29.
+This sales engineer position at Robert Bosch was posted on 2026-04-30.
 
 ## Get Real-Time Alerts
 

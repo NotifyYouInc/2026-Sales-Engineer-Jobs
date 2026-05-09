@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mixpanel](https://scoutify.ai/companies/mixpanel?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | San Francisco, California, United States |
+| Location | London, England, United Kingdom |
 | Category | Sales Engineer |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/mixpanel/jobs/7851836) |
+| Posted | 2026-05-01 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/mixpanel/jobs/7874053) |
 
 ## About This Role
 
-This sales engineer position at Mixpanel was posted on 2026-04-24.
+This sales engineer position at Mixpanel was posted on 2026-05-01.
 
 ## Get Real-Time Alerts
 
