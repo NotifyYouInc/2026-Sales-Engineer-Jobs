@@ -1,16 +1,16 @@
-# Client Solutions Specialist I at Truist
+# Lead Payroll Implementation Consultant at Deputy
 
 | Field | Details |
 |-------|---------|
-| Company | [Truist](https://scoutify.ai/companies/truist?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | 3 locations |
+| Company | [Deputy](https://scoutify.ai/companies/deputy?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
+| Location | Sydney, New South Wales, Australia |
 | Category | Customer Success |
-| Posted | 2026-05-01 |
-| Apply | [View on company site](https://truist.wd1.myworkdayjobs.com/Careers/job/Lumberton-NC/Client-Solutions-Specialist-I_R0114115) |
+| Posted | 2026-05-05 |
+| Apply | [View on company site](https://jobs.lever.co/deputy/c1631c6c-1cd3-4641-bbc5-3d0d9df847e5) |
 
 ## About This Role
 
-This customer success position at Truist was posted on 2026-05-01.
+This customer success position at Deputy was posted on 2026-05-05.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Hewlett Packard Enterprise](https://scoutify.ai/companies/hewlett-packard-enterprise?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Riyadh, Riyadh Region, Saudi Arabia |
+| Location | Mississauga, Ontario, Canada |
 | Category | Sales Engineer |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/Riyadh-Riyadh-Saudi-Arabia/Networking-Presales-Consultant_1204925) |
+| Posted | 2026-05-05 |
+| Apply | [View on company site](https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/Mississauga-Ontario-Canada/Networking-Presales-Consultant_1206226-1) |
 
 ## About This Role
 
-This sales engineer position at Hewlett Packard Enterprise was posted on 2026-04-14.
+This sales engineer position at Hewlett Packard Enterprise was posted on 2026-05-05.
 
 ## Get Real-Time Alerts
 

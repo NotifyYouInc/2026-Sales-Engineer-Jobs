@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Sanofi](https://scoutify.ai/companies/sanofi?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Hong Kong, Hong Kong |
-| Category | Marketing |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Hong-Kong/XMLNAME--Senior--Product-Specialist---Dupixent_R2848452) |
+| Category | Account Executive |
+| Posted | 2026-05-05 |
+| Apply | [View on company site](https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Hong-Kong/XMLNAME--Senior--Product-Specialist---Dupixent_R2856110) |
 
 ## About This Role
 
-This marketing position at Sanofi was posted on 2026-04-20.
+This account executive position at Sanofi was posted on 2026-05-05.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Sales & Service Technician at Groundworks
+# Trade Surveillance Product Specialist at LSEG
 
 | Field | Details |
 |-------|---------|
-| Company | [Groundworks](https://scoutify.ai/companies/groundworks?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Phenix City, Alabama, United States |
+| Company | [LSEG](https://scoutify.ai/companies/lseg?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
+| Location | London, England, United Kingdom |
 | Category | Sales Engineer |
 | Posted | 2026-05-05 |
-| Apply | [View on company site](https://groundworks.wd1.myworkdayjobs.com/groundworks/job/Phenix-City-AL/Sales---Service-Technician_JR111151) |
+| Apply | [View on company site](https://lseg.wd3.myworkdayjobs.com/Careers/job/London-United-Kingdom/Trade-Surveillance-Product-Specialist_R0118759-1) |
 
 ## About This Role
 
-This sales engineer position at Groundworks was posted on 2026-05-05.
+This sales engineer position at LSEG was posted on 2026-05-05.
 
 ## Get Real-Time Alerts
 

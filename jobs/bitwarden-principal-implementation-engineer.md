@@ -1,16 +1,16 @@
-# Client Solutions Specialist I at Truist
+# Principal Implementation Engineer at Bitwarden
 
 | Field | Details |
 |-------|---------|
-| Company | [Truist](https://scoutify.ai/companies/truist?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | 3 locations |
+| Company | [Bitwarden](https://scoutify.ai/companies/bitwarden?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
+| Location | United States |
 | Category | Customer Success |
-| Posted | 2026-05-01 |
-| Apply | [View on company site](https://truist.wd1.myworkdayjobs.com/Careers/job/Lumberton-NC/Client-Solutions-Specialist-I_R0114115) |
+| Posted | 2026-02-05 |
+| Apply | [View on company site](https://bitwarden.com/careers/7619106003/?gh_jid=7619106003) |
 
 ## About This Role
 
-This customer success position at Truist was posted on 2026-05-01.
+This customer success position at Bitwarden was posted on 2026-02-05.
 
 ## Get Real-Time Alerts
 

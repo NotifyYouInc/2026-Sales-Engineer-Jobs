@@ -1,16 +1,16 @@
-# Sales & Service Technician at Groundworks
+# Associate Solutions Engineer at Cloudera
 
 | Field | Details |
 |-------|---------|
-| Company | [Groundworks](https://scoutify.ai/companies/groundworks?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Phenix City, Alabama, United States |
+| Company | [Cloudera](https://scoutify.ai/companies/cloudera?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
+| Location | Singapore, Singapore |
 | Category | Sales Engineer |
 | Posted | 2026-05-05 |
-| Apply | [View on company site](https://groundworks.wd1.myworkdayjobs.com/groundworks/job/Phenix-City-AL/Sales---Service-Technician_JR111151) |
+| Apply | [View on company site](https://cloudera.wd5.myworkdayjobs.com/External_Career/job/Singapore--Singapore/Associate-Solutions-Engineer_260678) |
 
 ## About This Role
 
-This sales engineer position at Groundworks was posted on 2026-05-05.
+This sales engineer position at Cloudera was posted on 2026-05-05.
 
 ## Get Real-Time Alerts
 
