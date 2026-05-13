@@ -5,12 +5,12 @@
 | Company | [Medtronic](https://scoutify.ai/companies/medtronic?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Bangor, Northern Ireland, United Kingdom |
 | Category | Sales Engineer |
-| Posted | 2026-04-10 |
-| Apply | [View on company site](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Bangor-Maine-United-States-of-America/Senior-Affera-EP-Mapping-Specialist-Cardiac-Ablation-Solutions---Bangor--Maine_R48601-2) |
+| Posted | 2026-05-05 |
+| Apply | [View on company site](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Bangor-Maine-United-States-of-America/Senior-Affera-EP-Mapping-Specialist-Cardiac-Ablation-Solutions---Bangor--Maine_R65824-1) |
 
 ## About This Role
 
-This sales engineer position at Medtronic was posted on 2026-04-10.
+This sales engineer position at Medtronic was posted on 2026-05-05.
 
 ## Get Real-Time Alerts
 

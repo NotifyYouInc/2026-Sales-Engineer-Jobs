@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Camping World](https://scoutify.ai/companies/campingworld?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | San Diego, California, United States |
+| Location | 2 locations |
 | Category | Customer Success |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://campingworld.wd5.myworkdayjobs.com/Jobs/job/San-Diego-CA/Product-Specialist-Advisor_26_04294) |
+| Posted | 2026-05-01 |
+| Apply | [View on company site](https://campingworld.wd5.myworkdayjobs.com/Jobs/job/Suprise-AZ/Product-Specialist-Advisor_26_04380) |
 
 ## About This Role
 
-This customer success position at Camping World was posted on 2026-04-30.
+This customer success position at Camping World was posted on 2026-05-01.
 
 ## Get Real-Time Alerts
 

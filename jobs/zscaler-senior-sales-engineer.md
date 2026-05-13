@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Zscaler](https://scoutify.ai/companies/zscaler?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Tokyo, Tokyo, Japan |
+| Location | Taiwan |
 | Category | Sales Engineer |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/zscaler/jobs/5117083007) |
+| Posted | 2026-05-05 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/zscaler/jobs/5124947007) |
 
 ## About This Role
 
-This sales engineer position at Zscaler was posted on 2026-04-22.
+This sales engineer position at Zscaler was posted on 2026-05-05.
 
 ## Get Real-Time Alerts
 

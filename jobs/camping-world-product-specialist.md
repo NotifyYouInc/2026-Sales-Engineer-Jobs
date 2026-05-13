@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Camping World](https://scoutify.ai/companies/campingworld?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Strafford, New Hampshire, United States |
+| Location | Breaux Bridge, Louisiana, United States |
 | Category | Customer Success |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://campingworld.wd5.myworkdayjobs.com/Jobs/job/Strafford-MO/Product-Specialist_26_04313) |
+| Posted | 2026-05-01 |
+| Apply | [View on company site](https://campingworld.wd5.myworkdayjobs.com/Jobs/job/Breaux-Bridge-LA/Product-Specialist_26_04265) |
 
 ## About This Role
 
-This customer success position at Camping World was posted on 2026-04-30.
+This customer success position at Camping World was posted on 2026-05-01.
 
 ## Get Real-Time Alerts
 

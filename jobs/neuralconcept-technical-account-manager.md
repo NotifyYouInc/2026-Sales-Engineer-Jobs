@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Neuralconcept](https://scoutify.ai/companies/neuralconcept?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Lausanne, Vaud, Switzerland |
+| Location | Munich, Bavaria, Germany |
 | Category | Account Manager |
-| Posted | 2026-03-16 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/neuralconcept/6db28544-759a-4761-970d-d49f8b0ec0ef) |
+| Posted | 2026-05-05 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/neuralconcept/a0c8a5b7-8778-4d94-adaa-e027d2d71bc0) |
 
 ## About This Role
 
-This account manager position at Neuralconcept was posted on 2026-03-16.
+This account manager position at Neuralconcept was posted on 2026-05-05.
 
 ## Get Real-Time Alerts
 

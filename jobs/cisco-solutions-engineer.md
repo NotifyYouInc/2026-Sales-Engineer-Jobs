@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | 2 locations |
-| Category | Technical & Solutions Architect |
-| Posted | 2026-04-28 |
-| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Atlanta-Georgia-US/Solutions-Engineer_2012474) |
+| Location | Minato, Wakayama, Japan |
+| Category | Sales Engineer |
+| Posted | 2026-05-05 |
+| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Minato-Japan/Solutions-Engineer_2010740) |
 
 ## About This Role
 
-This technical & solutions architect position at Cisco was posted on 2026-04-28.
+This sales engineer position at Cisco was posted on 2026-05-05.
 
 ## Get Real-Time Alerts
 

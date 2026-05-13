@@ -5,12 +5,12 @@
 | Company | [Santen Pharmaceutical Co.](https://scoutify.ai/companies/santenpharmaceuticalco?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Seoul, Seoul, South Korea |
 | Category | Human Resources / People Ops |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Santen/744000120908297-korea-people-solutions-specialist) |
+| Posted | 2026-05-05 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Santen/744000124653869-korea-people-solutions-specialist) |
 
 ## About This Role
 
-This human resources / people ops position at Santen Pharmaceutical Co. was posted on 2026-04-15.
+This human resources / people ops position at Santen Pharmaceutical Co. was posted on 2026-05-05.
 
 ## Get Real-Time Alerts
 

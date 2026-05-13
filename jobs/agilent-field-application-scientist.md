@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Agilent](https://scoutify.ai/companies/agilent?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | 7 locations |
+| Location | Houston, Texas, United States |
 | Category | Sales Engineer |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://agilent.wd5.myworkdayjobs.com/agilent_careers/job/US-CO-Remote-Location-DenverBoulderFrederick-Area/Field-Application-Scientist_4037769-1) |
+| Posted | 2026-05-05 |
+| Apply | [View on company site](https://agilent.wd5.myworkdayjobs.com/agilent_careers/job/US-TX-Remote-Location/Field-Application-Scientist_4037894) |
 
 ## About This Role
 
-This sales engineer position at Agilent was posted on 2026-04-22.
+This sales engineer position at Agilent was posted on 2026-05-05.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Hewlett Packard Enterprise](https://scoutify.ai/companies/hewlett-packard-enterprise?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Arizona, US |
 | Category | Sales Engineer |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/All-Arizona-United-States-of-America/Presales-System-Engineer_1205672-3) |
+| Posted | 2026-05-06 |
+| Apply | [View on company site](https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/All-Arizona-United-States-of-America/Presales-System-Engineer_1206437) |
 
 ## About This Role
 
-This sales engineer position at Hewlett Packard Enterprise was posted on 2026-04-15.
+This sales engineer position at Hewlett Packard Enterprise was posted on 2026-05-06.
 
 ## Get Real-Time Alerts
 

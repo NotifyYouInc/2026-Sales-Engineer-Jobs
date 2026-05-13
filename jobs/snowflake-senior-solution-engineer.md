@@ -1,16 +1,16 @@
-# Senior Solution Engineer  at Snowflake
+# Senior Solution Engineer at Snowflake
 
 | Field | Details |
 |-------|---------|
 | Company | [Snowflake](https://scoutify.ai/companies/snowflake?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Boston, Massachusetts, United States |
-| Category | Sales Engineer |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/snowflake/a040adc3-9592-49cb-84db-27fcc8ede438) |
+| Location | Belgium |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-05-05 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/snowflake/38ede053-28d2-46f4-b0bc-4484c0c0782e) |
 
 ## About This Role
 
-This sales engineer position at Snowflake was posted on 2026-04-15.
+This technical & solutions architect position at Snowflake was posted on 2026-05-05.
 
 ## Get Real-Time Alerts
 

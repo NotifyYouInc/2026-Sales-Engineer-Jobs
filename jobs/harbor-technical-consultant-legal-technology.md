@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Harbor](https://scoutify.ai/companies/harbor?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Perth, Western Australia, Australia |
+| Location | Australia |
 | Category | Customer Success |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/harborglobal/jobs/5089555007) |
+| Posted | 2026-05-05 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/harborglobal/jobs/5129546007) |
 
 ## About This Role
 
-This customer success position at Harbor was posted on 2026-03-25.
+This customer success position at Harbor was posted on 2026-05-05.
 
 ## Get Real-Time Alerts
 

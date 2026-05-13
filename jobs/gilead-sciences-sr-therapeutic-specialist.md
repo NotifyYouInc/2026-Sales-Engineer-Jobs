@@ -5,12 +5,12 @@
 | Company | [Gilead Sciences](https://scoutify.ai/companies/gilead-sciences?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Tokyo, Tokyo, Japan |
 | Category | Sales Engineer |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://gilead.wd1.myworkdayjobs.com/gileadcareers/job/Japan---Tokyo/Sr-Therapeutic-Specialist_R0051975-1) |
+| Posted | 2026-05-05 |
+| Apply | [View on company site](https://gilead.wd1.myworkdayjobs.com/gileadcareers/job/Japan---Tokyo/Sr-Therapeutic-Specialist_R0052279) |
 
 ## About This Role
 
-This sales engineer position at Gilead Sciences was posted on 2026-04-22.
+This sales engineer position at Gilead Sciences was posted on 2026-05-05.
 
 ## Get Real-Time Alerts
 

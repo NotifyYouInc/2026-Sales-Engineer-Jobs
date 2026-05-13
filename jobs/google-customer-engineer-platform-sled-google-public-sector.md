@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | 2 locations |
-| Category | Sales Engineer |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/jobs/results/138002875115545286-customer-engineer-platform-sled-google-public-sector?sort_by=date&page=1) |
+| Location | Florida, New York, United States |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-05-05 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckW6MxdnWheL6r6zPilPJPOF0uPPfti99sS0Wx5bEC3k1EjsACxwdTC86wF_WE5ccjb-6RWZzMRuTo1wkpHIoPY4jYh9y75rPrEBA0AS2FY-xoJZyyLBE_AiPQZc-Xw%3D%3D_V2&loc=US&title=Customer+Engineer) |
 
 ## About This Role
 
-This sales engineer position at Google was posted on 2026-03-25.
+This technical & solutions architect position at Google was posted on 2026-05-05.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Asesor Técnico Comercial at Sika
+# Asesor Técnico Comercial  at Sika
 
 | Field | Details |
 |-------|---------|
 | Company | [Sika](https://scoutify.ai/companies/sika?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Colombia |
-| Category | Sales Engineer |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SikaAG/744000121776082-asesor-tecnico-comercial) |
+| Location | Bogotá, Bogota D.C., Colombia |
+| Category | Account Manager |
+| Posted | 2026-05-05 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SikaAG/744000124640409-asesor-tecnico-comercial) |
 
 ## About This Role
 
-This sales engineer position at Sika was posted on 2026-04-20.
+This account manager position at Sika was posted on 2026-05-05.
 
 ## Get Real-Time Alerts
 

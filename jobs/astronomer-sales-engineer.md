@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Astronomer](https://scoutify.ai/companies/astronomer?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Boston, Massachusetts, United States |
+| Location | Washington, District of Columbia, United States |
 | Category | Sales Engineer |
-| Posted | 2025-07-30 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/astronomer/3e3be48c-ccf0-4a39-9eb2-03a896787999) |
+| Posted | 2026-05-05 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/astronomer/30a08b5f-ae82-4833-82f7-6eadebe5516d) |
 
 ## About This Role
 
-This sales engineer position at Astronomer was posted on 2025-07-30.
+This sales engineer position at Astronomer was posted on 2026-05-05.
 
 ## Get Real-Time Alerts
 

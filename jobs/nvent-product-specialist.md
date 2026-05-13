@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [nVent](https://scoutify.ai/companies/nvent?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Raleigh, North Carolina, United States |
+| Location | Bengaluru, Karnataka, India |
 | Category | Product Manager |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://nvent.wd5.myworkdayjobs.com/nVent/job/Raleigh-NC-US/Product-Specialist_R20827-1) |
+| Posted | 2026-05-05 |
+| Apply | [View on company site](https://nvent.wd5.myworkdayjobs.com/nVent/job/Bangalore-IN/Product-Specialist_R20232) |
 
 ## About This Role
 
-This product manager position at nVent was posted on 2026-04-22.
+This product manager position at nVent was posted on 2026-05-05.
 
 ## Get Real-Time Alerts
 

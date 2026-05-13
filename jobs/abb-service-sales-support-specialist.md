@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ABB](https://scoutify.ai/companies/abb?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Nashik, Maharashtra, India |
+| Location | Italy |
 | Category | Sales Engineer |
-| Posted | 2026-04-27 |
-| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Nashik-Maharashtra-India/Service-Sales-Support-Specialist_JR00033019) |
+| Posted | 2026-05-06 |
+| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Genova-Genova-Italy/Service-Sales-Support-Specialist_JR00033538) |
 
 ## About This Role
 
-This sales engineer position at ABB was posted on 2026-04-27.
+This sales engineer position at ABB was posted on 2026-05-06.
 
 ## Get Real-Time Alerts
 

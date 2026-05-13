@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Docklands, Victoria, Australia |
+| Location | Toronto, Ontario, Canada |
 | Category | Customer Success |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckWyAHOUuWo1E44ifx2YEi_r7w8VCXpiBQSsoVMK1Cx08EjsACxwdTNeJ6swZFhcIzt_6uEqPPK4PhpP_N89kGF6z0b5Pnct5_8LG-ZqAn53MB0U990h9LQFUmNnqiw%3D%3D_V2&loc=AU&title=Technical+Account+Manager) |
+| Posted | 2026-05-05 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckSCKTAZmvAD_AanhxcqQ2IDQIgGFkHUq-M2CdD0AcSP4EjsACxwdTKp0hesDcNsNbwoi9vvGDbdj4fXEpEkky3xKBISIK_rUMWSg20Pfdirj9GIkrRx55S0Q7upbig%3D%3D_V2&loc=CA&title=Technical+Account+Manager) |
 
 ## About This Role
 
-This customer success position at Google was posted on 2026-04-16.
+This customer success position at Google was posted on 2026-05-05.
 
 ## Get Real-Time Alerts
 

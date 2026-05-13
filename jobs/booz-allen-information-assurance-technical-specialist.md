@@ -5,12 +5,12 @@
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Fayetteville, North Carolina, United States |
 | Category | Security Engineer |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Fayetteville-NC/Information-Assurance-Technical-Specialist_R0238738-1) |
+| Posted | 2026-05-05 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Fayetteville-NC/Information-Assurance-Technical-Specialist_R0239602) |
 
 ## About This Role
 
-This security engineer position at Booz Allen was posted on 2026-04-30.
+This security engineer position at Booz Allen was posted on 2026-05-05.
 
 ## Get Real-Time Alerts
 

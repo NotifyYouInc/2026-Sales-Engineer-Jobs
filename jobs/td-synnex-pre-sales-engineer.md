@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [TD Synnex](https://scoutify.ai/companies/synnex?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Brazil |
-| Category | Sales Engineer |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://synnex.wd5.myworkdayjobs.com/tdsynnexcareers/job/So-Paulo-Brazil/Pre-Sales-Engineer_R48300) |
+| Location | São Paulo, São Paulo, Brazil |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-05-05 |
+| Apply | [View on company site](https://synnex.wd5.myworkdayjobs.com/tdsynnexcareers/job/So-Paulo-Brasil/Pre-Sales-Engineer_R50551) |
 
 ## About This Role
 
-This sales engineer position at TD Synnex was posted on 2026-03-03.
+This technical & solutions architect position at TD Synnex was posted on 2026-05-05.
 
 ## Get Real-Time Alerts
 

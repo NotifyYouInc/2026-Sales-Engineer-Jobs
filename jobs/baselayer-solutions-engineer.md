@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Baselayer](https://scoutify.ai/companies/baselayer?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | New York City, New York, United States |
-| Category | Technical Writer |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/baselayer/jobs/5148998008) |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-05-04 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/baselayer/jobs/5209345008) |
 
 ## About This Role
 
-This technical writer position at Baselayer was posted on 2026-03-10.
+This technical & solutions architect position at Baselayer was posted on 2026-05-04.
 
 ## Get Real-Time Alerts
 
