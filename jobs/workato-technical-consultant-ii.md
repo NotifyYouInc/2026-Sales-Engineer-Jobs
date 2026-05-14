@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Workato](https://scoutify.ai/companies/workato?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | India |
+| Location | Seoul, Seoul, South Korea |
 | Category | Customer Success |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/workato/jobs/8501181002) |
+| Posted | 2026-05-06 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/workato/jobs/8415275002) |
 
 ## About This Role
 
-This customer success position at Workato was posted on 2026-04-16.
+This customer success position at Workato was posted on 2026-05-06.
 
 ## Get Real-Time Alerts
 

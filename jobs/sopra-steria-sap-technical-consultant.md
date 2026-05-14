@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sopra Steria](https://scoutify.ai/companies/soprasteria?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Luxembourg |
+| Location | Koerich, Capellen, Luxembourg |
 | Category | Technology / IT Consulting |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000113756848-sap-technical-consultant) |
+| Posted | 2026-05-06 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000124834749-sap-technical-consultant) |
 
 ## About This Role
 
-This technology / it consulting position at Sopra Steria was posted on 2026-03-10.
+This technology / it consulting position at Sopra Steria was posted on 2026-05-06.
 
 ## Get Real-Time Alerts
 

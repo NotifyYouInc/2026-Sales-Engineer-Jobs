@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Workato](https://scoutify.ai/companies/workato?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Mexico City, Mexico City, Mexico |
-| Category | Technology / IT Consulting |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/workato/jobs/8391088002) |
+| Location | 4 locations |
+| Category | Customer Success |
+| Posted | 2026-05-06 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/workato/jobs/8537407002) |
 
 ## About This Role
 
-This technology / it consulting position at Workato was posted on 2026-02-25.
+This customer success position at Workato was posted on 2026-05-06.
 
 ## Get Real-Time Alerts
 

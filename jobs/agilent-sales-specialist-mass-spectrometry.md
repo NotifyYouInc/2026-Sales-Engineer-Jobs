@@ -5,12 +5,12 @@
 | Company | [Agilent](https://scoutify.ai/companies/agilent?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | 3 locations |
 | Category | Account Executive |
-| Posted | 2026-04-07 |
-| Apply | [View on company site](https://agilent.wd5.myworkdayjobs.com/agilent_careers/job/US-IL-Chicago/Sales-Specialist-Mass-Spectrometry_4037165) |
+| Posted | 2026-05-06 |
+| Apply | [View on company site](https://agilent.wd5.myworkdayjobs.com/agilent_careers/job/US-PA-Remote-Location/Sales-Specialist-Mass-Spectrometry_4036297) |
 
 ## About This Role
 
-This account executive position at Agilent was posted on 2026-04-07.
+This account executive position at Agilent was posted on 2026-05-06.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Thomson Reuters](https://scoutify.ai/companies/thomson-reuters?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Madrid, Madrid, Spain |
-| Category | Implementation / Professional Services |
-| Posted | 2026-03-30 |
-| Apply | [View on company site](https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/Spain-Madrid-Madrid/Implementation-Consultant_JREQ199314) |
+| Location | 2 locations |
+| Category | Customer Success |
+| Posted | 2026-05-07 |
+| Apply | [View on company site](https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/India-Hyderabad-Telangana/Implementation-Consultant_JREQ200483) |
 
 ## About This Role
 
-This implementation / professional services position at Thomson Reuters was posted on 2026-03-30.
+This customer success position at Thomson Reuters was posted on 2026-05-07.
 
 ## Get Real-Time Alerts
 

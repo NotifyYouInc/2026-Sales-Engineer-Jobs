@@ -1,16 +1,16 @@
-# Product Specialist at Smith+Nephew
+# Product specialist at Smith+Nephew
 
 | Field | Details |
 |-------|---------|
 | Company | [Smith+Nephew](https://scoutify.ai/companies/smithnephew?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | 2 locations |
-| Category | Account Executive |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://smithnephew.wd5.myworkdayjobs.com/External/job/SAU-Western-Region-Jeddah-City-Madina-city-Mecca-city-Taif-City-Tabuk-City/Product-Specialist_R87977) |
+| Location | Saudi Arabia |
+| Category | Marketing |
+| Posted | 2026-05-06 |
+| Apply | [View on company site](https://smithnephew.wd5.myworkdayjobs.com/External/job/SAU-Central-Region-Riyadh-City-Kharj-City-Buraidah-City-Onaizah-city/Product-specialist_R90309) |
 
 ## About This Role
 
-This account executive position at Smith+Nephew was posted on 2026-03-13.
+This marketing position at Smith+Nephew was posted on 2026-05-06.
 
 ## Get Real-Time Alerts
 

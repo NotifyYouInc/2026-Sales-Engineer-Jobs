@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Zendesk](https://scoutify.ai/companies/zendesk?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Lisbon, Lisbon, Portugal |
-| Category | Account Executive |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://zendesk.wd1.myworkdayjobs.com/zendesk/job/Lisbon-Portugal/Senior-Sales-Product-Specialist_R34103) |
+| Location | London, England, United Kingdom |
+| Category | Sales Leadership |
+| Posted | 2026-05-06 |
+| Apply | [View on company site](https://zendesk.wd1.myworkdayjobs.com/zendesk/job/London-United-Kingdom/Senior-Sales-Product-Specialist_R34105) |
 
 ## About This Role
 
-This account executive position at Zendesk was posted on 2026-03-06.
+This sales leadership position at Zendesk was posted on 2026-05-06.
 
 ## Get Real-Time Alerts
 

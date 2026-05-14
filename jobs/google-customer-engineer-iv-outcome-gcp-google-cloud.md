@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Sunnyvale, California, United States |
-| Category | Sales Engineer |
-| Posted | 2026-02-12 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/jobs/results/113051070946517702-customer-engineer-iv-outcome-gcp-google-cloud?sort_by=date&page=1) |
+| Location | 2 locations |
+| Category | Customer Success |
+| Posted | 2026-05-06 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckacsebaSMSSz4xS-HVWSYuX7Ozx4kEkZDezVRxXQqQxMEjsACxwdTA3556dDUa_yl2ZFqRGFHFdwad9pE0lkYrHTJjjJEVwHgjtEM3Vq6bidLvAAQ6XpR3cjNQzxEg%3D%3D_V2&loc=US&title=Customer+Engineer+IV) |
 
 ## About This Role
 
-This sales engineer position at Google was posted on 2026-02-12.
+This customer success position at Google was posted on 2026-05-06.
 
 ## Get Real-Time Alerts
 

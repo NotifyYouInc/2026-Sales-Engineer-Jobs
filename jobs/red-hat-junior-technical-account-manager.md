@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Red Hat](https://scoutify.ai/companies/red-hat?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | 2 locations |
+| Location | Dubai, Dubai, United Arab Emirates |
 | Category | Customer Success |
-| Posted | 2026-04-28 |
-| Apply | [View on company site](https://redhat.wd5.myworkdayjobs.com/Jobs/job/Mumbai/Junior-Technical-Account-Manager_R-054560-1) |
+| Posted | 2026-05-06 |
+| Apply | [View on company site](https://redhat.wd5.myworkdayjobs.com/Jobs/job/Dubai/Junior-Technical-Account-Manager_R-054599) |
 
 ## About This Role
 
-This customer success position at Red Hat was posted on 2026-04-28.
+This customer success position at Red Hat was posted on 2026-05-06.
 
 ## Get Real-Time Alerts
 

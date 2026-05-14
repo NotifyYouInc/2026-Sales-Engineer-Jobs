@@ -5,12 +5,12 @@
 | Company | [The Nielsen Company](https://scoutify.ai/companies/thenielsencompany?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Mexico City, Mexico City, Mexico |
 | Category | Customer Success |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/TheNielsenCompany/3743990012624177-technical-account-manager-ii) |
+| Posted | 2026-05-06 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/TheNielsenCompany/3743990013003026-technical-account-manager-ii) |
 
 ## About This Role
 
-This customer success position at The Nielsen Company was posted on 2026-04-15.
+This customer success position at The Nielsen Company was posted on 2026-05-06.
 
 ## Get Real-Time Alerts
 

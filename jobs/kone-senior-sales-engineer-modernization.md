@@ -1,16 +1,16 @@
-# Senior Sales Engineer, Modernization at Kone
+# Senior Sales Engineer - Modernization at Kone
 
 | Field | Details |
 |-------|---------|
 | Company | [Kone](https://scoutify.ai/companies/kone?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Petaling Jaya, Selangor, Malaysia |
+| Location | Dammam, Eastern Province, Saudi Arabia |
 | Category | Sales Engineer |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://kone.wd3.myworkdayjobs.com/careers/job/Petaling-Jaya/Senior-Sales-Engineer--Modernization_R0660160) |
+| Posted | 2026-05-06 |
+| Apply | [View on company site](https://kone.wd3.myworkdayjobs.com/careers/job/Dammam/Senior-Sales-Engineer---Modernization_R0660185) |
 
 ## About This Role
 
-This sales engineer position at Kone was posted on 2026-05-05.
+This sales engineer position at Kone was posted on 2026-05-06.
 
 ## Get Real-Time Alerts
 

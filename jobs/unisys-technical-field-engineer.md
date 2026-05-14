@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Unisys](https://scoutify.ai/companies/unisys?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Singapore, Singapore |
+| Location | Rhodes, New South Wales, Australia |
 | Category | Customer Success |
-| Posted | 2026-04-28 |
-| Apply | [View on company site](https://unisys.wd5.myworkdayjobs.com/External/job/Multi-Client-Singapore/Technical-Field-Engineer_REQ572191) |
+| Posted | 2026-05-06 |
+| Apply | [View on company site](https://unisys.wd5.myworkdayjobs.com/External/job/Rhodes-NSW-Australia/Technical-Field-Engineer_REQ573004) |
 
 ## About This Role
 
-This customer success position at Unisys was posted on 2026-04-28.
+This customer success position at Unisys was posted on 2026-05-06.
 
 ## Get Real-Time Alerts
 
