@@ -1,16 +1,16 @@
-# Senior Technical account manager at Qualys
+# Senior Technical Account Manager at Qualys
 
 | Field | Details |
 |-------|---------|
 | Company | [Qualys](https://scoutify.ai/companies/qualys?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | United Kingdom |
+| Location | 2 locations |
 | Category | Customer Success |
-| Posted | 2026-04-08 |
-| Apply | [View on company site](https://qualys.wd5.myworkdayjobs.com/careers/job/United-Kingdom/Senior-Technical-account-manager_R0004607) |
+| Posted | 2026-05-07 |
+| Apply | [View on company site](https://qualys.wd5.myworkdayjobs.com/careers/job/Georgia/Senior-Technical-Account-Manager_R0004666) |
 
 ## About This Role
 
-This customer success position at Qualys was posted on 2026-04-08.
+This customer success position at Qualys was posted on 2026-05-07.
 
 ## Get Real-Time Alerts
 

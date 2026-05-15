@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Intuitive Surgical](https://scoutify.ai/companies/intuitivesurgical?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Aubonne, Vaud, Switzerland |
+| Location | Zürich, Zurich, Switzerland |
 | Category | Customer Success |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Intuitive/744000124613659-digital-solutions-specialist-beneluxaustriaswitzerland) |
+| Posted | 2026-05-06 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Intuitive/744000124840337-digital-solutions-specialist-beneluxaustriaswitzerland) |
 
 ## About This Role
 
-This customer success position at Intuitive Surgical was posted on 2026-05-05.
+This customer success position at Intuitive Surgical was posted on 2026-05-06.
 
 ## Get Real-Time Alerts
 

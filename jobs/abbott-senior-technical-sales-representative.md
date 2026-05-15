@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Abbott](https://scoutify.ai/companies/abbott-laboratories?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Shanghai, Shanghai, China |
+| Location | Guangzhou, Guangdong, China |
 | Category | Account Executive |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/China---Shanghai/Senior-Technical-Sales-Representative_31148382-1) |
+| Posted | 2026-05-07 |
+| Apply | [View on company site](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/China---Guangzhou/Senior-Technical-Sales-Representative_31149454) |
 
 ## About This Role
 
-This account executive position at Abbott was posted on 2026-04-24.
+This account executive position at Abbott was posted on 2026-05-07.
 
 ## Get Real-Time Alerts
 

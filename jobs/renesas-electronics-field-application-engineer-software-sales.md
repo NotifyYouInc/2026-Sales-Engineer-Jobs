@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Renesas Electronics](https://scoutify.ai/companies/renesaselectronics?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | San Diego, California, United States |
-| Category | Sales |
-| Posted | 2026-02-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/RenesasElectronics/744000107765480-field-application-engineer-software-sales) |
+| Location | Austin, Texas, United States |
+| Category | Software Engineer |
+| Posted | 2026-05-07 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/RenesasElectronics/744000125231909-field-application-engineer-software-sales) |
 
 ## About This Role
 
-This sales position at Renesas Electronics was posted on 2026-02-06.
+This software engineer position at Renesas Electronics was posted on 2026-05-07.
 
 ## Get Real-Time Alerts
 

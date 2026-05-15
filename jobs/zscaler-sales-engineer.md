@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Zscaler](https://scoutify.ai/companies/zscaler?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Delaware, US |
+| Location | Philippines |
 | Category | Sales Engineer |
-| Posted | 2026-04-06 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/zscaler/jobs/5091443007) |
+| Posted | 2026-05-07 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/zscaler/jobs/5127466007) |
 
 ## About This Role
 
-This sales engineer position at Zscaler was posted on 2026-04-06.
+This sales engineer position at Zscaler was posted on 2026-05-07.
 
 ## Get Real-Time Alerts
 

@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [ZipRecruiter](https://scoutify.ai/companies/ziprecruiter?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Los Angeles, California, United States |
+| Location | New York City, New York, United States |
 | Category | Sales Engineer |
 | Posted | 2026-05-05 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/ziprecruiter/jobs/7354409) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/ziprecruiter/jobs/7354399) |
 
 ## About This Role
 

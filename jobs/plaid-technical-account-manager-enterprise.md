@@ -1,8 +1,8 @@
-# Technical Account Manager - Enterprise at plaid
+# Technical Account Manager - Enterprise at Plaid
 
 | Field | Details |
 |-------|---------|
-| Company | [plaid](https://scoutify.ai/companies/plaid-plaid?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
+| Company | [Plaid](https://scoutify.ai/companies/plaid?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | San Francisco, California, United States |
 | Category | Customer Success |
 | Posted | 2026-05-07 |
@@ -10,7 +10,7 @@
 
 ## About This Role
 
-This customer success position at plaid was posted on 2026-05-07.
+This customer success position at Plaid was posted on 2026-05-07.
 
 ## Get Real-Time Alerts
 

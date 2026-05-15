@@ -5,12 +5,12 @@
 | Company | [Clinical Architecture](https://scoutify.ai/companies/clinical-architecture?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Indianapolis, Indiana, United States |
 | Category | Customer Success |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/clinicalarchitecture/jobs/5106119007) |
+| Posted | 2026-05-07 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/clinicalarchitecture/jobs/5131698007) |
 
 ## About This Role
 
-This customer success position at Clinical Architecture was posted on 2026-04-13.
+This customer success position at Clinical Architecture was posted on 2026-05-07.
 
 ## Get Real-Time Alerts
 

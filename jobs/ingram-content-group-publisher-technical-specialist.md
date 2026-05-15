@@ -5,12 +5,12 @@
 | Company | [Ingram Content Group](https://scoutify.ai/companies/ingramcontentgroup?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | La Vergne, Tennessee, United States |
 | Category | Customer Success |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/IngramContentGroup1/744000122112777-publisher-technical-specialist) |
+| Posted | 2026-05-07 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/IngramContentGroup1/744000125189728-publisher-technical-specialist) |
 
 ## About This Role
 
-This customer success position at Ingram Content Group was posted on 2026-04-21.
+This customer success position at Ingram Content Group was posted on 2026-05-07.
 
 ## Get Real-Time Alerts
 

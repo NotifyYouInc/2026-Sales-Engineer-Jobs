@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Zeiss](https://scoutify.ai/companies/zeissgroup?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | California, US |
+| Location | Kansas, US |
 | Category | Sales Engineer |
-| Posted | 2026-04-08 |
-| Apply | [View on company site](https://zeissgroup.wd3.myworkdayjobs.com/External/job/Remote---USA-CA/Specialist--Technical-Sales-and-Education_JR_1048631) |
+| Posted | 2026-05-07 |
+| Apply | [View on company site](https://zeissgroup.wd3.myworkdayjobs.com/External/job/Remote---USA-TX/Specialist--Technical-Sales-and-Education_JR_1049341) |
 
 ## About This Role
 
-This sales engineer position at Zeiss was posted on 2026-04-08.
+This sales engineer position at Zeiss was posted on 2026-05-07.
 
 ## Get Real-Time Alerts
 

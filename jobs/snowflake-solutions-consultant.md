@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Snowflake](https://scoutify.ai/companies/snowflake?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Mexico |
-| Category | Customer Success |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/snowflake/74a80856-fdc3-41e8-b3b1-19a1bb0930e4) |
+| Location | Seoul, Seoul, South Korea |
+| Category | Implementation / Professional Services |
+| Posted | 2026-05-08 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/snowflake/f6ce4179-b2eb-4fa7-b0c3-9257c957239e) |
 
 ## About This Role
 
-This customer success position at Snowflake was posted on 2026-03-10.
+This implementation / professional services position at Snowflake was posted on 2026-05-08.
 
 ## Get Real-Time Alerts
 

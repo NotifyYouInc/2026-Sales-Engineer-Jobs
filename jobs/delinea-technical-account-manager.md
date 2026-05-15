@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Delinea](https://scoutify.ai/companies/delinea?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | United States |
+| Location | United Kingdom |
 | Category | Customer Success |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/delinea/3fc3f46c-fc62-47ad-87e8-d8d99ad039dc) |
+| Posted | 2026-05-07 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/delinea/329caca9-d3f1-4aa2-90db-db55403dd32f) |
 
 ## About This Role
 
-This customer success position at Delinea was posted on 2026-04-30.
+This customer success position at Delinea was posted on 2026-05-07.
 
 ## Get Real-Time Alerts
 

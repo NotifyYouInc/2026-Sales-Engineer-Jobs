@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | 2 locations |
-| Category | Customer Success |
-| Posted | 2026-03-26 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/jobs/results/77575949435970246-customer-engineer-google-cloud-platform?sort_by=date&page=1) |
+| Category | Sales Engineer |
+| Posted | 2026-05-07 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckRb1thTXFfYlVUeIv0A8HUDGM3YoL531Ct50bjoER-eHEjoACxwdTDkDYmTeeOKL4t70_hNzmzmOYQFysc4NUboToj-p_Ot5ZToN50o8o1QGeKIvOb_KhC4eJcAX_V2&loc=US&title=Customer+Engineer) |
 
 ## About This Role
 
-This customer success position at Google was posted on 2026-03-26.
+This sales engineer position at Google was posted on 2026-05-07.
 
 ## Get Real-Time Alerts
 

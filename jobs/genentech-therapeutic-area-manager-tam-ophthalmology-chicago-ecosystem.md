@@ -5,12 +5,12 @@
 | Company | [Genentech](https://scoutify.ai/companies/roche?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Chicago, Illinois, United States |
 | Category | Account Manager |
-| Posted | 2026-04-07 |
-| Apply | [View on company site](https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/Chicago/Therapeutic-Area-Manager--TAM---Ophthalmology---Chicago-Ecosystem_202604-108516-2) |
+| Posted | 2026-05-07 |
+| Apply | [View on company site](https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/Chicago/Therapeutic-Area-Manager--TAM---Ophthalmology---Chicago-Ecosystem_202605-111645) |
 
 ## About This Role
 
-This account manager position at Genentech was posted on 2026-04-07.
+This account manager position at Genentech was posted on 2026-05-07.
 
 ## Get Real-Time Alerts
 

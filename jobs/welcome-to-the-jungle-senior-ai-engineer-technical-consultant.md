@@ -5,12 +5,12 @@
 | Company | [Welcome to the Jungle](https://scoutify.ai/companies/welcome-to-the-jungle?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Lausanne, Vaud, Switzerland |
 | Category | AI / LLM Engineer |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/artefactjobs/jobs/8388619002) |
+| Posted | 2026-05-07 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/artefactjobs/jobs/8538964002) |
 
 ## About This Role
 
-This ai / llm engineer position at Welcome to the Jungle was posted on 2026-04-17.
+This ai / llm engineer position at Welcome to the Jungle was posted on 2026-05-07.
 
 ## Get Real-Time Alerts
 

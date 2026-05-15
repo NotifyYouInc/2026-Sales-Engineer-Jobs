@@ -5,12 +5,12 @@
 | Company | [Anton Paar](https://scoutify.ai/companies/antonpaar?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | São Paulo, São Paulo, Brazil |
 | Category | Sales Engineer |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AntonPaar1/744000124732279-especialista-de-aplicacoes-reologia-e-analises-termicas) |
+| Posted | 2026-05-06 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AntonPaar1/744000124814107-especialista-de-aplicacoes-reologia-e-analises-termicas) |
 
 ## About This Role
 
-This sales engineer position at Anton Paar was posted on 2026-05-05.
+This sales engineer position at Anton Paar was posted on 2026-05-06.
 
 ## Get Real-Time Alerts
 

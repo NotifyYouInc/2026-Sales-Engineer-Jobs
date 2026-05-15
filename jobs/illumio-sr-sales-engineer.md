@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Illumio](https://scoutify.ai/companies/illumio?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Wisconsin, US |
+| Location | Missouri, US |
 | Category | Sales Engineer |
-| Posted | 2026-04-08 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/illumio/2d6a0ea2-d108-4177-8a9b-2679f222918f) |
+| Posted | 2026-05-07 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/illumio/4d6b6668-b40e-4560-a251-1331663438d7) |
 
 ## About This Role
 
-This sales engineer position at Illumio was posted on 2026-04-08.
+This sales engineer position at Illumio was posted on 2026-05-07.
 
 ## Get Real-Time Alerts
 

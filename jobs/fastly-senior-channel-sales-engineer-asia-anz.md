@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Fastly](https://scoutify.ai/companies/fastly?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Singapore |
+| Location | 2 locations |
 | Category | Sales Engineer |
-| Posted | 2026-03-26 |
-| Apply | [View on company site](https://www.fastly.com/about/jobs/apply?gh_jid=7748520) |
+| Posted | 2026-05-07 |
+| Apply | [View on company site](https://www.fastly.com/about/jobs/apply?gh_jid=7903415) |
 
 ## About This Role
 
-This sales engineer position at Fastly was posted on 2026-03-26.
+This sales engineer position at Fastly was posted on 2026-05-07.
 
 ## Get Real-Time Alerts
 

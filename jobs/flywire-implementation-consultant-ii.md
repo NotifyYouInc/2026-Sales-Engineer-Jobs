@@ -5,12 +5,12 @@
 | Company | [Flywire](https://scoutify.ai/companies/flywire?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Adelaide, South Australia, Australia |
 | Category | Customer Success |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Flywire1/744000120591097-implementation-consultant-ii) |
+| Posted | 2026-05-08 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Flywire1/744000125262042-implementation-consultant-ii) |
 
 ## About This Role
 
-This customer success position at Flywire was posted on 2026-04-14.
+This customer success position at Flywire was posted on 2026-05-08.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Continental](https://scoutify.ai/companies/continental?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Szeged, Csongrád, Hungary |
+| Location | Daverio, Lombardy, Italy |
 | Category | Sales Engineer |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/continental/744000120716902-application-engineering-fluid-handling-solutions) |
+| Posted | 2026-05-07 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/continental/744000125073119-application-engineering-fluid-handling-solutions) |
 
 ## About This Role
 
-This sales engineer position at Continental was posted on 2026-04-14.
+This sales engineer position at Continental was posted on 2026-05-07.
 
 ## Get Real-Time Alerts
 

@@ -2,7 +2,7 @@
 
 | Field | Details |
 |-------|---------|
-| Company | [Geotab](https://scoutify.ai/companies/internshiplist2000?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
+| Company | [Geotab](https://scoutify.ai/companies/geotab?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Oakville, Ontario, Canada |
 | Category | Technical & Solutions Architect |
 | Posted | 2026-05-04 |

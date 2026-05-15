@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Hitachi](https://scoutify.ai/companies/hitachi?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Modderfontein, Gauteng, South Africa |
+| Location | Santiago, Santiago Metropolitan, Chile |
 | Category | Sales Engineer |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Modderfontein-Gauteng-South-Africa/Tender-Quotation-Specialist_R0126783) |
+| Posted | 2026-05-07 |
+| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Santiago-Region-Metropolitana-de-Santiago-Chile/Tender-Quotation-Specialist_R0128937) |
 
 ## About This Role
 
-This sales engineer position at Hitachi was posted on 2026-04-29.
+This sales engineer position at Hitachi was posted on 2026-05-07.
 
 ## Get Real-Time Alerts
 

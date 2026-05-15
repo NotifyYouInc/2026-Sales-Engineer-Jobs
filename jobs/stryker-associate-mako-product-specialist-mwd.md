@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Stryker](https://scoutify.ai/companies/stryker?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Duisburg, North Rhine-Westphalia, Germany |
+| Location | 4 locations |
 | Category | Customer Success |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Duisburg-Germany/Associate-Mako-Product-Specialist--m-w-d-_R564365) |
+| Posted | 2026-05-07 |
+| Apply | [View on company site](https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Duisburg-Germany/Associate-Mako-Product-Specialist--m-w-d-_R565200) |
 
 ## About This Role
 
-This customer success position at Stryker was posted on 2026-04-23.
+This customer success position at Stryker was posted on 2026-05-07.
 
 ## Get Real-Time Alerts
 
