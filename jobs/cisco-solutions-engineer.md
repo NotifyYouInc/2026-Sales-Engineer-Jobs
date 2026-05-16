@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Dallas, Texas, United States |
-| Category | Technical & Solutions Architect |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Dallas-Texas-US/Solutions-Engineer_2008567) |
+| Location | Taipei, Taiwan, Taiwan |
+| Category | Sales Engineer |
+| Posted | 2026-05-07 |
+| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Taipei-Taiwan/Solutions-Engineer_2013625) |
 
 ## About This Role
 
-This technical & solutions architect position at Cisco was posted on 2026-05-05.
+This sales engineer position at Cisco was posted on 2026-05-07.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Groundworks](https://scoutify.ai/companies/groundworks?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Phenix City, Alabama, United States |
+| Location | Rush City, Minnesota, United States |
 | Category | Sales Engineer |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://groundworks.wd1.myworkdayjobs.com/groundworks/job/Phenix-City-AL/Sales---Service-Technician_JR111151) |
+| Posted | 2026-05-08 |
+| Apply | [View on company site](https://groundworks.wd1.myworkdayjobs.com/groundworks/job/Rush-City-MN/Sales---Service-Technician_JR111202) |
 
 ## About This Role
 
-This sales engineer position at Groundworks was posted on 2026-05-05.
+This sales engineer position at Groundworks was posted on 2026-05-08.
 
 ## Get Real-Time Alerts
 

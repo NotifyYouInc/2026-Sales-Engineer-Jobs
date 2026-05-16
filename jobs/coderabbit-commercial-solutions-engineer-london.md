@@ -6,7 +6,7 @@
 | Location | London, England, United Kingdom |
 | Category | Sales Engineer |
 | Posted | 2026-05-06 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/coderabbit/2538b6e3-af9f-4d9d-aef0-6ab3679886b0) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/coderabbit/3d3ad9d4-c348-46dd-8081-79f3d705b7d4) |
 
 ## About This Role
 

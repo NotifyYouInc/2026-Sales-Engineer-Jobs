@@ -1,16 +1,16 @@
-# Senior Solutions Engineer - Auth0  at Okta
+# Senior Solutions Engineer, Auth0 at Okta
 
 | Field | Details |
 |-------|---------|
 | Company | [Okta](https://scoutify.ai/companies/okta?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Warsaw, Mazovia, Poland |
-| Category | Sales Engineer |
-| Posted | 2026-04-02 |
-| Apply | [View on company site](https://www.okta.com/company/careers/opportunity/7774918?gh_jid=7774918) |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-05-08 |
+| Apply | [View on company site](https://www.okta.com/company/careers/opportunity/7897125?gh_jid=7897125) |
 
 ## About This Role
 
-This sales engineer position at Okta was posted on 2026-04-02.
+This technical & solutions architect position at Okta was posted on 2026-05-08.
 
 ## Get Real-Time Alerts
 

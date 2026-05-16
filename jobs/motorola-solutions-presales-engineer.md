@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Motorola Solutions](https://scoutify.ai/companies/motorola-solutions?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | United States |
-| Category | Technical & Solutions Architect |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Maryland-Remote-Work/Presales-Engineer_R63040) |
+| Location | Linthicum, Maryland, United States |
+| Category | Sales Engineer |
+| Posted | 2026-05-08 |
+| Apply | [View on company site](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Linthicum-MD/Presales-Engineer_R64779) |
 
 ## About This Role
 
-This technical & solutions architect position at Motorola Solutions was posted on 2026-04-13.
+This sales engineer position at Motorola Solutions was posted on 2026-05-08.
 
 ## Get Real-Time Alerts
 

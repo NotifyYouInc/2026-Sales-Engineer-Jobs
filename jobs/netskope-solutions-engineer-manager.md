@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Netskope](https://scoutify.ai/companies/netskope?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | London, England, United Kingdom |
+| Location | Not specified |
 | Category | Engineering Manager |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://www.netskope.com/company/careers/open-positions/?gh_jid=7529919) |
+| Posted | 2026-05-08 |
+| Apply | [View on company site](https://www.netskope.com/company/careers/open-positions/?gh_jid=7896682) |
 
 ## About This Role
 
-This engineering manager position at Netskope was posted on 2026-04-13.
+This engineering manager position at Netskope was posted on 2026-05-08.
 
 ## Get Real-Time Alerts
 

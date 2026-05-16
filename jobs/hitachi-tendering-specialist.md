@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Hitachi](https://scoutify.ai/companies/hitachi?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Ballerup, Capital Region, Denmark |
+| Location | Tokyo, Tokyo, Japan |
 | Category | Sales Engineer |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Ballerup-Capital-Denmark/Tendering-Specialist_R0125525) |
+| Posted | 2026-05-08 |
+| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Tokyo-Tokyo-Japan/Tendering-Specialist_R0127560-9) |
 
 ## About This Role
 
-This sales engineer position at Hitachi was posted on 2026-04-21.
+This sales engineer position at Hitachi was posted on 2026-05-08.
 
 ## Get Real-Time Alerts
 

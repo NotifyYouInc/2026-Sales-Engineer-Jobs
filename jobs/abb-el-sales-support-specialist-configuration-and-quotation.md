@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ABB](https://scoutify.ai/companies/abb?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | 2 locations |
+| Location | San Luis Potosí, San Luis Potosí, Mexico |
 | Category | Sales Engineer |
-| Posted | 2026-05-06 |
-| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Xiamen-Fujian-China/EL-Sales-Support-Specialist---Configuration-and-Quotation_JR00033415) |
+| Posted | 2026-05-08 |
+| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/San-Luis-Potosi-San-Luis-Potos-Mexico/EL-Sales-Support-Specialist---Configuration-and-Quotation_JR00028073) |
 
 ## About This Role
 
-This sales engineer position at ABB was posted on 2026-05-06.
+This sales engineer position at ABB was posted on 2026-05-08.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Abbott](https://scoutify.ai/companies/abbott-laboratories?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Bangkok, Bangkok, Thailand |
 | Category | Account Executive |
-| Posted | 2026-05-06 |
-| Apply | [View on company site](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/Thailand---Bangkok/Clinical-Sales-Specialist_31149611-1) |
+| Posted | 2026-05-07 |
+| Apply | [View on company site](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/Thailand---Bangkok/Clinical-Sales-Specialist_31149743) |
 
 ## About This Role
 
-This account executive position at Abbott was posted on 2026-05-06.
+This account executive position at Abbott was posted on 2026-05-07.
 
 ## Get Real-Time Alerts
 

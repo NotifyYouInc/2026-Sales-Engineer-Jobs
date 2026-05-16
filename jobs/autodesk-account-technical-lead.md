@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Autodesk](https://scoutify.ai/companies/autodesk?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | London, England, United Kingdom |
-| Category | Technical & Solutions Architect |
-| Posted | 2026-04-28 |
-| Apply | [View on company site](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Netherlands---Remote/Account-Technical-Lead_26WD97542) |
+| Location | Dubai, Dubai, United Arab Emirates |
+| Category | Software Engineer |
+| Posted | 2026-05-08 |
+| Apply | [View on company site](https://autodesk.wd1.myworkdayjobs.com/Ext/job/EMEA---United-Arab-Emirates---Dubai/Account-Technical-Lead_26WD97887-1) |
 
 ## About This Role
 
-This technical & solutions architect position at Autodesk was posted on 2026-04-28.
+This software engineer position at Autodesk was posted on 2026-05-08.
 
 ## Get Real-Time Alerts
 

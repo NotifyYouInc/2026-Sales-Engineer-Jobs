@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Genesys](https://scoutify.ai/companies/genesys?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Dubai, Dubai, United Arab Emirates |
+| Location | São Paulo, São Paulo, Brazil |
 | Category | Sales Engineer |
-| Posted | 2026-03-26 |
-| Apply | [View on company site](https://genesys.wd1.myworkdayjobs.com/Genesys/job/Dubai-Flexible/Senior-Solution-Consultant_JR110537-1) |
+| Posted | 2026-05-08 |
+| Apply | [View on company site](https://genesys.wd1.myworkdayjobs.com/Genesys/job/Sao-Paulo-Flexible/Senior-Solution-Consultant_JR110930-1) |
 
 ## About This Role
 
-This sales engineer position at Genesys was posted on 2026-03-26.
+This sales engineer position at Genesys was posted on 2026-05-08.
 
 ## Get Real-Time Alerts
 

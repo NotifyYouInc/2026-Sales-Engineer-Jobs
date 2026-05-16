@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Smiths Group](https://scoutify.ai/companies/smithsgroup?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Tyler, Texas, United States |
-| Category | Engineering Manager |
-| Posted | 2026-05-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SmithsGroup2/744000124929759-customer-reliability-engineer-or-technical-specialist) |
+| Category | Customer Success |
+| Posted | 2026-05-07 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SmithsGroup2/744000125170324-customer-reliability-engineer-or-technical-specialist) |
 
 ## About This Role
 
-This engineering manager position at Smiths Group was posted on 2026-05-06.
+This customer success position at Smiths Group was posted on 2026-05-07.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Truist](https://scoutify.ai/companies/truist?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | 2 locations |
+| Location | Philadelphia, Pennsylvania, United States |
 | Category | Account Executive |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://truist.wd1.myworkdayjobs.com/Careers/job/Tampa-FL/Treasury-Solutions-Consultant---Commercial_R0113450-1) |
+| Posted | 2026-05-08 |
+| Apply | [View on company site](https://truist.wd1.myworkdayjobs.com/Careers/job/Philadelphia-PA/Treasury-Solutions-Consultant---Commercial_R0114393) |
 
 ## About This Role
 
-This account executive position at Truist was posted on 2026-04-15.
+This account executive position at Truist was posted on 2026-05-08.
 
 ## Get Real-Time Alerts
 

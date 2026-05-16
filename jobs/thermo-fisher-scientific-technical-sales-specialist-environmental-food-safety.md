@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Thermo Fisher Scientific](https://scoutify.ai/companies/thermo-fisher-scientific?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Hemel Hempstead, England, United Kingdom |
+| Location | Milan, Lombardy, Italy |
 | Category | Sales Engineer |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Hemel-Hempstead-United-Kingdom/Technical-Sales-Specialist-Environmental-Food---Safety_R-01349799) |
+| Posted | 2026-05-08 |
+| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Milan-Italy/Technical-Sales-Specialist-Environmental-Food---Safety_R-01350192-1) |
 
 ## About This Role
 
-This sales engineer position at Thermo Fisher Scientific was posted on 2026-04-23.
+This sales engineer position at Thermo Fisher Scientific was posted on 2026-05-08.
 
 ## Get Real-Time Alerts
 
