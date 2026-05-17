@@ -1,16 +1,16 @@
-# Sales Engineer at UiPath
+# Technical Account Manager at TiDB
 
 | Field | Details |
 |-------|---------|
-| Company | [UiPath](https://scoutify.ai/companies/uipath?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Mexico City, Mexico City, Mexico |
-| Category | Sales Engineer |
+| Company | [TiDB](https://scoutify.ai/companies/tidb?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
+| Location | Malaysia |
+| Category | Customer Success |
 | Posted | 2026-05-09 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/uipath/d73bb353-2e4b-413e-bcd6-ef806f8dce57) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/pingcap/jobs/4011359009) |
 
 ## About This Role
 
-This sales engineer position at UiPath was posted on 2026-05-09.
+This customer success position at TiDB was posted on 2026-05-09.
 
 ## Get Real-Time Alerts
 

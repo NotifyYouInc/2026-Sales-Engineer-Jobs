@@ -1,16 +1,16 @@
-# Sales Engineer at UiPath
+# Alliances Field Engineer at Canonical
 
 | Field | Details |
 |-------|---------|
-| Company | [UiPath](https://scoutify.ai/companies/uipath?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Mexico City, Mexico City, Mexico |
+| Company | [Canonical](https://scoutify.ai/companies/canonical?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
+| Location | Not specified |
 | Category | Sales Engineer |
-| Posted | 2026-05-09 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/uipath/d73bb353-2e4b-413e-bcd6-ef806f8dce57) |
+| Posted | 2026-04-01 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/canonical/jobs/3433732) |
 
 ## About This Role
 
-This sales engineer position at UiPath was posted on 2026-05-09.
+This sales engineer position at Canonical was posted on 2026-04-01.
 
 ## Get Real-Time Alerts
 

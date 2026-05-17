@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Konecranes](https://scoutify.ai/companies/konecranes?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Indonesia |
+| Location | Palembang, South Sumatra, Indonesia |
 | Category | Sales Engineer |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Konecranes/744000123632009-sales-engineer) |
+| Posted | 2026-05-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Konecranes/744000125448779-sales-engineer) |
 
 ## About This Role
 
-This sales engineer position at Konecranes was posted on 2026-04-29.
+This sales engineer position at Konecranes was posted on 2026-05-09.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Sales Engineer at UiPath
+# Senior Sales Engineer (Mumbai) at Sophos
 
 | Field | Details |
 |-------|---------|
-| Company | [UiPath](https://scoutify.ai/companies/uipath?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Mexico City, Mexico City, Mexico |
+| Company | [Sophos](https://scoutify.ai/companies/sophos?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
+| Location | Mumbai, Maharashtra, India |
 | Category | Sales Engineer |
 | Posted | 2026-05-09 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/uipath/d73bb353-2e4b-413e-bcd6-ef806f8dce57) |
+| Apply | [View on company site](https://jobs.lever.co/sophos/90329856-63dc-4ca4-bcc0-4b35ae05feba) |
 
 ## About This Role
 
-This sales engineer position at UiPath was posted on 2026-05-09.
+This sales engineer position at Sophos was posted on 2026-05-09.
 
 ## Get Real-Time Alerts
 
