@@ -1,16 +1,16 @@
-# Sales Engineer at Zeiss
+# Brand Sales Specialist - ZStack at IBM
 
 | Field | Details |
 |-------|---------|
-| Company | [Zeiss](https://scoutify.ai/companies/zeissgroup?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Hangzhou, Zhejiang, China |
-| Category | Sales Engineer |
+| Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
+| Location | Mumbai, Maharashtra, India |
+| Category | Account Executive |
 | Posted | 2026-05-11 |
-| Apply | [View on company site](https://zeissgroup.wd3.myworkdayjobs.com/External/job/Hangzhou/Sales-Engineer_JR_1048728) |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=111329) |
 
 ## About This Role
 
-This sales engineer position at Zeiss was posted on 2026-05-11.
+This account executive position at IBM was posted on 2026-05-11.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Sales Engineer at Zeiss
+# Senior Inside sales Engineer at Rotork
 
 | Field | Details |
 |-------|---------|
-| Company | [Zeiss](https://scoutify.ai/companies/zeissgroup?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Hangzhou, Zhejiang, China |
+| Company | [Rotork](https://scoutify.ai/companies/rotork?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
+| Location | Chennai, Tamil Nadu, India |
 | Category | Sales Engineer |
 | Posted | 2026-05-11 |
-| Apply | [View on company site](https://zeissgroup.wd3.myworkdayjobs.com/External/job/Hangzhou/Sales-Engineer_JR_1048728) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Rotork1/744000125733859-senior-inside-sales-engineer) |
 
 ## About This Role
 
-This sales engineer position at Zeiss was posted on 2026-05-11.
+This sales engineer position at Rotork was posted on 2026-05-11.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Test Solutions Engineer at Micron
+# Intern - Solutions Engineer at Micron
 
 | Field | Details |
 |-------|---------|
 | Company | [Micron](https://scoutify.ai/companies/micron?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Hyderabad, Telangana, India |
-| Category | Embedded / Firmware Engineer |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Hyderabad---Phoenix-Aquila-India/Test-Solutions-Engineer_JR99088) |
+| Location | Singapore, Singapore |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-05-10 |
+| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Fab-10A-Singapore/Intern---Solutions-Engineer_JR98556) |
 
 ## About This Role
 
-This embedded / firmware engineer position at Micron was posted on 2026-05-11.
+This technical & solutions architect position at Micron was posted on 2026-05-10.
 
 ## Get Real-Time Alerts
 

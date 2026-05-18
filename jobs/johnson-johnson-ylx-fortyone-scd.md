@@ -1,16 +1,16 @@
-# Sales Engineer at Zeiss
+# YLX fortyone SCD at Johnson & Johnson
 
 | Field | Details |
 |-------|---------|
-| Company | [Zeiss](https://scoutify.ai/companies/zeissgroup?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Hangzhou, Zhejiang, China |
+| Company | [Johnson & Johnson](https://scoutify.ai/companies/johnson-johnson?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
+| Location | Nanjing, Jiangsu, China |
 | Category | Sales Engineer |
 | Posted | 2026-05-11 |
-| Apply | [View on company site](https://zeissgroup.wd3.myworkdayjobs.com/External/job/Hangzhou/Sales-Engineer_JR_1048728) |
+| Apply | [View on company site](https://jj.wd5.myworkdayjobs.com/JJ/job/Nanjing-Jiangsu-China/YLX-fortyone-SCD_R-065419) |
 
 ## About This Role
 
-This sales engineer position at Zeiss was posted on 2026-05-11.
+This sales engineer position at Johnson & Johnson was posted on 2026-05-11.
 
 ## Get Real-Time Alerts
 

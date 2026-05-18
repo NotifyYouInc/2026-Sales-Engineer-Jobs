@@ -1,16 +1,16 @@
-# Sales Engineer at Zeiss
+# CAS_Associate Clinical Specialist_Guiyang at Medtronic
 
 | Field | Details |
 |-------|---------|
-| Company | [Zeiss](https://scoutify.ai/companies/zeissgroup?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Hangzhou, Zhejiang, China |
+| Company | [Medtronic](https://scoutify.ai/companies/medtronic?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
+| Location | Guizhou, CN |
 | Category | Sales Engineer |
 | Posted | 2026-05-11 |
-| Apply | [View on company site](https://zeissgroup.wd3.myworkdayjobs.com/External/job/Hangzhou/Sales-Engineer_JR_1048728) |
+| Apply | [View on company site](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Gui-Yang-Guizhou-China/CAS-Associate-Clinical-Specialist-Guiyang_R66572-1) |
 
 ## About This Role
 
-This sales engineer position at Zeiss was posted on 2026-05-11.
+This sales engineer position at Medtronic was posted on 2026-05-11.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Sales Engineer at Zeiss
+# Technical Account Manager  at Varicent
 
 | Field | Details |
 |-------|---------|
-| Company | [Zeiss](https://scoutify.ai/companies/zeissgroup?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Hangzhou, Zhejiang, China |
-| Category | Sales Engineer |
+| Company | [Varicent](https://scoutify.ai/companies/varicent?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
+| Location | Columbus, Ohio, United States |
+| Category | Customer Success |
 | Posted | 2026-05-11 |
-| Apply | [View on company site](https://zeissgroup.wd3.myworkdayjobs.com/External/job/Hangzhou/Sales-Engineer_JR_1048728) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/varicent/jobs/5215544008) |
 
 ## About This Role
 
-This sales engineer position at Zeiss was posted on 2026-05-11.
+This customer success position at Varicent was posted on 2026-05-11.
 
 ## Get Real-Time Alerts
 

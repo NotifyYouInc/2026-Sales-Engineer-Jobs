@@ -1,16 +1,16 @@
-# Sales Engineer at Zeiss
+# Sr Customer Engineer - ANZ  at Pendo
 
 | Field | Details |
 |-------|---------|
-| Company | [Zeiss](https://scoutify.ai/companies/zeissgroup?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Hangzhou, Zhejiang, China |
-| Category | Sales Engineer |
+| Company | [Pendo](https://scoutify.ai/companies/pendo?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
+| Location | Sydney, New South Wales, Australia |
+| Category | Customer Success |
 | Posted | 2026-05-11 |
-| Apply | [View on company site](https://zeissgroup.wd3.myworkdayjobs.com/External/job/Hangzhou/Sales-Engineer_JR_1048728) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/pendo/jobs/8525012002) |
 
 ## About This Role
 
-This sales engineer position at Zeiss was posted on 2026-05-11.
+This customer success position at Pendo was posted on 2026-05-11.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Sales Engineer at Zeiss
+# Sr.Channel Sales Engineer,Xiamen at Johnson Controls
 
 | Field | Details |
 |-------|---------|
-| Company | [Zeiss](https://scoutify.ai/companies/zeissgroup?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Hangzhou, Zhejiang, China |
+| Company | [Johnson Controls](https://scoutify.ai/companies/jci?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
+| Location | Xiamen, Fujian, China |
 | Category | Sales Engineer |
 | Posted | 2026-05-11 |
-| Apply | [View on company site](https://zeissgroup.wd3.myworkdayjobs.com/External/job/Hangzhou/Sales-Engineer_JR_1048728) |
+| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Xiamen-Fujian-China/SrChannel-Sales-Engineer-Xiamen_WD30267828) |
 
 ## About This Role
 
-This sales engineer position at Zeiss was posted on 2026-05-11.
+This sales engineer position at Johnson Controls was posted on 2026-05-11.
 
 ## Get Real-Time Alerts
 

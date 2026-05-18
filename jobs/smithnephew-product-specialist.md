@@ -1,16 +1,16 @@
-# Product specialist at Smith+Nephew
+# Product Specialist at Smith+Nephew
 
 | Field | Details |
 |-------|---------|
 | Company | [Smith+Nephew](https://scoutify.ai/companies/smithnephew?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Saudi Arabia |
-| Category | Marketing |
-| Posted | 2026-05-06 |
-| Apply | [View on company site](https://smithnephew.wd5.myworkdayjobs.com/External/job/SAU-Central-Region-Riyadh-City-Kharj-City-Buraidah-City-Onaizah-city/Product-specialist_R90309) |
+| Location | 3 locations |
+| Category | Business Development |
+| Posted | 2026-05-10 |
+| Apply | [View on company site](https://smithnephew.wd5.myworkdayjobs.com/External/job/ITA---Field/Product-Specialist_R89978) |
 
 ## About This Role
 
-This marketing position at Smith+Nephew was posted on 2026-05-06.
+This business development position at Smith+Nephew was posted on 2026-05-10.
 
 ## Get Real-Time Alerts
 

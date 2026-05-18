@@ -1,16 +1,16 @@
-# Sales Engineer at Wabtec
+# Territory Manager (m/w/d) NDT - Sales Specialist ZfP at Wabtec
 
 | Field | Details |
 |-------|---------|
 | Company | [Wabtec](https://scoutify.ai/companies/wabtec?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | New Gisborne, Victoria, Australia |
-| Category | Sales Engineer |
+| Location | Hamburg, Hamburg, Germany |
+| Category | Account Executive |
 | Posted | 2026-05-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wabtec/3743990013059996-sales-engineer) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Wabtec/3743990013060346-territory-manager-mwd-ndt-sales-specialist-zfp) |
 
 ## About This Role
 
-This sales engineer position at Wabtec was posted on 2026-05-11.
+This account executive position at Wabtec was posted on 2026-05-11.
 
 ## Get Real-Time Alerts
 

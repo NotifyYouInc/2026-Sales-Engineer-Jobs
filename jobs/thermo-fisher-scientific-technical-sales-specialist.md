@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Thermo Fisher Scientific](https://scoutify.ai/companies/thermo-fisher-scientific?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Chennai, Tamil Nadu, India |
+| Location | Beijing, Beijing, China |
 | Category | Sales Engineer |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Chennai-India/Technical-Sales-Specialist_R-01350498) |
+| Posted | 2026-05-11 |
+| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Beijing-China/Technical-Sales-Specialist_R-01352908) |
 
 ## About This Role
 
-This sales engineer position at Thermo Fisher Scientific was posted on 2026-05-05.
+This sales engineer position at Thermo Fisher Scientific was posted on 2026-05-11.
 
 ## Get Real-Time Alerts
 

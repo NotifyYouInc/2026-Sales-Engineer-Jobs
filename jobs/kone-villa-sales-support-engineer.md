@@ -1,16 +1,16 @@
-# Sales Engineer at Zeiss
+# Villa Sales Support Engineer at Kone
 
 | Field | Details |
 |-------|---------|
-| Company | [Zeiss](https://scoutify.ai/companies/zeissgroup?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Hangzhou, Zhejiang, China |
+| Company | [Kone](https://scoutify.ai/companies/kone?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
+| Location | Shanghai, Shanghai, China |
 | Category | Sales Engineer |
 | Posted | 2026-05-11 |
-| Apply | [View on company site](https://zeissgroup.wd3.myworkdayjobs.com/External/job/Hangzhou/Sales-Engineer_JR_1048728) |
+| Apply | [View on company site](https://kone.wd3.myworkdayjobs.com/careers/job/Shanghai-FL-HQ/Villa-Sales-Support-Engineer_R0660360) |
 
 ## About This Role
 
-This sales engineer position at Zeiss was posted on 2026-05-11.
+This sales engineer position at Kone was posted on 2026-05-11.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Rotork](https://scoutify.ai/companies/rotork?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Rotterdam, South Holland, The Netherlands |
+| Location | Chennai, Tamil Nadu, India |
 | Category | Sales Engineer |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Rotork1/744000107542666-inside-sales-engineer) |
+| Posted | 2026-05-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Rotork1/744000125735072-inside-sales-engineer) |
 
 ## About This Role
 
-This sales engineer position at Rotork was posted on 2026-02-05.
+This sales engineer position at Rotork was posted on 2026-05-11.
 
 ## Get Real-Time Alerts
 
