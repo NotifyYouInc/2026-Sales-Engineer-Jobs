@@ -5,12 +5,12 @@
 | Company | [Hitachi](https://scoutify.ai/companies/hitachi?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Mannheim, Baden-Wurttemberg, Germany |
 | Category | Electrical / Hardware Engineer |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Mannheim-Baden-Wurttemberg-Germany/Associate-Technical-Consultant--f-m-d-_R0127713) |
+| Posted | 2026-05-11 |
+| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Mannheim-Baden-Wurttemberg-Germany/Associate-Technical-Consultant--f-m-d-_R0128153) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Hitachi was posted on 2026-04-30.
+This electrical / hardware engineer position at Hitachi was posted on 2026-05-11.
 
 ## Get Real-Time Alerts
 

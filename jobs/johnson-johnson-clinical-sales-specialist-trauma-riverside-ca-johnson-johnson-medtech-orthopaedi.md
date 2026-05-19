@@ -1,16 +1,16 @@
-# Clinical Sales Specialist, Trauma (Riverside, CA) - Johnson & Johnson MedTech - Orthopaedics at Johnson & Johnson
+# Clinical Sales Specialist, Trauma (Riverside, CA) Johnson & Johnson MedTech - Orthopaedics at Johnson & Johnson
 
 | Field | Details |
 |-------|---------|
 | Company | [Johnson & Johnson](https://scoutify.ai/companies/johnson-johnson?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Riverside, California, United States |
 | Category | Account Executive |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://jj.wd5.myworkdayjobs.com/JJ/job/Riverside-California-United-States/Clinical-Sales-Specialist--Trauma--Riverside--CA----Johnson---Johnson-MedTech---Orthopaedics_R-067535-1) |
+| Posted | 2026-05-11 |
+| Apply | [View on company site](https://jj.wd5.myworkdayjobs.com/JJ/job/Riverside-California-United-States/Clinical-Sales-Specialist--Trauma--Riverside--CA--Johnson---Johnson-MedTech---Orthopaedics_R-074900) |
 
 ## About This Role
 
-This account executive position at Johnson & Johnson was posted on 2026-04-13.
+This account executive position at Johnson & Johnson was posted on 2026-05-11.
 
 ## Get Real-Time Alerts
 

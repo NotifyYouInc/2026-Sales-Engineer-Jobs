@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Netskope](https://scoutify.ai/companies/netskope?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Melbourne, Victoria, Australia |
 | Category | Sales Engineer |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://www.netskope.com/company/careers/open-positions/?gh_jid=7871114) |
+| Posted | 2026-05-11 |
+| Apply | [View on company site](https://www.netskope.com/company/careers/open-positions/?gh_jid=7903875) |
 
 ## About This Role
 
-This sales engineer position at Netskope was posted on 2026-05-05.
+This sales engineer position at Netskope was posted on 2026-05-11.
 
 ## Get Real-Time Alerts
 

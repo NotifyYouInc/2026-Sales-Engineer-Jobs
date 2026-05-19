@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Three UK](https://scoutify.ai/companies/threeuk?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Newbury, England, United Kingdom |
-| Category | Sales Engineer |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Three-UK/744000116565276-vodafonethree-three-mobile-product-specialist-regulated-products) |
+| Category | Product Manager |
+| Posted | 2026-05-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Three-UK/744000125762248-vodafonethree-three-mobile-product-specialist-regulated-products) |
 
 ## About This Role
 
-This sales engineer position at Three UK was posted on 2026-03-25.
+This product manager position at Three UK was posted on 2026-05-11.
 
 ## Get Real-Time Alerts
 

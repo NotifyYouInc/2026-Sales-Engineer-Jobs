@@ -1,16 +1,16 @@
-# Senior Sales Engineer  at UiPath
+# Senior Sales Engineer at UiPath
 
 | Field | Details |
 |-------|---------|
 | Company | [UiPath](https://scoutify.ai/companies/uipath?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Tokyo, Tokyo, Japan |
-| Category | Sales |
-| Posted | 2026-02-06 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/uipath/ce06a51e-f2cb-48c6-96ef-fa5dc6f8e14a) |
+| Location | Madrid, Madrid, Spain |
+| Category | Sales Engineer |
+| Posted | 2026-05-11 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/uipath/7e6ebefa-4df3-4723-9ab1-b5be2296968a) |
 
 ## About This Role
 
-This sales position at UiPath was posted on 2026-02-06.
+This sales engineer position at UiPath was posted on 2026-05-11.
 
 ## Get Real-Time Alerts
 

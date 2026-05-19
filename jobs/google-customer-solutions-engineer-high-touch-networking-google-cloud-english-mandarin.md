@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Singapore, Singapore |
-| Category | Operations |
-| Posted | 2026-02-04 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/jobs/results/89133778907079366-customer-solutions-engineer-high-touch-networking-google-cloud-english-mandarin?sort_by=date&page=1) |
+| Category | Customer Success |
+| Posted | 2026-05-11 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2Fckd1q7AR2lETZ6SKBDXF4k-0ZObgNz_8BvGYE8AYKF2EhEjsACxwdTPNHxdSUqqGtnlie0qSYboMVz5Wh_haFN2AcdaHK606XWT6LPmVmAQ2nIrs7OkYRt2aesjjauQ%3D%3D_V2&loc=SG&title=Customer+Solutions+Engineer) |
 
 ## About This Role
 
-This operations position at Google was posted on 2026-02-04.
+This customer success position at Google was posted on 2026-05-11.
 
 ## Get Real-Time Alerts
 

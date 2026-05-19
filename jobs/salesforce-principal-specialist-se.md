@@ -1,16 +1,16 @@
-# Principal Specialist SE at Salesforce
+# Principal, Specialist SE at Salesforce
 
 | Field | Details |
 |-------|---------|
 | Company | [Salesforce](https://scoutify.ai/companies/salesforce?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | London, England, United Kingdom |
+| Location | McLean, Virginia, United States |
 | Category | Sales Engineer |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/United-Kingdom---London/Principal-Specialist-SE_JR332501-1) |
+| Posted | 2026-05-11 |
+| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Virginia---Mclean/Principal--Specialist-SE_JR341263) |
 
 ## About This Role
 
-This sales engineer position at Salesforce was posted on 2026-03-17.
+This sales engineer position at Salesforce was posted on 2026-05-11.
 
 ## Get Real-Time Alerts
 

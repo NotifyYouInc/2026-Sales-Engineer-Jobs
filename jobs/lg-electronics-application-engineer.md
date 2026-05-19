@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [LG Electronics](https://scoutify.ai/companies/lg-electronics?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Alpharetta, Georgia, United States |
+| Location | Orange, California, United States |
 | Category | Software Engineer |
-| Posted | 2026-05-07 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/lgelectronics/jobs/5213062008) |
+| Posted | 2026-05-08 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/lgelectronics/jobs/5213045008) |
 
 ## About This Role
 
-This software engineer position at LG Electronics was posted on 2026-05-07.
+This software engineer position at LG Electronics was posted on 2026-05-08.
 
 ## Get Real-Time Alerts
 

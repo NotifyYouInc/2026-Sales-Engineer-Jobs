@@ -1,16 +1,16 @@
-# Account technical Executive at Cadence Design Systems
+# Account Technical Executive at Cadence Design Systems
 
 | Field | Details |
 |-------|---------|
 | Company | [Cadence Design Systems](https://scoutify.ai/companies/cadence-design-systems?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Israel |
+| Location | Bengaluru, Karnataka, India |
 | Category | Sales Engineer |
-| Posted | 2026-05-07 |
-| Apply | [View on company site](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/PETAH-TIKVA/Account-technical-Executive_R54472) |
+| Posted | 2026-05-11 |
+| Apply | [View on company site](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/BANGALORE/Account-Technical-Executive_R54652) |
 
 ## About This Role
 
-This sales engineer position at Cadence Design Systems was posted on 2026-05-07.
+This sales engineer position at Cadence Design Systems was posted on 2026-05-11.
 
 ## Get Real-Time Alerts
 

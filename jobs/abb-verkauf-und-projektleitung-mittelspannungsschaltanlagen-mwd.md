@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ABB](https://scoutify.ai/companies/abb?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Innsbruck, Tyrol, Austria |
+| Location | Wiener Neudorf, Lower Austria, Austria |
 | Category | Project Manager |
-| Posted | 2026-04-10 |
-| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Innsbruck-Tyrol-Austria/Verkauf-und-Projektleitung-Mittelspannungsschaltanlagen--m-w-d-_JR00029579) |
+| Posted | 2026-05-11 |
+| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Wiener-Neudorf-Lower-Austria-Austria/Verkauf-und-Projektleitung-Mittelspannungsschaltanlagen--m-w-d-_JR00034535-1) |
 
 ## About This Role
 
-This project manager position at ABB was posted on 2026-04-10.
+This project manager position at ABB was posted on 2026-05-11.
 
 ## Get Real-Time Alerts
 

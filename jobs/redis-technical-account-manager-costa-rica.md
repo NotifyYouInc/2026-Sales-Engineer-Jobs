@@ -5,12 +5,12 @@
 | Company | [Redis](https://scoutify.ai/companies/redis?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Costa Rica |
 | Category | Customer Success |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/redis/f20e65e2-92a9-4ee2-8197-1cba8045827b) |
+| Posted | 2026-05-11 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/redis/75889667-3e51-496b-b467-c99bd0916468) |
 
 ## About This Role
 
-This customer success position at Redis was posted on 2026-04-22.
+This customer success position at Redis was posted on 2026-05-11.
 
 ## Get Real-Time Alerts
 

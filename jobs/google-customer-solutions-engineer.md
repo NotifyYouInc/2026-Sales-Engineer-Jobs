@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Bengaluru, Karnataka, India |
-| Category | Customer Success |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/jobs/results/73916797824180934-customer-solutions-engineer?sort_by=date&page=1) |
+| Location | Dublin, Leinster, Ireland |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-05-11 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2Fcka-RGe6qCojU5G4KS7FKfL2rA8htS89jr4zW7oIwrCZXEjsACxwdTD4xxChOqcFFKuD_5CBoL90lIo2LbWylyTU6Y0ucpXEA0SbDBlSI_lhAP8GwHqge8W-o0Bk4wg%3D%3D_V2&loc=IE&title=Customer+Solutions+Engineer) |
 
 ## About This Role
 
-This customer success position at Google was posted on 2026-02-17.
+This technical & solutions architect position at Google was posted on 2026-05-11.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Delinea](https://scoutify.ai/companies/delinea?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | United Kingdom |
+| Location | Australia |
 | Category | Sales Engineer |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/delinea/2ec12c09-b55c-476c-a995-31bb52f0a91d) |
+| Posted | 2026-05-11 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/delinea/b3dd63c2-32fb-4158-a052-8bcb0ab1a163) |
 
 ## About This Role
 
-This sales engineer position at Delinea was posted on 2026-04-13.
+This sales engineer position at Delinea was posted on 2026-05-11.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Medtronic](https://scoutify.ai/companies/medtronic?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Caen, Normandy, France |
+| Location | Lyon, Rhône-Alpes, France |
 | Category | Sales Engineer |
-| Posted | 2026-04-27 |
-| Apply | [View on company site](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Caen-Normandie-France/Ingnieur-d-Application-F-H_R62589-1) |
+| Posted | 2026-05-11 |
+| Apply | [View on company site](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Lyon-Auvergne-Rhone-Alpes-France/Ingnieur-d-Application-F-H_R65819) |
 
 ## About This Role
 
-This sales engineer position at Medtronic was posted on 2026-04-27.
+This sales engineer position at Medtronic was posted on 2026-05-11.
 
 ## Get Real-Time Alerts
 

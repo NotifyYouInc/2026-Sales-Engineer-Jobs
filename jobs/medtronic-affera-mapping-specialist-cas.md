@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Medtronic](https://scoutify.ai/companies/medtronic?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Los Angeles, California, United States |
+| Location | Newport Beach, California, United States |
 | Category | Sales Engineer |
-| Posted | 2026-05-07 |
-| Apply | [View on company site](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Los-Angeles-California-United-States-of-America/Affera-Mapping-Specialist---CAS_R66193-1) |
+| Posted | 2026-05-11 |
+| Apply | [View on company site](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Newport-Beach-California-United-States-of-America/Affera-Mapping-Specialist---CAS_R66188-1) |
 
 ## About This Role
 
-This sales engineer position at Medtronic was posted on 2026-05-07.
+This sales engineer position at Medtronic was posted on 2026-05-11.
 
 ## Get Real-Time Alerts
 

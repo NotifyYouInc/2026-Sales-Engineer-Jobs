@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [RSM](https://scoutify.ai/companies/rsm?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Toronto, Ontario, Canada |
+| Location | San Salvador, San Salvador Department, El Salvador |
 | Category | Customer Success |
-| Posted | 2026-05-07 |
-| Apply | [View on company site](https://rsm.wd1.myworkdayjobs.com/RSMCareers/job/Toronto/Dayforce-Implementation-Consultant_JR119442) |
+| Posted | 2026-05-08 |
+| Apply | [View on company site](https://rsm.wd1.myworkdayjobs.com/RSMCareers/job/San-Salvador/Dayforce-Implementation-Consultant_JR119466) |
 
 ## About This Role
 
-This customer success position at RSM was posted on 2026-05-07.
+This customer success position at RSM was posted on 2026-05-08.
 
 ## Get Real-Time Alerts
 

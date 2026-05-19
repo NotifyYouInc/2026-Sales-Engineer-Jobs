@@ -5,12 +5,12 @@
 | Company | [Tanium](https://scoutify.ai/companies/tanium?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Florida, US |
 | Category | Sales Engineer |
-| Posted | 2026-04-10 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/tanium/jobs/7800543) |
+| Posted | 2026-05-12 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/tanium/jobs/7909436) |
 
 ## About This Role
 
-This sales engineer position at Tanium was posted on 2026-04-10.
+This sales engineer position at Tanium was posted on 2026-05-12.
 
 ## Get Real-Time Alerts
 

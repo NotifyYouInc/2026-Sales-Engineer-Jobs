@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sutherland](https://scoutify.ai/companies/sutherland?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Colombia |
-| Category | DevOps Engineer |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Sutherland/744000115234938-implementation-engineer-ciscoomnichannel-cx) |
+| Location | Bogotá, Bogota D.C., Colombia |
+| Category | Customer Success |
+| Posted | 2026-05-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Sutherland/744000125871808-implementation-engineer-ciscoomnichannel-cx) |
 
 ## About This Role
 
-This devops engineer position at Sutherland was posted on 2026-03-17.
+This customer success position at Sutherland was posted on 2026-05-11.
 
 ## Get Real-Time Alerts
 

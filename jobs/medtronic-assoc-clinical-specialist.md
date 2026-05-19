@@ -1,16 +1,16 @@
-# Assoc Clinical Specialist at Medtronic
+# Assoc Clinical  Specialist at Medtronic
 
 | Field | Details |
 |-------|---------|
 | Company | [Medtronic](https://scoutify.ai/companies/medtronic?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | San Juan, San Juan, Puerto Rico |
+| Location | Chandigarh, Chandigarh, India |
 | Category | Sales Engineer |
-| Posted | 2026-04-06 |
-| Apply | [View on company site](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/San-Juan-Puerto-Rico-United-States-of-America/Assoc-Clinical-Specialist_R62331-1) |
+| Posted | 2026-05-11 |
+| Apply | [View on company site](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Chandigarh-Chandigarh-India/Assoc-Clinical--Specialist_R64712-1) |
 
 ## About This Role
 
-This sales engineer position at Medtronic was posted on 2026-04-06.
+This sales engineer position at Medtronic was posted on 2026-05-11.
 
 ## Get Real-Time Alerts
 

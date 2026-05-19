@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Copeland](https://scoutify.ai/companies/copeland?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Belluno, Veneto, Italy |
-| Category | Account Executive |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://copeland.wd5.myworkdayjobs.com/copeland_external_careers_page/job/Belluno-Italy/Technical-Sales-Engineer_JR113573) |
+| Location | Quezon City, National Capital Region, Philippines |
+| Category | Sales Engineer |
+| Posted | 2026-05-11 |
+| Apply | [View on company site](https://copeland.wd5.myworkdayjobs.com/copeland_external_careers_page/job/Quezon-City-Manila-Philippines/Technical-Sales-Engineer_JR114940-1) |
 
 ## About This Role
 
-This account executive position at Copeland was posted on 2026-03-10.
+This sales engineer position at Copeland was posted on 2026-05-11.
 
 ## Get Real-Time Alerts
 

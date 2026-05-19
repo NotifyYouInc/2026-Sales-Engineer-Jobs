@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Zeiss](https://scoutify.ai/companies/zeissgroup?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Shanghai, Shanghai, China |
-| Category | Marketing |
-| Posted | 2026-03-19 |
-| Apply | [View on company site](https://zeissgroup.wd3.myworkdayjobs.com/External/job/Shanghai/Senior-Product-Specialist_JR_1048197) |
+| Location | Taipei, Taiwan, Taiwan |
+| Category | Product Manager |
+| Posted | 2026-05-12 |
+| Apply | [View on company site](https://zeissgroup.wd3.myworkdayjobs.com/External/job/Taipei/Senior-Product-Specialist_JR_1048922-1) |
 
 ## About This Role
 
-This marketing position at Zeiss was posted on 2026-03-19.
+This product manager position at Zeiss was posted on 2026-05-12.
 
 ## Get Real-Time Alerts
 
