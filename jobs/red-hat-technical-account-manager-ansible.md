@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Red Hat](https://scoutify.ai/companies/red-hat?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Colorado, US |
+| Location | Connecticut, US |
 | Category | Customer Success |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://redhat.wd5.myworkdayjobs.com/Jobs/job/Remote-US-CO/Technical-Account-Manager---Ansible_R-056886) |
+| Posted | 2026-05-12 |
+| Apply | [View on company site](https://redhat.wd5.myworkdayjobs.com/Jobs/job/Remote-US-CT/Technical-Account-Manager---Ansible_R-056701-1) |
 
 ## About This Role
 
-This customer success position at Red Hat was posted on 2026-05-05.
+This customer success position at Red Hat was posted on 2026-05-12.
 
 ## Get Real-Time Alerts
 

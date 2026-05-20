@@ -5,12 +5,12 @@
 | Company | [AlphaSense](https://scoutify.ai/companies/alphasense?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | London, England, United Kingdom |
 | Category | Sales Engineer |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/alphasense/jobs/8527865002) |
+| Posted | 2026-05-12 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/alphasense/jobs/8545275002) |
 
 ## About This Role
 
-This sales engineer position at AlphaSense was posted on 2026-04-29.
+This sales engineer position at AlphaSense was posted on 2026-05-12.
 
 ## Get Real-Time Alerts
 

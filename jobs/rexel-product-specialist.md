@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [REXEL](https://scoutify.ai/companies/rexel?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Farmingdale, New York, United States |
-| Category | Sales Engineer |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/REXEL1/744000122468239-product-specialist) |
+| Location | Capitol Heights, Maryland, United States |
+| Category | Account Manager |
+| Posted | 2026-05-12 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/REXEL1/744000126163669-product-specialist) |
 
 ## About This Role
 
-This sales engineer position at REXEL was posted on 2026-04-23.
+This account manager position at REXEL was posted on 2026-05-12.
 
 ## Get Real-Time Alerts
 

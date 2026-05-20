@@ -1,16 +1,16 @@
-# Tender & Quotation Specialist at Hitachi
+# Tender Quotation Specialist at Hitachi
 
 | Field | Details |
 |-------|---------|
 | Company | [Hitachi](https://scoutify.ai/companies/hitachi?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Dammam, Eastern Province, Saudi Arabia |
+| Location | Chennai, Tamil Nadu, India |
 | Category | Sales Engineer |
-| Posted | 2026-04-26 |
-| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Dammam-Eastern-Region-Saudi-Arabia/Tender---Quotation-Specialist_R0121595-1) |
+| Posted | 2026-05-13 |
+| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Chennai-Tamil-Nadu-India/Tender-Quotation-Specialist_R0111956) |
 
 ## About This Role
 
-This sales engineer position at Hitachi was posted on 2026-04-26.
+This sales engineer position at Hitachi was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 

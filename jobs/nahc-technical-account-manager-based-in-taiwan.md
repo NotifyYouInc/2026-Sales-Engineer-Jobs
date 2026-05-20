@@ -5,12 +5,12 @@
 | Company | [Nahc](https://scoutify.ai/companies/nahc?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Taiwan |
 | Category | Sales Engineer |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://jobs.lever.co/nahc/14894956-21ca-42ad-9b94-711b1bc426f3) |
+| Posted | 2026-05-13 |
+| Apply | [View on company site](https://jobs.lever.co/nahc/86343acf-41b5-4a7f-8764-e6d724ad44c4) |
 
 ## About This Role
 
-This sales engineer position at Nahc was posted on 2026-04-15.
+This sales engineer position at Nahc was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 

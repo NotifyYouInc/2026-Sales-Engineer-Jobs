@@ -5,12 +5,12 @@
 | Company | [Sixt](https://scoutify.ai/companies/sixt?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Lisbon, Lisbon, Portugal |
 | Category | Human Resources / People Ops |
-| Posted | 2026-04-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SIXT/744000123241359-workday-solutions-specialist-mfd) |
+| Posted | 2026-05-12 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SIXT/744000126064290-workday-solutions-specialist-mfd) |
 
 ## About This Role
 
-This human resources / people ops position at Sixt was posted on 2026-04-27.
+This human resources / people ops position at Sixt was posted on 2026-05-12.
 
 ## Get Real-Time Alerts
 

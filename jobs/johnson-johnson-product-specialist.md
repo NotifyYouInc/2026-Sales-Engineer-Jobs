@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Johnson & Johnson](https://scoutify.ai/companies/johnson-johnson?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Bangkok, Bangkok, Thailand |
-| Category | Channel / Partner Sales |
-| Posted | 2026-05-08 |
-| Apply | [View on company site](https://jj.wd5.myworkdayjobs.com/JJ/job/Bangkok-Bangkok-Thailand/Product-Specialist_R-073695) |
+| Location | Guangzhou, Guangdong, China |
+| Category | Sales Engineer |
+| Posted | 2026-05-12 |
+| Apply | [View on company site](https://jj.wd5.myworkdayjobs.com/JJ/job/Guangzhou-Guangdong-China/Product-Specialist_R-075701) |
 
 ## About This Role
 
-This channel / partner sales position at Johnson & Johnson was posted on 2026-05-08.
+This sales engineer position at Johnson & Johnson was posted on 2026-05-12.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Hitachi](https://scoutify.ai/companies/hitachi?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Capital Region, DK |
+| Location | Denmark |
 | Category | Customer Success |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Kgs-Lyngby-Capital-Region-Denmark/Customer-Engineer-Nordics_R01036600) |
+| Posted | 2026-05-12 |
+| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Remote---Denmark/Customer-Engineer-Nordics_R0128230) |
 
 ## About This Role
 
-This customer success position at Hitachi was posted on 2026-03-25.
+This customer success position at Hitachi was posted on 2026-05-12.
 
 ## Get Real-Time Alerts
 

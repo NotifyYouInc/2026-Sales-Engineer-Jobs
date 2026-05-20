@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Landeed](https://scoutify.ai/companies/landeed?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Not specified |
-| Category | Technical Writer |
-| Posted | 2026-03-24 |
+| Location | Hyderabad, Telangana, India |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-05-12 |
 | Apply | [View on company site](https://www.ycombinator.com/companies/landeed/jobs/l7L0SeB-associate-solutions-engineer) |
 
 ## About This Role
 
-This technical writer position at Landeed was posted on 2026-03-24.
+This technical & solutions architect position at Landeed was posted on 2026-05-12.
 
 ## Get Real-Time Alerts
 

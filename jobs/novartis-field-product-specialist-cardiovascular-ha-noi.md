@@ -5,12 +5,12 @@
 | Company | [Novartis](https://scoutify.ai/companies/novartis?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Vietnam |
 | Category | Account Executive |
-| Posted | 2026-03-27 |
-| Apply | [View on company site](https://novartis.wd3.myworkdayjobs.com/novartis_careers/job/Vietnam/Field-Product-Specialist---Cardiovascular---Ha-Noi_REQ-10074951) |
+| Posted | 2026-05-12 |
+| Apply | [View on company site](https://novartis.wd3.myworkdayjobs.com/novartis_careers/job/Vietnam/Field-Product-Specialist---Cardiovascular---Ha-Noi_REQ-10078007-1) |
 
 ## About This Role
 
-This account executive position at Novartis was posted on 2026-03-27.
+This account executive position at Novartis was posted on 2026-05-12.
 
 ## Get Real-Time Alerts
 

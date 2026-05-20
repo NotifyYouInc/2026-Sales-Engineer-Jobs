@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Danaher](https://scoutify.ai/companies/danaher?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Diadema, São Paulo, Brazil |
-| Category | Sales Engineer |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://danaher.wd1.myworkdayjobs.com/DanaherJobs/job/Diadema-So-Paulo-Brazil/Technical-Solutions-Specialist_R1306883) |
+| Location | Pune, Maharashtra, India |
+| Category | Customer Success |
+| Posted | 2026-05-12 |
+| Apply | [View on company site](https://danaher.wd1.myworkdayjobs.com/DanaherJobs/job/Maharashtra-India/Technical-Solutions-Specialist_R1308277-1) |
 
 ## About This Role
 
-This sales engineer position at Danaher was posted on 2026-03-10.
+This customer success position at Danaher was posted on 2026-05-12.
 
 ## Get Real-Time Alerts
 

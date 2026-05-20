@@ -5,12 +5,12 @@
 | Company | [Okta](https://scoutify.ai/companies/okta?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Customer Success |
-| Posted | 2026-03-30 |
-| Apply | [View on company site](https://www.okta.com/company/careers/opportunity/7715859?gh_jid=7715859) |
+| Posted | 2026-05-12 |
+| Apply | [View on company site](https://www.okta.com/company/careers/opportunity/7715864?gh_jid=7715864) |
 
 ## About This Role
 
-This customer success position at Okta was posted on 2026-03-30.
+This customer success position at Okta was posted on 2026-05-12.
 
 ## Get Real-Time Alerts
 

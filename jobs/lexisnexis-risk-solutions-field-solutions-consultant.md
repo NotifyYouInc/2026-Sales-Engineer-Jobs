@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [LexisNexis Risk Solutions](https://scoutify.ai/companies/relx?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Albany, New York, United States |
-| Category | Customer Success |
-| Posted | 2026-04-08 |
-| Apply | [View on company site](https://relx.wd3.myworkdayjobs.com/LexisNexisLegal/job/Albany-NY/Field-Solutions-Consultant_R105049) |
+| Location | New York City, New York, United States |
+| Category | Implementation / Professional Services |
+| Posted | 2026-05-12 |
+| Apply | [View on company site](https://relx.wd3.myworkdayjobs.com/LexisNexisLegal/job/New-York/Field-Solutions-Consultant_R113511-1) |
 
 ## About This Role
 
-This customer success position at LexisNexis Risk Solutions was posted on 2026-04-08.
+This implementation / professional services position at LexisNexis Risk Solutions was posted on 2026-05-12.
 
 ## Get Real-Time Alerts
 

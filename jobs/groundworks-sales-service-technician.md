@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Groundworks](https://scoutify.ai/companies/groundworks?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Rush City, Minnesota, United States |
+| Location | Grand Rapids, Michigan, United States |
 | Category | Sales Engineer |
-| Posted | 2026-05-08 |
-| Apply | [View on company site](https://groundworks.wd1.myworkdayjobs.com/groundworks/job/Rush-City-MN/Sales---Service-Technician_JR111202) |
+| Posted | 2026-05-12 |
+| Apply | [View on company site](https://groundworks.wd1.myworkdayjobs.com/groundworks/job/Grand-Rapids-MI/Sales---Service-Technician_JR111232) |
 
 ## About This Role
 
-This sales engineer position at Groundworks was posted on 2026-05-08.
+This sales engineer position at Groundworks was posted on 2026-05-12.
 
 ## Get Real-Time Alerts
 

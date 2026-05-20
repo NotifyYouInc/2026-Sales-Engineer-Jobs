@@ -1,16 +1,16 @@
-# Spécialiste Technique CFirst / CFirst Technical Specialist at RTX
+# Spécialiste Technique CFirst | CFirst Technical Specialist at RTX
 
 | Field | Details |
 |-------|---------|
 | Company | [RTX](https://scoutify.ai/companies/rtx?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Longueuil, Quebec, Canada |
 | Category | Customer Success |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Spcialiste-Technique-CFirst---CFirst-Technical-Specialist_01827216) |
+| Posted | 2026-05-12 |
+| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Spcialiste-Technique-CFirst---CFirst-Technical-Specialist_01844354-1) |
 
 ## About This Role
 
-This customer success position at RTX was posted on 2026-04-21.
+This customer success position at RTX was posted on 2026-05-12.
 
 ## Get Real-Time Alerts
 

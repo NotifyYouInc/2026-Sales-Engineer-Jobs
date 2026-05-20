@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [nVent](https://scoutify.ai/companies/nvent?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Sweden |
-| Category | Technical Writer |
-| Posted | 2026-03-20 |
-| Apply | [View on company site](https://nvent.wd5.myworkdayjobs.com/nVent/job/Jnkping-SE/Field-Application-Engineer---nVent-DC-Solutions_R21051) |
+| Location | New Taipei City, Taipei, Taiwan |
+| Category | Software Engineer |
+| Posted | 2026-05-12 |
+| Apply | [View on company site](https://nvent.wd5.myworkdayjobs.com/nVent/job/New-Taipei-City-TW/Field-Application-Engineer---nVent-DC-Solutions_R21367) |
 
 ## About This Role
 
-This technical writer position at nVent was posted on 2026-03-20.
+This software engineer position at nVent was posted on 2026-05-12.
 
 ## Get Real-Time Alerts
 

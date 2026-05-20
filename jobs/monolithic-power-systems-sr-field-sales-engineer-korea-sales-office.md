@@ -5,12 +5,12 @@
 | Company | [Monolithic Power Systems](https://scoutify.ai/companies/monolithic-power-systems?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Seongnam-si, Gyeonggi-do, South Korea |
 | Category | Sales Engineer |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://monolithicpower.wd12.myworkdayjobs.com/mps_careers/job/SeongNam-si---Korea/Sr-Field-Sales-Engineer--Korea-Sales-Office-_R-1388-1) |
+| Posted | 2026-05-12 |
+| Apply | [View on company site](https://monolithicpower.wd12.myworkdayjobs.com/mps_careers/job/SeongNam-si---Korea/Sr-Field-Sales-Engineer--Korea-Sales-Office-_R-1418) |
 
 ## About This Role
 
-This sales engineer position at Monolithic Power Systems was posted on 2026-04-30.
+This sales engineer position at Monolithic Power Systems was posted on 2026-05-12.
 
 ## Get Real-Time Alerts
 

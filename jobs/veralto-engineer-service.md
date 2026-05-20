@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Veralto](https://scoutify.ai/companies/veralto?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | New Delhi, Delhi, India |
+| Location | Kolkata, West Bengal, India |
 | Category | Sales Engineer |
-| Posted | 2026-04-28 |
-| Apply | [View on company site](https://veralto.wd1.myworkdayjobs.com/hachjobs/job/New-Delhi-Delhi-India/Engineer---Service_R10265889) |
+| Posted | 2026-05-12 |
+| Apply | [View on company site](https://veralto.wd1.myworkdayjobs.com/hachjobs/job/Kolkata-West-Bengal-India/Engineer---Service_R10266198) |
 
 ## About This Role
 
-This sales engineer position at Veralto was posted on 2026-04-28.
+This sales engineer position at Veralto was posted on 2026-05-12.
 
 ## Get Real-Time Alerts
 

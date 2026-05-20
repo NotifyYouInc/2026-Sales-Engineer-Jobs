@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Lviv, Lviv, Ukraine |
-| Category | Account Manager |
-| Posted | 2026-04-28 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012848796-product-specialist) |
+| Location | Makati City, National Capital Region, Philippines |
+| Category | Business Development |
+| Posted | 2026-05-12 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990013083026-product-specialist) |
 
 ## About This Role
 
-This account manager position at AbbVie was posted on 2026-04-28.
+This business development position at AbbVie was posted on 2026-05-12.
 
 ## Get Real-Time Alerts
 

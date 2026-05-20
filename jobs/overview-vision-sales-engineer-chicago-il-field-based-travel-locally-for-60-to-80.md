@@ -5,12 +5,12 @@
 | Company | [Overview](https://scoutify.ai/companies/overview?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Chicago, Illinois, United States |
 | Category | Sales Engineer |
-| Posted | 2026-02-26 |
+| Posted | 2026-05-13 |
 | Apply | [View on company site](https://www.ycombinator.com/companies/overview/jobs/H9ScXrK-vision-sales-engineer-chicago-il-field-based-travel-locally-for-60-to-80) |
 
 ## About This Role
 
-This sales engineer position at Overview was posted on 2026-02-26.
+This sales engineer position at Overview was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 

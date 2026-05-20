@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [SHI International](https://scoutify.ai/companies/shi-international?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Nashville, Tennessee, United States |
-| Category | Sales Engineer |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://shi.wd12.myworkdayjobs.com/shicareers/job/US---TN---Home-Office/Solutions-Engineer---Enterprise_JR2949) |
+| Location | Philadelphia, Pennsylvania, United States |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-05-12 |
+| Apply | [View on company site](https://shi.wd12.myworkdayjobs.com/shicareers/job/US---PA---Home-Office/Solutions-Engineer---Enterprise_JR3048) |
 
 ## About This Role
 
-This sales engineer position at SHI International was posted on 2026-04-16.
+This technical & solutions architect position at SHI International was posted on 2026-05-12.
 
 ## Get Real-Time Alerts
 

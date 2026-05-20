@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Unisys](https://scoutify.ai/companies/unisys?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Rhodes, New South Wales, Australia |
+| Location | Perth, Western Australia, Australia |
 | Category | Customer Success |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://unisys.wd5.myworkdayjobs.com/External/job/Rhodes-NSW-Australia/Technical-Field-Engineer_REQ572870) |
+| Posted | 2026-05-13 |
+| Apply | [View on company site](https://unisys.wd5.myworkdayjobs.com/External/job/Perth-WA-Australia/Technical-Field-Engineer_REQ573026) |
 
 ## About This Role
 
-This customer success position at Unisys was posted on 2026-05-11.
+This customer success position at Unisys was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Salesforce](https://scoutify.ai/companies/salesforce?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | United Kingdom |
+| Location | Milan, Lombardy, Italy |
 | Category | Data Engineer |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/United-Kingdom---England---Remote/Account-Solution-Engineer-7_JR337274) |
+| Posted | 2026-05-12 |
+| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Italy---Milan/Account-Solution-Engineer---Informatica_JR340808) |
 
 ## About This Role
 
-This data engineer position at Salesforce was posted on 2026-04-20.
+This data engineer position at Salesforce was posted on 2026-05-12.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Zeiss](https://scoutify.ai/companies/zeissgroup?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Kansas, US |
-| Category | Sales Engineer |
-| Posted | 2026-05-07 |
-| Apply | [View on company site](https://zeissgroup.wd3.myworkdayjobs.com/External/job/Remote---USA-TX/Specialist--Technical-Sales-and-Education_JR_1049341) |
+| Location | Oklahoma, US |
+| Category | Learning & Development |
+| Posted | 2026-05-12 |
+| Apply | [View on company site](https://zeissgroup.wd3.myworkdayjobs.com/External/job/Remote---USA-CO/Specialist--Technical-Sales-and-Education_JR_1049436) |
 
 ## About This Role
 
-This sales engineer position at Zeiss was posted on 2026-05-07.
+This learning & development position at Zeiss was posted on 2026-05-12.
 
 ## Get Real-Time Alerts
 
