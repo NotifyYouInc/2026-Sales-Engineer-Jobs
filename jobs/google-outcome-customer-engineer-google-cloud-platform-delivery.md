@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Amsterdam, North Holland, The Netherlands |
+| Location | Tel Aviv, Tel Aviv, Israel |
 | Category | Customer Success |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckU1Wa_SDoSNc6KC87POpq2RUA8VV5WsCaQtnotuakjSwEjsACxwdTBXURfWU2CavtsEOUKwqX2BeMnCisBCvojig1XXtiCcbHus_7GXvjwjR1_T2DRX3rUjkWWOUPg%3D%3D_V2&loc=NL&title=Outcome+Customer+Engineer) |
+| Posted | 2026-05-13 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckcHnhyyvfciHITTx1ObCtZPSe5xjezX6B1PzgcZG1W-OEjsACxwdTFMkJKyia-9rHB7xrlS97qYUMqiKGmrPr7XPUE0ObUeTt_6T7M0wboEuEC5CFlLTsQi8fEAdug%3D%3D_V2&loc=IL&title=Outcome+Customer+Engineer) |
 
 ## About This Role
 
-This customer success position at Google was posted on 2026-04-29.
+This customer success position at Google was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 

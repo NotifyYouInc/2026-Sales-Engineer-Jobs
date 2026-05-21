@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Adobe](https://scoutify.ai/companies/adobe-inc?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Waltham, Massachusetts, United States |
+| Location | Lehi, Utah, United States |
 | Category | Customer Success |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Waltham/Technical-Account-Manager_R168676) |
+| Posted | 2026-05-13 |
+| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Lehi/Technical-Account-Manager_R168750) |
 
 ## About This Role
 
-This customer success position at Adobe was posted on 2026-05-11.
+This customer success position at Adobe was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 

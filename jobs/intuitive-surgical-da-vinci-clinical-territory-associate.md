@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Intuitive Surgical](https://scoutify.ai/companies/intuitivesurgical?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Lisbon, Lisbon, Portugal |
+| Location | Porto, Porto, Portugal |
 | Category | Sales Engineer |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Intuitive/744000125771396-da-vinci-clinical-territory-associate) |
+| Posted | 2026-05-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Intuitive/744000126235945-da-vinci-clinical-territory-associate) |
 
 ## About This Role
 
-This sales engineer position at Intuitive Surgical was posted on 2026-05-11.
+This sales engineer position at Intuitive Surgical was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 

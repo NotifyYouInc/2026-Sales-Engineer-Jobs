@@ -6,7 +6,7 @@
 | Location | Graz, Styria, Austria |
 | Category | Sales Engineer |
 | Posted | 2026-05-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AntonPaar1/744000126029797-regional-sales-expert-material-characterization-emea) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AntonPaar1/744000126079347-regional-sales-expert-material-characterization-emea) |
 
 ## About This Role
 

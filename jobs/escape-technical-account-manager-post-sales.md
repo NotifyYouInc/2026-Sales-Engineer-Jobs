@@ -1,16 +1,16 @@
-# Technical Account Manager - Post Sales at Escape
+# Technical Account Manager - Post Sales  at Escape
 
 | Field | Details |
 |-------|---------|
 | Company | [Escape](https://scoutify.ai/companies/escape?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | New York, US |
+| Location | New York City, New York, United States |
 | Category | Customer Success |
-| Posted | 2026-02-04 |
+| Posted | 2026-05-13 |
 | Apply | [View on company site](https://www.ycombinator.com/companies/escape/jobs/PIntGX5-technical-account-manager-post-sales) |
 
 ## About This Role
 
-This customer success position at Escape was posted on 2026-02-04.
+This customer success position at Escape was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 

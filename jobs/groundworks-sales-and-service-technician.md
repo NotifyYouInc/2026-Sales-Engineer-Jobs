@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Groundworks](https://scoutify.ai/companies/groundworks?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Washington, District of Columbia, United States |
+| Location | Sumner, Washington, United States |
 | Category | Sales Engineer |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://groundworks.wd1.myworkdayjobs.com/groundworks/job/Washington-PA/Sales-and-Service-Technician_JR111137) |
+| Posted | 2026-05-13 |
+| Apply | [View on company site](https://groundworks.wd1.myworkdayjobs.com/groundworks/job/Sumner-WA/Sales-and-Service-Technician_JR111246) |
 
 ## About This Role
 
-This sales engineer position at Groundworks was posted on 2026-04-30.
+This sales engineer position at Groundworks was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 

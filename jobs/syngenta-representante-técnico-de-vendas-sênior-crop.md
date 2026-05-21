@@ -5,12 +5,12 @@
 | Company | [Syngenta](https://scoutify.ai/companies/syngenta?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Querência, Mato Grosso, Brazil |
 | Category | Sales Engineer |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SyngentaGroup/744000125882165-representante-tecnico-de-vendas-senior-crop) |
+| Posted | 2026-05-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SyngentaGroup/744000126345219-representante-tecnico-de-vendas-senior-crop) |
 
 ## About This Role
 
-This sales engineer position at Syngenta was posted on 2026-05-11.
+This sales engineer position at Syngenta was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 

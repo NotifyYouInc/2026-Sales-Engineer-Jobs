@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cohesity](https://scoutify.ai/companies/cohesity?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Switzerland |
+| Location | Denmark |
 | Category | Sales Engineer |
-| Posted | 2026-03-23 |
-| Apply | [View on company site](https://cohesity.wd5.myworkdayjobs.com/Cohesity_Careers/job/Switzerland---Remote/Sr-Sales-Engineer_R03025) |
+| Posted | 2026-05-13 |
+| Apply | [View on company site](https://cohesity.wd5.myworkdayjobs.com/Cohesity_Careers/job/Denmark---Remote/Sr-Sales-Engineer_R03426) |
 
 ## About This Role
 
-This sales engineer position at Cohesity was posted on 2026-03-23.
+This sales engineer position at Cohesity was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 

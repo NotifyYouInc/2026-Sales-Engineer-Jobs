@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Toloka](https://scoutify.ai/companies/toloka?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | United States |
+| Location | Not specified |
 | Category | Customer Success |
-| Posted | 2026-04-27 |
-| Apply | [View on company site](https://toloka.ai/careers/info?jid=4802651101&gh_jid=4802651101) |
+| Posted | 2026-05-13 |
+| Apply | [View on company site](https://toloka.ai/careers/info?jid=4802650101&gh_jid=4802650101) |
 
 ## About This Role
 
-This customer success position at Toloka was posted on 2026-04-27.
+This customer success position at Toloka was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 

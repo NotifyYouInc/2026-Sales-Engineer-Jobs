@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [REXEL](https://scoutify.ai/companies/rexel?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Charlotte, North Carolina, United States |
-| Category | Business Development |
-| Posted | 2026-03-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/REXEL1/744000114377798-senior-product-specialist) |
+| Category | Account Manager |
+| Posted | 2026-05-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/REXEL1/744000126326839-senior-product-specialist) |
 
 ## About This Role
 
-This business development position at REXEL was posted on 2026-03-12.
+This account manager position at REXEL was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 

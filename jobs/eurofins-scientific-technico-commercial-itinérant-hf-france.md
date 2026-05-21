@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Eurofins Scientific](https://scoutify.ai/companies/eurofinsscientific?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | France |
+| Location | Nantes, Pays de la Loire, France |
 | Category | Account Manager |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Eurofins/744000123927389-technico-commercial-itinerant-hf-france) |
+| Posted | 2026-05-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Eurofins/744000126331369-technico-commercial-itinerant-hf-france) |
 
 ## About This Role
 
-This account manager position at Eurofins Scientific was posted on 2026-04-30.
+This account manager position at Eurofins Scientific was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 

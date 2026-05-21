@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [JLL](https://scoutify.ai/companies/jll?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Toronto, Ontario, Canada |
-| Category | Customer Success |
-| Posted | 2026-04-01 |
-| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Toronto-ON/Product-Specialist---Enterprise-AI_REQ496943) |
+| Location | London, England, United Kingdom |
+| Category | Product Manager |
+| Posted | 2026-05-13 |
+| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/London-GBR/Product-Specialist---Enterprise-AI_REQ496960) |
 
 ## About This Role
 
-This customer success position at JLL was posted on 2026-04-01.
+This product manager position at JLL was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 

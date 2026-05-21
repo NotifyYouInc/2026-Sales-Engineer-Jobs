@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ABB](https://scoutify.ai/companies/abb?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | 3 locations |
-| Category | Marketing |
-| Posted | 2026-04-28 |
-| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Saint-Laurent-Quebec-Canada/Product-Specialist_JR00032952) |
+| Location | Sesto San Giovanni, Lombardy, Italy |
+| Category | Sales Engineer |
+| Posted | 2026-05-13 |
+| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Sesto-San-Giovanni-Milano-Italy/Product-Specialist_JR00017049) |
 
 ## About This Role
 
-This marketing position at ABB was posted on 2026-04-28.
+This sales engineer position at ABB was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 

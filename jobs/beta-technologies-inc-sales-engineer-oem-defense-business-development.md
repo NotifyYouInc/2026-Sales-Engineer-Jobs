@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Beta Technologies, Inc.](https://scoutify.ai/companies/beta-technologies-inc?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | South Burlington, Vermont, United States |
+| Location | 2 locations |
 | Category | Sales Development (SDR / BDR) |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/betatechnologiesinc/jobs/4236920009) |
+| Posted | 2026-05-13 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/betatechnologiesinc/jobs/4236914009) |
 
 ## About This Role
 
-This sales development (sdr / bdr) position at Beta Technologies, Inc. was posted on 2026-04-30.
+This sales development (sdr / bdr) position at Beta Technologies, Inc. was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 

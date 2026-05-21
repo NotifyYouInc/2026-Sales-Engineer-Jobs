@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Hitachi](https://scoutify.ai/companies/hitachi?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Ahmedabad, Gujarat, India |
-| Category | Account Executive |
-| Posted | 2026-02-23 |
-| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Ahmedabad-Gujarat-India/Tender---Proposal-Engineer---Transformer-Service_R0113889) |
+| Location | Bangkok, Bangkok, Thailand |
+| Category | Sales Engineer |
+| Posted | 2026-05-13 |
+| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Bangkok-Thailand/Service-Sales-Engineer_R0130403) |
 
 ## About This Role
 
-This account executive position at Hitachi was posted on 2026-02-23.
+This sales engineer position at Hitachi was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 

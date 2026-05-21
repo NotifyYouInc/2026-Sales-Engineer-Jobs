@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Hitachi](https://scoutify.ai/companies/hitachi?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Faridabad, Haryana, India |
-| Category | Account Executive |
-| Posted | 2026-04-01 |
-| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Faridabad-Haryana-India/Sales-Engineer_R0124651) |
+| Location | Greece |
+| Category | Sales Engineer |
+| Posted | 2026-05-13 |
+| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Metamorphossi-Attiki-Greece/Sales-Engineer_R0128574) |
 
 ## About This Role
 
-This account executive position at Hitachi was posted on 2026-04-01.
+This sales engineer position at Hitachi was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Decagon](https://scoutify.ai/companies/decagon?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Toronto, Ontario, Canada |
+| Location | New York City, New York, United States |
 | Category | AI / LLM Engineer |
-| Posted | 2026-05-12 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/decagon/270e066f-b327-4774-9085-744f4aabde0c) |
+| Posted | 2026-05-13 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/decagon/230ad153-85be-4f7b-a368-5bad59e513e2) |
 
 ## About This Role
 
-This ai / llm engineer position at Decagon was posted on 2026-05-12.
+This ai / llm engineer position at Decagon was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CyberArk Software](https://scoutify.ai/companies/cyberarksoftware?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Santiago, Santiago Metropolitan, Chile |
-| Category | Sales |
-| Posted | 2026-02-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Cyberark1/744000109244996-solution-sales-specialist-workforce-latam) |
+| Location | Bogotá, Bogota D.C., Colombia |
+| Category | Account Executive |
+| Posted | 2026-05-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Cyberark1/744000126334264-solution-sales-specialist-workforce-latam) |
 
 ## About This Role
 
-This sales position at CyberArk Software was posted on 2026-02-13.
+This account executive position at CyberArk Software was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 

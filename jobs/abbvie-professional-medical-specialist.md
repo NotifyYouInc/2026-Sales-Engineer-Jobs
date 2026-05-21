@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Wuhan, Hubei, China |
+| Location | Hangzhou, Zhejiang, China |
 | Category | Sales Engineer |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012586530-professional-medical-specialist) |
+| Posted | 2026-05-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990013126066-professional-medical-specialist) |
 
 ## About This Role
 
-This sales engineer position at AbbVie was posted on 2026-04-14.
+This sales engineer position at AbbVie was posted on 2026-05-14.
 
 ## Get Real-Time Alerts
 

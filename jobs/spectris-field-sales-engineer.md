@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Spectris](https://scoutify.ai/companies/spectris?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Maryland, US |
+| Location | New Mexico, US |
 | Category | Sales Engineer |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://spectris.wd3.myworkdayjobs.com/hbk_careers/job/USA_Home-Working-VA/Field-Sales-Engineer_17852) |
+| Posted | 2026-05-13 |
+| Apply | [View on company site](https://spectris.wd3.myworkdayjobs.com/hbk_careers/job/USA_Home-Working-AZ/Field-Sales-Engineer_18024) |
 
 ## About This Role
 
-This sales engineer position at Spectris was posted on 2026-04-29.
+This sales engineer position at Spectris was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 

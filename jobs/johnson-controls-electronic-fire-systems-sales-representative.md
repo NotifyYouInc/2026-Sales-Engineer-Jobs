@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Johnson Controls](https://scoutify.ai/companies/jci?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | North Little Rock, Arkansas, United States |
+| Location | Shelton, Connecticut, United States |
 | Category | Account Executive |
-| Posted | 2026-05-01 |
-| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/North-Little-Rock-Arkansas-United-States-of-America/Electronic-Fire-Systems-Sales-Representative_WD30267119) |
+| Posted | 2026-05-13 |
+| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Shelton-Connecticut-United-States-of-America/Electronic-Fire-Systems-Sales-Representative_WD30268483) |
 
 ## About This Role
 
-This account executive position at Johnson Controls was posted on 2026-05-01.
+This account executive position at Johnson Controls was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 

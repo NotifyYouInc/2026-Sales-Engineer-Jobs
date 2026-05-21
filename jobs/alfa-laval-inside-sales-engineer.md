@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Alfa Laval](https://scoutify.ai/companies/alfa-laval?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | 3 locations |
+| Location | Saudi Arabia |
 | Category | Sales Engineer |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://alfalaval.wd3.myworkdayjobs.com/alfa_laval_jobs/job/Belgrade/Inside-Sales-Engineer_JR0044924) |
+| Posted | 2026-05-13 |
+| Apply | [View on company site](https://alfalaval.wd3.myworkdayjobs.com/alfa_laval_jobs/job/Al-Khobar/Inside-Sales-Engineer_JR0045438) |
 
 ## About This Role
 
-This sales engineer position at Alfa Laval was posted on 2026-04-21.
+This sales engineer position at Alfa Laval was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 

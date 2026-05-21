@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Veeva](https://scoutify.ai/companies/veeva?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Dublin, Leinster, Ireland |
+| Location | Berlin, State of Berlin, Germany |
 | Category | Customer Success |
-| Posted | 2026-05-08 |
-| Apply | [View on company site](https://jobs.lever.co/veeva/2a642b08-62ca-4fe6-9bf0-c98c23a26150) |
+| Posted | 2026-05-13 |
+| Apply | [View on company site](https://jobs.lever.co/veeva/b959d70c-112a-4c88-98c5-1c57312e3973) |
 
 ## About This Role
 
-This customer success position at Veeva was posted on 2026-05-08.
+This customer success position at Veeva was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 
