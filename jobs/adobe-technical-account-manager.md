@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Adobe](https://scoutify.ai/companies/adobe-inc?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Lehi, Utah, United States |
+| Location | 2 locations |
 | Category | Customer Success |
 | Posted | 2026-05-13 |
-| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Lehi/Technical-Account-Manager_R168750) |
+| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Copenhagen/Technical-Account-Manager_R168662-1) |
 
 ## About This Role
 

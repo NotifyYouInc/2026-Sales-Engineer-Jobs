@@ -5,12 +5,12 @@
 | Company | [Microsoft](https://scoutify.ai/companies/microsoft?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | United States |
 | Category | Sales Engineer |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556768589) |
+| Posted | 2026-05-14 |
+| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556864651) |
 
 ## About This Role
 
-This sales engineer position at Microsoft was posted on 2026-04-22.
+This sales engineer position at Microsoft was posted on 2026-05-14.
 
 ## Get Real-Time Alerts
 

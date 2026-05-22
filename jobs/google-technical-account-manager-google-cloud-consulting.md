@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Toronto, Ontario, Canada |
+| Location | São Paulo, São Paulo, Brazil |
 | Category | Customer Success |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckSCKTAZmvAD_AanhxcqQ2IDQIgGFkHUq-M2CdD0AcSP4EjsACxwdTKp0hesDcNsNbwoi9vvGDbdj4fXEpEkky3xKBISIK_rUMWSg20Pfdirj9GIkrRx55S0Q7upbig%3D%3D_V2&loc=CA&title=Technical+Account+Manager) |
+| Posted | 2026-05-14 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckZyqvEsWwYWI-5WVIjJiqz2ky7JPJ6jGyHexkZMeMR1pEjsACxwdTGVvUzCLo0tEzsMjHRbv0agFFsA-ER_voRm-3d0Arpy8qNGIFh_5VnHdL-f0ZqQdqdPOV0IbhA%3D%3D_V2&loc=BR&title=Technical+Account+Manager) |
 
 ## About This Role
 
-This customer success position at Google was posted on 2026-05-05.
+This customer success position at Google was posted on 2026-05-14.
 
 ## Get Real-Time Alerts
 

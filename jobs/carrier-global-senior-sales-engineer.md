@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Carrier Global](https://scoutify.ai/companies/carrier?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Utrecht, Utrecht, The Netherlands |
+| Location | Dubai, Dubai, United Arab Emirates |
 | Category | Sales Engineer |
-| Posted | 2026-05-01 |
-| Apply | [View on company site](https://carrier.wd5.myworkdayjobs.com/jobs/job/Utrecht-Netherlands/Senior-Sales-Engineer_30205042) |
+| Posted | 2026-05-14 |
+| Apply | [View on company site](https://carrier.wd5.myworkdayjobs.com/jobs/job/UTS-Carrier-Palladium-building-2nd-floor-Al-Quoz-Dubai-UAE/Senior-Sales-Engineer_30198525) |
 
 ## About This Role
 
-This sales engineer position at Carrier Global was posted on 2026-05-01.
+This sales engineer position at Carrier Global was posted on 2026-05-14.
 
 ## Get Real-Time Alerts
 

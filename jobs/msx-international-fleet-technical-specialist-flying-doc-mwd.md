@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [MSX International](https://scoutify.ai/companies/msxinternational?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Vienna, Vienna, Austria |
+| Location | 3 locations |
 | Category | Customer Success |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/MSXInternational/3743990011747036-fleet-technical-specialist-flying-doc-mwd) |
+| Posted | 2026-05-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/MSXInternational/3743990013126836-fleet-technical-specialist-flying-doc-mwd) |
 
 ## About This Role
 
-This customer success position at MSX International was posted on 2026-02-19.
+This customer success position at MSX International was posted on 2026-05-14.
 
 ## Get Real-Time Alerts
 

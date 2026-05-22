@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | 2 locations |
-| Category | Customer Success |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/jobs/results/99166033310294726-customer-solutions-engineer-gtech-ads-large-customer-sales-english?sort_by=date&page=1) |
+| Category | Sales Engineer |
+| Posted | 2026-05-14 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2Fckcw76j66ryf6HhlHxTOXCsRSXZtq0mRMyXzaAhEBN3QXEjsACxwdTIZ5f6iKZueU1E-nuS-TTepY-Bf5-OBFHOsFp-X7WnAn4tNFGrlK5OSU4ftWf2fqSS2IHkAWsQ%3D%3D_V2&loc=SG&title=Customer+Solutions+Engineer) |
 
 ## About This Role
 
-This customer success position at Google was posted on 2026-03-02.
+This sales engineer position at Google was posted on 2026-05-14.
 
 ## Get Real-Time Alerts
 

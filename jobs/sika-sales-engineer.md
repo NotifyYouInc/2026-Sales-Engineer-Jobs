@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sika](https://scoutify.ai/companies/sika?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Dammam, Eastern Province, Saudi Arabia |
+| Location | Manama, Manama, Bahrain |
 | Category | Sales Engineer |
-| Posted | 2026-02-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SikaAG/744000108973545-sales-engineer) |
+| Posted | 2026-05-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SikaAG/744000126470680-sales-engineer) |
 
 ## About This Role
 
-This sales engineer position at Sika was posted on 2026-02-12.
+This sales engineer position at Sika was posted on 2026-05-14.
 
 ## Get Real-Time Alerts
 

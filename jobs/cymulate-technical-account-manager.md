@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cymulate](https://scoutify.ai/companies/cymulate?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | United Kingdom |
+| Location | United States |
 | Category | Customer Success |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://job-boards.eu.greenhouse.io/cymulate/jobs/4836005101) |
+| Posted | 2026-05-14 |
+| Apply | [View on company site](https://job-boards.eu.greenhouse.io/cymulate/jobs/4860991101) |
 
 ## About This Role
 
-This customer success position at Cymulate was posted on 2026-04-13.
+This customer success position at Cymulate was posted on 2026-05-14.
 
 ## Get Real-Time Alerts
 

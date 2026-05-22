@@ -5,12 +5,12 @@
 | Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Hod HaSharon, Central District, Israel |
 | Category | Marketing |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012586516-product-specialist-hemato-oncology-filed-based) |
+| Posted | 2026-05-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990013126841-product-specialist-hemato-oncology-filed-based) |
 
 ## About This Role
 
-This marketing position at AbbVie was posted on 2026-04-14.
+This marketing position at AbbVie was posted on 2026-05-14.
 
 ## Get Real-Time Alerts
 

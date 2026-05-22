@@ -1,16 +1,16 @@
-# Sales Consultant  at Stannah
+# Sales Consultant at Stannah
 
 | Field | Details |
 |-------|---------|
 | Company | [Stannah](https://scoutify.ai/companies/stannah?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Norwich, England, United Kingdom |
+| Location | Peterborough, England, United Kingdom |
 | Category | Sales Engineer |
-| Posted | 2026-05-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Stannah1/744000126092519-sales-consultant) |
+| Posted | 2026-05-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Stannah1/744000126473520-sales-consultant) |
 
 ## About This Role
 
-This sales engineer position at Stannah was posted on 2026-05-12.
+This sales engineer position at Stannah was posted on 2026-05-14.
 
 ## Get Real-Time Alerts
 

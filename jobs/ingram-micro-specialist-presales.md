@@ -1,16 +1,16 @@
-# Specialist- Presales at Ingram Micro
+# Specialist - Presales at Ingram Micro
 
 | Field | Details |
 |-------|---------|
 | Company | [Ingram Micro](https://scoutify.ai/companies/ingram-micro?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Mumbai, Maharashtra, India |
 | Category | Sales Engineer |
-| Posted | 2026-03-30 |
-| Apply | [View on company site](https://ingrammicro.wd5.myworkdayjobs.com/ingrammicro/job/Bengaluru-India/Specialist--Presales_R-114158) |
+| Posted | 2026-05-15 |
+| Apply | [View on company site](https://ingrammicro.wd5.myworkdayjobs.com/ingrammicro/job/Mumbai---Ensim/Specialist---Presales_R-113132) |
 
 ## About This Role
 
-This sales engineer position at Ingram Micro was posted on 2026-03-30.
+This sales engineer position at Ingram Micro was posted on 2026-05-15.
 
 ## Get Real-Time Alerts
 

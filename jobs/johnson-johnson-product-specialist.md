@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Johnson & Johnson](https://scoutify.ai/companies/johnson-johnson?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Zhengzhou, Henan, China |
-| Category | Corporate Finance |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://jj.wd5.myworkdayjobs.com/JJ/job/Zhengzhou-Henan-China/Product-Specialist_R-075792) |
+| Location | Bangkok, Bangkok, Thailand |
+| Category | Sales Engineer |
+| Posted | 2026-05-14 |
+| Apply | [View on company site](https://jj.wd5.myworkdayjobs.com/JJ/job/Bangkok-Bangkok-Thailand/Product-Specialist_R-074809) |
 
 ## About This Role
 
-This corporate finance position at Johnson & Johnson was posted on 2026-05-13.
+This sales engineer position at Johnson & Johnson was posted on 2026-05-14.
 
 ## Get Real-Time Alerts
 

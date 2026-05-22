@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Teledyne](https://scoutify.ai/companies/flir?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Camarillo, California, United States |
-| Category | Customer Success |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Camarillo-CA/IT-Technical-Specialist_REQ33735) |
+| Category | IT & Systems Administration |
+| Posted | 2026-05-14 |
+| Apply | [View on company site](https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Camarillo-CA/IT-Technical-Specialist_REQ34744) |
 
 ## About This Role
 
-This customer success position at Teledyne was posted on 2026-03-11.
+This it & systems administration position at Teledyne was posted on 2026-05-14.
 
 ## Get Real-Time Alerts
 

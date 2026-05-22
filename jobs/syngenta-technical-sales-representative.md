@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Syngenta](https://scoutify.ai/companies/syngenta?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Toronto, Ontario, Canada |
+| Location | Lusaka, Lusaka Province, Zambia |
 | Category | Account Executive |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SyngentaGroup/744000125879355-technical-sales-representative) |
+| Posted | 2026-05-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SyngentaGroup/744000126537168-technical-sales-representative) |
 
 ## About This Role
 
-This account executive position at Syngenta was posted on 2026-05-11.
+This account executive position at Syngenta was posted on 2026-05-14.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ABB](https://scoutify.ai/companies/abb?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Fuzhou, Fujian, China |
-| Category | Sales |
-| Posted | 2026-02-06 |
-| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Fuzhou-Fujian-China/ELSP-Sales-Specialist---OEM_JR00022356-2) |
+| Location | Shenzhen, Guangdong, China |
+| Category | Account Executive |
+| Posted | 2026-05-14 |
+| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Shenzhen-Guangdong-China/ELSP-Sales-Specialist---OEM_JR00033237) |
 
 ## About This Role
 
-This sales position at ABB was posted on 2026-02-06.
+This account executive position at ABB was posted on 2026-05-14.
 
 ## Get Real-Time Alerts
 

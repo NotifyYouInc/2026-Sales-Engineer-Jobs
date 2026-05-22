@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ABB](https://scoutify.ai/companies/abb?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Hangzhou, Zhejiang, China |
+| Location | Zhengzhou, Henan, China |
 | Category | Account Executive |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Hangzhou-Zhejiang-China/Sales-Specialist_JR00027105-3) |
+| Posted | 2026-05-14 |
+| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Zhengzhou-Henan-China/Sales-Specialist_JR00031288) |
 
 ## About This Role
 
-This account executive position at ABB was posted on 2026-05-13.
+This account executive position at ABB was posted on 2026-05-14.
 
 ## Get Real-Time Alerts
 

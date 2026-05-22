@@ -5,12 +5,12 @@
 | Company | [Yokogawa](https://scoutify.ai/companies/yokogawa?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Johannesburg, Gauteng, South Africa |
 | Category | Account Executive |
-| Posted | 2026-05-12 |
-| Apply | [View on company site](https://yokogawa.wd3.myworkdayjobs.com/yokogawa-career-site/job/Johannesburg/EPC-Sales-Specialist_R-11343) |
+| Posted | 2026-05-14 |
+| Apply | [View on company site](https://yokogawa.wd3.myworkdayjobs.com/yokogawa-career-site/job/Johannesburg/EPC-Sales-Specialist_R-11349) |
 
 ## About This Role
 
-This account executive position at Yokogawa was posted on 2026-05-12.
+This account executive position at Yokogawa was posted on 2026-05-14.
 
 ## Get Real-Time Alerts
 

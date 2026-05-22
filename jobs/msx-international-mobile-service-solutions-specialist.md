@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [MSX International](https://scoutify.ai/companies/msxinternational?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Raleigh, North Carolina, United States |
-| Category | Customer Success |
-| Posted | 2026-04-28 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/MSXInternational/3743990012854048-mobile-service-solutions-specialist) |
+| Location | Southfield, Michigan, United States |
+| Category | Sales Leadership |
+| Posted | 2026-05-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/MSXInternational/3743990013131347-mobile-service-solutions-specialist) |
 
 ## About This Role
 
-This customer success position at MSX International was posted on 2026-04-28.
+This sales leadership position at MSX International was posted on 2026-05-14.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Philippines |
-| Category | Customer Success |
-| Posted | 2026-02-12 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=93443) |
+| Location | United States |
+| Category | Customer Success Manager |
+| Posted | 2026-05-14 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=115136) |
 
 ## About This Role
 
-This customer success position at IBM was posted on 2026-02-12.
+This customer success manager position at IBM was posted on 2026-05-14.
 
 ## Get Real-Time Alerts
 

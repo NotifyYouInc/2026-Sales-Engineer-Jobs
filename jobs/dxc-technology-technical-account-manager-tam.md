@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [DXC Technology](https://scoutify.ai/companies/dxctechnology?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Santiago, Santiago Metropolitan, Chile |
+| Location | Christchurch, Canterbury, New Zealand |
 | Category | Customer Success |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/CHL---RM---SANTIAGO/Technical-Account-Manager--TAM-_51578259) |
+| Posted | 2026-05-14 |
+| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/NZL-DXC-Christchurch-Ron-Guthrey-Rd-CSC-Location/Technical-Account-Manager--TAM-_51580565) |
 
 ## About This Role
 
-This customer success position at DXC Technology was posted on 2026-04-15.
+This customer success position at DXC Technology was posted on 2026-05-14.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Technical Sales Engineer - AMD/Xilinx at Avnet
+# Technical Sales Engineer AMD/Xilinx at Avnet
 
 | Field | Details |
 |-------|---------|
 | Company | [Avnet](https://scoutify.ai/companies/avnet?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | San Jose, California, United States |
-| Category | Business Development |
-| Posted | 2026-03-19 |
-| Apply | [View on company site](https://avnet.wd1.myworkdayjobs.com/external/job/San-Jose-California-United-States-Of-America/Technical-Sales-Engineer---AMD-Xilinx_JR-022029) |
+| Location | Columbia, South Carolina, United States |
+| Category | Sales Engineer |
+| Posted | 2026-05-14 |
+| Apply | [View on company site](https://avnet.wd1.myworkdayjobs.com/external/job/Columbia-Maryland-United-States-Of-America/Technical-Sales-Engineer-AMD-Xilinx_JR-022776-1) |
 
 ## About This Role
 
-This business development position at Avnet was posted on 2026-03-19.
+This sales engineer position at Avnet was posted on 2026-05-14.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Camping World](https://scoutify.ai/companies/campingworld?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Coldwater, Michigan, United States |
-| Category | Customer Success |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://campingworld.wd5.myworkdayjobs.com/Jobs/job/Coldwater-MI/Product-Specialist_26_04426) |
+| Location | Las Vegas, Nevada, United States |
+| Category | Business Development |
+| Posted | 2026-05-15 |
+| Apply | [View on company site](https://campingworld.wd5.myworkdayjobs.com/Jobs/job/Las-Vegas-NV/Product-Specialist_26_04816) |
 
 ## About This Role
 
-This customer success position at Camping World was posted on 2026-05-11.
+This business development position at Camping World was posted on 2026-05-15.
 
 ## Get Real-Time Alerts
 

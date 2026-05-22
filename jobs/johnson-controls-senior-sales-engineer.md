@@ -1,16 +1,16 @@
-# Senior Sales Engineer at Johnson Controls
+# senior sales engineer at Johnson Controls
 
 | Field | Details |
 |-------|---------|
 | Company | [Johnson Controls](https://scoutify.ai/companies/jci?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Manila, National Capital Region, Philippines |
+| Location | Beijing, Beijing, China |
 | Category | Sales Engineer |
-| Posted | 2026-05-12 |
-| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Manila-Manila-Philippines/Senior-Sales-Engineer_WD30268572) |
+| Posted | 2026-05-14 |
+| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Beijing-Beijing-China/senior-sales-engineer_WD30269092) |
 
 ## About This Role
 
-This sales engineer position at Johnson Controls was posted on 2026-05-12.
+This sales engineer position at Johnson Controls was posted on 2026-05-14.
 
 ## Get Real-Time Alerts
 

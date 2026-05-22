@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Camping World](https://scoutify.ai/companies/campingworld?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Dover, Delaware, United States |
+| Location | Longmont, Colorado, United States |
 | Category | Customer Success |
-| Posted | 2026-05-12 |
-| Apply | [View on company site](https://campingworld.wd5.myworkdayjobs.com/Jobs/job/Dover-FL/Product-Specialist-Advisor_26_04620) |
+| Posted | 2026-05-13 |
+| Apply | [View on company site](https://campingworld.wd5.myworkdayjobs.com/Jobs/job/Longmont-CO/Product-Specialist-Advisor_26_04803) |
 
 ## About This Role
 
-This customer success position at Camping World was posted on 2026-05-12.
+This customer success position at Camping World was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 
