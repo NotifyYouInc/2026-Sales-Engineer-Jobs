@@ -5,12 +5,12 @@
 | Company | [Johnson & Johnson](https://scoutify.ai/companies/johnson-johnson?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | San Diego, California, United States |
 | Category | Account Executive |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://jj.wd5.myworkdayjobs.com/JJ/job/San-Diego-California-United-States-of-America/Regional-Clinical-Sales-Specialist---San-Diego--CA---Johnson---Johnson-MedTech---Orthopaedics_R-070694-1) |
+| Posted | 2026-05-15 |
+| Apply | [View on company site](https://jj.wd5.myworkdayjobs.com/JJ/job/San-Diego-California-United-States-of-America/Regional-Clinical-Sales-Specialist---San-Diego--CA---Johnson---Johnson-MedTech---Orthopaedics_R-075909-2) |
 
 ## About This Role
 
-This account executive position at Johnson & Johnson was posted on 2026-04-17.
+This account executive position at Johnson & Johnson was posted on 2026-05-15.
 
 ## Get Real-Time Alerts
 

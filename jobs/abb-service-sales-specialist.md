@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ABB](https://scoutify.ai/companies/abb?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Ho Chi Minh City, Ho Chi Minh City (HCMC), Vietnam |
+| Location | Hyderabad, Telangana, India |
 | Category | Account Executive |
-| Posted | 2026-05-12 |
-| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Ho-Chi-Minh-City-TP-Ho-Chi-Minh-Vietnam/Service-Sales-Specialist_JR00034806-1) |
+| Posted | 2026-05-15 |
+| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Hyderabad-Telangana-India/Service-Sales-Specialist_JR00033996) |
 
 ## About This Role
 
-This account executive position at ABB was posted on 2026-05-12.
+This account executive position at ABB was posted on 2026-05-15.
 
 ## Get Real-Time Alerts
 

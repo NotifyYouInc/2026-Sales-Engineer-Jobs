@@ -5,12 +5,12 @@
 | Company | [Wabtec](https://scoutify.ai/companies/wabtec?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Hamburg, Hamburg, Germany |
 | Category | Account Executive |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wabtec/3743990013060346-territory-manager-mwd-ndt-sales-specialist-zfp) |
+| Posted | 2026-05-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Wabtec/3743990013148316-territory-manager-mwd-ndt-sales-specialist-zfp) |
 
 ## About This Role
 
-This account executive position at Wabtec was posted on 2026-05-11.
+This account executive position at Wabtec was posted on 2026-05-15.
 
 ## Get Real-Time Alerts
 

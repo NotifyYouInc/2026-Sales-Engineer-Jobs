@@ -5,12 +5,12 @@
 | Company | [Konecranes](https://scoutify.ai/companies/konecranes?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Katowice, Silesia, Poland |
 | Category | Engineering Manager |
-| Posted | 2026-05-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Konecranes/744000126043289-sales-engineer-cto) |
+| Posted | 2026-05-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Konecranes/744000126681838-sales-engineer-cto) |
 
 ## About This Role
 
-This engineering manager position at Konecranes was posted on 2026-05-12.
+This engineering manager position at Konecranes was posted on 2026-05-15.
 
 ## Get Real-Time Alerts
 

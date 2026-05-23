@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Shanghai, Shanghai, China |
-| Category | Technical Writer |
-| Posted | 2026-03-26 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/jobs/results/112019113248727750-partner-solutions-engineer-gtech-ads-sellside-global-exchange-platforms-english-mandarin?sort_by=date&page=1) |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-05-15 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckZN6Pt8mnuFq4L4zvHH6EZh3ss0CyDw-FwD6fOxdpHKbEjsACxwdTDFNkA8zcmyb8pbvpHHJfLQyts4KD6T506nPmB6Qfq3fyXTM2OqDt2e4_nN2n1ybuyCoP41DLw%3D%3D_V2&loc=CN&title=Partner+Solutions+Engineer) |
 
 ## About This Role
 
-This technical writer position at Google was posted on 2026-03-26.
+This technical & solutions architect position at Google was posted on 2026-05-15.
 
 ## Get Real-Time Alerts
 

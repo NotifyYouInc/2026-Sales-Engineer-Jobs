@@ -5,12 +5,12 @@
 | Company | [Astronomer](https://scoutify.ai/companies/astronomer?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | Data Engineer |
-| Posted | 2026-05-08 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/astronomer/4c621624-9d7c-4961-916a-070ce841b17d) |
+| Posted | 2026-05-15 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/astronomer/b1b7c288-30cb-4f4c-a567-342adea63ee3) |
 
 ## About This Role
 
-This data engineer position at Astronomer was posted on 2026-05-08.
+This data engineer position at Astronomer was posted on 2026-05-15.
 
 ## Get Real-Time Alerts
 

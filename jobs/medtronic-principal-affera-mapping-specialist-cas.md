@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Medtronic](https://scoutify.ai/companies/medtronic?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | San Francisco, California, United States |
+| Location | Seattle, Washington, United States |
 | Category | Sales Engineer |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/San-Francisco-California-United-States-of-America/Principal-Affera-Mapping-Specialist---CAS_R66182-1) |
+| Posted | 2026-05-15 |
+| Apply | [View on company site](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/State-of-Washington-United-States-of-America/Principal-Affera-Mapping-Specialist---CAS_R67235-1) |
 
 ## About This Role
 
-This sales engineer position at Medtronic was posted on 2026-05-11.
+This sales engineer position at Medtronic was posted on 2026-05-15.
 
 ## Get Real-Time Alerts
 

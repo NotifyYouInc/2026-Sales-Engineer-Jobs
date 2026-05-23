@@ -5,12 +5,12 @@
 | Company | [UAP](https://scoutify.ai/companies/uap?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Winnipeg, Manitoba, Canada |
 | Category | Sales Engineer |
-| Posted | 2026-05-07 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/UAPInc/744000125174980-technical-sales-specialist-cmax) |
+| Posted | 2026-05-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/UAPInc/744000126715680-technical-sales-specialist-cmax) |
 
 ## About This Role
 
-This sales engineer position at UAP was posted on 2026-05-07.
+This sales engineer position at UAP was posted on 2026-05-15.
 
 ## Get Real-Time Alerts
 

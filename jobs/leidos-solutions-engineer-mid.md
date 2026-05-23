@@ -1,4 +1,4 @@
-# Solutions Engineer- Mid at Leidos
+# Solutions Engineer - Mid at Leidos
 
 | Field | Details |
 |-------|---------|
@@ -6,7 +6,7 @@
 | Location | Washington, District of Columbia, United States |
 | Category | Technical & Solutions Architect |
 | Posted | 2026-05-13 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Washington-DC/Solutions-Engineer--Mid_R-00183179) |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Washington-DC/Solutions-Engineer---Mid_R-00183166) |
 
 ## About This Role
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Groundworks](https://scoutify.ai/companies/groundworks?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Sumner, Washington, United States |
+| Location | Wichita, Kansas, United States |
 | Category | Sales Engineer |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://groundworks.wd1.myworkdayjobs.com/groundworks/job/Sumner-WA/Sales-and-Service-Technician_JR111246) |
+| Posted | 2026-05-14 |
+| Apply | [View on company site](https://groundworks.wd1.myworkdayjobs.com/groundworks/job/Wichita-KS/Sales-and-Service-Technician_JR111257) |
 
 ## About This Role
 
-This sales engineer position at Groundworks was posted on 2026-05-13.
+This sales engineer position at Groundworks was posted on 2026-05-14.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Salesforce](https://scoutify.ai/companies/salesforce?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Milan, Lombardy, Italy |
+| Location | Pune, Maharashtra, India |
 | Category | Sales Engineer |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Italy---Milan/Principal-Solution-Engineer_JR338749) |
+| Posted | 2026-05-15 |
+| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Pune/Principal-Solution-Engineer_JR342753) |
 
 ## About This Role
 
-This sales engineer position at Salesforce was posted on 2026-04-22.
+This sales engineer position at Salesforce was posted on 2026-05-15.
 
 ## Get Real-Time Alerts
 

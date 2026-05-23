@@ -6,7 +6,7 @@
 | Location | New York City, New York, United States |
 | Category | Implementation / Professional Services |
 | Posted | 2026-05-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/TheNielsenCompany/3743990013111949-senior-solutions-consultant) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/TheNielsenCompany/3743990013121296-senior-solutions-consultant) |
 
 ## About This Role
 

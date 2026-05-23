@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AT&T](https://scoutify.ai/companies/at-t?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Tustin, California, United States |
+| Location | 2 locations |
 | Category | Sales Engineer |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Tustin-California/Senior-Sales-System-Engineer-2-Plat_R-107746) |
+| Posted | 2026-05-15 |
+| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Visalia-California/Senior-Sales-System-Engineer-2-Plat_R-110067) |
 
 ## About This Role
 
-This sales engineer position at AT&T was posted on 2026-04-21.
+This sales engineer position at AT&T was posted on 2026-05-15.
 
 ## Get Real-Time Alerts
 

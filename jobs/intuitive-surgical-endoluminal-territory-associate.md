@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Intuitive Surgical](https://scoutify.ai/companies/intuitivesurgical?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Johnson City, Tennessee, United States |
+| Location | Houston, Texas, United States |
 | Category | Sales Engineer |
-| Posted | 2026-05-08 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Intuitive/744000125332054-endoluminal-territory-associate) |
+| Posted | 2026-05-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Intuitive/744000126749286-endoluminal-territory-associate) |
 
 ## About This Role
 
-This sales engineer position at Intuitive Surgical was posted on 2026-05-08.
+This sales engineer position at Intuitive Surgical was posted on 2026-05-15.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [HighRadius](https://scoutify.ai/companies/highradius?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | Customer Success |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://www.highradius.com/about/careers-list/?gh_jid=7701555003) |
+| Posted | 2026-05-15 |
+| Apply | [View on company site](https://www.highradius.com/about/careers-list/?gh_jid=7712886003) |
 
 ## About This Role
 
-This customer success position at HighRadius was posted on 2026-05-11.
+This customer success position at HighRadius was posted on 2026-05-15.
 
 ## Get Real-Time Alerts
 

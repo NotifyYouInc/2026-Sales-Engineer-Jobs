@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Medtronic](https://scoutify.ai/companies/medtronic?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Macquarie Park, New South Wales, Australia |
+| Location | 2 locations |
 | Category | Sales Engineer |
-| Posted | 2026-05-06 |
-| Apply | [View on company site](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Macquarie-Park-New-South-Wales-Australia/Sales-and-Mapping-Specialist--Affera_R61706) |
+| Posted | 2026-05-15 |
+| Apply | [View on company site](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Richmond-Victoria-Australia/Sales-and-Mapping-Specialist--Affera_R65490-1) |
 
 ## About This Role
 
-This sales engineer position at Medtronic was posted on 2026-05-06.
+This sales engineer position at Medtronic was posted on 2026-05-15.
 
 ## Get Real-Time Alerts
 

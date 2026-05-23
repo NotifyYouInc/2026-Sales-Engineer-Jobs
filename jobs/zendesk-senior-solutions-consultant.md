@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Zendesk](https://scoutify.ai/companies/zendesk?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | California, US |
+| Location | 2 locations |
 | Category | Implementation / Professional Services |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://zendesk.wd1.myworkdayjobs.com/zendesk/job/Remote-Arizona-United-States-of-America/Senior-Solutions-Consultant_R34097) |
+| Posted | 2026-05-15 |
+| Apply | [View on company site](https://zendesk.wd1.myworkdayjobs.com/zendesk/job/Remote-Georgia-United-States-of-America/Senior-Solutions-Consultant_R34934) |
 
 ## About This Role
 
-This implementation / professional services position at Zendesk was posted on 2026-03-03.
+This implementation / professional services position at Zendesk was posted on 2026-05-15.
 
 ## Get Real-Time Alerts
 
