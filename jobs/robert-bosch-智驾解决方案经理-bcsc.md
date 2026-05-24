@@ -1,16 +1,16 @@
-# Außendienstmitarbeiter - Heizungstechnik Buderus Tirol (w/m/div.) at Robert Bosch
+# 智驾解决方案经理_BCSC at Robert Bosch
 
 | Field | Details |
 |-------|---------|
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Innsbruck, Tyrol, Austria |
-| Category | Sales Engineer |
-| Posted | 2026-05-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000126818549-auendienstmitarbeiter-heizungstechnik-buderus-tirol-wmdiv) |
+| Location | Suzhou, Jiangsu, China |
+| Category | Product Manager |
+| Posted | 2026-05-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000126841419-bcsc) |
 
 ## About This Role
 
-This sales engineer position at Robert Bosch was posted on 2026-05-16.
+This product manager position at Robert Bosch was posted on 2026-05-17.
 
 ## Get Real-Time Alerts
 
