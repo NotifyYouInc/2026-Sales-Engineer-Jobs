@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Johnson Controls](https://scoutify.ai/companies/jci?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Shenyang, Liaoning, China |
+| Location | Kowloon, Hong Kong |
 | Category | Sales Engineer |
-| Posted | 2026-04-02 |
-| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Shenyang-Liaoning-China/Sales-Engineer_WD30265685) |
+| Posted | 2026-05-18 |
+| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Kowloon-Kowloon-China-Hong-Kong-SAR/Sales-Engineer_WD30268963) |
 
 ## About This Role
 
-This sales engineer position at Johnson Controls was posted on 2026-04-02.
+This sales engineer position at Johnson Controls was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

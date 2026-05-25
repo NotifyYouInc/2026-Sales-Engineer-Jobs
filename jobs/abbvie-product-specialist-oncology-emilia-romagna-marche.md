@@ -1,16 +1,16 @@
-# Sr Medical Infocomm Rep - Medical Aesth at AbbVie
+# Product Specialist Oncology - Emilia Romagna, Marche at AbbVie
 
 | Field | Details |
 |-------|---------|
 | Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Suzhou, Jiangsu, China |
-| Category | Account Manager |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990013173676-sr-medical-infocomm-rep-medical-aesth) |
+| Location | Parma, Emilia-Romagna, Italy |
+| Category | Product Manager |
+| Posted | 2026-05-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990013172346-product-specialist-oncology-emilia-romagna-marche) |
 
 ## About This Role
 
-This account manager position at AbbVie was posted on 2026-05-18.
+This product manager position at AbbVie was posted on 2026-05-17.
 
 ## Get Real-Time Alerts
 

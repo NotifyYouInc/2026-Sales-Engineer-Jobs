@@ -5,12 +5,12 @@
 | Company | [Abbott](https://scoutify.ai/companies/abbott-laboratories?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | 2 locations |
 | Category | Customer Success |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/Trkiye---stanbul/Digital-Health-Solutions-Consultant---Istanbul---Ankara_31149081) |
+| Posted | 2026-05-18 |
+| Apply | [View on company site](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/Trkiye---Istanbul/Digital-Health-Solutions-Consultant---Istanbul---Ankara_31150654) |
 
 ## About This Role
 
-This customer success position at Abbott was posted on 2026-04-29.
+This customer success position at Abbott was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Technical Field Engineer at Unisys
+# Product Specialist at Sequence
 
 | Field | Details |
 |-------|---------|
-| Company | [Unisys](https://scoutify.ai/companies/unisys?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Sydney, New South Wales, Australia |
+| Company | [Sequence](https://scoutify.ai/companies/sequence?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
+| Location | New York City, New York, United States |
 | Category | Customer Success |
 | Posted | 2026-05-18 |
-| Apply | [View on company site](https://unisys.wd5.myworkdayjobs.com/External/job/Sydney-NSW-Australia/Technical-Field-Engineer_REQ573096) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/sequence/27303bfb-946f-4aea-8f2b-20ca6141d954) |
 
 ## About This Role
 
-This customer success position at Unisys was posted on 2026-05-18.
+This customer success position at Sequence was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

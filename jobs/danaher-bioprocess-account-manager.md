@@ -1,16 +1,16 @@
-# Sr Medical Infocomm Rep - Medical Aesth at AbbVie
+# Bioprocess Account Manager at Danaher
 
 | Field | Details |
 |-------|---------|
-| Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Suzhou, Jiangsu, China |
+| Company | [Danaher](https://scoutify.ai/companies/danaher?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
+| Location | Not specified |
 | Category | Account Manager |
 | Posted | 2026-05-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990013173676-sr-medical-infocomm-rep-medical-aesth) |
+| Apply | [View on company site](https://danaher.wd1.myworkdayjobs.com/DanaherJobs/job/CZE---Remote/Bioprocess-Account-Manager_R1309737-1) |
 
 ## About This Role
 
-This account manager position at AbbVie was posted on 2026-05-18.
+This account manager position at Danaher was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

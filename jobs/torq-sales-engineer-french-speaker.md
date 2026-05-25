@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Torq](https://scoutify.ai/companies/torq?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Spain |
+| Location | Switzerland |
 | Category | Sales Engineer |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/torq/jobs/5985201004) |
+| Posted | 2026-05-17 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/torq/jobs/5997632004) |
 
 ## About This Role
 
-This sales engineer position at Torq was posted on 2026-04-30.
+This sales engineer position at Torq was posted on 2026-05-17.
 
 ## Get Real-Time Alerts
 

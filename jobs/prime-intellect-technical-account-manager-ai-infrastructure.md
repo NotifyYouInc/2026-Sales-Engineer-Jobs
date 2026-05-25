@@ -1,16 +1,16 @@
-# Technical Field Engineer at Unisys
+# Technical Account Manager - AI Infrastructure at Prime Intellect
 
 | Field | Details |
 |-------|---------|
-| Company | [Unisys](https://scoutify.ai/companies/unisys?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Sydney, New South Wales, Australia |
+| Company | [Prime Intellect](https://scoutify.ai/companies/prime-intellect?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
+| Location | San Francisco, California, United States |
 | Category | Customer Success |
 | Posted | 2026-05-18 |
-| Apply | [View on company site](https://unisys.wd5.myworkdayjobs.com/External/job/Sydney-NSW-Australia/Technical-Field-Engineer_REQ573096) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/primeintellect/d70f38c9-ae8e-4252-933a-666cb900e3b4) |
 
 ## About This Role
 
-This customer success position at Unisys was posted on 2026-05-18.
+This customer success position at Prime Intellect was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Senior Solutions Engineer at F5
+# [P] [Zurich] Solutions Architect, Applied AI at Anthropic
 
 | Field | Details |
 |-------|---------|
-| Company | [F5](https://scoutify.ai/companies/f5?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Manila, National Capital Region, Philippines |
+| Company | [Anthropic](https://scoutify.ai/companies/anthropic?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
+| Location | Zürich, Zurich, Switzerland |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://ffive.wd5.myworkdayjobs.com/f5jobs/job/Manila/Senior-Solutions-Engineer_RP1037554) |
+| Posted | 2026-05-17 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/anthropic/jobs/5204086008) |
 
 ## About This Role
 
-This technical & solutions architect position at F5 was posted on 2026-05-18.
+This technical & solutions architect position at Anthropic was posted on 2026-05-17.
 
 ## Get Real-Time Alerts
 

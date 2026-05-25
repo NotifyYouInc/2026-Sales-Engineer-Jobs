@@ -1,16 +1,16 @@
-# 医药代表-心血管代谢健康事业部 at Eli Lilly
+# Technical Sales Advisor at HMH
 
 | Field | Details |
 |-------|---------|
-| Company | [Eli Lilly](https://scoutify.ai/companies/eli-lilly?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | China |
+| Company | [HMH](https://scoutify.ai/companies/hmhw?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
+| Location | Singapore, Singapore |
 | Category | Sales Engineer |
 | Posted | 2026-05-18 |
-| Apply | [View on company site](https://lilly.wd5.myworkdayjobs.com/LLY/job/China-Shang-Hai-/-_R-105817-1) |
+| Apply | [View on company site](https://hmhw.wd12.myworkdayjobs.com/hmh_careers/job/Singapore-Singapore/Technical-Sales-Advisor_JR102113-1) |
 
 ## About This Role
 
-This sales engineer position at Eli Lilly was posted on 2026-05-18.
+This sales engineer position at HMH was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

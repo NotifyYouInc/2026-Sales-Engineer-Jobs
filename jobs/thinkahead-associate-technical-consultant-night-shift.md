@@ -1,16 +1,16 @@
-# Technical Field Engineer at Unisys
+# Associate Technical Consultant - Night Shift at Thinkahead
 
 | Field | Details |
 |-------|---------|
-| Company | [Unisys](https://scoutify.ai/companies/unisys?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Sydney, New South Wales, Australia |
+| Company | [Thinkahead](https://scoutify.ai/companies/thinkahead?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
+| Location | Gurugram, Haryana, India |
 | Category | Customer Success |
 | Posted | 2026-05-18 |
-| Apply | [View on company site](https://unisys.wd5.myworkdayjobs.com/External/job/Sydney-NSW-Australia/Technical-Field-Engineer_REQ573096) |
+| Apply | [View on company site](https://jobs.lever.co/thinkahead/a2e0eaf0-2497-44c9-9105-d81ce86aa898) |
 
 ## About This Role
 
-This customer success position at Unisys was posted on 2026-05-18.
+This customer success position at Thinkahead was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

@@ -1,12 +1,12 @@
-# Sr Medical Infocomm Rep - Medical Aesth at AbbVie
+# Product Specialist Eyecare - Abu Dhabi at AbbVie
 
 | Field | Details |
 |-------|---------|
 | Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Suzhou, Jiangsu, China |
+| Location | Abu Dhabi, Abu Dhabi, United Arab Emirates |
 | Category | Account Manager |
 | Posted | 2026-05-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990013173676-sr-medical-infocomm-rep-medical-aesth) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990013174368-product-specialist-eyecare-abu-dhabi) |
 
 ## About This Role
 

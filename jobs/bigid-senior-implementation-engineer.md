@@ -1,16 +1,16 @@
-# Technical Field Engineer at Unisys
+# Senior Implementation Engineer at BigID
 
 | Field | Details |
 |-------|---------|
-| Company | [Unisys](https://scoutify.ai/companies/unisys?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Sydney, New South Wales, Australia |
+| Company | [BigID](https://scoutify.ai/companies/bigid?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
+| Location | Bulgaria |
 | Category | Customer Success |
 | Posted | 2026-05-18 |
-| Apply | [View on company site](https://unisys.wd5.myworkdayjobs.com/External/job/Sydney-NSW-Australia/Technical-Field-Engineer_REQ573096) |
+| Apply | [View on company site](https://bigid.com/company/careers/job-details/8553695002?gh_jid=8553695002) |
 
 ## About This Role
 
-This customer success position at Unisys was posted on 2026-05-18.
+This customer success position at BigID was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

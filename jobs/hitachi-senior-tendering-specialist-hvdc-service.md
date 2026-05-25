@@ -1,16 +1,16 @@
-# 医药代表-心血管代谢健康事业部 at Eli Lilly
+# Senior Tendering Specialist- HVDC Service at Hitachi
 
 | Field | Details |
 |-------|---------|
-| Company | [Eli Lilly](https://scoutify.ai/companies/eli-lilly?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | China |
+| Company | [Hitachi](https://scoutify.ai/companies/hitachi?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
+| Location | Gurugram, Haryana, India |
 | Category | Sales Engineer |
 | Posted | 2026-05-18 |
-| Apply | [View on company site](https://lilly.wd5.myworkdayjobs.com/LLY/job/China-Shang-Hai-/-_R-105817-1) |
+| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Gurugram-Haryana-India/Senior-Tendering-Specialist--HVDC-Service_R0130629) |
 
 ## About This Role
 
-This sales engineer position at Eli Lilly was posted on 2026-05-18.
+This sales engineer position at Hitachi was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

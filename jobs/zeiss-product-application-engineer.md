@@ -1,16 +1,16 @@
-# Field Application Engineer at Avnet
+# Product Application Engineer at Zeiss
 
 | Field | Details |
 |-------|---------|
-| Company | [Avnet](https://scoutify.ai/companies/avnet?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
+| Company | [Zeiss](https://scoutify.ai/companies/zeissgroup?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Software Engineer |
-| Posted | 2026-05-14 |
-| Apply | [View on company site](https://avnet.wd1.myworkdayjobs.com/external/job/Bangalore-India/Field-Application-Engineer_JR-022833) |
+| Posted | 2026-05-18 |
+| Apply | [View on company site](https://zeissgroup.wd3.myworkdayjobs.com/External/job/Bangalore/Product-Application-Engineer_JR_1035708) |
 
 ## About This Role
 
-This software engineer position at Avnet was posted on 2026-05-14.
+This software engineer position at Zeiss was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

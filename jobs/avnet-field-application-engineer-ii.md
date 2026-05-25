@@ -1,16 +1,16 @@
-# Field Application Engineer at Avnet
+# Field Application Engineer II at Avnet
 
 | Field | Details |
 |-------|---------|
 | Company | [Avnet](https://scoutify.ai/companies/avnet?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Singapore |
 | Category | Software Engineer |
-| Posted | 2026-05-14 |
-| Apply | [View on company site](https://avnet.wd1.myworkdayjobs.com/external/job/Bangalore-India/Field-Application-Engineer_JR-022833) |
+| Posted | 2026-05-17 |
+| Apply | [View on company site](https://avnet.wd1.myworkdayjobs.com/external/job/Lorong-Chuan-Singapore/Field-Application-Engineer-II_JR-022801) |
 
 ## About This Role
 
-This software engineer position at Avnet was posted on 2026-05-14.
+This software engineer position at Avnet was posted on 2026-05-17.
 
 ## Get Real-Time Alerts
 

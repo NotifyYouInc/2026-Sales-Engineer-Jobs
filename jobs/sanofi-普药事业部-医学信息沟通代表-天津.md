@@ -5,12 +5,12 @@
 | Company | [Sanofi](https://scoutify.ai/companies/sanofi?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Tianjin, Tianjin, China |
 | Category | Sales Engineer |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Tianjin/--_R2852622-1) |
+| Posted | 2026-05-18 |
+| Apply | [View on company site](https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Tianjin/--_R2857859) |
 
 ## About This Role
 
-This sales engineer position at Sanofi was posted on 2026-04-13.
+This sales engineer position at Sanofi was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 
