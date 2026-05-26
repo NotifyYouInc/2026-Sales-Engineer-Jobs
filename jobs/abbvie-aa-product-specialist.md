@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Singapore, Singapore |
-| Category | Account Executive |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012280156-aa-product-specialist) |
+| Location | Dubai, Dubai, United Arab Emirates |
+| Category | Account Manager |
+| Posted | 2026-05-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990013176776-aa-product-specialist) |
 
 ## About This Role
 
-This account executive position at AbbVie was posted on 2026-03-24.
+This account manager position at AbbVie was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

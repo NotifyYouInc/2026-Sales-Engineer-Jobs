@@ -5,12 +5,12 @@
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Customer Success |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckbSFGdEDouyFlhGlLoHew8u-QqF9D0q4z2gvyZlg8H87EjsACxwdTEw0kGszP61IeC9qjWISx06e_CL7i6si0OG-4IrIvc-YaLlP_xOUKsyR0sTZMvx873cKoAX2og%3D%3D_V2&loc=IN&title=Technical+Solutions+Engineer+I) |
+| Posted | 2026-05-19 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckYMhHVo_jV5H1gU8s2Xml45ny4GydEDHeP0fRLLHjsICEjsACxwdTFYRMHQdfTvi68glR_dLKH26RJhrA4YHj6N-2zMcG2ljl4FqbH0foLcXZM4huYab5Eu2nv-G2Q%3D%3D_V2&loc=IN&title=Technical+Solutions+Engineer+I) |
 
 ## About This Role
 
-This customer success position at Google was posted on 2026-04-15.
+This customer success position at Google was posted on 2026-05-19.
 
 ## Get Real-Time Alerts
 

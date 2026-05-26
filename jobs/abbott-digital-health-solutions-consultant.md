@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Abbott](https://scoutify.ai/companies/abbott-laboratories?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Maidenhead, England, United Kingdom |
+| Location | Tokyo, Tokyo, Japan |
 | Category | Customer Success |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-Kingdom---Maidenhead/Digital-Health-Solutions-Consultant_31142382) |
+| Posted | 2026-05-18 |
+| Apply | [View on company site](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/Japan---Tokyo/Digital-Health-Solutions-Consultant_31150614) |
 
 ## About This Role
 
-This customer success position at Abbott was posted on 2026-02-26.
+This customer success position at Abbott was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

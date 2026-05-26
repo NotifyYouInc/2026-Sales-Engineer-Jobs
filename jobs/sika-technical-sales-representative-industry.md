@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sika](https://scoutify.ai/companies/sika?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Australia |
+| Location | Bibra Lake, Western Australia, Australia |
 | Category | Account Executive |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SikaAG/744000122128777-technical-sales-representative-industry) |
+| Posted | 2026-05-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SikaAG/744000127082709-technical-sales-representative-industry) |
 
 ## About This Role
 
-This account executive position at Sika was posted on 2026-04-21.
+This account executive position at Sika was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

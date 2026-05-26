@@ -5,12 +5,12 @@
 | Company | [Alan](https://scoutify.ai/companies/alan?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | France |
 | Category | Sales Engineer |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/alan/766b256f-def6-493b-a2c8-a4e419171b8d) |
+| Posted | 2026-05-18 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/alan/15752631-d1f9-4cca-b31b-df2d5e2c8dec) |
 
 ## About This Role
 
-This sales engineer position at Alan was posted on 2026-04-24.
+This sales engineer position at Alan was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

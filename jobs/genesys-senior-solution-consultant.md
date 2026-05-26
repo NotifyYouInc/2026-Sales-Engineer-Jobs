@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Genesys](https://scoutify.ai/companies/genesys?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | São Paulo, São Paulo, Brazil |
-| Category | Sales Engineer |
-| Posted | 2026-05-08 |
-| Apply | [View on company site](https://genesys.wd1.myworkdayjobs.com/Genesys/job/Sao-Paulo-Flexible/Senior-Solution-Consultant_JR110930-1) |
+| Location | Colorado, US |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-05-18 |
+| Apply | [View on company site](https://genesys.wd1.myworkdayjobs.com/Genesys/job/Colorado-USA/Senior-Solution-Consultant_JR111090) |
 
 ## About This Role
 
-This sales engineer position at Genesys was posted on 2026-05-08.
+This technical & solutions architect position at Genesys was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

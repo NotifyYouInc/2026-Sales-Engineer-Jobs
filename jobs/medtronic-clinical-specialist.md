@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Medtronic](https://scoutify.ai/companies/medtronic?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Canberra, Australian Capital Territory, Australia |
+| Location | 2 locations |
 | Category | Sales Engineer |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Canberra-Australian-Capital-Territory-Australia/Clinical-Specialist_R64480-1) |
+| Posted | 2026-05-18 |
+| Apply | [View on company site](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Buenos-Aires-Ciudad-Autnoma-de-Buenos-Aires-Argentina/Clinical-Specialist_R66297-2) |
 
 ## About This Role
 
-This sales engineer position at Medtronic was posted on 2026-04-20.
+This sales engineer position at Medtronic was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

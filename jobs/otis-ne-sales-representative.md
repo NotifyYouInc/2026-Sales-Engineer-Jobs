@@ -5,12 +5,12 @@
 | Company | [Otis](https://scoutify.ai/companies/otis?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Split, Split-Dalmatia, Croatia |
 | Category | Account Executive |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://otis.wd5.myworkdayjobs.com/REC_Ext_Gateway/job/Split/NE-Sales-Representative_20159588-1) |
+| Posted | 2026-05-18 |
+| Apply | [View on company site](https://otis.wd5.myworkdayjobs.com/REC_Ext_Gateway/job/Split/NE-Sales-Representative_20159572) |
 
 ## About This Role
 
-This account executive position at Otis was posted on 2026-05-11.
+This account executive position at Otis was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

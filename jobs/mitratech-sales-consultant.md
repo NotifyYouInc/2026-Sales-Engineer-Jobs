@@ -1,16 +1,16 @@
-# Sales Consultant  at Mitratech
+# Sales Consultant at Mitratech
 
 | Field | Details |
 |-------|---------|
 | Company | [Mitratech](https://scoutify.ai/companies/mitratech?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Slough, England, United Kingdom |
+| Location | United States |
 | Category | Sales Engineer |
-| Posted | 2026-03-26 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/mitratech/jobs/7688802) |
+| Posted | 2026-05-18 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/mitratech/jobs/7901797) |
 
 ## About This Role
 
-This sales engineer position at Mitratech was posted on 2026-03-26.
+This sales engineer position at Mitratech was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

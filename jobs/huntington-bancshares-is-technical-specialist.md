@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Huntington Bancshares](https://scoutify.ai/companies/huntington?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Columbus, Ohio, United States |
-| Category | IT & Systems Administration |
-| Posted | 2026-05-07 |
-| Apply | [View on company site](https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Columbus-OH/IS-Technical-Specialist_R0072133) |
+| Category | Software Engineer |
+| Posted | 2026-05-18 |
+| Apply | [View on company site](https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Columbus-OH/IS-Application-Manager_R0063957) |
 
 ## About This Role
 
-This it & systems administration position at Huntington Bancshares was posted on 2026-05-07.
+This software engineer position at Huntington Bancshares was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Ingram Micro](https://scoutify.ai/companies/ingram-micro?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Courbevoie, Île-de-France, France |
 | Category | Sales Engineer |
-| Posted | 2026-05-07 |
-| Apply | [View on company site](https://ingrammicro.wd5.myworkdayjobs.com/ingrammicro/job/Courbevoie-France/Ingnieur-commercial-terrain-Microsoft-Azure_R-115246) |
+| Posted | 2026-05-18 |
+| Apply | [View on company site](https://ingrammicro.wd5.myworkdayjobs.com/ingrammicro/job/Courbevoie-France/Ingnieur-commercial-terrain-Microsoft-Azure_R-115383) |
 
 ## About This Role
 
-This sales engineer position at Ingram Micro was posted on 2026-05-07.
+This sales engineer position at Ingram Micro was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

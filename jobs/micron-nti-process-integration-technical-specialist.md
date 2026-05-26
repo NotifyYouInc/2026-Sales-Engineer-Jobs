@@ -5,12 +5,12 @@
 | Company | [Micron](https://scoutify.ai/companies/micron?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Singapore, Singapore |
 | Category | Semiconductor / Chip Design |
-| Posted | 2026-05-15 |
-| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Fab-10NX-Singapore/NTI-Process-Integration-Technical-Specialist_JR101326) |
+| Posted | 2026-05-19 |
+| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Fab-10NX-Singapore/NTI-Process-Integration-Technical-Specialist_JR101325-1) |
 
 ## About This Role
 
-This semiconductor / chip design position at Micron was posted on 2026-05-15.
+This semiconductor / chip design position at Micron was posted on 2026-05-19.
 
 ## Get Real-Time Alerts
 

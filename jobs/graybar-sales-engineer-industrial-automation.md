@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Graybar](https://scoutify.ai/companies/graybar?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Pittsburgh, Pennsylvania, United States |
+| Location | Sacramento, California, United States |
 | Category | Sales Engineer |
-| Posted | 2026-05-01 |
-| Apply | [View on company site](https://graybar.wd1.myworkdayjobs.com/Careers/job/Pittsburgh-PA/Sales-Engineer---Industrial-Automation_R261314-1) |
+| Posted | 2026-05-18 |
+| Apply | [View on company site](https://graybar.wd1.myworkdayjobs.com/Careers/job/Sacramento-CA/Sales-Engineer---Industrial-Automation_R261787-1) |
 
 ## About This Role
 
-This sales engineer position at Graybar was posted on 2026-05-01.
+This sales engineer position at Graybar was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

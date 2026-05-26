@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Bengaluru, Karnataka, India |
-| Category | Technology / IT Consulting |
-| Posted | 2026-05-14 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=114419) |
+| Location | India |
+| Category | AI / ML Research |
+| Posted | 2026-05-15 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=115504) |
 
 ## About This Role
 
-This technology / it consulting position at IBM was posted on 2026-05-14.
+This ai / ml research position at IBM was posted on 2026-05-15.
 
 ## Get Real-Time Alerts
 

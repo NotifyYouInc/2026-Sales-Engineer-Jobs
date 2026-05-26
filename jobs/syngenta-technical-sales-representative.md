@@ -5,12 +5,12 @@
 | Company | [Syngenta](https://scoutify.ai/companies/syngenta?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Lusaka, Lusaka Province, Zambia |
 | Category | Account Executive |
-| Posted | 2026-05-14 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SyngentaGroup/744000126537168-technical-sales-representative) |
+| Posted | 2026-05-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SyngentaGroup/744000126688864-technical-sales-representative) |
 
 ## About This Role
 
-This account executive position at Syngenta was posted on 2026-05-14.
+This account executive position at Syngenta was posted on 2026-05-15.
 
 ## Get Real-Time Alerts
 

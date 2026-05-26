@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Warsaw, Mazovia, Poland |
-| Category | Software Engineer |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/jobs/results/85527454856159942-ads-solutions-engineer?sort_by=date&page=1) |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-05-18 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckaUdd2NypIVeE7-CutiSDf__TLrIK2n3e-E9n-M0QFvVEjsACxwdTI6b11l2Z0Jnxr7jjZvQHAV-Oz38qCn3vBrPqx3bWOHEvMPFx8hY8CP6mba84JNNpYs4Ki9KLw%3D%3D_V2&loc=PL&title=Ads+Solutions+Engineer) |
 
 ## About This Role
 
-This software engineer position at Google was posted on 2026-02-20.
+This technical & solutions architect position at Google was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

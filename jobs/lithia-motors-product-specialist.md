@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Lithia Motors](https://scoutify.ai/companies/lithia-motors?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Pennsylvania, US |
-| Category | Customer Success |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://lithia.wd5.myworkdayjobs.com/lithiacareers/job/Baierl-Acura-of-Wexford-Wexford-PA-15090/Product-Specialist_R107319) |
+| Location | Fresno, California, United States |
+| Category | Business Development |
+| Posted | 2026-05-19 |
+| Apply | [View on company site](https://lithia.wd5.myworkdayjobs.com/lithiacareers/job/Fresno-Hyundai-Fresno-CA-93710/Product-Specialist_R109057) |
 
 ## About This Role
 
-This customer success position at Lithia Motors was posted on 2026-04-22.
+This business development position at Lithia Motors was posted on 2026-05-19.
 
 ## Get Real-Time Alerts
 

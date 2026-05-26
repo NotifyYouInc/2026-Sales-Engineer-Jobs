@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
-| Category | Sales Engineer |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Kuala-Lumpur-Malaysia/Partner-Solutions-Engineer_2007980) |
+| Location | London, England, United Kingdom |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-05-18 |
+| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/London-United-Kingdom/Partner-Solutions-Engineer_2014218-1) |
 
 ## About This Role
 
-This sales engineer position at Cisco was posted on 2026-03-10.
+This technical & solutions architect position at Cisco was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

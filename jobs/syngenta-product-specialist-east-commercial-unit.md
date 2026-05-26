@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Syngenta](https://scoutify.ai/companies/syngenta?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Bihar, IN |
+| Location | India |
 | Category | Product Manager |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SyngentaGroup/744000112348707-product-specialist-east-commercial-unit) |
+| Posted | 2026-05-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SyngentaGroup/744000126939580-product-specialist-east-commercial-unit) |
 
 ## About This Role
 
-This product manager position at Syngenta was posted on 2026-03-03.
+This product manager position at Syngenta was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 
