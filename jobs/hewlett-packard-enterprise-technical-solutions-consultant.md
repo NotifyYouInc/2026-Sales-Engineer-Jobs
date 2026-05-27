@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Hewlett Packard Enterprise](https://scoutify.ai/companies/hewlett-packard-enterprise?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Sofia, Sofia-Capital, Bulgaria |
+| Location | Bengaluru, Karnataka, India |
 | Category | Customer Success |
-| Posted | 2026-03-27 |
-| Apply | [View on company site](https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/Sofia-Sofia-Bulgaria/Technical-Solutions-Consultant_1204043-1) |
+| Posted | 2026-05-20 |
+| Apply | [View on company site](https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/Bengaluru-Karntaka-India/Technical-Solutions-Consultant_1205559) |
 
 ## About This Role
 
-This customer success position at Hewlett Packard Enterprise was posted on 2026-03-27.
+This customer success position at Hewlett Packard Enterprise was posted on 2026-05-20.
 
 ## Get Real-Time Alerts
 

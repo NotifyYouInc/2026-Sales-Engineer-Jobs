@@ -1,16 +1,16 @@
-# Brand Sales Specialist - Data & AI at IBM
+# Brand Sales Specialist, Data & AI at IBM
 
 | Field | Details |
 |-------|---------|
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Rio Grande do Sul, BR |
-| Category | Sales |
-| Posted | 2026-02-09 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=85249) |
+| Location | Not specified |
+| Category | Account Executive |
+| Posted | 2026-05-19 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=113778) |
 
 ## About This Role
 
-This sales position at IBM was posted on 2026-02-09.
+This account executive position at IBM was posted on 2026-05-19.
 
 ## Get Real-Time Alerts
 

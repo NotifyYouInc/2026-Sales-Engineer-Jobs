@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Abbott](https://scoutify.ai/companies/abbott-laboratories?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Portland, Oregon, United States |
+| Location | Nashville, Tennessee, United States |
 | Category | Sales Engineer |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Oregon---Portland/Clinical-Associate_31137114-1) |
+| Posted | 2026-05-19 |
+| Apply | [View on company site](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Tennessee---Nashville/Clinical-Associate_31150525-1) |
 
 ## About This Role
 
-This sales engineer position at Abbott was posted on 2026-04-21.
+This sales engineer position at Abbott was posted on 2026-05-19.
 
 ## Get Real-Time Alerts
 

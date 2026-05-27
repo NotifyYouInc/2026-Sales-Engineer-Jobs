@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Riyadh, Riyadh Region, Saudi Arabia |
+| Location | 2 locations |
 | Category | Sales Engineer |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Riyadh-Saudi-Arabia/Solutions-Engineer---Service-Provider_2007850) |
+| Posted | 2026-05-19 |
+| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Seattle-Washington-US/Solutions-Engineer---Service-Provider_2014660) |
 
 ## About This Role
 
-This sales engineer position at Cisco was posted on 2026-03-06.
+This sales engineer position at Cisco was posted on 2026-05-19.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Medtronic](https://scoutify.ai/companies/medtronic?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Seattle, Washington, United States |
+| Location | Portland, Oregon, United States |
 | Category | Sales Engineer |
-| Posted | 2026-05-15 |
-| Apply | [View on company site](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/State-of-Washington-United-States-of-America/Principal-Affera-Mapping-Specialist---CAS_R67235-1) |
+| Posted | 2026-05-18 |
+| Apply | [View on company site](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Portland-Oregon-United-States-of-America/Principal-Affera-Mapping-Specialist---CAS_R67239-1) |
 
 ## About This Role
 
-This sales engineer position at Medtronic was posted on 2026-05-15.
+This sales engineer position at Medtronic was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

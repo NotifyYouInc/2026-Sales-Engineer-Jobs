@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Disney](https://scoutify.ai/companies/disney?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | India |
-| Category | Frontend Engineer |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://disney.wd5.myworkdayjobs.com/disneycareer/job/Bangalore-India/Solutions-Engineer-II_10141508-1) |
+| Location | Bengaluru, Karnataka, India |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-05-20 |
+| Apply | [View on company site](https://disney.wd5.myworkdayjobs.com/disneycareer/job/Bangalore-India/Solutions-Engineer-II_10149309) |
 
 ## About This Role
 
-This frontend engineer position at Disney was posted on 2026-02-17.
+This technical & solutions architect position at Disney was posted on 2026-05-20.
 
 ## Get Real-Time Alerts
 

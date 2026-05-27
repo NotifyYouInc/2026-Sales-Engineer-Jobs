@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Kone](https://scoutify.ai/companies/kone?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Pero, Lombardy, Italy |
-| Category | Customer Success |
-| Posted | 2026-04-28 |
-| Apply | [View on company site](https://kone.wd3.myworkdayjobs.com/careers/job/Pero/Customer-Solutions-Engineer_R0659024) |
+| Location | 4 locations |
+| Category | Sales Engineer |
+| Posted | 2026-05-20 |
+| Apply | [View on company site](https://kone.wd3.myworkdayjobs.com/careers/job/Mascot/Customer-Solutions-Engineer_R0660538) |
 
 ## About This Role
 
-This customer success position at Kone was posted on 2026-04-28.
+This sales engineer position at Kone was posted on 2026-05-20.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Doha, Baladīyat ad Dawḩah, Qatar |
 | Category | Customer Success |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckWkjcGhVfVRUnJEoRfAd4iJH0Tm0Gw_bwzgpfgLcKNtAEjoACxwdTI9-RgHiYY-ueeWnr0RyrY6o90AQkLjYG58ZTPeV_ghWwcClwfmmpLnfstFbFeLIA_p5TQxN_V2&loc=QA&title=Technical+Account+Manager) |
+| Posted | 2026-05-19 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckSg3o9NdCVfDgM7rm3WgJOINjUXjcmICGyk3B7qoozEhEjoACxwdTHo1g3LCOABR1epn-sHJwWXslJjA_nARTrTbGwuYqNnEhRHHD99I6lH3_w1rbDusgDw18wsV_V2&loc=QA&title=Technical+Account+Manager) |
 
 ## About This Role
 
-This customer success position at Google was posted on 2026-04-16.
+This customer success position at Google was posted on 2026-05-19.
 
 ## Get Real-Time Alerts
 

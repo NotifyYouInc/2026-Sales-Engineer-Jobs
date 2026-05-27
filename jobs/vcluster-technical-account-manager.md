@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Vcluster](https://scoutify.ai/companies/vcluster?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | New York City, New York, United States |
+| Location | Australia |
 | Category | Customer Success |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/vcluster/d1e0c18c-1865-4b4b-aaef-256c1bf14cb1) |
+| Posted | 2026-05-19 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/vcluster/ea277ba7-e54d-4d6e-8d4b-de622bc82955) |
 
 ## About This Role
 
-This customer success position at Vcluster was posted on 2026-04-24.
+This customer success position at Vcluster was posted on 2026-05-19.
 
 ## Get Real-Time Alerts
 

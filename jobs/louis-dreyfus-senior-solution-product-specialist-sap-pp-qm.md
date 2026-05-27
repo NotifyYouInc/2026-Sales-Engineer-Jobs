@@ -6,7 +6,7 @@
 | Location | 2 locations |
 | Category | Technical & Solutions Architect |
 | Posted | 2026-05-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/LouisDreyfusCompany/744000126984379-senior-solution-product-specialist-sap-pp-qm) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/LouisDreyfusCompany/744000126985129-senior-solution-product-specialist-sap-pp-qm) |
 
 ## About This Role
 

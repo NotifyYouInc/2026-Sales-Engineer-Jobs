@@ -1,16 +1,16 @@
-# Pharmaberater m/w/d  Immunologie, Osteoporose at IQVIA
+# Pharmaberater (m/w/d) Immunologie, Osteoporose at IQVIA
 
 | Field | Details |
 |-------|---------|
 | Company | [IQVIA](https://scoutify.ai/companies/iqvia?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Bremen, City state Bremen, Germany |
+| Location | Hamburg, Hamburg, Germany |
 | Category | Sales Engineer |
-| Posted | 2026-05-06 |
-| Apply | [View on company site](https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Bremen-Bremen-Germany/Pharmaberater-m-w-d--Immunologie--Osteoporose_R1543103) |
+| Posted | 2026-05-19 |
+| Apply | [View on company site](https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Hamburg-Hamburg-Germany/Pharmaberater--m-w-d--Immunologie--Osteoporose_R1545556) |
 
 ## About This Role
 
-This sales engineer position at IQVIA was posted on 2026-05-06.
+This sales engineer position at IQVIA was posted on 2026-05-19.
 
 ## Get Real-Time Alerts
 

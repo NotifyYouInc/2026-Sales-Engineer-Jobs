@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Rockwell Automation](https://scoutify.ai/companies/rockwellautomation?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Bangkok, Bangkok, Thailand |
+| Location | 2 locations |
 | Category | Sales Engineer |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Bangkok-Thailand/Senior-Proposal-Engineer_R26-2645) |
+| Posted | 2026-05-20 |
+| Apply | [View on company site](https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Jakarta-Indonesia/Senior-Proposal-Engineer_R26-3709) |
 
 ## About This Role
 
-This sales engineer position at Rockwell Automation was posted on 2026-05-05.
+This sales engineer position at Rockwell Automation was posted on 2026-05-20.
 
 ## Get Real-Time Alerts
 

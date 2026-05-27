@@ -1,16 +1,16 @@
-# Sales Engineer  at Sierra
+# Sales Engineer at Sierra
 
 | Field | Details |
 |-------|---------|
 | Company | [Sierra](https://scoutify.ai/companies/sierra?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Tokyo, Tokyo, Japan |
+| Location | Munich, Bavaria, Germany |
 | Category | Sales Engineer |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/sierra/409c7bae-fdfc-4d36-a427-297683063d43) |
+| Posted | 2026-05-19 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/sierra/b90d210e-c622-46c1-a0c3-d3ef3b3696dd) |
 
 ## About This Role
 
-This sales engineer position at Sierra was posted on 2026-02-20.
+This sales engineer position at Sierra was posted on 2026-05-19.
 
 ## Get Real-Time Alerts
 

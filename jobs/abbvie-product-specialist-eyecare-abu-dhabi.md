@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Abu Dhabi, Abu Dhabi, United Arab Emirates |
-| Category | Account Manager |
+| Category | Business Development |
 | Posted | 2026-05-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990013174368-product-specialist-eyecare-abu-dhabi) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990013179116-product-specialist-eyecare-abu-dhabi) |
 
 ## About This Role
 
-This account manager position at AbbVie was posted on 2026-05-18.
+This business development position at AbbVie was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

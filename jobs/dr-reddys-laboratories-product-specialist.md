@@ -5,12 +5,12 @@
 | Company | [Dr. Reddy's Laboratories](https://scoutify.ai/companies/drreddyslaboratories?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Philippines |
 | Category | Account Manager |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/DrReddysLaboratoriesLimited/744000126907064-product-specialist) |
+| Posted | 2026-05-19 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/DrReddysLaboratoriesLimited/744000127139126-product-specialist) |
 
 ## About This Role
 
-This account manager position at Dr. Reddy's Laboratories was posted on 2026-05-18.
+This account manager position at Dr. Reddy's Laboratories was posted on 2026-05-19.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Plansee Holding](https://scoutify.ai/companies/plansee-holding?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Italy |
+| Location | Budapest, Budapest, Hungary |
 | Category | Sales Engineer |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://myhr.wd3.myworkdayjobs.com/planseegroup_career/job/Milano-North-Italy/Technical-Sales-Engineer_JR-11285) |
+| Posted | 2026-05-19 |
+| Apply | [View on company site](https://myhr.wd3.myworkdayjobs.com/planseegroup_career/job/Budapest-Hungary/Technical-Sales-Engineer_JR-11489) |
 
 ## About This Role
 
-This sales engineer position at Plansee Holding was posted on 2026-04-22.
+This sales engineer position at Plansee Holding was posted on 2026-05-19.
 
 ## Get Real-Time Alerts
 

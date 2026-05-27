@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Twilio](https://scoutify.ai/companies/twilio?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | United States |
-| Category | Sales Engineer |
-| Posted | 2026-03-18 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/twilio/jobs/7721647) |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-05-19 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/twilio/jobs/7938968) |
 
 ## About This Role
 
-This sales engineer position at Twilio was posted on 2026-03-18.
+This technical & solutions architect position at Twilio was posted on 2026-05-19.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Innsbruck, Tyrol, Austria |
 | Category | Sales Engineer |
-| Posted | 2026-05-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000126818549-auendienstmitarbeiter-heizungstechnik-buderus-tirol-wmdiv) |
+| Posted | 2026-05-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000127360629-auendienstmitarbeiter-heizungstechnik-buderus-tirol-wmdiv) |
 
 ## About This Role
 
-This sales engineer position at Robert Bosch was posted on 2026-05-16.
+This sales engineer position at Robert Bosch was posted on 2026-05-20.
 
 ## Get Real-Time Alerts
 

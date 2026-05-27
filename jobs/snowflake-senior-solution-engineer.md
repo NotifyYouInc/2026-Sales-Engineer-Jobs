@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Snowflake](https://scoutify.ai/companies/snowflake?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | North Carolina, US |
+| Location | California, US |
 | Category | Sales Engineer |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/snowflake/00898e37-87aa-47e6-9df7-aefabac4ab01) |
+| Posted | 2026-05-19 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/snowflake/fca166e2-7a1d-4afe-9b24-c125f6749706) |
 
 ## About This Role
 
-This sales engineer position at Snowflake was posted on 2026-05-18.
+This sales engineer position at Snowflake was posted on 2026-05-19.
 
 ## Get Real-Time Alerts
 

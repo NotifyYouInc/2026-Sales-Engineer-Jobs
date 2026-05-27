@@ -5,12 +5,12 @@
 | Company | [Pure Storage](https://scoutify.ai/companies/pure-storage?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Seattle, Washington, United States |
 | Category | Sales Engineer |
-| Posted | 2026-02-04 |
-| Apply | [View on company site](https://boards.greenhouse.io/purestorage/jobs/7577469?gh_jid=7577469) |
+| Posted | 2026-05-19 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/purestorage/jobs/7920979) |
 
 ## About This Role
 
-This sales engineer position at Pure Storage was posted on 2026-02-04.
+This sales engineer position at Pure Storage was posted on 2026-05-19.
 
 ## Get Real-Time Alerts
 

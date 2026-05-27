@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [EML](https://scoutify.ai/companies/eml?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Brisbane, Queensland, Australia |
+| Location | Melbourne, Victoria, Australia |
 | Category | Customer Success |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://eml.wd105.myworkdayjobs.com/eml/job/Brisbane-Queensland/Technical-Specialist_JR5488) |
+| Posted | 2026-05-20 |
+| Apply | [View on company site](https://eml.wd105.myworkdayjobs.com/eml/job/Melbourne-Victoria/Technical-Specialist_JR5683) |
 
 ## About This Role
 
-This customer success position at EML was posted on 2026-04-22.
+This customer success position at EML was posted on 2026-05-20.
 
 ## Get Real-Time Alerts
 

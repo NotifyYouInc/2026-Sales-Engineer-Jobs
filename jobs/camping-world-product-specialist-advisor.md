@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Camping World](https://scoutify.ai/companies/campingworld?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | DeForest, Wisconsin, United States |
+| Location | Fountain, Colorado, United States |
 | Category | Customer Success |
-| Posted | 2026-05-15 |
-| Apply | [View on company site](https://campingworld.wd5.myworkdayjobs.com/Jobs/job/DeForest-WI/Product-Specialist-Advisor_26_04907) |
+| Posted | 2026-05-18 |
+| Apply | [View on company site](https://campingworld.wd5.myworkdayjobs.com/Jobs/job/Fountain-CO/Product-Specialist-Advisor_26_04885) |
 
 ## About This Role
 
-This customer success position at Camping World was posted on 2026-05-15.
+This customer success position at Camping World was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

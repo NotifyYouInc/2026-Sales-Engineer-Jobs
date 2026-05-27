@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | 2 locations |
-| Category | Customer Success |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/jobs/results/78088837250589382-customer-solutions-engineer-iii-infrastructure-kubernetes-google-cloud?sort_by=date&page=1) |
+| Location | Warsaw, Mazovia, Poland |
+| Category | DevOps Engineer |
+| Posted | 2026-05-19 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckWvy5h4Aan0X55PAUm1eDds-dMYuL3gMbC39uADzp3RFEjsACxwdTC8MIzbu1oJsVhrJQTAR_tu4kqm6XKHFmQcDReujDcUc_VoYDNshDf2agUZ6hykXzK-R7YVYrw%3D%3D_V2&loc=PL&title=Customer+Solutions+Engineer+III) |
 
 ## About This Role
 
-This customer success position at Google was posted on 2026-03-25.
+This devops engineer position at Google was posted on 2026-05-19.
 
 ## Get Real-Time Alerts
 

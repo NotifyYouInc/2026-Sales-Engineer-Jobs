@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Royal Bank of Canada](https://scoutify.ai/companies/rbc?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Dunmore Town, Harbour Island, Bahamas |
+| Location | Nassau, New Providence, Bahamas |
 | Category | Account Manager |
-| Posted | 2026-05-12 |
-| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/Dunmore-Town-Bahamas-the/Financial-Solutions-Specialist_R-0000172072) |
+| Posted | 2026-05-19 |
+| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/Nassau-Bahamas-the/Financial-Solutions-Specialst_R-0000173029-1) |
 
 ## About This Role
 
-This account manager position at Royal Bank of Canada was posted on 2026-05-12.
+This account manager position at Royal Bank of Canada was posted on 2026-05-19.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | 2 locations |
+| Location | Tokyo, Tokyo, Japan |
 | Category | Sales Development (SDR / BDR) |
-| Posted | 2026-03-26 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/jobs/results/94520798009533126-digital-customer-engineer-lead-business-development-japanese-english?sort_by=date&page=1) |
+| Posted | 2026-05-19 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckXlUm7dd06vT2UMXmKB4VXsnFTG8PeZsDY217hDoDa9XEjsACxwdTMSK6qwplsJgYjoewbEvs9PZm29pXQK2iBQsiwI31-pGnpRFc_IuYrAxxRggtGErTOHwxF1WDA%3D%3D_V2&loc=JP&title=Digital+Customer+Engineer+Lead) |
 
 ## About This Role
 
-This sales development (sdr / bdr) position at Google was posted on 2026-03-26.
+This sales development (sdr / bdr) position at Google was posted on 2026-05-19.
 
 ## Get Real-Time Alerts
 

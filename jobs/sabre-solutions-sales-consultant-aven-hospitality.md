@@ -1,16 +1,16 @@
-# Solutions Sales Consultant – Aven Hospitality at Sabre
+# Solutions Sales Consultant - Aven Hospitality at Sabre
 
 | Field | Details |
 |-------|---------|
 | Company | [Sabre](https://scoutify.ai/companies/sabre?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Hong Kong, Hong Kong |
-| Category | Sales Engineer |
-| Posted | 2026-04-27 |
-| Apply | [View on company site](https://sabre.wd1.myworkdayjobs.com/sabrejobs/job/Hong-Kong-Hong-Kong/XMLNAME--Solutions-Sales-Consultant_JR107719) |
+| Location | Montevideo, Montevideo Department, Uruguay |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-05-19 |
+| Apply | [View on company site](https://sabre.wd1.myworkdayjobs.com/sabrejobs/job/ZonAmerica-Montevideo-Uruguay/Solutions-Sales-Consultant---Aven-Hospitality_JR107723) |
 
 ## About This Role
 
-This sales engineer position at Sabre was posted on 2026-04-27.
+This technical & solutions architect position at Sabre was posted on 2026-05-19.
 
 ## Get Real-Time Alerts
 

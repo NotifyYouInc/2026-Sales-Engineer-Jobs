@@ -6,7 +6,7 @@
 | Location | Dubai, Dubai, United Arab Emirates |
 | Category | Account Manager |
 | Posted | 2026-05-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990013176776-aa-product-specialist) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990013179746-aa-product-specialist) |
 
 ## About This Role
 

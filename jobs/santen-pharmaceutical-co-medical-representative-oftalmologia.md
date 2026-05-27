@@ -5,12 +5,12 @@
 | Company | [Santen Pharmaceutical Co.](https://scoutify.ai/companies/santenpharmaceuticalco?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Genoa, Liguria, Italy |
 | Category | Sales Engineer |
-| Posted | 2026-05-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Santen/744000126113850-medical-representative-oftalmologia) |
+| Posted | 2026-05-19 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Santen/744000127146164-medical-representative-oftalmologia) |
 
 ## About This Role
 
-This sales engineer position at Santen Pharmaceutical Co. was posted on 2026-05-12.
+This sales engineer position at Santen Pharmaceutical Co. was posted on 2026-05-19.
 
 ## Get Real-Time Alerts
 

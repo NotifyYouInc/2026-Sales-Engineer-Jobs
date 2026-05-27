@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [OpenGov](https://scoutify.ai/companies/opengov?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Chicago, Illinois, United States |
+| Location | Pune, Maharashtra, India |
 | Category | Customer Success |
-| Posted | 2026-05-15 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/opengov/ae5823be-4604-4244-9272-c0069ad73742) |
+| Posted | 2026-05-20 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/opengov/7c7252d1-f0c0-4a42-82e8-d8b67f20c5a8) |
 
 ## About This Role
 
-This customer success position at OpenGov was posted on 2026-05-15.
+This customer success position at OpenGov was posted on 2026-05-20.
 
 ## Get Real-Time Alerts
 

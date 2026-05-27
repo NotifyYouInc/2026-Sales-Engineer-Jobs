@@ -5,12 +5,12 @@
 | Company | [Hitachi](https://scoutify.ai/companies/hitachi?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Chennai, Tamil Nadu, India |
 | Category | Sales Engineer |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Chennai-Tamil-Nadu-India/Tender-and-Quotation-Specialist_R0114001-1) |
+| Posted | 2026-05-19 |
+| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Chennai-Tamil-Nadu-India/Tender-and-Quotation-Specialist_R0114006) |
 
 ## About This Role
 
-This sales engineer position at Hitachi was posted on 2026-04-22.
+This sales engineer position at Hitachi was posted on 2026-05-19.
 
 ## Get Real-Time Alerts
 

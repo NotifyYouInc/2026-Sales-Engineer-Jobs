@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Seattle, Washington, United States |
-| Category | Customer Success |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/jobs/results/121393502679376582-technical-solutions-engineer-i-infrastructure-kubernetes-google-cloud?sort_by=date&page=1) |
+| Location | 2 locations |
+| Category | DevOps Engineer |
+| Posted | 2026-05-19 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckT3Vi097I9PmjjNoxz3p6QJN_bQNMXw0kK7V4z8YAycDEjsACxwdTCWFfXVT60spZb3rOR7yDkHsGECatCtbu0N2X1p2JL0y9ovEwOmt41Omke7boz9sDZp-iPZegA%3D%3D_V2&loc=PL&title=Technical+Solutions+Engineer+I) |
 
 ## About This Role
 
-This customer success position at Google was posted on 2026-03-04.
+This devops engineer position at Google was posted on 2026-05-19.
 
 ## Get Real-Time Alerts
 

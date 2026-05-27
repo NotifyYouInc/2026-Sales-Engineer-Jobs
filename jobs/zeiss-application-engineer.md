@@ -1,16 +1,16 @@
-# Application engineer at Zeiss
+# Application Engineer at Zeiss
 
 | Field | Details |
 |-------|---------|
 | Company | [Zeiss](https://scoutify.ai/companies/zeissgroup?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Breda, North Brabant, The Netherlands |
-| Category | Customer Success |
-| Posted | 2026-05-08 |
-| Apply | [View on company site](https://zeissgroup.wd3.myworkdayjobs.com/External/job/Breda/Application-engineer_JR_1049462) |
+| Location | Shanghai, Shanghai, China |
+| Category | Marketing |
+| Posted | 2026-05-20 |
+| Apply | [View on company site](https://zeissgroup.wd3.myworkdayjobs.com/External/job/Shanghai/Application-Engineer_JR_1049846) |
 
 ## About This Role
 
-This customer success position at Zeiss was posted on 2026-05-08.
+This marketing position at Zeiss was posted on 2026-05-20.
 
 ## Get Real-Time Alerts
 

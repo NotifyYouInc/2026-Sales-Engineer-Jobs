@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Smith+Nephew](https://scoutify.ai/companies/smithnephew?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Pune, Maharashtra, India |
+| Location | United Kingdom |
 | Category | Human Resources / People Ops |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://smithnephew.wd5.myworkdayjobs.com/External/job/IND---NonGBS-Pune-Kharadi/People-Technology-Specialist_R90185) |
+| Posted | 2026-05-19 |
+| Apply | [View on company site](https://smithnephew.wd5.myworkdayjobs.com/External/job/UK---Field/People-Technology-Specialist_R90476-1) |
 
 ## About This Role
 
-This human resources / people ops position at Smith+Nephew was posted on 2026-05-05.
+This human resources / people ops position at Smith+Nephew was posted on 2026-05-19.
 
 ## Get Real-Time Alerts
 

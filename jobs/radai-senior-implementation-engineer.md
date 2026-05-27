@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Radai](https://scoutify.ai/companies/radai?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | San Francisco, California, United States |
+| Location | United States |
 | Category | Customer Success |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/radai/8b4ed34e-501e-4d98-96d8-dcedac400e3c) |
+| Posted | 2026-05-18 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/radai/9e9e7616-69fc-4840-ac85-8ee74b0ea8ea) |
 
 ## About This Role
 
-This customer success position at Radai was posted on 2026-04-21.
+This customer success position at Radai was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [MQ Referrals Only](https://scoutify.ai/companies/mq-referrals-only?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | United States |
+| Location | London, England, United Kingdom |
 | Category | Customer Success |
-| Posted | 2026-04-02 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/mqreferrals/jobs/7487337) |
+| Posted | 2026-05-19 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/mqreferrals/jobs/7472059) |
 
 ## About This Role
 
-This customer success position at MQ Referrals Only was posted on 2026-04-02.
+This customer success position at MQ Referrals Only was posted on 2026-05-19.
 
 ## Get Real-Time Alerts
 

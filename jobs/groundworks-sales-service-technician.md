@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Groundworks](https://scoutify.ai/companies/groundworks?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Grand Rapids, Michigan, United States |
+| Location | West Virginia, US |
 | Category | Sales Engineer |
-| Posted | 2026-05-12 |
-| Apply | [View on company site](https://groundworks.wd1.myworkdayjobs.com/groundworks/job/Grand-Rapids-MI/Sales---Service-Technician_JR111232) |
+| Posted | 2026-05-19 |
+| Apply | [View on company site](https://groundworks.wd1.myworkdayjobs.com/groundworks/job/Scott-Depot-WV/Sales---Service-Technician_JR111297) |
 
 ## About This Role
 
-This sales engineer position at Groundworks was posted on 2026-05-12.
+This sales engineer position at Groundworks was posted on 2026-05-19.
 
 ## Get Real-Time Alerts
 

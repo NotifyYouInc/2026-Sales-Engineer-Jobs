@@ -1,16 +1,16 @@
-# Associate Technology Implementation Consultant at Wolters Kluwer
+# Associate Technology implementation consultant at Wolters Kluwer
 
 | Field | Details |
 |-------|---------|
 | Company | [Wolters Kluwer](https://scoutify.ai/companies/wolters-kluwer?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Madison, Wisconsin, United States |
-| Category | Implementation / Professional Services |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://wk.wd3.myworkdayjobs.com/External/job/USA---Madison-WI-Junction-Rd/Associate-Technology-Implementation-Consultant_R0055498-2) |
+| Location | Rome, Lazio, Italy |
+| Category | Customer Success |
+| Posted | 2026-05-19 |
+| Apply | [View on company site](https://wk.wd3.myworkdayjobs.com/External/job/ITA---Rome-Via-Ostiense/Associate-Technology-implementation-consultant_R0057237) |
 
 ## About This Role
 
-This implementation / professional services position at Wolters Kluwer was posted on 2026-03-09.
+This customer success position at Wolters Kluwer was posted on 2026-05-19.
 
 ## Get Real-Time Alerts
 
