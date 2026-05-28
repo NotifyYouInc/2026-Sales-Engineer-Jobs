@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Groundworks](https://scoutify.ai/companies/groundworks?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Springfield, Missouri, United States |
+| Location | Bloomington, Minnesota, United States |
 | Category | Sales Engineer |
-| Posted | 2026-05-15 |
-| Apply | [View on company site](https://groundworks.wd1.myworkdayjobs.com/groundworks/job/Springfield-MO/Sales-and-Service-Technician_JR111276) |
+| Posted | 2026-05-20 |
+| Apply | [View on company site](https://groundworks.wd1.myworkdayjobs.com/groundworks/job/Bloomington-IL/Sales-and-Service-Technician_JR111315) |
 
 ## About This Role
 
-This sales engineer position at Groundworks was posted on 2026-05-15.
+This sales engineer position at Groundworks was posted on 2026-05-20.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Sanofi](https://scoutify.ai/companies/sanofi?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Dalian, Liaoning, China |
 | Category | Sales Engineer |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Dalian/--_R2855119-1) |
+| Posted | 2026-05-20 |
+| Apply | [View on company site](https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Dalian/--_R2858507) |
 
 ## About This Role
 
-This sales engineer position at Sanofi was posted on 2026-04-24.
+This sales engineer position at Sanofi was posted on 2026-05-20.
 
 ## Get Real-Time Alerts
 

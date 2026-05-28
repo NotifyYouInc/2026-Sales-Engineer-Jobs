@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Acumatica](https://scoutify.ai/companies/acumatica?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Reston, Virginia, United States |
-| Category | Implementation / Professional Services |
-| Posted | 2026-03-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Acumatica/744000114361378-erp-implementation-consultant) |
+| Category | Customer Success |
+| Posted | 2026-05-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Acumatica/744000127445919-erp-implementation-consultant) |
 
 ## About This Role
 
-This implementation / professional services position at Acumatica was posted on 2026-03-12.
+This customer success position at Acumatica was posted on 2026-05-20.
 
 ## Get Real-Time Alerts
 

@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [ABB](https://scoutify.ai/companies/abb?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Shanghai, Shanghai, China |
+| Location | 3 locations |
 | Category | Account Executive |
 | Posted | 2026-05-19 |
-| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Shanghai-Shanghai-China/Sales-Specialist_JR00035368-2) |
+| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Katowice-Silesian-Poland/Sales-Specialist_JR00034481) |
 
 ## About This Role
 

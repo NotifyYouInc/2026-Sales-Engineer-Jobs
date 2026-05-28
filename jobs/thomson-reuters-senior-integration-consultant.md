@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Thomson Reuters](https://scoutify.ai/companies/thomson-reuters?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Madrid, Madrid, Spain |
-| Category | Software Engineer |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/Spain-Madrid-Madrid/Senior-Integration-Consultant_JREQ200558) |
+| Category | Technology / IT Consulting |
+| Posted | 2026-05-20 |
+| Apply | [View on company site](https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/Spain-Madrid-Madrid/Senior-Integration-Consultant_JREQ197183) |
 
 ## About This Role
 
-This software engineer position at Thomson Reuters was posted on 2026-05-05.
+This technology / it consulting position at Thomson Reuters was posted on 2026-05-20.
 
 ## Get Real-Time Alerts
 

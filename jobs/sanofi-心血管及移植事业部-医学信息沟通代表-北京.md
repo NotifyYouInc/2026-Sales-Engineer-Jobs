@@ -6,7 +6,7 @@
 | Location | Beijing, Beijing, China |
 | Category | Sales Engineer |
 | Posted | 2026-05-19 |
-| Apply | [View on company site](https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Beijing/--_R2858355) |
+| Apply | [View on company site](https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Beijing/--_R2858264) |
 
 ## About This Role
 

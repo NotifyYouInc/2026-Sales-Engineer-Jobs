@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mimecast](https://scoutify.ai/companies/mimecast?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Dubai, Dubai, United Arab Emirates |
+| Location | Milan, Lombardy, Italy |
 | Category | Sales Engineer |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://mimecast.wd5.myworkdayjobs.com/Mimecast-Careers/job/United-Arab-Emirates---Dubai/Senior-Sales-Engineer_R6364-1) |
+| Posted | 2026-05-20 |
+| Apply | [View on company site](https://mimecast.wd5.myworkdayjobs.com/Mimecast-Careers/job/Italy---Remote/Senior-Sales-Engineer_R6433-1) |
 
 ## About This Role
 
-This sales engineer position at Mimecast was posted on 2026-04-23.
+This sales engineer position at Mimecast was posted on 2026-05-20.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Hitachi](https://scoutify.ai/companies/hitachi?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Santiago, Santiago Metropolitan, Chile |
+| Location | Chennai, Tamil Nadu, India |
 | Category | Sales Engineer |
-| Posted | 2026-05-07 |
-| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Santiago-Region-Metropolitana-de-Santiago-Chile/Tender-Quotation-Specialist_R0128937) |
+| Posted | 2026-05-20 |
+| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Chennai-Tamil-Nadu-India/Tender-Quotation-Specialist_R0124778) |
 
 ## About This Role
 
-This sales engineer position at Hitachi was posted on 2026-05-07.
+This sales engineer position at Hitachi was posted on 2026-05-20.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | São Paulo, São Paulo, Brazil |
+| Location | 2 locations |
 | Category | Customer Success |
-| Posted | 2026-05-14 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckZyqvEsWwYWI-5WVIjJiqz2ky7JPJ6jGyHexkZMeMR1pEjsACxwdTGVvUzCLo0tEzsMjHRbv0agFFsA-ER_voRm-3d0Arpy8qNGIFh_5VnHdL-f0ZqQdqdPOV0IbhA%3D%3D_V2&loc=BR&title=Technical+Account+Manager) |
+| Posted | 2026-05-21 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckdaAt5l_itWOUZsOqCUgk7WcyCObG2Ua4NgNlW9zUQweEjsACxwdTH8CWr-vTiKYD53OfEu5gnlIF40jfmKJCCtfmT-XyHSNZq95lwnxOiBv4UK9NTgCvp3n5EXUOQ%3D%3D_V2&loc=US&title=Technical+Account+Manager) |
 
 ## About This Role
 
-This customer success position at Google was posted on 2026-05-14.
+This customer success position at Google was posted on 2026-05-21.
 
 ## Get Real-Time Alerts
 

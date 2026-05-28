@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Graybar](https://scoutify.ai/companies/graybar?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Sacramento, California, United States |
+| Location | Columbia, South Carolina, United States |
 | Category | Sales Engineer |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://graybar.wd1.myworkdayjobs.com/Careers/job/Sacramento-CA/Sales-Engineer---Industrial-Automation_R261787-1) |
+| Posted | 2026-05-19 |
+| Apply | [View on company site](https://graybar.wd1.myworkdayjobs.com/Careers/job/Columbia-SC/Sales-Engineer---Industrial-Automation_R261664-1) |
 
 ## About This Role
 
-This sales engineer position at Graybar was posted on 2026-05-18.
+This sales engineer position at Graybar was posted on 2026-05-19.
 
 ## Get Real-Time Alerts
 

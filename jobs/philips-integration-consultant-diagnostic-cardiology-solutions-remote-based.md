@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Philips](https://scoutify.ai/companies/philips?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Minneapolis, Minnesota, United States |
+| Location | United States |
 | Category | Customer Success |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Minneapolis-Minnesota-United-States/Integration-Consultant--Diagnostic-Cardiology-Solutions--Remote-Based-_580246) |
+| Posted | 2026-05-20 |
+| Apply | [View on company site](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/United-States-of-America---Home-Based-United-States/Integration-Consultant--Diagnostic-Cardiology-Solutions--Remote-Based-_583298) |
 
 ## About This Role
 
-This customer success position at Philips was posted on 2026-04-20.
+This customer success position at Philips was posted on 2026-05-20.
 
 ## Get Real-Time Alerts
 

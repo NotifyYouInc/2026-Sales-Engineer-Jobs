@@ -2,15 +2,15 @@
 
 | Field | Details |
 |-------|---------|
-| Company | [Motive](https://scoutify.ai/companies/gomotive?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | 2 locations |
+| Company | [Motive](https://scoutify.ai/companies/motive?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
+| Location | Pakistan |
 | Category | Customer Success |
-| Posted | 2026-04-28 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/gomotive/jobs/8521652002) |
+| Posted | 2026-05-20 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/gomotive/jobs/8555827002) |
 
 ## About This Role
 
-This customer success position at Motive was posted on 2026-04-28.
+This customer success position at Motive was posted on 2026-05-20.
 
 ## Get Real-Time Alerts
 

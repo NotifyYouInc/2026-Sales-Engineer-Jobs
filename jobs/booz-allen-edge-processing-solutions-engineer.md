@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Rome, Georgia, United States |
-| Category | Software Engineer |
-| Posted | 2026-05-08 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Rome-NY/Edge-Processing-Solutions-Engineer_R0239657) |
+| Category | Engineering Manager |
+| Posted | 2026-05-20 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Rome-NY/Edge-Processing-Solutions-Engineer_R0240568) |
 
 ## About This Role
 
-This software engineer position at Booz Allen was posted on 2026-05-08.
+This engineering manager position at Booz Allen was posted on 2026-05-20.
 
 ## Get Real-Time Alerts
 

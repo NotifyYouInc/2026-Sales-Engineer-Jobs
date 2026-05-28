@@ -1,16 +1,16 @@
-# Brand Technical Specialist: TLS at IBM
+# Brand Technical Specialist (TLS) at IBM
 
 | Field | Details |
 |-------|---------|
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Chicago, Illinois, United States |
+| Location | Bangkok, Bangkok, Thailand |
 | Category | Sales Engineer |
-| Posted | 2026-04-08 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=104523) |
+| Posted | 2026-05-21 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=115417) |
 
 ## About This Role
 
-This sales engineer position at IBM was posted on 2026-04-08.
+This sales engineer position at IBM was posted on 2026-05-21.
 
 ## Get Real-Time Alerts
 

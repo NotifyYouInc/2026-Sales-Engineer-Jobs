@@ -1,16 +1,16 @@
-# Senior Solutions Engineer, Strategic at Okta
+# Senior Solutions Engineer - Strategic at Okta
 
 | Field | Details |
 |-------|---------|
 | Company | [Okta](https://scoutify.ai/companies/okta?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | 2 locations |
+| Location | Dallas, Texas, United States |
 | Category | Sales Engineer |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://www.okta.com/company/careers/opportunity/7675481?gh_jid=7675481) |
+| Posted | 2026-05-20 |
+| Apply | [View on company site](https://www.okta.com/company/careers/opportunity/3751281?gh_jid=3751281) |
 
 ## About This Role
 
-This sales engineer position at Okta was posted on 2026-03-03.
+This sales engineer position at Okta was posted on 2026-05-20.
 
 ## Get Real-Time Alerts
 

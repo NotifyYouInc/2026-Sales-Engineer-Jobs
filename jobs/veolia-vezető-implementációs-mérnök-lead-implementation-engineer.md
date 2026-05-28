@@ -5,12 +5,12 @@
 | Company | [Veolia](https://scoutify.ai/companies/veolia?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Oroszlány, Komárom-Esztergom, Hungary |
 | Category | Engineering Manager |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000122478239-vezeto-implementacios-mernok-lead-implementation-engineer) |
+| Posted | 2026-05-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000127518679-vezeto-implementacios-mernok-lead-implementation-engineer) |
 
 ## About This Role
 
-This engineering manager position at Veolia was posted on 2026-04-23.
+This engineering manager position at Veolia was posted on 2026-05-20.
 
 ## Get Real-Time Alerts
 

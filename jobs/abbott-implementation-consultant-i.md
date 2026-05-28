@@ -5,12 +5,12 @@
 | Company | [Abbott](https://scoutify.ai/companies/abbott-laboratories?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Richmond, Virginia, United States |
 | Category | Customer Success |
-| Posted | 2026-03-26 |
-| Apply | [View on company site](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Virginia---Richmond/Implementation-Consultant-I_31145122-1) |
+| Posted | 2026-05-20 |
+| Apply | [View on company site](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Virginia---Richmond/Implementation-Consultant-I_31150855-1) |
 
 ## About This Role
 
-This customer success position at Abbott was posted on 2026-03-26.
+This customer success position at Abbott was posted on 2026-05-20.
 
 ## Get Real-Time Alerts
 

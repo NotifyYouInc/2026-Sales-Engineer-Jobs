@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Abbott](https://scoutify.ai/companies/abbott-laboratories?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Miami, Florida, United States |
+| Location | Portland, Oregon, United States |
 | Category | Sales Engineer |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Florida---Miami/Principal-Clinical-Specialist_31150014) |
+| Posted | 2026-05-20 |
+| Apply | [View on company site](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Oregon---Portland/Principal-Clinical-Specialist_31150987-1) |
 
 ## About This Role
 
-This sales engineer position at Abbott was posted on 2026-05-11.
+This sales engineer position at Abbott was posted on 2026-05-20.
 
 ## Get Real-Time Alerts
 

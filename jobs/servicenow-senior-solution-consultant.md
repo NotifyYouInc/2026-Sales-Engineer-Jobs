@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ServiceNow](https://scoutify.ai/companies/servicenow?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Munich, Bavaria, Germany |
-| Category | Sales Engineer |
-| Posted | 2026-03-31 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000117970089-senior-solution-consultant) |
+| Location | Staines, England, United Kingdom |
+| Category | Customer Success |
+| Posted | 2026-05-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000127437320-senior-solution-consultant) |
 
 ## About This Role
 
-This sales engineer position at ServiceNow was posted on 2026-03-31.
+This customer success position at ServiceNow was posted on 2026-05-20.
 
 ## Get Real-Time Alerts
 

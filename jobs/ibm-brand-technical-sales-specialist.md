@@ -5,12 +5,12 @@
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Brookhaven, Georgia, United States |
 | Category | Sales Engineer |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=111120) |
+| Posted | 2026-05-20 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=116170) |
 
 ## About This Role
 
-This sales engineer position at IBM was posted on 2026-04-21.
+This sales engineer position at IBM was posted on 2026-05-20.
 
 ## Get Real-Time Alerts
 

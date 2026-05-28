@@ -5,12 +5,12 @@
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Mumbai, Maharashtra, India |
 | Category | Electrical / Hardware Engineer |
-| Posted | 2026-05-07 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10413328/data-center-regional-electrical-field-engineer-field-engineering) |
+| Posted | 2026-05-20 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10424991/data-center-regional-electrical-field-engineer-field-engineering) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Amazon was posted on 2026-05-07.
+This electrical / hardware engineer position at Amazon was posted on 2026-05-20.
 
 ## Get Real-Time Alerts
 

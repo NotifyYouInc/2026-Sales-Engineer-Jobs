@@ -5,12 +5,12 @@
 | Company | [CrowdStrike](https://scoutify.ai/companies/crowdstrike?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Singapore, Singapore |
 | Category | Sales Engineer |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/Singapore/Corporate-Sales-Engineer---Singapore_R27642-1) |
+| Posted | 2026-05-21 |
+| Apply | [View on company site](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/Singapore/Corporate-Sales-Engineer---Singapore_R28666) |
 
 ## About This Role
 
-This sales engineer position at CrowdStrike was posted on 2026-03-02.
+This sales engineer position at CrowdStrike was posted on 2026-05-21.
 
 ## Get Real-Time Alerts
 

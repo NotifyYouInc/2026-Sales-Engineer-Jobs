@@ -5,12 +5,12 @@
 | Company | [Duke Energy](https://scoutify.ai/companies/dukeenergy?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Charlotte, North Carolina, United States |
 | Category | Technology / IT Consulting |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://dukeenergy.wd1.myworkdayjobs.com/search/job/Charlotte-NC/Business---Technical-Consultant-OR-Senior-Business---Technical-Consultant_R38775-1) |
+| Posted | 2026-05-19 |
+| Apply | [View on company site](https://dukeenergy.wd1.myworkdayjobs.com/search/job/Charlotte-NC/Business---Technical-Consultant-OR-Senior-Business---Technical-Consultant_R39778) |
 
 ## About This Role
 
-This technology / it consulting position at Duke Energy was posted on 2026-05-18.
+This technology / it consulting position at Duke Energy was posted on 2026-05-19.
 
 ## Get Real-Time Alerts
 

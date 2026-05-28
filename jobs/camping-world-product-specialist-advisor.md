@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Camping World](https://scoutify.ai/companies/campingworld?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Fountain, Colorado, United States |
+| Location | Florida, US |
 | Category | Customer Success |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://campingworld.wd5.myworkdayjobs.com/Jobs/job/Fountain-CO/Product-Specialist-Advisor_26_04885) |
+| Posted | 2026-05-20 |
+| Apply | [View on company site](https://campingworld.wd5.myworkdayjobs.com/Jobs/job/St-Augustine-FL/Product-Specialist-Advisor_26_05068) |
 
 ## About This Role
 
-This customer success position at Camping World was posted on 2026-05-18.
+This customer success position at Camping World was posted on 2026-05-20.
 
 ## Get Real-Time Alerts
 

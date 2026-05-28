@@ -5,12 +5,12 @@
 | Company | [Applied Materials](https://scoutify.ai/companies/applied-materials?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Austin, Texas, United States |
 | Category | Engineering Manager |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://amat.wd1.myworkdayjobs.com/External/job/AustinTX/Customer-Engineer-Manager---Austin--TX----M3-_R2617952) |
+| Posted | 2026-05-20 |
+| Apply | [View on company site](https://amat.wd1.myworkdayjobs.com/External/job/AustinTX/Customer-Engineer-Manager---Austin--TX----M3-_R2619034-1) |
 
 ## About This Role
 
-This engineering manager position at Applied Materials was posted on 2026-04-23.
+This engineering manager position at Applied Materials was posted on 2026-05-20.
 
 ## Get Real-Time Alerts
 

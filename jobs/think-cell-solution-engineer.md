@@ -5,12 +5,12 @@
 | Company | [think-cell](https://scoutify.ai/companies/think-cell?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Denver, Colorado, United States |
 | Category | Sales Engineer |
-| Posted | 2026-03-30 |
-| Apply | [View on company site](https://job-boards.eu.greenhouse.io/think-cell/jobs/4825075101) |
+| Posted | 2026-05-20 |
+| Apply | [View on company site](https://job-boards.eu.greenhouse.io/think-cell/jobs/4872201101) |
 
 ## About This Role
 
-This sales engineer position at think-cell was posted on 2026-03-30.
+This sales engineer position at think-cell was posted on 2026-05-20.
 
 ## Get Real-Time Alerts
 

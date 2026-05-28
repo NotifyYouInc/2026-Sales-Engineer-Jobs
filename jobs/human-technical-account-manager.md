@@ -1,16 +1,16 @@
-# Technical Account Manager at Human
+# Technical Account Manager  at Human
 
 | Field | Details |
 |-------|---------|
 | Company | [Human](https://scoutify.ai/companies/human?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | London, England, United Kingdom |
+| Location | New York City, New York, United States |
 | Category | Customer Success |
-| Posted | 2026-04-28 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/human/10d6724a-ca4e-4d6b-8b18-3a2bc0350bef) |
+| Posted | 2026-05-20 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/human/bb5ddbbc-fe20-45d6-935b-b33e5d163d97) |
 
 ## About This Role
 
-This customer success position at Human was posted on 2026-04-28.
+This customer success position at Human was posted on 2026-05-20.
 
 ## Get Real-Time Alerts
 

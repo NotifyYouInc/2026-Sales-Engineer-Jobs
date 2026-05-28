@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Kaseya](https://scoutify.ai/companies/kaseya?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Munich, Bavaria, Germany |
+| Location | Miami, Florida, United States |
 | Category | Sales Engineer |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://www.kaseya.com/careers/jobs/id/5976369004/?gh_jid=5976369004) |
+| Posted | 2026-05-20 |
+| Apply | [View on company site](https://www.kaseya.com/careers/jobs/id/5992263004/?gh_jid=5992263004) |
 
 ## About This Role
 
-This sales engineer position at Kaseya was posted on 2026-04-20.
+This sales engineer position at Kaseya was posted on 2026-05-20.
 
 ## Get Real-Time Alerts
 
