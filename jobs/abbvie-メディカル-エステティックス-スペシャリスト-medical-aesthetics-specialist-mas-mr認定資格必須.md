@@ -5,12 +5,12 @@
 | Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Minato City, Tokyo, Japan |
 | Category | Sales Engineer |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990013195676-medical-aesthetics-specialist-mas-mr) |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990013266136-medical-aesthetics-specialist-mas-mr) |
 
 ## About This Role
 
-This sales engineer position at AbbVie was posted on 2026-05-19.
+This sales engineer position at AbbVie was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

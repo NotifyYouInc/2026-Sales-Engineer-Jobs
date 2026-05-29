@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Expedia](https://scoutify.ai/companies/expedia?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Gurugram, Haryana, India |
+| Location | Austin, Texas, United States |
 | Category | Customer Success |
-| Posted | 2026-05-14 |
-| Apply | [View on company site](https://expedia.wd108.myworkdayjobs.com/search/job/India---Gurgaon/Hotel-Partner-Solutions-Specialist_R-105013) |
+| Posted | 2026-05-21 |
+| Apply | [View on company site](https://expedia.wd108.myworkdayjobs.com/search/job/Austin-Domain-11---HomeAway/Hotel-Partner-Solutions-Specialist_R-105524) |
 
 ## About This Role
 
-This customer success position at Expedia was posted on 2026-05-14.
+This customer success position at Expedia was posted on 2026-05-21.
 
 ## Get Real-Time Alerts
 

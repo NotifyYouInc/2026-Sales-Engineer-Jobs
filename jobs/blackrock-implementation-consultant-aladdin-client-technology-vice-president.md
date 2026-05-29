@@ -5,12 +5,12 @@
 | Company | [Blackrock](https://scoutify.ai/companies/blackrock?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Mumbai, Maharashtra, India |
 | Category | Customer Success |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://blackrock.wd1.myworkdayjobs.com/blackrock_professional/job/Mumbai-India/Implementation-Consultant--Aladdin-Client-Technology--Vice-President_R263856) |
+| Posted | 2026-05-21 |
+| Apply | [View on company site](https://blackrock.wd1.myworkdayjobs.com/blackrock_professional/job/Mumbai-India/Implementation-Consultant--Aladdin-Client-Technology--Vice-President_R264537) |
 
 ## About This Role
 
-This customer success position at Blackrock was posted on 2026-04-29.
+This customer success position at Blackrock was posted on 2026-05-21.
 
 ## Get Real-Time Alerts
 

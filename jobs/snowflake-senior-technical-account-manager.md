@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Snowflake](https://scoutify.ai/companies/snowflake?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | New York City, New York, United States |
+| Location | Menlo Park, California, United States |
 | Category | Customer Success |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/snowflake/49a99685-8c9d-4357-89e7-c401c91c4ed8) |
+| Posted | 2026-05-21 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/snowflake/0c0b8a99-ec28-4a91-bfac-a21ced8cbe3b) |
 
 ## About This Role
 
-This customer success position at Snowflake was posted on 2026-05-13.
+This customer success position at Snowflake was posted on 2026-05-21.
 
 ## Get Real-Time Alerts
 

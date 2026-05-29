@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Smiths Group](https://scoutify.ai/companies/smithsgroup?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | 2 locations |
-| Category | Engineering Manager |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SmithsGroup2/744000127023784-customer-reliability-engineer-or-technical-specialist) |
+| Location | Port Arthur, Texas, United States |
+| Category | Customer Success |
+| Posted | 2026-05-21 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SmithsGroup2/744000127721740-customer-reliability-engineer-or-technical-specialist) |
 
 ## About This Role
 
-This engineering manager position at Smiths Group was posted on 2026-05-18.
+This customer success position at Smiths Group was posted on 2026-05-21.
 
 ## Get Real-Time Alerts
 

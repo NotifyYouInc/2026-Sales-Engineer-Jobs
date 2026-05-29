@@ -5,12 +5,12 @@
 | Company | [Philips](https://scoutify.ai/companies/philips?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Genoa, Liguria, Italy |
 | Category | Customer Success |
-| Posted | 2026-05-14 |
-| Apply | [View on company site](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Genoa/Technical-Consultant_580093) |
+| Posted | 2026-05-21 |
+| Apply | [View on company site](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Genoa/Technical-Consultant_582124-1) |
 
 ## About This Role
 
-This customer success position at Philips was posted on 2026-05-14.
+This customer success position at Philips was posted on 2026-05-21.
 
 ## Get Real-Time Alerts
 

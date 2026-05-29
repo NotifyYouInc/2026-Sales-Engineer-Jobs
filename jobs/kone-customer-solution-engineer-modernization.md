@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Kone](https://scoutify.ai/companies/kone?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Cairo, Cairo, Egypt |
-| Category | Sales Engineer |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://kone.wd3.myworkdayjobs.com/careers/job/Cairo/Customer-Solution-Engineer---Modernization_R0660617-1) |
+| Location | Johannesburg, Gauteng, South Africa |
+| Category | Engineering Manager |
+| Posted | 2026-05-21 |
+| Apply | [View on company site](https://kone.wd3.myworkdayjobs.com/careers/job/Johannesburg/Customer-Solution-Engineer---Modernization_R0660747) |
 
 ## About This Role
 
-This sales engineer position at Kone was posted on 2026-05-19.
+This engineering manager position at Kone was posted on 2026-05-21.
 
 ## Get Real-Time Alerts
 

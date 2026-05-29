@@ -5,12 +5,12 @@
 | Company | [GE HealthCare](https://scoutify.ai/companies/ge-healthcare?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Changsha, Hunan, China |
 | Category | Account Executive |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Changsha/CT-Product-Sales-Specialist_R4039899-2) |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Changsha/CT-Product-Sales-Specialist_R4041485-1) |
 
 ## About This Role
 
-This account executive position at GE HealthCare was posted on 2026-04-20.
+This account executive position at GE HealthCare was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

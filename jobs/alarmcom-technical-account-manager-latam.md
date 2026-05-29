@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Alarm.com](https://scoutify.ai/companies/alarm-com?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Colombia |
+| Location | Bogotá, Bogota D.C., Colombia |
 | Category | Customer Success |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/alarmcom/jobs/8401195002) |
+| Posted | 2026-05-21 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/alarmcom/jobs/8524849002) |
 
 ## About This Role
 
-This customer success position at Alarm.com was posted on 2026-03-02.
+This customer success position at Alarm.com was posted on 2026-05-21.
 
 ## Get Real-Time Alerts
 

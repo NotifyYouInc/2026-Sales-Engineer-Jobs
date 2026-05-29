@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Intuitive Surgical](https://scoutify.ai/companies/intuitivesurgical?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Jackson, Mississippi, United States |
+| Location | Seoul, Seoul, South Korea |
 | Category | Sales Engineer |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Intuitive/744000123967399-clinical-territory-associate) |
+| Posted | 2026-05-21 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Intuitive/744000127765997-clinical-territory-associate) |
 
 ## About This Role
 
-This sales engineer position at Intuitive Surgical was posted on 2026-04-30.
+This sales engineer position at Intuitive Surgical was posted on 2026-05-21.
 
 ## Get Real-Time Alerts
 

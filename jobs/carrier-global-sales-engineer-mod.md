@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Carrier Global](https://scoutify.ai/companies/carrier?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Xiamen, Fujian, China |
+| Location | Tianjin, Tianjin, China |
 | Category | Sales Engineer |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://carrier.wd5.myworkdayjobs.com/jobs/job/LOC3162-Unit-2405-Qixing-Building-No178-Qixing-West-Road-Xiamen-Fujian-China/Sales-Engineer--Mod_30201017) |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://carrier.wd5.myworkdayjobs.com/jobs/job/LOC3915-Room-2801-02-COFCO-Plaza-Intersection-of-Nan-Ma-Road-and-Nan-Kai-Er-Ma-Road-Nankai-District-Tianjin-China/Sales-Engineer--Mod_30204909) |
 
 ## About This Role
 
-This sales engineer position at Carrier Global was posted on 2026-04-16.
+This sales engineer position at Carrier Global was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

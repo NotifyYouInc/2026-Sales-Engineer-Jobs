@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Trellix](https://scoutify.ai/companies/trellix?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Poland |
-| Category | Technical & Solutions Architect |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://trellix.wd1.myworkdayjobs.com/EnterpriseCareers/job/Remote-Poland/Solutions-Engineer_JR0037336) |
+| Location | 2 locations |
+| Category | Sales Engineer |
+| Posted | 2026-05-21 |
+| Apply | [View on company site](https://trellix.wd1.myworkdayjobs.com/EnterpriseCareers/job/Italy-Milan/Solutions-Engineer_JR0037452) |
 
 ## About This Role
 
-This technical & solutions architect position at Trellix was posted on 2026-04-21.
+This sales engineer position at Trellix was posted on 2026-05-21.
 
 ## Get Real-Time Alerts
 

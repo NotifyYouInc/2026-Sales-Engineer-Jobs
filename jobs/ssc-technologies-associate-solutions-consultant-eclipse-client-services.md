@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [SS&C Technologies](https://scoutify.ai/companies/ss-c-technologies?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Not specified |
-| Category | Customer Success |
-| Posted | 2026-03-30 |
-| Apply | [View on company site](https://ssctech.wd1.myworkdayjobs.com/ssctechnologies/job/Boston-MA/Associate-Solutions-Consultant--Eclipse-Client-Services_R42202) |
+| Location | 3 locations |
+| Category | Implementation / Professional Services |
+| Posted | 2026-05-21 |
+| Apply | [View on company site](https://ssctech.wd1.myworkdayjobs.com/ssctechnologies/job/Boston-MA/Associate-Solutions-Consultant--Eclipse-Client-Services_R42857) |
 
 ## About This Role
 
-This customer success position at SS&C Technologies was posted on 2026-03-30.
+This implementation / professional services position at SS&C Technologies was posted on 2026-05-21.
 
 ## Get Real-Time Alerts
 

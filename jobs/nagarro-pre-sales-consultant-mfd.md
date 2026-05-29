@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Nagarro](https://scoutify.ai/companies/nagarro?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Germany |
-| Category | Sales Engineer |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Nagarro1/744000122212327-pre-sales-consultant-mfd) |
+| Location | Stuttgart, Baden-Wurttemberg, Germany |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-05-21 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Nagarro1/744000127703830-pre-sales-consultant-mfd) |
 
 ## About This Role
 
-This sales engineer position at Nagarro was posted on 2026-04-22.
+This technical & solutions architect position at Nagarro was posted on 2026-05-21.
 
 ## Get Real-Time Alerts
 

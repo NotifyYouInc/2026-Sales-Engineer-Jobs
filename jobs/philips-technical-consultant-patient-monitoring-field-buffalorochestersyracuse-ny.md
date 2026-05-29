@@ -5,12 +5,12 @@
 | Company | [Philips](https://scoutify.ai/companies/philips?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | 3 locations |
 | Category | Customer Success |
-| Posted | 2026-05-01 |
-| Apply | [View on company site](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Rochester-New-York-United-States/Technical-Consultant---Patient-Monitoring--Field--Buffalo-Rochester-Syracuse--NY-_570557) |
+| Posted | 2026-05-21 |
+| Apply | [View on company site](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Rochester-New-York-United-States/Technical-Consultant---Patient-Monitoring--Field--Buffalo-Rochester-Syracuse--NY-_580032) |
 
 ## About This Role
 
-This customer success position at Philips was posted on 2026-05-01.
+This customer success position at Philips was posted on 2026-05-21.
 
 ## Get Real-Time Alerts
 

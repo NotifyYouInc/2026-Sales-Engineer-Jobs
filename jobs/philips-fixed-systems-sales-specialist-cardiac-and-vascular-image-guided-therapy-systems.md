@@ -1,16 +1,16 @@
-# Fixed Systems Sales Specialist - Cardiac and Vascular - Image Guided Therapy Systems (San Antonio, Austin TX) at Philips
+# Fixed Systems Sales Specialist - Cardiac and Vascular - Image Guided Therapy Systems (New England, Boston MA) at Philips
 
 | Field | Details |
 |-------|---------|
 | Company | [Philips](https://scoutify.ai/companies/philips?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | 2 locations |
+| Location | Boston, Massachusetts, United States |
 | Category | Account Executive |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Austin-Texas-United-States/Fixed-Systems-Sales-Specialist---Cardiac-and-Vascular---Image-Guided-Therapy-Systems_580998-1) |
+| Posted | 2026-05-21 |
+| Apply | [View on company site](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Boston-Massachusetts-United-States/Fixed-Systems-Sales-Specialist---Cardiac-and-Vascular---Image-Guided-Therapy-Systems--New-England--Boston-MA-_583247-1) |
 
 ## About This Role
 
-This account executive position at Philips was posted on 2026-04-15.
+This account executive position at Philips was posted on 2026-05-21.
 
 ## Get Real-Time Alerts
 

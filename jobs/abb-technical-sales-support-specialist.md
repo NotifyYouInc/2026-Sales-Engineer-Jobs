@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ABB](https://scoutify.ai/companies/abb?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Saint-Laurent, Quebec, Canada |
-| Category | Customer Success |
-| Posted | 2026-03-31 |
-| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Saint-Laurent-Quebec-Canada/Technical-Sales-Support-Specialist_96828333) |
+| Location | Fort Smith, Arkansas, United States |
+| Category | Sales Engineer |
+| Posted | 2026-05-21 |
+| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Fort-Smith-Arkansas-United-States-of-America/Technical-Sales-Support-Specialist_JR00035563) |
 
 ## About This Role
 
-This customer success position at ABB was posted on 2026-03-31.
+This sales engineer position at ABB was posted on 2026-05-21.
 
 ## Get Real-Time Alerts
 

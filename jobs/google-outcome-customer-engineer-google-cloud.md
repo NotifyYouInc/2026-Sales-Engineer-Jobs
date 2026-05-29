@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | 2 locations |
-| Category | Technical & Solutions Architect |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2Fckc5qKaYs8cg_Q6OzkBAWLC2m7PVhJhm0JgIbRacJFVz7EjoACxwdTNa6-BHGcHgW_8-OiRiokLGfRo0HraHwHNcRvKaMuxIsUxlCcmRxwWeRlHDmm_jFXnkW_q11_V2&loc=AU&title=Outcome+Customer+Engineer) |
+| Location | London, England, United Kingdom |
+| Category | Customer Success |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2Fckcaw4PXlD1pyHwIHbaQfkUZ_sIQpT0Iqgh59UvyOJVj8EjsACxwdTIh0IAdioTkXUvzmfT4MH3854uIVexnVj97V1ceAwnHiM4JydJXSqxrpK89oONfaqYHtc4xpag%3D%3D_V2&loc=GB&title=Outcome+Customer+Engineer) |
 
 ## About This Role
 
-This technical & solutions architect position at Google was posted on 2026-05-05.
+This customer success position at Google was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 
