@@ -5,12 +5,12 @@
 | Company | [Continental](https://scoutify.ai/companies/continental?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Hannover, Lower Saxony, Germany |
 | Category | Leadership Development Program |
-| Posted | 2026-05-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/continental/744000127404169-graduate-program-marketing-sales-original-equipment-mfd-ref96647c) |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/continental/744000127974709-graduate-program-marketing-sales-original-equipment-mfd-ref96647c) |
 
 ## About This Role
 
-This leadership development program position at Continental was posted on 2026-05-20.
+This leadership development program position at Continental was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

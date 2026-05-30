@@ -1,16 +1,16 @@
-# Associate Technical Consultant at Medtronic
+# Associate  Technical Consultant. at Medtronic
 
 | Field | Details |
 |-------|---------|
 | Company | [Medtronic](https://scoutify.ai/companies/medtronic?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Barcelona, Catalonia, Spain |
+| Location | Berlin, State of Berlin, Germany |
 | Category | Customer Success |
-| Posted | 2026-03-27 |
-| Apply | [View on company site](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Barcelona-Catalua-Spain/Associate-Technical-Consultant_R62306) |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Berlin-Berlin-Germany/Associate--Technical-Consultant_R66271-1) |
 
 ## About This Role
 
-This customer success position at Medtronic was posted on 2026-03-27.
+This customer success position at Medtronic was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

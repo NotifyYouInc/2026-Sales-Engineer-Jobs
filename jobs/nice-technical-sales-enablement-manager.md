@@ -5,12 +5,12 @@
 | Company | [NiCE](https://scoutify.ai/companies/nice?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Pune, Maharashtra, India |
 | Category | Revenue / Sales Operations |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://boards.eu.greenhouse.io/nice/jobs/4830661101?gh_jid=4830661101) |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://boards.eu.greenhouse.io/nice/jobs/4847640101?gh_jid=4847640101) |
 
 ## About This Role
 
-This revenue / sales operations position at NiCE was posted on 2026-04-15.
+This revenue / sales operations position at NiCE was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

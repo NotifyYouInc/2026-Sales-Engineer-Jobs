@@ -5,12 +5,12 @@
 | Company | [Coface](https://scoutify.ai/companies/coface?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Romania |
 | Category | Sales Engineer |
-| Posted | 2026-05-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Coface/744000127355149-api-solutions-engineer-with-german-english) |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Coface/744000127811090-api-solutions-engineer-with-german-english) |
 
 ## About This Role
 
-This sales engineer position at Coface was posted on 2026-05-20.
+This sales engineer position at Coface was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

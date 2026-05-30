@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ABB](https://scoutify.ai/companies/abb?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | 3 locations |
+| Location | Riga, Riga, Latvia |
 | Category | Account Executive |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Katowice-Silesian-Poland/Sales-Specialist_JR00034481) |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Riga-Rga-Latvia/Sales-Specialist_JR00034594) |
 
 ## About This Role
 
-This account executive position at ABB was posted on 2026-05-19.
+This account executive position at ABB was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

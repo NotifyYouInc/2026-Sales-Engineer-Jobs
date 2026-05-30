@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | 4 locations |
+| Location | Mexico City, Mexico City, Mexico |
 | Category | Account Executive |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckS9ionVxDmsN6llISbomqKwQ1i1dc2grqbjCzgamz0-1EjsACxwdTIUmCEGWR7YOC9uihK0IyW5MVOxf7ifYiz2P6rca_H4gF28RRqTrusLwsa4BHQj7djuJ063qpA%3D%3D_V2&loc=SE&title=AI+Sales+Specialist) |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2Fcka20kE9N6XJu3e0Ytcl88zNQhDchSFh9ra6qSuzP0v5gEjsACxwdTKVoqlNw8ACT-8V_efRZJKHQgdnqV2i1SMWeEQ3oKJxq7nhKmuYWY_yLXmtyZ0avqsHiDVm1rw%3D%3D_V2&loc=MX&title=AI+Sales+Specialist) |
 
 ## About This Role
 
-This account executive position at Google was posted on 2026-04-13.
+This account executive position at Google was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mindbody](https://scoutify.ai/companies/mindbody?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | United States |
+| Location | United Kingdom |
 | Category | Customer Success |
-| Posted | 2026-05-20 |
-| Apply | [View on company site](https://www.playlist.com/careers/opportunities/4682502006?gh_jid=4682502006) |
+| Posted | 2026-05-21 |
+| Apply | [View on company site](https://www.playlist.com/careers/opportunities/4682734006?gh_jid=4682734006) |
 
 ## About This Role
 
-This customer success position at Mindbody was posted on 2026-05-20.
+This customer success position at Mindbody was posted on 2026-05-21.
 
 ## Get Real-Time Alerts
 

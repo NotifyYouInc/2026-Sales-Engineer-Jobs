@@ -5,12 +5,12 @@
 | Company | [Medtronic](https://scoutify.ai/companies/medtronic?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | İzmir, İzmir Province, Turkey |
 | Category | Customer Success |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Izmir-Izmir-Trkiye/Technical-Consultant-CRM---CAS---Izmir_R63929) |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Izmir-Izmir-Trkiye/Technical-Consultant-CRM---CAS---Izmir_R67925-1) |
 
 ## About This Role
 
-This customer success position at Medtronic was posted on 2026-04-22.
+This customer success position at Medtronic was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

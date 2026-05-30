@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Camping World](https://scoutify.ai/companies/campingworld?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Las Vegas, Nevada, United States |
-| Category | Business Development |
-| Posted | 2026-05-15 |
-| Apply | [View on company site](https://campingworld.wd5.myworkdayjobs.com/Jobs/job/Las-Vegas-NV/Product-Specialist_26_04816) |
+| Location | Berkley, Michigan, United States |
+| Category | Customer Success |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://campingworld.wd5.myworkdayjobs.com/Jobs/job/Berkley-MA/Product-Specialist_26_05023) |
 
 ## About This Role
 
-This business development position at Camping World was posted on 2026-05-15.
+This customer success position at Camping World was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

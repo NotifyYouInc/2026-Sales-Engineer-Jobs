@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ABB](https://scoutify.ai/companies/abb?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Xiamen, Fujian, China |
-| Category | Product Manager |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Xiamen-Fujian-China/IS-Technology-Specialist_JR00034293) |
+| Location | Kraków, Lesser Poland, Poland |
+| Category | IT & Systems Administration |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Krakow-Lesser-Poland-Poland/IS-Technology-Specialist_JR00036147) |
 
 ## About This Role
 
-This product manager position at ABB was posted on 2026-05-13.
+This it & systems administration position at ABB was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

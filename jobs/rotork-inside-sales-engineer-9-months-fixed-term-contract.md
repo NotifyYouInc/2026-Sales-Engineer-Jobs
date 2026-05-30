@@ -1,16 +1,16 @@
-# Inside Sales Engineer (9 months fixed-term contract) at Rotork
+# Inside Sales Engineer (9 months Fixed Term Contract) at Rotork
 
 | Field | Details |
 |-------|---------|
 | Company | [Rotork](https://scoutify.ai/companies/rotork?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Bilbao, Basque Country, Spain |
-| Category | Sales |
-| Posted | 2026-02-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Rotork1/744000107778375-inside-sales-engineer-9-months-fixed-term-contract) |
+| Location | Dhahran, Eastern Province, Saudi Arabia |
+| Category | Sales Engineer |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Rotork1/744000127863969-inside-sales-engineer-9-months-fixed-term-contract) |
 
 ## About This Role
 
-This sales position at Rotork was posted on 2026-02-06.
+This sales engineer position at Rotork was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

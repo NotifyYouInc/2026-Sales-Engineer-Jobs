@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ServiceNow](https://scoutify.ai/companies/servicenow?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Tokyo, Tokyo, Japan |
-| Category | Customer Success |
-| Posted | 2026-05-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000127374349-advisory-solution-consultant) |
+| Location | Amsterdam, North Holland, The Netherlands |
+| Category | Sales Engineer |
+| Posted | 2026-05-21 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000127722929-advisory-solution-consultant) |
 
 ## About This Role
 
-This customer success position at ServiceNow was posted on 2026-05-20.
+This sales engineer position at ServiceNow was posted on 2026-05-21.
 
 ## Get Real-Time Alerts
 

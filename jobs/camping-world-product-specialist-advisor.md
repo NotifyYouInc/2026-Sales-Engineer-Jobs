@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Camping World](https://scoutify.ai/companies/campingworld?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Florida, US |
+| Location | Murfreesboro, Tennessee, United States |
 | Category | Customer Success |
 | Posted | 2026-05-20 |
-| Apply | [View on company site](https://campingworld.wd5.myworkdayjobs.com/Jobs/job/St-Augustine-FL/Product-Specialist-Advisor_26_05068) |
+| Apply | [View on company site](https://campingworld.wd5.myworkdayjobs.com/Jobs/job/Murfreesboro-TN/Product-Specialist-Advisor_26_05054) |
 
 ## About This Role
 

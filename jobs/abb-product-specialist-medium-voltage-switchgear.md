@@ -1,16 +1,16 @@
-# Product Specialist - Medium-voltage Switchgear at ABB
+# Product Specialist - Medium Voltage Switchgear at ABB
 
 | Field | Details |
 |-------|---------|
 | Company | [ABB](https://scoutify.ai/companies/abb?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Brazil |
+| Location | North Carolina, US |
 | Category | Product Manager |
-| Posted | 2026-03-31 |
-| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/So-Paulo-So-Paulo-Brazil/Product-Specialist---Medium-voltage-Switchgear_JR00030081) |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Remote-North-Carolina-United-States-of-America/Product-Specialist---Medium-Voltage-Switchgear_JR00035066) |
 
 ## About This Role
 
-This product manager position at ABB was posted on 2026-03-31.
+This product manager position at ABB was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 
