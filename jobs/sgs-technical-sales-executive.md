@@ -6,7 +6,7 @@
 | Location | Malaysia |
 | Category | Sales Engineer |
 | Posted | 2026-05-21 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SGS/744000127569599-technical-sales-executive) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SGS/744000127641397-technical-sales-executive) |
 
 ## About This Role
 

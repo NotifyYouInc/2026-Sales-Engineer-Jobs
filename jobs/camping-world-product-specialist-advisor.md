@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Camping World](https://scoutify.ai/companies/campingworld?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Murfreesboro, Tennessee, United States |
+| Location | Cape Girardeau, Missouri, United States |
 | Category | Customer Success |
-| Posted | 2026-05-20 |
-| Apply | [View on company site](https://campingworld.wd5.myworkdayjobs.com/Jobs/job/Murfreesboro-TN/Product-Specialist-Advisor_26_05054) |
+| Posted | 2026-05-21 |
+| Apply | [View on company site](https://campingworld.wd5.myworkdayjobs.com/Jobs/job/Cape-Girardeau-MO/Product-Specialist-Advisor_26_05082) |
 
 ## About This Role
 
-This customer success position at Camping World was posted on 2026-05-20.
+This customer success position at Camping World was posted on 2026-05-21.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Solution Specialist at Kaseya
+# Go-to-Market Engineer - Casablanca, Morocco at Speechify
 
 | Field | Details |
 |-------|---------|
-| Company | [Kaseya](https://scoutify.ai/companies/kaseya?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Munich, Bavaria, Germany |
+| Company | [Speechify](https://scoutify.ai/companies/speechify?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
+| Location | Casablanca, Casablanca-Settat, Morocco |
 | Category | Sales Engineer |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://www.kaseya.com/careers/jobs/id/6003498004/?gh_jid=6003498004) |
+| Posted | 2026-05-24 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/speechify/jobs/6004289004) |
 
 ## About This Role
 
-This sales engineer position at Kaseya was posted on 2026-05-22.
+This sales engineer position at Speechify was posted on 2026-05-24.
 
 ## Get Real-Time Alerts
 
