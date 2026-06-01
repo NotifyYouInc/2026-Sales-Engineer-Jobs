@@ -5,12 +5,12 @@
 | Company | [Micron](https://scoutify.ai/companies/micron?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Taichung, Taiwan, Taiwan |
 | Category | Customer Success |
-| Posted | 2026-04-08 |
-| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Taichung---Fab-16-Taiwan/Technical-specialist--OMT-RDA-2-Operation-TC_JR95926) |
+| Posted | 2026-05-25 |
+| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Taichung---Fab-16-Taiwan/Technical-specialist--OMT-RDA-2-Operation-TC_JR95933) |
 
 ## About This Role
 
-This customer success position at Micron was posted on 2026-04-08.
+This customer success position at Micron was posted on 2026-05-25.
 
 ## Get Real-Time Alerts
 

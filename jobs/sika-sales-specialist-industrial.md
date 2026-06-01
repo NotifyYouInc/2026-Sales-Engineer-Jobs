@@ -5,12 +5,12 @@
 | Company | [Sika](https://scoutify.ai/companies/sika?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Taguig, National Capital Region, Philippines |
 | Category | Account Executive |
-| Posted | 2026-04-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SikaAG/744000123108709-sales-specialist-industrial) |
+| Posted | 2026-05-25 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SikaAG/744000128088109-sales-specialist-industrial) |
 
 ## About This Role
 
-This account executive position at Sika was posted on 2026-04-27.
+This account executive position at Sika was posted on 2026-05-25.
 
 ## Get Real-Time Alerts
 

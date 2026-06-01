@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Broadridge](https://scoutify.ai/companies/broadridge?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | 2 locations |
-| Category | Security Engineer |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://broadridge.wd5.myworkdayjobs.com/careers/job/Bengaluru-EPIP-Industrial-Area/Manager_JR1079937) |
+| Location | Hyderabad, Telangana, India |
+| Category | Engineering Manager |
+| Posted | 2026-05-25 |
+| Apply | [View on company site](https://broadridge.wd5.myworkdayjobs.com/careers/job/Hyderabad-Hi-Tec-City/Technology-Specialist_JR1083070-1) |
 
 ## About This Role
 
-This security engineer position at Broadridge was posted on 2026-05-13.
+This engineering manager position at Broadridge was posted on 2026-05-25.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Intel](https://scoutify.ai/companies/intel?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Beijing, Beijing, China |
-| Category | Business Development |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://intel.wd1.myworkdayjobs.com/External/job/PRC-Beijing/Technical-Sales-Intern_JR0283289) |
+| Location | 3 locations |
+| Category | Sales Engineer |
+| Posted | 2026-05-25 |
+| Apply | [View on company site](https://intel.wd1.myworkdayjobs.com/External/job/PRC-Beijing/Technical-Sales-Intern_JR0283404) |
 
 ## About This Role
 
-This business development position at Intel was posted on 2026-05-21.
+This sales engineer position at Intel was posted on 2026-05-25.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ABB](https://scoutify.ai/companies/abb?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Fort Smith, Arkansas, United States |
+| Location | Lake Mary, Florida, United States |
 | Category | Sales Engineer |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Fort-Smith-Arkansas-United-States-of-America/Technical-Sales-Support-Specialist_JR00035563) |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/USA-FL-Lake-Mary/Technical-Sales-Support-Specialist_JR00034277) |
 
 ## About This Role
 
-This sales engineer position at ABB was posted on 2026-05-21.
+This sales engineer position at ABB was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

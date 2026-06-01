@@ -5,12 +5,12 @@
 | Company | [Intel](https://scoutify.ai/companies/intel?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Malaysia |
 | Category | AI / LLM Engineer |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://intel.wd1.myworkdayjobs.com/External/job/Malaysia-Penang/GenAI-Software-Solutions-Engineer_JR0284157) |
+| Posted | 2026-05-25 |
+| Apply | [View on company site](https://intel.wd1.myworkdayjobs.com/External/job/Malaysia-Penang/GenAI-Software-Solutions-Engineer_JR0284165) |
 
 ## About This Role
 
-This ai / llm engineer position at Intel was posted on 2026-05-22.
+This ai / llm engineer position at Intel was posted on 2026-05-25.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Avnet](https://scoutify.ai/companies/avnet?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Fuzhou, Fujian, China |
 | Category | Software Engineer |
-| Posted | 2026-05-14 |
-| Apply | [View on company site](https://avnet.wd1.myworkdayjobs.com/external/job/Bangalore-India/Field-Application-Engineer_JR-022833) |
+| Posted | 2026-05-25 |
+| Apply | [View on company site](https://avnet.wd1.myworkdayjobs.com/external/job/Fuzhou-Fujian-China/Field-Application-Engineer_JR-022192) |
 
 ## About This Role
 
-This software engineer position at Avnet was posted on 2026-05-14.
+This software engineer position at Avnet was posted on 2026-05-25.
 
 ## Get Real-Time Alerts
 

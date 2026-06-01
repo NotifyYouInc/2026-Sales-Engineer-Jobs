@@ -5,12 +5,12 @@
 | Company | [Unframe](https://scoutify.ai/companies/unframe?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | 4 locations |
 | Category | Sales Engineer |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://job-boards.eu.greenhouse.io/unframe/jobs/4863980101) |
+| Posted | 2026-05-24 |
+| Apply | [View on company site](https://job-boards.eu.greenhouse.io/unframe/jobs/4874299101) |
 
 ## About This Role
 
-This sales engineer position at Unframe was posted on 2026-05-11.
+This sales engineer position at Unframe was posted on 2026-05-24.
 
 ## Get Real-Time Alerts
 

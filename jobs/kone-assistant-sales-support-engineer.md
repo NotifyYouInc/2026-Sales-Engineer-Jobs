@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Kone](https://scoutify.ai/companies/kone?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Nanxun, Zhejiang, China |
-| Category | Sales Engineer |
-| Posted | 2026-04-28 |
-| Apply | [View on company site](https://kone.wd3.myworkdayjobs.com/careers/job/Nanxun/Assistant-Sales-Support-Engineer_R0659992) |
+| Category | Customer Success |
+| Posted | 2026-05-25 |
+| Apply | [View on company site](https://kone.wd3.myworkdayjobs.com/careers/job/Nanxun/Assistant-Sales-Support-Engineer_R0660885) |
 
 ## About This Role
 
-This sales engineer position at Kone was posted on 2026-04-28.
+This customer success position at Kone was posted on 2026-05-25.
 
 ## Get Real-Time Alerts
 
