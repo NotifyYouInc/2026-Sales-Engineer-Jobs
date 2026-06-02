@@ -5,12 +5,12 @@
 | Company | [Baker Hughes](https://scoutify.ai/companies/baker-hughes?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Florence, Tuscany, Italy |
 | Category | Sales Engineer |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://bakerhughes.wd5.myworkdayjobs.com/BakerHughes/job/IT-FI-FLORENCE-VIA-FELICE-MATTEUCCI-2/Engineering-Experienced-Professional---Customer-Application-Engineering_R164387) |
+| Posted | 2026-05-25 |
+| Apply | [View on company site](https://bakerhughes.wd5.myworkdayjobs.com/BakerHughes/job/IT-FI-FLORENCE-VIA-FELICE-MATTEUCCI-2/Engineering-Experienced-Professional---Customer-Application-Engineering_R164388) |
 
 ## About This Role
 
-This sales engineer position at Baker Hughes was posted on 2026-05-21.
+This sales engineer position at Baker Hughes was posted on 2026-05-25.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Microsoft](https://scoutify.ai/companies/microsoft?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | United States |
-| Category | Customer Success |
-| Posted | 2026-05-20 |
-| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556862821) |
+| Location | Singapore, Singapore |
+| Category | Account Executive |
+| Posted | 2026-05-25 |
+| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556868943) |
 
 ## About This Role
 
-This customer success position at Microsoft was posted on 2026-05-20.
+This account executive position at Microsoft was posted on 2026-05-25.
 
 ## Get Real-Time Alerts
 

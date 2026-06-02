@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Trend Micro](https://scoutify.ai/companies/trendmicro?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Brazil |
+| Location | Dubai, Dubai, United Arab Emirates |
 | Category | Sales Engineer |
-| Posted | 2026-04-06 |
-| Apply | [View on company site](https://trendmicro.wd3.myworkdayjobs.com/External/job/Brazil-Off-Site/Solutions-Engineer_R0009446) |
+| Posted | 2026-05-25 |
+| Apply | [View on company site](https://trendmicro.wd3.myworkdayjobs.com/External/job/Dubai/Solutions-Engineer_R0009694) |
 
 ## About This Role
 
-This sales engineer position at Trend Micro was posted on 2026-04-06.
+This sales engineer position at Trend Micro was posted on 2026-05-25.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Carrier Global](https://scoutify.ai/companies/carrier?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Haryana, IN |
+| Location | Gurugram, Haryana, India |
 | Category | Sales Engineer |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://carrier.wd5.myworkdayjobs.com/jobs/job/Narsingpur-Kherki-Daula-Post-Delhi-Jaipur-Road-Gurgaon---122004-Haryana-India/Sales-Engineering_30204497) |
+| Posted | 2026-05-25 |
+| Apply | [View on company site](https://carrier.wd5.myworkdayjobs.com/jobs/job/Narsingpur-Kherki-Daula-Post-Delhi-Jaipur-Road-Gurgaon---122004-Haryana-India/Sales-Engineering_30205314-1) |
 
 ## About This Role
 
-This sales engineer position at Carrier Global was posted on 2026-04-20.
+This sales engineer position at Carrier Global was posted on 2026-05-25.
 
 ## Get Real-Time Alerts
 

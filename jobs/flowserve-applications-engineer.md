@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Flowserve](https://scoutify.ai/companies/flowserve?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Vernon, Texas, United States |
+| Location | Coimbatore, Tamil Nadu, India |
 | Category | Software Engineer |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://flowserve.wd1.myworkdayjobs.com/applied/job/Vernon-California-US/Applications-Engineer_R-19210) |
+| Posted | 2026-05-25 |
+| Apply | [View on company site](https://flowserve.wd1.myworkdayjobs.com/applied/job/Coimbatore-India/Applications-Engineer_R-19426) |
 
 ## About This Role
 
-This software engineer position at Flowserve was posted on 2026-05-11.
+This software engineer position at Flowserve was posted on 2026-05-25.
 
 ## Get Real-Time Alerts
 

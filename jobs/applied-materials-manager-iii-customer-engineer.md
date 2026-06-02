@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Applied Materials](https://scoutify.ai/companies/applied-materials?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | 2 locations |
+| Location | Singapore, Singapore |
 | Category | Engineering Manager |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://amat.wd1.myworkdayjobs.com/External/job/XianCHN/Manager-III--Customer-Engineer_R2617791) |
+| Posted | 2026-05-26 |
+| Apply | [View on company site](https://amat.wd1.myworkdayjobs.com/External/job/SingaporeSGP/Manager-III--Customer-Engineer_R2618243-1) |
 
 ## About This Role
 
-This engineering manager position at Applied Materials was posted on 2026-04-21.
+This engineering manager position at Applied Materials was posted on 2026-05-26.
 
 ## Get Real-Time Alerts
 

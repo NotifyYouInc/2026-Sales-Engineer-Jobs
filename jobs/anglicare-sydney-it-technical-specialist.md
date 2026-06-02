@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Anglicare Sydney](https://scoutify.ai/companies/anglicare-sydney?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | New South Wales, AU |
-| Category | Sales Engineer |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://anglicare.wd105.myworkdayjobs.com/anglicare_careers/job/Anglicare-Hub-Macquarie-Park/IT-Technical-Specialist_JR6640) |
+| Location | Macquarie Park, New South Wales, Australia |
+| Category | Software Engineer |
+| Posted | 2026-05-25 |
+| Apply | [View on company site](https://anglicare.wd105.myworkdayjobs.com/anglicare_careers/job/Anglicare-Hub-Macquarie-Park/IT-Technical-Specialist_JR7219-1) |
 
 ## About This Role
 
-This sales engineer position at Anglicare Sydney was posted on 2026-03-25.
+This software engineer position at Anglicare Sydney was posted on 2026-05-25.
 
 ## Get Real-Time Alerts
 

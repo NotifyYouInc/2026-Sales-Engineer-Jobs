@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Mountain View, California, United States |
-| Category | Customer Success |
-| Posted | 2026-02-11 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/jobs/results/103933817449784006-performance-specialist-large-customer-sales?sort_by=date&page=1) |
+| Location | Buenos Aires, Buenos Aires F.D., Argentina |
+| Category | Sales Engineer |
+| Posted | 2026-05-25 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckRXBlPA5cdl6O-Y4U0uW3KGfTJUp5kLgH-ZT07cN_7OCEjsACxwdTF2O5Fjmoe2z1GoST23FfIKNVz4IG0Ir6M86RyxzfXzHnM3advX6vlzD1tBpTp-W-5PLviBJZA%3D%3D_V2&loc=AR&title=Performance+Specialist) |
 
 ## About This Role
 
-This customer success position at Google was posted on 2026-02-11.
+This sales engineer position at Google was posted on 2026-05-25.
 
 ## Get Real-Time Alerts
 

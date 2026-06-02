@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Johnson & Johnson](https://scoutify.ai/companies/johnson-johnson?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Eight Mile Plains, Queensland, Australia |
+| Location | Osborne Park, Western Australia, Australia |
 | Category | Account Executive |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://jj.wd5.myworkdayjobs.com/JJ/job/Eight-Mile-Plains-Queensland-Australia/Associate-Clinical---Sales-Specialist_R-077397) |
+| Posted | 2026-05-25 |
+| Apply | [View on company site](https://jj.wd5.myworkdayjobs.com/JJ/job/Osborne-Park-Western-Australia-Australia/Associate-Clinical---Sales-Specialist_R-078138) |
 
 ## About This Role
 
-This account executive position at Johnson & Johnson was posted on 2026-05-21.
+This account executive position at Johnson & Johnson was posted on 2026-05-25.
 
 ## Get Real-Time Alerts
 

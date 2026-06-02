@@ -1,16 +1,16 @@
-# Technical Consultant - ( F5 LTM, Cloudflare WAF, ASA/PALO ALTO/AZURE firewalls, Routing & Switching, Irules, VPN tunnel configuration) at Blue Yonder
+# Technical Consultant - F5 LTM, Cloudflare WAF, ASA/PALO ALTO/AZURE firewalls, Routing & Switching, Irules, VPN tunnel configuration at Blue Yonder
 
 | Field | Details |
 |-------|---------|
 | Company | [Blue Yonder](https://scoutify.ai/companies/jda?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Coimbatore, Tamil Nadu, India |
-| Category | Security Engineer |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://jda.wd5.myworkdayjobs.com/JDA_Careers/job/IND---Coimbatore-708/IN-Technical-Consultant-Int---Cloud_253704) |
+| Category | Customer Success |
+| Posted | 2026-05-25 |
+| Apply | [View on company site](https://jda.wd5.myworkdayjobs.com/JDA_Careers/job/IND---Coimbatore-708/IN-Technical-Consultant-Int---Cloud_253699) |
 
 ## About This Role
 
-This security engineer position at Blue Yonder was posted on 2026-03-02.
+This customer success position at Blue Yonder was posted on 2026-05-25.
 
 ## Get Real-Time Alerts
 

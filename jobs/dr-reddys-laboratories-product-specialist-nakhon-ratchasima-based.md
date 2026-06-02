@@ -5,12 +5,12 @@
 | Company | [Dr. Reddy's Laboratories](https://scoutify.ai/companies/drreddyslaboratories?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Nakhon Ratchasima, Nakhon Ratchasima, Thailand |
 | Category | Sales Engineer |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/DrReddysLaboratoriesLimited/744000126906754-product-specialist-nakhon-ratchasima-based) |
+| Posted | 2026-05-25 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/DrReddysLaboratoriesLimited/744000128201819-product-specialist-nakhon-ratchasima-based) |
 
 ## About This Role
 
-This sales engineer position at Dr. Reddy's Laboratories was posted on 2026-05-18.
+This sales engineer position at Dr. Reddy's Laboratories was posted on 2026-05-25.
 
 ## Get Real-Time Alerts
 

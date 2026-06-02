@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ABB](https://scoutify.ai/companies/abb?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Riga, Riga, Latvia |
+| Location | Faridabad, Haryana, India |
 | Category | Account Executive |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Riga-Rga-Latvia/Sales-Specialist_JR00034594) |
+| Posted | 2026-05-24 |
+| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Faridabad-Haryana-India/Sales-Specialist_JR00034639) |
 
 ## About This Role
 
-This account executive position at ABB was posted on 2026-05-22.
+This account executive position at ABB was posted on 2026-05-24.
 
 ## Get Real-Time Alerts
 

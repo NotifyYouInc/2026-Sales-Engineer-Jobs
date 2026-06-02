@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Salesforce](https://scoutify.ai/companies/salesforce?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Pune, Maharashtra, India |
+| Location | 2 locations |
 | Category | Sales Engineer |
-| Posted | 2026-05-15 |
-| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Pune/Principal-Solution-Engineer_JR342753) |
+| Posted | 2026-05-26 |
+| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Gurgaon/Principal-Solution-Engineer_JR343572-1) |
 
 ## About This Role
 
-This sales engineer position at Salesforce was posted on 2026-05-15.
+This sales engineer position at Salesforce was posted on 2026-05-26.
 
 ## Get Real-Time Alerts
 

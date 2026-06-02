@@ -1,16 +1,16 @@
-#  Solutions Engineer, EMEA - SELECT by DoiT  at DoiT
+#  Solutions Engineer, EMEA - SELECT by DoiT at DoiT
 
 | Field | Details |
 |-------|---------|
 | Company | [DoiT](https://scoutify.ai/companies/doit?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Ireland |
-| Category | Technical & Solutions Architect |
-| Posted | 2026-04-27 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/doitintl/jobs/7714572003) |
+| Location | Estonia |
+| Category | Sales Engineer |
+| Posted | 2026-05-25 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/doitintl/jobs/7747766003) |
 
 ## About This Role
 
-This technical & solutions architect position at DoiT was posted on 2026-04-27.
+This sales engineer position at DoiT was posted on 2026-05-25.
 
 ## Get Real-Time Alerts
 
