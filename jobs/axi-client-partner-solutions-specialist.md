@@ -5,12 +5,12 @@
 | Company | [Axi](https://scoutify.ai/companies/axi?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Limassol, Limassol, Cyprus |
 | Category | Customer Success |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/axicorpfinancialservicesptyltd/jobs/5133736007) |
+| Posted | 2026-05-26 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/axicorpfinancialservicesptyltd/jobs/5146146007) |
 
 ## About This Role
 
-This customer success position at Axi was posted on 2026-05-11.
+This customer success position at Axi was posted on 2026-05-26.
 
 ## Get Real-Time Alerts
 

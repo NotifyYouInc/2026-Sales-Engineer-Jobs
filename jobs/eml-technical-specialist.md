@@ -5,12 +5,12 @@
 | Company | [EML](https://scoutify.ai/companies/eml?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Melbourne, Victoria, Australia |
 | Category | Customer Success |
-| Posted | 2026-05-20 |
-| Apply | [View on company site](https://eml.wd105.myworkdayjobs.com/eml/job/Melbourne-Victoria/Technical-Specialist_JR5683) |
+| Posted | 2026-05-27 |
+| Apply | [View on company site](https://eml.wd105.myworkdayjobs.com/eml/job/Melbourne-Victoria/Technical-Specialist_JR5715) |
 
 ## About This Role
 
-This customer success position at EML was posted on 2026-05-20.
+This customer success position at EML was posted on 2026-05-27.
 
 ## Get Real-Time Alerts
 

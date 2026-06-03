@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Vanderlande Industries](https://scoutify.ai/companies/vanderlande-industries?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Barcelona, Catalonia, Spain |
+| Location | Veghel, North Brabant, The Netherlands |
 | Category | Sales Engineer |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://vanderlande.wd3.myworkdayjobs.com/careers/job/Barcelona-Office/Sales-Engineer_JR35750) |
+| Posted | 2026-05-26 |
+| Apply | [View on company site](https://vanderlande.wd3.myworkdayjobs.com/careers/job/Veghel/Sales-Engineer_JR36762-1) |
 
 ## About This Role
 
-This sales engineer position at Vanderlande Industries was posted on 2026-03-04.
+This sales engineer position at Vanderlande Industries was posted on 2026-05-26.
 
 ## Get Real-Time Alerts
 

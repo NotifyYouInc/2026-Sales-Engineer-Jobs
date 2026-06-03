@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ABB](https://scoutify.ai/companies/abb?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Location | Ostrava, Moravskoslezský, Czechia |
 | Category | Account Executive |
-| Posted | 2026-05-15 |
-| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Hyderabad-Telangana-India/Service-Sales-Specialist_JR00033996) |
+| Posted | 2026-05-27 |
+| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Ostrava-Moravskoslezsk-kraj-Czechia/Service-Sales-Specialist_JR00036183) |
 
 ## About This Role
 
-This account executive position at ABB was posted on 2026-05-15.
+This account executive position at ABB was posted on 2026-05-27.
 
 ## Get Real-Time Alerts
 

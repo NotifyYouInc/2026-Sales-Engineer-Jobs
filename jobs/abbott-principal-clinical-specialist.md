@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Abbott](https://scoutify.ai/companies/abbott-laboratories?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Portland, Oregon, United States |
+| Location | Los Angeles, California, United States |
 | Category | Sales Engineer |
-| Posted | 2026-05-20 |
-| Apply | [View on company site](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Oregon---Portland/Principal-Clinical-Specialist_31150987-1) |
+| Posted | 2026-05-26 |
+| Apply | [View on company site](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---California---Los-Angeles/Principal-Clinical-Specialist_31151100-1) |
 
 ## About This Role
 
-This sales engineer position at Abbott was posted on 2026-05-20.
+This sales engineer position at Abbott was posted on 2026-05-26.
 
 ## Get Real-Time Alerts
 

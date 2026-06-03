@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ServiceNow](https://scoutify.ai/companies/servicenow?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Tokyo, Tokyo, Japan |
+| Location | Japan |
 | Category | Sales Engineer |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000111002510-senior-solution-consultant-transportation-real-estate) |
+| Posted | 2026-05-26 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000128348638-senior-solution-consultant-transportation-real-estate) |
 
 ## About This Role
 
-This sales engineer position at ServiceNow was posted on 2026-02-24.
+This sales engineer position at ServiceNow was posted on 2026-05-26.
 
 ## Get Real-Time Alerts
 

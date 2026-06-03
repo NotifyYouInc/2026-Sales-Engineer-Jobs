@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [UiPath](https://scoutify.ai/companies/uipath?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Karnataka, IN |
+| Location | Bengaluru, Karnataka, India |
 | Category | Customer Success |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/uipath/ad81e1d8-fe85-4d79-8031-9652c9b01f8d) |
+| Posted | 2026-05-27 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/uipath/53e84792-972a-4795-9822-3907c842e8ff) |
 
 ## About This Role
 
-This customer success position at UiPath was posted on 2026-02-24.
+This customer success position at UiPath was posted on 2026-05-27.
 
 ## Get Real-Time Alerts
 
