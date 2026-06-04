@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Ripple](https://scoutify.ai/companies/ripple?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Switzerland |
+| Location | San Francisco, California, United States |
 | Category | Software Engineer |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://ripple.com/careers/all-jobs/job/7931875?gh_jid=7931875) |
+| Posted | 2026-05-28 |
+| Apply | [View on company site](https://ripple.com/careers/all-jobs/job/7955223?gh_jid=7955223) |
 
 ## About This Role
 
-This software engineer position at Ripple was posted on 2026-05-22.
+This software engineer position at Ripple was posted on 2026-05-28.
 
 ## Get Real-Time Alerts
 

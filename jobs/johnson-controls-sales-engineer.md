@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Johnson Controls](https://scoutify.ai/companies/jci?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Guiyang, Guizhou, China |
+| Location | Chongqing, Chongqing, China |
 | Category | Sales Engineer |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Guiyang-Guizhou-China/Sales-Engineer_WD30266653-1) |
+| Posted | 2026-05-27 |
+| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Chongqing-Chongqing-China/Sales-Engineer_WD30270145) |
 
 ## About This Role
 
-This sales engineer position at Johnson Controls was posted on 2026-05-21.
+This sales engineer position at Johnson Controls was posted on 2026-05-27.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Appier](https://scoutify.ai/companies/appier?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Taipei, Taiwan, Taiwan |
-| Category | Software Engineer |
-| Posted | 2026-05-20 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/appier/jobs/5001910) |
+| Location | Seoul, Seoul, South Korea |
+| Category | Customer Success |
+| Posted | 2026-05-28 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/appier/jobs/7337048) |
 
 ## About This Role
 
-This software engineer position at Appier was posted on 2026-05-20.
+This customer success position at Appier was posted on 2026-05-28.
 
 ## Get Real-Time Alerts
 

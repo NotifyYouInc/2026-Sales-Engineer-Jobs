@@ -5,12 +5,12 @@
 | Company | [Sika](https://scoutify.ai/companies/sika?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Toronto, Ontario, Canada |
 | Category | Account Executive |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SikaAG/744000125916289-technical-sales-representative-flooring-central-region) |
+| Posted | 2026-05-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SikaAG/744000128705250-technical-sales-representative-flooring-central-region) |
 
 ## About This Role
 
-This account executive position at Sika was posted on 2026-05-11.
+This account executive position at Sika was posted on 2026-05-27.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cognex](https://scoutify.ai/companies/cognex?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | South Carolina, US |
-| Category | Account Executive |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://cognex.wd1.myworkdayjobs.com/External_Career_Site/job/South-Carolina---Field/Associate-Territory-Sales-Engineer_R0011806) |
+| Location | Ohio, US |
+| Category | Sales Engineer |
+| Posted | 2026-05-27 |
+| Apply | [View on company site](https://cognex.wd1.myworkdayjobs.com/External_Career_Site/job/Ohio---Field/Associate-Territory-Sales-Engineer_R0012047) |
 
 ## About This Role
 
-This account executive position at Cognex was posted on 2026-03-25.
+This sales engineer position at Cognex was posted on 2026-05-27.
 
 ## Get Real-Time Alerts
 

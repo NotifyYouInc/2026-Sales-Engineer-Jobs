@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Salesforce](https://scoutify.ai/companies/salesforce?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Atlanta, Georgia, United States |
+| Location | Bogotá, Bogota D.C., Colombia |
 | Category | Sales Engineer |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Georgia---Remote/Lead--Specialist-SE_JR341332) |
+| Posted | 2026-05-27 |
+| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Colombia---Bogota/Lead--Specialist-SE_JR343777) |
 
 ## About This Role
 
-This sales engineer position at Salesforce was posted on 2026-05-11.
+This sales engineer position at Salesforce was posted on 2026-05-27.
 
 ## Get Real-Time Alerts
 

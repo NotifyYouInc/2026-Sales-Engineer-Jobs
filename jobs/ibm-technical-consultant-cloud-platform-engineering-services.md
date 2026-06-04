@@ -5,12 +5,12 @@
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Taipei, Taiwan, Taiwan |
 | Category | Technology / IT Consulting |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=111505) |
+| Posted | 2026-05-27 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=116620) |
 
 ## About This Role
 
-This technology / it consulting position at IBM was posted on 2026-04-29.
+This technology / it consulting position at IBM was posted on 2026-05-27.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Carrier Global](https://scoutify.ai/companies/carrier?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Zhongshan, Guangdong, China |
-| Category | Account Manager |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://carrier.wd5.myworkdayjobs.com/jobs/job/LOC3428-Room-604-Raising-Fortune-Tower-No11-Mingkedong-Road-Zhongshan-Shiqi-District-Guangdong-China/Sales-Engineer--SASR_30200954) |
+| Location | Guangzhou, Guangdong, China |
+| Category | Sales Engineer |
+| Posted | 2026-05-28 |
+| Apply | [View on company site](https://carrier.wd5.myworkdayjobs.com/jobs/job/LOC3427-Room1207B-Pearl-River-Tower-15-Zhujiang-West-Road-Tianhe-District-Guangzhou-Guangdong-China/Sales-Engineer--SASR_30206122) |
 
 ## About This Role
 
-This account manager position at Carrier Global was posted on 2026-03-02.
+This sales engineer position at Carrier Global was posted on 2026-05-28.
 
 ## Get Real-Time Alerts
 

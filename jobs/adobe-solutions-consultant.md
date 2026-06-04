@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Adobe](https://scoutify.ai/companies/adobe-inc?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Chicago, Illinois, United States |
+| Location | New York City, New York, United States |
 | Category | Implementation / Professional Services |
-| Posted | 2026-03-20 |
-| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Chicago/Solutions-Consultant_R166164) |
+| Posted | 2026-05-27 |
+| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/New-York/Solutions-Consultant-2_R169061-1) |
 
 ## About This Role
 
-This implementation / professional services position at Adobe was posted on 2026-03-20.
+This implementation / professional services position at Adobe was posted on 2026-05-27.
 
 ## Get Real-Time Alerts
 

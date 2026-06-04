@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ConnectWise](https://scoutify.ai/companies/connectwise?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | United States |
+| Location | Sydney, New South Wales, Australia |
 | Category | Sales Engineer |
-| Posted | 2026-02-13 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/connectwise/jobs/4658028005) |
+| Posted | 2026-05-27 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/connectwise/jobs/4699433005) |
 
 ## About This Role
 
-This sales engineer position at ConnectWise was posted on 2026-02-13.
+This sales engineer position at ConnectWise was posted on 2026-05-27.
 
 ## Get Real-Time Alerts
 

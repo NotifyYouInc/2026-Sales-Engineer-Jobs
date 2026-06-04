@@ -5,12 +5,12 @@
 | Company | [Thinkahead](https://scoutify.ai/companies/thinkahead?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Gurugram, Haryana, India |
 | Category | Technology / IT Consulting |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://jobs.lever.co/thinkahead/cd292bfa-0b24-469e-bc27-51054e1db5ff) |
+| Posted | 2026-05-27 |
+| Apply | [View on company site](https://jobs.lever.co/thinkahead/619ee965-633e-4c4f-8176-32b95d0dcb96) |
 
 ## About This Role
 
-This technology / it consulting position at Thinkahead was posted on 2026-05-18.
+This technology / it consulting position at Thinkahead was posted on 2026-05-27.
 
 ## Get Real-Time Alerts
 

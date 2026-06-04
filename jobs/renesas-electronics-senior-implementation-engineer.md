@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Renesas Electronics](https://scoutify.ai/companies/renesaselectronics?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Frisco, Texas, United States |
+| Location | Munich, Bavaria, Germany |
 | Category | Customer Success |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/RenesasElectronics/744000127708504-senior-implementation-engineer) |
+| Posted | 2026-05-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/RenesasElectronics/744000128752129-senior-implementation-engineer) |
 
 ## About This Role
 
-This customer success position at Renesas Electronics was posted on 2026-05-21.
+This customer success position at Renesas Electronics was posted on 2026-05-27.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mimecast](https://scoutify.ai/companies/mimecast?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Sydney, New South Wales, Australia |
+| Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
 | Category | Sales Engineer |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://mimecast.wd5.myworkdayjobs.com/Mimecast-Careers/job/Australia---New-South-Wales/Sales-Engineer_R6376) |
+| Posted | 2026-05-28 |
+| Apply | [View on company site](https://mimecast.wd5.myworkdayjobs.com/Mimecast-Careers/job/Malaysia---Remote/Sales-Engineer_R6444) |
 
 ## About This Role
 
-This sales engineer position at Mimecast was posted on 2026-04-30.
+This sales engineer position at Mimecast was posted on 2026-05-28.
 
 ## Get Real-Time Alerts
 

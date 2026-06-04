@@ -5,12 +5,12 @@
 | Company | [Kanadevia Inova](https://scoutify.ai/companies/kanadeviainova?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Bratislava, Bratislava Region, Slovakia |
 | Category | Sales Engineer |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/KanadeviaInova/744000127867554-spare-parts-sales-manager) |
+| Posted | 2026-05-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/KanadeviaInova/744000128659409-spare-parts-sales-manager) |
 
 ## About This Role
 
-This sales engineer position at Kanadevia Inova was posted on 2026-05-22.
+This sales engineer position at Kanadevia Inova was posted on 2026-05-27.
 
 ## Get Real-Time Alerts
 

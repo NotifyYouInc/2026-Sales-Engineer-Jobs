@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Zeiss](https://scoutify.ai/companies/zeissgroup?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Shanghai, Shanghai, China |
-| Category | Sales Engineer |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://zeissgroup.wd3.myworkdayjobs.com/External/job/Shanghai/Application-Specialist_JR_1048609) |
+| Category | Customer Success |
+| Posted | 2026-05-27 |
+| Apply | [View on company site](https://zeissgroup.wd3.myworkdayjobs.com/External/job/Shanghai/Application-Specialist_JR_1050010) |
 
 ## About This Role
 
-This sales engineer position at Zeiss was posted on 2026-04-20.
+This customer success position at Zeiss was posted on 2026-05-27.
 
 ## Get Real-Time Alerts
 

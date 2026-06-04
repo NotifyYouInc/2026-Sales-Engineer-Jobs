@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [F5](https://scoutify.ai/companies/f5?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Dubai, Dubai, United Arab Emirates |
-| Category | Sales Engineer |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://ffive.wd5.myworkdayjobs.com/f5jobs/job/Dubai/Senior-Solutions-Engineer---F5-Distributed-Cloud_RP1037214) |
+| Location | Paris, Île-de-France, France |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-05-27 |
+| Apply | [View on company site](https://ffive.wd5.myworkdayjobs.com/f5jobs/job/Paris/Senior-Solutions-Engineer---F5-Distributed-Cloud_RP1037549-1) |
 
 ## About This Role
 
-This sales engineer position at F5 was posted on 2026-04-20.
+This technical & solutions architect position at F5 was posted on 2026-05-27.
 
 ## Get Real-Time Alerts
 

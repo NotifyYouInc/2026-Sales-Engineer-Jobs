@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [LaunchDarkly](https://scoutify.ai/companies/launchdarkly?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | United States |
-| Category | Sales Engineer |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/launchdarkly/jobs/7655044003) |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-05-27 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/launchdarkly/jobs/7749034003) |
 
 ## About This Role
 
-This sales engineer position at LaunchDarkly was posted on 2026-03-06.
+This technical & solutions architect position at LaunchDarkly was posted on 2026-05-27.
 
 ## Get Real-Time Alerts
 

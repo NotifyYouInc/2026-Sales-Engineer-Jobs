@@ -5,12 +5,12 @@
 | Company | [Celonis](https://scoutify.ai/companies/celonis?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Sales Engineer |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/celonis/jobs/7635254003?gh_jid=7635254003) |
+| Posted | 2026-05-27 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/celonis/jobs/7635326003?gh_jid=7635326003) |
 
 ## About This Role
 
-This sales engineer position at Celonis was posted on 2026-04-22.
+This sales engineer position at Celonis was posted on 2026-05-27.
 
 ## Get Real-Time Alerts
 

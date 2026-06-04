@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Medtronic](https://scoutify.ai/companies/medtronic?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Karachi, Sindh, Pakistan |
+| Location | Warsaw, Mazovia, Poland |
 | Category | Customer Success |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Clifton-Karachi-Pakistan/Technical-Consultant_R56827-1) |
+| Posted | 2026-05-27 |
+| Apply | [View on company site](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Warsaw-Mazowieckie-Poland/Technical-Consultant_R65948-1) |
 
 ## About This Role
 
-This customer success position at Medtronic was posted on 2026-04-15.
+This customer success position at Medtronic was posted on 2026-05-27.
 
 ## Get Real-Time Alerts
 

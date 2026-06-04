@@ -5,12 +5,12 @@
 | Company | [Stannah](https://scoutify.ai/companies/stannah?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Peterborough, England, United Kingdom |
 | Category | Sales Engineer |
-| Posted | 2026-05-14 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Stannah1/744000126473520-sales-consultant) |
+| Posted | 2026-05-28 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Stannah1/744000128873479-sales-consultant) |
 
 ## About This Role
 
-This sales engineer position at Stannah was posted on 2026-05-14.
+This sales engineer position at Stannah was posted on 2026-05-28.
 
 ## Get Real-Time Alerts
 

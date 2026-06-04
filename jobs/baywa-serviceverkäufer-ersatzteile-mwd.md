@@ -5,12 +5,12 @@
 | Company | [BayWa](https://scoutify.ai/companies/baywa?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Bavaria, DE |
 | Category | Sales Engineer |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BayWaAG/744000122397380-serviceverkaufer-ersatzteile-mwd) |
+| Posted | 2026-05-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BayWaAG/744000128674945-serviceverkaufer-ersatzteile-mwd) |
 
 ## About This Role
 
-This sales engineer position at BayWa was posted on 2026-04-23.
+This sales engineer position at BayWa was posted on 2026-05-27.
 
 ## Get Real-Time Alerts
 
