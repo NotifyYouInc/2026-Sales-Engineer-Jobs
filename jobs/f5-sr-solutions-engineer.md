@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [F5](https://scoutify.ai/companies/f5?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Texas, US |
-| Category | Sales Engineer |
-| Posted | 2026-05-20 |
-| Apply | [View on company site](https://ffive.wd5.myworkdayjobs.com/f5jobs/job/Field-TX/Sr-Solutions-Engineer_RP1037626) |
+| Location | Belgium |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-05-28 |
+| Apply | [View on company site](https://ffive.wd5.myworkdayjobs.com/f5jobs/job/Belgium-Homebase/Sr-Solutions-Engineer_RP1037619) |
 
 ## About This Role
 
-This sales engineer position at F5 was posted on 2026-05-20.
+This technical & solutions architect position at F5 was posted on 2026-05-28.
 
 ## Get Real-Time Alerts
 

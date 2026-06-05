@@ -5,12 +5,12 @@
 | Company | [Metriport](https://scoutify.ai/companies/metriport?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | San Francisco, California, United States |
 | Category | Customer Success |
-| Posted | 2026-03-05 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/metriport/c9999f2e-74ff-45e3-828b-d7f00a82619d) |
+| Posted | 2026-05-28 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/metriport/d502577a-9cbf-4100-ab85-6b40d2206877) |
 
 ## About This Role
 
-This customer success position at Metriport was posted on 2026-03-05.
+This customer success position at Metriport was posted on 2026-05-28.
 
 ## Get Real-Time Alerts
 

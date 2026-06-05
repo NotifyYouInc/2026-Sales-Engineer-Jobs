@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Sunnyvale, California, United States |
-| Category | Sales Engineer |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckdkctoLEfrn5VTKRPUVAv5iy8iSHJg8Jdxp1b1wMUR7DEjsACxwdTBoI5-rba6ChX0wKbK_PkykomGcog0xaw-2L3L7dISSsm99ol6Tafid5CIJMYwweGuWmyekK0A%3D%3D_V2&loc=US&title=Customer+Engineer) |
+| Location | 2 locations |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-05-29 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckU31zyBfvZEQjuvTYLAISuQ7yH2nr0Fm8e4TsxOQGZtqEjsACxwdTA0sQy5_hFHqSWTW9_8CgXeJyT00UUcraI6jsN8WxyfChx_EJiISCQVOB7DQvtOyWasORxuYqA%3D%3D_V2&loc=CA&title=Customer+Engineer) |
 
 ## About This Role
 
-This sales engineer position at Google was posted on 2026-05-11.
+This technical & solutions architect position at Google was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 

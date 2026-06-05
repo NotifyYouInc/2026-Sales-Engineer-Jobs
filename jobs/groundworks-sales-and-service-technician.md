@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Groundworks](https://scoutify.ai/companies/groundworks?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Bloomington, Minnesota, United States |
+| Location | Fenton, Michigan, United States |
 | Category | Sales Engineer |
-| Posted | 2026-05-20 |
-| Apply | [View on company site](https://groundworks.wd1.myworkdayjobs.com/groundworks/job/Bloomington-IL/Sales-and-Service-Technician_JR111315) |
+| Posted | 2026-05-28 |
+| Apply | [View on company site](https://groundworks.wd1.myworkdayjobs.com/groundworks/job/Fenton-MO/Sales-and-Service-Technician_JR111369) |
 
 ## About This Role
 
-This sales engineer position at Groundworks was posted on 2026-05-20.
+This sales engineer position at Groundworks was posted on 2026-05-28.
 
 ## Get Real-Time Alerts
 

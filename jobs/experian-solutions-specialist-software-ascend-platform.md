@@ -5,12 +5,12 @@
 | Company | [Experian](https://scoutify.ai/companies/experian?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Stellenbosch, Western Cape, South Africa |
 | Category | Account Executive |
-| Posted | 2026-05-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000128472529-solutions-specialist-software-ascend-platform) |
+| Posted | 2026-05-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000128678695-solutions-specialist-software-ascend-platform) |
 
 ## About This Role
 
-This account executive position at Experian was posted on 2026-05-26.
+This account executive position at Experian was posted on 2026-05-27.
 
 ## Get Real-Time Alerts
 

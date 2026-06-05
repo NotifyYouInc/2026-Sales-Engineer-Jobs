@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Viavi Solutions](https://scoutify.ai/companies/viavisolutions?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Germantown, Maryland, United States |
-| Category | Sales Engineer |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://viavisolutions.wd1.myworkdayjobs.com/careers/job/Home-Office-USA/Solutions-Engineer_260004611-1) |
+| Location | Mexico City, Mexico City, Mexico |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-05-28 |
+| Apply | [View on company site](https://viavisolutions.wd1.myworkdayjobs.com/careers/job/Mexico-City-MEX/Solutions-Engineer_260004693-2) |
 
 ## About This Role
 
-This sales engineer position at Viavi Solutions was posted on 2026-05-13.
+This technical & solutions architect position at Viavi Solutions was posted on 2026-05-28.
 
 ## Get Real-Time Alerts
 

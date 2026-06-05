@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ContentSquare](https://scoutify.ai/companies/contentsquare?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Tokyo, Tokyo, Japan |
+| Location | France |
 | Category | Customer Success |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://jobs.lever.co/contentsquare/709cb6c1-5a25-41c5-87b9-1df03666ee91) |
+| Posted | 2026-05-28 |
+| Apply | [View on company site](https://jobs.lever.co/contentsquare/137168b6-5707-4e11-9277-72910608c62d) |
 
 ## About This Role
 
-This customer success position at ContentSquare was posted on 2026-05-13.
+This customer success position at ContentSquare was posted on 2026-05-28.
 
 ## Get Real-Time Alerts
 

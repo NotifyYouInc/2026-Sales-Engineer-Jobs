@@ -5,12 +5,12 @@
 | Company | [Smiths Group](https://scoutify.ai/companies/smithsgroup?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | São Paulo, São Paulo, Brazil |
 | Category | Sales Engineer |
-| Posted | 2026-05-14 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SmithsGroup2/744000126570927-technical-commercial-specialist) |
+| Posted | 2026-05-28 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SmithsGroup2/744000128978433-technical-commercial-specialist) |
 
 ## About This Role
 
-This sales engineer position at Smiths Group was posted on 2026-05-14.
+This sales engineer position at Smiths Group was posted on 2026-05-28.
 
 ## Get Real-Time Alerts
 

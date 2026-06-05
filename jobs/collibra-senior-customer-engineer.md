@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Collibra](https://scoutify.ai/companies/collibra?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Brussels, Brussels Capital, Belgium |
+| Location | Madrid, Madrid, Spain |
 | Category | Sales Engineer |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://www.collibra.com/us/en/company/careers/job-listing/?gh_jid=7851047) |
+| Posted | 2026-05-28 |
+| Apply | [View on company site](https://www.collibra.com/us/en/company/careers/job-listing/?gh_jid=7963207) |
 
 ## About This Role
 
-This sales engineer position at Collibra was posted on 2026-04-24.
+This sales engineer position at Collibra was posted on 2026-05-28.
 
 ## Get Real-Time Alerts
 

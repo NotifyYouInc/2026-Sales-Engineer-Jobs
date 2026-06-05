@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Xylem](https://scoutify.ai/companies/xylem?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | 2 locations |
+| Location | Saskatoon, Saskatchewan, Canada |
 | Category | Sales Engineer |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://xylem.wd5.myworkdayjobs.com/xylem-careers/job/Sacramento-California/Technical-Sales-Engineer-Specialist_R47352) |
+| Posted | 2026-05-28 |
+| Apply | [View on company site](https://xylem.wd5.myworkdayjobs.com/xylem-careers/job/Nisku/Technical-Sales-Engineer-Specialist_R48679) |
 
 ## About This Role
 
-This sales engineer position at Xylem was posted on 2026-03-17.
+This sales engineer position at Xylem was posted on 2026-05-28.
 
 ## Get Real-Time Alerts
 

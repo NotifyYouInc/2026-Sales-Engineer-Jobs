@@ -5,12 +5,12 @@
 | Company | [Concentrix](https://scoutify.ai/companies/concentrix?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Spain |
 | Category | Sales Engineer |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://cnx.wd1.myworkdayjobs.com/external_global/job/ESP-Benalmdena-Costa---Plaza-Solymar-CC-Benalmar-Local-12/Solution-Specialist--Norwegian-Finnish-Portuguese---speaking----Hybrid---Cloud-Solutions-MV02_R1722825) |
+| Posted | 2026-05-28 |
+| Apply | [View on company site](https://cnx.wd1.myworkdayjobs.com/external_global/job/ESP-Benalmdena-Costa---Plaza-Solymar-CC-Benalmar-Local-12/Solution-Specialist--Norwegian-Finnish-Portuguese---speaking----Hybrid---Cloud-Solutions-MV02_R1734338) |
 
 ## About This Role
 
-This sales engineer position at Concentrix was posted on 2026-04-20.
+This sales engineer position at Concentrix was posted on 2026-05-28.
 
 ## Get Real-Time Alerts
 

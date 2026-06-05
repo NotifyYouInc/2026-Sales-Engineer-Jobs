@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Caterpillar](https://scoutify.ai/companies/caterpillar?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | São Paulo, São Paulo, Brazil |
+| Location | Santiago, Santiago Metropolitan, Chile |
 | Category | Customer Success |
-| Posted | 2026-05-25 |
-| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Sao-Paulo-So-Paulo/Technology-onboarding-Specialists_R0000370250) |
+| Posted | 2026-05-28 |
+| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Santiago-Region-Metropolitana-de-Santiago/Technology-onboarding-Specialists_R0000373156) |
 
 ## About This Role
 
-This customer success position at Caterpillar was posted on 2026-05-25.
+This customer success position at Caterpillar was posted on 2026-05-28.
 
 ## Get Real-Time Alerts
 

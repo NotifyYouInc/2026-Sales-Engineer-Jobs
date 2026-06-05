@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sectigo](https://scoutify.ai/companies/sectigo?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Paris, Île-de-France, France |
+| Location | London, England, United Kingdom |
 | Category | Sales Engineer |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/sectigo/3743990013200386-sales-engineer-english-french-speaking) |
+| Posted | 2026-05-28 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/sectigo/3743990013348676-sales-engineer-english-french-speaking) |
 
 ## About This Role
 
-This sales engineer position at Sectigo was posted on 2026-05-19.
+This sales engineer position at Sectigo was posted on 2026-05-28.
 
 ## Get Real-Time Alerts
 

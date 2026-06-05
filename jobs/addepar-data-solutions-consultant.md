@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Addepar](https://scoutify.ai/companies/addepar?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Salt Lake City, Utah, United States |
+| Location | Edinburgh, Scotland, United Kingdom |
 | Category | Implementation / Professional Services |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/addepar1/jobs/8540334002) |
+| Posted | 2026-05-28 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/addepar1/jobs/8561225002) |
 
 ## About This Role
 
-This implementation / professional services position at Addepar was posted on 2026-05-11.
+This implementation / professional services position at Addepar was posted on 2026-05-28.
 
 ## Get Real-Time Alerts
 
