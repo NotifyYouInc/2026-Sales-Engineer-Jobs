@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ABB](https://scoutify.ai/companies/abb?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Washington, District of Columbia, United States |
+| Location | Colorado, US |
 | Category | Software Engineer |
-| Posted | 2026-05-08 |
-| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Remote-District-of-Columbia-United-States-of-America/Electrification-Services-Application-Engineer_JR00034140) |
+| Posted | 2026-05-29 |
+| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Remote-Arizona-United-States-of-America/Electrification-Services-Application-Engineer_JR00035578-1) |
 
 ## About This Role
 
-This software engineer position at ABB was posted on 2026-05-08.
+This software engineer position at ABB was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 

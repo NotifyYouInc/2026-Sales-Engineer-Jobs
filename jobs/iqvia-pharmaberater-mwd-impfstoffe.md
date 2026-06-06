@@ -1,16 +1,16 @@
-# Pharmaberater m/w/d  Impfstoffe at IQVIA
+# Pharmaberater m/w/d Impfstoffe at IQVIA
 
 | Field | Details |
 |-------|---------|
 | Company | [IQVIA](https://scoutify.ai/companies/iqvia?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Nürnberg, Bavaria, Germany |
+| Location | Chemnitz, Saxony, Germany |
 | Category | Sales Engineer |
-| Posted | 2026-05-27 |
-| Apply | [View on company site](https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Nrnberg-Bayern-Germany/Pharmaberater-m-w-d--Impfstoffe_R1547338) |
+| Posted | 2026-05-28 |
+| Apply | [View on company site](https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Chemnitz-Saxony-Germany/Pharmaberater-m-w-d-Impfstoffe_R1547527) |
 
 ## About This Role
 
-This sales engineer position at IQVIA was posted on 2026-05-27.
+This sales engineer position at IQVIA was posted on 2026-05-28.
 
 ## Get Real-Time Alerts
 

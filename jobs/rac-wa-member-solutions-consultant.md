@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Rac WA](https://scoutify.ai/companies/rac-wa?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Joondalup, Western Australia, Australia |
+| Location | 2 locations |
 | Category | Customer Success |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://racwa.wd3.myworkdayjobs.com/rac-wa/job/Joondalup/Member-Solutions-Consultant_JR106383) |
+| Posted | 2026-05-29 |
+| Apply | [View on company site](https://racwa.wd3.myworkdayjobs.com/rac-wa/job/Joondalup/Member-Solutions-Consultant_JR106460) |
 
 ## About This Role
 
-This customer success position at Rac WA was posted on 2026-04-30.
+This customer success position at Rac WA was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 

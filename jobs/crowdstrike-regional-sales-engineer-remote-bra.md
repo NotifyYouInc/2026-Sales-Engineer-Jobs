@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CrowdStrike](https://scoutify.ai/companies/crowdstrike?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Brazil |
-| Category | Technical Writer |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/Brazil---Remote/Regional-Sales-Engineer--Remote--BRA-_R27956) |
+| Location | São Paulo, São Paulo, Brazil |
+| Category | Sales Engineer |
+| Posted | 2026-05-29 |
+| Apply | [View on company site](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/Brazil---Remote/Regional-Sales-Engineer--Remote--BRA-_R26455-1) |
 
 ## About This Role
 
-This technical writer position at CrowdStrike was posted on 2026-03-13.
+This sales engineer position at CrowdStrike was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 

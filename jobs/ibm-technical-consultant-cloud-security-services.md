@@ -5,12 +5,12 @@
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | India |
 | Category | Technology / IT Consulting |
-| Posted | 2026-05-27 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=117530) |
+| Posted | 2026-05-29 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=117617) |
 
 ## About This Role
 
-This technology / it consulting position at IBM was posted on 2026-05-27.
+This technology / it consulting position at IBM was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 

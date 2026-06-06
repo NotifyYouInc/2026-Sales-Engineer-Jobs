@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Exclusivenetworks](https://scoutify.ai/companies/exclusivenetworks?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Bangkok, Bangkok, Thailand |
-| Category | Customer Success |
-| Posted | 2026-03-19 |
-| Apply | [View on company site](https://exclusivenetworks.wd103.myworkdayjobs.com/exclusive-networks-career/job/Bangkok/Solutions-Consultant---Post-Sales_JR1584) |
+| Location | Manila, National Capital Region, Philippines |
+| Category | Implementation / Professional Services |
+| Posted | 2026-05-29 |
+| Apply | [View on company site](https://exclusivenetworks.wd103.myworkdayjobs.com/exclusive-networks-career/job/Manila/Solutions-Consultant---Post-Sales_JR2005-2) |
 
 ## About This Role
 
-This customer success position at Exclusivenetworks was posted on 2026-03-19.
+This implementation / professional services position at Exclusivenetworks was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Meowwolf](https://scoutify.ai/companies/meowwolf?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Los Angeles, California, United States |
+| Location | Denver, Colorado, United States |
 | Category | Electrical / Hardware Engineer |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://meowwolf.wd1.myworkdayjobs.com/meowwolf/job/California---Exhibition/Exhibition-Technology-Specialist_JR102413) |
+| Posted | 2026-05-29 |
+| Apply | [View on company site](https://meowwolf.wd1.myworkdayjobs.com/meowwolf/job/Denver-CO/Exhibition-Technology-Specialist_JR102496) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Meowwolf was posted on 2026-04-21.
+This electrical / hardware engineer position at Meowwolf was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 

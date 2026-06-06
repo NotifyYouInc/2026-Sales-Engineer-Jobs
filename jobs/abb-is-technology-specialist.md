@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ABB](https://scoutify.ai/companies/abb?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Kraków, Lesser Poland, Poland |
+| Location | Vaasa, Ostrobothnia, Finland |
 | Category | IT & Systems Administration |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Krakow-Lesser-Poland-Poland/IS-Technology-Specialist_JR00036147) |
+| Posted | 2026-05-29 |
+| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Vaasa-Ostrobothnia-Finland/IS-Technology-Specialist_JR00036178) |
 
 ## About This Role
 
-This it & systems administration position at ABB was posted on 2026-05-22.
+This it & systems administration position at ABB was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Ecolab](https://scoutify.ai/companies/ecolab?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Houston, Texas, United States |
+| Location | New Orleans, Louisiana, United States |
 | Category | Account Executive |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://ecolab.wd1.myworkdayjobs.com/ecolab_external/job/USA---Texas---Houston/Technical-Sales-Representative_R00292730) |
+| Posted | 2026-05-29 |
+| Apply | [View on company site](https://ecolab.wd1.myworkdayjobs.com/ecolab_external/job/USA---Louisiana---New-Orleans/Technical-Sales-Representative_R00293754-1) |
 
 ## About This Role
 
-This account executive position at Ecolab was posted on 2026-05-19.
+This account executive position at Ecolab was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 

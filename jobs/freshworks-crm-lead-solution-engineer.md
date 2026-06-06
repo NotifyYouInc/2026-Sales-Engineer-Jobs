@@ -1,16 +1,16 @@
-# Lead - Solution Engineer  at Freshworks CRM
+# Lead - Solution Engineer at Freshworks CRM
 
 | Field | Details |
 |-------|---------|
 | Company | [Freshworks CRM](https://scoutify.ai/companies/freshworkscrm?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Denver, Colorado, United States |
-| Category | Sales Engineer |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Freshworks/744000120340437-lead-solution-engineer) |
+| Location | London, England, United Kingdom |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-05-29 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Freshworks/744000129133679-lead-solution-engineer) |
 
 ## About This Role
 
-This sales engineer position at Freshworks CRM was posted on 2026-04-13.
+This technical & solutions architect position at Freshworks CRM was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 

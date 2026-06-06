@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cohesity](https://scoutify.ai/companies/cohesity?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | France |
 | Category | Sales Engineer |
-| Posted | 2026-05-27 |
-| Apply | [View on company site](https://cohesity.wd5.myworkdayjobs.com/Cohesity_Careers/job/Bangalore---India-Office/Sr-Sales-Engineer_R03573-1) |
+| Posted | 2026-05-28 |
+| Apply | [View on company site](https://cohesity.wd5.myworkdayjobs.com/Cohesity_Careers/job/France---Remote/Sr-Sales-Engineer_R03495-1) |
 
 ## About This Role
 
-This sales engineer position at Cohesity was posted on 2026-05-27.
+This sales engineer position at Cohesity was posted on 2026-05-28.
 
 ## Get Real-Time Alerts
 

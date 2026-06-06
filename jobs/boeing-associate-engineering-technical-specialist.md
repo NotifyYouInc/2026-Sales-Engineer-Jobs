@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Boeing](https://scoutify.ai/companies/boeing?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Berkeley, California, United States |
-| Category | Electrical / Hardware Engineer |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Berkeley-MO/Associate-Engineering-Technical-Specialist_JR2026497373) |
+| Location | Seattle, Washington, United States |
+| Category | Engineering Manager |
+| Posted | 2026-05-29 |
+| Apply | [View on company site](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Seattle-WA/Associate-Engineering-Technical-Specialist_JR2026512611-1) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Boeing was posted on 2026-02-24.
+This engineering manager position at Boeing was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 

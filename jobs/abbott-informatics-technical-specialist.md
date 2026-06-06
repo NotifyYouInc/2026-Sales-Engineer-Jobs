@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Abbott](https://scoutify.ai/companies/abbott-laboratories?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Tokyo, Tokyo, Japan |
+| Location | Álimos, Attica, Greece |
 | Category | Customer Success |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/Japan---Tokyo/Informatics-Technical-Specialist_31148601) |
+| Posted | 2026-05-29 |
+| Apply | [View on company site](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/Greece---Alimos/Informatics-Technical-Specialist_31151896-1) |
 
 ## About This Role
 
-This customer success position at Abbott was posted on 2026-04-24.
+This customer success position at Abbott was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 

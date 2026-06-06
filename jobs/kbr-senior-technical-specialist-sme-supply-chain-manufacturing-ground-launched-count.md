@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [KBR](https://scoutify.ai/companies/kbr?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Florida, US |
-| Category | Customer Success |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Eglin-AFB-Florida/Senior-Technical-Specialist---SME---Supply-Chain---Manufacturing--Ground-Launched-Counter-Air-Missiles-_R2122459) |
+| Category | Engineering Manager |
+| Posted | 2026-05-29 |
+| Apply | [View on company site](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Eglin-AFB-Florida/Senior-Technical-Specialist---SME---Supply-Chain---Manufacturing--Ground-Launched-Counter-Air-Missiles-_R2124383) |
 
 ## About This Role
 
-This customer success position at KBR was posted on 2026-04-22.
+This engineering manager position at KBR was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 

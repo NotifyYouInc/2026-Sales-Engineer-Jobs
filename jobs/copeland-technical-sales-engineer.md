@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Copeland](https://scoutify.ai/companies/copeland?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Quezon City, National Capital Region, Philippines |
+| Location | 2 locations |
 | Category | Sales Engineer |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://copeland.wd5.myworkdayjobs.com/copeland_external_careers_page/job/Quezon-City-Manila-Philippines/Technical-Sales-Engineer_JR114940-1) |
+| Posted | 2026-05-29 |
+| Apply | [View on company site](https://copeland.wd5.myworkdayjobs.com/copeland_external_careers_page/job/Kennesaw-GA-USA/Technical-Sales-Engineer_JR114792) |
 
 ## About This Role
 
-This sales engineer position at Copeland was posted on 2026-05-11.
+This sales engineer position at Copeland was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 

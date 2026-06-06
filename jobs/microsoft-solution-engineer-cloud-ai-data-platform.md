@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Microsoft](https://scoutify.ai/companies/microsoft?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | United States |
-| Category | Sales Engineer |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556769491) |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-05-30 |
+| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556866255) |
 
 ## About This Role
 
-This sales engineer position at Microsoft was posted on 2026-03-02.
+This technical & solutions architect position at Microsoft was posted on 2026-05-30.
 
 ## Get Real-Time Alerts
 

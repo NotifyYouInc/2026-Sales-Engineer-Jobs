@@ -1,16 +1,16 @@
-# Advisory Solution Consultant - Public Sector / German speaking at ServiceNow
+# Advisory Solution Consultant - Public Sector - German speaking at ServiceNow
 
 | Field | Details |
 |-------|---------|
 | Company | [ServiceNow](https://scoutify.ai/companies/servicenow?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Berlin, State of Berlin, Germany |
+| Location | Switzerland |
 | Category | Sales Engineer |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000112410467-advisory-solution-consultant-public-sector-german-speaking) |
+| Posted | 2026-05-29 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000129116879-advisory-solution-consultant-public-sector-german-speaking) |
 
 ## About This Role
 
-This sales engineer position at ServiceNow was posted on 2026-03-03.
+This sales engineer position at ServiceNow was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 

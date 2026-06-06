@@ -1,16 +1,16 @@
-# Engineering Technical Specialist (Associate or Experienced) at Boeing
+# Engineering Technical Specialist​ (Associate or Experienced) at Boeing
 
 | Field | Details |
 |-------|---------|
 | Company | [Boeing](https://scoutify.ai/companies/boeing?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | North Charleston, South Carolina, United States |
+| Location | Berkeley, California, United States |
 | Category | Engineering Manager |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---North-Charleston-SC/Engineering-Technical-Specialist--Associate-or-Experienced-_JR2026500129-2) |
+| Posted | 2026-05-29 |
+| Apply | [View on company site](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Berkeley-MO/Engineering-Technical-Specialist---Associate-or-Experienced-_JR2026512629-1) |
 
 ## About This Role
 
-This engineering manager position at Boeing was posted on 2026-05-11.
+This engineering manager position at Boeing was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 

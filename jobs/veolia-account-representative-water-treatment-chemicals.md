@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Veolia](https://scoutify.ai/companies/veolia?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Lancaster, California, United States |
+| Location | New York City, New York, United States |
 | Category | Account Executive |
-| Posted | 2026-05-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000127502999-account-representative-water-treatment-chemicals) |
+| Posted | 2026-05-29 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000129232667-account-representative-water-treatment-chemicals) |
 
 ## About This Role
 
-This account executive position at Veolia was posted on 2026-05-20.
+This account executive position at Veolia was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 

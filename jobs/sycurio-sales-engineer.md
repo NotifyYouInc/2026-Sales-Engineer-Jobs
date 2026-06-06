@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sycurio](https://scoutify.ai/companies/sycurio?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | United States |
 | Category | Sales Engineer |
-| Posted | 2026-05-01 |
-| Apply | [View on company site](https://jobs.lever.co/sycurio/7b5f7e37-6698-401e-b3a8-2e157bc586e0) |
+| Posted | 2026-05-29 |
+| Apply | [View on company site](https://jobs.lever.co/sycurio/556b7ad0-bbd8-488d-a7f2-277c5ba05f00) |
 
 ## About This Role
 
-This sales engineer position at Sycurio was posted on 2026-05-01.
+This sales engineer position at Sycurio was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 

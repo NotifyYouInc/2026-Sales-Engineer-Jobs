@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Fivetran](https://scoutify.ai/companies/fivetran?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Dublin, Leinster, Ireland |
+| Location | Denver, Colorado, United States |
 | Category | Sales Engineer |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://www.fivetran.com/careers/job?gh_jid=7659466003) |
+| Posted | 2026-05-29 |
+| Apply | [View on company site](https://www.fivetran.com/careers/job?gh_jid=7746783003) |
 
 ## About This Role
 
-This sales engineer position at Fivetran was posted on 2026-03-11.
+This sales engineer position at Fivetran was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Aptiv](https://scoutify.ai/companies/aptiv?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | France |
+| Location | Kraków, Lesser Poland, Poland |
 | Category | Software Engineer |
-| Posted | 2026-03-30 |
-| Apply | [View on company site](https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/Epernon-France/Application-Engineer---Commercial-Aerospace_J000695489) |
+| Posted | 2026-05-29 |
+| Apply | [View on company site](https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/Krakow-Poland/Application-Engineer---Commercial-Aerospace_J000699139) |
 
 ## About This Role
 
-This software engineer position at Aptiv was posted on 2026-03-30.
+This software engineer position at Aptiv was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 

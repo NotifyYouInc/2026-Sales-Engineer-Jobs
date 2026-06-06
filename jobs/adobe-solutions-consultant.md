@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Adobe](https://scoutify.ai/companies/adobe-inc?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | New York City, New York, United States |
-| Category | Implementation / Professional Services |
-| Posted | 2026-05-27 |
-| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/New-York/Solutions-Consultant-2_R169061-1) |
+| Category | Customer Success |
+| Posted | 2026-05-29 |
+| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Remote-New-York/Solutions-Consultant_R169266) |
 
 ## About This Role
 
-This implementation / professional services position at Adobe was posted on 2026-05-27.
+This customer success position at Adobe was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Newchartertech](https://scoutify.ai/companies/newchartertech?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Massachusetts, US |
-| Category | Technology / IT Consulting |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://newchartertech.wd12.myworkdayjobs.com/newchartertechnologies/job/Braver-MA---Taunton/Technical-Consultant_JR0712-1) |
+| Location | Denver, Colorado, United States |
+| Category | Customer Success |
+| Posted | 2026-05-29 |
+| Apply | [View on company site](https://newchartertech.wd12.myworkdayjobs.com/newchartertechnologies/job/Hub-Orion-CO---Denver/Technical-Consultant_JR0780-1) |
 
 ## About This Role
 
-This technology / it consulting position at Newchartertech was posted on 2026-04-17.
+This customer success position at Newchartertech was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 
