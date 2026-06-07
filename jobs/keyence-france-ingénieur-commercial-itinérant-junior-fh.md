@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [KEYENCE (FRANCE)](https://scoutify.ai/companies/keyencefrance?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Strasbourg, Grand Est, France |
+| Location | Lyon, Rhône-Alpes, France |
 | Category | Sales Engineer |
 | Posted | 2026-05-29 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/KEYENCEFRANCE/744000129212140-ingenieur-commercial-itinerant-junior-fh) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/KEYENCEFRANCE/744000129216519-ingenieur-commercial-itinerant-junior-fh) |
 
 ## About This Role
 

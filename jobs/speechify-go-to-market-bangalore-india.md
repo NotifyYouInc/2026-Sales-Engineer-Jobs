@@ -1,16 +1,16 @@
-# Senior Solution Engineer at SailPoint Technologies
+# Go-to-Market - Bangalore, India at Speechify
 
 | Field | Details |
 |-------|---------|
-| Company | [SailPoint Technologies](https://scoutify.ai/companies/sailpoint-technologies?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
+| Company | [Speechify](https://scoutify.ai/companies/speechify?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Sales Engineer |
+| Category | Account Executive |
 | Posted | 2026-05-30 |
-| Apply | [View on company site](https://sailpoint.wd1.myworkdayjobs.com/sailpoint/job/Remote-India/Senior-Solution-Engineer_R013548) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/speechify/jobs/6003642004) |
 
 ## About This Role
 
-This sales engineer position at SailPoint Technologies was posted on 2026-05-30.
+This account executive position at Speechify was posted on 2026-05-30.
 
 ## Get Real-Time Alerts
 
