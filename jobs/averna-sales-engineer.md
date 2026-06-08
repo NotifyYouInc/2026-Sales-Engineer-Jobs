@@ -1,16 +1,16 @@
-# Sales Engineer at Regal Rexnord
+# Sales Engineer at Averna
 
 | Field | Details |
 |-------|---------|
-| Company | [Regal Rexnord](https://scoutify.ai/companies/regalrexnord?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Singapore |
+| Company | [Averna](https://scoutify.ai/companies/averna?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
+| Location | Yokohama, Kanagawa, Japan |
 | Category | Sales Engineer |
 | Posted | 2026-05-31 |
-| Apply | [View on company site](https://regalrexnord.wd1.myworkdayjobs.com/careers/job/Singapore-Toa-Payoh-North-Singapore/Sales-Engineer_R26_02640) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Averna1/744000129346447-sales-engineer) |
 
 ## About This Role
 
-This sales engineer position at Regal Rexnord was posted on 2026-05-31.
+This sales engineer position at Averna was posted on 2026-05-31.
 
 ## Get Real-Time Alerts
 

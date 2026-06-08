@@ -5,12 +5,12 @@
 | Company | [DXC Technology](https://scoutify.ai/companies/dxctechnology?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Quezon City, National Capital Region, Philippines |
 | Category | Technology / IT Consulting |
-| Posted | 2026-05-28 |
-| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/PHL---QUEZON-CITY/ServiceNow-Technical-Consultant_51581362) |
+| Posted | 2026-05-29 |
+| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/PHL---QUEZON-CITY/ServiceNow-Technical-Consultant_51581363) |
 
 ## About This Role
 
-This technology / it consulting position at DXC Technology was posted on 2026-05-28.
+This technology / it consulting position at DXC Technology was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 

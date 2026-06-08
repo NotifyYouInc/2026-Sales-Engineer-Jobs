@@ -1,16 +1,16 @@
-# Technical Field Engineer at Unisys
+# Technical Consultant at Adobe
 
 | Field | Details |
 |-------|---------|
-| Company | [Unisys](https://scoutify.ai/companies/unisys?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Singapore, Singapore |
+| Company | [Adobe](https://scoutify.ai/companies/adobe-inc?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
+| Location | Bengaluru, Karnataka, India |
 | Category | Customer Success |
 | Posted | 2026-06-01 |
-| Apply | [View on company site](https://unisys.wd5.myworkdayjobs.com/External/job/Multi-Client-Singapore/Technical-Field-Engineer_REQ572194) |
+| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bangalore/Technical-Consultant_R169370) |
 
 ## About This Role
 
-This customer success position at Unisys was posted on 2026-06-01.
+This customer success position at Adobe was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

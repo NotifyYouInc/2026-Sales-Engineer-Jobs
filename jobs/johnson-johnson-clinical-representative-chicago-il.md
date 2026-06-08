@@ -1,16 +1,16 @@
-# Senior Product Specialist at Johnson & Johnson
+# Clinical Representative - Chicago, IL at Johnson & Johnson
 
 | Field | Details |
 |-------|---------|
 | Company | [Johnson & Johnson](https://scoutify.ai/companies/johnson-johnson?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Changchun, Jilin, China |
-| Category | Corporate Finance |
+| Location | Chicago, Illinois, United States |
+| Category | Sales Engineer |
 | Posted | 2026-06-01 |
-| Apply | [View on company site](https://jj.wd5.myworkdayjobs.com/JJ/job/Changchun-Jilin-China/Senior-Product-Specialist_R-038324) |
+| Apply | [View on company site](https://jj.wd5.myworkdayjobs.com/JJ/job/Chicago-Illinois-United-States/Clinical-Representative---Chicago--IL_R-079842-1) |
 
 ## About This Role
 
-This corporate finance position at Johnson & Johnson was posted on 2026-06-01.
+This sales engineer position at Johnson & Johnson was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

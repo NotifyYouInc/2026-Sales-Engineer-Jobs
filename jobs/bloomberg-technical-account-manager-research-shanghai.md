@@ -1,16 +1,16 @@
-# Technical Field Engineer at Unisys
+# Technical Account Manager, Research - Shanghai at Bloomberg
 
 | Field | Details |
 |-------|---------|
-| Company | [Unisys](https://scoutify.ai/companies/unisys?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Singapore, Singapore |
+| Company | [Bloomberg](https://scoutify.ai/companies/bloomberg?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
+| Location | Shanghai, Shanghai, China |
 | Category | Customer Success |
 | Posted | 2026-06-01 |
-| Apply | [View on company site](https://unisys.wd5.myworkdayjobs.com/External/job/Multi-Client-Singapore/Technical-Field-Engineer_REQ572194) |
+| Apply | [View on company site](https://bloomberg.avature.net/careers/JobDetail/Technical-Account-Manager-Research-Shanghai/19998) |
 
 ## About This Role
 
-This customer success position at Unisys was posted on 2026-06-01.
+This customer success position at Bloomberg was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

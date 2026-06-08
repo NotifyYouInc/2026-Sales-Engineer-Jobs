@@ -1,16 +1,16 @@
-# Technical Field Engineer at Unisys
+# Customer Success Engineer - Data at IBM
 
 | Field | Details |
 |-------|---------|
-| Company | [Unisys](https://scoutify.ai/companies/unisys?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Singapore, Singapore |
+| Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
+| Location | Hong Kong, Hong Kong |
 | Category | Customer Success |
 | Posted | 2026-06-01 |
-| Apply | [View on company site](https://unisys.wd5.myworkdayjobs.com/External/job/Multi-Client-Singapore/Technical-Field-Engineer_REQ572194) |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=118038) |
 
 ## About This Role
 
-This customer success position at Unisys was posted on 2026-06-01.
+This customer success position at IBM was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

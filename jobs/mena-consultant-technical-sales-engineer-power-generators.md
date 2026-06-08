@@ -1,16 +1,16 @@
-# Sales Engineer at Regal Rexnord
+# Technical Sales Engineer - Power Generators at MENA Consultant
 
 | Field | Details |
 |-------|---------|
-| Company | [Regal Rexnord](https://scoutify.ai/companies/regalrexnord?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Singapore |
+| Company | [MENA Consultant](https://scoutify.ai/companies/mena-consultant?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
+| Location | Baghdad, Baghdad, Iraq |
 | Category | Sales Engineer |
 | Posted | 2026-05-31 |
-| Apply | [View on company site](https://regalrexnord.wd1.myworkdayjobs.com/careers/job/Singapore-Toa-Payoh-North-Singapore/Sales-Engineer_R26_02640) |
+| Apply | [View on company site](https://job-boards.eu.greenhouse.io/menaconsultant/jobs/4879005101) |
 
 ## About This Role
 
-This sales engineer position at Regal Rexnord was posted on 2026-05-31.
+This sales engineer position at MENA Consultant was posted on 2026-05-31.
 
 ## Get Real-Time Alerts
 

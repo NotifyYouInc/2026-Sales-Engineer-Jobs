@@ -1,16 +1,16 @@
-# Sales Engineer at Regal Rexnord
+# Sr.Sales Engineer 2 at Moog
 
 | Field | Details |
 |-------|---------|
-| Company | [Regal Rexnord](https://scoutify.ai/companies/regalrexnord?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Singapore |
+| Company | [Moog](https://scoutify.ai/companies/moog?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
+| Location | South Korea |
 | Category | Sales Engineer |
 | Posted | 2026-05-31 |
-| Apply | [View on company site](https://regalrexnord.wd1.myworkdayjobs.com/careers/job/Singapore-Toa-Payoh-North-Singapore/Sales-Engineer_R26_02640) |
+| Apply | [View on company site](https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Icheon-SK/SrSales-Engineer-2_R-26-17796-2) |
 
 ## About This Role
 
-This sales engineer position at Regal Rexnord was posted on 2026-05-31.
+This sales engineer position at Moog was posted on 2026-05-31.
 
 ## Get Real-Time Alerts
 
