@@ -5,12 +5,12 @@
 | Company | [Eurofins Scientific](https://scoutify.ai/companies/eurofinsscientific?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | St. Louis, Missouri, United States |
 | Category | Sales Engineer |
-| Posted | 2026-05-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Eurofins/744000128802159-technical-specialist) |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Eurofins/744000129519650-technical-specialist) |
 
 ## About This Role
 
-This sales engineer position at Eurofins Scientific was posted on 2026-05-27.
+This sales engineer position at Eurofins Scientific was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

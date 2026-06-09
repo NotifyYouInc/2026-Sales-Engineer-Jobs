@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Medtronic](https://scoutify.ai/companies/medtronic?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Petaling Jaya, Selangor, Malaysia |
+| Location | Perth, Western Australia, Australia |
 | Category | Sales Engineer |
-| Posted | 2026-05-29 |
-| Apply | [View on company site](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Petaling-Jaya-Selangor-Malaysia/Clinical-Specialist--Cardiac-Rhythm-Management_R66219-1) |
+| Posted | 2026-06-02 |
+| Apply | [View on company site](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Perth-Western-Australia-Australia/Clinical-Specialist--Cardiac-Rhythm-Management_R67293-1) |
 
 ## About This Role
 
-This sales engineer position at Medtronic was posted on 2026-05-29.
+This sales engineer position at Medtronic was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 

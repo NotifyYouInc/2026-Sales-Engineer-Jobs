@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [TD Synnex](https://scoutify.ai/companies/synnex?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Mumbai, Maharashtra, India |
-| Category | Technical & Solutions Architect |
-| Posted | 2026-05-25 |
-| Apply | [View on company site](https://synnex.wd5.myworkdayjobs.com/tdsynnexcareers/job/Mumbai-India/Presales-Consultant_R45281) |
+| Category | Sales Engineer |
+| Posted | 2026-06-02 |
+| Apply | [View on company site](https://synnex.wd5.myworkdayjobs.com/tdsynnexcareers/job/Mumbai-India/Presales-Consultant--Palo-Alto_R52160) |
 
 ## About This Role
 
-This technical & solutions architect position at TD Synnex was posted on 2026-05-25.
+This sales engineer position at TD Synnex was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 

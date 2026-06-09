@@ -5,12 +5,12 @@
 | Company | [Smartsheet](https://scoutify.ai/companies/smartsheet?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | United States |
 | Category | Sales Engineer |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/smartsheet/jobs/7844319) |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/smartsheet/jobs/7975021) |
 
 ## About This Role
 
-This sales engineer position at Smartsheet was posted on 2026-04-23.
+This sales engineer position at Smartsheet was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

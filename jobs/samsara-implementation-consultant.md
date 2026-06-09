@@ -1,16 +1,16 @@
-# Implementation Consultant at Samsara
+# Implementation Consultant  at Samsara
 
 | Field | Details |
 |-------|---------|
 | Company | [Samsara](https://scoutify.ai/companies/samsara?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | United States |
+| Location | United Kingdom |
 | Category | Customer Success |
-| Posted | 2026-05-08 |
-| Apply | [View on company site](https://www.samsara.com/company/careers/roles/7866517?gh_jid=7866517) |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://www.samsara.com/company/careers/roles/7961276?gh_jid=7961276) |
 
 ## About This Role
 
-This customer success position at Samsara was posted on 2026-05-08.
+This customer success position at Samsara was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | United States |
-| Category | Business Development |
-| Posted | 2026-03-26 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=106234) |
+| Location | Armonk, New York, United States |
+| Category | Data Engineer |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=118293) |
 
 ## About This Role
 
-This business development position at IBM was posted on 2026-03-26.
+This data engineer position at IBM was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

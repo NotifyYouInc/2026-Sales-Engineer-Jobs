@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Johnson & Johnson](https://scoutify.ai/companies/johnson-johnson?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Cairo, Cairo, Egypt |
+| Location | Riyadh, Riyadh Region, Saudi Arabia |
 | Category | Account Executive |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://jj.wd5.myworkdayjobs.com/JJ/job/Cairo-Egypt/Product-Specialist-Neuroscience_R-063854) |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://jj.wd5.myworkdayjobs.com/JJ/job/Riyadh-Saudi-Arabia/Product-Specialist-Neuroscience_R-078541) |
 
 ## About This Role
 
-This account executive position at Johnson & Johnson was posted on 2026-03-13.
+This account executive position at Johnson & Johnson was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

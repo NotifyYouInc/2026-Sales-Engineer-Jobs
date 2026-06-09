@@ -5,12 +5,12 @@
 | Company | [Syngenta](https://scoutify.ai/companies/syngenta?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Sorriso, Mato Grosso, Brazil |
 | Category | Sales Engineer |
-| Posted | 2026-05-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SyngentaGroup/744000128781598-engenheiraengenheiro-desenvolvimento-tenico-de-mercado-especialista) |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SyngentaGroup/744000129544480-engenheiraengenheiro-desenvolvimento-tenico-de-mercado-especialista) |
 
 ## About This Role
 
-This sales engineer position at Syngenta was posted on 2026-05-27.
+This sales engineer position at Syngenta was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Groundworks](https://scoutify.ai/companies/groundworks?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Fenton, Michigan, United States |
+| Location | 6 locations |
 | Category | Sales Engineer |
-| Posted | 2026-05-28 |
-| Apply | [View on company site](https://groundworks.wd1.myworkdayjobs.com/groundworks/job/Fenton-MO/Sales-and-Service-Technician_JR111369) |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://groundworks.wd1.myworkdayjobs.com/groundworks/job/Moberly-MO/Sales-and-Service-Technician_JR111385) |
 
 ## About This Role
 
-This sales engineer position at Groundworks was posted on 2026-05-28.
+This sales engineer position at Groundworks was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | United States |
-| Category | Technical & Solutions Architect |
-| Posted | 2026-05-27 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=116608) |
+| Category | Sales Engineer |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=118330) |
 
 ## About This Role
 
-This technical & solutions architect position at IBM was posted on 2026-05-27.
+This sales engineer position at IBM was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

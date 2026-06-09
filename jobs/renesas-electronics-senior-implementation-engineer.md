@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Renesas Electronics](https://scoutify.ai/companies/renesaselectronics?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Munich, Bavaria, Germany |
+| Location | Karlsruhe, Baden-Wurttemberg, Germany |
 | Category | Customer Success |
-| Posted | 2026-05-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/RenesasElectronics/744000128752129-senior-implementation-engineer) |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/RenesasElectronics/744000129458169-senior-implementation-engineer) |
 
 ## About This Role
 
-This customer success position at Renesas Electronics was posted on 2026-05-27.
+This customer success position at Renesas Electronics was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

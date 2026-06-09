@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Arista Networks](https://scoutify.ai/companies/aristanetworks?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | United States |
+| Location | Shannon, Munster, Ireland |
 | Category | Customer Success |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AristaNetworks/744000110452251-technical-solutions-engineer) |
+| Posted | 2026-06-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AristaNetworks/744000129663199-technical-solutions-engineer) |
 
 ## About This Role
 
-This customer success position at Arista Networks was posted on 2026-02-20.
+This customer success position at Arista Networks was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 

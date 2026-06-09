@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Abbott](https://scoutify.ai/companies/abbott-laboratories?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Singapore, Singapore |
-| Category | Account Executive |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/Singapore/Product-Specialist_31149084) |
+| Location | Hanoi, Hanoi, Vietnam |
+| Category | Business Development |
+| Posted | 2026-06-02 |
+| Apply | [View on company site](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/Vietnam---Hanoi/Product-Specialist_31151941) |
 
 ## About This Role
 
-This account executive position at Abbott was posted on 2026-04-30.
+This business development position at Abbott was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 

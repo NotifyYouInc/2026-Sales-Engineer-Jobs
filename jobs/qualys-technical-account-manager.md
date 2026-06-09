@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Qualys](https://scoutify.ai/companies/qualys?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Texas, US |
+| Location | Bosnia and Herzegovina |
 | Category | Customer Success |
-| Posted | 2026-04-10 |
-| Apply | [View on company site](https://qualys.wd5.myworkdayjobs.com/careers/job/Arizona/Technical-Account-Manager_R0004615) |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://qualys.wd5.myworkdayjobs.com/careers/job/Bosnia-and-Herzegovina/Technical-Account-Manager_R0004712) |
 
 ## About This Role
 
-This customer success position at Qualys was posted on 2026-04-10.
+This customer success position at Qualys was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

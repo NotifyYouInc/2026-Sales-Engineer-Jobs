@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Ingram Micro](https://scoutify.ai/companies/ingram-micro?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | New Delhi, Delhi, India |
+| Location | Mumbai, Maharashtra, India |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://ingrammicro.wd5.myworkdayjobs.com/ingrammicro/job/New-Delhi-South-Delhi-India/Solutions-Architect---Presales_R-114261) |
+| Posted | 2026-06-02 |
+| Apply | [View on company site](https://ingrammicro.wd5.myworkdayjobs.com/ingrammicro/job/Mumbai-India/Solutions-Architect---Presales_R-114139) |
 
 ## About This Role
 
-This technical & solutions architect position at Ingram Micro was posted on 2026-04-15.
+This technical & solutions architect position at Ingram Micro was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 

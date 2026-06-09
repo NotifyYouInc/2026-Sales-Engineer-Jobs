@@ -1,16 +1,16 @@
-# Principal Presales, Systems Engineer at Hewlett Packard Enterprise
+# Principal Presales Systems Engineer at Hewlett Packard Enterprise
 
 | Field | Details |
 |-------|---------|
 | Company | [Hewlett Packard Enterprise](https://scoutify.ai/companies/hewlett-packard-enterprise?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Iowa, US |
+| Location | 5 locations |
 | Category | Sales Engineer |
-| Posted | 2026-03-14 |
-| Apply | [View on company site](https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/All-Iowa-United-States-of-America/Principal-Presales--Systems-Engineer_1203173) |
+| Posted | 2026-06-02 |
+| Apply | [View on company site](https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/All-California-United-States-of-America/Principal-Presales-Systems-Engineer_1205823) |
 
 ## About This Role
 
-This sales engineer position at Hewlett Packard Enterprise was posted on 2026-03-14.
+This sales engineer position at Hewlett Packard Enterprise was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Camping World](https://scoutify.ai/companies/campingworld?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Wood Village, Oregon, United States |
+| Location | Belleville, Illinois, United States |
 | Category | Customer Success |
-| Posted | 2026-05-28 |
-| Apply | [View on company site](https://campingworld.wd5.myworkdayjobs.com/Jobs/job/Wood-Village-OR/Product-Specialist-Advisor_26_05269-1) |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://campingworld.wd5.myworkdayjobs.com/Jobs/job/Belleville-MI/Product-Specialist-Advisor_26_05360) |
 
 ## About This Role
 
-This customer success position at Camping World was posted on 2026-05-28.
+This customer success position at Camping World was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

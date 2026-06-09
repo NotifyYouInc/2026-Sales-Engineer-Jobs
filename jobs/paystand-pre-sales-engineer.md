@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Paystand](https://scoutify.ai/companies/paystand?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | 2 locations |
-| Category | Technical & Solutions Architect |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://paystand.com/job-listing/?gh_jid=7742010003) |
+| Category | Sales Engineer |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://paystand.com/job-listing/?gh_jid=7760524003) |
 
 ## About This Role
 
-This technical & solutions architect position at Paystand was posted on 2026-05-22.
+This sales engineer position at Paystand was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Proofpoint](https://scoutify.ai/companies/proofpoint?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Munich, Bavaria, Germany |
 | Category | Sales Engineer |
-| Posted | 2026-05-08 |
-| Apply | [View on company site](https://proofpoint.wd5.myworkdayjobs.com/ProofpointCareers/job/Frankfurt-Germany/Sales-Engineer--Cybersecurity-Enterprise-Accounts---Germany_R14106) |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://proofpoint.wd5.myworkdayjobs.com/ProofpointCareers/job/Frankfurt-Germany/Sales-Engineer--Cybersecurity-Enterprise-Accounts---Germany_R14303) |
 
 ## About This Role
 
-This sales engineer position at Proofpoint was posted on 2026-05-08.
+This sales engineer position at Proofpoint was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

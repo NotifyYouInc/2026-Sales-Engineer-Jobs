@@ -5,12 +5,12 @@
 | Company | [Alan](https://scoutify.ai/companies/alan?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Belgium |
 | Category | Sales Engineer |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/alan/a9a6bf23-1517-4476-8051-976c79c1c435) |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/alan/b5495eff-202e-4c72-b9f1-88004f82e08e) |
 
 ## About This Role
 
-This sales engineer position at Alan was posted on 2026-05-19.
+This sales engineer position at Alan was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

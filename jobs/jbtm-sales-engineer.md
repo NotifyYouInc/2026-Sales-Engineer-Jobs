@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Jbtm](https://scoutify.ai/companies/jbtm?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Boxmeer, North Brabant, The Netherlands |
+| Location | Garðabær, Capital Region, Iceland |
 | Category | Sales Engineer |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://jbtm.wd108.myworkdayjobs.com/jbt_marel_career_site/job/NL---Boxmeer-JP/Sales-Engineer_22865) |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://jbtm.wd108.myworkdayjobs.com/jbt_marel_career_site/job/IS---Gardabaer/Sales-Engineer_22942) |
 
 ## About This Role
 
-This sales engineer position at Jbtm was posted on 2026-05-11.
+This sales engineer position at Jbtm was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

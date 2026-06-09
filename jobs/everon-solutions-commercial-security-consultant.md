@@ -5,12 +5,12 @@
 | Company | [Everon Solutions](https://scoutify.ai/companies/everon-solutions?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Not specified |
 | Category | Technology / IT Consulting |
-| Posted | 2026-05-28 |
-| Apply | [View on company site](https://everon.rec.pro.ukg.net/ADT1500ADTC/JobBoard/44f85d2d-9838-4c27-838c-c64fb8974adb/OpportunityDetail?opportunityId=f0ba2bbd-3439-4c95-bce9-42fd11c417cc) |
+| Posted | 2026-05-29 |
+| Apply | [View on company site](https://everon.rec.pro.ukg.net/ADT1500ADTC/JobBoard/44f85d2d-9838-4c27-838c-c64fb8974adb/OpportunityDetail?opportunityId=ceebb72a-4ad9-4aaa-9b1d-d6ece83c32ae) |
 
 ## About This Role
 
-This technology / it consulting position at Everon Solutions was posted on 2026-05-28.
+This technology / it consulting position at Everon Solutions was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Navan](https://scoutify.ai/companies/navan?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | New York, US |
+| Location | Austin, Texas, United States |
 | Category | Customer Success |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://navan.com/careers/openings?gh_jid=7821358) |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://navan.com/careers/openings?gh_jid=7974949) |
 
 ## About This Role
 
-This customer success position at Navan was posted on 2026-04-17.
+This customer success position at Navan was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 
