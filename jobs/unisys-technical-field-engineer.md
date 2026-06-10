@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Unisys](https://scoutify.ai/companies/unisys?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Singapore, Singapore |
+| Location | Brisbane, Queensland, Australia |
 | Category | Customer Success |
-| Posted | 2026-06-01 |
-| Apply | [View on company site](https://unisys.wd5.myworkdayjobs.com/External/job/Multi-Client-Singapore/Technical-Field-Engineer_REQ572194) |
+| Posted | 2026-06-02 |
+| Apply | [View on company site](https://unisys.wd5.myworkdayjobs.com/External/job/Brisbane-QLD-Australia/Technical-Field-Engineer_REQ573465) |
 
 ## About This Role
 
-This customer success position at Unisys was posted on 2026-06-01.
+This customer success position at Unisys was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 

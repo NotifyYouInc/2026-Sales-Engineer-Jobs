@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Intuitive Surgical](https://scoutify.ai/companies/intuitivesurgical?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Erfurt, Thuringia, Germany |
+| Location | Leipzig, Saxony, Germany |
 | Category | Sales Engineer |
-| Posted | 2026-05-28 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Intuitive/744000128933637-da-vinci-clinical-territory-associate-mwd) |
+| Posted | 2026-06-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Intuitive/744000129692629-da-vinci-clinical-territory-associate-mwd) |
 
 ## About This Role
 
-This sales engineer position at Intuitive Surgical was posted on 2026-05-28.
+This sales engineer position at Intuitive Surgical was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 

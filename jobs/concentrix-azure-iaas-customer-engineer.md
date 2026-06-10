@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Concentrix](https://scoutify.ai/companies/concentrix?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Spain |
-| Category | Customer Success |
-| Posted | 2026-03-30 |
-| Apply | [View on company site](https://cnx.wd1.myworkdayjobs.com/external_global/job/ESP-Work-at-Home/Azure-IaaS-Customer-Engineer_R1716186) |
+| Location | United Kingdom |
+| Category | Technology / IT Consulting |
+| Posted | 2026-06-02 |
+| Apply | [View on company site](https://cnx.wd1.myworkdayjobs.com/external_global/job/UK-Work-at-Home-GB/Azure-IaaS-Customer-Engineer_R1717092) |
 
 ## About This Role
 
-This customer success position at Concentrix was posted on 2026-03-30.
+This technology / it consulting position at Concentrix was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 

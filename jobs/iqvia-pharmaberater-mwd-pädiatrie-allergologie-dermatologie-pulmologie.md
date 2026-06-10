@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [IQVIA](https://scoutify.ai/companies/iqvia?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Frankfurt am Main, Hesse, Germany |
+| Location | 4 locations |
 | Category | Sales Engineer |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Frankfurt-am-Main-Hesse-Germany/Pharmaberater-m-w-d-Pdiatrie--Allergologie--Dermatologie--Pulmologie_R1537701) |
+| Posted | 2026-06-02 |
+| Apply | [View on company site](https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Frankfurt-am-Main-Hesse-Germany/Pharmaberater-m-w-d-Pdiatrie--Allergologie--Dermatologie--Pulmologie_R1547519) |
 
 ## About This Role
 
-This sales engineer position at IQVIA was posted on 2026-04-15.
+This sales engineer position at IQVIA was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 

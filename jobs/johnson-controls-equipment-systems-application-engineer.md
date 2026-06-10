@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Johnson Controls](https://scoutify.ai/companies/jci?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | High Point, North Carolina, United States |
+| Location | Austin, Texas, United States |
 | Category | Software Engineer |
-| Posted | 2026-05-08 |
-| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/High-Point-North-Carolina-United-States-of-America/Equipment-Systems-Application-Engineer_WD30266578-1) |
+| Posted | 2026-06-02 |
+| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Austin-Texas-United-States-of-America/Equipment-Systems-Application-Engineer_WD30271146) |
 
 ## About This Role
 
-This software engineer position at Johnson Controls was posted on 2026-05-08.
+This software engineer position at Johnson Controls was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Arista Networks](https://scoutify.ai/companies/aristanetworks?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Chicago, Illinois, United States |
-| Category | Technical Writer |
-| Posted | 2026-03-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AristaNetworks/744000115077890-network-systems-engineer-pre-sales-trading-platforms) |
+| Category | Sales Engineer |
+| Posted | 2026-06-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AristaNetworks/744000129853517-network-systems-engineer-pre-sales-trading-platforms) |
 
 ## About This Role
 
-This technical writer position at Arista Networks was posted on 2026-03-16.
+This sales engineer position at Arista Networks was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 

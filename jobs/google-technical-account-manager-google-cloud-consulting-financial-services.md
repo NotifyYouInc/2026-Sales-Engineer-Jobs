@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | 3 locations |
+| Location | New York City, New York, United States |
 | Category | Customer Success |
-| Posted | 2026-05-12 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckTpAZG7UqH_44IgaTVxAS9XZYpF65OJC8oTrrU_rHr-VEjsACxwdTK2oEpzBW5xC9e7Ac4J2R70lJIAvAY0EGeF65Cw4ZV9qDDt8l39NL5Z5OQZRZ9o9WmT73B0tJg%3D%3D_V2&loc=US&title=Technical+Account+Manager) |
+| Posted | 2026-06-02 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckXgaBTHx65dE9aX30X7lNVQykJpx2XhsgS6_dgUv7Aj8EjsACxwdTP5OifW5IbUkQznQxleI2bPcRlh26RrEAW69uy1UDXbt12KkIkdmopmv6Ps67K3WUv6MHlfSKg%3D%3D_V2&loc=US&title=Technical+Account+Manager) |
 
 ## About This Role
 
-This customer success position at Google was posted on 2026-05-12.
+This customer success position at Google was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 

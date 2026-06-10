@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cognex](https://scoutify.ai/companies/cognex?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | China |
+| Location | Beijing, Beijing, China |
 | Category | Sales Engineer |
-| Posted | 2026-05-25 |
-| Apply | [View on company site](https://cognex.wd1.myworkdayjobs.com/External_Career_Site/job/Wai-Gao-Qiao-China/Account-Sales-Engineer_R0011994) |
+| Posted | 2026-06-03 |
+| Apply | [View on company site](https://cognex.wd1.myworkdayjobs.com/External_Career_Site/job/Beijing-China/Account-Sales-Engineer_R0012058) |
 
 ## About This Role
 
-This sales engineer position at Cognex was posted on 2026-05-25.
+This sales engineer position at Cognex was posted on 2026-06-03.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Exclusivenetworks](https://scoutify.ai/companies/exclusivenetworks?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Thailand |
-| Category | Sales |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://exclusivenetworks.wd103.myworkdayjobs.com/exclusive-networks-career/job/Remote-Thailand/Solutions-Consultant---Pre-Sales_JR1373-2) |
+| Location | Bangkok, Bangkok, Thailand |
+| Category | Implementation / Professional Services |
+| Posted | 2026-06-02 |
+| Apply | [View on company site](https://exclusivenetworks.wd103.myworkdayjobs.com/exclusive-networks-career/job/Bangkok/Solutions-Consultant---Pre-Sales_JR2026-1) |
 
 ## About This Role
 
-This sales position at Exclusivenetworks was posted on 2026-02-05.
+This implementation / professional services position at Exclusivenetworks was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 

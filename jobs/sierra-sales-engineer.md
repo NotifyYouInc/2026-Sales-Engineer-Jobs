@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sierra](https://scoutify.ai/companies/sierra?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Munich, Bavaria, Germany |
+| Location | London, England, United Kingdom |
 | Category | Sales Engineer |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/sierra/b90d210e-c622-46c1-a0c3-d3ef3b3696dd) |
+| Posted | 2026-06-02 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/sierra/ba9ca2da-c0c3-4673-b496-f820223c77c1) |
 
 ## About This Role
 
-This sales engineer position at Sierra was posted on 2026-05-19.
+This sales engineer position at Sierra was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 

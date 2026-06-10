@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [MongoDB](https://scoutify.ai/companies/mongodb?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Dubai, Dubai, United Arab Emirates |
+| Location | Sydney, New South Wales, Australia |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://www.mongodb.com/careers/job/?gh_jid=7946420) |
+| Posted | 2026-06-02 |
+| Apply | [View on company site](https://www.mongodb.com/careers/job/?gh_jid=7976421) |
 
 ## About This Role
 
-This technical & solutions architect position at MongoDB was posted on 2026-05-22.
+This technical & solutions architect position at MongoDB was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 

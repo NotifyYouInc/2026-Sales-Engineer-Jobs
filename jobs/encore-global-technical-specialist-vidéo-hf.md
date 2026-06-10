@@ -1,0 +1,22 @@
+# Technical Specialist Vidéo (H/F) at ENCORE GLOBAL
+
+| Field | Details |
+|-------|---------|
+| Company | [ENCORE GLOBAL](https://scoutify.ai/companies/encore-global?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
+| Location | Gennevilliers, Île-de-France, France |
+| Category | Customer Success |
+| Posted | 2026-06-02 |
+| Apply | [View on company site](https://recruiting2.ultipro.com/aud1001audv/JobBoard/b1e2129f-5d09-48e8-b7ff-4e900458d8a9/OpportunityDetail?opportunityId=1868e026-e7ab-48c0-b359-7b9dcc7b4ddf) |
+
+## About This Role
+
+This customer success position at ENCORE GLOBAL was posted on 2026-06-02.
+
+## Get Real-Time Alerts
+
+This job was posted 7+ days ago. For instant alerts on new jobs like this:
+
+**[Get Instant Job Alerts on Scoutify](https://scoutify.ai?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs)** - Be first to apply at 8,800+ companies.
+
+---
+*Data sourced from [Scoutify](https://scoutify.ai) | Updated daily*

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Arrow Electronics](https://scoutify.ai/companies/arrow-electronics?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | 2 locations |
+| Location | Oregon, Ohio, United States |
 | Category | Software Engineer |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://arrow.wd1.myworkdayjobs.com/ac/job/NZ-Auckland-New-Zealand-Remote/Field-Applications-Engineer_R241151) |
+| Posted | 2026-06-02 |
+| Apply | [View on company site](https://arrow.wd1.myworkdayjobs.com/ac/job/US-OR-Oregon-Remote-Employees/Field-Applications-Engineer_R244505) |
 
 ## About This Role
 
-This software engineer position at Arrow Electronics was posted on 2026-05-13.
+This software engineer position at Arrow Electronics was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 

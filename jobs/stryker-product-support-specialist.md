@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Stryker](https://scoutify.ai/companies/stryker?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Newbury, England, United Kingdom |
+| Location | Glasgow, Scotland, United Kingdom |
 | Category | Customer Success |
-| Posted | 2026-05-27 |
-| Apply | [View on company site](https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Newbury-United-Kingdom/Product-Support-Specialist_R562476-1) |
+| Posted | 2026-06-02 |
+| Apply | [View on company site](https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Glasgow-Scotland/Product-Support-Specialist_R566774) |
 
 ## About This Role
 
-This customer success position at Stryker was posted on 2026-05-27.
+This customer success position at Stryker was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 

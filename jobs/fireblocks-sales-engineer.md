@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Fireblocks](https://scoutify.ai/companies/fireblocks?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Hong Kong, Hong Kong |
+| Location | United Kingdom |
 | Category | Sales Engineer |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://www.fireblocks.com/careers/position/4606870006?gh_jid=4606870006) |
+| Posted | 2026-06-02 |
+| Apply | [View on company site](https://www.fireblocks.com/careers/position/4683940006?gh_jid=4683940006) |
 
 ## About This Role
 
-This sales engineer position at Fireblocks was posted on 2026-04-14.
+This sales engineer position at Fireblocks was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 

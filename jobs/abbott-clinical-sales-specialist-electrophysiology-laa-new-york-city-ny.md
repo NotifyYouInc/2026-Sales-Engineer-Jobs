@@ -5,12 +5,12 @@
 | Company | [Abbott](https://scoutify.ai/companies/abbott-laboratories?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | New York City, New York, United States |
 | Category | Account Executive |
-| Posted | 2026-04-28 |
-| Apply | [View on company site](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---New-York---New-York/Clinical-Sales-Specialist--Electrophysiology---LAA--New-York-City--NY-_31148990-1) |
+| Posted | 2026-06-02 |
+| Apply | [View on company site](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---New-York---New-York/Clinical-Sales-Specialist--Electrophysiology---LAA--New-York-City--NY-_31152225-1) |
 
 ## About This Role
 
-This account executive position at Abbott was posted on 2026-04-28.
+This account executive position at Abbott was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 

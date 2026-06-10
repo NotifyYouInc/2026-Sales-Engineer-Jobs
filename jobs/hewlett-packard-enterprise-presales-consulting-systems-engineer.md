@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Hewlett Packard Enterprise](https://scoutify.ai/companies/hewlett-packard-enterprise?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Mississippi, US |
+| Location | Georgia, US |
 | Category | Sales Engineer |
-| Posted | 2026-03-19 |
-| Apply | [View on company site](https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/All-Mississippi-United-States-of-America/PreSales-Consulting-Systems-Engineer_1198507-3) |
+| Posted | 2026-06-02 |
+| Apply | [View on company site](https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/All-Georgia-United-States-of-America/PreSales-Consulting-Systems-Engineer_1205165-1) |
 
 ## About This Role
 
-This sales engineer position at Hewlett Packard Enterprise was posted on 2026-03-19.
+This sales engineer position at Hewlett Packard Enterprise was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Sales Specialist at LGC
+# Sales Specialist  at LGC
 
 | Field | Details |
 |-------|---------|
 | Company | [LGC](https://scoutify.ai/companies/lgc?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Bury, England, United Kingdom |
-| Category | Sales |
-| Posted | 2026-02-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/LGCGroup/744000107276620-sales-specialist) |
+| Location | Seattle, Washington, United States |
+| Category | Account Executive |
+| Posted | 2026-06-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/LGCGroup/744000129811010-sales-specialist) |
 
 ## About This Role
 
-This sales position at LGC was posted on 2026-02-04.
+This account executive position at LGC was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Singapore, Singapore |
 | Category | Sales Engineer |
-| Posted | 2026-04-27 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckbwXcAYOpORGg-eA50XzeK-W45T-Lw65UfP9LBTx1BKxEjsACxwdTBduUnz3f2mQ2ApLlFU8_P9wR5UBRvD3-W8ZP8m6cZgEp9rFifGM1PIzUp03c_Qq4JW0p-6MDg%3D%3D_V2&loc=SG&title=Senior+Customer+Engineer) |
+| Posted | 2026-06-02 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckXkuj2bp-Xk-QRrPtNYUBUKpxMzq5TCDFTziqBCVxN-HEjsACxwdTMuZDtg32k3NNbcRQ9lK-v3obeuzJL-bD2XB5VC0BKJr-i8lu1vPUKCyOa7x2R6xrclxkeC9Uw%3D%3D_V2&loc=SG&title=Senior+Customer+Engineer) |
 
 ## About This Role
 
-This sales engineer position at Google was posted on 2026-04-27.
+This sales engineer position at Google was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 

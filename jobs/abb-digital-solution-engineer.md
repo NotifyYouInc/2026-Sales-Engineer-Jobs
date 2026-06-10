@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ABB](https://scoutify.ai/companies/abb?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Tokyo, Tokyo, Japan |
-| Category | Customer Success |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Tokyo-Tokyo-Japan/Digital-Solution-Engineer_JR00035485-2) |
+| Location | Nashik, Maharashtra, India |
+| Category | Software Engineer |
+| Posted | 2026-06-02 |
+| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Nashik-Maharashtra-India/Digital-Solution-Engineer_JR00031907) |
 
 ## About This Role
 
-This customer success position at ABB was posted on 2026-05-22.
+This software engineer position at ABB was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 

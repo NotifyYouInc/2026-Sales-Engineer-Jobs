@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Johnson Controls](https://scoutify.ai/companies/jci?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Doraville, Georgia, United States |
+| Location | Jacksonville, Florida, United States |
 | Category | Account Executive |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Doraville-Georgia-United-States-of-America/Fire-Sprinkler-Systems-Sales-Representative_WD30266917) |
+| Posted | 2026-06-02 |
+| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Jacksonville-FL-Branch/Fire-Sprinkler-Systems-Sales-Representative_WD30270958) |
 
 ## About This Role
 
-This account executive position at Johnson Controls was posted on 2026-04-29.
+This account executive position at Johnson Controls was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Bangkok, Bangkok, Thailand |
+| Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
 | Category | Electrical / Hardware Engineer |
-| Posted | 2026-05-12 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10416678/electrical-field-engineer-field-engineering) |
+| Posted | 2026-06-02 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10436719/electrical-field-engineer-field-engineering) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Amazon was posted on 2026-05-12.
+This electrical / hardware engineer position at Amazon was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 

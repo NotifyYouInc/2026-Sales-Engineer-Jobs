@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Groundworks](https://scoutify.ai/companies/groundworks?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | West Virginia, US |
+| Location | Columbia, South Carolina, United States |
 | Category | Sales Engineer |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://groundworks.wd1.myworkdayjobs.com/groundworks/job/Scott-Depot-WV/Sales---Service-Technician_JR111297) |
+| Posted | 2026-06-02 |
+| Apply | [View on company site](https://groundworks.wd1.myworkdayjobs.com/groundworks/job/Columbia-SC-Branch/Sales---Service-Technician_JR110404) |
 
 ## About This Role
 
-This sales engineer position at Groundworks was posted on 2026-05-19.
+This sales engineer position at Groundworks was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 

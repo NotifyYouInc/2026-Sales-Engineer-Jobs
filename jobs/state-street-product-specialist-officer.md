@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [State Street](https://scoutify.ai/companies/statestreet?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Singapore, Singapore |
-| Category | Customer Success |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Singapore-Singapore/Product-Specialist--Officer_R-779635-1) |
+| Location | Burlington, North Carolina, United States |
+| Category | Corporate Finance |
+| Posted | 2026-06-02 |
+| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Burlington-Massachusetts/Product-Specialist--Officer_R-791571) |
 
 ## About This Role
 
-This customer success position at State Street was posted on 2026-04-24.
+This corporate finance position at State Street was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 
