@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Cadence Design Systems](https://scoutify.ai/companies/cadence-design-systems?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | 2 locations |
-| Category | Software Engineer |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/AUSTIN/Sr-Application-Engineer_R54352) |
+| Category | Semiconductor / Chip Design |
+| Posted | 2026-06-03 |
+| Apply | [View on company site](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/SAN-JOSE/Sr-Application-Engineer_R55010) |
 
 ## About This Role
 
-This software engineer position at Cadence Design Systems was posted on 2026-04-22.
+This semiconductor / chip design position at Cadence Design Systems was posted on 2026-06-03.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Adobe](https://scoutify.ai/companies/adobe-inc?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Amsterdam, North Holland, The Netherlands |
+| Location | 4 locations |
 | Category | Customer Success |
-| Posted | 2026-05-27 |
-| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Amsterdam/Technical-Account-Manager_R169125) |
+| Posted | 2026-06-03 |
+| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Chicago/Technical-Account-Manager_R169360) |
 
 ## About This Role
 
-This customer success position at Adobe was posted on 2026-05-27.
+This customer success position at Adobe was posted on 2026-06-03.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cohesity](https://scoutify.ai/companies/cohesity?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Mumbai, Maharashtra, India |
-| Category | Technical & Solutions Architect |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://cohesity.wd5.myworkdayjobs.com/Cohesity_Careers/job/Mumbai---India-Office/Principal-Sales-Engineer_R03244) |
+| Location | Seoul, Seoul, South Korea |
+| Category | Sales Engineer |
+| Posted | 2026-06-03 |
+| Apply | [View on company site](https://cohesity.wd5.myworkdayjobs.com/Cohesity_Careers/job/Seoul---Korea-Republic-of-Office/Principal-Sales-Engineer_R03597) |
 
 ## About This Role
 
-This technical & solutions architect position at Cohesity was posted on 2026-04-22.
+This sales engineer position at Cohesity was posted on 2026-06-03.
 
 ## Get Real-Time Alerts
 

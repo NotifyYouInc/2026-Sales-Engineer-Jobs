@@ -1,16 +1,16 @@
-# TECHNICAL SALES EXECUTIVE at SGS
+# Technical Sales Executive at SGS
 
 | Field | Details |
 |-------|---------|
 | Company | [SGS](https://scoutify.ai/companies/sgs?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Malaysia |
 | Category | Sales Engineer |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SGS/744000127641397-technical-sales-executive) |
+| Posted | 2026-06-04 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SGS/744000130127629-technical-sales-executive) |
 
 ## About This Role
 
-This sales engineer position at SGS was posted on 2026-05-21.
+This sales engineer position at SGS was posted on 2026-06-04.
 
 ## Get Real-Time Alerts
 

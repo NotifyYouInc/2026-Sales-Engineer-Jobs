@@ -5,12 +5,12 @@
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Singapore, Singapore |
 | Category | Customer Success |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckTj6M7w6vdOc01yz_XtjUwoj5NwF-WdRGOgKgmjZCtXxEjsACxwdTL7HnyrvXyps6NAjebDtNUl50PVnFSxe4EndqaWyyHs1tajX6IHQ9xQXrzKOKITbi2JjiQgDag%3D%3D_V2&loc=SG&title=Customer+Solutions+Engineer) |
+| Posted | 2026-06-03 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckQtacyXLEOtuJmrmj14rcjKDBPAoqjW3YMHwMKrSgL_xEjsACxwdTDJIKYIKfm4FMfqYuu2MvZLYGmQ08Tyo84ULdJA8UX2r50QANmc3SPuUz6EgP3HtjM0JhpcJ0A%3D%3D_V2&loc=SG&title=Customer+Solutions+Engineer) |
 
 ## About This Role
 
-This customer success position at Google was posted on 2026-04-16.
+This customer success position at Google was posted on 2026-06-03.
 
 ## Get Real-Time Alerts
 

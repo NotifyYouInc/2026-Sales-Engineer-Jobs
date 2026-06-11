@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Adobe](https://scoutify.ai/companies/adobe-inc?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | 2 locations |
+| Location | Chicago, Illinois, United States |
 | Category | Customer Success |
-| Posted | 2026-05-28 |
-| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Lehi/Senior-Technical-Account-Manager_R169150) |
+| Posted | 2026-06-03 |
+| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Chicago/Senior-Technical-Account-Manager_R169313) |
 
 ## About This Role
 
-This customer success position at Adobe was posted on 2026-05-28.
+This customer success position at Adobe was posted on 2026-06-03.
 
 ## Get Real-Time Alerts
 

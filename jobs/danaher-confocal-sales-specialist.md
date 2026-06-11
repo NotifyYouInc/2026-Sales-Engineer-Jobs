@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Danaher](https://scoutify.ai/companies/danaher?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Boston, Massachusetts, United States |
+| Location | San Francisco, California, United States |
 | Category | Account Executive |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://danaher.wd1.myworkdayjobs.com/DanaherJobs/job/Boston-Massachusetts-United-States/Confocal-Sales-Specialist_R1309205-1) |
+| Posted | 2026-06-03 |
+| Apply | [View on company site](https://danaher.wd1.myworkdayjobs.com/DanaherJobs/job/San-Francisco-California-United-States/Confocal-Sales-Specialist_R1312245) |
 
 ## About This Role
 
-This account executive position at Danaher was posted on 2026-04-16.
+This account executive position at Danaher was posted on 2026-06-03.
 
 ## Get Real-Time Alerts
 

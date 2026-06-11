@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [SHI International](https://scoutify.ai/companies/shi-international?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Austin, Texas, United States |
-| Category | Technical & Solutions Architect |
-| Posted | 2026-06-01 |
-| Apply | [View on company site](https://shi.wd12.myworkdayjobs.com/shicareers/job/US---TX---Home-Office/Presales-Solutions-Engineer---Security_JR3141-1) |
+| Category | Security Engineer |
+| Posted | 2026-06-03 |
+| Apply | [View on company site](https://shi.wd12.myworkdayjobs.com/shicareers/job/US---TX---Home-Office/Presales-Solutions-Engineer---Security_JR3168) |
 
 ## About This Role
 
-This technical & solutions architect position at SHI International was posted on 2026-06-01.
+This security engineer position at SHI International was posted on 2026-06-03.
 
 ## Get Real-Time Alerts
 

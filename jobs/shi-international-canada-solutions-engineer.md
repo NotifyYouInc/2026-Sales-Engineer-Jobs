@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [SHI International](https://scoutify.ai/companies/shi-international?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Toronto, Ontario, Canada |
+| Location | Quebec, CA |
 | Category | Sales Engineer |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://shi.wd12.myworkdayjobs.com/shicareers/job/Toronto-ON-Canada/Canada-Solutions-Engineer_JR2680-1) |
+| Posted | 2026-06-03 |
+| Apply | [View on company site](https://shi.wd12.myworkdayjobs.com/shicareers/job/CA---QC---Home-Office/Canada-Solutions-Engineer_JR3171) |
 
 ## About This Role
 
-This sales engineer position at SHI International was posted on 2026-03-03.
+This sales engineer position at SHI International was posted on 2026-06-03.
 
 ## Get Real-Time Alerts
 

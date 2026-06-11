@@ -1,16 +1,16 @@
-# Product Specialist (Pharma) at Abbott
+# Product Specialist - Pharma at Abbott
 
 | Field | Details |
 |-------|---------|
 | Company | [Abbott](https://scoutify.ai/companies/abbott-laboratories?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Bangkok, Bangkok, Thailand |
-| Category | Business Development |
-| Posted | 2026-05-15 |
-| Apply | [View on company site](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/Thailand---Bangkok/Product-Specialist--Pharma-_31150602) |
+| Category | Marketing |
+| Posted | 2026-06-04 |
+| Apply | [View on company site](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/Thailand---Bangkok/Product-Specialist---Pharma_31150740-1) |
 
 ## About This Role
 
-This business development position at Abbott was posted on 2026-05-15.
+This marketing position at Abbott was posted on 2026-06-04.
 
 ## Get Real-Time Alerts
 

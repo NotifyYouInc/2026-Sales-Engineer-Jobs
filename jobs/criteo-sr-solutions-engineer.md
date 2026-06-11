@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Criteo](https://scoutify.ai/companies/criteo?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | New York City, New York, United States |
-| Category | Technical Writer |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://criteo.wd3.myworkdayjobs.com/criteo_career_site/job/New-York/Sr-Solutions-Engineer_r20393) |
+| Location | 2 locations |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-06-03 |
+| Apply | [View on company site](https://criteo.wd3.myworkdayjobs.com/criteo_career_site/job/New-York/Staff-Solutions-Engineer_r20709) |
 
 ## About This Role
 
-This technical writer position at Criteo was posted on 2026-03-06.
+This technical & solutions architect position at Criteo was posted on 2026-06-03.
 
 ## Get Real-Time Alerts
 

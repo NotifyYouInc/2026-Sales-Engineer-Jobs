@@ -1,16 +1,16 @@
-# CUSTOMER CARE EXECUTIVE (Assistant Sales Engineer) at SGS
+# Customer Care Executive (Assistant Sales Engineer) at SGS
 
 | Field | Details |
 |-------|---------|
 | Company | [SGS](https://scoutify.ai/companies/sgs?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Teluk Panglima Garang, Selangor, Malaysia |
+| Location | Malaysia |
 | Category | Customer Success |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SGS/744000127797139-customer-care-executive-assistant-sales-engineer) |
+| Posted | 2026-06-04 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SGS/744000130133223-customer-care-executive-assistant-sales-engineer) |
 
 ## About This Role
 
-This customer success position at SGS was posted on 2026-05-22.
+This customer success position at SGS was posted on 2026-06-04.
 
 ## Get Real-Time Alerts
 

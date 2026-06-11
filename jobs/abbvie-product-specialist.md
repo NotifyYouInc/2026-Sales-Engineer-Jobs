@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Makati City, National Capital Region, Philippines |
-| Category | Business Development |
-| Posted | 2026-05-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990013083026-product-specialist) |
+| Location | Bratislava, Bratislava Region, Slovakia |
+| Category | Account Executive |
+| Posted | 2026-06-03 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990013443196-product-specialist) |
 
 ## About This Role
 
-This business development position at AbbVie was posted on 2026-05-12.
+This account executive position at AbbVie was posted on 2026-06-03.
 
 ## Get Real-Time Alerts
 

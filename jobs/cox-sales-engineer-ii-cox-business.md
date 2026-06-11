@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cox](https://scoutify.ai/companies/cox?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Springfield, Missouri, United States |
+| Location | 2 locations |
 | Category | Sales Engineer |
-| Posted | 2026-03-23 |
-| Apply | [View on company site](https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Springfield-VA/Sales-Engineer-II--Cox-Business-_R202674885) |
+| Posted | 2026-06-03 |
+| Apply | [View on company site](https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Metairie-LA/Sales-Engineer-II--Cox-Business-_R202678226) |
 
 ## About This Role
 
-This sales engineer position at Cox was posted on 2026-03-23.
+This sales engineer position at Cox was posted on 2026-06-03.
 
 ## Get Real-Time Alerts
 

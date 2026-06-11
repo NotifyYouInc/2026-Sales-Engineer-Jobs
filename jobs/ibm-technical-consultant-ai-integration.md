@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | India |
-| Category | AI / LLM Engineer |
-| Posted | 2026-06-02 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=118202) |
+| Category | AI / ML Research |
+| Posted | 2026-06-03 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=118199) |
 
 ## About This Role
 
-This ai / llm engineer position at IBM was posted on 2026-06-02.
+This ai / ml research position at IBM was posted on 2026-06-03.
 
 ## Get Real-Time Alerts
 

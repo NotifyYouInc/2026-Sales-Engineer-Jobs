@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Vietnam |
-| Category | Implementation / Professional Services |
+| Location | Taguig, National Capital Region, Philippines |
+| Category | Customer Success |
 | Posted | 2026-06-02 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckZ1S5u36Ir_3HUOixYoOjoG1RkgDs8Z66YHK1N2YVq9LEjsACxwdTOFn8jrAhqxAb1njceITicK48NlUzgRoGuEnyY2aDU5LsZoK28CSJukasph3bxynCEa3WFPt7w%3D%3D_V2&loc=VN&title=Customer+Solutions+Consultant) |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckW8i0EFMjIGL7ryB5NQye9TkHHmKoTP9ZYamE7TX7xc7EjsACxwdTBdMnSKnCD1ZqFhjM2Qb2Y33ZfKJUmfswMJ1eSFU5xQ_PGdbsx9fyYOP8Zn33zSpRm7SnVoYdw%3D%3D_V2&loc=PH&title=Customer+Solutions+Consultant) |
 
 ## About This Role
 
-This implementation / professional services position at Google was posted on 2026-06-02.
+This customer success position at Google was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 

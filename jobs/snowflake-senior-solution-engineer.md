@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Snowflake](https://scoutify.ai/companies/snowflake?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Texas, US |
-| Category | Technical & Solutions Architect |
-| Posted | 2026-06-01 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/snowflake/e9269d2e-f5c1-48e1-bfbb-1214ef18e318) |
+| Location | Minnesota, US |
+| Category | Sales Engineer |
+| Posted | 2026-06-03 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/snowflake/3dbc6708-52dc-4b8d-b37f-6a8d81463b12) |
 
 ## About This Role
 
-This technical & solutions architect position at Snowflake was posted on 2026-06-01.
+This sales engineer position at Snowflake was posted on 2026-06-03.
 
 ## Get Real-Time Alerts
 
