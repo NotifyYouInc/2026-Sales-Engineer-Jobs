@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Salesforce](https://scoutify.ai/companies/salesforce?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Dublin, Leinster, Ireland |
+| Location | Lisbon, Lisbon, Portugal |
 | Category | Sales Engineer |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Ireland---Dublin/Account-Solution-Engineer-7_JR334587-1) |
+| Posted | 2026-06-04 |
+| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Portugal---Lisbon/Account-Solution-Engineer-7_JR344890-1) |
 
 ## About This Role
 
-This sales engineer position at Salesforce was posted on 2026-03-25.
+This sales engineer position at Salesforce was posted on 2026-06-04.
 
 ## Get Real-Time Alerts
 

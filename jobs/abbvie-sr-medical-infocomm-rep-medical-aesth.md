@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Taiyuan, Shanxi, China |
+| Location | Jinhua, Zhejiang, China |
 | Category | Account Executive |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990013244757-sr-medical-infocomm-rep-medical-aesth) |
+| Posted | 2026-06-05 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990013484246-sr-medical-infocomm-rep-medical-aesth) |
 
 ## About This Role
 
-This account executive position at AbbVie was posted on 2026-05-21.
+This account executive position at AbbVie was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 

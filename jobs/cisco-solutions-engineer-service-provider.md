@@ -1,16 +1,16 @@
-# Solutions Engineer - Service Provider at Cisco
+# Solutions Engineer (Service Provider) at Cisco
 
 | Field | Details |
 |-------|---------|
 | Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | 2 locations |
+| Location | Minato, Wakayama, Japan |
 | Category | Sales Engineer |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Seattle-Washington-US/Solutions-Engineer---Service-Provider_2014660) |
+| Posted | 2026-06-04 |
+| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Minato-Japan/Solutions-Engineer--Service-Provider-_2014991-1) |
 
 ## About This Role
 
-This sales engineer position at Cisco was posted on 2026-05-19.
+This sales engineer position at Cisco was posted on 2026-06-04.
 
 ## Get Real-Time Alerts
 

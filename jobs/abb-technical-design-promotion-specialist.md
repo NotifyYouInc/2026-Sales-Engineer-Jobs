@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ABB](https://scoutify.ai/companies/abb?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Ho Chi Minh City, Ho Chi Minh City (HCMC), Vietnam |
+| Location | Beijing, Beijing, China |
 | Category | Sales Engineer |
-| Posted | 2026-05-28 |
-| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Ho-Chi-Minh-City-TP-Ho-Chi-Minh-Vietnam/Technical---Design-Promotion-Specialist_JR00035846-1) |
+| Posted | 2026-06-04 |
+| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Beijing-Beijing-China/Technical---Design-Promotion-Specialist_JR00037236-1) |
 
 ## About This Role
 
-This sales engineer position at ABB was posted on 2026-05-28.
+This sales engineer position at ABB was posted on 2026-06-04.
 
 ## Get Real-Time Alerts
 

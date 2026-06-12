@@ -5,12 +5,12 @@
 | Company | [Vantage](https://scoutify.ai/companies/vantage?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | United States |
 | Category | Sales Engineer |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/vantage/22f03897-a908-413c-9529-7aaa8efe471d) |
+| Posted | 2026-06-04 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/vantage/312c5873-f635-4446-991e-870beb482056) |
 
 ## About This Role
 
-This sales engineer position at Vantage was posted on 2026-03-04.
+This sales engineer position at Vantage was posted on 2026-06-04.
 
 ## Get Real-Time Alerts
 

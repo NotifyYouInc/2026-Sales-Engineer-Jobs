@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Intuitive Surgical](https://scoutify.ai/companies/intuitivesurgical?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Lansing, Michigan, United States |
+| Location | Wichita, Kansas, United States |
 | Category | Account Executive |
-| Posted | 2026-06-01 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Intuitive/744000129535646-clinical-sales-representative) |
+| Posted | 2026-06-04 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Intuitive/744000130267729-clinical-sales-representative) |
 
 ## About This Role
 
-This account executive position at Intuitive Surgical was posted on 2026-06-01.
+This account executive position at Intuitive Surgical was posted on 2026-06-04.
 
 ## Get Real-Time Alerts
 

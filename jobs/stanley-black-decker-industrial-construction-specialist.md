@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Stanley Black & Decker](https://scoutify.ai/companies/sbdinc?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Toronto, Ontario, Canada |
+| Location | Montréal, Quebec, Canada |
 | Category | Sales Engineer |
-| Posted | 2026-04-06 |
-| Apply | [View on company site](https://sbdinc.wd1.myworkdayjobs.com/Stanley_Black_Decker_Career_Site/job/Toronto-Ontario-Canada/Industrial-Construction-Specialist_REQ-1000047298) |
+| Posted | 2026-06-05 |
+| Apply | [View on company site](https://sbdinc.wd1.myworkdayjobs.com/Stanley_Black_Decker_Career_Site/job/Montreal-Quebec-Canada/Industrial-Construction-Specialist_REQ-1000048131-1) |
 
 ## About This Role
 
-This sales engineer position at Stanley Black & Decker was posted on 2026-04-06.
+This sales engineer position at Stanley Black & Decker was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Buenos Aires, Buenos Aires F.D., Argentina |
 | Category | Implementation / Professional Services |
-| Posted | 2026-03-26 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/jobs/results/81677585758462662-vendor-solutions-consultant-google-cloud?sort_by=date&page=1) |
+| Posted | 2026-06-04 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckSSZiCjL3ke_60iCE7AsxCnRRd9Xmuw_nPu9tHXyEqy1EjsACxwdTJdfhjYb_pRlo2QEDti4RfkrXT16LrTyV1HLO1KBDSI7NsZbRchkBxUbQWxbyP3Zk5Y4Ueogvg%3D%3D_V2&loc=AR&title=Vendor+Solutions+Consultant) |
 
 ## About This Role
 
-This implementation / professional services position at Google was posted on 2026-03-26.
+This implementation / professional services position at Google was posted on 2026-06-04.
 
 ## Get Real-Time Alerts
 

@@ -6,7 +6,7 @@
 | Location | Hyderabad, Telangana, India |
 | Category | AI / ML Research |
 | Posted | 2026-06-03 |
-| Apply | [View on company site](https://amgen.wd1.myworkdayjobs.com/Careers/job/India---Hyderabad/Senior-Associate-Solutions-Engineer---Full-stack---AI-Automation_R-243763) |
+| Apply | [View on company site](https://amgen.wd1.myworkdayjobs.com/Careers/job/India---Hyderabad/Senior-Associate-Solutions-Engineer---Full-stack---AI-Automation_R-243764) |
 
 ## About This Role
 

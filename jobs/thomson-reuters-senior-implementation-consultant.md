@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Thomson Reuters](https://scoutify.ai/companies/thomson-reuters?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | 2 locations |
+| Location | Frisco, Texas, United States |
 | Category | Customer Success |
-| Posted | 2026-04-27 |
-| Apply | [View on company site](https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/India-Hyderabad-Telangana/Principal-Consultant_JREQ195581) |
+| Posted | 2026-06-04 |
+| Apply | [View on company site](https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/United-States-of-America-Frisco-Texas/Senior-Implementation-Consultant_JREQ201073) |
 
 ## About This Role
 
-This customer success position at Thomson Reuters was posted on 2026-04-27.
+This customer success position at Thomson Reuters was posted on 2026-06-04.
 
 ## Get Real-Time Alerts
 

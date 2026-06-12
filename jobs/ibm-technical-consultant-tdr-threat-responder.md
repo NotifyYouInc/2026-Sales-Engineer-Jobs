@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Bogotá, Bogota D.C., Colombia |
+| Location | Lima, Lima Province, Peru |
 | Category | SOC & Incident Response |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=110602) |
+| Posted | 2026-06-04 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=86959) |
 
 ## About This Role
 
-This soc & incident response position at IBM was posted on 2026-04-22.
+This soc & incident response position at IBM was posted on 2026-06-04.
 
 ## Get Real-Time Alerts
 

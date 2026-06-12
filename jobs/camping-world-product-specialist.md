@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Camping World](https://scoutify.ai/companies/campingworld?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Berkley, Michigan, United States |
-| Category | Customer Success |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://campingworld.wd5.myworkdayjobs.com/Jobs/job/Berkley-MA/Product-Specialist_26_05023) |
+| Location | Fort Myers, Florida, United States |
+| Category | Business Development |
+| Posted | 2026-06-04 |
+| Apply | [View on company site](https://campingworld.wd5.myworkdayjobs.com/Jobs/job/Fort-Myers-FL/Product-Specialist_26_05518) |
 
 ## About This Role
 
-This customer success position at Camping World was posted on 2026-05-22.
+This business development position at Camping World was posted on 2026-06-04.
 
 ## Get Real-Time Alerts
 

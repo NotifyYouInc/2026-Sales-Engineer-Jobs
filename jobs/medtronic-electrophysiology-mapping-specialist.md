@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Medtronic](https://scoutify.ai/companies/medtronic?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Barcelona, Catalonia, Spain |
+| Location | Spain |
 | Category | Sales Engineer |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Barcelona-Catalua-Spain/Electrophysiology-Mapping-Specialist_R66117-2) |
+| Posted | 2026-06-04 |
+| Apply | [View on company site](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Pas-Vasco-Pas-Vasco-Spain/Electrophysiology-Mapping-Specialist_R68095) |
 
 ## About This Role
 
-This sales engineer position at Medtronic was posted on 2026-05-13.
+This sales engineer position at Medtronic was posted on 2026-06-04.
 
 ## Get Real-Time Alerts
 

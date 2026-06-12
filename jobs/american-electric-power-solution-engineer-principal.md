@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [American Electric Power](https://scoutify.ai/companies/aep?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Gahanna, Ohio, United States |
+| Location | Columbus, Ohio, United States |
 | Category | Software Engineer |
-| Posted | 2026-04-01 |
-| Apply | [View on company site](https://aep.wd1.myworkdayjobs.com/AEPCareerSite/job/Gahanna-OH/Solution-Engineer-Principal_R14080) |
+| Posted | 2026-06-05 |
+| Apply | [View on company site](https://aep.wd1.myworkdayjobs.com/AEPCareerSite/job/Columbus-OH/Solution-Engineer-Principal_R15729) |
 
 ## About This Role
 
-This software engineer position at American Electric Power was posted on 2026-04-01.
+This software engineer position at American Electric Power was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 

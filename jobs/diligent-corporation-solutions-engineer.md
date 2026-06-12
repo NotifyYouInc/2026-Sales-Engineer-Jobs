@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Diligent Corporation](https://scoutify.ai/companies/diligentcorporation?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Vancouver, British Columbia, Canada |
-| Category | Technical & Solutions Architect |
-| Posted | 2026-04-08 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/diligentcorporation/jobs/5871397004) |
+| Location | 2 locations |
+| Category | Sales Engineer |
+| Posted | 2026-06-04 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/diligentcorporation/jobs/6005550004) |
 
 ## About This Role
 
-This technical & solutions architect position at Diligent Corporation was posted on 2026-04-08.
+This sales engineer position at Diligent Corporation was posted on 2026-06-04.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Commercieel Product Specialist milking at Lely
+# Commercieel product specialist milking at Lely
 
 | Field | Details |
 |-------|---------|
 | Company | [Lely](https://scoutify.ai/companies/lely?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Duiven, Gelderland, The Netherlands |
-| Category | Sales Engineer |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Lely1/744000122436564-commercieel-product-specialist-milking) |
+| Category | Account Manager |
+| Posted | 2026-06-05 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Lely1/744000130376039-commercieel-product-specialist-milking) |
 
 ## About This Role
 
-This sales engineer position at Lely was posted on 2026-04-23.
+This account manager position at Lely was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 

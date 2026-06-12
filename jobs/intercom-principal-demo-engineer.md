@@ -1,16 +1,16 @@
-# Principal Demo Engineer at Intercom
+# Principal Demo Engineer  at Intercom
 
 | Field | Details |
 |-------|---------|
 | Company | [Intercom](https://scoutify.ai/companies/intercom?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | San Francisco, California, United States |
-| Category | AI / LLM Engineer |
-| Posted | 2026-06-02 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/intercom/jobs/7926714) |
+| Location | Dublin, Leinster, Ireland |
+| Category | Software Engineer |
+| Posted | 2026-06-04 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/intercom/jobs/7926030) |
 
 ## About This Role
 
-This ai / llm engineer position at Intercom was posted on 2026-06-02.
+This software engineer position at Intercom was posted on 2026-06-04.
 
 ## Get Real-Time Alerts
 

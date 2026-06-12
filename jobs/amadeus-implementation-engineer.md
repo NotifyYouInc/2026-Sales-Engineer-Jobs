@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amadeus](https://scoutify.ai/companies/amadeus?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Bogotá, Bogota D.C., Colombia |
+| Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
 | Category | Customer Success |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://amadeus.wd502.myworkdayjobs.com/jobs/job/Bogota/Implementation-Engineer_R34816) |
+| Posted | 2026-06-04 |
+| Apply | [View on company site](https://amadeus.wd502.myworkdayjobs.com/jobs/job/Kuala-Lumpur/Implementation-Engineer_R33538) |
 
 ## About This Role
 
-This customer success position at Amadeus was posted on 2026-05-22.
+This customer success position at Amadeus was posted on 2026-06-04.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Johnson Controls](https://scoutify.ai/companies/jci?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Berlin, State of Berlin, Germany |
 | Category | Sales Engineer |
-| Posted | 2026-05-12 |
-| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Berlin-Berlin-Germany/Vertrieb-Gebudeautomation--m-w-d-_WD30269345) |
+| Posted | 2026-06-04 |
+| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Berlin-Berlin-Germany/Vertrieb-Gebudeautomation--m-w-d-_WD30266693) |
 
 ## About This Role
 
-This sales engineer position at Johnson Controls was posted on 2026-05-12.
+This sales engineer position at Johnson Controls was posted on 2026-06-04.
 
 ## Get Real-Time Alerts
 

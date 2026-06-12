@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Camping World](https://scoutify.ai/companies/campingworld?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Florida, US |
+| Location | Longmont, Colorado, United States |
 | Category | Account Manager |
-| Posted | 2026-06-02 |
-| Apply | [View on company site](https://campingworld.wd5.myworkdayjobs.com/Jobs/job/Ft-Pierce-FL/Product-Specialist-Advisor_26_05153) |
+| Posted | 2026-06-04 |
+| Apply | [View on company site](https://campingworld.wd5.myworkdayjobs.com/Jobs/job/Longmont-CO/Product-Specialist-Advisor_26_05583) |
 
 ## About This Role
 
-This account manager position at Camping World was posted on 2026-06-02.
+This account manager position at Camping World was posted on 2026-06-04.
 
 ## Get Real-Time Alerts
 

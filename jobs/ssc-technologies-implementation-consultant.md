@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [SS&C Technologies](https://scoutify.ai/companies/ss-c-technologies?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Pune, Maharashtra, India |
-| Category | Implementation / Professional Services |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://ssctech.wd1.myworkdayjobs.com/ssctechnologies/job/Pune-India/Senior-Software-Engineer_R35442) |
+| Location | Jacksonville, Florida, United States |
+| Category | Customer Success |
+| Posted | 2026-06-05 |
+| Apply | [View on company site](https://ssctech.wd1.myworkdayjobs.com/ssctechnologies/job/Jacksonville-FL/Implementation-Consultant_R44011) |
 
 ## About This Role
 
-This implementation / professional services position at SS&C Technologies was posted on 2026-03-09.
+This customer success position at SS&C Technologies was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Kone](https://scoutify.ai/companies/kone?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Dubai, Dubai, United Arab Emirates |
-| Category | Electrical / Hardware Engineer |
-| Posted | 2026-03-12 |
-| Apply | [View on company site](https://kone.wd3.myworkdayjobs.com/careers/job/Dubai/Customer-Solution-Engineer---Projects_R0658493) |
+| Location | Sharjah, Sharjah, United Arab Emirates |
+| Category | Engineering Manager |
+| Posted | 2026-06-04 |
+| Apply | [View on company site](https://kone.wd3.myworkdayjobs.com/careers/job/Sharjah/Customer-Solution-Engineer---Projects_R0657484) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Kone was posted on 2026-03-12.
+This engineering manager position at Kone was posted on 2026-06-04.
 
 ## Get Real-Time Alerts
 

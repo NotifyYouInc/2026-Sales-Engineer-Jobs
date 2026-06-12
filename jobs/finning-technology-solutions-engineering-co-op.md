@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Finning](https://scoutify.ai/companies/finning?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Edmonton, Alberta, Canada |
+| Location | 2 locations |
 | Category | Customer Success |
-| Posted | 2026-05-27 |
-| Apply | [View on company site](https://finning.wd3.myworkdayjobs.com/External/job/Edmonton-AB-CA/Technology-Solutions-Engineering-Co-op_R-2026-2732) |
+| Posted | 2026-06-04 |
+| Apply | [View on company site](https://finning.wd3.myworkdayjobs.com/External/job/Fort-McMurray-AB-CA/Technology-Solutions-Engineering-Co-op_R-2026-2939) |
 
 ## About This Role
 
-This customer success position at Finning was posted on 2026-05-27.
+This customer success position at Finning was posted on 2026-06-04.
 
 ## Get Real-Time Alerts
 

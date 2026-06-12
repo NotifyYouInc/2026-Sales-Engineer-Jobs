@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Germany |
+| Location | Neu-Ulm, Bavaria, Germany |
 | Category | Sales Engineer |
 | Posted | 2026-06-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000129937049-technischer-systemberater-wmdiv) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000129976372-technischer-systemberater-wmdiv) |
 
 ## About This Role
 

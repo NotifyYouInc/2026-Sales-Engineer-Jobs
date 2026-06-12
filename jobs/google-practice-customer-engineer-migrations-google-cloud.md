@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | 4 locations |
-| Category | Sales Engineer |
-| Posted | 2026-05-08 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckZTDFuFGdy3BrheFcSFUX-FYw-RmYvY6XUliypqhZAj-EjsACxwdTH9G1fZEzMI1WK4_4unuW0-BIwmAawqMFgtx83c5o3ofQvBOpnH1kQqRztRLEqFg6fqHxnHNyg%3D%3D_V2&loc=IN&title=Practice+Customer+Engineer) |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-06-04 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckV4NLi119WxMlZ__A74d3h3qLeo3v_E13E3BUr2niQKxEjsACxwdTKxbk5IQkPp-4kdDYtQpKbn2CNkg0xx8siVXd4nCF84Q1v7PqjXSFMkXBU_FlMjM-McVQwvBVA%3D%3D_V2&loc=IN&title=Practice+Customer+Engineer) |
 
 ## About This Role
 
-This sales engineer position at Google was posted on 2026-05-08.
+This technical & solutions architect position at Google was posted on 2026-06-04.
 
 ## Get Real-Time Alerts
 
