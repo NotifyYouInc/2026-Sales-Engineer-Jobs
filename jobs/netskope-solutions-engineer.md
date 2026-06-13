@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Netskope](https://scoutify.ai/companies/netskope?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Hamburg, Hamburg, Germany |
+| Location | Arizona, US |
 | Category | Sales Engineer |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://www.netskope.com/company/careers/open-positions/?gh_jid=7791776) |
+| Posted | 2026-06-05 |
+| Apply | [View on company site](https://www.netskope.com/company/careers/open-positions/?gh_jid=7986156) |
 
 ## About This Role
 
-This sales engineer position at Netskope was posted on 2026-05-18.
+This sales engineer position at Netskope was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 

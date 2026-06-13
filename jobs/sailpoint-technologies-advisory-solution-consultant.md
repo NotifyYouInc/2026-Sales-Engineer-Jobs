@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [SailPoint Technologies](https://scoutify.ai/companies/sailpoint-technologies?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | France |
+| Location | Maryland, US |
 | Category | Sales Engineer |
-| Posted | 2026-04-28 |
-| Apply | [View on company site](https://sailpoint.wd1.myworkdayjobs.com/sailpoint/job/Remote-France/Advisory-Solution-Consultant_R013197) |
+| Posted | 2026-06-05 |
+| Apply | [View on company site](https://sailpoint.wd1.myworkdayjobs.com/sailpoint/job/Remote-Washington-DC-USA/Advisory-Solution-Consultant_R013450) |
 
 ## About This Role
 
-This sales engineer position at SailPoint Technologies was posted on 2026-04-28.
+This sales engineer position at SailPoint Technologies was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 

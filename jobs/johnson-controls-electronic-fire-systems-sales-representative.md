@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Johnson Controls](https://scoutify.ai/companies/jci?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Shelton, Connecticut, United States |
+| Location | Connecticut, US |
 | Category | Account Executive |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Shelton-Connecticut-United-States-of-America/Electronic-Fire-Systems-Sales-Representative_WD30268483) |
+| Posted | 2026-06-05 |
+| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Rocky-Hill-Connecticut-United-States-of-America/Electronic-Fire-Systems-Sales-Representative_WD30268482) |
 
 ## About This Role
 
-This account executive position at Johnson Controls was posted on 2026-05-13.
+This account executive position at Johnson Controls was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 

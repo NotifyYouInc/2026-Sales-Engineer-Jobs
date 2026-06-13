@@ -5,12 +5,12 @@
 | Company | [Assystem](https://scoutify.ai/companies/assystem?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Derby, England, United Kingdom |
 | Category | Sales Engineer |
-| Posted | 2026-03-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ASSYSTEM/744000116944819-junior-sales-engineer) |
+| Posted | 2026-06-05 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ASSYSTEM/744000130511009-junior-sales-engineer) |
 
 ## About This Role
 
-This sales engineer position at Assystem was posted on 2026-03-26.
+This sales engineer position at Assystem was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 

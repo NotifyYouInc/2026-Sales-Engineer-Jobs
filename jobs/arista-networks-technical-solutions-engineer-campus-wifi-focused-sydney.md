@@ -5,12 +5,12 @@
 | Company | [Arista Networks](https://scoutify.ai/companies/aristanetworks?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Sydney, New South Wales, Australia |
 | Category | Customer Success |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AristaNetworks/744000116327837-technical-solutions-engineer-campus-wifi-focused-sydney) |
+| Posted | 2026-06-05 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AristaNetworks/744000130424859-technical-solutions-engineer-campus-wifi-focused-sydney) |
 
 ## About This Role
 
-This customer success position at Arista Networks was posted on 2026-03-24.
+This customer success position at Arista Networks was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 

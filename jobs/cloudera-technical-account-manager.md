@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cloudera](https://scoutify.ai/companies/cloudera?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Chennai, Tamil Nadu, India |
+| Location | Ireland |
 | Category | Customer Success |
-| Posted | 2026-03-26 |
-| Apply | [View on company site](https://cloudera.wd5.myworkdayjobs.com/External_Career/job/India-Bangalore-Remote/Technical-Account-Manager_260432) |
+| Posted | 2026-06-05 |
+| Apply | [View on company site](https://cloudera.wd5.myworkdayjobs.com/External_Career/job/Ireland-Remote/Technical-Account-Manager_260791-1) |
 
 ## About This Role
 
-This customer success position at Cloudera was posted on 2026-03-26.
+This customer success position at Cloudera was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 

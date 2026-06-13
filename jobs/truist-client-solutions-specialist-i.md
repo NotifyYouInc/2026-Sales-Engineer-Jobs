@@ -1,16 +1,16 @@
-# Client Solutions Specialist I at Truist
+# Client Solutions specialist I at Truist
 
 | Field | Details |
 |-------|---------|
 | Company | [Truist](https://scoutify.ai/companies/truist?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Lumberton, North Carolina, United States |
 | Category | Customer Success |
-| Posted | 2026-05-27 |
-| Apply | [View on company site](https://truist.wd1.myworkdayjobs.com/Careers/job/Lumberton-NC/Client-Solutions-Specialist-I_R0114901) |
+| Posted | 2026-06-05 |
+| Apply | [View on company site](https://truist.wd1.myworkdayjobs.com/Careers/job/Lumberton-NC/Client-Solutions-specialist-I_R0115309) |
 
 ## About This Role
 
-This customer success position at Truist was posted on 2026-05-27.
+This customer success position at Truist was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 

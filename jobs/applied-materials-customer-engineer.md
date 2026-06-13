@@ -5,12 +5,12 @@
 | Company | [Applied Materials](https://scoutify.ai/companies/applied-materials?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Singapore, Singapore |
 | Category | Marketing |
-| Posted | 2026-05-17 |
-| Apply | [View on company site](https://amat.wd1.myworkdayjobs.com/External/job/SingaporeSGP/Customer-Engineer_R2619148) |
+| Posted | 2026-06-05 |
+| Apply | [View on company site](https://amat.wd1.myworkdayjobs.com/External/job/SingaporeSGP/Customer-Engineer_R2617506) |
 
 ## About This Role
 
-This marketing position at Applied Materials was posted on 2026-05-17.
+This marketing position at Applied Materials was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [LinkedIn](https://scoutify.ai/companies/linkedin?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Dublin, Leinster, Ireland |
 | Category | Sales Engineer |
-| Posted | 2026-05-08 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/LinkedIn3/744000125317159-senior-solutions-engineer-11-month-ftc-french-speaking) |
+| Posted | 2026-06-05 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/LinkedIn3/744000130421459-senior-solutions-engineer-11-month-ftc-french-speaking) |
 
 ## About This Role
 
-This sales engineer position at LinkedIn was posted on 2026-05-08.
+This sales engineer position at LinkedIn was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 

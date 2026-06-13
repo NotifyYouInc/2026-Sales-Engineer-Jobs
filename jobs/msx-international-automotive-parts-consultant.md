@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [MSX International](https://scoutify.ai/companies/msxinternational?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | United Kingdom |
+| Location | Turin, Piedmont, Italy |
 | Category | Sales Engineer |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/MSXInternational/3743990013106576-automotive-parts-consultant) |
+| Posted | 2026-06-05 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/MSXInternational/3743990013485116-automotive-parts-consultant) |
 
 ## About This Role
 
-This sales engineer position at MSX International was posted on 2026-05-13.
+This sales engineer position at MSX International was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 

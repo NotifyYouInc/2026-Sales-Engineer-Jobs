@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Syngenta](https://scoutify.ai/companies/syngenta?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Not specified |
+| Location | Saratov, Saratov Oblast, Russia |
 | Category | Sales Engineer |
-| Posted | 2026-05-07 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SyngentaGroup/744000125164961-) |
+| Posted | 2026-06-05 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SyngentaGroup/744000130502309-) |
 
 ## About This Role
 
-This sales engineer position at Syngenta was posted on 2026-05-07.
+This sales engineer position at Syngenta was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 

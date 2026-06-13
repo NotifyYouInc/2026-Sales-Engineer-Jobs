@@ -5,12 +5,12 @@
 | Company | [Syngenta](https://scoutify.ai/companies/syngenta?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Moscow, Moscow, Russia |
 | Category | Sales Engineer |
-| Posted | 2026-05-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SyngentaGroup/744000124916969-ru-kazbe) |
+| Posted | 2026-06-05 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SyngentaGroup/744000130500879-ru-kazbe) |
 
 ## About This Role
 
-This sales engineer position at Syngenta was posted on 2026-05-06.
+This sales engineer position at Syngenta was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | 4 locations |
-| Category | Sales Engineer |
-| Posted | 2026-06-03 |
-| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Chicago-Illinois-US/Solutions-Engineer_2015413-1) |
+| Location | Taipei, Taiwan, Taiwan |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-06-05 |
+| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Taipei-Taiwan/Solutions-Engineer_2015653) |
 
 ## About This Role
 
-This sales engineer position at Cisco was posted on 2026-06-03.
+This technical & solutions architect position at Cisco was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 
