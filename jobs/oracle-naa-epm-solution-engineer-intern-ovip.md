@@ -1,16 +1,16 @@
-# Implementation Consultant – Revenue Cycle Patient Access (Scheduling/ Registration ) at Oracle
+# NAA EPM Solution Engineer Intern - OVIP at Oracle
 
 | Field | Details |
 |-------|---------|
 | Company | [Oracle](https://scoutify.ai/companies/oracle?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | United States |
-| Category | Customer Success |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://careers.oracle.com/jobs/#334546) |
+| Location | Nashville, Tennessee, United States |
+| Category | Sales Engineer |
+| Posted | 2026-05-19 |
+| Apply | [View on company site](https://careers.oracle.com/jobs/#334358) |
 
 ## About This Role
 
-This customer success position at Oracle was posted on 2026-05-21.
+This sales engineer position at Oracle was posted on 2026-05-19.
 
 ## Get Real-Time Alerts
 

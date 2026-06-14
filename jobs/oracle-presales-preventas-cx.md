@@ -1,16 +1,16 @@
-# Implementation Consultant – Revenue Cycle Patient Access (Scheduling/ Registration ) at Oracle
+# Presales / Preventas CX at Oracle
 
 | Field | Details |
 |-------|---------|
 | Company | [Oracle](https://scoutify.ai/companies/oracle?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | United States |
-| Category | Customer Success |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://careers.oracle.com/jobs/#334546) |
+| Location | Argentina |
+| Category | Sales Engineer |
+| Posted | 2026-05-08 |
+| Apply | [View on company site](https://careers.oracle.com/jobs/#333033) |
 
 ## About This Role
 
-This customer success position at Oracle was posted on 2026-05-21.
+This sales engineer position at Oracle was posted on 2026-05-08.
 
 ## Get Real-Time Alerts
 

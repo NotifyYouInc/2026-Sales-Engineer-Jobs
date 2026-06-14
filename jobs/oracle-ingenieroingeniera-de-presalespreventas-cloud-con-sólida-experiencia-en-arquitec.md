@@ -1,16 +1,16 @@
-# Implementation Consultant – Revenue Cycle Patient Access (Scheduling/ Registration ) at Oracle
+# Ingeniero/Ingeniera de Presales/Preventas Cloud con sólida experiencia en arquitecturas de desarrollo, integraciones empresariales y tecnologías modernas at Oracle
 
 | Field | Details |
 |-------|---------|
 | Company | [Oracle](https://scoutify.ai/companies/oracle?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | United States |
-| Category | Customer Success |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://careers.oracle.com/jobs/#334546) |
+| Location | Bogotá, Bogota D.C., Colombia |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-01-26 |
+| Apply | [View on company site](https://careers.oracle.com/jobs/#324282) |
 
 ## About This Role
 
-This customer success position at Oracle was posted on 2026-05-21.
+This technical & solutions architect position at Oracle was posted on 2026-01-26.
 
 ## Get Real-Time Alerts
 
