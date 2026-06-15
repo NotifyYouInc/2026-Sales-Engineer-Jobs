@@ -1,16 +1,16 @@
-# Ingénieur d'Application F/H at Medtronic
+# Presales Consultant- AI/ Data Analytics at TD Synnex
 
 | Field | Details |
 |-------|---------|
-| Company | [Medtronic](https://scoutify.ai/companies/medtronic?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Bordeaux, Nouvelle-Aquitaine, France |
+| Company | [TD Synnex](https://scoutify.ai/companies/synnex?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
+| Location | Mumbai, Maharashtra, India |
 | Category | Sales Engineer |
 | Posted | 2026-06-08 |
-| Apply | [View on company site](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Bordeaux-Gironde-France/Ingnieur-d-Application-F-H_R68954-2) |
+| Apply | [View on company site](https://synnex.wd5.myworkdayjobs.com/tdsynnexcareers/job/Mumbai-India/Presales-Consultant--AI--Data-Analytics_R51527) |
 
 ## About This Role
 
-This sales engineer position at Medtronic was posted on 2026-06-08.
+This sales engineer position at TD Synnex was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

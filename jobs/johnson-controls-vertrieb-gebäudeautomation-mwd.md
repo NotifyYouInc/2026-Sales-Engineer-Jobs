@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Johnson Controls](https://scoutify.ai/companies/jci?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Berlin, State of Berlin, Germany |
+| Location | Hannover, Lower Saxony, Germany |
 | Category | Sales Engineer |
 | Posted | 2026-06-04 |
-| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Berlin-Berlin-Germany/Vertrieb-Gebudeautomation--m-w-d-_WD30266693) |
+| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Hannover-Lower-Saxony-Germany/Vertrieb-Gebudeautomation--m-w-d-_WD30266778) |
 
 ## About This Role
 

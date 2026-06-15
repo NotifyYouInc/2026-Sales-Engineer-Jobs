@@ -1,16 +1,16 @@
-# Ingénieur d'Application F/H at Medtronic
+# Technical Sales Engineer – Cooling Towers at Aggreko
 
 | Field | Details |
 |-------|---------|
-| Company | [Medtronic](https://scoutify.ai/companies/medtronic?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Bordeaux, Nouvelle-Aquitaine, France |
+| Company | [Aggreko](https://scoutify.ai/companies/aggreko?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
+| Location | 4 locations |
 | Category | Sales Engineer |
 | Posted | 2026-06-08 |
-| Apply | [View on company site](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Bordeaux-Gironde-France/Ingnieur-d-Application-F-H_R68954-2) |
+| Apply | [View on company site](https://aggreko.wd3.myworkdayjobs.com/aggreko_careers_1/job/Melbourne/Technical-Sales-Engineer---Cooling-Towers_JR20570) |
 
 ## About This Role
 
-This sales engineer position at Medtronic was posted on 2026-06-08.
+This sales engineer position at Aggreko was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

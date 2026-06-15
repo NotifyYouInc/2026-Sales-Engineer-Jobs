@@ -1,16 +1,16 @@
-# SAP C4C V2 & BTP Technical Consultant at Robert Bosch
+# Intern- Sales & Project Coordinator at Rolls-Royce
 
 | Field | Details |
 |-------|---------|
-| Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
+| Company | [Rolls-Royce](https://scoutify.ai/companies/rollsroyce?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Technology / IT Consulting |
+| Category | Project Manager |
 | Posted | 2026-06-08 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000130717639-sap-c4c-v2-btp-technical-consultant) |
+| Apply | [View on company site](https://rollsroyce.wd3.myworkdayjobs.com/Intern_Graduate/job/Bangalore/Intern--Sales---Project-Coordinator_JR6155505-1) |
 
 ## About This Role
 
-This technology / it consulting position at Robert Bosch was posted on 2026-06-08.
+This project manager position at Rolls-Royce was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

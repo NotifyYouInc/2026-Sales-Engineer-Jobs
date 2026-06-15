@@ -1,16 +1,16 @@
-# Ingénieur d'Application F/H at Medtronic
+# Senior Product Sales, Ultrasound at Philips
 
 | Field | Details |
 |-------|---------|
-| Company | [Medtronic](https://scoutify.ai/companies/medtronic?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Bordeaux, Nouvelle-Aquitaine, France |
+| Company | [Philips](https://scoutify.ai/companies/philips?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
+| Location | China |
 | Category | Sales Engineer |
 | Posted | 2026-06-08 |
-| Apply | [View on company site](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Bordeaux-Gironde-France/Ingnieur-d-Application-F-H_R68954-2) |
+| Apply | [View on company site](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Urumqi/Senior-Product-Sales--Ultrasound_585621) |
 
 ## About This Role
 
-This sales engineer position at Medtronic was posted on 2026-06-08.
+This sales engineer position at Philips was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

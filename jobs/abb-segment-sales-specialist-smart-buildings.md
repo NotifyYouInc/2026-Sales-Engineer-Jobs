@@ -1,16 +1,16 @@
-# Sales Support Specialist at ABB
+# Segment Sales Specialist – Smart Buildings at ABB
 
 | Field | Details |
 |-------|---------|
 | Company | [ABB](https://scoutify.ai/companies/abb?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Beijing, Beijing, China |
-| Category | Sales Engineer |
+| Location | Ballerup, Capital Region, Denmark |
+| Category | Account Executive |
 | Posted | 2026-06-08 |
-| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Beijing-Beijing-China/Sales-Support-Specialist_JR00015380) |
+| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Ballerup-Region-Hovedstaden-Denmark/Segment-Sales-Specialist---Smart-Buildings_JR00036801) |
 
 ## About This Role
 
-This sales engineer position at ABB was posted on 2026-06-08.
+This account executive position at ABB was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

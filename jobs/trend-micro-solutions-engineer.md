@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Trend Micro](https://scoutify.ai/companies/trendmicro?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | São Paulo, São Paulo, Brazil |
-| Category | Technical & Solutions Architect |
-| Posted | 2026-05-27 |
-| Apply | [View on company site](https://trendmicro.wd3.myworkdayjobs.com/External/job/Sao-Paulo/Solutions-Engineer_R0009714) |
+| Location | Jeddah, Mecca Region, Saudi Arabia |
+| Category | Sales Engineer |
+| Posted | 2026-06-07 |
+| Apply | [View on company site](https://trendmicro.wd3.myworkdayjobs.com/External/job/KSA-Off-Site/Solutions-Engineer_R0009407) |
 
 ## About This Role
 
-This technical & solutions architect position at Trend Micro was posted on 2026-05-27.
+This sales engineer position at Trend Micro was posted on 2026-06-07.
 
 ## Get Real-Time Alerts
 

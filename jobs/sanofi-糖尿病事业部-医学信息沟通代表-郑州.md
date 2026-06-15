@@ -5,12 +5,12 @@
 | Company | [Sanofi](https://scoutify.ai/companies/sanofi?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Zhengzhou, Henan, China |
 | Category | Sales Engineer |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Zhengzhou/--_R2841768) |
+| Posted | 2026-06-08 |
+| Apply | [View on company site](https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Zhengzhou/--_R2851466) |
 
 ## About This Role
 
-This sales engineer position at Sanofi was posted on 2026-05-19.
+This sales engineer position at Sanofi was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

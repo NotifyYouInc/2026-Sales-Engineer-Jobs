@@ -1,12 +1,12 @@
-# Sales Support Specialist at ABB
+# Business Tools & Sales Support Specialist at ABB
 
 | Field | Details |
 |-------|---------|
 | Company | [ABB](https://scoutify.ai/companies/abb?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Beijing, Beijing, China |
+| Location | Sant Quirze del Vallès, Catalonia, Spain |
 | Category | Sales Engineer |
 | Posted | 2026-06-08 |
-| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Beijing-Beijing-China/Sales-Support-Specialist_JR00015380) |
+| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Sant-Quirze-del-Valles-Barcelona-Spain/Business-Tools---Sales-Support-Specialist_JR00026836) |
 
 ## About This Role
 

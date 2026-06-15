@@ -1,16 +1,16 @@
-# Associate Mako Product Specialist at Stryker
+# Technical Field Engineer - Adelaide SA at Unisys
 
 | Field | Details |
 |-------|---------|
-| Company | [Stryker](https://scoutify.ai/companies/stryker?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Company | [Unisys](https://scoutify.ai/companies/unisys?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
+| Location | Adelaide, South Australia, Australia |
 | Category | Customer Success |
 | Posted | 2026-06-08 |
-| Apply | [View on company site](https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Hyderabad-India/Associate-Mako-Product-Specialist_R565372) |
+| Apply | [View on company site](https://unisys.wd5.myworkdayjobs.com/External/job/Adelaide-SA-Australia/Technical-Field-Engineer---Adelaide-SA_REQ573609) |
 
 ## About This Role
 
-This customer success position at Stryker was posted on 2026-06-08.
+This customer success position at Unisys was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

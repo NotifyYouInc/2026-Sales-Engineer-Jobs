@@ -1,16 +1,16 @@
-# Sales Engineer at Sierra
+# Solutions Architect (SEA) at Stripe
 
 | Field | Details |
 |-------|---------|
-| Company | [Sierra](https://scoutify.ai/companies/sierra?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Sydney, New South Wales, Australia |
-| Category | Sales Engineer |
+| Company | [Stripe](https://scoutify.ai/companies/stripe?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
+| Location | Singapore, Singapore |
+| Category | Technical & Solutions Architect |
 | Posted | 2026-06-08 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/sierra/f64a5b9d-9650-45ca-8596-bc845e9d8d10) |
+| Apply | [View on company site](https://stripe.com/jobs/search?gh_jid=7978586) |
 
 ## About This Role
 
-This sales engineer position at Sierra was posted on 2026-06-08.
+This technical & solutions architect position at Stripe was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

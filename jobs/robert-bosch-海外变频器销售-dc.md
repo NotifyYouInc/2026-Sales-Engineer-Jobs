@@ -1,16 +1,16 @@
-# Ingénieur d'Application F/H at Medtronic
+# 海外变频器销售_DC at Robert Bosch
 
 | Field | Details |
 |-------|---------|
-| Company | [Medtronic](https://scoutify.ai/companies/medtronic?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Bordeaux, Nouvelle-Aquitaine, France |
+| Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
+| Location | Shanghai, Shanghai, China |
 | Category | Sales Engineer |
 | Posted | 2026-06-08 |
-| Apply | [View on company site](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Bordeaux-Gironde-France/Ingnieur-d-Application-F-H_R68954-2) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000130713919-dc) |
 
 ## About This Role
 
-This sales engineer position at Medtronic was posted on 2026-06-08.
+This sales engineer position at Robert Bosch was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

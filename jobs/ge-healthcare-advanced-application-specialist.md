@@ -1,16 +1,16 @@
-# Ingénieur d'Application F/H at Medtronic
+# Advanced Application Specialist at GE HealthCare
 
 | Field | Details |
 |-------|---------|
-| Company | [Medtronic](https://scoutify.ai/companies/medtronic?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Bordeaux, Nouvelle-Aquitaine, France |
+| Company | [GE HealthCare](https://scoutify.ai/companies/ge-healthcare?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
+| Location | Kunming, Yunnan, China |
 | Category | Sales Engineer |
 | Posted | 2026-06-08 |
-| Apply | [View on company site](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Bordeaux-Gironde-France/Ingnieur-d-Application-F-H_R68954-2) |
+| Apply | [View on company site](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Kunming/Advanced-Application-Specialist_R4042088-1) |
 
 ## About This Role
 
-This sales engineer position at Medtronic was posted on 2026-06-08.
+This sales engineer position at GE HealthCare was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

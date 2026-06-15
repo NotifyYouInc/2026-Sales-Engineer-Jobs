@@ -1,16 +1,16 @@
-# Ingénieur d'Application F/H at Medtronic
+# SHAPE_PVH_Senior Technical Sales Representative_Chongqing at Medtronic
 
 | Field | Details |
 |-------|---------|
 | Company | [Medtronic](https://scoutify.ai/companies/medtronic?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Bordeaux, Nouvelle-Aquitaine, France |
-| Category | Sales Engineer |
+| Location | Chongqing, Chongqing, China |
+| Category | Account Executive |
 | Posted | 2026-06-08 |
-| Apply | [View on company site](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Bordeaux-Gironde-France/Ingnieur-d-Application-F-H_R68954-2) |
+| Apply | [View on company site](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Chongqing-Chongqing-China/SHAPE-PVH-Senior-Technical-Sales-Representative-Chongqing_R69046-1) |
 
 ## About This Role
 
-This sales engineer position at Medtronic was posted on 2026-06-08.
+This account executive position at Medtronic was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Sales Support Specialist at ABB
+# Solutions Engineer at Hebbia
 
 | Field | Details |
 |-------|---------|
-| Company | [ABB](https://scoutify.ai/companies/abb?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Beijing, Beijing, China |
+| Company | [Hebbia](https://scoutify.ai/companies/hebbia?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
+| Location | New York City, New York, United States |
 | Category | Sales Engineer |
-| Posted | 2026-06-08 |
-| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Beijing-Beijing-China/Sales-Support-Specialist_JR00015380) |
+| Posted | 2025-04-28 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/hebbia-ai/6ee51b19-cead-4fb5-b83c-6285a36541a7) |
 
 ## About This Role
 
-This sales engineer position at ABB was posted on 2026-06-08.
+This sales engineer position at Hebbia was posted on 2025-04-28.
 
 ## Get Real-Time Alerts
 

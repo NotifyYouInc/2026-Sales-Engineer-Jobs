@@ -1,16 +1,16 @@
-# SAP C4C V2 & BTP Technical Consultant at Robert Bosch
+# Lead Business and Technical Consultant at Duke Energy
 
 | Field | Details |
 |-------|---------|
-| Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Company | [Duke Energy](https://scoutify.ai/companies/dukeenergy?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
+| Location | Lake Mary, Florida, United States |
 | Category | Technology / IT Consulting |
 | Posted | 2026-06-08 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000130717639-sap-c4c-v2-btp-technical-consultant) |
+| Apply | [View on company site](https://dukeenergy.wd1.myworkdayjobs.com/search/job/Lake-Mary-FL/Lead-Business-and-Technical-Consultant_R39517) |
 
 ## About This Role
 
-This technology / it consulting position at Robert Bosch was posted on 2026-06-08.
+This technology / it consulting position at Duke Energy was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

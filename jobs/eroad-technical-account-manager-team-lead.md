@@ -1,16 +1,16 @@
-# Associate Mako Product Specialist at Stryker
+# Technical Account Manager Team Lead​ at EROAD
 
 | Field | Details |
 |-------|---------|
-| Company | [Stryker](https://scoutify.ai/companies/stryker?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Company | [EROAD](https://scoutify.ai/companies/eroad?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
+| Location | Auckland, Auckland, New Zealand |
 | Category | Customer Success |
 | Posted | 2026-06-08 |
-| Apply | [View on company site](https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Hyderabad-India/Associate-Mako-Product-Specialist_R565372) |
+| Apply | [View on company site](https://eroadgroup.wd3.myworkdayjobs.com/eroad/job/Auckland-Albany-HQ-NZ/Technical-Account-Manager-Team-Lead-_JR101305) |
 
 ## About This Role
 
-This customer success position at Stryker was posted on 2026-06-08.
+This customer success position at EROAD was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

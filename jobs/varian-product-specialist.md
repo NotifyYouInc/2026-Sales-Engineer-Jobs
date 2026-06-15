@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Varian](https://scoutify.ai/companies/onehealthineers?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Not specified |
-| Category | Product Manager |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://onehealthineers.wd3.myworkdayjobs.com/SHSJB/job/JUN-A/Product-Specialist_R-28136) |
+| Location | 2 locations |
+| Category | Marketing |
+| Posted | 2026-06-08 |
+| Apply | [View on company site](https://onehealthineers.wd3.myworkdayjobs.com/SHSJB/job/TPE-DH-337/Product-Specialist_R-28884) |
 
 ## About This Role
 
-This product manager position at Varian was posted on 2026-04-22.
+This marketing position at Varian was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

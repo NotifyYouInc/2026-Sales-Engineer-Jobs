@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Hebbia](https://scoutify.ai/companies/hebbia?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | New York City, New York, United States |
-| Category | Technical & Solutions Architect |
+| Category | Sales Engineer |
 | Posted | 2026-04-14 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/hebbia/jobs/4684835005) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/hebbia-ai/9ce7bff6-add1-4fbf-b72e-5665472c6cc8) |
 
 ## About This Role
 
-This technical & solutions architect position at Hebbia was posted on 2026-04-14.
+This sales engineer position at Hebbia was posted on 2026-04-14.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Product specialist at Johnson & Johnson
+# Product Specialist at Johnson & Johnson
 
 | Field | Details |
 |-------|---------|
 | Company | [Johnson & Johnson](https://scoutify.ai/companies/johnson-johnson?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Israel |
-| Category | Account Executive |
-| Posted | 2026-06-04 |
-| Apply | [View on company site](https://jj.wd5.myworkdayjobs.com/JJ/job/Kibbutz-Shefayim-Center-District-Israel/Product-specialist_R-076892-2) |
+| Location | Beijing, Beijing, China |
+| Category | Business Development |
+| Posted | 2026-06-05 |
+| Apply | [View on company site](https://jj.wd5.myworkdayjobs.com/JJ/job/Beijing-China/Product-Specialist_R-081192) |
 
 ## About This Role
 
-This account executive position at Johnson & Johnson was posted on 2026-06-04.
+This business development position at Johnson & Johnson was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 
