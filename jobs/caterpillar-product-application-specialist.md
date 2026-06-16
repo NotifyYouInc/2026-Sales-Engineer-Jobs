@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Caterpillar](https://scoutify.ai/companies/caterpillar?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | 2 locations |
+| Location | Dubai, Dubai, United Arab Emirates |
 | Category | Sales Engineer |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Brisbane-Queensland/Product-Application-Specialist_R0000363435) |
+| Posted | 2026-06-08 |
+| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Dubai-United-Arab-Emirates/Product-Application-Specialist_R0000372799-1) |
 
 ## About This Role
 
-This sales engineer position at Caterpillar was posted on 2026-04-23.
+This sales engineer position at Caterpillar was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

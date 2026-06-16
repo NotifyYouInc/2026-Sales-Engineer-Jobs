@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Avnet](https://scoutify.ai/companies/avnet?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Fuzhou, Fujian, China |
+| Location | New Delhi, Delhi, India |
 | Category | Software Engineer |
-| Posted | 2026-05-25 |
-| Apply | [View on company site](https://avnet.wd1.myworkdayjobs.com/external/job/Fuzhou-Fujian-China/Field-Application-Engineer_JR-022192) |
+| Posted | 2026-06-08 |
+| Apply | [View on company site](https://avnet.wd1.myworkdayjobs.com/external/job/New-Delhi-India/Field-Application-Engineer_JR-022832) |
 
 ## About This Role
 
-This software engineer position at Avnet was posted on 2026-05-25.
+This software engineer position at Avnet was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

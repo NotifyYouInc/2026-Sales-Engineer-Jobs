@@ -5,12 +5,12 @@
 | Company | [STOW Group](https://scoutify.ai/companies/stow-group?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Belgium |
 | Category | Sales Engineer |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/stowgroup/744000126968856-sales-engineer-silo) |
+| Posted | 2026-06-08 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/stowgroup/744000130876053-sales-engineer-silo) |
 
 ## About This Role
 
-This sales engineer position at STOW Group was posted on 2026-05-18.
+This sales engineer position at STOW Group was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

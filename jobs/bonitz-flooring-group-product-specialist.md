@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Bonitz Flooring Group](https://scoutify.ai/companies/bonitz-flooring-group?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Nashville, Tennessee, United States |
-| Category | Business Development |
-| Posted | 2026-02-23 |
-| Apply | [View on company site](https://bonitz.rec.pro.ukg.net/BON1500BONI/JobBoard/6dd42544-e7d0-4ead-a291-618e5254562c/OpportunityDetail?opportunityId=b09cdfbc-b484-4046-ae8a-95867f467509) |
+| Location | 2 locations |
+| Category | Product Manager |
+| Posted | 2026-06-08 |
+| Apply | [View on company site](https://bonitz.rec.pro.ukg.net/BON1500BONI/JobBoard/6dd42544-e7d0-4ead-a291-618e5254562c/OpportunityDetail?opportunityId=d61dd9b6-e753-41a4-bccc-e217b0023c01) |
 
 ## About This Role
 
-This business development position at Bonitz Flooring Group was posted on 2026-02-23.
+This product manager position at Bonitz Flooring Group was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mimecast](https://scoutify.ai/companies/mimecast?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
+| Location | Johannesburg, Gauteng, South Africa |
 | Category | Sales Engineer |
-| Posted | 2026-05-28 |
-| Apply | [View on company site](https://mimecast.wd5.myworkdayjobs.com/Mimecast-Careers/job/Malaysia---Remote/Sales-Engineer_R6444) |
+| Posted | 2026-06-08 |
+| Apply | [View on company site](https://mimecast.wd5.myworkdayjobs.com/Mimecast-Careers/job/South-Africa---Johannesburg/Sales-Engineer_R6465-1) |
 
 ## About This Role
 
-This sales engineer position at Mimecast was posted on 2026-05-28.
+This sales engineer position at Mimecast was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

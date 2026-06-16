@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Box](https://scoutify.ai/companies/box?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Los Angeles, California, United States |
+| Location | San Diego, California, United States |
 | Category | Sales Engineer |
-| Posted | 2026-06-03 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/boxinc/jobs/7950392) |
+| Posted | 2026-06-08 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/boxinc/jobs/7989079) |
 
 ## About This Role
 
-This sales engineer position at Box was posted on 2026-06-03.
+This sales engineer position at Box was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

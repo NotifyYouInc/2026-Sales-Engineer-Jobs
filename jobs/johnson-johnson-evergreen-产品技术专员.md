@@ -1,16 +1,16 @@
-# Evergreen - 产品技术专员 at Johnson & Johnson
+# Evergreen 产品技术专员 at Johnson & Johnson
 
 | Field | Details |
 |-------|---------|
 | Company | [Johnson & Johnson](https://scoutify.ai/companies/johnson-johnson?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Beijing, Beijing, China |
+| Location | Shijiazhuang, Hebei, China |
 | Category | Sales Engineer |
-| Posted | 2026-06-04 |
-| Apply | [View on company site](https://jj.wd5.myworkdayjobs.com/JJ/job/Beijing-China/Evergreen---_R-080740) |
+| Posted | 2026-06-08 |
+| Apply | [View on company site](https://jj.wd5.myworkdayjobs.com/JJ/job/Shijiazhuang-Hebei-China/Evergreen-_R-080751) |
 
 ## About This Role
 
-This sales engineer position at Johnson & Johnson was posted on 2026-06-04.
+This sales engineer position at Johnson & Johnson was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

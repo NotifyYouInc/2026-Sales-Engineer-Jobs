@@ -1,16 +1,16 @@
-# Service sales Engineer at Vanderlande Industries
+# Service Sales Engineer at Vanderlande Industries
 
 | Field | Details |
 |-------|---------|
 | Company | [Vanderlande Industries](https://scoutify.ai/companies/vanderlande-industries?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Pune, Maharashtra, India |
+| Location | Marietta, Georgia, United States |
 | Category | Sales Engineer |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://vanderlande.wd3.myworkdayjobs.com/careers/job/Pune-I/Service-sales-Engineer_JR36420-1) |
+| Posted | 2026-06-08 |
+| Apply | [View on company site](https://vanderlande.wd3.myworkdayjobs.com/careers/job/Marietta-GA-USA/Service-Sales-Engineer_JR36321-1) |
 
 ## About This Role
 
-This sales engineer position at Vanderlande Industries was posted on 2026-04-24.
+This sales engineer position at Vanderlande Industries was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Intuitive Surgical](https://scoutify.ai/companies/intuitivesurgical?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Memphis, Tennessee, United States |
+| Location | Modesto, California, United States |
 | Category | Sales Engineer |
-| Posted | 2026-05-14 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Intuitive/744000126526978-endoluminal-territory-associate-future-opportunity) |
+| Posted | 2026-06-08 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Intuitive/744000130808169-endoluminal-territory-associate-future-opportunity) |
 
 ## About This Role
 
-This sales engineer position at Intuitive Surgical was posted on 2026-05-14.
+This sales engineer position at Intuitive Surgical was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Commvault](https://scoutify.ai/companies/commvault?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Not specified |
-| Category | Business Development |
-| Posted | 2026-04-02 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/commvault/jobs/5171780008) |
+| Location | 3 locations |
+| Category | Sales Engineer |
+| Posted | 2026-06-08 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/commvault/jobs/5250158008) |
 
 ## About This Role
 
-This business development position at Commvault was posted on 2026-04-02.
+This sales engineer position at Commvault was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

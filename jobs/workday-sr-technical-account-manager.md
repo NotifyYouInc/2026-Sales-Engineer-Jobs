@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Workday](https://scoutify.ai/companies/workday?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Montréal, Quebec, Canada |
+| Location | 3 locations |
 | Category | Customer Success |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://workday.wd5.myworkdayjobs.com/Workday/job/Canada-QC-Montreal/Sr-Technical-Account-Manager_JR-0104920-1) |
+| Posted | 2026-06-08 |
+| Apply | [View on company site](https://workday.wd5.myworkdayjobs.com/Workday/job/USA-UT-Salt-Lake-City/Sr-Technical-Account-Manager_JR-0107640) |
 
 ## About This Role
 
-This customer success position at Workday was posted on 2026-03-25.
+This customer success position at Workday was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

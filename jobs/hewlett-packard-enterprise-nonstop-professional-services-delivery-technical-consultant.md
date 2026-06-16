@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Hewlett Packard Enterprise](https://scoutify.ai/companies/hewlett-packard-enterprise?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Spring, Texas, United States |
+| Location | Jakarta, Jakarta, Indonesia |
 | Category | Customer Success |
-| Posted | 2026-05-12 |
-| Apply | [View on company site](https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/Spring-Texas-United-States-of-America/Nonstop-Professional-Services-Delivery---Technical-Consultant_1205569) |
+| Posted | 2026-06-09 |
+| Apply | [View on company site](https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/Jakarta-Jakarta-Raya-Indonesia/Nonstop-Professional-Services-Delivery---Technical-Consultant_1205570) |
 
 ## About This Role
 
-This customer success position at Hewlett Packard Enterprise was posted on 2026-05-12.
+This customer success position at Hewlett Packard Enterprise was posted on 2026-06-09.
 
 ## Get Real-Time Alerts
 

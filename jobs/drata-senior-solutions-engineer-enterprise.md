@@ -5,12 +5,12 @@
 | Company | [Drata](https://scoutify.ai/companies/drata?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | United States |
 | Category | Sales Engineer |
-| Posted | 2026-01-14 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/drata/ff8945a9-3141-4ead-9e62-36db97762b01) |
+| Posted | 2026-06-08 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/drata/18f43d20-50f5-40ef-9d3f-98af38a31772) |
 
 ## About This Role
 
-This sales engineer position at Drata was posted on 2026-01-14.
+This sales engineer position at Drata was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

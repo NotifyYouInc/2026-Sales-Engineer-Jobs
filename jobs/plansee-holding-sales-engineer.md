@@ -5,12 +5,12 @@
 | Company | [Plansee Holding](https://scoutify.ai/companies/plansee-holding?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Charlotte, North Carolina, United States |
 | Category | Sales Engineer |
-| Posted | 2026-03-27 |
-| Apply | [View on company site](https://myhr.wd3.myworkdayjobs.com/planseegroup_career/job/Charlotte-NC-USA/Sales-Engineer_JR-10994) |
+| Posted | 2026-06-08 |
+| Apply | [View on company site](https://myhr.wd3.myworkdayjobs.com/planseegroup_career/job/Charlotte-NC-USA/Sales-Engineer_JR-11775) |
 
 ## About This Role
 
-This sales engineer position at Plansee Holding was posted on 2026-03-27.
+This sales engineer position at Plansee Holding was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

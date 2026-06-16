@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cohesity](https://scoutify.ai/companies/cohesity?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Seoul, Seoul, South Korea |
+| Location | Norway |
 | Category | Sales Engineer |
-| Posted | 2026-06-03 |
-| Apply | [View on company site](https://cohesity.wd5.myworkdayjobs.com/Cohesity_Careers/job/Seoul---Korea-Republic-of-Office/Sr-Sales-Engineer_R03594-1) |
+| Posted | 2026-06-08 |
+| Apply | [View on company site](https://cohesity.wd5.myworkdayjobs.com/Cohesity_Careers/job/Norway---Remote/Sr-Sales-Engineer_R03827) |
 
 ## About This Role
 
-This sales engineer position at Cohesity was posted on 2026-06-03.
+This sales engineer position at Cohesity was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

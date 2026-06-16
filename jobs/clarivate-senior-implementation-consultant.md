@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Clarivate](https://scoutify.ai/companies/clarivate?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Tokyo, Tokyo, Japan |
-| Category | Implementation / Professional Services |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://clarivate.wd3.myworkdayjobs.com/clarivate_careers/job/Japan---Tokyo/Senior-Implementation-Consultant_JREQ134302-1) |
+| Location | Seoul, Seoul, South Korea |
+| Category | Customer Success |
+| Posted | 2026-06-09 |
+| Apply | [View on company site](https://clarivate.wd3.myworkdayjobs.com/clarivate_careers/job/South-Korea---Seoul/Senior-Implementation-Consultant_JREQ135809-1) |
 
 ## About This Role
 
-This implementation / professional services position at Clarivate was posted on 2026-02-26.
+This customer success position at Clarivate was posted on 2026-06-09.
 
 ## Get Real-Time Alerts
 

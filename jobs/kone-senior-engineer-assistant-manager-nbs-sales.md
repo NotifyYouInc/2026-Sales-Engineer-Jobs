@@ -5,12 +5,12 @@
 | Company | [Kone](https://scoutify.ai/companies/kone?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Bhubaneswar, Odisha, India |
 | Category | Sales Engineer |
-| Posted | 2026-05-25 |
-| Apply | [View on company site](https://kone.wd3.myworkdayjobs.com/careers/job/Bhubaneswar/Senior-Engineer---Assistant-Manager---NBS-Sales_R0660905-1) |
+| Posted | 2026-06-08 |
+| Apply | [View on company site](https://kone.wd3.myworkdayjobs.com/careers/job/Bhubaneswar/Senior-Engineer---Assistant-Manager---NBS-Sales_R0661359-1) |
 
 ## About This Role
 
-This sales engineer position at Kone was posted on 2026-05-25.
+This sales engineer position at Kone was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 
