@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Johnson & Johnson](https://scoutify.ai/companies/johnson-johnson?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Beijing, Beijing, China |
-| Category | Business Development |
-| Posted | 2026-06-05 |
-| Apply | [View on company site](https://jj.wd5.myworkdayjobs.com/JJ/job/Beijing-China/Product-Specialist_R-081192) |
+| Location | Hangzhou, Zhejiang, China |
+| Category | Sales Engineer |
+| Posted | 2026-06-08 |
+| Apply | [View on company site](https://jj.wd5.myworkdayjobs.com/JJ/job/Hangzhou-Zhejiang-China/Product-Specialist_R-081464) |
 
 ## About This Role
 
-This business development position at Johnson & Johnson was posted on 2026-06-05.
+This sales engineer position at Johnson & Johnson was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

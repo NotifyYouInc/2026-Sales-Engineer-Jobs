@@ -5,12 +5,12 @@
 | Company | [Santen Pharmaceutical Co.](https://scoutify.ai/companies/santenpharmaceuticalco?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Beauvais, Hauts-de-France, France |
 | Category | Sales Engineer |
-| Posted | 2026-05-07 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Santen/744000125047589-attachee-a-la-promotion-du-medicament-hauts-de-france-partiel-ile-de-france-partiel) |
+| Posted | 2026-06-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Santen/744000131121629-attachee-a-la-promotion-du-medicament-hauts-de-france-partiel-ile-de-france-partiel) |
 
 ## About This Role
 
-This sales engineer position at Santen Pharmaceutical Co. was posted on 2026-05-07.
+This sales engineer position at Santen Pharmaceutical Co. was posted on 2026-06-09.
 
 ## Get Real-Time Alerts
 

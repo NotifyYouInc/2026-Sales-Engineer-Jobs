@@ -1,16 +1,16 @@
-# Implementation Consultant  at HighRadius
+# Implementation Consultant at HighRadius
 
 | Field | Details |
 |-------|---------|
 | Company | [HighRadius](https://scoutify.ai/companies/highradius?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | Customer Success |
-| Posted | 2026-06-05 |
-| Apply | [View on company site](https://www.highradius.com/about/careers-list/?gh_jid=7698058003) |
+| Posted | 2026-06-09 |
+| Apply | [View on company site](https://www.highradius.com/about/careers-list/?gh_jid=7699968003) |
 
 ## About This Role
 
-This customer success position at HighRadius was posted on 2026-06-05.
+This customer success position at HighRadius was posted on 2026-06-09.
 
 ## Get Real-Time Alerts
 

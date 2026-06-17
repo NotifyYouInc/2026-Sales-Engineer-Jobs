@@ -5,12 +5,12 @@
 | Company | [Rockwell Automation](https://scoutify.ai/companies/rockwellautomation?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | 2 locations |
 | Category | Customer Success |
-| Posted | 2026-03-16 |
-| Apply | [View on company site](https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Mayfield-Heights-Ohio-United-States/Technical-Account-Manager_R26-983) |
+| Posted | 2026-06-09 |
+| Apply | [View on company site](https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Bangalore-India/Technical-Account-Manager_R26-3183) |
 
 ## About This Role
 
-This customer success position at Rockwell Automation was posted on 2026-03-16.
+This customer success position at Rockwell Automation was posted on 2026-06-09.
 
 ## Get Real-Time Alerts
 

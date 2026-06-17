@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Chicago, Illinois, United States |
+| Location | 2 locations |
 | Category | Customer Success |
-| Posted | 2026-06-05 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckZKJpWUW3cms-fcYa_kKZ3_rxCznQAcXuz_cFhuHt2UsEjsACxwdTBWPRxNdBKh3WsN9Z1S1Ts90fG-meMwqF9ubzaVm86rJXzrutuwhVUkcK85rssQfFc6KQyzwqw%3D%3D_V2&loc=US&title=Technical+Account+Manager+I) |
+| Posted | 2026-06-09 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2Fckft8Svaf7cZhv_NjMDYVcV97uFe6uAcG1zZVce414x-lEjsACxwdTJ18iTo1HBflRlFNPpUPl1-2Ec3G8OQvoH7LHs27jsWv9O9D_egKkvCNktLL4TbSjDd9fAweJg%3D%3D_V2&loc=US&title=Technical+Account+Manager+I) |
 
 ## About This Role
 
-This customer success position at Google was posted on 2026-06-05.
+This customer success position at Google was posted on 2026-06-09.
 
 ## Get Real-Time Alerts
 

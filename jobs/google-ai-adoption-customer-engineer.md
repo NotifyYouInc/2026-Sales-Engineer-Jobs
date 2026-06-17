@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Mumbai, Maharashtra, India |
+| Location | 2 locations |
 | Category | Customer Success |
-| Posted | 2026-06-03 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckcAxJ8NV9XLVwJ67-QCM3uxye7pdfvbe_sC2lyCy7OwpEjsACxwdTF3DVXJrMU5NwujtwEQnCU_AGJ_EHMbLWQC1TeU0kYYwU7ShxGdvslU3gUkgwRnkf1Zf2sKYWg%3D%3D_V2&loc=IN&title=AI+Adoption+Customer+Engineer) |
+| Posted | 2026-06-09 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckSJXTyaJMwVyzfB9AqIMQwMBe4INi-UAi220d4tv4yBhEjsACxwdTCDJYx4rX3nYroVBusKId5jBEdr4bGl4ZV_kV-iRdk2T8D2vQOg1YX0uPv5PdO7Qn9ucV5_fAA%3D%3D_V2&loc=AU&title=AI+Adoption+Customer+Engineer) |
 
 ## About This Role
 
-This customer success position at Google was posted on 2026-06-03.
+This customer success position at Google was posted on 2026-06-09.
 
 ## Get Real-Time Alerts
 

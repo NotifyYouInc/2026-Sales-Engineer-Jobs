@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Equinix](https://scoutify.ai/companies/equinix?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Dallas, Texas, United States |
+| Location | 7 locations |
 | Category | Sales Engineer |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://equinix.wd1.myworkdayjobs.com/external/job/Dallas-Infomart-Office-DAI/Lead-Sales-Engineer_JR-160095) |
+| Posted | 2026-06-09 |
+| Apply | [View on company site](https://equinix.wd1.myworkdayjobs.com/external/job/Redwood-City/Lead-Sales-Engineer_JR-161490) |
 
 ## About This Role
 
-This sales engineer position at Equinix was posted on 2026-04-20.
+This sales engineer position at Equinix was posted on 2026-06-09.
 
 ## Get Real-Time Alerts
 

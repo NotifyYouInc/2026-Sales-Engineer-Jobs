@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Pune, Maharashtra, India |
-| Category | Technology / IT Consulting |
-| Posted | 2026-05-07 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=114063) |
+| Location | London, England, United Kingdom |
+| Category | Security Engineer |
+| Posted | 2026-06-09 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=118613) |
 
 ## About This Role
 
-This technology / it consulting position at IBM was posted on 2026-05-07.
+This security engineer position at IBM was posted on 2026-06-09.
 
 ## Get Real-Time Alerts
 

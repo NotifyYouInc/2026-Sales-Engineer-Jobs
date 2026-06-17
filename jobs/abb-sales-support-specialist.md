@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ABB](https://scoutify.ai/companies/abb?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Beijing, Beijing, China |
+| Location | Shanghai, Shanghai, China |
 | Category | Sales Engineer |
-| Posted | 2026-06-08 |
-| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Beijing-Beijing-China/Sales-Support-Specialist_JR00015380) |
+| Posted | 2026-06-10 |
+| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Shanghai-Shanghai-China/Sales-Support-Specialist_JR00033471) |
 
 ## About This Role
 
-This sales engineer position at ABB was posted on 2026-06-08.
+This sales engineer position at ABB was posted on 2026-06-10.
 
 ## Get Real-Time Alerts
 

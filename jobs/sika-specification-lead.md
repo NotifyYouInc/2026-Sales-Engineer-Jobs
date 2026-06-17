@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sika](https://scoutify.ai/companies/sika?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Lahore, Punjab, Pakistan |
+| Location | Karachi, Sindh, Pakistan |
 | Category | Sales Engineer |
-| Posted | 2026-05-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SikaAG/744000128185049-specification-lead) |
+| Posted | 2026-06-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SikaAG/744000131080099-specification-lead) |
 
 ## About This Role
 
-This sales engineer position at Sika was posted on 2026-05-25.
+This sales engineer position at Sika was posted on 2026-06-09.
 
 ## Get Real-Time Alerts
 

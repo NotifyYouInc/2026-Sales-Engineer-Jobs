@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [NXP Semiconductors](https://scoutify.ai/companies/nxp?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | San Jose, California, United States |
-| Category | Software Engineer |
-| Posted | 2026-04-09 |
-| Apply | [View on company site](https://nxp.wd3.myworkdayjobs.com/careers/job/San-Jose-Rose-Orchard/Field-Applications-Engineer---Microprocessors_R-10062617) |
+| Location | Austin, Texas, United States |
+| Category | Embedded / Firmware Engineer |
+| Posted | 2026-06-09 |
+| Apply | [View on company site](https://nxp.wd3.myworkdayjobs.com/careers/job/Austin-Oakhill-Office/Field-Applications-Engineer---Microprocessors_R-10063910-1) |
 
 ## About This Role
 
-This software engineer position at NXP Semiconductors was posted on 2026-04-09.
+This embedded / firmware engineer position at NXP Semiconductors was posted on 2026-06-09.
 
 ## Get Real-Time Alerts
 

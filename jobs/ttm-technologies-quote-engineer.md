@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [TTM Technologies](https://scoutify.ai/companies/ttm-technologies?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Ohio, US |
+| Location | Stafford Springs, Connecticut, United States |
 | Category | Sales Engineer |
-| Posted | 2026-06-05 |
-| Apply | [View on company site](https://ttmtech.wd5.myworkdayjobs.com/jobs/job/Remote---Ohio/Quote-Engineer_R16256) |
+| Posted | 2026-06-08 |
+| Apply | [View on company site](https://ttmtech.wd5.myworkdayjobs.com/jobs/job/Stafford-Springs-CT/Quote-Engineer_R16329-1) |
 
 ## About This Role
 
-This sales engineer position at TTM Technologies was posted on 2026-06-05.
+This sales engineer position at TTM Technologies was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

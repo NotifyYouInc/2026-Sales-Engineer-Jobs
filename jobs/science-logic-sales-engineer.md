@@ -1,16 +1,16 @@
-# Sales Engineer  at Science Logic
+# Sales Engineer at Science Logic
 
 | Field | Details |
 |-------|---------|
 | Company | [Science Logic](https://scoutify.ai/companies/science-logic?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | United States |
 | Category | Sales Engineer |
-| Posted | 2026-05-20 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/sciencelogic/62569330-4db7-44d0-8ca2-e2d4515be7d2) |
+| Posted | 2026-06-09 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/sciencelogic/885cde98-4120-4c06-9d37-be8470764a67) |
 
 ## About This Role
 
-This sales engineer position at Science Logic was posted on 2026-05-20.
+This sales engineer position at Science Logic was posted on 2026-06-09.
 
 ## Get Real-Time Alerts
 

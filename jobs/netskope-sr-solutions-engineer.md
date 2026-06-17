@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Netskope](https://scoutify.ai/companies/netskope?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | United States |
-| Category | Technical & Solutions Architect |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://www.netskope.com/company/careers/open-positions/?gh_jid=7946991) |
+| Location | Oregon, Ohio, United States |
+| Category | Sales Engineer |
+| Posted | 2026-06-09 |
+| Apply | [View on company site](https://www.netskope.com/company/careers/open-positions/?gh_jid=7993594) |
 
 ## About This Role
 
-This technical & solutions architect position at Netskope was posted on 2026-05-21.
+This sales engineer position at Netskope was posted on 2026-06-09.
 
 ## Get Real-Time Alerts
 

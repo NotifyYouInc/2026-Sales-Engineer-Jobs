@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [MSX International](https://scoutify.ai/companies/msxinternational?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Rivalta di Torino, Piedmont, Italy |
+| Location | Coventry, England, United Kingdom |
 | Category | Customer Success |
-| Posted | 2026-05-08 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/MSXInternational/3743990013035446-automotive-technical-specialist) |
+| Posted | 2026-06-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/MSXInternational/3743990013530556-automotive-technical-specialist) |
 
 ## About This Role
 
-This customer success position at MSX International was posted on 2026-05-08.
+This customer success position at MSX International was posted on 2026-06-09.
 
 ## Get Real-Time Alerts
 

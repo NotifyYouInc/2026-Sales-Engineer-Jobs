@@ -5,12 +5,12 @@
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Shanghai, Shanghai, China |
 | Category | Customer Success |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckewtLp3pRwYOVSVdXOBY0HBdfEVFMpsNV1zaO_4Y0Jr6EjoACxwdTDpM33GwjLEsHMDsswFfjCBAhJuUo8xNlfF861KYWrp5qoGOvp2MP4HKbxN7b7gTIqWAF6gB_V2&loc=CN&title=Technical+Account+Manager) |
+| Posted | 2026-06-10 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckfdKY_JNZO3qo73lNCTUsTDKwJ4HmCKPwBoHjpMDOnf3EjoACxwdTEIjuPxzVipIxYrLewU7f1mcyxQET9S-XKvhRRFQAmOddLU7iB7c9Pp3aqtdcnSzMew83Wyq_V2&loc=CN&title=Technical+Account+Manager) |
 
 ## About This Role
 
-This customer success position at Google was posted on 2026-04-29.
+This customer success position at Google was posted on 2026-06-10.
 
 ## Get Real-Time Alerts
 

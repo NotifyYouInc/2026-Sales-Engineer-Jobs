@@ -5,12 +5,12 @@
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Casalecchio di Reno, Emilia-Romagna, Italy |
 | Category | Sales Engineer |
-| Posted | 2026-06-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000130533420-junior-sales-engineer-industrial-hydraulics-graduate-specialist-program-mfd) |
+| Posted | 2026-06-08 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000130837692-junior-sales-engineer-industrial-hydraulics-graduate-specialist-program-mfd) |
 
 ## About This Role
 
-This sales engineer position at Robert Bosch was posted on 2026-06-05.
+This sales engineer position at Robert Bosch was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

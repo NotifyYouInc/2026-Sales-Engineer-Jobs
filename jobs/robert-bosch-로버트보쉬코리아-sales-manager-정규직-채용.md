@@ -5,12 +5,12 @@
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Gyeonggi-do, KR |
 | Category | Sales Engineer |
-| Posted | 2026-06-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000130500728-sales-manager) |
+| Posted | 2026-06-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000131280998-sales-manager) |
 
 ## About This Role
 
-This sales engineer position at Robert Bosch was posted on 2026-06-05.
+This sales engineer position at Robert Bosch was posted on 2026-06-10.
 
 ## Get Real-Time Alerts
 
