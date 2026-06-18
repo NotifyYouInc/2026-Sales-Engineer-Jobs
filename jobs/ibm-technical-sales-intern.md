@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Canberra, Australian Capital Territory, Australia |
+| Location | Auckland, Auckland, New Zealand |
 | Category | Sales Engineer |
 | Posted | 2026-06-09 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=119469) |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=119480) |
 
 ## About This Role
 

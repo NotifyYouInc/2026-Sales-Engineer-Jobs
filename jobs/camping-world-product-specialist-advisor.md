@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Camping World](https://scoutify.ai/companies/campingworld?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Longmont, Colorado, United States |
-| Category | Account Manager |
-| Posted | 2026-06-04 |
-| Apply | [View on company site](https://campingworld.wd5.myworkdayjobs.com/Jobs/job/Longmont-CO/Product-Specialist-Advisor_26_05583) |
+| Location | Pinellas Park, Florida, United States |
+| Category | Business Development |
+| Posted | 2026-06-10 |
+| Apply | [View on company site](https://campingworld.wd5.myworkdayjobs.com/Jobs/job/Pinellas-Park-FL/Product-Specialist-Advisor_26_05455) |
 
 ## About This Role
 
-This account manager position at Camping World was posted on 2026-06-04.
+This business development position at Camping World was posted on 2026-06-10.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Tokyo, Tokyo, Japan |
-| Category | Digital / Performance Marketing |
-| Posted | 2026-05-25 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10429272/programmatic-solutions-consultant-amazon-ads) |
+| Location | São Paulo, São Paulo, Brazil |
+| Category | Business Development |
+| Posted | 2026-05-12 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10417576/programmatic-solutions-consultant-amazon-ads) |
 
 ## About This Role
 
-This digital / performance marketing position at Amazon was posted on 2026-05-25.
+This business development position at Amazon was posted on 2026-05-12.
 
 ## Get Real-Time Alerts
 

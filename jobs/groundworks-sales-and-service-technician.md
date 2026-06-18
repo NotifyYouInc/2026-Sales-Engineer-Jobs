@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Groundworks](https://scoutify.ai/companies/groundworks?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | 6 locations |
+| Location | Sherwood Park, Alberta, Canada |
 | Category | Sales Engineer |
-| Posted | 2026-06-01 |
-| Apply | [View on company site](https://groundworks.wd1.myworkdayjobs.com/groundworks/job/Moberly-MO/Sales-and-Service-Technician_JR111385) |
+| Posted | 2026-06-10 |
+| Apply | [View on company site](https://groundworks.wd1.myworkdayjobs.com/groundworks/job/Sherwood-Park-AB/Sales-and-Service-Technician_JR111391) |
 
 ## About This Role
 
-This sales engineer position at Groundworks was posted on 2026-06-01.
+This sales engineer position at Groundworks was posted on 2026-06-10.
 
 ## Get Real-Time Alerts
 

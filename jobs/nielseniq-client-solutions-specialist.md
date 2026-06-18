@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Istanbul, Istanbul, Turkey |
-| Category | Account Manager |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000120911427-client-solutions-specialist) |
+| Category | Customer Success |
+| Posted | 2026-06-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000131460399-client-solutions-specialist) |
 
 ## About This Role
 
-This account manager position at NielsenIQ was posted on 2026-04-15.
+This customer success position at NielsenIQ was posted on 2026-06-10.
 
 ## Get Real-Time Alerts
 

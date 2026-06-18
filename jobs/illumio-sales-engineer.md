@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Illumio](https://scoutify.ai/companies/illumio?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Missouri, US |
-| Category | Technical Writer |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/illumio/47b05cfa-6e6e-40b4-b083-a58937cd553e) |
+| Location | United Kingdom |
+| Category | Sales Engineer |
+| Posted | 2026-06-10 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/illumio/528e8a71-18fc-45e8-a94c-10b103522cb5) |
 
 ## About This Role
 
-This technical writer position at Illumio was posted on 2026-03-10.
+This sales engineer position at Illumio was posted on 2026-06-10.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Salesforce](https://scoutify.ai/companies/salesforce?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | London, England, United Kingdom |
+| Location | 3 locations |
 | Category | Sales Engineer |
-| Posted | 2026-06-03 |
-| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/United-Kingdom---London/Specialist-Solution-Engineer_JR344345) |
+| Posted | 2026-06-10 |
+| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Illinois---Chicago/Specialist-Solution-Engineer_JR343793) |
 
 ## About This Role
 
-This sales engineer position at Salesforce was posted on 2026-06-03.
+This sales engineer position at Salesforce was posted on 2026-06-10.
 
 ## Get Real-Time Alerts
 

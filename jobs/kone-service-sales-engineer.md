@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Kone](https://scoutify.ai/companies/kone?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Dubai, Dubai, United Arab Emirates |
-| Category | Account Executive |
-| Posted | 2026-04-02 |
-| Apply | [View on company site](https://kone.wd3.myworkdayjobs.com/careers/job/Dubai/Service-Sales-Engineer_R0658531) |
+| Location | Manama, Manama, Bahrain |
+| Category | Sales Engineer |
+| Posted | 2026-06-11 |
+| Apply | [View on company site](https://kone.wd3.myworkdayjobs.com/careers/job/Manama/Service-Sales-Engineer_R0661429) |
 
 ## About This Role
 
-This account executive position at Kone was posted on 2026-04-02.
+This sales engineer position at Kone was posted on 2026-06-11.
 
 ## Get Real-Time Alerts
 

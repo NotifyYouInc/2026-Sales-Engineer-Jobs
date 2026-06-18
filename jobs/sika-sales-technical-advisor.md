@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Sika](https://scoutify.ai/companies/sika?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Belgium |
-| Category | Sales Engineer |
-| Posted | 2026-06-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SikaAG/744000130182830-sales-technical-advisor) |
+| Category | Account Manager |
+| Posted | 2026-06-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SikaAG/744000131425063-sales-technical-advisor) |
 
 ## About This Role
 
-This sales engineer position at Sika was posted on 2026-06-04.
+This account manager position at Sika was posted on 2026-06-10.
 
 ## Get Real-Time Alerts
 

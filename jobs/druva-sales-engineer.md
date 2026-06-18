@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Druva](https://scoutify.ai/companies/druva?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | 2 locations |
+| Location | Pune, Maharashtra, India |
 | Category | Sales Engineer |
-| Posted | 2026-04-01 |
-| Apply | [View on company site](https://www.druva.com/why-druva/explore/careers/jobs/8388069002/?gh_jid=8388069002) |
+| Posted | 2026-06-10 |
+| Apply | [View on company site](https://www.druva.com/why-druva/explore/careers/jobs/8564337002/?gh_jid=8564337002) |
 
 ## About This Role
 
-This sales engineer position at Druva was posted on 2026-04-01.
+This sales engineer position at Druva was posted on 2026-06-10.
 
 ## Get Real-Time Alerts
 

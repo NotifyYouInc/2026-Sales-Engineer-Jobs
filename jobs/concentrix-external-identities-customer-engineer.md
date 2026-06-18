@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Concentrix](https://scoutify.ai/companies/concentrix?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | 2 locations |
-| Category | Software Engineer |
-| Posted | 2026-05-29 |
-| Apply | [View on company site](https://cnx.wd1.myworkdayjobs.com/external_global/job/ESP-Barcelona---Malaga-Spain-Client-Site/External-Identities-Customer-Engineer_R1734937) |
+| Location | Germany |
+| Category | Technology / IT Consulting |
+| Posted | 2026-06-10 |
+| Apply | [View on company site](https://cnx.wd1.myworkdayjobs.com/external_global/job/DEU-Work-at-Home-Dusseldorf/External-Identities-Customer-Engineer_R1737235) |
 
 ## About This Role
 
-This software engineer position at Concentrix was posted on 2026-05-29.
+This technology / it consulting position at Concentrix was posted on 2026-06-10.
 
 ## Get Real-Time Alerts
 

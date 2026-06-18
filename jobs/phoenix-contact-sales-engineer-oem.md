@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Phoenix Contact](https://scoutify.ai/companies/phoenix-contact?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | United States |
+| Location | Ann Arbor, Michigan, United States |
 | Category | Sales Engineer |
-| Posted | 2026-06-08 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/phoenixcontact/jobs/7651585003) |
+| Posted | 2026-06-09 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/phoenixcontact/jobs/7758798003) |
 
 ## About This Role
 
-This sales engineer position at Phoenix Contact was posted on 2026-06-08.
+This sales engineer position at Phoenix Contact was posted on 2026-06-09.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Aviatrix](https://scoutify.ai/companies/aviatrix?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Bavaria, DE |
-| Category | Technical & Solutions Architect |
-| Posted | 2026-05-14 |
-| Apply | [View on company site](https://aviatrix.com/careers/?gh_jid=4693063005) |
+| Location | California, US |
+| Category | Security Engineer |
+| Posted | 2026-06-10 |
+| Apply | [View on company site](https://aviatrix.com/careers/?gh_jid=4703334005) |
 
 ## About This Role
 
-This technical & solutions architect position at Aviatrix was posted on 2026-05-14.
+This security engineer position at Aviatrix was posted on 2026-06-10.
 
 ## Get Real-Time Alerts
 

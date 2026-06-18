@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | London, England, United Kingdom |
-| Category | Technical & Solutions Architect |
-| Posted | 2026-06-08 |
-| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/London-United-Kingdom/Solutions-Engineer_2012754-1) |
+| Location | New Delhi, Delhi, India |
+| Category | Sales Engineer |
+| Posted | 2026-06-09 |
+| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/New-Delhi-India/Solutions-Engineer_2003686) |
 
 ## About This Role
 
-This technical & solutions architect position at Cisco was posted on 2026-06-08.
+This sales engineer position at Cisco was posted on 2026-06-09.
 
 ## Get Real-Time Alerts
 

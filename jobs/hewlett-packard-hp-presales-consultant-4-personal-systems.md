@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Hewlett Packard (HP)](https://scoutify.ai/companies/hp?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Michigan, US |
+| Location | District of Columbia, US |
 | Category | Sales Engineer |
-| Posted | 2026-06-08 |
-| Apply | [View on company site](https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/All-Cities-Michigan-United-States-of-America/Presales-Consultant-4--Personal-Systems_3163479-1) |
+| Posted | 2026-06-09 |
+| Apply | [View on company site](https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/All-Cities-Virginia-United-States-of-America/Presales-Consultant-4--Personal-Systems_3163429) |
 
 ## About This Role
 
-This sales engineer position at Hewlett Packard (HP) was posted on 2026-06-08.
+This sales engineer position at Hewlett Packard (HP) was posted on 2026-06-09.
 
 ## Get Real-Time Alerts
 

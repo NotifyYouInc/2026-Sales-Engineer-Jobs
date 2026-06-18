@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ABB](https://scoutify.ai/companies/abb?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | 2 locations |
-| Category | Customer Success |
-| Posted | 2026-06-01 |
-| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/USA-OH-Cleveland/Technical-Account-Manager_JR00035795-1) |
+| Location | Nashik, Maharashtra, India |
+| Category | Account Manager |
+| Posted | 2026-06-11 |
+| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Nashik-Maharashtra-India/Technical-Account-Manager_JR00037272) |
 
 ## About This Role
 
-This customer success position at ABB was posted on 2026-06-01.
+This account manager position at ABB was posted on 2026-06-11.
 
 ## Get Real-Time Alerts
 

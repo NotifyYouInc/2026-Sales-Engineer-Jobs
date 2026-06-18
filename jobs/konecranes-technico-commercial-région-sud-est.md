@@ -5,12 +5,12 @@
 | Company | [Konecranes](https://scoutify.ai/companies/konecranes?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Lyon, Rhône-Alpes, France |
 | Category | Sales Engineer |
-| Posted | 2026-06-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Konecranes/744000130388269-technico-commercial-region-sud-est) |
+| Posted | 2026-06-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Konecranes/744000131387509-technico-commercial-region-sud-est) |
 
 ## About This Role
 
-This sales engineer position at Konecranes was posted on 2026-06-05.
+This sales engineer position at Konecranes was posted on 2026-06-10.
 
 ## Get Real-Time Alerts
 

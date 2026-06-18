@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Datadog](https://scoutify.ai/companies/datadog?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | 2 locations |
+| Location | San Francisco, California, United States |
 | Category | Customer Success |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://careers.datadoghq.com/detail/7834559/?gh_jid=7834559) |
+| Posted | 2026-06-10 |
+| Apply | [View on company site](https://careers.datadoghq.com/detail/7989146/?gh_jid=7989146) |
 
 ## About This Role
 
-This customer success position at Datadog was posted on 2026-04-24.
+This customer success position at Datadog was posted on 2026-06-10.
 
 ## Get Real-Time Alerts
 

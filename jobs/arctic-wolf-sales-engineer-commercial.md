@@ -5,12 +5,12 @@
 | Company | [Arctic Wolf](https://scoutify.ai/companies/arcticwolf?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Eden Prairie, Minnesota, United States |
 | Category | Sales Engineer |
-| Posted | 2026-05-20 |
-| Apply | [View on company site](https://arcticwolf.wd1.myworkdayjobs.com/External/job/Eden-Prairie-MN-USA/Sales-Engineer---Commercial_R26_530) |
+| Posted | 2026-06-10 |
+| Apply | [View on company site](https://arcticwolf.wd1.myworkdayjobs.com/External/job/Eden-Prairie-MN-USA/Sales-Engineer---Commercial_R26_649-1) |
 
 ## About This Role
 
-This sales engineer position at Arctic Wolf was posted on 2026-05-20.
+This sales engineer position at Arctic Wolf was posted on 2026-06-10.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Snowflake](https://scoutify.ai/companies/snowflake?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | West Virginia, US |
-| Category | Sales Engineer |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/snowflake/a5cf7425-8109-4d5b-94d5-03f584cea83d) |
+| Location | Stockholm, Stockholm, Sweden |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-06-10 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/snowflake/1c9830cf-4309-49e5-abdd-0906f60ddbd2) |
 
 ## About This Role
 
-This sales engineer position at Snowflake was posted on 2026-05-18.
+This technical & solutions architect position at Snowflake was posted on 2026-06-10.
 
 ## Get Real-Time Alerts
 

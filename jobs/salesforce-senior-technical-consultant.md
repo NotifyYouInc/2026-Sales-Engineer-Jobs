@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Salesforce](https://scoutify.ai/companies/salesforce?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | 2 locations |
+| Location | Madrid, Madrid, Spain |
 | Category | Customer Success |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Hyderabad/Senior-Technical-Consultant_JR316542) |
+| Posted | 2026-06-10 |
+| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Spain---Madrid/Senior-Technical-Consultant_JR345807) |
 
 ## About This Role
 
-This customer success position at Salesforce was posted on 2026-05-18.
+This customer success position at Salesforce was posted on 2026-06-10.
 
 ## Get Real-Time Alerts
 

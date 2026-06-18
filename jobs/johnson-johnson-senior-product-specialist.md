@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Johnson & Johnson](https://scoutify.ai/companies/johnson-johnson?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Changchun, Jilin, China |
-| Category | Corporate Finance |
-| Posted | 2026-06-01 |
-| Apply | [View on company site](https://jj.wd5.myworkdayjobs.com/JJ/job/Changchun-Jilin-China/Senior-Product-Specialist_R-038324) |
+| Location | Hong Kong |
+| Category | Sales Leadership |
+| Posted | 2026-06-10 |
+| Apply | [View on company site](https://jj.wd5.myworkdayjobs.com/JJ/job/Mongkok-Kowloon-Hong-Kong/Senior-Product-Specialist_R-081167) |
 
 ## About This Role
 
-This corporate finance position at Johnson & Johnson was posted on 2026-06-01.
+This sales leadership position at Johnson & Johnson was posted on 2026-06-10.
 
 ## Get Real-Time Alerts
 

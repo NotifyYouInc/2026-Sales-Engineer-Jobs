@@ -1,16 +1,16 @@
-# Legal Engineer - Product Specialist at Harvey
+# Legal Engineer, Product Specialist at Harvey
 
 | Field | Details |
 |-------|---------|
 | Company | [Harvey](https://scoutify.ai/companies/harvey?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | New York City, New York, United States |
-| Category | Legal |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/harvey/2dd28360-5a6b-4769-adb6-e747f0f0bdcc) |
+| Location | Milan, Lombardy, Italy |
+| Category | Customer Success |
+| Posted | 2026-06-11 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/harvey/5f2e05de-e876-4a90-a609-ce17e4f2a3d4) |
 
 ## About This Role
 
-This legal position at Harvey was posted on 2026-04-21.
+This customer success position at Harvey was posted on 2026-06-11.
 
 ## Get Real-Time Alerts
 

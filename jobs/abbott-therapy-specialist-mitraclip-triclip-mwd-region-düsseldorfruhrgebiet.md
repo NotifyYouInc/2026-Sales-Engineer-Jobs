@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Abbott](https://scoutify.ai/companies/abbott-laboratories?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Wetzlar, Hesse, Germany |
+| Location | Düsseldorf, North Rhine-Westphalia, Germany |
 | Category | Sales Engineer |
-| Posted | 2026-05-20 |
-| Apply | [View on company site](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/Germany---Wetzlar/Therapy-Specialist-MitraClip---TriClip--m-w-d--Region-Dsseldorf-Ruhrgebiet_31150571) |
+| Posted | 2026-06-10 |
+| Apply | [View on company site](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/Germany--Dsseldorf/Therapy-Specialist-MitraClip---TriClip--m-w-d--Region-Dsseldorf-Ruhrgebiet_31153210) |
 
 ## About This Role
 
-This sales engineer position at Abbott was posted on 2026-05-20.
+This sales engineer position at Abbott was posted on 2026-06-10.
 
 ## Get Real-Time Alerts
 
