@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AECOM](https://scoutify.ai/companies/aecom?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | London, England, United Kingdom |
-| Category | Software Engineer |
-| Posted | 2026-05-07 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000125084825-ai-solution-engineer) |
+| Location | Zug, Zug, Switzerland |
+| Category | AI / LLM Engineer |
+| Posted | 2026-06-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000131720108-ai-solution-engineer) |
 
 ## About This Role
 
-This software engineer position at AECOM was posted on 2026-05-07.
+This ai / llm engineer position at AECOM was posted on 2026-06-11.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Johnson Controls](https://scoutify.ai/companies/jci?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Austin, Texas, United States |
+| Location | Capitol Heights, Maryland, United States |
 | Category | Software Engineer |
-| Posted | 2026-06-02 |
-| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Austin-Texas-United-States-of-America/Equipment-Systems-Application-Engineer_WD30271146) |
+| Posted | 2026-06-11 |
+| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Capitol-Heights-Maryland-United-States-of-America/Equipment-Systems-Application-Engineer_WD30271914) |
 
 ## About This Role
 
-This software engineer position at Johnson Controls was posted on 2026-06-02.
+This software engineer position at Johnson Controls was posted on 2026-06-11.
 
 ## Get Real-Time Alerts
 

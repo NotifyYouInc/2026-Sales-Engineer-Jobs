@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Johnson & Johnson](https://scoutify.ai/companies/johnson-johnson?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Jinan, Shandong, China |
-| Category | Sales Engineer |
-| Posted | 2026-06-09 |
-| Apply | [View on company site](https://jj.wd5.myworkdayjobs.com/JJ/job/Jinan-Shandong-China/Product-Specialist_R-081692) |
+| Location | Taguig, National Capital Region, Philippines |
+| Category | Account Executive |
+| Posted | 2026-06-10 |
+| Apply | [View on company site](https://jj.wd5.myworkdayjobs.com/JJ/job/Taguig-National-Capital-Region-Manila-Philippines/Product-Specialist_R-078081) |
 
 ## About This Role
 
-This sales engineer position at Johnson & Johnson was posted on 2026-06-09.
+This account executive position at Johnson & Johnson was posted on 2026-06-10.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Technical Account Manager - Property Developer Solution  at Redpin
+# Technical Account Manager- Property Developer Solution  at Redpin
 
 | Field | Details |
 |-------|---------|
 | Company | [Redpin](https://scoutify.ai/companies/redpin?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Dubai, Dubai, United Arab Emirates |
-| Category | Customer Success |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://job-boards.eu.greenhouse.io/currenciesdirect/jobs/4870762101) |
+| Category | Account Manager |
+| Posted | 2026-06-11 |
+| Apply | [View on company site](https://job-boards.eu.greenhouse.io/currenciesdirect/jobs/4895061101) |
 
 ## About This Role
 
-This customer success position at Redpin was posted on 2026-05-19.
+This account manager position at Redpin was posted on 2026-06-11.
 
 ## Get Real-Time Alerts
 

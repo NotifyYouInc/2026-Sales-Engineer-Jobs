@@ -5,12 +5,12 @@
 | Company | [General Dynamics Information Technology](https://scoutify.ai/companies/general-dynamics-information-technology?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Atlantic City, New Jersey, United States |
 | Category | IT & Systems Administration |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-NJ-Egg-Harbor-Township/Information-Technology-Specialist_RQ218481-1) |
+| Posted | 2026-06-11 |
+| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-NJ-Egg-Harbor-Township/Information-Technology-Specialist_RQ221717-1) |
 
 ## About This Role
 
-This it & systems administration position at General Dynamics Information Technology was posted on 2026-04-20.
+This it & systems administration position at General Dynamics Information Technology was posted on 2026-06-11.
 
 ## Get Real-Time Alerts
 

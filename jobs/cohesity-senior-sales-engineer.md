@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cohesity](https://scoutify.ai/companies/cohesity?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | São Paulo, São Paulo, Brazil |
+| Location | United States |
 | Category | Sales Engineer |
-| Posted | 2026-05-20 |
-| Apply | [View on company site](https://cohesity.wd5.myworkdayjobs.com/Cohesity_Careers/job/Brazil---Sao-Paulo---Remote/Senior-Sales-Engineer_R03456) |
+| Posted | 2026-06-11 |
+| Apply | [View on company site](https://cohesity.wd5.myworkdayjobs.com/Cohesity_Careers/job/Washington-DC-Metro-Area---USA-Remote/Senior-Sales-Engineer_R03735) |
 
 ## About This Role
 
-This sales engineer position at Cohesity was posted on 2026-05-20.
+This sales engineer position at Cohesity was posted on 2026-06-11.
 
 ## Get Real-Time Alerts
 

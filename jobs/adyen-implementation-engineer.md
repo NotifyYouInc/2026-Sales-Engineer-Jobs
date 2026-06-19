@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Adyen](https://scoutify.ai/companies/adyen?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | São Paulo, São Paulo, Brazil |
+| Location | Shanghai, Shanghai, China |
 | Category | Customer Success |
-| Posted | 2026-06-04 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/adyen/jobs/7594290) |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/adyen/jobs/7776139) |
 
 ## About This Role
 
-This customer success position at Adyen was posted on 2026-06-04.
+This customer success position at Adyen was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

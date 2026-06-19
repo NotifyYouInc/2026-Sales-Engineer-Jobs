@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Hamina, Kymenlaakso, Finland |
+| Location | Saint-Ghislain, Wallonia, Belgium |
 | Category | DevOps Engineer |
-| Posted | 2026-06-09 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckXMIA-ueLK_XesopaKkHVAxxt2w5ERHRzbMAJs9jW1yaEjsACxwdTLDuH8bWTAYiNmfVNZ5n4uk2ctZx16Ay0UDs4A75dypY0gJ-cXuTudk8LXcGivQ9-WieaUfMzA%3D%3D_V2&loc=FI&title=Network+Implementation+Engineer) |
+| Posted | 2026-06-11 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckbA7nu1ppftiE9z9q9_36h1uELwK5UrWdpk4D70lw_LrEjsACxwdTCQJyUgmKzJ7x-fzM9flDTeGIoXnnY5W8s3DPmBgnhVW9a4gqk8z7jzfhPpRGomchKBqvcdSWw%3D%3D_V2&loc=BE&title=Network+Implementation+Engineer) |
 
 ## About This Role
 
-This devops engineer position at Google was posted on 2026-06-09.
+This devops engineer position at Google was posted on 2026-06-11.
 
 ## Get Real-Time Alerts
 

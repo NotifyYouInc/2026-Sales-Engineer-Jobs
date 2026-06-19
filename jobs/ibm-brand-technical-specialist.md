@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Armonk, New York, United States |
-| Category | Data Engineer |
-| Posted | 2026-06-01 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=118293) |
+| Location | Esch-sur-Alzette, Esch-sur-Alzette, Luxembourg |
+| Category | Sales Engineer |
+| Posted | 2026-06-11 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=120430) |
 
 ## About This Role
 
-This data engineer position at IBM was posted on 2026-06-01.
+This sales engineer position at IBM was posted on 2026-06-11.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | United States |
+| Location | California, US |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-06-03 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=118532) |
+| Posted | 2026-06-11 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=120309) |
 
 ## About This Role
 
-This technical & solutions architect position at IBM was posted on 2026-06-03.
+This technical & solutions architect position at IBM was posted on 2026-06-11.
 
 ## Get Real-Time Alerts
 

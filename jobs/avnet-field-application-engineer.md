@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Avnet](https://scoutify.ai/companies/avnet?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | New Delhi, Delhi, India |
+| Location | Milan, Lombardy, Italy |
 | Category | Software Engineer |
-| Posted | 2026-06-08 |
-| Apply | [View on company site](https://avnet.wd1.myworkdayjobs.com/external/job/New-Delhi-India/Field-Application-Engineer_JR-022832) |
+| Posted | 2026-06-11 |
+| Apply | [View on company site](https://avnet.wd1.myworkdayjobs.com/external/job/Milan-Italy/AMD-XILINX-Field-Application-Engineer_JR-023092) |
 
 ## About This Role
 
-This software engineer position at Avnet was posted on 2026-06-08.
+This software engineer position at Avnet was posted on 2026-06-11.
 
 ## Get Real-Time Alerts
 

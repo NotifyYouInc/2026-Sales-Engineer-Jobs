@@ -5,12 +5,12 @@
 | Company | [Rotork](https://scoutify.ai/companies/rotork?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Bergen, Vestland, Norway |
 | Category | Sales Engineer |
-| Posted | 2026-06-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Rotork1/744000131153094-inside-sales-engineer) |
+| Posted | 2026-06-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Rotork1/744000131374379-inside-sales-engineer) |
 
 ## About This Role
 
-This sales engineer position at Rotork was posted on 2026-06-09.
+This sales engineer position at Rotork was posted on 2026-06-10.
 
 ## Get Real-Time Alerts
 

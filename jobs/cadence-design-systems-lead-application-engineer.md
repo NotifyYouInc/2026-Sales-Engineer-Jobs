@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cadence Design Systems](https://scoutify.ai/companies/cadence-design-systems?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Noida, Uttar Pradesh, India |
-| Category | Semiconductor / Chip Design |
-| Posted | 2026-04-07 |
-| Apply | [View on company site](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/BANGALORE/Lead-Application-Engineer_R53454) |
+| Location | Katowice, Silesia, Poland |
+| Category | Software Engineer |
+| Posted | 2026-06-11 |
+| Apply | [View on company site](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/KATOWICE-01/Lead-Application-Engineer_R55026-1) |
 
 ## About This Role
 
-This semiconductor / chip design position at Cadence Design Systems was posted on 2026-04-07.
+This software engineer position at Cadence Design Systems was posted on 2026-06-11.
 
 ## Get Real-Time Alerts
 

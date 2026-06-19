@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Thales](https://scoutify.ai/companies/thales?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Halifax, Nova Scotia, Canada |
+| Location | Mill Bay, British Columbia, Canada |
 | Category | Electrical / Hardware Engineer |
-| Posted | 2026-05-12 |
-| Apply | [View on company site](https://thales.wd3.myworkdayjobs.com/Careers/job/Halifax---Wilkinson/AJISS-Technical-Specialist---Electrical_R0328091-2) |
+| Posted | 2026-06-11 |
+| Apply | [View on company site](https://thales.wd3.myworkdayjobs.com/Careers/job/Mill-Bay---Squlew/AJISS-Technical-Specialist---Electrical_R0331309-1) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Thales was posted on 2026-05-12.
+This electrical / hardware engineer position at Thales was posted on 2026-06-11.
 
 ## Get Real-Time Alerts
 

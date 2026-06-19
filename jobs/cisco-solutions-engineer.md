@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | New Delhi, Delhi, India |
-| Category | Sales Engineer |
-| Posted | 2026-06-09 |
-| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/New-Delhi-India/Solutions-Engineer_2003686) |
+| Location | Dhaka, Dhaka Division, Bangladesh |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-06-11 |
+| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Dhaka-Bangladesh/Solutions-Engineer_2016644) |
 
 ## About This Role
 
-This sales engineer position at Cisco was posted on 2026-06-09.
+This technical & solutions architect position at Cisco was posted on 2026-06-11.
 
 ## Get Real-Time Alerts
 

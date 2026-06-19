@@ -5,12 +5,12 @@
 | Company | [Broadcom](https://scoutify.ai/companies/broadcom?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Plano, Texas, United States |
 | Category | Customer Success |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://broadcom.wd1.myworkdayjobs.com/External_Career/job/USA-TX-Plano-Legacy-Drive-Suite-700/Sr-Mainframe-Technical-Consultant_R025728) |
+| Posted | 2026-06-11 |
+| Apply | [View on company site](https://broadcom.wd1.myworkdayjobs.com/External_Career/job/USA-TX-Plano-Legacy-Drive-Suite-700/Sr-Mainframe-Technical-Consultant_R026221) |
 
 ## About This Role
 
-This customer success position at Broadcom was posted on 2026-04-15.
+This customer success position at Broadcom was posted on 2026-06-11.
 
 ## Get Real-Time Alerts
 

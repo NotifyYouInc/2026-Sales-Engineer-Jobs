@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Stryker](https://scoutify.ai/companies/stryker?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | 3 locations |
-| Category | Customer Success |
-| Posted | 2026-05-29 |
-| Apply | [View on company site](https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Dsseldorf-Germany/Associate-Mako-Product-Specialist--m-w-d--Groraum-Dsseldorf-Krefeld--Ostwestfalen_R566604) |
+| Location | Duisburg, North Rhine-Westphalia, Germany |
+| Category | Sales Engineer |
+| Posted | 2026-06-11 |
+| Apply | [View on company site](https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Duisburg-Germany/Associate-Mako-Product-Specialist--m-w-d--Groraum-Dsseldorf-Krefeld--Ostwestfalen_R566838) |
 
 ## About This Role
 
-This customer success position at Stryker was posted on 2026-05-29.
+This sales engineer position at Stryker was posted on 2026-06-11.
 
 ## Get Real-Time Alerts
 

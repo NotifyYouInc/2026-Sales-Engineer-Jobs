@@ -5,12 +5,12 @@
 | Company | [REXEL](https://scoutify.ai/companies/rexel?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Brescia, Lombardy, Italy |
 | Category | Electrical / Hardware Engineer |
-| Posted | 2026-06-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/REXEL1/744000131079339-electrical-distribution-specialist) |
+| Posted | 2026-06-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/REXEL1/744000131473859-electrical-distribution-specialist) |
 
 ## About This Role
 
-This electrical / hardware engineer position at REXEL was posted on 2026-06-09.
+This electrical / hardware engineer position at REXEL was posted on 2026-06-10.
 
 ## Get Real-Time Alerts
 

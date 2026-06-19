@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Caterpillar](https://scoutify.ai/companies/caterpillar?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Beijing, Beijing, China |
+| Location | Geneva, CH |
 | Category | Sales Engineer |
-| Posted | 2026-06-01 |
-| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Beijing-Beijing/Work-Tool-Specialist_R0000373606) |
+| Posted | 2026-06-11 |
+| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Geneva-6-Geneva/Work-Tool-Specialist_R0000376258) |
 
 ## About This Role
 
-This sales engineer position at Caterpillar was posted on 2026-06-01.
+This sales engineer position at Caterpillar was posted on 2026-06-11.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Pre-sales Systems Engineer at Hewlett Packard Enterprise
+# Pre-Sales Systems Engineer at Hewlett Packard Enterprise
 
 | Field | Details |
 |-------|---------|
 | Company | [Hewlett Packard Enterprise](https://scoutify.ai/companies/hewlett-packard-enterprise?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Michigan, US |
+| Location | Oklahoma, US |
 | Category | Sales Engineer |
-| Posted | 2026-04-02 |
-| Apply | [View on company site](https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/All-Michigan-United-States-of-America/Pre-sales-Systems-Engineer_1198547) |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/All-Oklahoma-United-States-of-America/Pre-Sales-Systems-Engineer_1207042-2) |
 
 ## About This Role
 
-This sales engineer position at Hewlett Packard Enterprise was posted on 2026-04-02.
+This sales engineer position at Hewlett Packard Enterprise was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

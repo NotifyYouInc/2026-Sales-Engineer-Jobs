@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Warsaw, Mazovia, Poland |
-| Category | Account Manager |
-| Posted | 2026-05-15 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990013152436-product-specialist-medical-representative) |
+| Category | Account Executive |
+| Posted | 2026-06-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990013574886-product-specialist-medical-representative) |
 
 ## About This Role
 
-This account manager position at AbbVie was posted on 2026-05-15.
+This account executive position at AbbVie was posted on 2026-06-11.
 
 ## Get Real-Time Alerts
 

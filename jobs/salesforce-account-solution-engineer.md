@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Salesforce](https://scoutify.ai/companies/salesforce?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Tel Aviv, Tel Aviv, Israel |
+| Location | Vienna, Vienna, Austria |
 | Category | Sales Engineer |
-| Posted | 2026-05-26 |
-| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Israel---Tel-Aviv/Account-Solution-Engineer_JR343715) |
+| Posted | 2026-06-11 |
+| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Austria---Vienna/Account-Solution-Engineer_JR345887) |
 
 ## About This Role
 
-This sales engineer position at Salesforce was posted on 2026-05-26.
+This sales engineer position at Salesforce was posted on 2026-06-11.
 
 ## Get Real-Time Alerts
 

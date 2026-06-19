@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [FLSMIDTH](https://scoutify.ai/companies/flsmidth?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Gauteng, ZA |
+| Location | Edmonton, Alberta, Canada |
 | Category | Sales Engineer |
-| Posted | 2026-05-14 |
-| Apply | [View on company site](https://flsmidth.wd3.myworkdayjobs.com/fls_global/job/Kempton-Park-Gauteng/Repair-Specialist_R29883-1) |
+| Posted | 2026-06-11 |
+| Apply | [View on company site](https://flsmidth.wd3.myworkdayjobs.com/fls_global/job/Edmonton/Repair-Specialist_R30205) |
 
 ## About This Role
 
-This sales engineer position at FLSMIDTH was posted on 2026-05-14.
+This sales engineer position at FLSMIDTH was posted on 2026-06-11.
 
 ## Get Real-Time Alerts
 

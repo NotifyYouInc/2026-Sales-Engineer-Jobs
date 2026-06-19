@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Perth, Western Australia, Australia |
+| Location | Sydney, New South Wales, Australia |
 | Category | Account Executive |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10394476/senior-ai-sales-specialist) |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10447436/senior-ai-sales-specialist) |
 
 ## About This Role
 
-This account executive position at Amazon was posted on 2026-04-17.
+This account executive position at Amazon was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

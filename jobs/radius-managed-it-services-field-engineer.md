@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Radius](https://scoutify.ai/companies/radius?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Crewe, England, United Kingdom |
+| Location | Belfast, Northern Ireland, United Kingdom |
 | Category | IT & Systems Administration |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/RadiusLimited/744000122047795-managed-it-services-field-engineer) |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/RadiusLimited/744000131828090-managed-it-services-field-engineer) |
 
 ## About This Role
 
-This it & systems administration position at Radius was posted on 2026-04-21.
+This it & systems administration position at Radius was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

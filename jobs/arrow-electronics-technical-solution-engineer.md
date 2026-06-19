@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Arrow Electronics](https://scoutify.ai/companies/arrow-electronics?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Courbevoie, Île-de-France, France |
-| Category | Customer Success |
-| Posted | 2026-06-03 |
-| Apply | [View on company site](https://arrow.wd1.myworkdayjobs.com/ac/job/FR-Courbevoie-France-Rue-du-Gnral-Audran/Technical-Solution-Engineer_R243851) |
+| Category | Sales Engineer |
+| Posted | 2026-06-11 |
+| Apply | [View on company site](https://arrow.wd1.myworkdayjobs.com/ac/job/FR-Courbevoie-France-Rue-du-Gnral-Audran/Technical-Solution-Engineer_R243849) |
 
 ## About This Role
 
-This customer success position at Arrow Electronics was posted on 2026-06-03.
+This sales engineer position at Arrow Electronics was posted on 2026-06-11.
 
 ## Get Real-Time Alerts
 

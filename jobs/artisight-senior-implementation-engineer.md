@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Artisight](https://scoutify.ai/companies/artisight?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | United States |
-| Category | Customer Success |
-| Posted | 2026-03-18 |
-| Apply | [View on company site](https://artisight.com/positions/?gh_jid=4186274009) |
+| Location | Chicago, Illinois, United States |
+| Category | DevOps Engineer |
+| Posted | 2026-06-11 |
+| Apply | [View on company site](https://artisight.com/positions/?gh_jid=4284049009) |
 
 ## About This Role
 
-This customer success position at Artisight was posted on 2026-03-18.
+This devops engineer position at Artisight was posted on 2026-06-11.
 
 ## Get Real-Time Alerts
 
