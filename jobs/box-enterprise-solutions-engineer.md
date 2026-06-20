@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Box](https://scoutify.ai/companies/box?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Tampa, Florida, United States |
+| Location | Atlanta, Georgia, United States |
 | Category | Sales Engineer |
-| Posted | 2026-06-10 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/boxinc/jobs/7985637) |
+| Posted | 2026-06-11 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/boxinc/jobs/8001042) |
 
 ## About This Role
 
-This sales engineer position at Box was posted on 2026-06-10.
+This sales engineer position at Box was posted on 2026-06-11.
 
 ## Get Real-Time Alerts
 

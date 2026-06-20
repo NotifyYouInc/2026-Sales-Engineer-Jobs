@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Esri](https://scoutify.ai/companies/esri?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Redlands, California, United States |
-| Category | Technology / IT Consulting |
-| Posted | 2026-04-01 |
-| Apply | [View on company site](https://www.esri.com/careers/5096363007?gh_jid=5096363007) |
+| Location | Vienna, Virginia, United States |
+| Category | Customer Success |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://www.esri.com/careers/5163349007?gh_jid=5163349007) |
 
 ## About This Role
 
-This technology / it consulting position at Esri was posted on 2026-04-01.
+This customer success position at Esri was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

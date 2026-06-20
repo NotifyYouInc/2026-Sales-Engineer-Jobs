@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amentum](https://scoutify.ai/companies/amentum?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Edmonds, Washington, United States |
+| Location | California, US |
 | Category | Electrical / Hardware Engineer |
-| Posted | 2026-06-10 |
-| Apply | [View on company site](https://pae.wd1.myworkdayjobs.com/amentum_careers/job/US-WA-Edmonds/Electrical-Mechanical-Integration-Field-Engineer_R0163125) |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://pae.wd1.myworkdayjobs.com/amentum_careers/job/US-CA-China-Lake/Electrical-Mechanical-Integration-Field-Engineer_R0163126) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Amentum was posted on 2026-06-10.
+This electrical / hardware engineer position at Amentum was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Assessor Técnico Junior at Medtronic
+# Assessor técnico junior at Medtronic
 
 | Field | Details |
 |-------|---------|
 | Company | [Medtronic](https://scoutify.ai/companies/medtronic?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Brasília, Federal District, Brazil |
+| Location | São Paulo, São Paulo, Brazil |
 | Category | Sales Engineer |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Brasilia-Distrito-Federal-Brazil/Especificao-do-Servio-ao-Paciente-da-Assoc_R63403-1) |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Sao-Paulo-Sao-Paulo-Brazil/Assessor-tcnico-junior_R69518-1) |
 
 ## About This Role
 
-This sales engineer position at Medtronic was posted on 2026-04-13.
+This sales engineer position at Medtronic was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

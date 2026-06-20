@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Postman](https://scoutify.ai/companies/postman?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Vancouver, British Columbia, Canada |
+| Location | Austin, Texas, United States |
 | Category | Sales Engineer |
-| Posted | 2026-05-20 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/postman/jobs/7741989003) |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/postman/jobs/7691486003) |
 
 ## About This Role
 
-This sales engineer position at Postman was posted on 2026-05-20.
+This sales engineer position at Postman was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Abbott](https://scoutify.ai/companies/abbott-laboratories?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Tucson, Arizona, United States |
-| Category | Sales Engineer |
-| Posted | 2026-05-29 |
-| Apply | [View on company site](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Arizona---Tucson/Clinical-Associate_31150932-1) |
+| Location | 2 locations |
+| Category | Customer Success |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Pennsylvania---Lancaster/Clinical-Associate_31149726-2) |
 
 ## About This Role
 
-This sales engineer position at Abbott was posted on 2026-05-29.
+This customer success position at Abbott was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

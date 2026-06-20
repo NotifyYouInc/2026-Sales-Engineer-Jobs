@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [DXC Technology](https://scoutify.ai/companies/dxctechnology?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Mexico City, Mexico City, Mexico |
+| Location | Halifax, Nova Scotia, Canada |
 | Category | DevOps Engineer |
-| Posted | 2026-06-05 |
-| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/MEX---DIF---MEXICO-CITY/Dynatrace-Implementation-Engineer_51582269) |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/CAN---NS---HALIFAX/Dynatrace-Implementation-Engineer_51570079) |
 
 ## About This Role
 
-This devops engineer position at DXC Technology was posted on 2026-06-05.
+This devops engineer position at DXC Technology was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

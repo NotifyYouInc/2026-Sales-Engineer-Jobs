@@ -1,4 +1,4 @@
-# REPRESENTANTE TÉCNICO DE  VENTAS - Caracterización Mecánica de Superficies y Materiales at Anton Paar
+# Representante Técnico de Ventas- Caracterización Mecánica de Superficies y Materiales at Anton Paar
 
 | Field | Details |
 |-------|---------|
@@ -6,7 +6,7 @@
 | Location | Mexico City, Mexico City, Mexico |
 | Category | Sales Engineer |
 | Posted | 2026-06-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AntonPaar1/744000131529729-representante-tecnico-de-ventas-caracterizacion-mecanica-de-superficies-y-materiales) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AntonPaar1/744000131533589-representante-tecnico-de-ventas-caracterizacion-mecanica-de-superficies-y-materiales) |
 
 ## About This Role
 

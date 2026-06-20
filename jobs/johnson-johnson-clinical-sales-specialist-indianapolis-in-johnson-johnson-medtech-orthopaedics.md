@@ -5,12 +5,12 @@
 | Company | [Johnson & Johnson](https://scoutify.ai/companies/johnson-johnson?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Indianapolis, Indiana, United States |
 | Category | Account Executive |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://jj.wd5.myworkdayjobs.com/JJ/job/Indianapolis-Indiana-United-States/Clinical-Sales-Specialist---Indianapolis--IN---Johnson---Johnson-MedTech---Orthopaedics_R-065672) |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://jj.wd5.myworkdayjobs.com/JJ/job/Indianapolis-Indiana-United-States/Clinical-Sales-Specialist---Indianapolis--IN---Johnson---Johnson-MedTech---Orthopaedics_R-082119-1) |
 
 ## About This Role
 
-This account executive position at Johnson & Johnson was posted on 2026-04-14.
+This account executive position at Johnson & Johnson was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

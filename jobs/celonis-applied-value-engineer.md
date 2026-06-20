@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Celonis](https://scoutify.ai/companies/celonis?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Bengaluru, Karnataka, India |
-| Category | Sales Engineer |
-| Posted | 2026-05-27 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/celonis/jobs/7635326003?gh_jid=7635326003) |
+| Location | New York City, New York, United States |
+| Category | AI / ML Research |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/celonis/jobs/7764541003?gh_jid=7764541003) |
 
 ## About This Role
 
-This sales engineer position at Celonis was posted on 2026-05-27.
+This ai / ml research position at Celonis was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

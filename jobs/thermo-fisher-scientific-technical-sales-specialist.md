@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Thermo Fisher Scientific](https://scoutify.ai/companies/thermo-fisher-scientific?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Beijing, Beijing, China |
+| Location | Boston, Massachusetts, United States |
 | Category | Sales Engineer |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Beijing-China/Technical-Sales-Specialist_R-01352908) |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Boston-Massachusetts-USA/Technical-Sales-Specialist_R-01356659) |
 
 ## About This Role
 
-This sales engineer position at Thermo Fisher Scientific was posted on 2026-05-11.
+This sales engineer position at Thermo Fisher Scientific was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

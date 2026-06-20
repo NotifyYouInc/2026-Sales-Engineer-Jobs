@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Carrier Global](https://scoutify.ai/companies/carrier?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | East Syracuse, New York, United States |
+| Location | 2 locations |
 | Category | Sales Engineer |
-| Posted | 2026-05-28 |
-| Apply | [View on company site](https://carrier.wd5.myworkdayjobs.com/jobs/job/CAN01-Carrier-Syracuse-6304-Carrier-Parkway-East-Syracuse-NY-13057-USA/Inside-Sales-Engineer_30207389) |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://carrier.wd5.myworkdayjobs.com/jobs/job/CAN05-CCS-Charlotte-5900-Northwoods-Business-Parkway-Charlotte-NC-28269-USA/Inside-Sales-Engineer_30207979) |
 
 ## About This Role
 
-This sales engineer position at Carrier Global was posted on 2026-05-28.
+This sales engineer position at Carrier Global was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

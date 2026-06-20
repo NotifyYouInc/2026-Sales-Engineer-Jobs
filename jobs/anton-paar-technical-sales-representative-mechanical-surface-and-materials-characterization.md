@@ -1,16 +1,16 @@
-# TECHNICAL SALES  REPRESENTATIVE – Mechanical Surface and Materials Characterization at Anton Paar
+# Technical Sales Representative – Mechanical Surface and Materials Characterization at Anton Paar
 
 | Field | Details |
 |-------|---------|
 | Company | [Anton Paar](https://scoutify.ai/companies/antonpaar?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Mexico City, Mexico City, Mexico |
-| Category | Sales Engineer |
+| Category | Account Executive |
 | Posted | 2026-06-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AntonPaar1/744000131528339-technical-sales-representative-mechanical-surface-and-materials-characterization) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AntonPaar1/744000131532939-technical-sales-representative-mechanical-surface-and-materials-characterization) |
 
 ## About This Role
 
-This sales engineer position at Anton Paar was posted on 2026-06-10.
+This account executive position at Anton Paar was posted on 2026-06-10.
 
 ## Get Real-Time Alerts
 

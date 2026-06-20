@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Netskope](https://scoutify.ai/companies/netskope?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Arizona, US |
+| Location | Tennessee, US |
 | Category | Sales Engineer |
-| Posted | 2026-06-05 |
-| Apply | [View on company site](https://www.netskope.com/company/careers/open-positions/?gh_jid=7986156) |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://www.netskope.com/company/careers/open-positions/?gh_jid=7984543) |
 
 ## About This Role
 
-This sales engineer position at Netskope was posted on 2026-06-05.
+This sales engineer position at Netskope was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

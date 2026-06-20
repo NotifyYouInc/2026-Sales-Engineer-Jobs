@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Johnson & Johnson](https://scoutify.ai/companies/johnson-johnson?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Shaanxi, CN |
+| Location | Shanghai, Shanghai, China |
 | Category | Sales Engineer |
-| Posted | 2026-06-10 |
-| Apply | [View on company site](https://jj.wd5.myworkdayjobs.com/JJ/job/Xian-Shaanxi-China/YLX-fortytwo-Clinical-Specialist_R-070117) |
+| Posted | 2026-06-11 |
+| Apply | [View on company site](https://jj.wd5.myworkdayjobs.com/JJ/job/Shanghai-China/YLX-fortytwo-Clinical-Specialist_R-070112) |
 
 ## About This Role
 
-This sales engineer position at Johnson & Johnson was posted on 2026-06-10.
+This sales engineer position at Johnson & Johnson was posted on 2026-06-11.
 
 ## Get Real-Time Alerts
 

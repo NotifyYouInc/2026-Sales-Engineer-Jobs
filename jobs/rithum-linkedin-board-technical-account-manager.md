@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Rithum LinkedIn Board](https://scoutify.ai/companies/rithum-linkedin-board?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | United States |
+| Location | Raleigh, North Carolina, United States |
 | Category | Customer Success |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/rithumliboard/jobs/7868186) |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/rithumliboard/jobs/8003877) |
 
 ## About This Role
 
-This customer success position at Rithum LinkedIn Board was posted on 2026-04-29.
+This customer success position at Rithum LinkedIn Board was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

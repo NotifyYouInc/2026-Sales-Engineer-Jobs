@@ -1,16 +1,16 @@
-# Lead Sales Engineering Specialist, Security at Fivetran
+# Lead Sales Engineering Specialist - Security at Fivetran
 
 | Field | Details |
 |-------|---------|
 | Company | [Fivetran](https://scoutify.ai/companies/fivetran?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | California, US |
-| Category | Sales Engineer |
-| Posted | 2026-05-01 |
-| Apply | [View on company site](https://www.fivetran.com/careers/job?gh_jid=7705028003) |
+| Location | Ireland |
+| Category | Security Engineer |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://www.fivetran.com/careers/job?gh_jid=7771515003) |
 
 ## About This Role
 
-This sales engineer position at Fivetran was posted on 2026-05-01.
+This security engineer position at Fivetran was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 
