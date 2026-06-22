@@ -1,16 +1,16 @@
-# Pre-Sales Engineer, Cybersecurity at Hewlett Packard Enterprise
+# Pre-Sales Systems Engineer (SASE & Security) at Hewlett Packard Enterprise
 
 | Field | Details |
 |-------|---------|
 | Company | [Hewlett Packard Enterprise](https://scoutify.ai/companies/hewlett-packard-enterprise?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Virginia, Free State, South Africa |
-| Category | Technical & Solutions Architect |
+| Location | Philadelphia, Pennsylvania, United States |
+| Category | Sales Engineer |
 | Posted | 2026-06-15 |
-| Apply | [View on company site](https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/All-Virginia-United-States-of-America/Pre-Sales-Engineer--Cybersecurity_1208115-3) |
+| Apply | [View on company site](https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/Philadelphia-Pennsylvania/Pre-Sales-Systems-Engineer--SASE---Security-_1208042) |
 
 ## About This Role
 
-This technical & solutions architect position at Hewlett Packard Enterprise was posted on 2026-06-15.
+This sales engineer position at Hewlett Packard Enterprise was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

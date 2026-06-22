@@ -1,16 +1,16 @@
-# Sales Support Engineer at Kone
+# Product sales at Philips
 
 | Field | Details |
 |-------|---------|
-| Company | [Kone](https://scoutify.ai/companies/kone?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Shanghai, Shanghai, China |
+| Company | [Philips](https://scoutify.ai/companies/philips?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
+| Location | Beijing, Beijing, China |
 | Category | Sales Engineer |
 | Posted | 2026-06-15 |
-| Apply | [View on company site](https://kone.wd3.myworkdayjobs.com/careers/job/Shanghai-FL-HQ/Sales-Support-Engineer_R0661550) |
+| Apply | [View on company site](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Beijing/Product-sales_583923) |
 
 ## About This Role
 
-This sales engineer position at Kone was posted on 2026-06-15.
+This sales engineer position at Philips was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

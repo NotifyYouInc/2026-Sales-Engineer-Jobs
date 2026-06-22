@@ -1,16 +1,16 @@
-# Sales Support Engineer at Kone
+# Technical Consultant at Conga
 
 | Field | Details |
 |-------|---------|
-| Company | [Kone](https://scoutify.ai/companies/kone?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Shanghai, Shanghai, China |
-| Category | Sales Engineer |
+| Company | [Conga](https://scoutify.ai/companies/conga?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
+| Location | Bengaluru, Karnataka, India |
+| Category | Customer Success |
 | Posted | 2026-06-15 |
-| Apply | [View on company site](https://kone.wd3.myworkdayjobs.com/careers/job/Shanghai-FL-HQ/Sales-Support-Engineer_R0661550) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/conga/jobs/5163448007) |
 
 ## About This Role
 
-This sales engineer position at Kone was posted on 2026-06-15.
+This customer success position at Conga was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

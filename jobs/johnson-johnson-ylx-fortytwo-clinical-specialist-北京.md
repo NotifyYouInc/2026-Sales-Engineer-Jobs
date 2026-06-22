@@ -1,16 +1,16 @@
-# Sales Support Engineer at Kone
+# YLX fortytwo Clinical Specialist 北京 at Johnson & Johnson
 
 | Field | Details |
 |-------|---------|
-| Company | [Kone](https://scoutify.ai/companies/kone?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Shanghai, Shanghai, China |
+| Company | [Johnson & Johnson](https://scoutify.ai/companies/johnson-johnson?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
+| Location | Beijing, Beijing, China |
 | Category | Sales Engineer |
 | Posted | 2026-06-15 |
-| Apply | [View on company site](https://kone.wd3.myworkdayjobs.com/careers/job/Shanghai-FL-HQ/Sales-Support-Engineer_R0661550) |
+| Apply | [View on company site](https://jj.wd5.myworkdayjobs.com/JJ/job/Beijing-China/YLX-fortytwo-Clinical-Specialist-_R-070120) |
 
 ## About This Role
 
-This sales engineer position at Kone was posted on 2026-06-15.
+This sales engineer position at Johnson & Johnson was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

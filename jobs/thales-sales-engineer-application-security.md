@@ -1,16 +1,16 @@
-# Sales Engineer, Application Security at Thales
+# Sales Engineer (Application Security) at Thales
 
 | Field | Details |
 |-------|---------|
 | Company | [Thales](https://scoutify.ai/companies/thales?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | 3 locations |
+| Location | Texas, US |
 | Category | Sales Engineer |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://thales.wd3.myworkdayjobs.com/Careers/job/California-Remote/Sales-Engineer--Application-Security_R0324198-1) |
+| Posted | 2026-06-15 |
+| Apply | [View on company site](https://thales.wd3.myworkdayjobs.com/Careers/job/Texas/Sales-Engineer--Application-Security-_R0330981-1) |
 
 ## About This Role
 
-This sales engineer position at Thales was posted on 2026-04-23.
+This sales engineer position at Thales was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

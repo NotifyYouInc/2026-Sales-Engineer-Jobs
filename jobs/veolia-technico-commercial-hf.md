@@ -1,16 +1,16 @@
-# Technico commercial H/F at Veolia
+# Technico Commercial H/F at Veolia
 
 | Field | Details |
 |-------|---------|
 | Company | [Veolia](https://scoutify.ai/companies/veolia?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Mouilleron-le-Captif, Pays de la Loire, France |
+| Location | France |
 | Category | Account Manager |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000121956387-technico-commercial-hf) |
+| Posted | 2026-06-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000132126106-technico-commercial-hf) |
 
 ## About This Role
 
-This account manager position at Veolia was posted on 2026-04-21.
+This account manager position at Veolia was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

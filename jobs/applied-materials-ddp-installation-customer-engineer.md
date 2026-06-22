@@ -1,16 +1,16 @@
-# Customer Engineer III-CMP at Applied Materials
+# DDP Installation Customer Engineer at Applied Materials
 
 | Field | Details |
 |-------|---------|
 | Company | [Applied Materials](https://scoutify.ai/companies/applied-materials?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Shenzhen, Guangdong, China |
+| Location | Not specified |
 | Category | Marketing |
-| Posted | 2026-06-12 |
-| Apply | [View on company site](https://amat.wd1.myworkdayjobs.com/External/job/ShenzhenCHN/Customer-Engineer-III-CMP_R2621510) |
+| Posted | 2026-06-14 |
+| Apply | [View on company site](https://amat.wd1.myworkdayjobs.com/External/job/Pyeongtaek-NF-SummitKOR/DDP-Installation-Customer-Engineer_R2621472) |
 
 ## About This Role
 
-This marketing position at Applied Materials was posted on 2026-06-12.
+This marketing position at Applied Materials was posted on 2026-06-14.
 
 ## Get Real-Time Alerts
 

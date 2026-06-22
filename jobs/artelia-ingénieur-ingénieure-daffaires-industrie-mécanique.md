@@ -5,12 +5,12 @@
 | Company | [Artelia](https://scoutify.ai/companies/artelia?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Toulouse, Occitanie, France |
 | Category | Sales Engineer |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Artelia/744000126327248-ingenieur-ingenieure-daffaires-industrie-mecanique) |
+| Posted | 2026-06-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Artelia/744000132123320-ingenieur-ingenieure-daffaires-industrie-mecanique) |
 
 ## About This Role
 
-This sales engineer position at Artelia was posted on 2026-05-13.
+This sales engineer position at Artelia was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

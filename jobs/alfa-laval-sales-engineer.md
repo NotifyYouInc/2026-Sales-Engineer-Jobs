@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Alfa Laval](https://scoutify.ai/companies/alfa-laval?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Richmond, Virginia, United States |
+| Location | Shanghai, Shanghai, China |
 | Category | Sales Engineer |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://alfalaval.wd3.myworkdayjobs.com/alfa_laval_jobs/job/Richmond-VA/Sales-Engineer_JR0045547) |
+| Posted | 2026-06-15 |
+| Apply | [View on company site](https://alfalaval.wd3.myworkdayjobs.com/alfa_laval_jobs/job/Shanghai-Others/Sales-Engineer_JR0045822) |
 
 ## About This Role
 
-This sales engineer position at Alfa Laval was posted on 2026-05-21.
+This sales engineer position at Alfa Laval was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

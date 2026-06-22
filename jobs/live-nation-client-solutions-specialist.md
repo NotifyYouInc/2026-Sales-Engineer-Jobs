@@ -1,16 +1,16 @@
-# Technical Account Manager at Mindbody
+# Client Solutions Specialist at Live Nation
 
 | Field | Details |
 |-------|---------|
-| Company | [Mindbody](https://scoutify.ai/companies/mindbody?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Australia |
+| Company | [Live Nation](https://scoutify.ai/companies/live-nation?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
+| Location | Melbourne, Victoria, Australia |
 | Category | Customer Success |
 | Posted | 2026-06-15 |
-| Apply | [View on company site](https://www.playlist.com/careers/opportunities/4688920006?gh_jid=4688920006) |
+| Apply | [View on company site](https://livenation.wd503.myworkdayjobs.com/LNExternalSite/job/Melbourne-Australia/Client-Solutions-Specialist_JR-90289-2) |
 
 ## About This Role
 
-This customer success position at Mindbody was posted on 2026-06-15.
+This customer success position at Live Nation was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

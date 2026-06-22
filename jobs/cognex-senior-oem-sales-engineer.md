@@ -1,16 +1,16 @@
-# Sales Support Engineer at Kone
+# Senior OEM Sales Engineer at Cognex
 
 | Field | Details |
 |-------|---------|
-| Company | [Kone](https://scoutify.ai/companies/kone?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Shanghai, Shanghai, China |
+| Company | [Cognex](https://scoutify.ai/companies/cognex?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
+| Location | Shenzhen, Guangdong, China |
 | Category | Sales Engineer |
 | Posted | 2026-06-15 |
-| Apply | [View on company site](https://kone.wd3.myworkdayjobs.com/careers/job/Shanghai-FL-HQ/Sales-Support-Engineer_R0661550) |
+| Apply | [View on company site](https://cognex.wd1.myworkdayjobs.com/External_Career_Site/job/Shenzhen-China/Senior-OEM-Sales-Engineer_R0012081) |
 
 ## About This Role
 
-This sales engineer position at Kone was posted on 2026-06-15.
+This sales engineer position at Cognex was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

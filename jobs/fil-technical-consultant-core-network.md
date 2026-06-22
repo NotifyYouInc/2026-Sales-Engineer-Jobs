@@ -1,16 +1,16 @@
-# Technical Account Manager at Mindbody
+# Technical Consultant - Core Network at Fil
 
 | Field | Details |
 |-------|---------|
-| Company | [Mindbody](https://scoutify.ai/companies/mindbody?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Australia |
+| Company | [Fil](https://scoutify.ai/companies/fil?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
+| Location | 2 locations |
 | Category | Customer Success |
-| Posted | 2026-06-15 |
-| Apply | [View on company site](https://www.playlist.com/careers/opportunities/4688920006?gh_jid=4688920006) |
+| Posted | 2026-06-14 |
+| Apply | [View on company site](https://fil.wd3.myworkdayjobs.com/001/job/FIL-Bengaluru-Office/Technical-Consultant---Core-Network_J67971-1) |
 
 ## About This Role
 
-This customer success position at Mindbody was posted on 2026-06-15.
+This customer success position at Fil was posted on 2026-06-14.
 
 ## Get Real-Time Alerts
 

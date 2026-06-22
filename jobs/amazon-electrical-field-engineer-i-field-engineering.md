@@ -1,16 +1,16 @@
-# Programmatic Solutions Consultant, Amazon Ads at Amazon
+# Electrical Field Engineer I, Field Engineering at Amazon
 
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | New York City, New York, United States |
-| Category | Digital / Performance Marketing |
+| Location | Canton, Michigan, United States |
+| Category | Electrical / Hardware Engineer |
 | Posted | 2026-04-30 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10408023/programmatic-solutions-consultant-amazon-ads) |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10408239/electrical-field-engineer-i-field-engineering) |
 
 ## About This Role
 
-This digital / performance marketing position at Amazon was posted on 2026-04-30.
+This electrical / hardware engineer position at Amazon was posted on 2026-04-30.
 
 ## Get Real-Time Alerts
 

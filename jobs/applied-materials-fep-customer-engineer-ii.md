@@ -1,16 +1,16 @@
-# Customer Engineer III-CMP at Applied Materials
+# FEP Customer Engineer II at Applied Materials
 
 | Field | Details |
 |-------|---------|
 | Company | [Applied Materials](https://scoutify.ai/companies/applied-materials?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Shenzhen, Guangdong, China |
+| Location | Kumamoto, Kumamoto, Japan |
 | Category | Marketing |
-| Posted | 2026-06-12 |
-| Apply | [View on company site](https://amat.wd1.myworkdayjobs.com/External/job/ShenzhenCHN/Customer-Engineer-III-CMP_R2621510) |
+| Posted | 2026-06-15 |
+| Apply | [View on company site](https://amat.wd1.myworkdayjobs.com/External/job/KumamotoJPN/FEP-Customer-Engineer-II_R2621990) |
 
 ## About This Role
 
-This marketing position at Applied Materials was posted on 2026-06-12.
+This marketing position at Applied Materials was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

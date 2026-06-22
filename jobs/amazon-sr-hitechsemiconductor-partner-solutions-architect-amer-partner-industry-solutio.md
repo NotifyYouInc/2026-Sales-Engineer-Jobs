@@ -1,16 +1,16 @@
-# Programmatic Solutions Consultant, Amazon Ads at Amazon
+# Sr. HiTech/Semiconductor Partner Solutions Architect, AMER Partner Industry & Solutions at Amazon
 
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | New York City, New York, United States |
-| Category | Digital / Performance Marketing |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10408023/programmatic-solutions-consultant-amazon-ads) |
+| Location | Seattle, Washington, United States |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-05-15 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10421102/sr-hitech-semiconductor-partner-solutions-architect-amer-partner-industry-solutions) |
 
 ## About This Role
 
-This digital / performance marketing position at Amazon was posted on 2026-04-30.
+This technical & solutions architect position at Amazon was posted on 2026-05-15.
 
 ## Get Real-Time Alerts
 

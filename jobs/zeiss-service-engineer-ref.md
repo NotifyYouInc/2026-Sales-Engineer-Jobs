@@ -1,16 +1,16 @@
-# Sales Support Engineer at Kone
+# Service Engineer, REF at Zeiss
 
 | Field | Details |
 |-------|---------|
-| Company | [Kone](https://scoutify.ai/companies/kone?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
+| Company | [Zeiss](https://scoutify.ai/companies/zeissgroup?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Shanghai, Shanghai, China |
 | Category | Sales Engineer |
 | Posted | 2026-06-15 |
-| Apply | [View on company site](https://kone.wd3.myworkdayjobs.com/careers/job/Shanghai-FL-HQ/Sales-Support-Engineer_R0661550) |
+| Apply | [View on company site](https://zeissgroup.wd3.myworkdayjobs.com/External/job/Shanghai/Service-Engineer--REF_JR_1050520) |
 
 ## About This Role
 
-This sales engineer position at Kone was posted on 2026-06-15.
+This sales engineer position at Zeiss was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

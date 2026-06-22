@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Johnson Controls](https://scoutify.ai/companies/jci?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Chengdu, Sichuan, China |
+| Location | Qingdao, Shandong, China |
 | Category | Channel / Partner Sales |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Chengdu-Sichuan-China/Channel-Sales-Engineer_WD30261590) |
+| Posted | 2026-06-15 |
+| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Qingdao-Shandong-China/Channel-Sales-Engineer_WD30271938) |
 
 ## About This Role
 
-This channel / partner sales position at Johnson Controls was posted on 2026-02-24.
+This channel / partner sales position at Johnson Controls was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

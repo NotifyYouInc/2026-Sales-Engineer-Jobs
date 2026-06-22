@@ -1,12 +1,12 @@
-# Account Solution Architect at Red Hat
+# EMEA Specialist Solution Architect, AI - Ecosystem at Red Hat
 
 | Field | Details |
 |-------|---------|
 | Company | [Red Hat](https://scoutify.ai/companies/red-hat?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Mumbai, Maharashtra, India |
+| Location | Switzerland |
 | Category | Technical & Solutions Architect |
 | Posted | 2026-06-14 |
-| Apply | [View on company site](https://redhat.wd5.myworkdayjobs.com/Jobs/job/Mumbai/Account-Solution-Architect_R-056556-2) |
+| Apply | [View on company site](https://redhat.wd5.myworkdayjobs.com/Jobs/job/Remote-Sweden/EMEA-Specialist-Solution-Architect--AI---Ecosystem_R-055890-1) |
 
 ## About This Role
 

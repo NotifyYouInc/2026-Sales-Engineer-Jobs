@@ -1,16 +1,16 @@
-# Technical Account Manager at Mindbody
+# Technical Consultant at Trellix
 
 | Field | Details |
 |-------|---------|
-| Company | [Mindbody](https://scoutify.ai/companies/mindbody?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Australia |
+| Company | [Trellix](https://scoutify.ai/companies/trellix?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
+| Location | Tokyo, Tokyo, Japan |
 | Category | Customer Success |
 | Posted | 2026-06-15 |
-| Apply | [View on company site](https://www.playlist.com/careers/opportunities/4688920006?gh_jid=4688920006) |
+| Apply | [View on company site](https://trellix.wd1.myworkdayjobs.com/EnterpriseCareers/job/Japan-Tokyo/Technical-Consultant_JR0037183) |
 
 ## About This Role
 
-This customer success position at Mindbody was posted on 2026-06-15.
+This customer success position at Trellix was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

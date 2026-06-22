@@ -1,16 +1,16 @@
-# Sales Support Engineer at Kone
+# HashiCorp Solutions Engineer at IBM
 
 | Field | Details |
 |-------|---------|
-| Company | [Kone](https://scoutify.ai/companies/kone?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Shanghai, Shanghai, China |
-| Category | Sales Engineer |
+| Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
+| Location | Singapore, Singapore |
+| Category | Technical & Solutions Architect |
 | Posted | 2026-06-15 |
-| Apply | [View on company site](https://kone.wd3.myworkdayjobs.com/careers/job/Shanghai-FL-HQ/Sales-Support-Engineer_R0661550) |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=120218) |
 
 ## About This Role
 
-This sales engineer position at Kone was posted on 2026-06-15.
+This technical & solutions architect position at IBM was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Programmatic Solutions Consultant, Amazon Ads at Amazon
+# Sr. Technical Account Manager, ES - WWPS at Amazon
 
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | New York City, New York, United States |
-| Category | Digital / Performance Marketing |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10408023/programmatic-solutions-consultant-amazon-ads) |
+| Location | Arlington, Texas, United States |
+| Category | Customer Success |
+| Posted | 2026-06-15 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10448503/sr-technical-account-manager-es-wwps) |
 
 ## About This Role
 
-This digital / performance marketing position at Amazon was posted on 2026-04-30.
+This customer success position at Amazon was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 
