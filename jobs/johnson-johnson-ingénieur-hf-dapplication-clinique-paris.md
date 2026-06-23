@@ -1,16 +1,16 @@
-# Ingénieur (H/F) d'application clinique - Paris at Johnson & Johnson
+# Ingénieur (H/F) d'application clinique – Paris at Johnson & Johnson
 
 | Field | Details |
 |-------|---------|
 | Company | [Johnson & Johnson](https://scoutify.ai/companies/johnson-johnson?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | 2 locations |
+| Location | Issy-les-Moulineaux, Île-de-France, France |
 | Category | Sales Engineer |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://jj.wd5.myworkdayjobs.com/JJ/job/Issy-les-Moulineaux-France/Ingnieur--H-F--d-application-clinique---Paris_R-072246) |
+| Posted | 2026-06-15 |
+| Apply | [View on company site](https://jj.wd5.myworkdayjobs.com/JJ/job/Issy-les-Moulineaux-France/Ingnieur--H-F--d-application-clinique---Paris_R-082521-1) |
 
 ## About This Role
 
-This sales engineer position at Johnson & Johnson was posted on 2026-05-05.
+This sales engineer position at Johnson & Johnson was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

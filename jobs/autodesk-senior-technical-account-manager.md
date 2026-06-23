@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Autodesk](https://scoutify.ai/companies/autodesk?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | 6 locations |
+| Location | Denver, Colorado, United States |
 | Category | Customer Success |
-| Posted | 2026-03-20 |
-| Apply | [View on company site](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Novi-MI-USA/Senior-Technical-Account-Manager_26WD96542-1) |
+| Posted | 2026-06-15 |
+| Apply | [View on company site](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Denver-CO-USA/Senior-Technical-Account-Manager_26WD99224) |
 
 ## About This Role
 
-This customer success position at Autodesk was posted on 2026-03-20.
+This customer success position at Autodesk was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

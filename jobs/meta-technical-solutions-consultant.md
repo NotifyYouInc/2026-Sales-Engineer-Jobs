@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Meta](https://scoutify.ai/companies/meta?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | San Francisco, California, United States |
+| Location | New York City, New York, United States |
 | Category | Customer Success |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://www.metacareers.com/profile/job_details/1664993841536338) |
+| Posted | 2026-06-15 |
+| Apply | [View on company site](https://www.metacareers.com/profile/job_details/2444357852714909) |
 
 ## About This Role
 
-This customer success position at Meta was posted on 2026-02-26.
+This customer success position at Meta was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

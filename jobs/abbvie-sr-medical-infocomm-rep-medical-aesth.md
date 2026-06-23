@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Jinhua, Zhejiang, China |
-| Category | Account Executive |
-| Posted | 2026-06-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990013484246-sr-medical-infocomm-rep-medical-aesth) |
+| Location | Hefei, Anhui, China |
+| Category | Sales Engineer |
+| Posted | 2026-06-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990013633246-sr-medical-infocomm-rep-medical-aesth) |
 
 ## About This Role
 
-This account executive position at AbbVie was posted on 2026-06-05.
+This sales engineer position at AbbVie was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

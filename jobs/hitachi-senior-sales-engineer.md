@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Hitachi](https://scoutify.ai/companies/hitachi?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Cairo, Cairo, Egypt |
 | Category | Sales Engineer |
-| Posted | 2026-06-03 |
-| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Bengaluru-Karnataka-India/Senior-Sales-Engineer_R0130800) |
+| Posted | 2026-06-15 |
+| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Cairo-Cairo-Egypt/Senior-Sales-Engineer_R0134115-1) |
 
 ## About This Role
 
-This sales engineer position at Hitachi was posted on 2026-06-03.
+This sales engineer position at Hitachi was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

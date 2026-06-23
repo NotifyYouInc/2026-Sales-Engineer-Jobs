@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Envista](https://scoutify.ai/companies/envista?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | 29 locations |
+| Location | Madrid, Madrid, Spain |
 | Category | Customer Success |
-| Posted | 2026-03-30 |
-| Apply | [View on company site](https://envista.wd1.myworkdayjobs.com/envistacareers/job/Spain--Community-of-Madrid--Madrid/Digital-Technical-Specialist-Spanish---Work-Remotely-based-in-Spain_R5025929) |
+| Posted | 2026-06-15 |
+| Apply | [View on company site](https://envista.wd1.myworkdayjobs.com/envistacareers/job/Spain--Community-of-Madrid--Madrid/Digital-Technical-Specialist-Spanish---Work-Remotely-based-in-Spain_R5026598) |
 
 ## About This Role
 
-This customer success position at Envista was posted on 2026-03-30.
+This customer success position at Envista was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

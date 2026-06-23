@@ -1,16 +1,16 @@
-# Implementation Consultant – Systems at TELUS Health
+# Implementation Consultant - Systems at TELUS Health
 
 | Field | Details |
 |-------|---------|
 | Company | [TELUS Health](https://scoutify.ai/companies/telus-health?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Westwood, Massachusetts, United States |
+| Location | Toronto, Ontario, Canada |
 | Category | Customer Success |
-| Posted | 2026-06-05 |
-| Apply | [View on company site](https://lifeworks.wd3.myworkdayjobs.com/External/job/Westwood-Massachusetts-USA/Implementation-Consultant---Systems_R-22016) |
+| Posted | 2026-06-15 |
+| Apply | [View on company site](https://lifeworks.wd3.myworkdayjobs.com/External/job/Toronto-Ontario-Canada/Implementation-Consultant---Systems_R-22459-1) |
 
 ## About This Role
 
-This customer success position at TELUS Health was posted on 2026-06-05.
+This customer success position at TELUS Health was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

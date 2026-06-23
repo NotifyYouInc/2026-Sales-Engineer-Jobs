@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Veeam Software](https://scoutify.ai/companies/veeamsoftware?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Des Moines, Iowa, United States |
-| Category | Technical & Solutions Architect |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4822245101) |
+| Location | London, England, United Kingdom |
+| Category | Sales Engineer |
+| Posted | 2026-06-15 |
+| Apply | [View on company site](https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4896604101) |
 
 ## About This Role
 
-This technical & solutions architect position at Veeam Software was posted on 2026-04-23.
+This sales engineer position at Veeam Software was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

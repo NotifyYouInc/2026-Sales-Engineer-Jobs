@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Qantas Group](https://scoutify.ai/companies/qantas-group?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Sydney, New South Wales, Australia |
-| Category | Legal |
-| Posted | 2026-04-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/qantasgroup/6000000000983666-the-workers-compensation-legal-technical-specialist) |
+| Category | Human Resources / People Ops |
+| Posted | 2026-06-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/qantasgroup/6000000001155933-the-workers-compensation-legal-technical-specialist) |
 
 ## About This Role
 
-This legal position at Qantas Group was posted on 2026-04-09.
+This human resources / people ops position at Qantas Group was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

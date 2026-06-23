@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Salesforce](https://scoutify.ai/companies/salesforce?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Bogotá, Bogota D.C., Colombia |
+| Location | São Paulo, São Paulo, Brazil |
 | Category | Sales Engineer |
-| Posted | 2026-06-03 |
-| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Colombia---Bogota/Lead--Specialist-SE---Slack_JR344107) |
+| Posted | 2026-06-15 |
+| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Brazil---Sao-Paulo/Lead--Specialist-SE---Slack_JR345542) |
 
 ## About This Role
 
-This sales engineer position at Salesforce was posted on 2026-06-03.
+This sales engineer position at Salesforce was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

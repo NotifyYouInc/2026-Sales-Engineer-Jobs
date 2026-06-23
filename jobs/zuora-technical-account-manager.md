@@ -5,12 +5,12 @@
 | Company | [Zuora](https://scoutify.ai/companies/zuora?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Heredia, Heredia Province, Costa Rica |
 | Category | Customer Success |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://boards.greenhouse.io/zuora/jobs/7798145?gh_jid=7798145) |
+| Posted | 2026-06-15 |
+| Apply | [View on company site](https://boards.greenhouse.io/zuora/jobs/8003777?gh_jid=8003777) |
 
 ## About This Role
 
-This customer success position at Zuora was posted on 2026-04-14.
+This customer success position at Zuora was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

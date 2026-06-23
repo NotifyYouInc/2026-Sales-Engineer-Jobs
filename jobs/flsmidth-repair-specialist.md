@@ -1,16 +1,16 @@
-# Repair Specialist at FLSMIDTH
+# Repair  Specialist at FLSMIDTH
 
 | Field | Details |
 |-------|---------|
 | Company | [FLSMIDTH](https://scoutify.ai/companies/flsmidth?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Edmonton, Alberta, Canada |
-| Category | Sales Engineer |
-| Posted | 2026-06-11 |
-| Apply | [View on company site](https://flsmidth.wd3.myworkdayjobs.com/fls_global/job/Edmonton/Repair-Specialist_R30205) |
+| Location | La Joya, Arequipa, Peru |
+| Category | Customer Success |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://flsmidth.wd3.myworkdayjobs.com/fls_global/job/La-Joya-Arequipa-Peru/Repair--Specialist_R30263-1) |
 
 ## About This Role
 
-This sales engineer position at FLSMIDTH was posted on 2026-06-11.
+This customer success position at FLSMIDTH was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

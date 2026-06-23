@@ -5,12 +5,12 @@
 | Company | [btranzsoftware](https://scoutify.ai/companies/btranzsoftware?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | Technology / IT Consulting |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BTranz/744000126943445-oracle-apps-technical-consultant) |
+| Posted | 2026-06-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BTranz/744000132126959-oracle-apps-technical-consultant) |
 
 ## About This Role
 
-This technology / it consulting position at btranzsoftware was posted on 2026-05-18.
+This technology / it consulting position at btranzsoftware was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

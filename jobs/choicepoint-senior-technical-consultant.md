@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ChoicePoint](https://scoutify.ai/companies/choicepoint?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Florida, New York, United States |
+| Location | Singapore, Singapore |
 | Category | Customer Success |
-| Posted | 2026-05-01 |
-| Apply | [View on company site](https://relx.wd3.myworkdayjobs.com/risksolutions/job/Florida/Senior-Technical-Consultant_R112415) |
+| Posted | 2026-06-16 |
+| Apply | [View on company site](https://relx.wd3.myworkdayjobs.com/risksolutions/job/Singapore---Risk-Winsland-House/Senior-Technical-Consultant_R113527-2) |
 
 ## About This Role
 
-This customer success position at ChoicePoint was posted on 2026-05-01.
+This customer success position at ChoicePoint was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 

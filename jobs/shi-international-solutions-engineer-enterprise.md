@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [SHI International](https://scoutify.ai/companies/shi-international?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Indianapolis, Indiana, United States |
-| Category | Sales Engineer |
-| Posted | 2026-06-05 |
-| Apply | [View on company site](https://shi.wd12.myworkdayjobs.com/shicareers/job/US---IN---Home-Office/Solutions-Engineer---Enterprise_JR2681) |
+| Location | Louisiana, US |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-06-15 |
+| Apply | [View on company site](https://shi.wd12.myworkdayjobs.com/shicareers/job/US---LA---Home-Office/Solutions-Engineer---Enterprise_JR3277-1) |
 
 ## About This Role
 
-This sales engineer position at SHI International was posted on 2026-06-05.
+This technical & solutions architect position at SHI International was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

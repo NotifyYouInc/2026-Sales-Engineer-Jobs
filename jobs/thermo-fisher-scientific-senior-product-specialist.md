@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Thermo Fisher Scientific](https://scoutify.ai/companies/thermo-fisher-scientific?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Colorado, US |
+| Location | 2 locations |
 | Category | Account Executive |
-| Posted | 2026-06-02 |
-| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Remote-Colorado-USA/Senior-Product-Specialist_R-01354432) |
+| Posted | 2026-06-15 |
+| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Chicago-Illinois-USA/Senior-Product-Specialist_R-01356826) |
 
 ## About This Role
 
-This account executive position at Thermo Fisher Scientific was posted on 2026-06-02.
+This account executive position at Thermo Fisher Scientific was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

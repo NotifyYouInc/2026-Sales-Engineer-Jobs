@@ -5,12 +5,12 @@
 | Company | [Apple](https://scoutify.ai/companies/apple?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Not specified |
 | Category | DevOps Engineer |
-| Posted | 2025-11-12 |
-| Apply | [View on company site](https://jobs.apple.com/en-us/details/200631853/service-reliability-engineer-g-a-solutions-engineering) |
+| Posted | 2026-06-15 |
+| Apply | [View on company site](https://jobs.apple.com/en-us/details/200653239/service-reliability-engineer-g-a-solutions-engineering) |
 
 ## About This Role
 
-This devops engineer position at Apple was posted on 2025-11-12.
+This devops engineer position at Apple was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

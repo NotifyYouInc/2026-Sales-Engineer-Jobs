@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Inetum](https://scoutify.ai/companies/inetum?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | France |
-| Category | Technical & Solutions Architect |
-| Posted | 2026-04-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Inetum2/744000123266454-presales-specialist-ai-business-solutions-microsoft-hf) |
+| Category | Sales Engineer |
+| Posted | 2026-06-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Inetum2/744000132144284-presales-specialist-ai-business-solutions-microsoft-hf) |
 
 ## About This Role
 
-This technical & solutions architect position at Inetum was posted on 2026-04-27.
+This sales engineer position at Inetum was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

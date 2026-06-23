@@ -5,12 +5,12 @@
 | Company | [Box](https://scoutify.ai/companies/box?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Chicago, Illinois, United States |
 | Category | Technology / IT Consulting |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/boxinc/jobs/7785801) |
+| Posted | 2026-06-15 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/boxinc/jobs/8001334) |
 
 ## About This Role
 
-This technology / it consulting position at Box was posted on 2026-04-16.
+This technology / it consulting position at Box was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

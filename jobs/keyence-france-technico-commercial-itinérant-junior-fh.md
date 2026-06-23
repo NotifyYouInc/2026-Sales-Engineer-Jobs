@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [KEYENCE (FRANCE)](https://scoutify.ai/companies/keyencefrance?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Lyon, Rhône-Alpes, France |
+| Location | Nantes, Pays de la Loire, France |
 | Category | Sales Engineer |
-| Posted | 2026-06-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/KEYENCEFRANCE/744000130534419-technico-commercial-itinerant-junior-fh) |
+| Posted | 2026-06-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/KEYENCEFRANCE/744000132174219-technico-commercial-itinerant-junior-fh) |
 
 ## About This Role
 
-This sales engineer position at KEYENCE (FRANCE) was posted on 2026-06-05.
+This sales engineer position at KEYENCE (FRANCE) was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

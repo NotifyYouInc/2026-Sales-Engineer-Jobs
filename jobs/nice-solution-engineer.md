@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [NiCE](https://scoutify.ai/companies/nice?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Mumbai, Maharashtra, India |
-| Category | Technical Writer |
-| Posted | 2026-03-20 |
-| Apply | [View on company site](https://boards.eu.greenhouse.io/nice/jobs/4782180101?gh_jid=4782180101) |
+| Location | United States |
+| Category | Sales Engineer |
+| Posted | 2026-06-15 |
+| Apply | [View on company site](https://boards.eu.greenhouse.io/nice/jobs/4895687101?gh_jid=4895687101) |
 
 ## About This Role
 
-This technical writer position at NiCE was posted on 2026-03-20.
+This sales engineer position at NiCE was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

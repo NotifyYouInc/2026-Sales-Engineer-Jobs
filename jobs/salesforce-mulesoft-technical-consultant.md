@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Salesforce](https://scoutify.ai/companies/salesforce?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Location | 2 locations |
 | Category | Customer Success |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Hyderabad/Mulesoft-Technical-Consultant_JR329861) |
+| Posted | 2026-06-15 |
+| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Hyderabad/Mulesoft-Technical-Consultant_JR346338) |
 
 ## About This Role
 
-This customer success position at Salesforce was posted on 2026-02-17.
+This customer success position at Salesforce was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 
