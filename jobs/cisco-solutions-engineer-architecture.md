@@ -1,16 +1,16 @@
-# Solutions Engineer - Architecture at Cisco
+# Solutions Engineer, Architecture at Cisco
 
 | Field | Details |
 |-------|---------|
 | Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Minato, Wakayama, Japan |
+| Location | 2 locations |
 | Category | Sales Engineer |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Minato-Japan/Solutions-Engineer---Architecture_2009952) |
+| Posted | 2026-06-17 |
+| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/RTP-North-Carolina-US/Solutions-Engineer--Architecture_2016437) |
 
 ## About This Role
 
-This sales engineer position at Cisco was posted on 2026-03-06.
+This sales engineer position at Cisco was posted on 2026-06-17.
 
 ## Get Real-Time Alerts
 

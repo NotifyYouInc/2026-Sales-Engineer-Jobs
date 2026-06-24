@@ -5,12 +5,12 @@
 | Company | [Abbott](https://scoutify.ai/companies/abbott-laboratories?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Phoenix, Arizona, United States |
 | Category | Sales Engineer |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Arizona---Phoenix/Clinical-Specialist--Vessel-Closure---Phoenix--AZ_31147606-1) |
+| Posted | 2026-06-16 |
+| Apply | [View on company site](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Illinois---Abbott-Park/Clinical-Specialist--Vessel-Closure---Phoenix--AZ_31153503) |
 
 ## About This Role
 
-This sales engineer position at Abbott was posted on 2026-04-15.
+This sales engineer position at Abbott was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 

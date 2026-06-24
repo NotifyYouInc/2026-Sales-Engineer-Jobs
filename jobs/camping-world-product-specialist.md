@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Camping World](https://scoutify.ai/companies/campingworld?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Fort Myers, Florida, United States |
-| Category | Business Development |
-| Posted | 2026-06-04 |
-| Apply | [View on company site](https://campingworld.wd5.myworkdayjobs.com/Jobs/job/Fort-Myers-FL/Product-Specialist_26_05518) |
+| Location | Sunbury, Pennsylvania, United States |
+| Category | Sales Engineer |
+| Posted | 2026-06-16 |
+| Apply | [View on company site](https://campingworld.wd5.myworkdayjobs.com/Jobs/job/Sunbury-OH/Product-Specialist_26_05951) |
 
 ## About This Role
 
-This business development position at Camping World was posted on 2026-06-04.
+This sales engineer position at Camping World was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 

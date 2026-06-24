@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Altera Corporation](https://scoutify.ai/companies/altera?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Beijing, Beijing, China |
+| Location | Tokyo, Tokyo, Japan |
 | Category | Software Engineer |
-| Posted | 2026-06-12 |
-| Apply | [View on company site](https://altera.wd1.myworkdayjobs.com/altera/job/Beijing-China-Remote/Sales-Applications-Engineer_R01898) |
+| Posted | 2026-06-15 |
+| Apply | [View on company site](https://altera.wd1.myworkdayjobs.com/altera/job/Tokyo-Regus-Japan/Sales-Applications-Engineer_R02663) |
 
 ## About This Role
 
-This software engineer position at Altera Corporation was posted on 2026-06-12.
+This software engineer position at Altera Corporation was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

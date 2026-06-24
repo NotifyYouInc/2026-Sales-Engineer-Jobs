@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Camping World](https://scoutify.ai/companies/campingworld?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Pinellas Park, Florida, United States |
-| Category | Business Development |
-| Posted | 2026-06-10 |
-| Apply | [View on company site](https://campingworld.wd5.myworkdayjobs.com/Jobs/job/Pinellas-Park-FL/Product-Specialist-Advisor_26_05455) |
+| Location | Cheyenne, Wyoming, United States |
+| Category | Sales Engineer |
+| Posted | 2026-06-16 |
+| Apply | [View on company site](https://campingworld.wd5.myworkdayjobs.com/Jobs/job/Cheyenne-WY/Product-Specialist-Advisor_26_05926) |
 
 ## About This Role
 
-This business development position at Camping World was posted on 2026-06-10.
+This sales engineer position at Camping World was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 

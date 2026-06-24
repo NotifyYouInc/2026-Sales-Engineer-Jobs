@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [think-cell](https://scoutify.ai/companies/think-cell?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Denver, Colorado, United States |
-| Category | Customer Success |
-| Posted | 2026-06-01 |
-| Apply | [View on company site](https://job-boards.eu.greenhouse.io/think-cell/jobs/4875877101) |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-06-16 |
+| Apply | [View on company site](https://job-boards.eu.greenhouse.io/think-cell/jobs/4896887101) |
 
 ## About This Role
 
-This customer success position at think-cell was posted on 2026-06-01.
+This technical & solutions architect position at think-cell was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 

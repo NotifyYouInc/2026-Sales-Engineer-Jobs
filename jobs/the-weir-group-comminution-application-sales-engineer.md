@@ -5,12 +5,12 @@
 | Company | [The Weir Group](https://scoutify.ai/companies/weir?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Almaty, Almaty, Kazakhstan |
 | Category | Sales Engineer |
-| Posted | 2026-04-10 |
-| Apply | [View on company site](https://weir.wd3.myworkdayjobs.com/weir_external_careers/job/Almaty/Comminution-Application-Sales-Engineer_R0034391) |
+| Posted | 2026-06-16 |
+| Apply | [View on company site](https://weir.wd3.myworkdayjobs.com/weir_external_careers/job/Almaty/Comminution-Application-Sales-Engineer_R0037734) |
 
 ## About This Role
 
-This sales engineer position at The Weir Group was posted on 2026-04-10.
+This sales engineer position at The Weir Group was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 

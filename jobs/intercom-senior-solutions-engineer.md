@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Intercom](https://scoutify.ai/companies/intercom?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Dublin, Leinster, Ireland |
+| Location | London, England, United Kingdom |
 | Category | Sales Engineer |
-| Posted | 2026-02-12 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/intercom/jobs/7594453) |
+| Posted | 2026-06-16 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/intercom/jobs/8011085) |
 
 ## About This Role
 
-This sales engineer position at Intercom was posted on 2026-02-12.
+This sales engineer position at Intercom was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 

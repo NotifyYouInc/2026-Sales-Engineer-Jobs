@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Hewlett Packard Enterprise](https://scoutify.ai/companies/hewlett-packard-enterprise?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Massachusetts, US |
-| Category | Technical & Solutions Architect |
-| Posted | 2026-06-12 |
-| Apply | [View on company site](https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/All-Massachusetts-United-States-of-America/SASE---Security-Presales-Specialist_1208095) |
+| Location | Tennessee, US |
+| Category | Sales Engineer |
+| Posted | 2026-06-15 |
+| Apply | [View on company site](https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/All-Tennessee-United-States-of-America/SASE---Security-Presales-Specialist_1208096) |
 
 ## About This Role
 
-This technical & solutions architect position at Hewlett Packard Enterprise was posted on 2026-06-12.
+This sales engineer position at Hewlett Packard Enterprise was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

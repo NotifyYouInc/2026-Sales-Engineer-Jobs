@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Arrow Electronics](https://scoutify.ai/companies/arrow-electronics?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | 2 locations |
-| Category | Semiconductor / Chip Design |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://arrow.wd1.myworkdayjobs.com/ac/job/SE-Sweden---Remote/Technology-Field-Application-Engineer---FPGA_R239834) |
+| Location | United Kingdom |
+| Category | Sales Engineer |
+| Posted | 2026-06-16 |
+| Apply | [View on company site](https://arrow.wd1.myworkdayjobs.com/ac/job/UK-United-Kingdom---Remote/Technology-Field-Application-Engineer---FPGA_R243643) |
 
 ## About This Role
 
-This semiconductor / chip design position at Arrow Electronics was posted on 2026-05-11.
+This sales engineer position at Arrow Electronics was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | 2 locations |
 | Category | Sales Engineer |
-| Posted | 2026-06-11 |
-| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Richfield-Ohio-US/Solutions-Engineer---SLED---Cincinnati_2016334) |
+| Posted | 2026-06-16 |
+| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Richfield-Ohio-US/Solutions-Engineer---SLED---Cincinnati_2017471) |
 
 ## About This Role
 
-This sales engineer position at Cisco was posted on 2026-06-11.
+This sales engineer position at Cisco was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 

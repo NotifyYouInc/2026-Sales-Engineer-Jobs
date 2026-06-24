@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sigma Computing](https://scoutify.ai/companies/sigma-computing?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | New York City, New York, United States |
-| Category | Technical & Solutions Architect |
-| Posted | 2026-06-09 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/sigmacomputing/jobs/7767591003) |
+| Location | San Francisco, California, United States |
+| Category | Sales Engineer |
+| Posted | 2026-06-17 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/sigmacomputing/jobs/7771363003) |
 
 ## About This Role
 
-This technical & solutions architect position at Sigma Computing was posted on 2026-06-09.
+This sales engineer position at Sigma Computing was posted on 2026-06-17.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Trend Micro](https://scoutify.ai/companies/trendmicro?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Jeddah, Mecca Region, Saudi Arabia |
+| Location | United Kingdom |
 | Category | Sales Engineer |
-| Posted | 2026-06-07 |
-| Apply | [View on company site](https://trendmicro.wd3.myworkdayjobs.com/External/job/KSA-Off-Site/Solutions-Engineer_R0009407) |
+| Posted | 2026-06-16 |
+| Apply | [View on company site](https://trendmicro.wd3.myworkdayjobs.com/External/job/United-Kingdom-Off-Site/Solutions-Engineer_R0009816) |
 
 ## About This Role
 
-This sales engineer position at Trend Micro was posted on 2026-06-07.
+This sales engineer position at Trend Micro was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 

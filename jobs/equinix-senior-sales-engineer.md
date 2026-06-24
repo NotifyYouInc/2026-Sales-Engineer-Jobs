@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Equinix](https://scoutify.ai/companies/equinix?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Seattle, Washington, United States |
+| Location | Mumbai, Maharashtra, India |
 | Category | Sales Engineer |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://equinix.wd1.myworkdayjobs.com/external/job/Seattle/Senior-Sales-Engineer_JR-158733-1) |
+| Posted | 2026-06-17 |
+| Apply | [View on company site](https://equinix.wd1.myworkdayjobs.com/external/job/Mumbai/Senior-Sales-Engineer_JR-161642-1) |
 
 ## About This Role
 
-This sales engineer position at Equinix was posted on 2026-02-26.
+This sales engineer position at Equinix was posted on 2026-06-17.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [MSX International](https://scoutify.ai/companies/msxinternational?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Coventry, England, United Kingdom |
+| Location | Porto, Porto, Portugal |
 | Category | Customer Success |
-| Posted | 2026-06-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/MSXInternational/3743990013594626-automotive-technical-specialist) |
+| Posted | 2026-06-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/MSXInternational/3743990013616116-automotive-technical-specialist) |
 
 ## About This Role
 
-This customer success position at MSX International was posted on 2026-06-12.
+This customer success position at MSX International was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

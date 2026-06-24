@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mendix](https://scoutify.ai/companies/mendix?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | 2 locations |
-| Category | Sales Engineer |
-| Posted | 2026-05-28 |
-| Apply | [View on company site](https://jobs.lever.co/mendix/d07336b0-6fa1-4326-abcf-a7e5dc203541) |
+| Location | London, England, United Kingdom |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-06-16 |
+| Apply | [View on company site](https://jobs.lever.co/mendix/02d8fa50-7bac-4128-a64f-937667421ea4) |
 
 ## About This Role
 
-This sales engineer position at Mendix was posted on 2026-05-28.
+This technical & solutions architect position at Mendix was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Medtronic](https://scoutify.ai/companies/medtronic?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Tampa, Florida, United States |
 | Category | Sales Engineer |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Tampa-Florida-United-States-of-America/Associate-Clinical-Specialist-CRM---Tampa_R64367-1) |
+| Posted | 2026-06-16 |
+| Apply | [View on company site](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Tampa-Florida-United-States-of-America/Associate-Clinical-Specialist-CRM---Tampa_R69880-1) |
 
 ## About This Role
 
-This sales engineer position at Medtronic was posted on 2026-04-16.
+This sales engineer position at Medtronic was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 

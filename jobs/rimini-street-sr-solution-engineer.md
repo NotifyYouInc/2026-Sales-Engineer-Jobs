@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Rimini Street](https://scoutify.ai/companies/rimini-street?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Mexico City, Mexico City, Mexico |
+| Location | United States |
 | Category | Sales Engineer |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://riministreet.wd1.myworkdayjobs.com/riministreet/job/Mexico-City-Office/Sr-Solution-Engineer_R-102179-1) |
+| Posted | 2026-06-16 |
+| Apply | [View on company site](https://riministreet.wd1.myworkdayjobs.com/riministreet/job/Remote-United-States/Sr-Solution-Engineer_R-102270) |
 
 ## About This Role
 
-This sales engineer position at Rimini Street was posted on 2026-05-19.
+This sales engineer position at Rimini Street was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 
