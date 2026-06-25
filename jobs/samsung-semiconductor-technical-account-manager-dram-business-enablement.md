@@ -5,12 +5,12 @@
 | Company | [Samsung Semiconductor](https://scoutify.ai/companies/samsung-semiconductor?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | San Jose, California, United States |
 | Category | Sales Engineer |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/samsungsemiconductor/jobs/7728901003) |
+| Posted | 2026-06-17 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/samsungsemiconductor/jobs/7771839003) |
 
 ## About This Role
 
-This sales engineer position at Samsung Semiconductor was posted on 2026-05-11.
+This sales engineer position at Samsung Semiconductor was posted on 2026-06-17.
 
 ## Get Real-Time Alerts
 

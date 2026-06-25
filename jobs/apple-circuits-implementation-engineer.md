@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Apple](https://scoutify.ai/companies/apple?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Not specified |
-| Category | Electrical / Hardware Engineer |
-| Posted | 2026-04-10 |
-| Apply | [View on company site](https://jobs.apple.com/en-us/details/200657358/circuits-implementation-engineer) |
+| Category | Semiconductor / Chip Design |
+| Posted | 2026-04-24 |
+| Apply | [View on company site](https://jobs.apple.com/en-us/details/200659998/circuits-implementation-engineer) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Apple was posted on 2026-04-10.
+This semiconductor / chip design position at Apple was posted on 2026-04-24.
 
 ## Get Real-Time Alerts
 

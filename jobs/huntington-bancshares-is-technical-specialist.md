@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Huntington Bancshares](https://scoutify.ai/companies/huntington?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Columbus, Ohio, United States |
-| Category | IT & Systems Administration |
-| Posted | 2026-06-12 |
-| Apply | [View on company site](https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Columbus-OH/IS-Technical-Specialist_R0073095) |
+| Category | Data Engineer |
+| Posted | 2026-06-15 |
+| Apply | [View on company site](https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Columbus-OH/IS-Technical-Specialist_R0073205) |
 
 ## About This Role
 
-This it & systems administration position at Huntington Bancshares was posted on 2026-06-12.
+This data engineer position at Huntington Bancshares was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

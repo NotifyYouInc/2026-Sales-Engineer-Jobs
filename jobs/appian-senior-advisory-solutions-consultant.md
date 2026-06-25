@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Appian](https://scoutify.ai/companies/appian?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | London, England, United Kingdom |
-| Category | Implementation / Professional Services |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/appian/jobs/7941848) |
+| Location | Amsterdam, North Holland, The Netherlands |
+| Category | Sales Engineer |
+| Posted | 2026-06-17 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/appian/jobs/7951312) |
 
 ## About This Role
 
-This implementation / professional services position at Appian was posted on 2026-05-21.
+This sales engineer position at Appian was posted on 2026-06-17.
 
 ## Get Real-Time Alerts
 

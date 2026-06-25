@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Avnet](https://scoutify.ai/companies/avnet?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Singapore |
-| Category | Software Engineer |
-| Posted | 2026-05-17 |
-| Apply | [View on company site](https://avnet.wd1.myworkdayjobs.com/external/job/Lorong-Chuan-Singapore/Field-Application-Engineer-II_JR-022801) |
+| Location | Gyeonggi-do, KR |
+| Category | Sales Engineer |
+| Posted | 2026-06-17 |
+| Apply | [View on company site](https://avnet.wd1.myworkdayjobs.com/external/job/Bundang-gu-Seongnam-si-Gyeonggi-do-Korea/Field-Application-Engineer-II_JR-023344) |
 
 ## About This Role
 
-This software engineer position at Avnet was posted on 2026-05-17.
+This sales engineer position at Avnet was posted on 2026-06-17.
 
 ## Get Real-Time Alerts
 

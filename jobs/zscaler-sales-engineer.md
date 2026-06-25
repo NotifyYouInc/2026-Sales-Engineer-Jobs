@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Zscaler](https://scoutify.ai/companies/zscaler?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Taiwan |
+| Location | South Korea |
 | Category | Sales Engineer |
 | Posted | 2026-06-15 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/zscaler/jobs/5158512007) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/zscaler/jobs/5159500007) |
 
 ## About This Role
 

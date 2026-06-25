@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Arrow Electronics](https://scoutify.ai/companies/arrow-electronics?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | France |
-| Category | Semiconductor / Chip Design |
-| Posted | 2026-05-12 |
-| Apply | [View on company site](https://arrow.wd1.myworkdayjobs.com/ac/job/FR-France---Remote/FPGA---Market-Development-Engineer---m-w-d-_R241109) |
+| Location | Czechia |
+| Category | Sales Engineer |
+| Posted | 2026-06-17 |
+| Apply | [View on company site](https://arrow.wd1.myworkdayjobs.com/ac/job/PL-Poland---Remote/FPGA---Market-Development-Engineer---m-w-d-_R241175-1) |
 
 ## About This Role
 
-This semiconductor / chip design position at Arrow Electronics was posted on 2026-05-12.
+This sales engineer position at Arrow Electronics was posted on 2026-06-17.
 
 ## Get Real-Time Alerts
 

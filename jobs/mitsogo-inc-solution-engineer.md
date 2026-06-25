@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mitsogo Inc](https://scoutify.ai/companies/mitsogo-inc?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Chennai, Tamil Nadu, India |
+| Location | Delhi, Delhi, India |
 | Category | Sales Engineer |
-| Posted | 2026-04-08 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/mitsogoinc/jobs/4930422008) |
+| Posted | 2026-06-17 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/mitsogoinc/jobs/5251758008) |
 
 ## About This Role
 
-This sales engineer position at Mitsogo Inc was posted on 2026-04-08.
+This sales engineer position at Mitsogo Inc was posted on 2026-06-17.
 
 ## Get Real-Time Alerts
 

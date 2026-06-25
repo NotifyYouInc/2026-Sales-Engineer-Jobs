@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Proofpoint](https://scoutify.ai/companies/proofpoint?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Not specified |
+| Location | 2 locations |
 | Category | Sales Engineer |
-| Posted | 2026-03-05 |
-| Apply | [View on company site](https://proofpoint.wd5.myworkdayjobs.com/ProofpointCareers/job/Draper-UT/Senior-Commercial-Sales-Engineer_R13846) |
+| Posted | 2026-06-18 |
+| Apply | [View on company site](https://proofpoint.wd5.myworkdayjobs.com/ProofpointCareers/job/Draper-UT/Senior-Commercial-Sales-Engineer_R14363) |
 
 ## About This Role
 
-This sales engineer position at Proofpoint was posted on 2026-03-05.
+This sales engineer position at Proofpoint was posted on 2026-06-18.
 
 ## Get Real-Time Alerts
 

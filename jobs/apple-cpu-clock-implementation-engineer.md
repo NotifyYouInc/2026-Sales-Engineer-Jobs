@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Apple](https://scoutify.ai/companies/apple?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Not specified |
-| Category | Embedded / Firmware Engineer |
-| Posted | 2025-10-16 |
-| Apply | [View on company site](https://jobs.apple.com/en-us/details/200626510/cpu-clock-implementation-engineer) |
+| Category | Semiconductor / Chip Design |
+| Posted | 2026-04-14 |
+| Apply | [View on company site](https://jobs.apple.com/en-us/details/200657955/cpu-clock-implementation-engineer) |
 
 ## About This Role
 
-This embedded / firmware engineer position at Apple was posted on 2025-10-16.
+This semiconductor / chip design position at Apple was posted on 2026-04-14.
 
 ## Get Real-Time Alerts
 

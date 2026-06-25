@@ -5,12 +5,12 @@
 | Company | [Rotork](https://scoutify.ai/companies/rotork?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Dhahran, Eastern Province, Saudi Arabia |
 | Category | Sales Engineer |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Rotork1/744000127863969-inside-sales-engineer-9-months-fixed-term-contract) |
+| Posted | 2026-06-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Rotork1/744000132591130-inside-sales-engineer-9-months-fixed-term-contract) |
 
 ## About This Role
 
-This sales engineer position at Rotork was posted on 2026-05-22.
+This sales engineer position at Rotork was posted on 2026-06-17.
 
 ## Get Real-Time Alerts
 

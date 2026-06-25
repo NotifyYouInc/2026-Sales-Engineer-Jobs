@@ -5,12 +5,12 @@
 | Company | [Caterpillar Inc.](https://scoutify.ai/companies/cat?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | 2 locations |
 | Category | Sales Engineer |
-| Posted | 2026-05-14 |
-| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Brisbane-Queensland/Product-Application-Specialist_R0000363435) |
+| Posted | 2026-06-17 |
+| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Peoria-Illinois/Product-Application-Specialist_R0000366372-1) |
 
 ## About This Role
 
-This sales engineer position at Caterpillar Inc. was posted on 2026-05-14.
+This sales engineer position at Caterpillar Inc. was posted on 2026-06-17.
 
 ## Get Real-Time Alerts
 

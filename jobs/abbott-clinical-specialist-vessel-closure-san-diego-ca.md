@@ -5,12 +5,12 @@
 | Company | [Abbott](https://scoutify.ai/companies/abbott-laboratories?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | San Diego, California, United States |
 | Category | Sales Engineer |
-| Posted | 2026-06-12 |
-| Apply | [View on company site](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---California---San-Diego/Clinical-Specialist--Vessel-Closure---San-Diego--CA_31153060-1) |
+| Posted | 2026-06-16 |
+| Apply | [View on company site](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---California---San-Diego/Clinical-Specialist--Vessel-Closure---San-Diego--CA_31153504-1) |
 
 ## About This Role
 
-This sales engineer position at Abbott was posted on 2026-06-12.
+This sales engineer position at Abbott was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 

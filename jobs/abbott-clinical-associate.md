@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Abbott](https://scoutify.ai/companies/abbott-laboratories?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | 2 locations |
-| Category | Customer Success |
-| Posted | 2026-06-12 |
-| Apply | [View on company site](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Pennsylvania---Lancaster/Clinical-Associate_31149726-2) |
+| Location | Reno, Nevada, United States |
+| Category | Sales Engineer |
+| Posted | 2026-06-17 |
+| Apply | [View on company site](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Nevada---Reno/Clinical-Associate_31150990) |
 
 ## About This Role
 
-This customer success position at Abbott was posted on 2026-06-12.
+This sales engineer position at Abbott was posted on 2026-06-17.
 
 ## Get Real-Time Alerts
 

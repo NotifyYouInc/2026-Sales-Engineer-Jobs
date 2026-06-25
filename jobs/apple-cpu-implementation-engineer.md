@@ -5,12 +5,12 @@
 | Company | [Apple](https://scoutify.ai/companies/apple?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Not specified |
 | Category | Semiconductor / Chip Design |
-| Posted | 2026-06-13 |
-| Apply | [View on company site](https://jobs.apple.com/en-us/details/200668278/cpu-implementation-engineer) |
+| Posted | 2026-04-14 |
+| Apply | [View on company site](https://jobs.apple.com/en-us/details/200657973/cpu-implementation-engineer) |
 
 ## About This Role
 
-This semiconductor / chip design position at Apple was posted on 2026-06-13.
+This semiconductor / chip design position at Apple was posted on 2026-04-14.
 
 ## Get Real-Time Alerts
 

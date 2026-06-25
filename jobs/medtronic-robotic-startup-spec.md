@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Medtronic](https://scoutify.ai/companies/medtronic?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | 2 locations |
-| Category | Robotics Engineer |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Tokyo-Tokyo-Japan/Robotic-Startup-Specialist--Surgical--Chiba-_R66732) |
+| Location | Fukuoka, Fukuoka, Japan |
+| Category | Sales Engineer |
+| Posted | 2026-06-17 |
+| Apply | [View on company site](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Fukuoka-Fukuoka-Japan/Robotic-Startup-Specialist--Surgical---Fukuoka-_R69821-2) |
 
 ## About This Role
 
-This robotics engineer position at Medtronic was posted on 2026-05-13.
+This sales engineer position at Medtronic was posted on 2026-06-17.
 
 ## Get Real-Time Alerts
 

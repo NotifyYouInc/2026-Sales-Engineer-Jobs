@@ -5,12 +5,12 @@
 | Company | [Zscaler](https://scoutify.ai/companies/zscaler?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Canada |
 | Category | Sales Engineer |
-| Posted | 2026-05-27 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/zscaler/jobs/5139808007) |
+| Posted | 2026-06-17 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/zscaler/jobs/5164986007) |
 
 ## About This Role
 
-This sales engineer position at Zscaler was posted on 2026-05-27.
+This sales engineer position at Zscaler was posted on 2026-06-17.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Danaher](https://scoutify.ai/companies/danaher?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | 6 locations |
+| Location | 2 locations |
 | Category | Sales Engineer |
-| Posted | 2026-05-28 |
-| Apply | [View on company site](https://danaher.wd1.myworkdayjobs.com/DanaherJobs/job/Milan-Italy/Advanced-Workflow-Specialists-Manager_R1310698) |
+| Posted | 2026-06-17 |
+| Apply | [View on company site](https://danaher.wd1.myworkdayjobs.com/DanaherJobs/job/Milan-Italy/Advanced-Workflow-Specialists-Manager_R1313610) |
 
 ## About This Role
 
-This sales engineer position at Danaher was posted on 2026-05-28.
+This sales engineer position at Danaher was posted on 2026-06-17.
 
 ## Get Real-Time Alerts
 

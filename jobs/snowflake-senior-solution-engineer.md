@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Snowflake](https://scoutify.ai/companies/snowflake?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Dubai, Dubai, United Arab Emirates |
+| Location | Menlo Park, California, United States |
 | Category | Sales Engineer |
-| Posted | 2026-06-04 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/snowflake/f621dbb9-9398-45e4-bcd1-3eb362224296) |
+| Posted | 2026-06-17 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/snowflake/f419a8af-78ab-4997-8d42-b681e38b7de3) |
 
 ## About This Role
 
-This sales engineer position at Snowflake was posted on 2026-06-04.
+This sales engineer position at Snowflake was posted on 2026-06-17.
 
 ## Get Real-Time Alerts
 

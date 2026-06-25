@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Comcast](https://scoutify.ai/companies/comcast?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Not specified |
-| Category | Compliance & Risk Management |
-| Posted | 2026-03-05 |
-| Apply | [View on company site](https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/Virtual/Principal-Sales-Engineer---Cyber-Risk-and-GRC_R432533) |
+| Location | Kansas, US |
+| Category | Sales Engineer |
+| Posted | 2026-06-17 |
+| Apply | [View on company site](https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/Virtual/Principal-Sales-Engineer---Cyber-Risk-and-GRC_R439292) |
 
 ## About This Role
 
-This compliance & risk management position at Comcast was posted on 2026-03-05.
+This sales engineer position at Comcast was posted on 2026-06-17.
 
 ## Get Real-Time Alerts
 

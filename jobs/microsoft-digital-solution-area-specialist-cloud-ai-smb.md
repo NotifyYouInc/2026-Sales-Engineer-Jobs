@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Microsoft](https://scoutify.ai/companies/microsoft?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Dublin, Leinster, Ireland |
-| Category | Account Executive |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556866254) |
+| Category | Sales Engineer |
+| Posted | 2026-06-17 |
+| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556847635) |
 
 ## About This Role
 
-This account executive position at Microsoft was posted on 2026-05-18.
+This sales engineer position at Microsoft was posted on 2026-06-17.
 
 ## Get Real-Time Alerts
 
