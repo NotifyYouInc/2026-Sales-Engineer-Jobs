@@ -5,12 +5,12 @@
 | Company | [Globus Medical](https://scoutify.ai/companies/globusmedical?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Columbia, South Carolina, United States |
 | Category | Sales Engineer |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://globusmedical.wd5.myworkdayjobs.com/gmed_careers/job/Missouri/Associate-Interventional-Specialist--Columbia--MO-_JR106539) |
+| Posted | 2026-06-18 |
+| Apply | [View on company site](https://globusmedical.wd5.myworkdayjobs.com/gmed_careers/job/Missouri/Associate-Interventional-Specialist--Columbia--MO-_JR107084) |
 
 ## About This Role
 
-This sales engineer position at Globus Medical was posted on 2026-04-22.
+This sales engineer position at Globus Medical was posted on 2026-06-18.
 
 ## Get Real-Time Alerts
 

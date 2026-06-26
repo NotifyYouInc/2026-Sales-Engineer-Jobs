@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Salesforce](https://scoutify.ai/companies/salesforce?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Lisbon, Lisbon, Portugal |
+| Location | Chicago, Illinois, United States |
 | Category | Sales Engineer |
-| Posted | 2026-03-19 |
-| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Portugal---Lisbon/Account-Solution-Engineer-6_JR334522-1) |
+| Posted | 2026-06-18 |
+| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Illinois---Chicago/Account-Solution-Engineer-6_JR344116) |
 
 ## About This Role
 
-This sales engineer position at Salesforce was posted on 2026-03-19.
+This sales engineer position at Salesforce was posted on 2026-06-18.
 
 ## Get Real-Time Alerts
 

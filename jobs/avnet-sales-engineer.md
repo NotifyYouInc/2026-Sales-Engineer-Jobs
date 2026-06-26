@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Avnet](https://scoutify.ai/companies/avnet?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Shaanxi, CN |
+| Location | Beijing, Beijing, China |
 | Category | Sales Engineer |
-| Posted | 2026-04-10 |
-| Apply | [View on company site](https://avnet.wd1.myworkdayjobs.com/external/job/Xian-Shaanxi-China/Sales-Engineer_JR-022335) |
+| Posted | 2026-06-19 |
+| Apply | [View on company site](https://avnet.wd1.myworkdayjobs.com/external/job/Beijing-Beijing-China/Sales-Engineer_JR-023377) |
 
 ## About This Role
 
-This sales engineer position at Avnet was posted on 2026-04-10.
+This sales engineer position at Avnet was posted on 2026-06-19.
 
 ## Get Real-Time Alerts
 

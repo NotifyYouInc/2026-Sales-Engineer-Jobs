@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Alfa Laval](https://scoutify.ai/companies/alfa-laval?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Shanghai, Shanghai, China |
+| Location | Not specified |
 | Category | Sales Engineer |
-| Posted | 2026-06-15 |
-| Apply | [View on company site](https://alfalaval.wd3.myworkdayjobs.com/alfa_laval_jobs/job/Shanghai-Others/Sales-Engineer_JR0045822) |
+| Posted | 2026-06-18 |
+| Apply | [View on company site](https://alfalaval.wd3.myworkdayjobs.com/alfa_laval_jobs/job/Sales-Engineer_JR0046350) |
 
 ## About This Role
 
-This sales engineer position at Alfa Laval was posted on 2026-06-15.
+This sales engineer position at Alfa Laval was posted on 2026-06-18.
 
 ## Get Real-Time Alerts
 

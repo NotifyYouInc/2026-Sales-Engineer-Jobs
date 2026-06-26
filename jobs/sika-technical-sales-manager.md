@@ -5,12 +5,12 @@
 | Company | [Sika](https://scoutify.ai/companies/sika?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Rutherford, New Jersey, United States |
 | Category | Account Manager |
-| Posted | 2026-06-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SikaAG/744000131751000-technical-sales-manager) |
+| Posted | 2026-06-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SikaAG/744000132862442-technical-sales-manager) |
 
 ## About This Role
 
-This account manager position at Sika was posted on 2026-06-11.
+This account manager position at Sika was posted on 2026-06-18.
 
 ## Get Real-Time Alerts
 

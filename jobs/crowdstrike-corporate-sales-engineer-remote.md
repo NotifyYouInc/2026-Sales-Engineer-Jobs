@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CrowdStrike](https://scoutify.ai/companies/crowdstrike?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | United States |
+| Location | Texas, US |
 | Category | Sales Engineer |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Corporate-Sales-Engineer--Remote-_R27893) |
+| Posted | 2026-06-18 |
+| Apply | [View on company site](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote-TX/Corporate-Sales-Engineer--Remote-_R27636) |
 
 ## About This Role
 
-This sales engineer position at CrowdStrike was posted on 2026-04-22.
+This sales engineer position at CrowdStrike was posted on 2026-06-18.
 
 ## Get Real-Time Alerts
 

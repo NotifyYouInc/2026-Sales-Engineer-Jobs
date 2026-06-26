@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Stanley Black & Decker](https://scoutify.ai/companies/sbdinc?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Istanbul, Istanbul, Turkey |
-| Category | Account Executive |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://sbdinc.wd1.myworkdayjobs.com/Stanley_Black_Decker_Career_Site/job/Istanbul-Trkiye/Sales-Engineer_REQ-1000045516) |
+| Location | Argentina |
+| Category | Sales Engineer |
+| Posted | 2026-06-18 |
+| Apply | [View on company site](https://sbdinc.wd1.myworkdayjobs.com/Stanley_Black_Decker_Career_Site/job/El-Talar-Buenos-Aires-Province-Argentina/Sales-Engineer_REQ-1000048466) |
 
 ## About This Role
 
-This account executive position at Stanley Black & Decker was posted on 2026-02-20.
+This sales engineer position at Stanley Black & Decker was posted on 2026-06-18.
 
 ## Get Real-Time Alerts
 

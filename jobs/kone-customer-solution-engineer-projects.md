@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Kone](https://scoutify.ai/companies/kone?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Sharjah, Sharjah, United Arab Emirates |
+| Location | Dubai, Dubai, United Arab Emirates |
 | Category | Engineering Manager |
-| Posted | 2026-06-04 |
-| Apply | [View on company site](https://kone.wd3.myworkdayjobs.com/careers/job/Sharjah/Customer-Solution-Engineer---Projects_R0657484) |
+| Posted | 2026-06-19 |
+| Apply | [View on company site](https://kone.wd3.myworkdayjobs.com/careers/job/Dubai/Customer-Solution-Engineer---Projects_R0661691) |
 
 ## About This Role
 
-This engineering manager position at Kone was posted on 2026-06-04.
+This engineering manager position at Kone was posted on 2026-06-19.
 
 ## Get Real-Time Alerts
 

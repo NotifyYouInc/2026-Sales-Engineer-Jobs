@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cognex](https://scoutify.ai/companies/cognex?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Campinas, São Paulo, Brazil |
+| Location | Aguascalientes, Aguascalientes, Mexico |
 | Category | Sales Engineer |
-| Posted | 2026-04-28 |
-| Apply | [View on company site](https://cognex.wd1.myworkdayjobs.com/External_Career_Site/job/Campinas-So-Paulo-Brazil/Territory-Sales-Engineer_R0011910) |
+| Posted | 2026-06-18 |
+| Apply | [View on company site](https://cognex.wd1.myworkdayjobs.com/External_Career_Site/job/Aguascalientes-Mxico/Territory-Sales-Engineer_R0012096) |
 
 ## About This Role
 
-This sales engineer position at Cognex was posted on 2026-04-28.
+This sales engineer position at Cognex was posted on 2026-06-18.
 
 ## Get Real-Time Alerts
 

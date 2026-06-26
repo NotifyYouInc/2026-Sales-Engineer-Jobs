@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Salesforce](https://scoutify.ai/companies/salesforce?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Johannesburg, Gauteng, South Africa |
-| Category | Sales Engineer |
-| Posted | 2026-05-28 |
-| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/South-Africa---Johannesburg/Principal-Solution-Engineer_JR338383) |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-06-18 |
+| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/South-Africa---Johannesburg/Principal-Solution-Engineer_JR347020) |
 
 ## About This Role
 
-This sales engineer position at Salesforce was posted on 2026-05-28.
+This technical & solutions architect position at Salesforce was posted on 2026-06-18.
 
 ## Get Real-Time Alerts
 

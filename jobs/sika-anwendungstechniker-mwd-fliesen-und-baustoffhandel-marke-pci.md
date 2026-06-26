@@ -5,12 +5,12 @@
 | Company | [Sika](https://scoutify.ai/companies/sika?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Augsburg, Bavaria, Germany |
 | Category | Sales Engineer |
-| Posted | 2026-06-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SikaAG/744000132378740-anwendungstechniker-mwd-fliesen-und-baustoffhandel-marke-pci) |
+| Posted | 2026-06-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SikaAG/744000132832789-anwendungstechniker-mwd-fliesen-und-baustoffhandel-marke-pci) |
 
 ## About This Role
 
-This sales engineer position at Sika was posted on 2026-06-16.
+This sales engineer position at Sika was posted on 2026-06-18.
 
 ## Get Real-Time Alerts
 

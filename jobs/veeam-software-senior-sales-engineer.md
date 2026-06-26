@@ -1,16 +1,16 @@
-# Senior Sales Engineer  at Veeam Software
+# Senior Sales Engineer at Veeam Software
 
 | Field | Details |
 |-------|---------|
 | Company | [Veeam Software](https://scoutify.ai/companies/veeamsoftware?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Brasília, Federal District, Brazil |
+| Location | Germany |
 | Category | Sales Engineer |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4844595101) |
+| Posted | 2026-06-18 |
+| Apply | [View on company site](https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4896626101) |
 
 ## About This Role
 
-This sales engineer position at Veeam Software was posted on 2026-04-17.
+This sales engineer position at Veeam Software was posted on 2026-06-18.
 
 ## Get Real-Time Alerts
 

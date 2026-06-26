@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Vietnam |
-| Category | Technical & Solutions Architect |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=109938) |
+| Location | Singapore, Singapore |
+| Category | Sales Engineer |
+| Posted | 2026-06-19 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=120419) |
 
 ## About This Role
 
-This technical & solutions architect position at IBM was posted on 2026-04-22.
+This sales engineer position at IBM was posted on 2026-06-19.
 
 ## Get Real-Time Alerts
 

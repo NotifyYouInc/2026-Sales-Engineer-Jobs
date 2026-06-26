@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Arrow Electronics](https://scoutify.ai/companies/arrow-electronics?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Czechia |
+| Location | Harlow, England, United Kingdom |
 | Category | Sales Engineer |
-| Posted | 2026-05-15 |
-| Apply | [View on company site](https://arrow.wd1.myworkdayjobs.com/ac/job/CZ-Czechia---Remote/Technical-Sales-Engineer_R243276) |
+| Posted | 2026-06-18 |
+| Apply | [View on company site](https://arrow.wd1.myworkdayjobs.com/ac/job/UK-United-Kingdom---Remote/Technical-Sales-Engineer_R241389) |
 
 ## About This Role
 
-This sales engineer position at Arrow Electronics was posted on 2026-05-15.
+This sales engineer position at Arrow Electronics was posted on 2026-06-18.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Red Hat](https://scoutify.ai/companies/red-hat?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Bangkok, Bangkok, Thailand |
+| Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://redhat.wd5.myworkdayjobs.com/Jobs/job/Bangkok---MSO---Gaysorn/Ecosystem-Solution-Architect_R-051866-1) |
+| Posted | 2026-06-18 |
+| Apply | [View on company site](https://redhat.wd5.myworkdayjobs.com/Jobs/job/Kuala-Lumpur/Ecosystem-Solution-Architect_R-057124-1) |
 
 ## About This Role
 
-This technical & solutions architect position at Red Hat was posted on 2026-02-25.
+This technical & solutions architect position at Red Hat was posted on 2026-06-18.
 
 ## Get Real-Time Alerts
 

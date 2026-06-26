@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Appian](https://scoutify.ai/companies/appian?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | London, England, United Kingdom |
-| Category | Implementation / Professional Services |
-| Posted | 2026-05-14 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/appian/jobs/7925291) |
+| Location | Boston, Massachusetts, United States |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-06-18 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/appian/jobs/8017390) |
 
 ## About This Role
 
-This implementation / professional services position at Appian was posted on 2026-05-14.
+This technical & solutions architect position at Appian was posted on 2026-06-18.
 
 ## Get Real-Time Alerts
 

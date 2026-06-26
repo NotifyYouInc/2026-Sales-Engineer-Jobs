@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Oracle](https://scoutify.ai/companies/oracle?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Mumbai, Maharashtra, India |
 | Category | Technical & Solutions Architect |
 | Posted | 2026-06-09 |
-| Apply | [View on company site](https://careers.oracle.com/jobs/#336340) |
+| Apply | [View on company site](https://careers.oracle.com/jobs/#336337) |
 
 ## About This Role
 

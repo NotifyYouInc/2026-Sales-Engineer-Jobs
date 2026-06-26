@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Zscaler](https://scoutify.ai/companies/zscaler?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | South Korea |
+| Location | Malaysia |
 | Category | Sales Leadership |
-| Posted | 2026-06-16 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/zscaler/jobs/5150477007) |
+| Posted | 2026-06-18 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/zscaler/jobs/5156035007) |
 
 ## About This Role
 
-This sales leadership position at Zscaler was posted on 2026-06-16.
+This sales leadership position at Zscaler was posted on 2026-06-18.
 
 ## Get Real-Time Alerts
 

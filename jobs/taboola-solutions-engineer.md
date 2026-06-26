@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Taboola](https://scoutify.ai/companies/taboola?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Atlanta, Georgia, United States |
-| Category | Customer Success |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://www.taboola.com/careers/job/7706855?gh_jid=7706855) |
+| Location | New York City, New York, United States |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-06-18 |
+| Apply | [View on company site](https://www.taboola.com/careers/job/8009655?gh_jid=8009655) |
 
 ## About This Role
 
-This customer success position at Taboola was posted on 2026-03-11.
+This technical & solutions architect position at Taboola was posted on 2026-06-18.
 
 ## Get Real-Time Alerts
 
