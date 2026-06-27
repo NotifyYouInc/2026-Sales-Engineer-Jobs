@@ -5,12 +5,12 @@
 | Company | [Rotork](https://scoutify.ai/companies/rotork?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Busan, Busan, South Korea |
 | Category | Sales Engineer |
-| Posted | 2026-06-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Rotork1/744000130311739-sales-engineer-cpi) |
+| Posted | 2026-06-19 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Rotork1/744000132990229-sales-engineer-cpi) |
 
 ## About This Role
 
-This sales engineer position at Rotork was posted on 2026-06-05.
+This sales engineer position at Rotork was posted on 2026-06-19.
 
 ## Get Real-Time Alerts
 

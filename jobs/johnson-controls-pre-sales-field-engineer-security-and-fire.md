@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Johnson Controls](https://scoutify.ai/companies/jci?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Kent, Washington, United States |
+| Location | 2 locations |
 | Category | Sales Engineer |
-| Posted | 2026-06-04 |
-| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Kent-Washington-United-States-of-America/Pre-Sales-Field-Engineer--Security-and-Fire_WD30271010) |
+| Posted | 2026-06-19 |
+| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Chicago-IL/Pre-Sales-Field-Engineer--Security-and-Fire_WD30272550) |
 
 ## About This Role
 
-This sales engineer position at Johnson Controls was posted on 2026-06-04.
+This sales engineer position at Johnson Controls was posted on 2026-06-19.
 
 ## Get Real-Time Alerts
 

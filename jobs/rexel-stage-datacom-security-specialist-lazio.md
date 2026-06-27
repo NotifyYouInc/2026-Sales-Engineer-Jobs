@@ -5,12 +5,12 @@
 | Company | [REXEL](https://scoutify.ai/companies/rexel?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Italy |
 | Category | Sales Engineer |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/REXEL1/744000123925728-stage-datacom-security-specialist-lazio) |
+| Posted | 2026-06-19 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/REXEL1/744000133019035-stage-datacom-security-specialist-lazio) |
 
 ## About This Role
 
-This sales engineer position at REXEL was posted on 2026-04-30.
+This sales engineer position at REXEL was posted on 2026-06-19.
 
 ## Get Real-Time Alerts
 

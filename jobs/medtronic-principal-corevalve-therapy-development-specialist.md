@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Medtronic](https://scoutify.ai/companies/medtronic?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Seattle, Washington, United States |
+| Location | Houston, Texas, United States |
 | Category | Sales Engineer |
-| Posted | 2026-05-15 |
-| Apply | [View on company site](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Seattle-Washington-United-States-of-America/Principal-CoreValve-Therapy-Development-Specialist_R67246-1) |
+| Posted | 2026-06-19 |
+| Apply | [View on company site](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Houston-Texas-United-States-of-America/Principal-CoreValve-Therapy-Development-Specialist_R70191-1) |
 
 ## About This Role
 
-This sales engineer position at Medtronic was posted on 2026-05-15.
+This sales engineer position at Medtronic was posted on 2026-06-19.
 
 ## Get Real-Time Alerts
 

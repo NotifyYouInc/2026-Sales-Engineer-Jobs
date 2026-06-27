@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | 2 locations |
+| Location | Japan |
 | Category | Sales Engineer |
-| Posted | 2026-06-16 |
-| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Remote---Wisconsin-USA/Solutions-Engineer_2014788) |
+| Posted | 2026-06-18 |
+| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Hakata-Japan/Solutions-Engineer_2016301) |
 
 ## About This Role
 
-This sales engineer position at Cisco was posted on 2026-06-16.
+This sales engineer position at Cisco was posted on 2026-06-18.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Abbott](https://scoutify.ai/companies/abbott-laboratories?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Manhattan, New York, United States |
-| Category | Sales Engineer |
-| Posted | 2026-06-16 |
-| Apply | [View on company site](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---New-York---Manhattan/Sr-Clinical-Specialist--CRM---Manhattan--NY_31144562-1) |
+| Category | Customer Success |
+| Posted | 2026-06-18 |
+| Apply | [View on company site](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---New-York---Manhattan/Sr-Clinical-Specialist--CRM---Manhattan--NY_31153802) |
 
 ## About This Role
 
-This sales engineer position at Abbott was posted on 2026-06-16.
+This customer success position at Abbott was posted on 2026-06-18.
 
 ## Get Real-Time Alerts
 

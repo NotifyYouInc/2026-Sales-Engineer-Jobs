@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Worldpay](https://scoutify.ai/companies/worldpay?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | 3 locations |
-| Category | Implementation / Professional Services |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://worldpay.wd5.myworkdayjobs.com/worldpay_external_careers_site/job/SAN-FRANCISCO-CALIFORNIA/Sales-Solutions-Consultant_JR0609429) |
+| Location | 4 locations |
+| Category | Sales Engineer |
+| Posted | 2026-06-19 |
+| Apply | [View on company site](https://worldpay.wd5.myworkdayjobs.com/worldpay_external_careers_site/job/ATLANTA-GEORGIA/Sales-Solutions-Consultant_JR0610227) |
 
 ## About This Role
 
-This implementation / professional services position at Worldpay was posted on 2026-04-21.
+This sales engineer position at Worldpay was posted on 2026-06-19.
 
 ## Get Real-Time Alerts
 
