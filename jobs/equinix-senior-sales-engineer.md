@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Equinix](https://scoutify.ai/companies/equinix?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Mumbai, Maharashtra, India |
+| Location | Redwood City, California, United States |
 | Category | Sales Engineer |
 | Posted | 2026-06-17 |
-| Apply | [View on company site](https://equinix.wd1.myworkdayjobs.com/external/job/Mumbai/Senior-Sales-Engineer_JR-161642-1) |
+| Apply | [View on company site](https://equinix.wd1.myworkdayjobs.com/external/job/Redwood-City/Senior-Sales-Engineer_JR-161635) |
 
 ## About This Role
 
