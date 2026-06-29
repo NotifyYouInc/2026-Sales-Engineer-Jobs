@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Johnson Controls](https://scoutify.ai/companies/jci?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Japan |
-| Category | Account Executive |
-| Posted | 2026-06-02 |
-| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Shibuya-ku-Tokyo-Japan/Install-Sales-Representative-2_WD30271029) |
+| Location | Not specified |
+| Category | Sales Engineer |
+| Posted | 2026-06-22 |
+| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Taipei-City-Taipei-City-Chinese-Taiwan/Install-Sales-Representative-2_WD30272427-1) |
 
 ## About This Role
 
-This account executive position at Johnson Controls was posted on 2026-06-02.
+This sales engineer position at Johnson Controls was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 

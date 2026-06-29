@@ -1,16 +1,16 @@
-# Sales Engineer- Suzhou at Avnet
+# Technical Marketing Engineer at Megaport
 
 | Field | Details |
 |-------|---------|
-| Company | [Avnet](https://scoutify.ai/companies/avnet?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Suzhou, Jiangsu, China |
+| Company | [Megaport](https://scoutify.ai/companies/megaport?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
+| Location | Not specified |
 | Category | Sales Engineer |
 | Posted | 2026-06-22 |
-| Apply | [View on company site](https://avnet.wd1.myworkdayjobs.com/external/job/Suzhou-Jiangsu-China/Sales-Engineer--Suzhou_JR-022851) |
+| Apply | [View on company site](https://jobs.lever.co/megaport/9aefbc5e-94dd-4780-b483-176578578c31) |
 
 ## About This Role
 
-This sales engineer position at Avnet was posted on 2026-06-22.
+This sales engineer position at Megaport was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 

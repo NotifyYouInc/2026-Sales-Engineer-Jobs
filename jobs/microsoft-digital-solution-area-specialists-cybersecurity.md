@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Microsoft](https://scoutify.ai/companies/microsoft?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Bangkok, Bangkok, Thailand |
-| Category | Channel / Partner Sales |
-| Posted | 2026-05-29 |
-| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556868801) |
+| Category | Sales Engineer |
+| Posted | 2026-06-22 |
+| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556876288) |
 
 ## About This Role
 
-This channel / partner sales position at Microsoft was posted on 2026-05-29.
+This sales engineer position at Microsoft was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 

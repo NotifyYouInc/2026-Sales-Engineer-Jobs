@@ -1,16 +1,16 @@
-# Service Tender Specialist at ABB
+# Vet at Nutreco
 
 | Field | Details |
 |-------|---------|
-| Company | [ABB](https://scoutify.ai/companies/abb?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Thailand |
-| Category | Sales Engineer |
+| Company | [Nutreco](https://scoutify.ai/companies/nutreco?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
+| Location | Mozzecane, Veneto, Italy |
+| Category | Customer Success |
 | Posted | 2026-06-22 |
-| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Muang-Thailand/Service-Tender-Specialist_JR00038069) |
+| Apply | [View on company site](https://nutreco.wd3.myworkdayjobs.com/nutreco_external/job/Mozzecane/Vet_VAC28652) |
 
 ## About This Role
 
-This sales engineer position at ABB was posted on 2026-06-22.
+This customer success position at Nutreco was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 

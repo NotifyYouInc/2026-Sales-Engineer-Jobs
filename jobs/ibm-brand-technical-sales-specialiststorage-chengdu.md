@@ -1,16 +1,16 @@
-# Service Tender Specialist at ABB
+# Brand Technical Sales Specialist(Storage)-Chengdu at IBM
 
 | Field | Details |
 |-------|---------|
-| Company | [ABB](https://scoutify.ai/companies/abb?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Thailand |
-| Category | Sales Engineer |
+| Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
+| Location | Chengdu, Sichuan, China |
+| Category | Account Executive |
 | Posted | 2026-06-22 |
-| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Muang-Thailand/Service-Tender-Specialist_JR00038069) |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=120966) |
 
 ## About This Role
 
-This sales engineer position at ABB was posted on 2026-06-22.
+This account executive position at IBM was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 

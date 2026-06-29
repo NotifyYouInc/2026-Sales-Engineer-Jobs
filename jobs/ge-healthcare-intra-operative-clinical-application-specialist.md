@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [GE HealthCare](https://scoutify.ai/companies/ge-healthcare?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Gurugram, Haryana, India |
+| Location | Mumbai, Maharashtra, India |
 | Category | Sales Engineer |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Gurgaon/Intra-Operative-Clinical-Application-Specialist_R4039934-1) |
+| Posted | 2026-06-22 |
+| Apply | [View on company site](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/IND22-01-Mumbai-1204-A-The-Capital/Intra-Operative-Clinical-Application-Specialist_R4042621-1) |
 
 ## About This Role
 
-This sales engineer position at GE HealthCare was posted on 2026-04-21.
+This sales engineer position at GE HealthCare was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 

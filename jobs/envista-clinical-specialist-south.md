@@ -1,16 +1,16 @@
-# Sales Engineer- Suzhou at Avnet
+# Clinical Specialist South at Envista
 
 | Field | Details |
 |-------|---------|
-| Company | [Avnet](https://scoutify.ai/companies/avnet?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Suzhou, Jiangsu, China |
+| Company | [Envista](https://scoutify.ai/companies/envista?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
+| Location | Taipei, Taiwan, Taiwan |
 | Category | Sales Engineer |
 | Posted | 2026-06-22 |
-| Apply | [View on company site](https://avnet.wd1.myworkdayjobs.com/external/job/Suzhou-Jiangsu-China/Sales-Engineer--Suzhou_JR-022851) |
+| Apply | [View on company site](https://envista.wd1.myworkdayjobs.com/envistacareers/job/TWN---Taipei---Nobel-Biocare-Taiwan-Co-Ltd/Clinical-Specialist-South_R5026060) |
 
 ## About This Role
 
-This sales engineer position at Avnet was posted on 2026-06-22.
+This sales engineer position at Envista was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Sales Engineer- Suzhou at Avnet
+# Senior Technical Solution Consultant at Clarivate
 
 | Field | Details |
 |-------|---------|
-| Company | [Avnet](https://scoutify.ai/companies/avnet?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Suzhou, Jiangsu, China |
+| Company | [Clarivate](https://scoutify.ai/companies/clarivate?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
+| Location | Singapore, Singapore |
 | Category | Sales Engineer |
 | Posted | 2026-06-22 |
-| Apply | [View on company site](https://avnet.wd1.myworkdayjobs.com/external/job/Suzhou-Jiangsu-China/Sales-Engineer--Suzhou_JR-022851) |
+| Apply | [View on company site](https://clarivate.wd3.myworkdayjobs.com/clarivate_careers/job/Singapore/Senior-Technical-Solution-Consultant_JREQ135798-1) |
 
 ## About This Role
 
-This sales engineer position at Avnet was posted on 2026-06-22.
+This sales engineer position at Clarivate was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 

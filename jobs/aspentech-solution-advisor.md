@@ -1,16 +1,16 @@
-# Service Tender Specialist at ABB
+# Solution Advisor at Aspentech
 
 | Field | Details |
 |-------|---------|
-| Company | [ABB](https://scoutify.ai/companies/abb?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Thailand |
-| Category | Sales Engineer |
+| Company | [Aspentech](https://scoutify.ai/companies/aspentech?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
+| Location | 2 locations |
+| Category | Customer Success |
 | Posted | 2026-06-22 |
-| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Muang-Thailand/Service-Tender-Specialist_JR00038069) |
+| Apply | [View on company site](https://aspentech.wd5.myworkdayjobs.com/aspentech/job/Shanghai/Solution-Advisor_R9178) |
 
 ## About This Role
 
-This sales engineer position at ABB was posted on 2026-06-22.
+This customer success position at Aspentech was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 

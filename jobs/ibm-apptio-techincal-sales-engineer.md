@@ -1,16 +1,16 @@
-# Sales Engineer- Suzhou at Avnet
+# Apptio Techincal Sales Engineer at IBM
 
 | Field | Details |
 |-------|---------|
-| Company | [Avnet](https://scoutify.ai/companies/avnet?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Suzhou, Jiangsu, China |
+| Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
+| Location | Sydney, New South Wales, Australia |
 | Category | Sales Engineer |
 | Posted | 2026-06-22 |
-| Apply | [View on company site](https://avnet.wd1.myworkdayjobs.com/external/job/Suzhou-Jiangsu-China/Sales-Engineer--Suzhou_JR-022851) |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=119591) |
 
 ## About This Role
 
-This sales engineer position at Avnet was posted on 2026-06-22.
+This sales engineer position at IBM was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 

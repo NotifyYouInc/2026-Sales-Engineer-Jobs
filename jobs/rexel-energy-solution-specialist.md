@@ -1,16 +1,16 @@
-# Sales Engineer- Suzhou at Avnet
+# Energy Solution Specialist at REXEL
 
 | Field | Details |
 |-------|---------|
-| Company | [Avnet](https://scoutify.ai/companies/avnet?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Suzhou, Jiangsu, China |
+| Company | [REXEL](https://scoutify.ai/companies/rexel?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
+| Location | Parma, Emilia-Romagna, Italy |
 | Category | Sales Engineer |
 | Posted | 2026-06-22 |
-| Apply | [View on company site](https://avnet.wd1.myworkdayjobs.com/external/job/Suzhou-Jiangsu-China/Sales-Engineer--Suzhou_JR-022851) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/REXEL1/744000133279799-energy-solution-specialist) |
 
 ## About This Role
 
-This sales engineer position at Avnet was posted on 2026-06-22.
+This sales engineer position at REXEL was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 

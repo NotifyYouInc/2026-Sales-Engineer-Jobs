@@ -1,16 +1,16 @@
-# Sales Engineer- Suzhou at Avnet
+# Security Solution Specialist (公共/ヘルスケア) at Microsoft
 
 | Field | Details |
 |-------|---------|
-| Company | [Avnet](https://scoutify.ai/companies/avnet?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Suzhou, Jiangsu, China |
+| Company | [Microsoft](https://scoutify.ai/companies/microsoft?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
+| Location | Tokyo, Tokyo, Japan |
 | Category | Sales Engineer |
-| Posted | 2026-06-22 |
-| Apply | [View on company site](https://avnet.wd1.myworkdayjobs.com/external/job/Suzhou-Jiangsu-China/Sales-Engineer--Suzhou_JR-022851) |
+| Posted | 2026-06-21 |
+| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556911396) |
 
 ## About This Role
 
-This sales engineer position at Avnet was posted on 2026-06-22.
+This sales engineer position at Microsoft was posted on 2026-06-21.
 
 ## Get Real-Time Alerts
 

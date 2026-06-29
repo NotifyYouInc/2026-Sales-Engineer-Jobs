@@ -1,16 +1,16 @@
-# Solution Engineer - Copilot at Microsoft
+# AI/HPC/NeoCloud Pre-Sales System Engineer UAE at Pure Storage
 
 | Field | Details |
 |-------|---------|
-| Company | [Microsoft](https://scoutify.ai/companies/microsoft?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Hong Kong Island, Hong Kong |
+| Company | [Pure Storage](https://scoutify.ai/companies/pure-storage?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
+| Location | Dubai, Dubai, United Arab Emirates |
 | Category | Technical & Solutions Architect |
 | Posted | 2026-06-21 |
-| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556887782) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/purestorage/jobs/8001588) |
 
 ## About This Role
 
-This technical & solutions architect position at Microsoft was posted on 2026-06-21.
+This technical & solutions architect position at Pure Storage was posted on 2026-06-21.
 
 ## Get Real-Time Alerts
 

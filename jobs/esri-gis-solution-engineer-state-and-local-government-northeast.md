@@ -1,16 +1,16 @@
-# Solution Engineer - Copilot at Microsoft
+# GIS Solution Engineer - State and Local Government (Northeast) at Esri
 
 | Field | Details |
 |-------|---------|
-| Company | [Microsoft](https://scoutify.ai/companies/microsoft?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Hong Kong Island, Hong Kong |
+| Company | [Esri](https://scoutify.ai/companies/esri?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
+| Location | Philadelphia, Pennsylvania, United States |
 | Category | Technical & Solutions Architect |
 | Posted | 2026-06-21 |
-| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556887782) |
+| Apply | [View on company site](https://www.esri.com/careers/5026051007?gh_jid=5026051007) |
 
 ## About This Role
 
-This technical & solutions architect position at Microsoft was posted on 2026-06-21.
+This technical & solutions architect position at Esri was posted on 2026-06-21.
 
 ## Get Real-Time Alerts
 
