@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Trend Micro](https://scoutify.ai/companies/trendmicro?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | New Delhi, Delhi, India |
-| Category | Business Development |
-| Posted | 2026-03-19 |
-| Apply | [View on company site](https://trendmicro.wd3.myworkdayjobs.com/External/job/New-Delhi/Solutions-Engineer--North_R0009189) |
+| Category | Sales Engineer |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://trendmicro.wd3.myworkdayjobs.com/External/job/New-Delhi/Solutions-Engineer--North_R0009839) |
 
 ## About This Role
 
-This business development position at Trend Micro was posted on 2026-03-19.
+This sales engineer position at Trend Micro was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

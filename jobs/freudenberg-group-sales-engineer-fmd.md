@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Freudenberg Group](https://scoutify.ai/companies/freudenberg?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Madrid, Madrid, Spain |
+| Location | Hungary |
 | Category | Sales Engineer |
-| Posted | 2026-06-10 |
-| Apply | [View on company site](https://freudenberg.wd3.myworkdayjobs.com/freudenberg-group/job/Madrid/Sales-Engineer--f-m-d-_R_00103333) |
+| Posted | 2026-06-22 |
+| Apply | [View on company site](https://freudenberg.wd3.myworkdayjobs.com/freudenberg-group/job/Hungary---Remote/Sales-Engineer--f-m-d-_R_00100835-1) |
 
 ## About This Role
 
-This sales engineer position at Freudenberg Group was posted on 2026-06-10.
+This sales engineer position at Freudenberg Group was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 

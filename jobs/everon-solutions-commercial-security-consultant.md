@@ -5,12 +5,12 @@
 | Company | [Everon Solutions](https://scoutify.ai/companies/everon-solutions?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Not specified |
 | Category | Sales Engineer |
-| Posted | 2026-06-17 |
-| Apply | [View on company site](https://everon.rec.pro.ukg.net/ADT1500ADTC/JobBoard/44f85d2d-9838-4c27-838c-c64fb8974adb/OpportunityDetail?opportunityId=582224ea-63f5-4399-a443-7d6df3b49e57) |
+| Posted | 2026-06-19 |
+| Apply | [View on company site](https://everon.rec.pro.ukg.net/ADT1500ADTC/JobBoard/44f85d2d-9838-4c27-838c-c64fb8974adb/OpportunityDetail?opportunityId=cab95e76-9241-4d7d-958d-13c2bf439726) |
 
 ## About This Role
 
-This sales engineer position at Everon Solutions was posted on 2026-06-17.
+This sales engineer position at Everon Solutions was posted on 2026-06-19.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Freudenberg Group](https://scoutify.ai/companies/freudenberg?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Dartmouth, Nova Scotia, Canada |
-| Category | Software Engineer |
-| Posted | 2026-06-01 |
-| Apply | [View on company site](https://freudenberg.wd3.myworkdayjobs.com/freudenberg-group/job/Dartmouth-NS/Application-Engineer_R_00101046) |
+| Location | Valinhos, São Paulo, Brazil |
+| Category | Sales Engineer |
+| Posted | 2026-06-22 |
+| Apply | [View on company site](https://freudenberg.wd3.myworkdayjobs.com/freudenberg-group/job/Valinhos/Application-Engineer_R_00103527) |
 
 ## About This Role
 
-This software engineer position at Freudenberg Group was posted on 2026-06-01.
+This sales engineer position at Freudenberg Group was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 

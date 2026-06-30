@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Johnson Controls](https://scoutify.ai/companies/jci?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Manchester, England, United Kingdom |
+| Location | United Kingdom |
 | Category | Sales Engineer |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Manchester-Manchester-United-Kingdom/Territory-Domain-Field-Sales-Rep-5_WD30266687) |
+| Posted | 2026-06-22 |
+| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Hethel-Norfolk-United-Kingdom/Territory-Domain-Field-Sales-Rep-5_WD30270695) |
 
 ## About This Role
 
-This sales engineer position at Johnson Controls was posted on 2026-04-21.
+This sales engineer position at Johnson Controls was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Intuitive Surgical](https://scoutify.ai/companies/intuitivesurgical?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Seoul, Seoul, South Korea |
+| Location | Palermo, Sicily, Italy |
 | Category | Sales Engineer |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Intuitive/744000127765997-clinical-territory-associate) |
+| Posted | 2026-06-22 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Intuitive/744000133301879-clinical-territory-associate) |
 
 ## About This Role
 
-This sales engineer position at Intuitive Surgical was posted on 2026-05-21.
+This sales engineer position at Intuitive Surgical was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 

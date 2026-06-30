@@ -1,16 +1,16 @@
-# Partner Technical Specialist Data at IBM
+# Partner Technical Specialist - Data at IBM
 
 | Field | Details |
 |-------|---------|
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | United States |
+| Location | Philippines |
 | Category | Sales Engineer |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=108987) |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=122455) |
 
 ## About This Role
 
-This sales engineer position at IBM was posted on 2026-04-23.
+This sales engineer position at IBM was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

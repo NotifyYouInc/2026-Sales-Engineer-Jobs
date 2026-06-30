@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Snowflake](https://scoutify.ai/companies/snowflake?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Hyderabad, Telangana, India |
-| Category | Sales Engineer |
-| Posted | 2026-03-16 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/snowflake/593fe4d5-b95a-49f4-bb66-0705f3102e83) |
+| Location | Bengaluru, Karnataka, India |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/snowflake/7297bab6-d578-437d-b8de-b3fd85a2f5a1) |
 
 ## About This Role
 
-This sales engineer position at Snowflake was posted on 2026-03-16.
+This technical & solutions architect position at Snowflake was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

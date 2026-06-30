@@ -5,12 +5,12 @@
 | Company | [Stryker](https://scoutify.ai/companies/stryker?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Albuquerque, New Mexico, United States |
 | Category | Sales Engineer |
-| Posted | 2026-05-06 |
-| Apply | [View on company site](https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Albuquerque-New-Mexico/Clinical-Specialist--Enabling-Technologies--Albuquerque--NM-_R564916) |
+| Posted | 2026-06-22 |
+| Apply | [View on company site](https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Albuquerque-New-Mexico/Clinical-Specialist--Enabling-Technologies--Albuquerque--NM-_R566893) |
 
 ## About This Role
 
-This sales engineer position at Stryker was posted on 2026-05-06.
+This sales engineer position at Stryker was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 

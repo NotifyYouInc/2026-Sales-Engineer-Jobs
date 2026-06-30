@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [GE HealthCare](https://scoutify.ai/companies/ge-healthcare?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Kunming, Yunnan, China |
+| Location | 3 locations |
 | Category | Sales Engineer |
-| Posted | 2026-06-08 |
-| Apply | [View on company site](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Kunming/Advanced-Application-Specialist_R4042088-1) |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Shanghai/Advanced-Application-Specialist_R4042699-1) |
 
 ## About This Role
 
-This sales engineer position at GE HealthCare was posted on 2026-06-08.
+This sales engineer position at GE HealthCare was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 
