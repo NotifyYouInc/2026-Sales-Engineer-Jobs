@@ -5,12 +5,12 @@
 | Company | [Pfizer](https://scoutify.ai/companies/pfizer?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Zhengzhou, Henan, China |
 | Category | Sales Engineer |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://pfizer.wd1.myworkdayjobs.com/PfizerCareers/job/China---Henan---Zhengzhou/---_4955445) |
+| Posted | 2026-06-24 |
+| Apply | [View on company site](https://pfizer.wd1.myworkdayjobs.com/PfizerCareers/job/China---Henan---Zhengzhou/---_4959819) |
 
 ## About This Role
 
-This sales engineer position at Pfizer was posted on 2026-04-21.
+This sales engineer position at Pfizer was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

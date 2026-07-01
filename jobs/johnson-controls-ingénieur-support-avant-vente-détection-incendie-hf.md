@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Johnson Controls](https://scoutify.ai/companies/jci?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | France |
+| Location | Chassieu, Rhône-Alpes, France |
 | Category | Sales Engineer |
-| Posted | 2026-06-18 |
-| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Montigny-le-Bretonneux-Yvelines-France/Ingnieur-Support-Avant-Vente-Dtection-Incendie--H-F-_WD30272275) |
+| Posted | 2026-06-24 |
+| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Chassieu-Rhone-Alpes-France/ingenieur-support-technique-en-systeme-detection-et-extinction-gaz_WD30272273) |
 
 ## About This Role
 
-This sales engineer position at Johnson Controls was posted on 2026-06-18.
+This sales engineer position at Johnson Controls was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

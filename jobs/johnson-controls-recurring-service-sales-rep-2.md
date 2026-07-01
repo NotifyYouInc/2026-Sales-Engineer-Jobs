@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Johnson Controls](https://scoutify.ai/companies/jci?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Singapore, Singapore |
+| Location | Beijing, Beijing, China |
 | Category | Sales Engineer |
-| Posted | 2026-05-08 |
-| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Singapore-Singapore-Singapore/Recurring-Service-Sales-Rep-2_WD30268667) |
+| Posted | 2026-06-24 |
+| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Beijing-Beijing-China/Recurring-Service-Sales-Rep-2_WD30272904) |
 
 ## About This Role
 
-This sales engineer position at Johnson Controls was posted on 2026-05-08.
+This sales engineer position at Johnson Controls was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

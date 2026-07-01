@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cognex](https://scoutify.ai/companies/cognex?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Aguascalientes, Aguascalientes, Mexico |
+| Location | Hangzhou, Zhejiang, China |
 | Category | Sales Engineer |
-| Posted | 2026-06-18 |
-| Apply | [View on company site](https://cognex.wd1.myworkdayjobs.com/External_Career_Site/job/Aguascalientes-Mxico/Territory-Sales-Engineer_R0012096) |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://cognex.wd1.myworkdayjobs.com/External_Career_Site/job/Hangzhou-China/Territory-Sales-Engineer_R0012126) |
 
 ## About This Role
 
-This sales engineer position at Cognex was posted on 2026-06-18.
+This sales engineer position at Cognex was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

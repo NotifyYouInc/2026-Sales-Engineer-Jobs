@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Continental](https://scoutify.ai/companies/continental?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Mississauga, Ontario, Canada |
+| Location | Winnipeg, Manitoba, Canada |
 | Category | Customer Success |
-| Posted | 2026-06-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/continental/744000131191109-retreadtechnical-solutions-field-specialist-canada) |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/continental/744000133589185-retreadtechnical-solutions-field-specialist-canada) |
 
 ## About This Role
 
-This customer success position at Continental was posted on 2026-06-09.
+This customer success position at Continental was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

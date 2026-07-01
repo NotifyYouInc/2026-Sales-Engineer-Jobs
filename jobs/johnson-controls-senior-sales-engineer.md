@@ -1,16 +1,16 @@
-# Senior Sales Engineer at Johnson Controls
+# senior sales engineer at Johnson Controls
 
 | Field | Details |
 |-------|---------|
 | Company | [Johnson Controls](https://scoutify.ai/companies/jci?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Hefei, Anhui, China |
+| Location | Suzhou, Jiangsu, China |
 | Category | Sales Engineer |
-| Posted | 2026-06-04 |
-| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Hefei-Anhui-China/Senior-Sales-Engineer_WD30271161-2) |
+| Posted | 2026-06-24 |
+| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Suzhou-Jiangsu-China/senior-sales-engineer_WD30273023) |
 
 ## About This Role
 
-This sales engineer position at Johnson Controls was posted on 2026-06-04.
+This sales engineer position at Johnson Controls was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

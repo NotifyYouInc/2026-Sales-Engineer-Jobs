@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Intuitive Surgical](https://scoutify.ai/companies/intuitivesurgical?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Zürich, Zurich, Switzerland |
+| Location | Bremen, City state Bremen, Germany |
 | Category | Sales Engineer |
-| Posted | 2026-06-15 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Intuitive/744000132182999-da-vinci-clinical-territory-associate-mwd) |
+| Posted | 2026-06-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Intuitive/744000133889139-da-vinci-clinical-territory-associate-mwd) |
 
 ## About This Role
 
-This sales engineer position at Intuitive Surgical was posted on 2026-06-15.
+This sales engineer position at Intuitive Surgical was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

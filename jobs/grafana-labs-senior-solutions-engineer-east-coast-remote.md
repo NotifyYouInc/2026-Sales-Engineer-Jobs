@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Grafana Labs](https://scoutify.ai/companies/grafana-labs?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | United States |
-| Category | Technical Writer |
-| Posted | 2026-03-26 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/grafanalabs/jobs/5838158004) |
+| Category | Sales Engineer |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/grafanalabs/jobs/6099563004) |
 
 ## About This Role
 
-This technical writer position at Grafana Labs was posted on 2026-03-26.
+This sales engineer position at Grafana Labs was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

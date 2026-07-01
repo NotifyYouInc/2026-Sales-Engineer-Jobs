@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Unframe](https://scoutify.ai/companies/unframe?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | 7 locations |
-| Category | Technical & Solutions Architect |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://job-boards.eu.greenhouse.io/unframe/jobs/4870607101) |
+| Location | United States |
+| Category | Sales Engineer |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://job-boards.eu.greenhouse.io/unframe/jobs/4906454101) |
 
 ## About This Role
 
-This technical & solutions architect position at Unframe was posted on 2026-05-19.
+This sales engineer position at Unframe was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

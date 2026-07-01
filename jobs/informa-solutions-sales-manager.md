@@ -5,12 +5,12 @@
 | Company | [Informa](https://scoutify.ai/companies/informa?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Philadelphia, Pennsylvania, United States |
 | Category | Account Executive |
-| Posted | 2026-06-01 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/InformaGroupPlc/744000129587010-solutions-sales-manager) |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/InformaGroupPlc/744000133635049-solutions-sales-manager) |
 
 ## About This Role
 
-This account executive position at Informa was posted on 2026-06-01.
+This account executive position at Informa was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

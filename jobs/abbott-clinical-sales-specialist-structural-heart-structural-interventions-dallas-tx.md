@@ -1,16 +1,16 @@
-# Clinical Sales Specialist, Structural Heart – Structural Interventions (Dallas, TX) at Abbott
+# Clinical Sales Specialist, Structural Heart - Structural Interventions (Dallas, TX) at Abbott
 
 | Field | Details |
 |-------|---------|
 | Company | [Abbott](https://scoutify.ai/companies/abbott-laboratories?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Dallas, Texas, United States |
-| Category | Account Executive |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Texas---Dallas/Clinical-Sales-Specialist--Structural-Heart---Structural-Interventions--Dallas--TX-_31148007-1) |
+| Category | Sales Engineer |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Texas---Dallas/Clinical-Sales-Specialist--Structural-Heart---Structural-Interventions--Dallas--TX-_31154402-1) |
 
 ## About This Role
 
-This account executive position at Abbott was posted on 2026-04-17.
+This sales engineer position at Abbott was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

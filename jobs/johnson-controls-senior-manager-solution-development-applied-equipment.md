@@ -1,16 +1,16 @@
-# Senior Manager- Solution development, Applied equipment at Johnson Controls
+# Senior Manager- Solution Development, Applied Equipment at Johnson Controls
 
 | Field | Details |
 |-------|---------|
 | Company | [Johnson Controls](https://scoutify.ai/companies/jci?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Mumbai, Maharashtra, India |
-| Category | Sales Engineer |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Mumbai-Maharashtra-India/Senior-Manager--Solution-development--Applied-equipment_WD30266659-1) |
+| Location | 2 locations |
+| Category | Account Manager |
+| Posted | 2026-06-24 |
+| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Mumbai-Maharashtra-India/Senior-Manager--Solution-Development--Applied-Equipment_WD30273029-1) |
 
 ## About This Role
 
-This sales engineer position at Johnson Controls was posted on 2026-04-13.
+This account manager position at Johnson Controls was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

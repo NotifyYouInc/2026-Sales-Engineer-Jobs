@@ -5,12 +5,12 @@
 | Company | [REXEL](https://scoutify.ai/companies/rexel?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Chenôve, Bourgogne, France |
 | Category | Industrial Automation |
-| Posted | 2026-06-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/REXEL1/744000130368449-ingenieur-applications-services-industriels-fh-dijon-24) |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/REXEL1/744000133596899-ingenieur-applications-services-industriels-fh-dijon-24) |
 
 ## About This Role
 
-This industrial automation position at REXEL was posted on 2026-06-05.
+This industrial automation position at REXEL was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

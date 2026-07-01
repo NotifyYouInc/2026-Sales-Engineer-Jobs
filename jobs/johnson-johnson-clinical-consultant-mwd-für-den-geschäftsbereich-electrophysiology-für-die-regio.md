@@ -1,16 +1,16 @@
-# Clinical Consultant (m/w/d) für den Geschäftsbereich Electrophysiology für die Region West (südliches Ruhrgebiet / Rheinland / nördliches Rheinland-Pfalz) at Johnson & Johnson
+# Clinical Consultant (m/w/d) für den Geschäftsbereich Electrophysiology für die Region West (südliches Ruhrgebiet / Rheinland / nördliches Rheinland-Pfalz) - befristet at Johnson & Johnson
 
 | Field | Details |
 |-------|---------|
 | Company | [Johnson & Johnson](https://scoutify.ai/companies/johnson-johnson?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Hamburg, Hamburg, Germany |
 | Category | Sales Engineer |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://jj.wd5.myworkdayjobs.com/JJ/job/Hamburg-Germany/Clinical-Consultant--m-w-d--fr-den-Geschftsbereich-Electrophysiology-fr-die-Region-West--sdliches-Ruhrgebiet---Rheinland---nrdliches-Rheinland-Pfalz-_R-071586) |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://jj.wd5.myworkdayjobs.com/JJ/job/Hamburg-Germany/Clinical-Consultant--m-w-d--fr-den-Geschftsbereich-Electrophysiology-fr-die-Region-West--sdliches-Ruhrgebiet---Rheinland---nrdliches-Rheinland-Pfalz----befristet_R-080605-1) |
 
 ## About This Role
 
-This sales engineer position at Johnson & Johnson was posted on 2026-04-24.
+This sales engineer position at Johnson & Johnson was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

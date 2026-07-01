@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Yokogawa](https://scoutify.ai/companies/yokogawa?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | 2 locations |
+| Location | New Delhi, Delhi, India |
 | Category | Sales Engineer |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://yokogawa.wd3.myworkdayjobs.com/yokogawa-career-site/job/Bucharest/Sales-Engineer_R-9120) |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://yokogawa.wd3.myworkdayjobs.com/yokogawa-career-site/job/New-Delhi/Sales-Engineer_R-11416) |
 
 ## About This Role
 
-This sales engineer position at Yokogawa was posted on 2026-02-27.
+This sales engineer position at Yokogawa was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

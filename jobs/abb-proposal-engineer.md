@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ABB](https://scoutify.ai/companies/abb?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Auburn Hills, Michigan, United States |
-| Category | Robotics Engineer |
-| Posted | 2026-06-11 |
-| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/USA-MI-Auburn-Hills/Proposal-Engineer_JR00037044-1) |
+| Location | 3 locations |
+| Category | Sales Engineer |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Houston-Texas-United-States-of-America/Proposal-Engineer_JR00038020) |
 
 ## About This Role
 
-This robotics engineer position at ABB was posted on 2026-06-11.
+This sales engineer position at ABB was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

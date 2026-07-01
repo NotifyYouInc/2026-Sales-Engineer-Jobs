@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sartorius](https://scoutify.ai/companies/sartorius?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | 2 locations |
-| Category | Customer Success |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://sartorius.wd3.myworkdayjobs.com/sartoriuscareers/job/Shanghai/Field-Application-Specialist_R40159) |
+| Location | Arkansas, US |
+| Category | Sales Engineer |
+| Posted | 2026-06-24 |
+| Apply | [View on company site](https://sartorius.wd3.myworkdayjobs.com/sartoriuscareers/job/Home-Office-Texas/Field-Application-Specialist_R40541) |
 
 ## About This Role
 
-This customer success position at Sartorius was posted on 2026-04-20.
+This sales engineer position at Sartorius was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

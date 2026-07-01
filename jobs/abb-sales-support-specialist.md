@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ABB](https://scoutify.ai/companies/abb?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Hong Kong, Hong Kong |
+| Location | Almaty, Almaty, Kazakhstan |
 | Category | Sales Engineer |
-| Posted | 2026-06-18 |
-| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Hong-Kong-Hong-Kong-Island-Hong-Kong/Sales-Support-Specialist_JR00036824) |
+| Posted | 2026-06-19 |
+| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Almaty-Almaty-City-Kazakhstan/Sales-Support-Specialist_JR00038730) |
 
 ## About This Role
 
-This sales engineer position at ABB was posted on 2026-06-18.
+This sales engineer position at ABB was posted on 2026-06-19.
 
 ## Get Real-Time Alerts
 

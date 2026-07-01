@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Carrier Global](https://scoutify.ai/companies/carrier?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Dublin, Leinster, Ireland |
+| Location | Dubai, Dubai, United Arab Emirates |
 | Category | Sales Engineer |
-| Posted | 2026-06-09 |
-| Apply | [View on company site](https://carrier.wd5.myworkdayjobs.com/jobs/job/Dublin-Ireland/Sales-Engineer_30198733-1) |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://carrier.wd5.myworkdayjobs.com/jobs/job/Carrier-Middle-East-Limited-Palladium-building-2nd-floor-Al-Quoz-Dubai-UAE/Sales-Engineer_30207839) |
 
 ## About This Role
 
-This sales engineer position at Carrier Global was posted on 2026-06-09.
+This sales engineer position at Carrier Global was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Medtronic](https://scoutify.ai/companies/medtronic?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Warsaw, Mazovia, Poland |
+| Location | Dublin, Leinster, Ireland |
 | Category | Customer Success |
-| Posted | 2026-05-27 |
-| Apply | [View on company site](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Warsaw-Mazowieckie-Poland/Technical-Consultant_R65948-1) |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Dublin-County-Dublin-Ireland/Technical-Consultant_R69801-1) |
 
 ## About This Role
 
-This customer success position at Medtronic was posted on 2026-05-27.
+This customer success position at Medtronic was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

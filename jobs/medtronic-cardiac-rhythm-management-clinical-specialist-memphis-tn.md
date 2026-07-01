@@ -5,12 +5,12 @@
 | Company | [Medtronic](https://scoutify.ai/companies/medtronic?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Memphis, Tennessee, United States |
 | Category | Customer Success |
-| Posted | 2026-04-06 |
-| Apply | [View on company site](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Memphis-Tennessee-United-States-of-America/Cardiac-Rhythm-Management-Clinical-Specialist---Memphis--TN_R63573-1) |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Memphis-Tennessee-United-States-of-America/Cardiac-Rhythm-Management-Clinical-Specialist---Memphis--TN_R70536-1) |
 
 ## About This Role
 
-This customer success position at Medtronic was posted on 2026-04-06.
+This customer success position at Medtronic was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Regal Rexnord](https://scoutify.ai/companies/regalrexnord?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Guangdong, CN |
+| Location | Singapore |
 | Category | Sales Engineer |
-| Posted | 2026-06-12 |
-| Apply | [View on company site](https://regalrexnord.wd1.myworkdayjobs.com/careers/job/Dongguan-City-Guangdong-China/Sales-Engineer_R26_02083) |
+| Posted | 2026-06-24 |
+| Apply | [View on company site](https://regalrexnord.wd1.myworkdayjobs.com/careers/job/Singapore-Toa-Payoh-North-Singapore/Sales-Engineer_R26_02683) |
 
 ## About This Role
 
-This sales engineer position at Regal Rexnord was posted on 2026-06-12.
+This sales engineer position at Regal Rexnord was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 
