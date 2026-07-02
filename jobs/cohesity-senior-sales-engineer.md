@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cohesity](https://scoutify.ai/companies/cohesity?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Switzerland |
+| Location | Riyadh, Riyadh Region, Saudi Arabia |
 | Category | Sales Engineer |
-| Posted | 2026-06-19 |
-| Apply | [View on company site](https://cohesity.wd5.myworkdayjobs.com/Cohesity_Careers/job/Switzerland---Remote/Senior-Sales-Engineer_R03940) |
+| Posted | 2026-06-24 |
+| Apply | [View on company site](https://cohesity.wd5.myworkdayjobs.com/Cohesity_Careers/job/Riyadh---Saudi-Arabia-Office/Senior-Sales-Engineer_R03949) |
 
 ## About This Role
 
-This sales engineer position at Cohesity was posted on 2026-06-19.
+This sales engineer position at Cohesity was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sika](https://scoutify.ai/companies/sika?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Chile |
-| Category | Sales Engineer |
-| Posted | 2026-06-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SikaAG/744000132929359-representante-tecnico-de-ventas) |
+| Location | Temuco, Araucanía, Chile |
+| Category | Account Manager |
+| Posted | 2026-06-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SikaAG/744000133984239-representante-tecnico-de-ventas) |
 
 ## About This Role
 
-This sales engineer position at Sika was posted on 2026-06-18.
+This account manager position at Sika was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

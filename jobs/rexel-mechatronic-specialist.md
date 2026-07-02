@@ -5,12 +5,12 @@
 | Company | [REXEL](https://scoutify.ai/companies/rexel?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Tampa, Florida, United States |
 | Category | Robotics Engineer |
-| Posted | 2026-06-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/REXEL1/744000133124447-mechatronic-specialist) |
+| Posted | 2026-06-22 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/REXEL1/744000133391929-mechatronic-specialist) |
 
 ## About This Role
 
-This robotics engineer position at REXEL was posted on 2026-06-19.
+This robotics engineer position at REXEL was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Abbott](https://scoutify.ai/companies/abbott-laboratories?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | France |
 | Category | Account Manager |
-| Posted | 2026-06-18 |
-| Apply | [View on company site](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/France---Issy-les-Moulineaux/Responsable-Technico-commercial--CRM--Bordeaux-H-F_31153851) |
+| Posted | 2026-06-24 |
+| Apply | [View on company site](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/France---Issy-les-Moulineaux/Responsable-Technico-commercial--CRM--Bordeaux-H-F_31154349) |
 
 ## About This Role
 
-This account manager position at Abbott was posted on 2026-06-18.
+This account manager position at Abbott was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

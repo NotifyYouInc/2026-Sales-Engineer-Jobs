@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Esch-sur-Alzette, Esch-sur-Alzette, Luxembourg |
-| Category | Sales Engineer |
-| Posted | 2026-06-11 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=120430) |
+| Location | Mumbai, Maharashtra, India |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-06-24 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=121937) |
 
 ## About This Role
 
-This sales engineer position at IBM was posted on 2026-06-11.
+This technical & solutions architect position at IBM was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

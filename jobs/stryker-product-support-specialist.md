@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Stryker](https://scoutify.ai/companies/stryker?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | 18 locations |
-| Category | Technical Support Engineer |
-| Posted | 2026-06-08 |
-| Apply | [View on company site](https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/London-United-Kingdom/Product-Support-Specialist_R566963) |
+| Location | 4 locations |
+| Category | Customer Success |
+| Posted | 2026-06-24 |
+| Apply | [View on company site](https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Brighton-and-Hove-United-Kingdom/Product-Support-Specialist_R568160) |
 
 ## About This Role
 
-This technical support engineer position at Stryker was posted on 2026-06-08.
+This customer success position at Stryker was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

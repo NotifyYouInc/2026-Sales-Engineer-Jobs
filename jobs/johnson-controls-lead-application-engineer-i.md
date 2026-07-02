@@ -1,16 +1,16 @@
-# Lead Application Engineer I at Johnson Controls
+# Lead. Application Engineer I at Johnson Controls
 
 | Field | Details |
 |-------|---------|
 | Company | [Johnson Controls](https://scoutify.ai/companies/jci?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Karnataka, IN |
-| Category | Software Engineer |
-| Posted | 2026-04-08 |
-| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/IND-Bangalore-D-601/Lead-Application-Engineer-I_WD30266499-1) |
+| Location | Bengaluru, Karnataka, India |
+| Category | Sales Engineer |
+| Posted | 2026-06-24 |
+| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Bangalore-Karnataka-India/Lead-Application-Engineer-I_WD30272773) |
 
 ## About This Role
 
-This software engineer position at Johnson Controls was posted on 2026-04-08.
+This sales engineer position at Johnson Controls was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

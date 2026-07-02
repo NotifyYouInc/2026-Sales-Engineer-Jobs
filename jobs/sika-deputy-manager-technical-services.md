@@ -1,16 +1,16 @@
-# Deputy Manager -Technical Services  at Sika
+# Deputy Manager Technical Services at Sika
 
 | Field | Details |
 |-------|---------|
 | Company | [Sika](https://scoutify.ai/companies/sika?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Nagpur, Maharashtra, India |
+| Location | Udaipur, Rajasthan, India |
 | Category | Sales Engineer |
-| Posted | 2026-06-08 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SikaAG/744000130717792-deputy-manager-technical-services) |
+| Posted | 2026-06-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SikaAG/744000133897459-deputy-manager-technical-services) |
 
 ## About This Role
 
-This sales engineer position at Sika was posted on 2026-06-08.
+This sales engineer position at Sika was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

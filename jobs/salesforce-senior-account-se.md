@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Salesforce](https://scoutify.ai/companies/salesforce?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Bogotá, Bogota D.C., Colombia |
+| Location | Dublin, Leinster, Ireland |
 | Category | Sales Engineer |
-| Posted | 2026-06-19 |
-| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Colombia---Bogota/Senior--Account-SE_JR343810-1) |
+| Posted | 2026-06-22 |
+| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Ireland---Dublin/Senior--Account-SE_JR347530) |
 
 ## About This Role
 
-This sales engineer position at Salesforce was posted on 2026-06-19.
+This sales engineer position at Salesforce was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 

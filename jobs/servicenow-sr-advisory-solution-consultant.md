@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ServiceNow](https://scoutify.ai/companies/servicenow?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Switzerland |
-| Category | Sales Engineer |
-| Posted | 2026-04-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000120030062-sr-advisory-solution-consultant) |
+| Location | Munich, Bavaria, Germany |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-06-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000133984169-sr-advisory-solution-consultant) |
 
 ## About This Role
 
-This sales engineer position at ServiceNow was posted on 2026-04-10.
+This technical & solutions architect position at ServiceNow was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

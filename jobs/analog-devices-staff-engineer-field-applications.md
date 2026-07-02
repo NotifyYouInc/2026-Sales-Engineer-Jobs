@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Analog Devices](https://scoutify.ai/companies/analogdevices?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Istanbul, Istanbul, Turkey |
-| Category | Electrical / Hardware Engineer |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://analogdevices.wd1.myworkdayjobs.com/External/job/Turkey-Istanbul-Bilisim-Vadisi/Staff-Engineer--Field-Applications_R262048) |
+| Location | Shenzhen, Guangdong, China |
+| Category | Sales Engineer |
+| Posted | 2026-06-25 |
+| Apply | [View on company site](https://analogdevices.wd1.myworkdayjobs.com/External/job/China-Shenzhen-Guangdong-Nanshan/Staff-Engineer--Field-Applications_R263491) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Analog Devices was posted on 2026-04-16.
+This sales engineer position at Analog Devices was posted on 2026-06-25.
 
 ## Get Real-Time Alerts
 

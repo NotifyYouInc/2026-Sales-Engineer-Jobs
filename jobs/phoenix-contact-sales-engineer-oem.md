@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Phoenix Contact](https://scoutify.ai/companies/phoenix-contact?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Ann Arbor, Michigan, United States |
+| Location | Dallas, Texas, United States |
 | Category | Sales Engineer |
-| Posted | 2026-06-09 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/phoenixcontact/jobs/7758798003) |
+| Posted | 2026-06-24 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/phoenixcontact/jobs/7702006003) |
 
 ## About This Role
 
-This sales engineer position at Phoenix Contact was posted on 2026-06-09.
+This sales engineer position at Phoenix Contact was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 
