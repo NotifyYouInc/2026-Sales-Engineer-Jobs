@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Oetiker](https://scoutify.ai/companies/oetiker?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Las Vegas, Nevada, United States |
+| Location | Modesto, California, United States |
 | Category | Sales Engineer |
-| Posted | 2026-06-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/oetiker/744000133447217-sales-engineer) |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/oetiker/744000133605404-sales-engineer) |
 
 ## About This Role
 
-This sales engineer position at Oetiker was posted on 2026-06-22.
+This sales engineer position at Oetiker was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

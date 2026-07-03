@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Motorola Solutions](https://scoutify.ai/companies/motorola-solutions?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Saudi Arabia |
+| Location | Belgium |
 | Category | Sales Engineer |
-| Posted | 2026-02-09 |
-| Apply | [View on company site](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Saudi-Arabia-Offsite-ZSD99/Pre-Sales-Solutions-Engineer_R61670) |
+| Posted | 2026-06-25 |
+| Apply | [View on company site](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Belgium-Offsite-ZBE99/Pre-Sales-Solutions-Engineer_R66048) |
 
 ## About This Role
 
-This sales engineer position at Motorola Solutions was posted on 2026-02-09.
+This sales engineer position at Motorola Solutions was posted on 2026-06-25.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Asana](https://scoutify.ai/companies/asana?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | San Francisco, California, United States |
-| Category | Technical & Solutions Architect |
-| Posted | 2026-05-20 |
-| Apply | [View on company site](https://www.asana.com/jobs/apply/7913978?gh_jid=7913978) |
+| Location | London, England, United Kingdom |
+| Category | Sales Engineer |
+| Posted | 2026-06-25 |
+| Apply | [View on company site](https://www.asana.com/jobs/apply/8027353?gh_jid=8027353) |
 
 ## About This Role
 
-This technical & solutions architect position at Asana was posted on 2026-05-20.
+This sales engineer position at Asana was posted on 2026-06-25.
 
 ## Get Real-Time Alerts
 

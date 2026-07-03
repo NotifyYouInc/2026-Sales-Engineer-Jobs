@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Cloudflare](https://scoutify.ai/companies/cloudflare?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Mexico City, Mexico City, Mexico |
-| Category | Technical & Solutions Architect |
-| Posted | 2026-05-27 |
-| Apply | [View on company site](https://boards.greenhouse.io/cloudflare/jobs/7956758?gh_jid=7956758) |
+| Category | Sales Engineer |
+| Posted | 2026-06-25 |
+| Apply | [View on company site](https://boards.greenhouse.io/cloudflare/jobs/8018980?gh_jid=8018980) |
 
 ## About This Role
 
-This technical & solutions architect position at Cloudflare was posted on 2026-05-27.
+This sales engineer position at Cloudflare was posted on 2026-06-25.
 
 ## Get Real-Time Alerts
 

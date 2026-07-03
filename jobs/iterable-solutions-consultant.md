@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Iterable](https://scoutify.ai/companies/iterable?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | United States |
-| Category | Implementation / Professional Services |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/iterable/jobs/7761457) |
+| Location | 7 locations |
+| Category | Sales Engineer |
+| Posted | 2026-06-25 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/iterable/jobs/8026812) |
 
 ## About This Role
 
-This implementation / professional services position at Iterable was posted on 2026-04-23.
+This sales engineer position at Iterable was posted on 2026-06-25.
 
 ## Get Real-Time Alerts
 

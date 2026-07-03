@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Upguard](https://scoutify.ai/companies/upguard?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Houston, Texas, United States |
+| Location | Los Angeles, California, United States |
 | Category | Sales Engineer |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://jobs.lever.co/upguard/66a84f10-1658-40a4-9e1f-43454e576bba) |
+| Posted | 2026-06-26 |
+| Apply | [View on company site](https://jobs.lever.co/upguard/b36b646a-1f5c-4edf-8784-3a83529640a7) |
 
 ## About This Role
 
-This sales engineer position at Upguard was posted on 2026-04-22.
+This sales engineer position at Upguard was posted on 2026-06-26.
 
 ## Get Real-Time Alerts
 

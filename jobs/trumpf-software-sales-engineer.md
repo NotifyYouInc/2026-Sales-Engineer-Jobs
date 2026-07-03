@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Trumpf](https://scoutify.ai/companies/trumpf?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Farmington, New Mexico, United States |
+| Location | Chicago, Illinois, United States |
 | Category | Sales Engineer |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://trumpf.wd3.myworkdayjobs.com/trumpf_graduates_and_professionals/job/Farmington-CT/Software-Sales-Engineer_R00040212) |
+| Posted | 2026-06-25 |
+| Apply | [View on company site](https://trumpf.wd3.myworkdayjobs.com/trumpf_graduates_and_professionals/job/Chicago-IL/Software-Sales-Engineer_R00041041) |
 
 ## About This Role
 
-This sales engineer position at Trumpf was posted on 2026-05-21.
+This sales engineer position at Trumpf was posted on 2026-06-25.
 
 ## Get Real-Time Alerts
 

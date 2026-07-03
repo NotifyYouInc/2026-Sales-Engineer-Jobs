@@ -1,16 +1,16 @@
-# Solutions Engineer - Bangalore at Cisco
+# Solutions Engineer – Bangalore at Cisco
 
 | Field | Details |
 |-------|---------|
 | Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | India |
-| Category | Channel / Partner Sales |
-| Posted | 2026-03-15 |
-| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Bangalore-India/Solutions-Engineer---Bangalore_2009929) |
+| Location | Bengaluru, Karnataka, India |
+| Category | Sales Engineer |
+| Posted | 2026-06-25 |
+| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Bangalore-India/Solutions-Engineer---Bangalore_2016648) |
 
 ## About This Role
 
-This channel / partner sales position at Cisco was posted on 2026-03-15.
+This sales engineer position at Cisco was posted on 2026-06-25.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Abbott](https://scoutify.ai/companies/abbott-laboratories?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Reno, Nevada, United States |
+| Location | Worcester, Massachusetts, United States |
 | Category | Sales Engineer |
-| Posted | 2026-06-17 |
-| Apply | [View on company site](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Nevada---Reno/Clinical-Associate_31150990) |
+| Posted | 2026-06-25 |
+| Apply | [View on company site](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Massachusetts---Worcester/Clinical-Associate_31154586-2) |
 
 ## About This Role
 
-This sales engineer position at Abbott was posted on 2026-06-17.
+This sales engineer position at Abbott was posted on 2026-06-25.
 
 ## Get Real-Time Alerts
 

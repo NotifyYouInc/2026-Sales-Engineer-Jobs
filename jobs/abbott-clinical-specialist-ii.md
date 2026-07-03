@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Abbott](https://scoutify.ai/companies/abbott-laboratories?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Denver, Colorado, United States |
+| Location | Hartford, Connecticut, United States |
 | Category | Sales Engineer |
-| Posted | 2026-06-10 |
-| Apply | [View on company site](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Colorado---Denver/Clinical-Specialist-II_31153205-1) |
+| Posted | 2026-06-25 |
+| Apply | [View on company site](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Connecticut---Hartford/Clinical-Specialist-II_31154583-1) |
 
 ## About This Role
 
-This sales engineer position at Abbott was posted on 2026-06-10.
+This sales engineer position at Abbott was posted on 2026-06-25.
 
 ## Get Real-Time Alerts
 

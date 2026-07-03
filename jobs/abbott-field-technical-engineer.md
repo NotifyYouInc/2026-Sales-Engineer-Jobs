@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Abbott](https://scoutify.ai/companies/abbott-laboratories?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Bratislava, Bratislava Region, Slovakia |
+| Location | Lisbon, Lisbon, Portugal |
 | Category | Sales Engineer |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/Slovakia---Bratislava/Field-Technical-Engineer_31148731) |
+| Posted | 2026-06-25 |
+| Apply | [View on company site](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/Portugal---Remote/Field-Technical-Engineer_31154515-1) |
 
 ## About This Role
 
-This sales engineer position at Abbott was posted on 2026-04-24.
+This sales engineer position at Abbott was posted on 2026-06-25.
 
 ## Get Real-Time Alerts
 

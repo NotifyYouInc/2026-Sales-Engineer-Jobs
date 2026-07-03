@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Johnson Controls](https://scoutify.ai/companies/jci?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Capitol Heights, Maryland, United States |
-| Category | Software Engineer |
-| Posted | 2026-06-11 |
-| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Capitol-Heights-Maryland-United-States-of-America/Equipment-Systems-Application-Engineer_WD30271914) |
+| Location | Connecticut, US |
+| Category | Sales Engineer |
+| Posted | 2026-06-25 |
+| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Rocky-Hill-Connecticut-United-States-of-America/Equipment-Systems-Application-Engineer_WD30271644) |
 
 ## About This Role
 
-This software engineer position at Johnson Controls was posted on 2026-06-11.
+This sales engineer position at Johnson Controls was posted on 2026-06-25.
 
 ## Get Real-Time Alerts
 

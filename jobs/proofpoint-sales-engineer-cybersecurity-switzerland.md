@@ -5,12 +5,12 @@
 | Company | [Proofpoint](https://scoutify.ai/companies/proofpoint?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Switzerland |
 | Category | Sales Engineer |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://proofpoint.wd5.myworkdayjobs.com/ProofpointCareers/job/Zurich-Switzerland/Sales-Engineer--Cybersecurity---Switzerland_R14107) |
+| Posted | 2026-06-25 |
+| Apply | [View on company site](https://proofpoint.wd5.myworkdayjobs.com/ProofpointCareers/job/Geneva-Switzerland---Remote/Sales-Engineer--Cybersecurity---Switzerland_R14379) |
 
 ## About This Role
 
-This sales engineer position at Proofpoint was posted on 2026-04-30.
+This sales engineer position at Proofpoint was posted on 2026-06-25.
 
 ## Get Real-Time Alerts
 

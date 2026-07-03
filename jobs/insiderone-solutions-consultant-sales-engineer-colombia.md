@@ -5,12 +5,12 @@
 | Company | [Insiderone](https://scoutify.ai/companies/insiderone?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Bogotá, Bogota D.C., Colombia |
 | Category | Sales Engineer |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://jobs.lever.co/insiderone/22e6b4bf-87be-4852-8e00-c31f72d838c0) |
+| Posted | 2026-06-25 |
+| Apply | [View on company site](https://jobs.lever.co/insiderone/318cc153-d1a3-46fa-bfe8-beab39a08564) |
 
 ## About This Role
 
-This sales engineer position at Insiderone was posted on 2026-04-16.
+This sales engineer position at Insiderone was posted on 2026-06-25.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Genuine Parts Company](https://scoutify.ai/companies/genpt?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | 2 locations |
+| Location | Sacramento, California, United States |
 | Category | Sales Engineer |
-| Posted | 2026-06-02 |
-| Apply | [View on company site](https://genpt.wd1.myworkdayjobs.com/Careers/job/Kansas-City-MO-USA/Industry-Segment-Specialist_R26_0000017958) |
+| Posted | 2026-06-25 |
+| Apply | [View on company site](https://genpt.wd1.myworkdayjobs.com/Careers/job/Sacramento-CA-USA/Industry-Segment-Specialist_R26_0000018141) |
 
 ## About This Role
 
-This sales engineer position at Genuine Parts Company was posted on 2026-06-02.
+This sales engineer position at Genuine Parts Company was posted on 2026-06-25.
 
 ## Get Real-Time Alerts
 

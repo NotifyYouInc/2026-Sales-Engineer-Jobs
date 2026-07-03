@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [TD Synnex](https://scoutify.ai/companies/synnex?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Bogotá, Bogota D.C., Colombia |
-| Category | Technical & Solutions Architect |
-| Posted | 2026-05-25 |
-| Apply | [View on company site](https://synnex.wd5.myworkdayjobs.com/tdsynnexcareers/job/Bogota-Colombia/Pre-Sales-Engineer_R51566) |
+| Location | Lima, Lima Province, Peru |
+| Category | Sales Engineer |
+| Posted | 2026-06-25 |
+| Apply | [View on company site](https://synnex.wd5.myworkdayjobs.com/tdsynnexcareers/job/Lima-Peru/Pre-Sales-Engineer_R50161) |
 
 ## About This Role
 
-This technical & solutions architect position at TD Synnex was posted on 2026-05-25.
+This sales engineer position at TD Synnex was posted on 2026-06-25.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [VEGA Americas](https://scoutify.ai/companies/vegaamericas?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | New Brunswick, New Jersey, United States |
-| Category | Account Executive |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/vegaamericas/jobs/4683870006) |
+| Category | Sales Engineer |
+| Posted | 2026-06-25 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/vegaamericas/jobs/4692204006) |
 
 ## About This Role
 
-This account executive position at VEGA Americas was posted on 2026-05-22.
+This sales engineer position at VEGA Americas was posted on 2026-06-25.
 
 ## Get Real-Time Alerts
 
