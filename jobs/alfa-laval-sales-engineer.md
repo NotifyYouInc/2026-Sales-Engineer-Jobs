@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Alfa Laval](https://scoutify.ai/companies/alfa-laval?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Not specified |
+| Location | Richmond, Virginia, United States |
 | Category | Sales Engineer |
-| Posted | 2026-06-18 |
-| Apply | [View on company site](https://alfalaval.wd3.myworkdayjobs.com/alfa_laval_jobs/job/Sales-Engineer_JR0046350) |
+| Posted | 2026-06-26 |
+| Apply | [View on company site](https://alfalaval.wd3.myworkdayjobs.com/alfa_laval_jobs/job/Richmond-VA/Sales-Engineer_JR0046466) |
 
 ## About This Role
 
-This sales engineer position at Alfa Laval was posted on 2026-06-18.
+This sales engineer position at Alfa Laval was posted on 2026-06-26.
 
 ## Get Real-Time Alerts
 

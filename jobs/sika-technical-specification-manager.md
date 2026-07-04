@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sika](https://scoutify.ai/companies/sika?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Orlando, Florida, United States |
+| Location | Tampa, Florida, United States |
 | Category | Sales Engineer |
-| Posted | 2026-06-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SikaAG/744000131751638-technical-specification-manager) |
+| Posted | 2026-06-26 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SikaAG/744000134546709-technical-specification-manager) |
 
 ## About This Role
 
-This sales engineer position at Sika was posted on 2026-06-11.
+This sales engineer position at Sika was posted on 2026-06-26.
 
 ## Get Real-Time Alerts
 

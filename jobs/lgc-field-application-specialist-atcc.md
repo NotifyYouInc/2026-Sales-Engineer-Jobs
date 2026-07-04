@@ -1,16 +1,16 @@
-# Sales Support Specialist at ABB
+# Field Application Specialist ATCC at LGC
 
 | Field | Details |
 |-------|---------|
-| Company | [ABB](https://scoutify.ai/companies/abb?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Spain |
+| Company | [LGC](https://scoutify.ai/companies/lgc?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
+| Location | Guildford, England, United Kingdom |
 | Category | Sales Engineer |
-| Posted | 2026-06-24 |
-| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Trapagaran-Bizkaia-Spain/Sales-Support-Specialist_JR00037964-1) |
+| Posted | 2026-06-26 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/LGCGroup/744000134488254-field-application-specialist-atcc) |
 
 ## About This Role
 
-This sales engineer position at ABB was posted on 2026-06-24.
+This sales engineer position at LGC was posted on 2026-06-26.
 
 ## Get Real-Time Alerts
 

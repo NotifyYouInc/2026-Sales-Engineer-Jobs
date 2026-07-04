@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Salesforce](https://scoutify.ai/companies/salesforce?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Dublin, Leinster, Ireland |
+| Location | São Paulo, São Paulo, Brazil |
 | Category | Sales Engineer |
-| Posted | 2026-06-22 |
-| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Ireland---Dublin/Senior--Account-SE_JR347530) |
+| Posted | 2026-06-26 |
+| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Brazil---Sao-Paulo/Senior--Account-SE_JR347871) |
 
 ## About This Role
 
-This sales engineer position at Salesforce was posted on 2026-06-22.
+This sales engineer position at Salesforce was posted on 2026-06-26.
 
 ## Get Real-Time Alerts
 

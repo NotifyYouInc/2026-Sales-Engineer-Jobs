@@ -1,16 +1,16 @@
-# Sr. Solutions Engineer at Databricks
+# Application Engineer Level II at Zeiss
 
 | Field | Details |
 |-------|---------|
-| Company | [Databricks](https://scoutify.ai/companies/databricks?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | 2 locations |
+| Company | [Zeiss](https://scoutify.ai/companies/zeissgroup?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
+| Location | Wixom, Michigan, United States |
 | Category | Sales Engineer |
 | Posted | 2026-06-26 |
-| Apply | [View on company site](https://databricks.com/company/careers/open-positions/job?gh_jid=8608609002) |
+| Apply | [View on company site](https://zeissgroup.wd3.myworkdayjobs.com/External/job/Wixom-MI/Application-Engineer-Level-II_JR_1050429-2) |
 
 ## About This Role
 
-This sales engineer position at Databricks was posted on 2026-06-26.
+This sales engineer position at Zeiss was posted on 2026-06-26.
 
 ## Get Real-Time Alerts
 

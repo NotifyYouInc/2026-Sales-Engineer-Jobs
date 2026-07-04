@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Illumio](https://scoutify.ai/companies/illumio?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Dubai, Dubai, United Arab Emirates |
+| Location | Atlanta, Georgia, United States |
 | Category | Sales Engineer |
-| Posted | 2026-05-29 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/illumio/44a4d748-0bfe-4f79-82ab-3f74703b4461) |
+| Posted | 2026-06-26 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/illumio/cc972f2d-6c1b-4987-9a81-bdacfac98c00) |
 
 ## About This Role
 
-This sales engineer position at Illumio was posted on 2026-05-29.
+This sales engineer position at Illumio was posted on 2026-06-26.
 
 ## Get Real-Time Alerts
 

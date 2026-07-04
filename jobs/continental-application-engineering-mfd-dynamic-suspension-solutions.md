@@ -5,12 +5,12 @@
 | Company | [Continental](https://scoutify.ai/companies/continental?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Szeged, Csongrád, Hungary |
 | Category | Sales Engineer |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/continental/744000126271809-application-engineering-mfd-dynamic-suspension-solutions) |
+| Posted | 2026-06-26 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/continental/744000134464979-application-engineering-mfd-dynamic-suspension-solutions) |
 
 ## About This Role
 
-This sales engineer position at Continental was posted on 2026-05-13.
+This sales engineer position at Continental was posted on 2026-06-26.
 
 ## Get Real-Time Alerts
 

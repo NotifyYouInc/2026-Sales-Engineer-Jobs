@@ -1,16 +1,16 @@
-# Sr. Solutions Engineer at Databricks
+# Business Consultant, Quantitative Data at LSEG
 
 | Field | Details |
 |-------|---------|
-| Company | [Databricks](https://scoutify.ai/companies/databricks?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
+| Company | [LSEG](https://scoutify.ai/companies/lseg?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | 2 locations |
 | Category | Sales Engineer |
 | Posted | 2026-06-26 |
-| Apply | [View on company site](https://databricks.com/company/careers/open-positions/job?gh_jid=8608609002) |
+| Apply | [View on company site](https://lseg.wd3.myworkdayjobs.com/Careers/job/USA-New-York-28-Liberty-Street/Business-Consultant--Quantitative-Data_R0120357-1) |
 
 ## About This Role
 
-This sales engineer position at Databricks was posted on 2026-06-26.
+This sales engineer position at LSEG was posted on 2026-06-26.
 
 ## Get Real-Time Alerts
 

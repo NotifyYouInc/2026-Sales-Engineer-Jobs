@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Ambient Enterprises](https://scoutify.ai/companies/ambient-enterprises?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Boise, Idaho, United States |
+| Location | Portland, Oregon, United States |
 | Category | Sales Engineer |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/ambiententerprises/jobs/5228176008) |
+| Posted | 2026-06-26 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/ambiententerprises/jobs/5284720008) |
 
 ## About This Role
 
-This sales engineer position at Ambient Enterprises was posted on 2026-05-21.
+This sales engineer position at Ambient Enterprises was posted on 2026-06-26.
 
 ## Get Real-Time Alerts
 

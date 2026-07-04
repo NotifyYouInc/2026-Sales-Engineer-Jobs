@@ -1,16 +1,16 @@
-# Sr. Solutions Engineer at Databricks
+# General Sales & Marketing Professional at Hitachi
 
 | Field | Details |
 |-------|---------|
-| Company | [Databricks](https://scoutify.ai/companies/databricks?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | 2 locations |
+| Company | [Hitachi](https://scoutify.ai/companies/hitachi?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
+| Location | Gujarat, IN |
 | Category | Sales Engineer |
 | Posted | 2026-06-26 |
-| Apply | [View on company site](https://databricks.com/company/careers/open-positions/job?gh_jid=8608609002) |
+| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Maneja-Gujarat-India/General-Sales---Marketing-Professional_R0134534) |
 
 ## About This Role
 
-This sales engineer position at Databricks was posted on 2026-06-26.
+This sales engineer position at Hitachi was posted on 2026-06-26.
 
 ## Get Real-Time Alerts
 

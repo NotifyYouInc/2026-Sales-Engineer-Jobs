@@ -1,16 +1,16 @@
-# Sales Engineer - Tekla Fabrication at Trimble
+# Sales Engineer, TEKLA Fabrication at Trimble
 
 | Field | Details |
 |-------|---------|
 | Company | [Trimble](https://scoutify.ai/companies/trimble?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | California, US |
+| Location | Georgia, US |
 | Category | Sales Engineer |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://trimble.wd1.myworkdayjobs.com/TrimbleCareers/job/US---Remote-CO/Sales-Engineer---Tekla-Fabrication_R55023) |
+| Posted | 2026-06-26 |
+| Apply | [View on company site](https://trimble.wd1.myworkdayjobs.com/TrimbleCareers/job/US---Remote-GA/Sales-Engineer--TEKLA-Fabrication_R56819) |
 
 ## About This Role
 
-This sales engineer position at Trimble was posted on 2026-03-06.
+This sales engineer position at Trimble was posted on 2026-06-26.
 
 ## Get Real-Time Alerts
 

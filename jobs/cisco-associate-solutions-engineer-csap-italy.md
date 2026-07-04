@@ -1,16 +1,16 @@
-# Sr. Solutions Engineer at Databricks
+# Associate Solutions Engineer - CSAP - Italy at Cisco
 
 | Field | Details |
 |-------|---------|
-| Company | [Databricks](https://scoutify.ai/companies/databricks?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | 2 locations |
+| Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
+| Location | Milan, Lombardy, Italy |
 | Category | Sales Engineer |
 | Posted | 2026-06-26 |
-| Apply | [View on company site](https://databricks.com/company/careers/open-positions/job?gh_jid=8608609002) |
+| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Milan-Italy/Associate-Solutions-Engineer---CSAP---Italy_2018560) |
 
 ## About This Role
 
-This sales engineer position at Databricks was posted on 2026-06-26.
+This sales engineer position at Cisco was posted on 2026-06-26.
 
 ## Get Real-Time Alerts
 

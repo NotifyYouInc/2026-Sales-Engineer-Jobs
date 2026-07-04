@@ -5,12 +5,12 @@
 | Company | [Wabtec](https://scoutify.ai/companies/wabtec?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Columbia, South Carolina, United States |
 | Category | Sales Engineer |
-| Posted | 2026-06-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wabtec/3743990013689156-rep-i-sales-technical) |
+| Posted | 2026-06-26 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Wabtec/3743990013821426-rep-i-sales-technical) |
 
 ## About This Role
 
-This sales engineer position at Wabtec was posted on 2026-06-18.
+This sales engineer position at Wabtec was posted on 2026-06-26.
 
 ## Get Real-Time Alerts
 

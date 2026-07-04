@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Bloomreach](https://scoutify.ai/companies/bloomreach?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Not specified |
-| Category | Sales Engineer |
-| Posted | 2026-06-14 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/bloomreach/jobs/8006857) |
+| Location | Slovakia |
+| Category | Software Engineer |
+| Posted | 2026-06-26 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/bloomreach/jobs/8006858) |
 
 ## About This Role
 
-This sales engineer position at Bloomreach was posted on 2026-06-14.
+This software engineer position at Bloomreach was posted on 2026-06-26.
 
 ## Get Real-Time Alerts
 

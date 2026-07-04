@@ -1,16 +1,16 @@
-# Sr. Solutions Engineer at Databricks
+# Sr. Systems Engineer, Enterprise - Financial Services at Veeam Software
 
 | Field | Details |
 |-------|---------|
-| Company | [Databricks](https://scoutify.ai/companies/databricks?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | 2 locations |
+| Company | [Veeam Software](https://scoutify.ai/companies/veeamsoftware?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
+| Location | Toronto, Ontario, Canada |
 | Category | Sales Engineer |
 | Posted | 2026-06-26 |
-| Apply | [View on company site](https://databricks.com/company/careers/open-positions/job?gh_jid=8608609002) |
+| Apply | [View on company site](https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4902998101) |
 
 ## About This Role
 
-This sales engineer position at Databricks was posted on 2026-06-26.
+This sales engineer position at Veeam Software was posted on 2026-06-26.
 
 ## Get Real-Time Alerts
 

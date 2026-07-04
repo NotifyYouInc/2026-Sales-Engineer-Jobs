@@ -1,16 +1,16 @@
-# Sr. Solutions Engineer at Databricks
+# PS Sales Engineer at Hewlett Packard (HP)
 
 | Field | Details |
 |-------|---------|
-| Company | [Databricks](https://scoutify.ai/companies/databricks?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | 2 locations |
+| Company | [Hewlett Packard (HP)](https://scoutify.ai/companies/hp?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
+| Location | Delaware, US |
 | Category | Sales Engineer |
 | Posted | 2026-06-26 |
-| Apply | [View on company site](https://databricks.com/company/careers/open-positions/job?gh_jid=8608609002) |
+| Apply | [View on company site](https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/All-Cities-Virginia-United-States-of-America/PS-Sales-Engineer_3163419-2) |
 
 ## About This Role
 
-This sales engineer position at Databricks was posted on 2026-06-26.
+This sales engineer position at Hewlett Packard (HP) was posted on 2026-06-26.
 
 ## Get Real-Time Alerts
 

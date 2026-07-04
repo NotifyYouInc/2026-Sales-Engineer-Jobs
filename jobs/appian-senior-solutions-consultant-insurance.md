@@ -1,16 +1,16 @@
-# Sales Support Specialist at ABB
+# Senior Solutions Consultant - Insurance at Appian
 
 | Field | Details |
 |-------|---------|
-| Company | [ABB](https://scoutify.ai/companies/abb?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Spain |
+| Company | [Appian](https://scoutify.ai/companies/appian?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
+| Location | Chicago, Illinois, United States |
 | Category | Sales Engineer |
-| Posted | 2026-06-24 |
-| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Trapagaran-Bizkaia-Spain/Sales-Support-Specialist_JR00037964-1) |
+| Posted | 2026-06-26 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/appian/jobs/8030943) |
 
 ## About This Role
 
-This sales engineer position at ABB was posted on 2026-06-24.
+This sales engineer position at Appian was posted on 2026-06-26.
 
 ## Get Real-Time Alerts
 

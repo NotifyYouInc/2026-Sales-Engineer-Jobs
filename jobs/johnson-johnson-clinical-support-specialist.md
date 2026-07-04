@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Johnson & Johnson](https://scoutify.ai/companies/johnson-johnson?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Greece |
+| Location | Madrid, Madrid, Spain |
 | Category | Sales Engineer |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://jj.wd5.myworkdayjobs.com/JJ/job/Maroussi---Athens-Attiki-Greece/Clinical-Support-Specialist_R-071718) |
+| Posted | 2026-06-26 |
+| Apply | [View on company site](https://jj.wd5.myworkdayjobs.com/JJ/job/Madrid-Spain/Clinical-Support-Specialist_R-083924) |
 
 ## About This Role
 
-This sales engineer position at Johnson & Johnson was posted on 2026-05-11.
+This sales engineer position at Johnson & Johnson was posted on 2026-06-26.
 
 ## Get Real-Time Alerts
 

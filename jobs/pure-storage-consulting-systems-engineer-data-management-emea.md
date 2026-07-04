@@ -1,16 +1,16 @@
-# Sales Support Specialist at ABB
+# Consulting Systems Engineer, Data Management  (EMEA) at Pure Storage
 
 | Field | Details |
 |-------|---------|
-| Company | [ABB](https://scoutify.ai/companies/abb?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Spain |
+| Company | [Pure Storage](https://scoutify.ai/companies/pure-storage?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
+| Location | United Kingdom |
 | Category | Sales Engineer |
-| Posted | 2026-06-24 |
-| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Trapagaran-Bizkaia-Spain/Sales-Support-Specialist_JR00037964-1) |
+| Posted | 2026-06-26 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/purestorage/jobs/8019995) |
 
 ## About This Role
 
-This sales engineer position at ABB was posted on 2026-06-24.
+This sales engineer position at Pure Storage was posted on 2026-06-26.
 
 ## Get Real-Time Alerts
 
