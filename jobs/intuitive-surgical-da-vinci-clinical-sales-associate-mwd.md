@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Intuitive Surgical](https://scoutify.ai/companies/intuitivesurgical?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Düsseldorf, North Rhine-Westphalia, Germany |
+| Location | Dortmund, North Rhine-Westphalia, Germany |
 | Category | Sales Engineer |
-| Posted | 2026-06-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Intuitive/744000133558939-da-vinci-clinical-sales-associate-mwd) |
+| Posted | 2026-06-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Intuitive/744000133888549-da-vinci-clinical-sales-associate-mwd) |
 
 ## About This Role
 
-This sales engineer position at Intuitive Surgical was posted on 2026-06-23.
+This sales engineer position at Intuitive Surgical was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Hewlett Packard (HP)](https://scoutify.ai/companies/hp?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Rio Rancho, New Mexico, United States |
-| Category | Technology / IT Consulting |
-| Posted | 2026-05-28 |
-| Apply | [View on company site](https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Rio-Rancho-New-Mexico-United-States-of-America/Presales-Technical-Consultant_3162283-1) |
+| Location | Reading, England, United Kingdom |
+| Category | Sales Engineer |
+| Posted | 2026-06-28 |
+| Apply | [View on company site](https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Reading-Berkshire-United-Kingdom/Presales-Technical-Consultant_3165579-1) |
 
 ## About This Role
 
-This technology / it consulting position at Hewlett Packard (HP) was posted on 2026-05-28.
+This sales engineer position at Hewlett Packard (HP) was posted on 2026-06-28.
 
 ## Get Real-Time Alerts
 
