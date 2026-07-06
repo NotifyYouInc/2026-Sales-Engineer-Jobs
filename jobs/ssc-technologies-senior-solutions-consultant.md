@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [SS&C Technologies](https://scoutify.ai/companies/ss-c-technologies?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | United Kingdom |
-| Category | Implementation / Professional Services |
-| Posted | 2026-06-01 |
-| Apply | [View on company site](https://ssctech.wd1.myworkdayjobs.com/ssctechnologies/job/Remote---UK/Senior-Solutions-Consultant_R42554-1) |
+| Location | Spain |
+| Category | Sales Engineer |
+| Posted | 2026-06-29 |
+| Apply | [View on company site](https://ssctech.wd1.myworkdayjobs.com/ssctechnologies/job/Remote---UK/Senior-Solutions-Consultant_R44138) |
 
 ## About This Role
 
-This implementation / professional services position at SS&C Technologies was posted on 2026-06-01.
+This sales engineer position at SS&C Technologies was posted on 2026-06-29.
 
 ## Get Real-Time Alerts
 

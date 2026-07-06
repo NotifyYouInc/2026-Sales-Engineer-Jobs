@@ -1,16 +1,16 @@
-# Solutions Engineer, South at Trend Micro
+# Senior Solution Engineer at UiPath
 
 | Field | Details |
 |-------|---------|
-| Company | [Trend Micro](https://scoutify.ai/companies/trendmicro?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Company | [UiPath](https://scoutify.ai/companies/uipath?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
+| Location | Cape Town, Western Cape, South Africa |
 | Category | Sales Engineer |
 | Posted | 2026-06-29 |
-| Apply | [View on company site](https://trendmicro.wd3.myworkdayjobs.com/External/job/Bangalore/Solutions-Engineer--South_R0009872) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/uipath/b1093643-b3b7-4383-ba01-cb8f25cd24d9) |
 
 ## About This Role
 
-This sales engineer position at Trend Micro was posted on 2026-06-29.
+This sales engineer position at UiPath was posted on 2026-06-29.
 
 ## Get Real-Time Alerts
 

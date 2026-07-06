@@ -1,16 +1,16 @@
-# Teknisk säljare till KONE, Örebro/Västerås at Kone
+# Database Sales Specialist, Enterprise at Amazon
 
 | Field | Details |
 |-------|---------|
-| Company | [Kone](https://scoutify.ai/companies/kone?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | 2 locations |
+| Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
+| Location | Tokyo, Tokyo, Japan |
 | Category | Sales Engineer |
-| Posted | 2026-06-29 |
-| Apply | [View on company site](https://kone.wd3.myworkdayjobs.com/careers/job/rebro/Teknisk-sljare-till-KONE--rebro-Vsters_R0662089) |
+| Posted | 2026-06-28 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10460539/database-sales-specialist-enterprise) |
 
 ## About This Role
 
-This sales engineer position at Kone was posted on 2026-06-29.
+This sales engineer position at Amazon was posted on 2026-06-28.
 
 ## Get Real-Time Alerts
 

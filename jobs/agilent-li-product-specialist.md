@@ -1,16 +1,16 @@
-# Solutions Engineer, South at Trend Micro
+# LI Product Specialist at Agilent
 
 | Field | Details |
 |-------|---------|
-| Company | [Trend Micro](https://scoutify.ai/companies/trendmicro?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Company | [Agilent](https://scoutify.ai/companies/agilent?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
+| Location | Les Ulis, Île-de-France, France |
 | Category | Sales Engineer |
 | Posted | 2026-06-29 |
-| Apply | [View on company site](https://trendmicro.wd3.myworkdayjobs.com/External/job/Bangalore/Solutions-Engineer--South_R0009872) |
+| Apply | [View on company site](https://agilent.wd5.myworkdayjobs.com/agilent_careers/job/France-Remote-Location-Les-Ulis/LI-Product-Specialist_4038401-1) |
 
 ## About This Role
 
-This sales engineer position at Trend Micro was posted on 2026-06-29.
+This sales engineer position at Agilent was posted on 2026-06-29.
 
 ## Get Real-Time Alerts
 

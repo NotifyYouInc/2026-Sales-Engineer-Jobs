@@ -1,16 +1,16 @@
-# Solutions Engineer, South at Trend Micro
+# Stage - Solutions Engineer (H/F) at Coface
 
 | Field | Details |
 |-------|---------|
-| Company | [Trend Micro](https://scoutify.ai/companies/trendmicro?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Company | [Coface](https://scoutify.ai/companies/coface?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
+| Location | Bois-Colombes, Île-de-France, France |
 | Category | Sales Engineer |
 | Posted | 2026-06-29 |
-| Apply | [View on company site](https://trendmicro.wd3.myworkdayjobs.com/External/job/Bangalore/Solutions-Engineer--South_R0009872) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Coface/744000134762379-stage-solutions-engineer-hf) |
 
 ## About This Role
 
-This sales engineer position at Trend Micro was posted on 2026-06-29.
+This sales engineer position at Coface was posted on 2026-06-29.
 
 ## Get Real-Time Alerts
 

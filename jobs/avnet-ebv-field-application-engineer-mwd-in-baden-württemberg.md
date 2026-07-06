@@ -1,16 +1,16 @@
-# Solutions Engineer, South at Trend Micro
+# EBV Field Application Engineer (m/w/d) in Baden Württemberg at Avnet
 
 | Field | Details |
 |-------|---------|
-| Company | [Trend Micro](https://scoutify.ai/companies/trendmicro?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Company | [Avnet](https://scoutify.ai/companies/avnet?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
+| Location | 2 locations |
 | Category | Sales Engineer |
 | Posted | 2026-06-29 |
-| Apply | [View on company site](https://trendmicro.wd3.myworkdayjobs.com/External/job/Bangalore/Solutions-Engineer--South_R0009872) |
+| Apply | [View on company site](https://avnet.wd1.myworkdayjobs.com/external/job/Leonberg-Germany/EBV-Field-Application-Engineer--m-w-d--in-Baden-Wrttemberg_JR-023311) |
 
 ## About This Role
 
-This sales engineer position at Trend Micro was posted on 2026-06-29.
+This sales engineer position at Avnet was posted on 2026-06-29.
 
 ## Get Real-Time Alerts
 

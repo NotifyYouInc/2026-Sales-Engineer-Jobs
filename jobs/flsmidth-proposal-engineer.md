@@ -1,16 +1,16 @@
-# Solutions Engineer, South at Trend Micro
+# Proposal Engineer at FLSMIDTH
 
 | Field | Details |
 |-------|---------|
-| Company | [Trend Micro](https://scoutify.ai/companies/trendmicro?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Company | [FLSMIDTH](https://scoutify.ai/companies/flsmidth?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
+| Location | Chennai, Tamil Nadu, India |
 | Category | Sales Engineer |
 | Posted | 2026-06-29 |
-| Apply | [View on company site](https://trendmicro.wd3.myworkdayjobs.com/External/job/Bangalore/Solutions-Engineer--South_R0009872) |
+| Apply | [View on company site](https://flsmidth.wd3.myworkdayjobs.com/fls_global/job/Chennai/Proposal-Engineer_R30292) |
 
 ## About This Role
 
-This sales engineer position at Trend Micro was posted on 2026-06-29.
+This sales engineer position at FLSMIDTH was posted on 2026-06-29.
 
 ## Get Real-Time Alerts
 

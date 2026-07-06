@@ -1,16 +1,16 @@
-# Teknisk säljare till KONE, Örebro/Västerås at Kone
+# Associate Solutions Engineer (Cisco Sales Associates Program) at Cisco
 
 | Field | Details |
 |-------|---------|
-| Company | [Kone](https://scoutify.ai/companies/kone?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
+| Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | 2 locations |
 | Category | Sales Engineer |
 | Posted | 2026-06-29 |
-| Apply | [View on company site](https://kone.wd3.myworkdayjobs.com/careers/job/rebro/Teknisk-sljare-till-KONE--rebro-Vsters_R0662089) |
+| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Singapore-Singapore/Associate-Solutions-Engineer--Cisco-Sales-Associates-Program-_2018696) |
 
 ## About This Role
 
-This sales engineer position at Kone was posted on 2026-06-29.
+This sales engineer position at Cisco was posted on 2026-06-29.
 
 ## Get Real-Time Alerts
 

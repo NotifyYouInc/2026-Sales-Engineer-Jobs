@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Carrier Global](https://scoutify.ai/companies/carrier?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Dubai, Dubai, United Arab Emirates |
+| Location | United Kingdom |
 | Category | Sales Engineer |
-| Posted | 2026-06-23 |
-| Apply | [View on company site](https://carrier.wd5.myworkdayjobs.com/jobs/job/Carrier-Middle-East-Limited-Palladium-building-2nd-floor-Al-Quoz-Dubai-UAE/Sales-Engineer_30207839) |
+| Posted | 2026-06-29 |
+| Apply | [View on company site](https://carrier.wd5.myworkdayjobs.com/jobs/job/Hertfordshire-Hertfordshire-United-Kingdom/Sales-Engineer_30209285-1) |
 
 ## About This Role
 
-This sales engineer position at Carrier Global was posted on 2026-06-23.
+This sales engineer position at Carrier Global was posted on 2026-06-29.
 
 ## Get Real-Time Alerts
 
