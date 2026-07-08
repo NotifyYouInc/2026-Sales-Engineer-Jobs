@@ -5,12 +5,12 @@
 | Company | [Arista Networks](https://scoutify.ai/companies/aristanetworks?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Dallas, Texas, United States |
 | Category | Sales Engineer |
-| Posted | 2026-06-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AristaNetworks/744000131941339-systems-engineer-velocloud-sd-wansd-branch-mspsp-usa-remote) |
+| Posted | 2026-07-01 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AristaNetworks/744000135131195-systems-engineer-velocloud-sd-wansd-branch-mspsp-usa-remote) |
 
 ## About This Role
 
-This sales engineer position at Arista Networks was posted on 2026-06-12.
+This sales engineer position at Arista Networks was posted on 2026-07-01.
 
 ## Get Real-Time Alerts
 

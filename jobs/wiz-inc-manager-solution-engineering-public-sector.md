@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Wiz, Inc.](https://scoutify.ai/companies/wiz-inc?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Washington, District of Columbia, United States |
-| Category | Engineering Manager |
+| Category | Sales Engineer |
 | Posted | 2026-06-25 |
 | Apply | [View on company site](https://www.wiz.io/careers/job/4665968006/:title?gh_jid=4665968006) |
 
 ## About This Role
 
-This engineering manager position at Wiz, Inc. was posted on 2026-06-25.
+This sales engineer position at Wiz, Inc. was posted on 2026-06-25.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Hightouch](https://scoutify.ai/companies/hightouch?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Toronto, Ontario, Canada |
-| Category | Technical & Solutions Architect |
-| Posted | 2026-05-20 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/hightouch/jobs/6001217004) |
+| Location | Not specified |
+| Category | Sales Engineer |
+| Posted | 2026-06-30 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/hightouch/jobs/6104620004) |
 
 ## About This Role
 
-This technical & solutions architect position at Hightouch was posted on 2026-05-20.
+This sales engineer position at Hightouch was posted on 2026-06-30.
 
 ## Get Real-Time Alerts
 

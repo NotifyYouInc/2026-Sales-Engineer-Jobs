@@ -1,16 +1,16 @@
-# Pre-sales Application Engineer at Agilent
+# Pre-Sales Application Engineer at Agilent
 
 | Field | Details |
 |-------|---------|
 | Company | [Agilent](https://scoutify.ai/companies/agilent?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Hong Kong, Hong Kong |
-| Category | Software Engineer |
-| Posted | 2026-05-14 |
-| Apply | [View on company site](https://agilent.wd5.myworkdayjobs.com/agilent_careers/job/Hong-Kong-Remote-Location/Pre-sales-Application-Engineer_4037824) |
+| Location | 5 locations |
+| Category | Sales Engineer |
+| Posted | 2026-06-30 |
+| Apply | [View on company site](https://agilent.wd5.myworkdayjobs.com/agilent_careers/job/US-PA-Remote-Location/Pre-Sales-Application-Engineer_4036810) |
 
 ## About This Role
 
-This software engineer position at Agilent was posted on 2026-05-14.
+This sales engineer position at Agilent was posted on 2026-06-30.
 
 ## Get Real-Time Alerts
 

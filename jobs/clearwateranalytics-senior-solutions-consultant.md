@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Clearwateranalytics](https://scoutify.ai/companies/clearwateranalytics?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | 2 locations |
-| Category | Implementation / Professional Services |
-| Posted | 2026-06-10 |
-| Apply | [View on company site](https://clearwateranalytics.wd1.myworkdayjobs.com/clearwater_analytics_careers/job/Office---Hong-Kong/Senior-Solutions-Consultant_JR104815) |
+| Location | London, England, United Kingdom |
+| Category | Sales Engineer |
+| Posted | 2026-06-30 |
+| Apply | [View on company site](https://clearwateranalytics.wd1.myworkdayjobs.com/clearwater_analytics_careers/job/Office---London/Senior-Solutions-Consultant_R11950) |
 
 ## About This Role
 
-This implementation / professional services position at Clearwateranalytics was posted on 2026-06-10.
+This sales engineer position at Clearwateranalytics was posted on 2026-06-30.
 
 ## Get Real-Time Alerts
 

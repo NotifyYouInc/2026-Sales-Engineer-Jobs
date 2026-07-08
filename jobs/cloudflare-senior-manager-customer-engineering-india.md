@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Cloudflare](https://scoutify.ai/companies/cloudflare?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | India |
-| Category | Engineering Manager |
+| Category | Sales Engineer |
 | Posted | 2026-06-29 |
 | Apply | [View on company site](https://boards.greenhouse.io/cloudflare/jobs/8020043?gh_jid=8020043) |
 
 ## About This Role
 
-This engineering manager position at Cloudflare was posted on 2026-06-29.
+This sales engineer position at Cloudflare was posted on 2026-06-29.
 
 ## Get Real-Time Alerts
 

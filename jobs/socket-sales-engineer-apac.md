@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Socket](https://scoutify.ai/companies/socket-oj99273?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Not specified |
-| Category | Customer Success |
+| Category | Sales Engineer |
 | Posted | 2026-06-25 |
 | Apply | [View on company site](https://jobs.ashbyhq.com/socket/0f4dae19-9c49-4e45-acb7-365ca0099370) |
 
 ## About This Role
 
-This customer success position at Socket was posted on 2026-06-25.
+This sales engineer position at Socket was posted on 2026-06-25.
 
 ## Get Real-Time Alerts
 

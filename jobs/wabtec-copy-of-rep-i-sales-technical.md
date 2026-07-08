@@ -5,12 +5,12 @@
 | Company | [Wabtec](https://scoutify.ai/companies/wabtec?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Durham, North Carolina, United States |
 | Category | Sales Engineer |
-| Posted | 2026-06-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wabtec/3743990013689226-copy-of-rep-i-sales-technical) |
+| Posted | 2026-06-30 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Wabtec/3743990013856956-copy-of-rep-i-sales-technical) |
 
 ## About This Role
 
-This sales engineer position at Wabtec was posted on 2026-06-18.
+This sales engineer position at Wabtec was posted on 2026-06-30.
 
 ## Get Real-Time Alerts
 

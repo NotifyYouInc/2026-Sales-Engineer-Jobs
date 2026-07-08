@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [CrowdStrike](https://scoutify.ai/companies/crowdstrike?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | 2 locations |
-| Category | Engineering Manager |
+| Category | Sales Engineer |
 | Posted | 2026-06-29 |
 | Apply | [View on company site](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/Australia---Sydney/Manager--Sales-Engineering-NG-SIEM--Australia-Singapore-_R29105) |
 
 ## About This Role
 
-This engineering manager position at CrowdStrike was posted on 2026-06-29.
+This sales engineer position at CrowdStrike was posted on 2026-06-29.
 
 ## Get Real-Time Alerts
 

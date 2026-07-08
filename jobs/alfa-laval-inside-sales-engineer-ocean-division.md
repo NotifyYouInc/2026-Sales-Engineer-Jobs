@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Alfa Laval](https://scoutify.ai/companies/alfa-laval?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Santiago, Santiago Metropolitan, Chile |
-| Category | Account Executive |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://alfalaval.wd3.myworkdayjobs.com/alfa_laval_jobs/job/Santiago/Inside-Sales-Engineer---Ocean-Division_JR0044232) |
+| Location | Istanbul, Istanbul, Turkey |
+| Category | Sales Engineer |
+| Posted | 2026-06-30 |
+| Apply | [View on company site](https://alfalaval.wd3.myworkdayjobs.com/alfa_laval_jobs/job/Istanbul/Inside-Sales-Engineer---Ocean-Division_JR0046550) |
 
 ## About This Role
 
-This account executive position at Alfa Laval was posted on 2026-03-24.
+This sales engineer position at Alfa Laval was posted on 2026-06-30.
 
 ## Get Real-Time Alerts
 

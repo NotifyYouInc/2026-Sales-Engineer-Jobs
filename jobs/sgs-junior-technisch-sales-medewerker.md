@@ -5,12 +5,12 @@
 | Company | [SGS](https://scoutify.ai/companies/sgs?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Melsele, Flanders, Belgium |
 | Category | Sales Engineer |
-| Posted | 2026-06-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SGS/744000129943530-junior-technisch-sales-medewerker) |
+| Posted | 2026-06-30 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SGS/744000135020404-junior-technisch-sales-medewerker) |
 
 ## About This Role
 
-This sales engineer position at SGS was posted on 2026-06-03.
+This sales engineer position at SGS was posted on 2026-06-30.
 
 ## Get Real-Time Alerts
 

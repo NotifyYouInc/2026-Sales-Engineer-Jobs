@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [GE Vernova](https://scoutify.ai/companies/ge-vernova?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Not specified |
-| Category | Business Development |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite/job/Remote/Lead-Sales-Specialist---Sales-and-Proposal_R5021955-2) |
+| Location | Noida, Uttar Pradesh, India |
+| Category | Sales Engineer |
+| Posted | 2026-06-29 |
+| Apply | [View on company site](https://gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite/job/Noida/Lead-Sales-Specialist---Sales-and-Proposal_R5042739-2) |
 
 ## About This Role
 
-This business development position at GE Vernova was posted on 2026-02-05.
+This sales engineer position at GE Vernova was posted on 2026-06-29.
 
 ## Get Real-Time Alerts
 

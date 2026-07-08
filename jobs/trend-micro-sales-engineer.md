@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Trend Micro](https://scoutify.ai/companies/trendmicro?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Jakarta, Jakarta, Indonesia |
+| Location | Bogotá, Bogota D.C., Colombia |
 | Category | Sales Engineer |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://trendmicro.wd3.myworkdayjobs.com/External/job/Jakarta/Sales-Engineer_R0007387) |
+| Posted | 2026-06-30 |
+| Apply | [View on company site](https://trendmicro.wd3.myworkdayjobs.com/External/job/Bogota/Sales-Engineer_R0009882) |
 
 ## About This Role
 
-This sales engineer position at Trend Micro was posted on 2026-04-13.
+This sales engineer position at Trend Micro was posted on 2026-06-30.
 
 ## Get Real-Time Alerts
 

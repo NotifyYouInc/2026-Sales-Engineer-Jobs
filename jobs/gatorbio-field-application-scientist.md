@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Gatorbio](https://scoutify.ai/companies/gatorbio?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Basel, Basel-City, Switzerland |
+| Location | Boston, Massachusetts, United States |
 | Category | Sales Engineer |
-| Posted | 2026-01-26 |
-| Apply | [View on company site](https://jobs.lever.co/gatorbio/b7ddc132-0339-4749-8b72-8f61e2f2841c) |
+| Posted | 2026-06-30 |
+| Apply | [View on company site](https://jobs.lever.co/gatorbio/426d2f72-412f-4725-aef8-3b71fdfa6156) |
 
 ## About This Role
 
-This sales engineer position at Gatorbio was posted on 2026-01-26.
+This sales engineer position at Gatorbio was posted on 2026-06-30.
 
 ## Get Real-Time Alerts
 

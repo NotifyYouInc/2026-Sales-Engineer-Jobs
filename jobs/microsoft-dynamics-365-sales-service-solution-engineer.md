@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Microsoft](https://scoutify.ai/companies/microsoft?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Tokyo, Tokyo, Japan |
-| Category | Technical & Solutions Architect |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556863030) |
+| Category | Sales Engineer |
+| Posted | 2026-07-01 |
+| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556918819) |
 
 ## About This Role
 
-This technical & solutions architect position at Microsoft was posted on 2026-04-30.
+This sales engineer position at Microsoft was posted on 2026-07-01.
 
 ## Get Real-Time Alerts
 

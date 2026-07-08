@@ -5,12 +5,12 @@
 | Company | [Umdasch](https://scoutify.ai/companies/umdasch?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Pakistan |
 | Category | Sales Engineer |
-| Posted | 2026-06-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/UmdaschGroup/744000129910298-sales-engineer-pakistan) |
+| Posted | 2026-07-01 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/UmdaschGroup/744000135215948-sales-engineer-pakistan) |
 
 ## About This Role
 
-This sales engineer position at Umdasch was posted on 2026-06-03.
+This sales engineer position at Umdasch was posted on 2026-07-01.
 
 ## Get Real-Time Alerts
 

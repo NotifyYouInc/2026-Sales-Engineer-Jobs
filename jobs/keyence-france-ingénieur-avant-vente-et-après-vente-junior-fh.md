@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [KEYENCE (FRANCE)](https://scoutify.ai/companies/keyencefrance?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Bois-Colombes, Île-de-France, France |
-| Category | Customer Success |
-| Posted | 2026-06-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/KEYENCEFRANCE/744000133096885-ingenieur-avant-vente-et-apres-vente-junior-fh) |
+| Category | Sales Engineer |
+| Posted | 2026-06-29 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/KEYENCEFRANCE/744000134823769-ingenieur-avant-vente-et-apres-vente-junior-fh) |
 
 ## About This Role
 
-This customer success position at KEYENCE (FRANCE) was posted on 2026-06-19.
+This sales engineer position at KEYENCE (FRANCE) was posted on 2026-06-29.
 
 ## Get Real-Time Alerts
 

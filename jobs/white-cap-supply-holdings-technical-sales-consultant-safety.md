@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [White Cap Supply Holdings](https://scoutify.ai/companies/whitecap?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Houston, Texas, United States |
+| Location | 2 locations |
 | Category | Sales Engineer |
-| Posted | 2026-05-28 |
-| Apply | [View on company site](https://whitecap.wd1.myworkdayjobs.com/careers/job/Houston_77041/Technical-Sales-Consultant----Safety_WCJR-033003-1) |
+| Posted | 2026-06-30 |
+| Apply | [View on company site](https://whitecap.wd1.myworkdayjobs.com/careers/job/Kansas-City_64116/Technical-Sales-Consultant----Safety_WCJR-033808) |
 
 ## About This Role
 
-This sales engineer position at White Cap Supply Holdings was posted on 2026-05-28.
+This sales engineer position at White Cap Supply Holdings was posted on 2026-06-30.
 
 ## Get Real-Time Alerts
 

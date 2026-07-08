@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Rimini Street](https://scoutify.ai/companies/rimini-street?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | United States |
+| Location | 2 locations |
 | Category | Sales Engineer |
-| Posted | 2026-06-16 |
-| Apply | [View on company site](https://riministreet.wd1.myworkdayjobs.com/riministreet/job/Remote-United-States/Sr-Solution-Engineer_R-102270) |
+| Posted | 2026-07-01 |
+| Apply | [View on company site](https://riministreet.wd1.myworkdayjobs.com/riministreet/job/Remote-Australia/Sr-Solution-Engineer_R-102311) |
 
 ## About This Role
 
-This sales engineer position at Rimini Street was posted on 2026-06-16.
+This sales engineer position at Rimini Street was posted on 2026-07-01.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Salesforce](https://scoutify.ai/companies/salesforce?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | 3 locations |
+| Location | Montréal, Quebec, Canada |
 | Category | Sales Engineer |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Germany---Munich/Solution-Engineer---Marketing-Cloud_JR331854) |
+| Posted | 2026-06-30 |
+| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Canada---Montreal-Metro---Remote/Solution-Engineer_JR347859) |
 
 ## About This Role
 
-This sales engineer position at Salesforce was posted on 2026-03-04.
+This sales engineer position at Salesforce was posted on 2026-06-30.
 
 ## Get Real-Time Alerts
 

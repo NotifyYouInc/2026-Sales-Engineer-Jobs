@@ -1,16 +1,16 @@
-# da Vinci Clinical Territory Associate  at Intuitive Surgical
+# da Vinci Clinical Territory Associate at Intuitive Surgical
 
 | Field | Details |
 |-------|---------|
 | Company | [Intuitive Surgical](https://scoutify.ai/companies/intuitivesurgical?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Lisbon, Lisbon, Portugal |
 | Category | Sales Engineer |
-| Posted | 2026-05-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Intuitive/744000127422539-da-vinci-clinical-territory-associate) |
+| Posted | 2026-07-01 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Intuitive/744000135226601-da-vinci-clinical-territory-associate) |
 
 ## About This Role
 
-This sales engineer position at Intuitive Surgical was posted on 2026-05-20.
+This sales engineer position at Intuitive Surgical was posted on 2026-07-01.
 
 ## Get Real-Time Alerts
 

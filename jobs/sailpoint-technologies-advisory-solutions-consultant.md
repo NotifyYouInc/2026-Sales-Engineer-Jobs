@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [SailPoint Technologies](https://scoutify.ai/companies/sailpoint-technologies?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Belgium |
+| Location | Finland |
 | Category | Sales Engineer |
-| Posted | 2026-06-24 |
-| Apply | [View on company site](https://sailpoint.wd1.myworkdayjobs.com/sailpoint/job/Remote-Netherlands/Advisory-Solutions-Consultant_R013014) |
+| Posted | 2026-06-25 |
+| Apply | [View on company site](https://sailpoint.wd1.myworkdayjobs.com/sailpoint/job/Remote-Finland/Advisory-Solutions-Consultant_R013600) |
 
 ## About This Role
 
-This sales engineer position at SailPoint Technologies was posted on 2026-06-24.
+This sales engineer position at SailPoint Technologies was posted on 2026-06-25.
 
 ## Get Real-Time Alerts
 

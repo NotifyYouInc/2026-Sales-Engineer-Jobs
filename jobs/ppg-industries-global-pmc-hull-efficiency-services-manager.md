@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [PPG Industries](https://scoutify.ai/companies/ppg-industries?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Piraeus, Attica, Greece |
-| Category | Marketing |
+| Category | Product Marketing |
 | Posted | 2026-06-29 |
 | Apply | [View on company site](https://ppg.wd5.myworkdayjobs.com/ppg_careers/job/GRC---Piraeus-Office/Global-PMC-Hull-Efficiency-Services-Manager_JR268490) |
 
 ## About This Role
 
-This marketing position at PPG Industries was posted on 2026-06-29.
+This product marketing position at PPG Industries was posted on 2026-06-29.
 
 ## Get Real-Time Alerts
 

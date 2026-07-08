@@ -1,16 +1,16 @@
-# Pre Sales Engineer at Gutor
+# Pre-sales Engineer at Gutor
 
 | Field | Details |
 |-------|---------|
 | Company | [Gutor](https://scoutify.ai/companies/gutor?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | 2 locations |
+| Location | Dubai, Dubai, United Arab Emirates |
 | Category | Sales Engineer |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://gutor.wd3.myworkdayjobs.com/gutor_career_site/job/UAE---Dubai/Pre-Sales-Engineer_JR100462) |
+| Posted | 2026-07-01 |
+| Apply | [View on company site](https://gutor.wd3.myworkdayjobs.com/gutor_career_site/job/UAE---Dubai/Pre-sales-Engineer_JR100498) |
 
 ## About This Role
 
-This sales engineer position at Gutor was posted on 2026-04-30.
+This sales engineer position at Gutor was posted on 2026-07-01.
 
 ## Get Real-Time Alerts
 

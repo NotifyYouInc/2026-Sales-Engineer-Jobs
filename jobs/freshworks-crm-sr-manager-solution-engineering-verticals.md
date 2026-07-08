@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Freshworks CRM](https://scoutify.ai/companies/freshworkscrm?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | San Mateo, California, United States |
-| Category | Engineering Manager |
+| Category | Sales Engineer |
 | Posted | 2026-06-25 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/Freshworks/744000134321627-sr-manager-solution-engineering-verticals) |
 
 ## About This Role
 
-This engineering manager position at Freshworks CRM was posted on 2026-06-25.
+This sales engineer position at Freshworks CRM was posted on 2026-06-25.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Tenable](https://scoutify.ai/companies/tenable?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Boston, Massachusetts, United States |
-| Category | Security Engineer |
-| Posted | 2026-06-05 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/tenableinc/jobs/5249277008) |
+| Location | 3 locations |
+| Category | Sales Engineer |
+| Posted | 2026-07-01 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/tenableinc/jobs/5288812008) |
 
 ## About This Role
 
-This security engineer position at Tenable was posted on 2026-06-05.
+This sales engineer position at Tenable was posted on 2026-07-01.
 
 ## Get Real-Time Alerts
 

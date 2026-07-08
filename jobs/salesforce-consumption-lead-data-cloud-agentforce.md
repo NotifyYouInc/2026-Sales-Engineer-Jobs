@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Salesforce](https://scoutify.ai/companies/salesforce?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Bengaluru, Karnataka, India |
-| Category | Customer Success |
-| Posted | 2026-06-15 |
-| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Bangalore/Consumption-Lead--Data-Cloud---Agentforce-_JR328126) |
+| Location | Singapore, Singapore |
+| Category | Sales Engineer |
+| Posted | 2026-07-01 |
+| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Singapore---Singapore/Consumption-Lead--Data-Cloud---Agentforce-_JR349687) |
 
 ## About This Role
 
-This customer success position at Salesforce was posted on 2026-06-15.
+This sales engineer position at Salesforce was posted on 2026-07-01.
 
 ## Get Real-Time Alerts
 

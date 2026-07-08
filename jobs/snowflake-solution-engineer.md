@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Snowflake](https://scoutify.ai/companies/snowflake?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Stockholm, Stockholm, Sweden |
-| Category | Technical & Solutions Architect |
-| Posted | 2026-06-24 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/snowflake/e8092769-69bb-4f28-a1be-89b5e461ba85) |
+| Location | Menlo Park, California, United States |
+| Category | Sales Engineer |
+| Posted | 2026-06-30 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/snowflake/d655734e-4bad-49b5-b93f-ebe38ea28cc3) |
 
 ## About This Role
 
-This technical & solutions architect position at Snowflake was posted on 2026-06-24.
+This sales engineer position at Snowflake was posted on 2026-06-30.
 
 ## Get Real-Time Alerts
 

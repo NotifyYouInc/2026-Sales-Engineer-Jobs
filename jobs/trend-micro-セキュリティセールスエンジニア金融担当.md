@@ -1,16 +1,16 @@
-# セキュリティセールスエンジニア（金融担当） at Trend Micro
+# セキュリティセールスエンジニア(金融担当) at Trend Micro
 
 | Field | Details |
 |-------|---------|
 | Company | [Trend Micro](https://scoutify.ai/companies/trendmicro?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Tokyo, Tokyo, Japan |
 | Category | Sales Engineer |
-| Posted | 2026-06-25 |
-| Apply | [View on company site](https://trendmicro.wd3.myworkdayjobs.com/External/job/Tokyo/--_R0009855-1) |
+| Posted | 2026-06-26 |
+| Apply | [View on company site](https://trendmicro.wd3.myworkdayjobs.com/External/job/Tokyo/--_R0009856-4) |
 
 ## About This Role
 
-This sales engineer position at Trend Micro was posted on 2026-06-25.
+This sales engineer position at Trend Micro was posted on 2026-06-26.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Snowflake](https://scoutify.ai/companies/snowflake?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Menlo Park, California, United States |
+| Location | Paris, Île-de-France, France |
 | Category | Sales Engineer |
-| Posted | 2026-06-17 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/snowflake/f419a8af-78ab-4997-8d42-b681e38b7de3) |
+| Posted | 2026-06-30 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/snowflake/d9ae9dc7-9f7b-40fe-839d-3448bb0ecc53) |
 
 ## About This Role
 
-This sales engineer position at Snowflake was posted on 2026-06-17.
+This sales engineer position at Snowflake was posted on 2026-06-30.
 
 ## Get Real-Time Alerts
 

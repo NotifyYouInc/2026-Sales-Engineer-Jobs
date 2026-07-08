@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | 2 locations |
-| Category | Engineering Manager |
+| Category | Sales Engineer |
 | Posted | 2026-06-26 |
 | Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Denver-Colorado-US/Leader--Solutions-Engineering---Identity-Security_2016622) |
 
 ## About This Role
 
-This engineering manager position at Cisco was posted on 2026-06-26.
+This sales engineer position at Cisco was posted on 2026-06-26.
 
 ## Get Real-Time Alerts
 

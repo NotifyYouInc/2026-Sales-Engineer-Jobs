@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Arrow Electronics](https://scoutify.ai/companies/arrow-electronics?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Austria |
-| Category | Software Engineer |
-| Posted | 2026-06-10 |
-| Apply | [View on company site](https://arrow.wd1.myworkdayjobs.com/ac/job/AT-Austria---Remote/Field-Application-Engineer_R243061) |
+| Location | Munich, Bavaria, Germany |
+| Category | Sales Engineer |
+| Posted | 2026-06-30 |
+| Apply | [View on company site](https://arrow.wd1.myworkdayjobs.com/ac/job/DE-Nuremberg-Germany-Lina-Ammon-Strae/Field-Application-Engineer_R244430) |
 
 ## About This Role
 
-This software engineer position at Arrow Electronics was posted on 2026-06-10.
+This sales engineer position at Arrow Electronics was posted on 2026-06-30.
 
 ## Get Real-Time Alerts
 

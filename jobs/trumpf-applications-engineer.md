@@ -1,16 +1,16 @@
-# Applications  Engineer at Trumpf
+# Applications Engineer at Trumpf
 
 | Field | Details |
 |-------|---------|
 | Company | [Trumpf](https://scoutify.ai/companies/trumpf?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Farmington, New Mexico, United States |
+| Location | Plymouth, Minnesota, United States |
 | Category | Sales Engineer |
-| Posted | 2026-06-17 |
-| Apply | [View on company site](https://trumpf.wd3.myworkdayjobs.com/trumpf_graduates_and_professionals/job/Farmington-CT/Applications--Engineer_R00040659) |
+| Posted | 2026-06-29 |
+| Apply | [View on company site](https://trumpf.wd3.myworkdayjobs.com/trumpf_graduates_and_professionals/job/Plymouth-MI/Applications-Engineer_R00041094) |
 
 ## About This Role
 
-This sales engineer position at Trumpf was posted on 2026-06-17.
+This sales engineer position at Trumpf was posted on 2026-06-29.
 
 ## Get Real-Time Alerts
 

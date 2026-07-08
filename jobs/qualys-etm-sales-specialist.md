@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Qualys](https://scoutify.ai/companies/qualys?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Virginia, US |
-| Category | Sales |
-| Posted | 2026-02-12 |
-| Apply | [View on company site](https://qualys.wd5.myworkdayjobs.com/careers/job/Virginia/ETM-Sales-Specialist_R0004204) |
+| Location | Georgia, US |
+| Category | Sales Engineer |
+| Posted | 2026-06-30 |
+| Apply | [View on company site](https://qualys.wd5.myworkdayjobs.com/careers/job/North-Carolina/ETM-Sales-Specialist_R0004790) |
 
 ## About This Role
 
-This sales position at Qualys was posted on 2026-02-12.
+This sales engineer position at Qualys was posted on 2026-06-30.
 
 ## Get Real-Time Alerts
 
