@@ -1,16 +1,16 @@
-# Forward Deployed Engineer (Founding Customer Engineer) at Clera
+# Vaga Afirmativa para Pessoas com Deficiência/ Affirmative Job Posting Solution Engineer - Data at Microsoft
 
 | Field | Details |
 |-------|---------|
-| Company | [Clera](https://scoutify.ai/companies/clera?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | San Francisco, California, United States |
+| Company | [Microsoft](https://scoutify.ai/companies/microsoft?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
+| Location | São Paulo, São Paulo, Brazil |
 | Category | Sales Engineer |
 | Posted | 2026-07-02 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/clera/f255a0a1-8862-4bb2-9d03-37fe71d8c7f3) |
+| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556872382) |
 
 ## About This Role
 
-This sales engineer position at Clera was posted on 2026-07-02.
+This sales engineer position at Microsoft was posted on 2026-07-02.
 
 ## Get Real-Time Alerts
 

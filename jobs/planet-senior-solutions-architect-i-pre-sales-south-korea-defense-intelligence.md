@@ -1,16 +1,16 @@
-# Pre Sales - AI Solution Architect at Paytm
+# Senior Solutions Architect I, Pre-Sales - South Korea Defense & Intelligence at Planet
 
 | Field | Details |
 |-------|---------|
-| Company | [Paytm](https://scoutify.ai/companies/paytm?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Noida, Uttar Pradesh, India |
+| Company | [Planet](https://scoutify.ai/companies/planet?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
+| Location | South Korea |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-07-02 |
-| Apply | [View on company site](https://jobs.lever.co/paytm/e825fb5a-2ede-43ab-84dd-90e00dd9e954) |
+| Posted | 2026-07-01 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/planetlabs/jobs/8013156) |
 
 ## About This Role
 
-This technical & solutions architect position at Paytm was posted on 2026-07-02.
+This technical & solutions architect position at Planet was posted on 2026-07-01.
 
 ## Get Real-Time Alerts
 

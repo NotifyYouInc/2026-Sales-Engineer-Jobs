@@ -1,16 +1,16 @@
-# Senior Solutions Engineer at Toast
+# Solution Engineer at VusionGroup SA
 
 | Field | Details |
 |-------|---------|
-| Company | [Toast](https://scoutify.ai/companies/toast?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Sydney, New South Wales, Australia |
+| Company | [VusionGroup SA](https://scoutify.ai/companies/vusiongroup-sa?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
+| Location | Italy |
 | Category | Sales Engineer |
-| Posted | 2026-07-01 |
-| Apply | [View on company site](https://careers.toasttab.com/jobs?gh_jid=8028382) |
+| Posted | 2026-07-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/vusiongroupsa/744000135447306-solution-engineer) |
 
 ## About This Role
 
-This sales engineer position at Toast was posted on 2026-07-01.
+This sales engineer position at VusionGroup SA was posted on 2026-07-02.
 
 ## Get Real-Time Alerts
 

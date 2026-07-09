@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Flowserve](https://scoutify.ai/companies/flowserve?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Pasadena, Texas, United States |
-| Category | Software Engineer |
-| Posted | 2026-06-05 |
-| Apply | [View on company site](https://flowserve.wd1.myworkdayjobs.com/applied/job/Pasadena-Texas-US/Applications-Engineer_R-19414) |
+| Category | Sales Engineer |
+| Posted | 2026-07-01 |
+| Apply | [View on company site](https://flowserve.wd1.myworkdayjobs.com/applied/job/Pasadena-Texas-US/Applications-Engineer_R-20019-1) |
 
 ## About This Role
 
-This software engineer position at Flowserve was posted on 2026-06-05.
+This sales engineer position at Flowserve was posted on 2026-07-01.
 
 ## Get Real-Time Alerts
 

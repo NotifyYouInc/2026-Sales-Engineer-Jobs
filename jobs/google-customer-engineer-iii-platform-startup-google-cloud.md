@@ -1,16 +1,16 @@
-# Customer Engineer, Platform, Startups, Google Cloud at Google
+# Customer Engineer III, Platform, Startup, Google Cloud at Google
 
 | Field | Details |
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | 3 locations |
+| Location | New York City, New York, United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-07-01 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckUa56d9zvwIsCC89iJdYtTngnIa1vXdlFNmfXJ5e8II8EjsA1Ny_i8XBm1SkQVE92zB5bld5f_aCPfkaQN6p4kW-sLG-_-zj2AaWQ17kCNtNpJoeRs7PJzUh_phTug%3D%3D_V2&loc=US&title=Customer+Engineer) |
+| Posted | 2026-07-02 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckX1L22088E1InFh4GqikVudrM06PoQsA6zQ7rQbWgfzDEjsA1Ny_i7ZnaQheSYjXxihZWRvAzAEMhulC6eWKPraWhFrxPRbWs8PVVQ8rSabXL28isDZasoiT8c_mGg%3D%3D_V2&loc=US&title=Customer+Engineer+III) |
 
 ## About This Role
 
-This technical & solutions architect position at Google was posted on 2026-07-01.
+This technical & solutions architect position at Google was posted on 2026-07-02.
 
 ## Get Real-Time Alerts
 

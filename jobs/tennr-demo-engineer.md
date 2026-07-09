@@ -1,16 +1,16 @@
-# Senior Solutions Engineer at Toast
+# Demo Engineer at Tennr
 
 | Field | Details |
 |-------|---------|
-| Company | [Toast](https://scoutify.ai/companies/toast?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Sydney, New South Wales, Australia |
+| Company | [Tennr](https://scoutify.ai/companies/tennr?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
+| Location | New York City, New York, United States |
 | Category | Sales Engineer |
 | Posted | 2026-07-01 |
-| Apply | [View on company site](https://careers.toasttab.com/jobs?gh_jid=8028382) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/tennr/737bd429-9084-481c-bdbb-6a8554437aa7) |
 
 ## About This Role
 
-This sales engineer position at Toast was posted on 2026-07-01.
+This sales engineer position at Tennr was posted on 2026-07-01.
 
 ## Get Real-Time Alerts
 

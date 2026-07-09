@@ -1,16 +1,16 @@
-# Senior Solutions Engineer at Toast
+# Sr. Sales Engineer at Cerence
 
 | Field | Details |
 |-------|---------|
-| Company | [Toast](https://scoutify.ai/companies/toast?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Sydney, New South Wales, Australia |
+| Company | [Cerence](https://scoutify.ai/companies/cerence?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
+| Location | Maharashtra, IN |
 | Category | Sales Engineer |
-| Posted | 2026-07-01 |
-| Apply | [View on company site](https://careers.toasttab.com/jobs?gh_jid=8028382) |
+| Posted | 2026-07-02 |
+| Apply | [View on company site](https://cerence.wd5.myworkdayjobs.com/Cerence/job/Hinjewadi-Pune/Sr-Sales-Engineer_R0005983) |
 
 ## About This Role
 
-This sales engineer position at Toast was posted on 2026-07-01.
+This sales engineer position at Cerence was posted on 2026-07-02.
 
 ## Get Real-Time Alerts
 

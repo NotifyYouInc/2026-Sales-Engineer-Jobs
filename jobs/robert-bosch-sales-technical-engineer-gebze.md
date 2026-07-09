@@ -1,16 +1,16 @@
-# Forward Deployed Engineer (Founding Customer Engineer) at Clera
+# Sales Technical Engineer - Gebze at Robert Bosch
 
 | Field | Details |
 |-------|---------|
-| Company | [Clera](https://scoutify.ai/companies/clera?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | San Francisco, California, United States |
+| Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
+| Location | Gebze, Kocaeli, Turkey |
 | Category | Sales Engineer |
 | Posted | 2026-07-02 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/clera/f255a0a1-8862-4bb2-9d03-37fe71d8c7f3) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000135413573-sales-technical-engineer-gebze) |
 
 ## About This Role
 
-This sales engineer position at Clera was posted on 2026-07-02.
+This sales engineer position at Robert Bosch was posted on 2026-07-02.
 
 ## Get Real-Time Alerts
 

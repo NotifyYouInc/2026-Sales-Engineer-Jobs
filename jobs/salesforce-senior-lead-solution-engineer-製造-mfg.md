@@ -1,16 +1,16 @@
-# Lead Solution Engineer at Salesforce
+# Senior / Lead Solution Engineer - 製造 / MFG at Salesforce
 
 | Field | Details |
 |-------|---------|
 | Company | [Salesforce](https://scoutify.ai/companies/salesforce?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Mumbai, Maharashtra, India |
+| Location | Tokyo, Tokyo, Japan |
 | Category | Sales Engineer |
-| Posted | 2026-06-26 |
-| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Mumbai/Lead-Solution-Engineer_JR348212) |
+| Posted | 2026-07-02 |
+| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Japan---Tokyo/Senior---Lead-Solution-Engineer------MFG_JR346280) |
 
 ## About This Role
 
-This sales engineer position at Salesforce was posted on 2026-06-26.
+This sales engineer position at Salesforce was posted on 2026-07-02.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Solutions Engineer at Cisco
+# Solutions Engineer - (SLED) - Cloud and AI Infrastructure at Cisco
 
 | Field | Details |
 |-------|---------|
 | Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Columbia, South Carolina, United States |
+| Location | 10 locations |
 | Category | Sales Engineer |
-| Posted | 2026-06-29 |
-| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Columbia-South-Carolina-US/Solutions-Engineer_2016949) |
+| Posted | 2026-07-01 |
+| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Chicago-Illinois-US/Solutions-Engineer----SLED----Cloud-and-AI-Infrastructure_2015269) |
 
 ## About This Role
 
-This sales engineer position at Cisco was posted on 2026-06-29.
+This sales engineer position at Cisco was posted on 2026-07-01.
 
 ## Get Real-Time Alerts
 

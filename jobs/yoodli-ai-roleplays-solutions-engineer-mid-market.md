@@ -1,16 +1,16 @@
-# Senior Solutions Engineer at Toast
+# Solutions Engineer - Mid Market at Yoodli AI Roleplays
 
 | Field | Details |
 |-------|---------|
-| Company | [Toast](https://scoutify.ai/companies/toast?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Sydney, New South Wales, Australia |
+| Company | [Yoodli AI Roleplays](https://scoutify.ai/companies/yoodli-ai-roleplays?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
+| Location | Seattle, Washington, United States |
 | Category | Sales Engineer |
 | Posted | 2026-07-01 |
-| Apply | [View on company site](https://careers.toasttab.com/jobs?gh_jid=8028382) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/yoodliinc/jobs/4304405009) |
 
 ## About This Role
 
-This sales engineer position at Toast was posted on 2026-07-01.
+This sales engineer position at Yoodli AI Roleplays was posted on 2026-07-01.
 
 ## Get Real-Time Alerts
 

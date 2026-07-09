@@ -1,16 +1,16 @@
-# Senior Solutions Engineer at Toast
+# Solution Area Specialists - Biz Apps at Microsoft
 
 | Field | Details |
 |-------|---------|
-| Company | [Toast](https://scoutify.ai/companies/toast?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Sydney, New South Wales, Australia |
+| Company | [Microsoft](https://scoutify.ai/companies/microsoft?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
+| Location | Gurugram, Haryana, India |
 | Category | Sales Engineer |
-| Posted | 2026-07-01 |
-| Apply | [View on company site](https://careers.toasttab.com/jobs?gh_jid=8028382) |
+| Posted | 2026-07-02 |
+| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556918841) |
 
 ## About This Role
 
-This sales engineer position at Toast was posted on 2026-07-01.
+This sales engineer position at Microsoft was posted on 2026-07-02.
 
 ## Get Real-Time Alerts
 

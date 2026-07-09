@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Concentrix](https://scoutify.ai/companies/concentrix?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
+| Location | Yokohama, Kanagawa, Japan |
 | Category | Sales Engineer |
-| Posted | 2026-06-09 |
-| Apply | [View on company site](https://cnx.wd1.myworkdayjobs.com/external_global/job/MYS-Kuala-Lumpur---Sunway-VISIO-TowerLevel-8-Menara-Sunway-VISIO/Specialist--Technical-Sales_R1737491) |
+| Posted | 2026-07-02 |
+| Apply | [View on company site](https://cnx.wd1.myworkdayjobs.com/external_global/job/JPN-Yokohama-MM-Park-Building-11th-Flr-3-6-3-Minatomirai-Nishi-ku/Specialist--Technical-Sales_R1731524) |
 
 ## About This Role
 
-This sales engineer position at Concentrix was posted on 2026-06-09.
+This sales engineer position at Concentrix was posted on 2026-07-02.
 
 ## Get Real-Time Alerts
 

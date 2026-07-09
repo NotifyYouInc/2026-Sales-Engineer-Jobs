@@ -1,16 +1,16 @@
-# Senior Solutions Engineer at Toast
+# Sr. Analyst- Presales at Nasdaq
 
 | Field | Details |
 |-------|---------|
-| Company | [Toast](https://scoutify.ai/companies/toast?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Sydney, New South Wales, Australia |
+| Company | [Nasdaq](https://scoutify.ai/companies/nasdaq?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
+| Location | Bogotá, Bogota D.C., Colombia |
 | Category | Sales Engineer |
 | Posted | 2026-07-01 |
-| Apply | [View on company site](https://careers.toasttab.com/jobs?gh_jid=8028382) |
+| Apply | [View on company site](https://nasdaq.wd1.myworkdayjobs.com/Global_External_Site/job/Bogota-Tinkko/Sr-Analyst--Presales_R0025487) |
 
 ## About This Role
 
-This sales engineer position at Toast was posted on 2026-07-01.
+This sales engineer position at Nasdaq was posted on 2026-07-01.
 
 ## Get Real-Time Alerts
 

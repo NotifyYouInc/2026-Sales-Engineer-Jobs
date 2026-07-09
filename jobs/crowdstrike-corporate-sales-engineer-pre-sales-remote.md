@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CrowdStrike](https://scoutify.ai/companies/crowdstrike?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | United States |
+| Location | California, US |
 | Category | Sales Engineer |
-| Posted | 2026-05-01 |
-| Apply | [View on company site](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Corporate-Sales-Engineer--Pre-Sales--Remote-_R27548) |
+| Posted | 2026-07-01 |
+| Apply | [View on company site](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote-AZ/Corporate-Sales-Engineer--Pre-Sales--Remote-_R29127) |
 
 ## About This Role
 
-This sales engineer position at CrowdStrike was posted on 2026-05-01.
+This sales engineer position at CrowdStrike was posted on 2026-07-01.
 
 ## Get Real-Time Alerts
 

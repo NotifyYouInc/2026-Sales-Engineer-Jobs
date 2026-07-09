@@ -1,16 +1,16 @@
-# Senior Solutions Engineer at Toast
+# Senior Sales Engineer – Treatment Aquatics at Xylem
 
 | Field | Details |
 |-------|---------|
-| Company | [Toast](https://scoutify.ai/companies/toast?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Sydney, New South Wales, Australia |
+| Company | [Xylem](https://scoutify.ai/companies/xylem?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
+| Location | Göteborg, Västra Götaland, Sweden |
 | Category | Sales Engineer |
 | Posted | 2026-07-01 |
-| Apply | [View on company site](https://careers.toasttab.com/jobs?gh_jid=8028382) |
+| Apply | [View on company site](https://xylem.wd5.myworkdayjobs.com/xylem-careers/job/Gteborg/Senior-Sales-Engineer---Treatment-Aquatics_R49417) |
 
 ## About This Role
 
-This sales engineer position at Toast was posted on 2026-07-01.
+This sales engineer position at Xylem was posted on 2026-07-01.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Senior Solutions Engineer at Toast
+# Senior Solutions Engineer at Neo4j
 
 | Field | Details |
 |-------|---------|
-| Company | [Toast](https://scoutify.ai/companies/toast?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Sydney, New South Wales, Australia |
+| Company | [Neo4j](https://scoutify.ai/companies/neo4j?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
+| Location | Not specified |
 | Category | Sales Engineer |
-| Posted | 2026-07-01 |
-| Apply | [View on company site](https://careers.toasttab.com/jobs?gh_jid=8028382) |
+| Posted | 2026-07-02 |
+| Apply | [View on company site](https://boards.greenhouse.io/neo4j/jobs/4693556006?gh_jid=4693556006) |
 
 ## About This Role
 
-This sales engineer position at Toast was posted on 2026-07-01.
+This sales engineer position at Neo4j was posted on 2026-07-02.
 
 ## Get Real-Time Alerts
 

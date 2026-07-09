@@ -1,16 +1,16 @@
-# Forward Deployed Engineer (Founding Customer Engineer) at Clera
+# Proposal Engineer at Caterpillar
 
 | Field | Details |
 |-------|---------|
-| Company | [Clera](https://scoutify.ai/companies/clera?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | San Francisco, California, United States |
+| Company | [Caterpillar](https://scoutify.ai/companies/caterpillar?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
+| Location | Prague, Prague, Czechia |
 | Category | Sales Engineer |
 | Posted | 2026-07-02 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/clera/f255a0a1-8862-4bb2-9d03-37fe71d8c7f3) |
+| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Prague-Praha/Proposal-Engineer_R0000379929) |
 
 ## About This Role
 
-This sales engineer position at Clera was posted on 2026-07-02.
+This sales engineer position at Caterpillar was posted on 2026-07-02.
 
 ## Get Real-Time Alerts
 

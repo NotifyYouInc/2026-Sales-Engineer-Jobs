@@ -1,16 +1,16 @@
-# Forward Deployed Engineer (Founding Customer Engineer) at Clera
+# Product Specialist at The Weir Group
 
 | Field | Details |
 |-------|---------|
-| Company | [Clera](https://scoutify.ai/companies/clera?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | San Francisco, California, United States |
+| Company | [The Weir Group](https://scoutify.ai/companies/weir?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
+| Location | Perth, Western Australia, Australia |
 | Category | Sales Engineer |
 | Posted | 2026-07-02 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/clera/f255a0a1-8862-4bb2-9d03-37fe71d8c7f3) |
+| Apply | [View on company site](https://weir.wd3.myworkdayjobs.com/weir_external_careers/job/Hazelmere/Product-Specialist_R0037451) |
 
 ## About This Role
 
-This sales engineer position at Clera was posted on 2026-07-02.
+This sales engineer position at The Weir Group was posted on 2026-07-02.
 
 ## Get Real-Time Alerts
 

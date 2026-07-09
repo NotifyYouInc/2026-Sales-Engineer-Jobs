@@ -1,16 +1,16 @@
-# Senior Solutions Engineer at Toast
+# Senior Manager, Solutions Engineer, Named Accounts - North California at Cloudflare
 
 | Field | Details |
 |-------|---------|
-| Company | [Toast](https://scoutify.ai/companies/toast?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Sydney, New South Wales, Australia |
+| Company | [Cloudflare](https://scoutify.ai/companies/cloudflare?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
+| Location | California, US |
 | Category | Sales Engineer |
 | Posted | 2026-07-01 |
-| Apply | [View on company site](https://careers.toasttab.com/jobs?gh_jid=8028382) |
+| Apply | [View on company site](https://boards.greenhouse.io/cloudflare/jobs/8022391?gh_jid=8022391) |
 
 ## About This Role
 
-This sales engineer position at Toast was posted on 2026-07-01.
+This sales engineer position at Cloudflare was posted on 2026-07-01.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Carrier Global](https://scoutify.ai/companies/carrier?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Ho Chi Minh City, Ho Chi Minh City (HCMC), Vietnam |
-| Category | Business Development |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://carrier.wd5.myworkdayjobs.com/jobs/job/VNM05-Unit-1101--Centre-Point-Building--106-Nguyen-Van-Troi-Ward-8-Phu-Nhuan-District-Ho-Chi-Minh-City/Senior-Project-Sales-Engineer_30198512) |
+| Category | Sales Engineer |
+| Posted | 2026-07-02 |
+| Apply | [View on company site](https://carrier.wd5.myworkdayjobs.com/jobs/job/VNM05-Unit-1101--Centre-Point-Building--106-Nguyen-Van-Troi-Ward-8-Phu-Nhuan-District-Ho-Chi-Minh-City/Senior-Project-Sales-Engineer_30208464) |
 
 ## About This Role
 
-This business development position at Carrier Global was posted on 2026-03-02.
+This sales engineer position at Carrier Global was posted on 2026-07-02.
 
 ## Get Real-Time Alerts
 

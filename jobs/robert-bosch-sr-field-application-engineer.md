@@ -1,16 +1,16 @@
-# Senior Solutions Engineer at Toast
+# Sr. Field Application Engineer at Robert Bosch
 
 | Field | Details |
 |-------|---------|
-| Company | [Toast](https://scoutify.ai/companies/toast?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Sydney, New South Wales, Australia |
+| Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
+| Location | Sunnyvale, California, United States |
 | Category | Sales Engineer |
 | Posted | 2026-07-01 |
-| Apply | [View on company site](https://careers.toasttab.com/jobs?gh_jid=8028382) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000135353119-sr-field-application-engineer) |
 
 ## About This Role
 
-This sales engineer position at Toast was posted on 2026-07-01.
+This sales engineer position at Robert Bosch was posted on 2026-07-01.
 
 ## Get Real-Time Alerts
 
