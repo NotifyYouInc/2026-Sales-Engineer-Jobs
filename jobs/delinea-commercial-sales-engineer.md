@@ -1,16 +1,16 @@
-# Consultor de Pré Vendas II at Experian
+# Commercial Sales Engineer at Delinea
 
 | Field | Details |
 |-------|---------|
-| Company | [Experian](https://scoutify.ai/companies/experian?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | São Paulo, São Paulo, Brazil |
+| Company | [Delinea](https://scoutify.ai/companies/delinea?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
+| Location | United States |
 | Category | Sales Engineer |
 | Posted | 2026-07-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000135499574-consultor-de-pre-vendas-ii) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/delinea/7753c5eb-ef2b-4962-b393-8f15ec89a635) |
 
 ## About This Role
 
-This sales engineer position at Experian was posted on 2026-07-02.
+This sales engineer position at Delinea was posted on 2026-07-02.
 
 ## Get Real-Time Alerts
 

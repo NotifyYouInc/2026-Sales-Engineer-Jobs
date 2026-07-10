@@ -1,16 +1,16 @@
-# Consultor de Pré Vendas II at Experian
+# Sales Engineer at Global Payments
 
 | Field | Details |
 |-------|---------|
-| Company | [Experian](https://scoutify.ai/companies/experian?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | São Paulo, São Paulo, Brazil |
+| Company | [Global Payments](https://scoutify.ai/companies/tsys?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
+| Location | Jeffersonville, Indiana, United States |
 | Category | Sales Engineer |
 | Posted | 2026-07-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000135499574-consultor-de-pre-vendas-ii) |
+| Apply | [View on company site](https://tsys.wd1.myworkdayjobs.com/TSYS/job/JEFFERSONVILLE-INDIANA/Sales-Engineer_R0071626) |
 
 ## About This Role
 
-This sales engineer position at Experian was posted on 2026-07-02.
+This sales engineer position at Global Payments was posted on 2026-07-02.
 
 ## Get Real-Time Alerts
 

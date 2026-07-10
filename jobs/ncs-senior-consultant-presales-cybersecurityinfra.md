@@ -1,16 +1,16 @@
-# Senior Sales Systems Engineer, VDC M365 at Veeam Software
+# Senior Consultant (Presales, Cybersecurity/Infra) at NCS
 
 | Field | Details |
 |-------|---------|
-| Company | [Veeam Software](https://scoutify.ai/companies/veeamsoftware?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Company | [NCS](https://scoutify.ai/companies/ncs?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
+| Location | Singapore, Singapore |
 | Category | Sales Engineer |
 | Posted | 2026-07-03 |
-| Apply | [View on company site](https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4913125101) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NCS3/6000000001207448-senior-consultant-presales-cybersecurityinfra) |
 
 ## About This Role
 
-This sales engineer position at Veeam Software was posted on 2026-07-03.
+This sales engineer position at NCS was posted on 2026-07-03.
 
 ## Get Real-Time Alerts
 

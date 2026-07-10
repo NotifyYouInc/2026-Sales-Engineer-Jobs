@@ -1,16 +1,16 @@
-# Platform Architect at Zendesk
+# Lead Technical Solutions Manager at Reddit
 
 | Field | Details |
 |-------|---------|
-| Company | [Zendesk](https://scoutify.ai/companies/zendesk?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | 2 locations |
+| Company | [Reddit](https://scoutify.ai/companies/reddit?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
+| Location | Sydney, New South Wales, Australia |
 | Category | Technical & Solutions Architect |
 | Posted | 2026-07-02 |
-| Apply | [View on company site](https://zendesk.wd1.myworkdayjobs.com/zendesk/job/Remote-Texas-United-States-of-America/Platform-Architect_R35123) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/reddit/jobs/8016908) |
 
 ## About This Role
 
-This technical & solutions architect position at Zendesk was posted on 2026-07-02.
+This technical & solutions architect position at Reddit was posted on 2026-07-02.
 
 ## Get Real-Time Alerts
 

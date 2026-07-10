@@ -1,16 +1,16 @@
-# Consultor de Pré Vendas II at Experian
+# Sales Engineer, Mid Market - Public Sector at Samsara
 
 | Field | Details |
 |-------|---------|
-| Company | [Experian](https://scoutify.ai/companies/experian?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | São Paulo, São Paulo, Brazil |
+| Company | [Samsara](https://scoutify.ai/companies/samsara?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
+| Location | United States |
 | Category | Sales Engineer |
 | Posted | 2026-07-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000135499574-consultor-de-pre-vendas-ii) |
+| Apply | [View on company site](https://www.samsara.com/company/careers/roles/8036863?gh_jid=8036863) |
 
 ## About This Role
 
-This sales engineer position at Experian was posted on 2026-07-02.
+This sales engineer position at Samsara was posted on 2026-07-02.
 
 ## Get Real-Time Alerts
 

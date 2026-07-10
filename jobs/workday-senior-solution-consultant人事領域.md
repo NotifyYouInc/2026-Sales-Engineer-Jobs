@@ -1,16 +1,16 @@
-# Senior Sales Systems Engineer, VDC M365 at Veeam Software
+# Senior Solution Consultant（人事領域） at Workday
 
 | Field | Details |
 |-------|---------|
-| Company | [Veeam Software](https://scoutify.ai/companies/veeamsoftware?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Company | [Workday](https://scoutify.ai/companies/workday?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
+| Location | Osaka, Osaka, Japan |
 | Category | Sales Engineer |
 | Posted | 2026-07-03 |
-| Apply | [View on company site](https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4913125101) |
+| Apply | [View on company site](https://workday.wd5.myworkdayjobs.com/Workday/job/JPNOsaka/Senior-Solution-Consultant--_JR-0108608) |
 
 ## About This Role
 
-This sales engineer position at Veeam Software was posted on 2026-07-03.
+This sales engineer position at Workday was posted on 2026-07-03.
 
 ## Get Real-Time Alerts
 

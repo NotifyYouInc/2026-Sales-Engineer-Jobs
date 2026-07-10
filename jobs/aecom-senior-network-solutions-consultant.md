@@ -1,16 +1,16 @@
-# Platform Architect at Zendesk
+# Senior Network Solutions Consultant at AECOM
 
 | Field | Details |
 |-------|---------|
-| Company | [Zendesk](https://scoutify.ai/companies/zendesk?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | 2 locations |
+| Company | [AECOM](https://scoutify.ai/companies/aecom?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
+| Location | Arlington, Texas, United States |
 | Category | Technical & Solutions Architect |
 | Posted | 2026-07-02 |
-| Apply | [View on company site](https://zendesk.wd1.myworkdayjobs.com/zendesk/job/Remote-Texas-United-States-of-America/Platform-Architect_R35123) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000135526783-senior-network-solutions-consultant) |
 
 ## About This Role
 
-This technical & solutions architect position at Zendesk was posted on 2026-07-02.
+This technical & solutions architect position at AECOM was posted on 2026-07-02.
 
 ## Get Real-Time Alerts
 

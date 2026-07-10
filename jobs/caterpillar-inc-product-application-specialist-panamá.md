@@ -1,16 +1,16 @@
-# Consultor de Pré Vendas II at Experian
+# Product Application Specialist (Panamá) at Caterpillar Inc.
 
 | Field | Details |
 |-------|---------|
-| Company | [Experian](https://scoutify.ai/companies/experian?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | São Paulo, São Paulo, Brazil |
+| Company | [Caterpillar Inc.](https://scoutify.ai/companies/cat?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
+| Location | Panama |
 | Category | Sales Engineer |
 | Posted | 2026-07-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000135499574-consultor-de-pre-vendas-ii) |
+| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Panama-Panam/Product-Application-Specialist--Panam-_R0000380586) |
 
 ## About This Role
 
-This sales engineer position at Experian was posted on 2026-07-02.
+This sales engineer position at Caterpillar Inc. was posted on 2026-07-02.
 
 ## Get Real-Time Alerts
 

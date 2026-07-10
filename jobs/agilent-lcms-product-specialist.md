@@ -1,16 +1,16 @@
-# Senior Sales Systems Engineer, VDC M365 at Veeam Software
+# LCMS Product Specialist at Agilent
 
 | Field | Details |
 |-------|---------|
-| Company | [Veeam Software](https://scoutify.ai/companies/veeamsoftware?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Company | [Agilent](https://scoutify.ai/companies/agilent?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
+| Location | Cheadle, England, United Kingdom |
 | Category | Sales Engineer |
 | Posted | 2026-07-03 |
-| Apply | [View on company site](https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4913125101) |
+| Apply | [View on company site](https://agilent.wd5.myworkdayjobs.com/agilent_careers/job/UK-Cheadle/LCMS-Product-Specialist_4038647) |
 
 ## About This Role
 
-This sales engineer position at Veeam Software was posted on 2026-07-03.
+This sales engineer position at Agilent was posted on 2026-07-03.
 
 ## Get Real-Time Alerts
 

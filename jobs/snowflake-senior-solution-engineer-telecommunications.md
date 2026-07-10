@@ -1,16 +1,16 @@
-# Consultor de Pré Vendas II at Experian
+# Senior Solution Engineer, Telecommunications at Snowflake
 
 | Field | Details |
 |-------|---------|
-| Company | [Experian](https://scoutify.ai/companies/experian?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | São Paulo, São Paulo, Brazil |
+| Company | [Snowflake](https://scoutify.ai/companies/snowflake?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
+| Location | Denver, Colorado, United States |
 | Category | Sales Engineer |
 | Posted | 2026-07-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000135499574-consultor-de-pre-vendas-ii) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/snowflake/95f05403-a834-42fc-8243-ccafe5c44b09) |
 
 ## About This Role
 
-This sales engineer position at Experian was posted on 2026-07-02.
+This sales engineer position at Snowflake was posted on 2026-07-02.
 
 ## Get Real-Time Alerts
 

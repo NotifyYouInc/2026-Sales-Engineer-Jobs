@@ -1,16 +1,16 @@
-# Senior Sales Systems Engineer, VDC M365 at Veeam Software
+# Senior Bid and Proposal Specialist PCS at Hitachi
 
 | Field | Details |
 |-------|---------|
-| Company | [Veeam Software](https://scoutify.ai/companies/veeamsoftware?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Company | [Hitachi](https://scoutify.ai/companies/hitachi?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
+| Location | 2 locations |
 | Category | Sales Engineer |
 | Posted | 2026-07-03 |
-| Apply | [View on company site](https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4913125101) |
+| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Petaling-Jaya-SelangorMalaysia/Senior-Bid-and-Proposal-Specialist-PCS_R0135960) |
 
 ## About This Role
 
-This sales engineer position at Veeam Software was posted on 2026-07-03.
+This sales engineer position at Hitachi was posted on 2026-07-03.
 
 ## Get Real-Time Alerts
 

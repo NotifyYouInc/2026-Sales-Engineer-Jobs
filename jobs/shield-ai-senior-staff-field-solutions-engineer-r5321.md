@@ -1,16 +1,16 @@
-# Senior Sales Systems Engineer, VDC M365 at Veeam Software
+# Senior Staff Field Solutions Engineer (R5321) at Shield AI
 
 | Field | Details |
 |-------|---------|
-| Company | [Veeam Software](https://scoutify.ai/companies/veeamsoftware?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Company | [Shield AI](https://scoutify.ai/companies/shieldai?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
+| Location | Frisco, Texas, United States |
 | Category | Sales Engineer |
 | Posted | 2026-07-03 |
-| Apply | [View on company site](https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4913125101) |
+| Apply | [View on company site](https://jobs.lever.co/shieldai/dc00fbe8-d102-48b7-9c5f-e0b977b506b2) |
 
 ## About This Role
 
-This sales engineer position at Veeam Software was posted on 2026-07-03.
+This sales engineer position at Shield AI was posted on 2026-07-03.
 
 ## Get Real-Time Alerts
 

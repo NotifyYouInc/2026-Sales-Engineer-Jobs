@@ -1,16 +1,16 @@
-# Consultor de Pré Vendas II at Experian
+# Technical Sales Engineer (M/W/D) at Seco Tools
 
 | Field | Details |
 |-------|---------|
-| Company | [Experian](https://scoutify.ai/companies/experian?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | São Paulo, São Paulo, Brazil |
+| Company | [Seco Tools](https://scoutify.ai/companies/seco-tools?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
+| Location | Erkrath, North Rhine-Westphalia, Germany |
 | Category | Sales Engineer |
 | Posted | 2026-07-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000135499574-consultor-de-pre-vendas-ii) |
+| Apply | [View on company site](https://sandvik.wd3.myworkdayjobs.com/seco-jobs/job/Germany-Erkrath/Technical-Sales-Engineer--M-W-D-_R0094360) |
 
 ## About This Role
 
-This sales engineer position at Experian was posted on 2026-07-02.
+This sales engineer position at Seco Tools was posted on 2026-07-02.
 
 ## Get Real-Time Alerts
 

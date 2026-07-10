@@ -1,16 +1,16 @@
-# Consultor de Pré Vendas II at Experian
+# Sales Engineer im Aussendienst - Elektroinstallation 100% at ABB
 
 | Field | Details |
 |-------|---------|
-| Company | [Experian](https://scoutify.ai/companies/experian?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | São Paulo, São Paulo, Brazil |
+| Company | [ABB](https://scoutify.ai/companies/abb?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
+| Location | Baden, Aargau, Switzerland |
 | Category | Sales Engineer |
 | Posted | 2026-07-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000135499574-consultor-de-pre-vendas-ii) |
+| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Baden-Aargau-Switzerland/Sales-Specialist_96065277) |
 
 ## About This Role
 
-This sales engineer position at Experian was posted on 2026-07-02.
+This sales engineer position at ABB was posted on 2026-07-02.
 
 ## Get Real-Time Alerts
 

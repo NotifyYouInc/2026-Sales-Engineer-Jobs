@@ -1,16 +1,16 @@
-# Lead Solution Engineer at Salesforce
+# Senior Solution Engineer - Manufacturing at Salesforce
 
 | Field | Details |
 |-------|---------|
 | Company | [Salesforce](https://scoutify.ai/companies/salesforce?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | 2 locations |
+| Location | Mumbai, Maharashtra, India |
 | Category | Sales Engineer |
-| Posted | 2026-06-29 |
-| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Virginia---Mclean/Lead-Solution-Engineer_JR347994) |
+| Posted | 2026-07-02 |
+| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Mumbai/Senior-Solution-Engineer---Manufacturing_JR350222) |
 
 ## About This Role
 
-This sales engineer position at Salesforce was posted on 2026-06-29.
+This sales engineer position at Salesforce was posted on 2026-07-02.
 
 ## Get Real-Time Alerts
 

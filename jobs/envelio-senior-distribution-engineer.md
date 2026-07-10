@@ -1,16 +1,16 @@
-# Consultor de Pré Vendas II at Experian
+# Senior Distribution Engineer at Envelio
 
 | Field | Details |
 |-------|---------|
-| Company | [Experian](https://scoutify.ai/companies/experian?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | São Paulo, São Paulo, Brazil |
+| Company | [Envelio](https://scoutify.ai/companies/envelio?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
+| Location | Boston, Massachusetts, United States |
 | Category | Sales Engineer |
 | Posted | 2026-07-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000135499574-consultor-de-pre-vendas-ii) |
+| Apply | [View on company site](https://jobs.lever.co/envelio/4af05f42-d5e8-4011-a6d6-79193987209f) |
 
 ## About This Role
 
-This sales engineer position at Experian was posted on 2026-07-02.
+This sales engineer position at Envelio was posted on 2026-07-02.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ABB](https://scoutify.ai/companies/abb?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Italy |
+| Location | Istanbul, Istanbul, Turkey |
 | Category | Sales Engineer |
-| Posted | 2026-05-06 |
-| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Genova-Genova-Italy/Service-Sales-Support-Specialist_JR00033538) |
+| Posted | 2026-07-02 |
+| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Istanbul-stanbul-Trkiye/Service-Sales-Support-Specialist_JR00040355) |
 
 ## About This Role
 
-This sales engineer position at ABB was posted on 2026-05-06.
+This sales engineer position at ABB was posted on 2026-07-02.
 
 ## Get Real-Time Alerts
 
