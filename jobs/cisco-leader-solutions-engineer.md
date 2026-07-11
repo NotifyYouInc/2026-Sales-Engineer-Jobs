@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | 4 locations |
-| Category | Engineering Manager |
-| Posted | 2026-06-15 |
-| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Boston-Massachusetts-US/Leader--Solutions-Engineer_2012856) |
+| Location | London, England, United Kingdom |
+| Category | Sales Engineer |
+| Posted | 2026-07-03 |
+| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/London-United-Kingdom/Leader--Solutions-Engineer_2016618) |
 
 ## About This Role
 
-This engineering manager position at Cisco was posted on 2026-06-15.
+This sales engineer position at Cisco was posted on 2026-07-03.
 
 ## Get Real-Time Alerts
 

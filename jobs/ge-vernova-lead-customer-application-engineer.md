@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [GE Vernova](https://scoutify.ai/companies/ge-vernova?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
-| Category | Software Engineer |
-| Posted | 2026-06-10 |
-| Apply | [View on company site](https://gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite/job/Kuala-Lumpur/Lead-Customer-Application-Engineer_R5043821-2) |
+| Location | 4 locations |
+| Category | Sales Engineer |
+| Posted | 2026-07-03 |
+| Apply | [View on company site](https://gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite/job/Karachi/Lead-Customer-Application-Engineer_R5046579-2) |
 
 ## About This Role
 
-This software engineer position at GE Vernova was posted on 2026-06-10.
+This sales engineer position at GE Vernova was posted on 2026-07-03.
 
 ## Get Real-Time Alerts
 

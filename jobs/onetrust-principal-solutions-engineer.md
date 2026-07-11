@@ -1,16 +1,16 @@
-# Senior Engineer, Field Applications at Analog Devices
+# Principal Solutions Engineer at OneTrust
 
 | Field | Details |
 |-------|---------|
-| Company | [Analog Devices](https://scoutify.ai/companies/analogdevices?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | France |
+| Company | [OneTrust](https://scoutify.ai/companies/onetrust?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
+| Location | Madrid, Madrid, Spain |
 | Category | Sales Engineer |
 | Posted | 2026-07-03 |
-| Apply | [View on company site](https://analogdevices.wd1.myworkdayjobs.com/External/job/France-Home-Office/Senior-Engineer--Field-Applications_R263501) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/onetrust/jobs/7988999) |
 
 ## About This Role
 
-This sales engineer position at Analog Devices was posted on 2026-07-03.
+This sales engineer position at OneTrust was posted on 2026-07-03.
 
 ## Get Real-Time Alerts
 

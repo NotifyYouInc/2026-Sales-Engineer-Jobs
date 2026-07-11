@@ -1,16 +1,16 @@
-# Senior Engineer, Field Applications at Analog Devices
+# Pre-Sales Engineer (Campania) at Ajax Systems
 
 | Field | Details |
 |-------|---------|
-| Company | [Analog Devices](https://scoutify.ai/companies/analogdevices?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | France |
+| Company | [Ajax Systems](https://scoutify.ai/companies/ajax-systems?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
+| Location | Naples, Campania, Italy |
 | Category | Sales Engineer |
 | Posted | 2026-07-03 |
-| Apply | [View on company site](https://analogdevices.wd1.myworkdayjobs.com/External/job/France-Home-Office/Senior-Engineer--Field-Applications_R263501) |
+| Apply | [View on company site](https://jobs.lever.co/ajax/dee251cc-d5b9-446c-bfd1-4b5c544da5f7) |
 
 ## About This Role
 
-This sales engineer position at Analog Devices was posted on 2026-07-03.
+This sales engineer position at Ajax Systems was posted on 2026-07-03.
 
 ## Get Real-Time Alerts
 

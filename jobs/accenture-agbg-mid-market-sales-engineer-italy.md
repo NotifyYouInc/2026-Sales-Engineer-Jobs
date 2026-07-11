@@ -1,16 +1,16 @@
-# Senior Engineer, Field Applications at Analog Devices
+# AGBG Mid Market Sales Engineer - Italy at Accenture
 
 | Field | Details |
 |-------|---------|
-| Company | [Analog Devices](https://scoutify.ai/companies/analogdevices?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | France |
+| Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
+| Location | Italy |
 | Category | Sales Engineer |
 | Posted | 2026-07-03 |
-| Apply | [View on company site](https://analogdevices.wd1.myworkdayjobs.com/External/job/France-Home-Office/Senior-Engineer--Field-Applications_R263501) |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Roma-Palazzo-Marignoli/AGBG-Mid-Market-Sales-Engineer---Italy_R00338080) |
 
 ## About This Role
 
-This sales engineer position at Analog Devices was posted on 2026-07-03.
+This sales engineer position at Accenture was posted on 2026-07-03.
 
 ## Get Real-Time Alerts
 

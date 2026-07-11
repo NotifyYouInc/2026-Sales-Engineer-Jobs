@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Intuitive Surgical](https://scoutify.ai/companies/intuitivesurgical?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Stuttgart, Baden-Wurttemberg, Germany |
+| Location | Göttingen, Lower Saxony, Germany |
 | Category | Sales Engineer |
-| Posted | 2026-06-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Intuitive/744000134482072-da-vinci-clinical-territory-associate-mwd) |
+| Posted | 2026-07-01 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Intuitive/744000135241662-da-vinci-clinical-territory-associate-mwd) |
 
 ## About This Role
 
-This sales engineer position at Intuitive Surgical was posted on 2026-06-26.
+This sales engineer position at Intuitive Surgical was posted on 2026-07-01.
 
 ## Get Real-Time Alerts
 

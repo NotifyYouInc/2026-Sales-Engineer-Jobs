@@ -1,16 +1,16 @@
-# Senior Engineer, Field Applications at Analog Devices
+# Pre-Sales Consultant at Altusgroup
 
 | Field | Details |
 |-------|---------|
-| Company | [Analog Devices](https://scoutify.ai/companies/analogdevices?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | France |
+| Company | [Altusgroup](https://scoutify.ai/companies/altusgroup?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
+| Location | London, England, United Kingdom |
 | Category | Sales Engineer |
 | Posted | 2026-07-03 |
-| Apply | [View on company site](https://analogdevices.wd1.myworkdayjobs.com/External/job/France-Home-Office/Senior-Engineer--Field-Applications_R263501) |
+| Apply | [View on company site](https://altusgroup.wd3.myworkdayjobs.com/altusgroup/job/London-United-Kingdom/Pre-Sales-Consultant_R0013836) |
 
 ## About This Role
 
-This sales engineer position at Analog Devices was posted on 2026-07-03.
+This sales engineer position at Altusgroup was posted on 2026-07-03.
 
 ## Get Real-Time Alerts
 

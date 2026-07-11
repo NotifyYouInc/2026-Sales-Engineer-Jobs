@@ -1,16 +1,16 @@
-# Senior Engineer, Field Applications at Analog Devices
+# Sales Engineering Manager at Vapi
 
 | Field | Details |
 |-------|---------|
-| Company | [Analog Devices](https://scoutify.ai/companies/analogdevices?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | France |
+| Company | [Vapi](https://scoutify.ai/companies/vapi?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
+| Location | San Francisco, California, United States |
 | Category | Sales Engineer |
 | Posted | 2026-07-03 |
-| Apply | [View on company site](https://analogdevices.wd1.myworkdayjobs.com/External/job/France-Home-Office/Senior-Engineer--Field-Applications_R263501) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/vapi/c321a2f2-5678-49e2-ba90-a424971e8b94) |
 
 ## About This Role
 
-This sales engineer position at Analog Devices was posted on 2026-07-03.
+This sales engineer position at Vapi was posted on 2026-07-03.
 
 ## Get Real-Time Alerts
 

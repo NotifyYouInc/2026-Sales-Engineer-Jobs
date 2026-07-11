@@ -1,16 +1,16 @@
-# Senior Engineer, Field Applications at Analog Devices
+# Technical/Product Sales Specialist at CAE
 
 | Field | Details |
 |-------|---------|
-| Company | [Analog Devices](https://scoutify.ai/companies/analogdevices?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | France |
+| Company | [CAE](https://scoutify.ai/companies/cae?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
+| Location | Ottawa, Ontario, Canada |
 | Category | Sales Engineer |
 | Posted | 2026-07-03 |
-| Apply | [View on company site](https://analogdevices.wd1.myworkdayjobs.com/External/job/France-Home-Office/Senior-Engineer--Field-Applications_R263501) |
+| Apply | [View on company site](https://cae.wd3.myworkdayjobs.com/career/job/Ottawa/Technical-Product-Sales-Specialist_121896) |
 
 ## About This Role
 
-This sales engineer position at Analog Devices was posted on 2026-07-03.
+This sales engineer position at CAE was posted on 2026-07-03.
 
 ## Get Real-Time Alerts
 

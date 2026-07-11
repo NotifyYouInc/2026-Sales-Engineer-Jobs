@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | 4 locations |
-| Category | Account Executive |
-| Posted | 2026-06-01 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckUTgRg04wSzLNPjew-l-AWaVMRqepTPD771lGCIEe2DiEjsACxwdTIV_vrLYPHqltm409HB9IMfAWC0R-W4T1EY89RZMfyKGOBmO-Qms3aEXvbLHUVZ1mtf-ijUSXQ%3D%3D_V2&loc=DE&title=AI+Sales+Specialist) |
+| Location | 3 locations |
+| Category | Sales Engineer |
+| Posted | 2026-07-03 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckWInGCP7yvRlg8wVat1wuspsLID9V5hEsVebUJ8owLV-EjsA1Ny_i8DWiazOW25hESx1PNawcoOtnigJpcQj70zZLVAwkrARJ-EKdwlAPiBOnoUbjQZJ8kvfMAli_A%3D%3D_V2&loc=DE&title=AI+Sales+Specialist) |
 
 ## About This Role
 
-This account executive position at Google was posted on 2026-06-01.
+This sales engineer position at Google was posted on 2026-07-03.
 
 ## Get Real-Time Alerts
 
