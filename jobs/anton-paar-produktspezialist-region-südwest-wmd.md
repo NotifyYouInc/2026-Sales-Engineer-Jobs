@@ -1,16 +1,16 @@
-# Service Sales Engineer at ABB
+# Produktspezialist - Region Südwest (w/m/d) at Anton Paar
 
 | Field | Details |
 |-------|---------|
-| Company | [ABB](https://scoutify.ai/companies/abb?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Bulgaria |
+| Company | [Anton Paar](https://scoutify.ai/companies/antonpaar?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
+| Location | 6 locations |
 | Category | Sales Engineer |
 | Posted | 2026-07-06 |
-| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Remote-Bulgaria/Service-Sales-Engineer_JR00040168) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AntonPaar1/744000135958914-produktspezialist-region-sudwest-wmd) |
 
 ## About This Role
 
-This sales engineer position at ABB was posted on 2026-07-06.
+This sales engineer position at Anton Paar was posted on 2026-07-06.
 
 ## Get Real-Time Alerts
 

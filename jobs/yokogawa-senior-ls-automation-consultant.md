@@ -1,16 +1,16 @@
-# Service Sales Engineer at ABB
+# Senior LS Automation Consultant at Yokogawa
 
 | Field | Details |
 |-------|---------|
-| Company | [ABB](https://scoutify.ai/companies/abb?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Bulgaria |
+| Company | [Yokogawa](https://scoutify.ai/companies/yokogawa?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
+| Location | Shanghai, Shanghai, China |
 | Category | Sales Engineer |
 | Posted | 2026-07-06 |
-| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Remote-Bulgaria/Service-Sales-Engineer_JR00040168) |
+| Apply | [View on company site](https://yokogawa.wd3.myworkdayjobs.com/yokogawa-career-site/job/Shanghai/Senior-LS-Automation-Consultant_R-12014) |
 
 ## About This Role
 
-This sales engineer position at ABB was posted on 2026-07-06.
+This sales engineer position at Yokogawa was posted on 2026-07-06.
 
 ## Get Real-Time Alerts
 

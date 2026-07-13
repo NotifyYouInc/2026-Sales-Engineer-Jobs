@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Equinix](https://scoutify.ai/companies/equinix?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | 7 locations |
+| Location | Dubai, Dubai, United Arab Emirates |
 | Category | Sales Engineer |
-| Posted | 2026-06-09 |
-| Apply | [View on company site](https://equinix.wd1.myworkdayjobs.com/external/job/Redwood-City/Lead-Sales-Engineer_JR-161490) |
+| Posted | 2026-07-06 |
+| Apply | [View on company site](https://equinix.wd1.myworkdayjobs.com/external/job/Dubai/Lead-Sales-Engineer_JR-162005) |
 
 ## About This Role
 
-This sales engineer position at Equinix was posted on 2026-06-09.
+This sales engineer position at Equinix was posted on 2026-07-06.
 
 ## Get Real-Time Alerts
 

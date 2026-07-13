@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Salesforce](https://scoutify.ai/companies/salesforce?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | New York City, New York, United States |
-| Category | Customer Success |
-| Posted | 2026-06-01 |
-| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/New-York---New-York/Senior-Manager--Solution-Engineering_JR344412) |
+| Location | Mumbai, Maharashtra, India |
+| Category | Sales Engineer |
+| Posted | 2026-07-05 |
+| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Mumbai/Senior-Manager--Solution-Engineering_JR349365) |
 
 ## About This Role
 
-This customer success position at Salesforce was posted on 2026-06-01.
+This sales engineer position at Salesforce was posted on 2026-07-05.
 
 ## Get Real-Time Alerts
 

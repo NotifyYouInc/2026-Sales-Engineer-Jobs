@@ -1,16 +1,16 @@
-# Service Sales Engineer at ABB
+# Technical Services Engineer at Dalmia Bharat
 
 | Field | Details |
 |-------|---------|
-| Company | [ABB](https://scoutify.ai/companies/abb?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Bulgaria |
+| Company | [Dalmia Bharat](https://scoutify.ai/companies/ocs-cx-oj30423?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
+| Location | Ranchi, Jharkhand, India |
 | Category | Sales Engineer |
-| Posted | 2026-07-06 |
-| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Remote-Bulgaria/Service-Sales-Engineer_JR00040168) |
+| Posted | 2021-11-30 |
+| Apply | [View on company site](https://fa-ekwr-saasfaprod1.fa.ocs.oraclecloud.com/jobs/#2476) |
 
 ## About This Role
 
-This sales engineer position at ABB was posted on 2026-07-06.
+This sales engineer position at Dalmia Bharat was posted on 2021-11-30.
 
 ## Get Real-Time Alerts
 

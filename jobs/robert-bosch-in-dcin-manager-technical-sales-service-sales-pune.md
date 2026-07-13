@@ -1,16 +1,16 @@
-# Sr. Application Engineer I at Johnson Controls
+# IN_DCIN_Manager Technical Sales (Service Sales), Pune at Robert Bosch
 
 | Field | Details |
 |-------|---------|
-| Company | [Johnson Controls](https://scoutify.ai/companies/jci?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
+| Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Pune, Maharashtra, India |
 | Category | Sales Engineer |
 | Posted | 2026-07-06 |
-| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Pune-Maharashtra-India/Sr-Application-Engineer-I_WD30273771) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000135910199-in-dcin-manager-technical-sales-service-sales-pune) |
 
 ## About This Role
 
-This sales engineer position at Johnson Controls was posted on 2026-07-06.
+This sales engineer position at Robert Bosch was posted on 2026-07-06.
 
 ## Get Real-Time Alerts
 

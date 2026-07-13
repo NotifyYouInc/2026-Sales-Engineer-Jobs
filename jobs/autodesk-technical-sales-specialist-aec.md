@@ -1,16 +1,16 @@
-# Service Sales Engineer at ABB
+# Technical Sales Specialist AEC at Autodesk
 
 | Field | Details |
 |-------|---------|
-| Company | [ABB](https://scoutify.ai/companies/abb?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Bulgaria |
+| Company | [Autodesk](https://scoutify.ai/companies/autodesk?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
+| Location | Tokyo, Tokyo, Japan |
 | Category | Sales Engineer |
 | Posted | 2026-07-06 |
-| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Remote-Bulgaria/Service-Sales-Engineer_JR00040168) |
+| Apply | [View on company site](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Tokyo-JPN/Technical-Sales-Specialist-AEC_26WD99762-1) |
 
 ## About This Role
 
-This sales engineer position at ABB was posted on 2026-07-06.
+This sales engineer position at Autodesk was posted on 2026-07-06.
 
 ## Get Real-Time Alerts
 

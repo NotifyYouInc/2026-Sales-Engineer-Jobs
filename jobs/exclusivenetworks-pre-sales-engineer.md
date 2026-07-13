@@ -1,16 +1,16 @@
-# Pre-sales Engineer at Exclusivenetworks
+# Pre-Sales Engineer at Exclusivenetworks
 
 | Field | Details |
 |-------|---------|
 | Company | [Exclusivenetworks](https://scoutify.ai/companies/exclusivenetworks?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Bengaluru, Karnataka, India |
-| Category | Technical & Solutions Architect |
-| Posted | 2026-05-26 |
-| Apply | [View on company site](https://exclusivenetworks.wd103.myworkdayjobs.com/exclusive-networks-career/job/Bangalore/Pre-sales-Engineer_JR1970-2) |
+| Location | Singapore, Singapore |
+| Category | Sales Engineer |
+| Posted | 2026-07-06 |
+| Apply | [View on company site](https://exclusivenetworks.wd103.myworkdayjobs.com/exclusive-networks-career/job/Singapore/Pre-Sales-Engineer_JR2185-1) |
 
 ## About This Role
 
-This technical & solutions architect position at Exclusivenetworks was posted on 2026-05-26.
+This sales engineer position at Exclusivenetworks was posted on 2026-07-06.
 
 ## Get Real-Time Alerts
 

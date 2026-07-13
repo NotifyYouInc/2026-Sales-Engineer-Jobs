@@ -1,16 +1,16 @@
-# Service Sales Engineer at ABB
+# Sr Advisory Solution Consultant (Hong Kong) at ServiceNow
 
 | Field | Details |
 |-------|---------|
-| Company | [ABB](https://scoutify.ai/companies/abb?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Bulgaria |
+| Company | [ServiceNow](https://scoutify.ai/companies/servicenow?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
+| Location | Causeway Bay, Eastern District, Hong Kong |
 | Category | Sales Engineer |
 | Posted | 2026-07-06 |
-| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Remote-Bulgaria/Service-Sales-Engineer_JR00040168) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000135922419-sr-advisory-solution-consultant-hong-kong) |
 
 ## About This Role
 
-This sales engineer position at ABB was posted on 2026-07-06.
+This sales engineer position at ServiceNow was posted on 2026-07-06.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Service Sales Engineer at ABB
+# SWT_Havells IP_92 (2150) at Havells India
 
 | Field | Details |
 |-------|---------|
-| Company | [ABB](https://scoutify.ai/companies/abb?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Bulgaria |
+| Company | [Havells India](https://scoutify.ai/companies/ocs-cx-oj47964?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
+| Location | Delhi, Delhi, India |
 | Category | Sales Engineer |
-| Posted | 2026-07-06 |
-| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Remote-Bulgaria/Service-Sales-Engineer_JR00040168) |
+| Posted | 2026-03-13 |
+| Apply | [View on company site](https://iabgcp.fa.ocs.oraclecloud.com/jobs/#1002423) |
 
 ## About This Role
 
-This sales engineer position at ABB was posted on 2026-07-06.
+This sales engineer position at Havells India was posted on 2026-03-13.
 
 ## Get Real-Time Alerts
 

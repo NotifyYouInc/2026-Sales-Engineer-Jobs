@@ -5,12 +5,12 @@
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Pune, Maharashtra, India |
 | Category | Sales Engineer |
-| Posted | 2026-05-07 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000125031809-in-bosch-rexroth-engineerexecutive-sales-and-application) |
+| Posted | 2026-07-06 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000135913434-in-bosch-rexroth-engineerexecutive-sales-and-application) |
 
 ## About This Role
 
-This sales engineer position at Robert Bosch was posted on 2026-05-07.
+This sales engineer position at Robert Bosch was posted on 2026-07-06.
 
 ## Get Real-Time Alerts
 
