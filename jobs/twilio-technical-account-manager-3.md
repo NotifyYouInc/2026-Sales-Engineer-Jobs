@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Twilio](https://scoutify.ai/companies/twilio?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Bogotá, Bogota D.C., Colombia |
-| Category | Customer Success |
-| Posted | 2026-06-09 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/twilio/jobs/7698038) |
+| Category | Sales Engineer |
+| Posted | 2026-07-06 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/twilio/jobs/8028958) |
 
 ## About This Role
 
-This customer success position at Twilio was posted on 2026-06-09.
+This sales engineer position at Twilio was posted on 2026-07-06.
 
 ## Get Real-Time Alerts
 

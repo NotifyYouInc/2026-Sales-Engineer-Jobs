@@ -5,12 +5,12 @@
 | Company | [Salesforce](https://scoutify.ai/companies/salesforce?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Tokyo, Tokyo, Japan |
 | Category | Sales Engineer |
-| Posted | 2026-06-03 |
-| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Japan---Tokyo/Account-Solution-Engineer--Tableau_JR343570) |
+| Posted | 2026-07-07 |
+| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Japan---Tokyo/Solution-Engineer---Tableau---or-Retail-_JR332827) |
 
 ## About This Role
 
-This sales engineer position at Salesforce was posted on 2026-06-03.
+This sales engineer position at Salesforce was posted on 2026-07-07.
 
 ## Get Real-Time Alerts
 

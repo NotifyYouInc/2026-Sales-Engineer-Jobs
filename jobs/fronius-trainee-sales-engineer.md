@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Fronius](https://scoutify.ai/companies/fronius?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Ahmedabad, Gujarat, India |
+| Location | Vadodara, Gujarat, India |
 | Category | Sales Engineer |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://fronius.wd3.myworkdayjobs.com/job_board/job/Ahmedabad/Trainee-Sales-Engineer_REQ-10009058) |
+| Posted | 2026-07-06 |
+| Apply | [View on company site](https://fronius.wd3.myworkdayjobs.com/job_board/job/Vadodara/Trainee-Sales-Engineer_REQ-10009312) |
 
 ## About This Role
 
-This sales engineer position at Fronius was posted on 2026-05-05.
+This sales engineer position at Fronius was posted on 2026-07-06.
 
 ## Get Real-Time Alerts
 

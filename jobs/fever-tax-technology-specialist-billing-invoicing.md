@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Fever](https://scoutify.ai/companies/fever?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Madrid, Madrid, Spain |
-| Category | Compliance & Risk Management |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://job-boards.eu.greenhouse.io/feverup/jobs/4863493101) |
+| Category | Sales Engineer |
+| Posted | 2026-07-07 |
+| Apply | [View on company site](https://job-boards.eu.greenhouse.io/feverup/jobs/4920968101) |
 
 ## About This Role
 
-This compliance & risk management position at Fever was posted on 2026-05-11.
+This sales engineer position at Fever was posted on 2026-07-07.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Qnity](https://scoutify.ai/companies/qnity?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Tokyo, Tokyo, Japan |
-| Category | Software Engineer |
-| Posted | 2026-02-06 |
-| Apply | [View on company site](https://qnity.wd503.myworkdayjobs.com/jobs/job/Chiyoda-ku-Tokyo/Field-Application-Engineer_249929W) |
+| Location | Marina Bay, Singapore |
+| Category | Sales Engineer |
+| Posted | 2026-07-07 |
+| Apply | [View on company site](https://qnity.wd503.myworkdayjobs.com/jobs/job/Marina-Bay-Central-Region/Field-Application-Engineer_252156W) |
 
 ## About This Role
 
-This software engineer position at Qnity was posted on 2026-02-06.
+This sales engineer position at Qnity was posted on 2026-07-07.
 
 ## Get Real-Time Alerts
 

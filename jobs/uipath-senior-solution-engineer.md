@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [UiPath](https://scoutify.ai/companies/uipath?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Cape Town, Western Cape, South Africa |
+| Location | Dubai, Dubai, United Arab Emirates |
 | Category | Sales Engineer |
-| Posted | 2026-06-29 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/uipath/b1093643-b3b7-4383-ba01-cb8f25cd24d9) |
+| Posted | 2026-07-06 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/uipath/7740d631-3610-494e-9662-3d890235bbf7) |
 
 ## About This Role
 
-This sales engineer position at UiPath was posted on 2026-06-29.
+This sales engineer position at UiPath was posted on 2026-07-06.
 
 ## Get Real-Time Alerts
 

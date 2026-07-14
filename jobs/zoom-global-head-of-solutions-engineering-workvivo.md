@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Zoom](https://scoutify.ai/companies/zoom?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Dublin, Leinster, Ireland |
+| Location | Boston, Massachusetts, United States |
 | Category | Sales Engineer |
 | Posted | 2026-06-30 |
-| Apply | [View on company site](https://zoom.wd5.myworkdayjobs.com/zoom/job/Dublin-IRL/Global-Head-of-Solutions-Engineering--Workvivo_R19302) |
+| Apply | [View on company site](https://zoom.wd5.myworkdayjobs.com/zoom/job/Remote--MA/Global-Head-of-Solutions-Engineering--Workvivo_R19299-1) |
 
 ## About This Role
 

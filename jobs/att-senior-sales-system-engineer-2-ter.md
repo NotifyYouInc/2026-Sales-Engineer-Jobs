@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [AT&T](https://scoutify.ai/companies/at-t?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | San Francisco, California, United States |
+| Location | Fresno, California, United States |
 | Category | Sales Engineer |
 | Posted | 2026-06-30 |
-| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/San-Francisco-California/Senior-Sales-System-Engineer-2-Ter_R-114327-1) |
+| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Fresno-California/Senior-Sales-System-Engineer-2-Ter_R-114326) |
 
 ## About This Role
 

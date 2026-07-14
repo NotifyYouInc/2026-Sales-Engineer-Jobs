@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Hewlett Packard Enterprise](https://scoutify.ai/companies/hewlett-packard-enterprise?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Mumbai, Maharashtra, India |
+| Location | Gurugram, Haryana, India |
 | Category | Sales Engineer |
-| Posted | 2026-06-30 |
-| Apply | [View on company site](https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/Mumbai-Maharashtra-India/Presales-System-Engineer---Networking_1207170) |
+| Posted | 2026-07-01 |
+| Apply | [View on company site](https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/Gurgaon-Haryana-India/Presales-System-Engineer---Networking_1208586-3) |
 
 ## About This Role
 
-This sales engineer position at Hewlett Packard Enterprise was posted on 2026-06-30.
+This sales engineer position at Hewlett Packard Enterprise was posted on 2026-07-01.
 
 ## Get Real-Time Alerts
 

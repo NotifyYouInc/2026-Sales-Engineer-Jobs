@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Netskope](https://scoutify.ai/companies/netskope?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Tokyo, Tokyo, Japan |
-| Category | Technical & Solutions Architect |
-| Posted | 2026-06-22 |
-| Apply | [View on company site](https://www.netskope.com/company/careers/open-positions/?gh_jid=8015290) |
+| Location | India |
+| Category | Sales Engineer |
+| Posted | 2026-07-07 |
+| Apply | [View on company site](https://www.netskope.com/company/careers/open-positions/?gh_jid=8041115) |
 
 ## About This Role
 
-This technical & solutions architect position at Netskope was posted on 2026-06-22.
+This sales engineer position at Netskope was posted on 2026-07-07.
 
 ## Get Real-Time Alerts
 

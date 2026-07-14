@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Motorola Solutions](https://scoutify.ai/companies/motorola-solutions?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Los Angeles, California, United States |
-| Category | Technical Writer |
-| Posted | 2026-03-20 |
-| Apply | [View on company site](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Los-Angeles-CA/Applications-Engineer-I--USA_R63208) |
+| Category | Sales Engineer |
+| Posted | 2026-07-06 |
+| Apply | [View on company site](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Los-Angeles-CA/Applications-Engineer-I--USA_R66460) |
 
 ## About This Role
 
-This technical writer position at Motorola Solutions was posted on 2026-03-20.
+This sales engineer position at Motorola Solutions was posted on 2026-07-06.
 
 ## Get Real-Time Alerts
 

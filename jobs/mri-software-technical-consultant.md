@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [MRI Software](https://scoutify.ai/companies/mrisoftware?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Cape Town, Western Cape, South Africa |
-| Category | Customer Success |
-| Posted | 2026-06-04 |
-| Apply | [View on company site](https://mrisoftware.wd501.myworkdayjobs.com/External_CareerSite/job/Cape-Town-South-Africa-Office/Technical-Consultant-I_R-108021-1) |
+| Location | Manila, National Capital Region, Philippines |
+| Category | Sales Engineer |
+| Posted | 2026-07-06 |
+| Apply | [View on company site](https://mrisoftware.wd501.myworkdayjobs.com/External_CareerSite/job/Manila-Philippines/Technical-Consultant_R-108818) |
 
 ## About This Role
 
-This customer success position at MRI Software was posted on 2026-06-04.
+This sales engineer position at MRI Software was posted on 2026-07-06.
 
 ## Get Real-Time Alerts
 

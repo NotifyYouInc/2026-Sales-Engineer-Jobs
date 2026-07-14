@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Johnson Controls](https://scoutify.ai/companies/jci?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Chongqing, Chongqing, China |
+| Location | Qingdao, Shandong, China |
 | Category | Sales Engineer |
-| Posted | 2026-05-20 |
-| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Chongqing-Chongqing-China/Sr-Channel-Sales-Engineer_WD30267347-1) |
+| Posted | 2026-07-07 |
+| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Qingdao-Shandong-China/Sr-Channel-Sales-Engineer_WD30270482-1) |
 
 ## About This Role
 
-This sales engineer position at Johnson Controls was posted on 2026-05-20.
+This sales engineer position at Johnson Controls was posted on 2026-07-07.
 
 ## Get Real-Time Alerts
 

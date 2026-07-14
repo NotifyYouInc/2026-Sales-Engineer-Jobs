@@ -5,12 +5,12 @@
 | Company | [LinkedIn](https://scoutify.ai/companies/linkedin?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Omaha, Nebraska, United States |
 | Category | Sales Engineer |
-| Posted | 2026-06-29 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/LinkedIn3/744000134883429-associate-technical-consultant) |
+| Posted | 2026-06-30 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/LinkedIn3/744000135097206-associate-technical-consultant) |
 
 ## About This Role
 
-This sales engineer position at LinkedIn was posted on 2026-06-29.
+This sales engineer position at LinkedIn was posted on 2026-06-30.
 
 ## Get Real-Time Alerts
 

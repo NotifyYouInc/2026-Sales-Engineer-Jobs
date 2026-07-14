@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [NiCE](https://scoutify.ai/companies/nice?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | United States |
-| Category | Customer Success |
-| Posted | 2026-05-14 |
-| Apply | [View on company site](https://boards.eu.greenhouse.io/nice/jobs/4861801101?gh_jid=4861801101) |
+| Location | Manila, National Capital Region, Philippines |
+| Category | Sales Engineer |
+| Posted | 2026-07-07 |
+| Apply | [View on company site](https://boards.eu.greenhouse.io/nice/jobs/4920045101?gh_jid=4920045101) |
 
 ## About This Role
 
-This customer success position at NiCE was posted on 2026-05-14.
+This sales engineer position at NiCE was posted on 2026-07-07.
 
 ## Get Real-Time Alerts
 

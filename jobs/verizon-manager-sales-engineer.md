@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Verizon](https://scoutify.ai/companies/verizon?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Minneapolis, Minnesota, United States |
+| Location | 2 locations |
 | Category | Sales Engineer |
-| Posted | 2026-06-04 |
-| Apply | [View on company site](https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Minneapolis-Minnesota/Manager-Sales-Engineer_R-1095834) |
+| Posted | 2026-07-06 |
+| Apply | [View on company site](https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Denver-Colorado/Manager-Sales-Engineer_R-1097178) |
 
 ## About This Role
 
-This sales engineer position at Verizon was posted on 2026-06-04.
+This sales engineer position at Verizon was posted on 2026-07-06.
 
 ## Get Real-Time Alerts
 

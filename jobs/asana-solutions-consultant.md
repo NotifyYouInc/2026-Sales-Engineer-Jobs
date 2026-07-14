@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Asana](https://scoutify.ai/companies/asana?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | London, England, United Kingdom |
-| Category | Implementation / Professional Services |
-| Posted | 2026-05-20 |
-| Apply | [View on company site](https://www.asana.com/jobs/apply/7624453?gh_jid=7624453) |
+| Category | Sales Engineer |
+| Posted | 2026-07-06 |
+| Apply | [View on company site](https://www.asana.com/jobs/apply/8024289?gh_jid=8024289) |
 
 ## About This Role
 
-This implementation / professional services position at Asana was posted on 2026-05-20.
+This sales engineer position at Asana was posted on 2026-07-06.
 
 ## Get Real-Time Alerts
 

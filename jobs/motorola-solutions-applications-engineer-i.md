@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Motorola Solutions](https://scoutify.ai/companies/motorola-solutions?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Irvine, California, United States |
-| Category | Customer Success |
-| Posted | 2026-06-02 |
-| Apply | [View on company site](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Irvine-CA/Applications-Engineer-I_R65470) |
+| Category | Sales Engineer |
+| Posted | 2026-07-06 |
+| Apply | [View on company site](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Irvine-CA/Applications-Engineer-I_R66459) |
 
 ## About This Role
 
-This customer success position at Motorola Solutions was posted on 2026-06-02.
+This sales engineer position at Motorola Solutions was posted on 2026-07-06.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [WISE](https://scoutify.ai/companies/wise?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | London, England, United Kingdom |
-| Category | Technical & Solutions Architect |
-| Posted | 2026-06-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000130551319-senior-solutions-engineer) |
+| Category | Sales Engineer |
+| Posted | 2026-07-07 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000136166969-senior-solutions-engineer) |
 
 ## About This Role
 
-This technical & solutions architect position at WISE was posted on 2026-06-05.
+This sales engineer position at WISE was posted on 2026-07-07.
 
 ## Get Real-Time Alerts
 

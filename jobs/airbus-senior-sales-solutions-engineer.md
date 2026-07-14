@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Airbus](https://scoutify.ai/companies/ag?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | United States |
-| Category | Technical & Solutions Architect |
-| Posted | 2026-04-09 |
-| Apply | [View on company site](https://ag.wd3.myworkdayjobs.com/Airbus/job/Bingen-WA/Senior-Sales-Solutions-Engineer_JR10404868) |
+| Location | Washington, US |
+| Category | Sales Engineer |
+| Posted | 2026-07-06 |
+| Apply | [View on company site](https://ag.wd3.myworkdayjobs.com/Airbus/job/Bingen-WA/Senior-Sales-Solutions-Engineer_JR10425503) |
 
 ## About This Role
 
-This technical & solutions architect position at Airbus was posted on 2026-04-09.
+This sales engineer position at Airbus was posted on 2026-07-06.
 
 ## Get Real-Time Alerts
 
