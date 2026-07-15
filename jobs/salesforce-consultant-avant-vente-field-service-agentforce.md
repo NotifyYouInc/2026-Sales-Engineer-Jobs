@@ -1,4 +1,4 @@
-# Consultant Avant-vente (Field Service Agentforce) at Salesforce
+# Consultant Avant Vente (Field Service Agentforce) at Salesforce
 
 | Field | Details |
 |-------|---------|
@@ -6,7 +6,7 @@
 | Location | Paris, Île-de-France, France |
 | Category | Sales Engineer |
 | Posted | 2026-07-03 |
-| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/France---Paris/Consultant-Avant-vente--Field-Service-Agentforce-_JR345645) |
+| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/France---Paris/Consultant-Avant-Vente--Field-Service-Agentforce-_JR345646) |
 
 ## About This Role
 

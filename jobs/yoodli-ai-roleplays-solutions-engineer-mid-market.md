@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Yoodli AI Roleplays](https://scoutify.ai/companies/yoodli-ai-roleplays?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Seattle, Washington, United States |
+| Location | California, US |
 | Category | Sales Engineer |
-| Posted | 2026-07-01 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/yoodliinc/jobs/4304405009) |
+| Posted | 2026-07-07 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/yoodliinc/jobs/4304407009) |
 
 ## About This Role
 
-This sales engineer position at Yoodli AI Roleplays was posted on 2026-07-01.
+This sales engineer position at Yoodli AI Roleplays was posted on 2026-07-07.
 
 ## Get Real-Time Alerts
 

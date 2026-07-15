@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [MariaDB plc](https://scoutify.ai/companies/mariadb-plc?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | United Kingdom |
+| Location | Malaysia |
 | Category | Sales Engineer |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://job-boards.eu.greenhouse.io/mariadbplc/jobs/4803257101) |
+| Posted | 2026-07-07 |
+| Apply | [View on company site](https://job-boards.eu.greenhouse.io/mariadbplc/jobs/4915052101) |
 
 ## About This Role
 
-This sales engineer position at MariaDB plc was posted on 2026-05-21.
+This sales engineer position at MariaDB plc was posted on 2026-07-07.
 
 ## Get Real-Time Alerts
 

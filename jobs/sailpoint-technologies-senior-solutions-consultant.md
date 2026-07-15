@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [SailPoint Technologies](https://scoutify.ai/companies/sailpoint-technologies?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Japan |
-| Category | Implementation / Professional Services |
-| Posted | 2026-06-05 |
-| Apply | [View on company site](https://sailpoint.wd1.myworkdayjobs.com/sailpoint/job/Remote-Japan/Senior-Solutions-Consultant_R013461) |
+| Location | Chicago, Illinois, United States |
+| Category | Sales Engineer |
+| Posted | 2026-07-07 |
+| Apply | [View on company site](https://sailpoint.wd1.myworkdayjobs.com/sailpoint/job/Remote-Illinois-USA/Senior-Solutions-Consultant_R013789-1) |
 
 ## About This Role
 
-This implementation / professional services position at SailPoint Technologies was posted on 2026-06-05.
+This sales engineer position at SailPoint Technologies was posted on 2026-07-07.
 
 ## Get Real-Time Alerts
 

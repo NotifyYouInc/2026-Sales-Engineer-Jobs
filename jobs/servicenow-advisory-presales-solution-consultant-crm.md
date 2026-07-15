@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [ServiceNow](https://scoutify.ai/companies/servicenow?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Warsaw, Mazovia, Poland |
+| Location | Austria |
 | Category | Sales Engineer |
 | Posted | 2026-07-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000136032669-advisory-presales-solution-consultant-crm) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000136032276-advisory-presales-solution-consultant-crm) |
 
 ## About This Role
 

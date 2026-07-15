@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Apple](https://scoutify.ai/companies/apple?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | United States |
-| Category | Customer Success |
-| Posted | 2026-06-02 |
-| Apply | [View on company site](https://jobs.apple.com/en-us/details/200666478/us-technical-specialist) |
+| Location | Not specified |
+| Category | Sales Engineer |
+| Posted | 2026-07-07 |
+| Apply | [View on company site](https://jobs.apple.com/en-us/details/200671403/us-technical-specialist) |
 
 ## About This Role
 
-This customer success position at Apple was posted on 2026-06-02.
+This sales engineer position at Apple was posted on 2026-07-07.
 
 ## Get Real-Time Alerts
 

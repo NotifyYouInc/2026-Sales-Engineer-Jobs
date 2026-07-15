@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | 2 locations |
-| Category | Implementation / Professional Services |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/jobs/results/90788042469450438-technical-solutions-consultant-gtech-ads-sellside?sort_by=date&page=1) |
+| Location | Mexico City, Mexico City, Mexico |
+| Category | Sales Engineer |
+| Posted | 2026-07-08 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckdAQLFEZSETeRq-Qo3SN0Zo8ujgH0reA4BYB71Vg0ThMEjsA1Ny_izwNg6BLmxmmimaQj-CoBGeXmuh8fzcodT72ZVQHORsuk4-FNTcKD6ciFMaTCFbX63mrVKgkNA%3D%3D_V2&loc=MX&title=Technical+Solutions+Consultant) |
 
 ## About This Role
 
-This implementation / professional services position at Google was posted on 2026-02-24.
+This sales engineer position at Google was posted on 2026-07-08.
 
 ## Get Real-Time Alerts
 

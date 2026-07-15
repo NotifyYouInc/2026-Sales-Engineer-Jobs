@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Johnson Controls](https://scoutify.ai/companies/jci?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Pune, Maharashtra, India |
-| Category | Sales Engineer |
-| Posted | 2026-07-01 |
-| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Pune-Maharashtra-India/Application-Engineer-III_WD30273527) |
+| Category | Software Engineer |
+| Posted | 2026-07-08 |
+| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Pune-Maharashtra-India/Application-Engineer-III_WD30273899) |
 
 ## About This Role
 
-This sales engineer position at Johnson Controls was posted on 2026-07-01.
+This software engineer position at Johnson Controls was posted on 2026-07-08.
 
 ## Get Real-Time Alerts
 

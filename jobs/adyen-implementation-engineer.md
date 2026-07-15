@@ -1,16 +1,16 @@
-# Implementation Engineer  at Adyen
+# Implementation Engineer at Adyen
 
 | Field | Details |
 |-------|---------|
 | Company | [Adyen](https://scoutify.ai/companies/adyen?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Shanghai, Shanghai, China |
-| Category | Customer Success |
-| Posted | 2026-06-12 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/adyen/jobs/7776139) |
+| Location | Sydney, New South Wales, Australia |
+| Category | Sales Engineer |
+| Posted | 2026-07-07 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/adyen/jobs/8009831) |
 
 ## About This Role
 
-This customer success position at Adyen was posted on 2026-06-12.
+This sales engineer position at Adyen was posted on 2026-07-07.
 
 ## Get Real-Time Alerts
 

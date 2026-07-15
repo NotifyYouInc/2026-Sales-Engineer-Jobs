@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wilhelmsen group](https://scoutify.ai/companies/wilhelmsen-group?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Miami, Florida, United States |
+| Location | Houston, Texas, United States |
 | Category | Sales Engineer |
-| Posted | 2026-07-02 |
-| Apply | [View on company site](https://wilhelmsen.wd3.myworkdayjobs.com/wilhelmsen/job/Miami/Port-Services-Engineer_JOBREQ_12781) |
+| Posted | 2026-07-06 |
+| Apply | [View on company site](https://wilhelmsen.wd3.myworkdayjobs.com/wilhelmsen/job/Houston/Port-Services-Engineer_JOBREQ_12811) |
 
 ## About This Role
 
-This sales engineer position at Wilhelmsen group was posted on 2026-07-02.
+This sales engineer position at Wilhelmsen group was posted on 2026-07-06.
 
 ## Get Real-Time Alerts
 

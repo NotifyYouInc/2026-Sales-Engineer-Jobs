@@ -5,12 +5,12 @@
 | Company | [NiCE](https://scoutify.ai/companies/nice?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | United States |
 | Category | Sales Engineer |
-| Posted | 2026-06-19 |
-| Apply | [View on company site](https://boards.eu.greenhouse.io/nice/jobs/4897859101?gh_jid=4897859101) |
+| Posted | 2026-07-07 |
+| Apply | [View on company site](https://boards.eu.greenhouse.io/nice/jobs/4920536101?gh_jid=4920536101) |
 
 ## About This Role
 
-This sales engineer position at NiCE was posted on 2026-06-19.
+This sales engineer position at NiCE was posted on 2026-07-07.
 
 ## Get Real-Time Alerts
 

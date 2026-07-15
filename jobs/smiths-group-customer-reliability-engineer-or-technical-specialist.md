@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Smiths Group](https://scoutify.ai/companies/smithsgroup?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Port Arthur, Texas, United States |
+| Location | Clinton, Maryland, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-06-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SmithsGroup2/744000130295879-customer-reliability-engineer-or-technical-specialist) |
+| Posted | 2026-07-07 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SmithsGroup2/744000136243357-customer-reliability-engineer-or-technical-specialist) |
 
 ## About This Role
 
-This devops engineer position at Smiths Group was posted on 2026-06-04.
+This devops engineer position at Smiths Group was posted on 2026-07-07.
 
 ## Get Real-Time Alerts
 

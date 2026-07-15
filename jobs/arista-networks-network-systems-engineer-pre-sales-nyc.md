@@ -5,12 +5,12 @@
 | Company | [Arista Networks](https://scoutify.ai/companies/aristanetworks?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | New York City, New York, United States |
 | Category | Sales Engineer |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AristaNetworks/744000111426215-network-systems-engineer-pre-sales-nyc) |
+| Posted | 2026-07-07 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AristaNetworks/744000136327632-network-systems-engineer-pre-sales-nyc) |
 
 ## About This Role
 
-This sales engineer position at Arista Networks was posted on 2026-02-25.
+This sales engineer position at Arista Networks was posted on 2026-07-07.
 
 ## Get Real-Time Alerts
 

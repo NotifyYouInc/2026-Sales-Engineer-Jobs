@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Lonza Group](https://scoutify.ai/companies/lonza-group?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Suzhou, Jiangsu, China |
-| Category | Customer Success |
-| Posted | 2026-04-01 |
-| Apply | [View on company site](https://lonza.wd3.myworkdayjobs.com/lonza_careers/job/CN---Suzhou/Customer-Solutions-Specialist_R75081) |
+| Location | Gurugram, Haryana, India |
+| Category | Sales Engineer |
+| Posted | 2026-07-07 |
+| Apply | [View on company site](https://lonza.wd3.myworkdayjobs.com/lonza_careers/job/IN---Gurugram/Customer-Solutions-Specialist_R77439) |
 
 ## About This Role
 
-This customer success position at Lonza Group was posted on 2026-04-01.
+This sales engineer position at Lonza Group was posted on 2026-07-07.
 
 ## Get Real-Time Alerts
 

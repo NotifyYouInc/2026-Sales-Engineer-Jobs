@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Tractian](https://scoutify.ai/companies/tractian?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Los Angeles, California, United States |
+| Location | Atlanta, Georgia, United States |
 | Category | Sales Engineer |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://jobs.lever.co/tractian/71e039d4-20d7-4f66-b88e-ac1a2b2e9cb0) |
+| Posted | 2025-11-04 |
+| Apply | [View on company site](https://jobs.lever.co/tractian/19a60bea-d3eb-4d0f-90ba-9b05269578e4) |
 
 ## About This Role
 
-This sales engineer position at Tractian was posted on 2026-03-24.
+This sales engineer position at Tractian was posted on 2025-11-04.
 
 ## Get Real-Time Alerts
 

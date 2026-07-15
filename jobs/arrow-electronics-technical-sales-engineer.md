@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Arrow Electronics](https://scoutify.ai/companies/arrow-electronics?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Harlow, England, United Kingdom |
+| Location | Warsaw, Mazovia, Poland |
 | Category | Sales Engineer |
-| Posted | 2026-06-18 |
-| Apply | [View on company site](https://arrow.wd1.myworkdayjobs.com/ac/job/UK-United-Kingdom---Remote/Technical-Sales-Engineer_R241389) |
+| Posted | 2026-07-07 |
+| Apply | [View on company site](https://arrow.wd1.myworkdayjobs.com/ac/job/PL-Warsaw-Poland-Krakowiakw/Technical-Sales-Engineer_R242711) |
 
 ## About This Role
 
-This sales engineer position at Arrow Electronics was posted on 2026-06-18.
+This sales engineer position at Arrow Electronics was posted on 2026-07-07.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Snowflake](https://scoutify.ai/companies/snowflake?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Paris, Île-de-France, France |
+| Location | London, England, United Kingdom |
 | Category | Sales Engineer |
-| Posted | 2026-06-30 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/snowflake/d9ae9dc7-9f7b-40fe-839d-3448bb0ecc53) |
+| Posted | 2026-07-07 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/snowflake/3d531953-3b57-4aa5-8cb8-dc0e1ef299d0) |
 
 ## About This Role
 
-This sales engineer position at Snowflake was posted on 2026-06-30.
+This sales engineer position at Snowflake was posted on 2026-07-07.
 
 ## Get Real-Time Alerts
 

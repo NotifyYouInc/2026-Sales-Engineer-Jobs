@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Marsh & McLennan Companies](https://scoutify.ai/companies/marsh-mclennan?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Warsaw, Mazovia, Poland |
-| Category | Customer Success |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://mmc.wd1.myworkdayjobs.com/MMC/job/Warsaw---Jerozolimskie/Client-Solutions-Specialist_R_338857) |
+| Category | Sales Engineer |
+| Posted | 2026-07-07 |
+| Apply | [View on company site](https://mmc.wd1.myworkdayjobs.com/MMC/job/Warsaw---Jerozolimskie/Senior-Client-Solutions-Specialist--English-speaker-_R_330786) |
 
 ## About This Role
 
-This customer success position at Marsh & McLennan Companies was posted on 2026-05-11.
+This sales engineer position at Marsh & McLennan Companies was posted on 2026-07-07.
 
 ## Get Real-Time Alerts
 

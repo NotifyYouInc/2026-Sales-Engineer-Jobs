@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Ciena](https://scoutify.ai/companies/ciena?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Not specified |
+| Location | Indonesia |
 | Category | Sales Engineer |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://ciena.wd5.myworkdayjobs.com/Careers/job/Remote-US-GA/Senior-Sales-Engineer_R029421) |
+| Posted | 2026-07-08 |
+| Apply | [View on company site](https://ciena.wd5.myworkdayjobs.com/Careers/job/Remote-Indonesia/Senior-Sales-Engineer_R031252) |
 
 ## About This Role
 
-This sales engineer position at Ciena was posted on 2026-03-06.
+This sales engineer position at Ciena was posted on 2026-07-08.
 
 ## Get Real-Time Alerts
 

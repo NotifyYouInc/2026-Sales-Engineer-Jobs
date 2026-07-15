@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Salesforce](https://scoutify.ai/companies/salesforce?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Mumbai, Maharashtra, India |
+| Location | Milan, Lombardy, Italy |
 | Category | Sales Engineer |
-| Posted | 2026-06-26 |
-| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Mumbai/Lead-Account-Solution-Engineer_JR349251) |
+| Posted | 2026-07-07 |
+| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Italy---Milan/Lead-Account-Solution-Engineer_JR350768) |
 
 ## About This Role
 
-This sales engineer position at Salesforce was posted on 2026-06-26.
+This sales engineer position at Salesforce was posted on 2026-07-07.
 
 ## Get Real-Time Alerts
 
