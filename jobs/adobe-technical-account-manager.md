@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Adobe](https://scoutify.ai/companies/adobe-inc?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | 4 locations |
-| Category | Customer Success |
-| Posted | 2026-06-03 |
-| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Chicago/Technical-Account-Manager_R169360) |
+| Location | Sydney, New South Wales, Australia |
+| Category | Sales Engineer |
+| Posted | 2026-07-09 |
+| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Sydney/Technical-Account-Manager_R170243) |
 
 ## About This Role
 
-This customer success position at Adobe was posted on 2026-06-03.
+This sales engineer position at Adobe was posted on 2026-07-09.
 
 ## Get Real-Time Alerts
 

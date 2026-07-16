@@ -1,16 +1,16 @@
-# FEP Customer Engineer II at Applied Materials
+# FEP Customer Engineer  II at Applied Materials
 
 | Field | Details |
 |-------|---------|
 | Company | [Applied Materials](https://scoutify.ai/companies/applied-materials?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Kumamoto, Kumamoto, Japan |
-| Category | Marketing |
-| Posted | 2026-06-15 |
-| Apply | [View on company site](https://amat.wd1.myworkdayjobs.com/External/job/KumamotoJPN/FEP-Customer-Engineer-II_R2621990) |
+| Location | Ōita, Oita, Japan |
+| Category | Sales Engineer |
+| Posted | 2026-07-09 |
+| Apply | [View on company site](https://amat.wd1.myworkdayjobs.com/External/job/OitaJPN/FEP-Customer-Engineer--II_R2623424) |
 
 ## About This Role
 
-This marketing position at Applied Materials was posted on 2026-06-15.
+This sales engineer position at Applied Materials was posted on 2026-07-09.
 
 ## Get Real-Time Alerts
 

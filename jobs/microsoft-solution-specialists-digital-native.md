@@ -5,12 +5,12 @@
 | Company | [Microsoft](https://scoutify.ai/companies/microsoft?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Beijing, Beijing, China |
 | Category | Sales Engineer |
-| Posted | 2026-05-07 |
-| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556751648) |
+| Posted | 2026-07-08 |
+| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556926094) |
 
 ## About This Role
 
-This sales engineer position at Microsoft was posted on 2026-05-07.
+This sales engineer position at Microsoft was posted on 2026-07-08.
 
 ## Get Real-Time Alerts
 

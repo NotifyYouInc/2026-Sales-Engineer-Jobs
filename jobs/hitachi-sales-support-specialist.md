@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Hitachi](https://scoutify.ai/companies/hitachi?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Chennai, Tamil Nadu, India |
-| Category | Customer Success |
-| Posted | 2026-02-09 |
-| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Chennai-Tamil-Nadu-India/Sales-Support-Specialist_R0119970) |
+| Category | Sales Engineer |
+| Posted | 2026-07-08 |
+| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Chennai-Tamil-Nadu-India/Sales-Support-Specialist_R0136332) |
 
 ## About This Role
 
-This customer success position at Hitachi was posted on 2026-02-09.
+This sales engineer position at Hitachi was posted on 2026-07-08.
 
 ## Get Real-Time Alerts
 

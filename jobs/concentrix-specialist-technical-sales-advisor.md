@@ -5,12 +5,12 @@
 | Company | [Concentrix](https://scoutify.ai/companies/concentrix?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
 | Category | Sales Engineer |
-| Posted | 2026-06-29 |
-| Apply | [View on company site](https://cnx.wd1.myworkdayjobs.com/external_global/job/MYS-Kuala-Lumpur---Sunway-VISIO-TowerLevel-8-Menara-Sunway-VISIO/Specialist--Technical-Sales--Advisor-_R1735196-1) |
+| Posted | 2026-07-09 |
+| Apply | [View on company site](https://cnx.wd1.myworkdayjobs.com/external_global/job/MYS-KL-Sentral---NU-Tower-2-Level-21-30-31-38--40/Specialist--Technical-Sales--Advisor-_R1743190) |
 
 ## About This Role
 
-This sales engineer position at Concentrix was posted on 2026-06-29.
+This sales engineer position at Concentrix was posted on 2026-07-09.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Hewlett Packard Enterprise](https://scoutify.ai/companies/hewlett-packard-enterprise?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | 2 locations |
-| Category | Business Development |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/Berlin-Berlin-Germany/HPE-Networking-Presales-Consultant--f-m-d-_1201220) |
+| Location | Wallisellen, Zurich, Switzerland |
+| Category | Sales Engineer |
+| Posted | 2026-07-08 |
+| Apply | [View on company site](https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/Wallisellen-Zurich-Switzerland/HPE-Networking-Presales-Consultant--f-m-d-_1208888) |
 
 ## About This Role
 
-This business development position at Hewlett Packard Enterprise was posted on 2026-02-17.
+This sales engineer position at Hewlett Packard Enterprise was posted on 2026-07-08.
 
 ## Get Real-Time Alerts
 

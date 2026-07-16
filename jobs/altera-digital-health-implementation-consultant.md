@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Altera Digital Health](https://scoutify.ai/companies/alteradigitalhealth?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | North Carolina, US |
-| Category | Customer Success |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://harriscomputer.wd3.myworkdayjobs.com/Altera/job/North-Carolina-United-States/Implementation-Consultant_R0043676) |
+| Location | Alberta, CA |
+| Category | Sales Engineer |
+| Posted | 2026-07-08 |
+| Apply | [View on company site](https://harriscomputer.wd3.myworkdayjobs.com/Altera/job/Ontario-Canada/Implementation-Consultant_R0041006) |
 
 ## About This Role
 
-This customer success position at Altera Digital Health was posted on 2026-05-11.
+This sales engineer position at Altera Digital Health was posted on 2026-07-08.
 
 ## Get Real-Time Alerts
 

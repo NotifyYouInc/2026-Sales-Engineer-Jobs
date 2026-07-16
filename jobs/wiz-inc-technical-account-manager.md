@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wiz, Inc.](https://scoutify.ai/companies/wiz-inc?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | London, England, United Kingdom |
-| Category | Customer Success |
-| Posted | 2026-06-02 |
-| Apply | [View on company site](https://www.wiz.io/careers/job/4626195006/:title?gh_jid=4626195006) |
+| Location | Singapore |
+| Category | Sales Engineer |
+| Posted | 2026-07-09 |
+| Apply | [View on company site](https://www.wiz.io/careers/job/4694458006/:title?gh_jid=4694458006) |
 
 ## About This Role
 
-This customer success position at Wiz, Inc. was posted on 2026-06-02.
+This sales engineer position at Wiz, Inc. was posted on 2026-07-09.
 
 ## Get Real-Time Alerts
 

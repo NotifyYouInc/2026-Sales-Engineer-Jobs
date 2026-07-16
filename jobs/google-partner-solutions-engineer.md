@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Technical & Solutions Architect |
-| Posted | 2026-05-15 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckVbFPYysUg_ZoA11TrhAGWGHpEpQge3k6Dmhi02H_YbSEjsACxwdTJ6wiGKYkgyWyG5qs65az0AHg7AWEjaEEaAGBaF3JGpXLsNiMb0z5voDS7G_udqrURYRefj87Q%3D%3D_V2&loc=IN&title=Partner+Solutions+Engineer) |
+| Category | Sales Engineer |
+| Posted | 2026-07-08 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckfuZ5FnOazTET0W_4xQDqQAXaTnZCb5FP7EraU0tlzv9EjsA1Ny_i7WRVeYrpPApFvQmyCZAc3i6edu7TZ4ga7Yeh8k_xaJHqzOYaxbmf4VPVaEuf35tOIGEd-x5Wg%3D%3D_V2&loc=IN&title=Partner+Solutions+Engineer) |
 
 ## About This Role
 
-This technical & solutions architect position at Google was posted on 2026-05-15.
+This sales engineer position at Google was posted on 2026-07-08.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | New York City, New York, United States |
-| Category | Digital / Performance Marketing |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10408023/programmatic-solutions-consultant-amazon-ads) |
+| Category | Sales Engineer |
+| Posted | 2026-07-09 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10469732/programmatic-solutions-consultant-amazon-ads) |
 
 ## About This Role
 
-This digital / performance marketing position at Amazon was posted on 2026-04-30.
+This sales engineer position at Amazon was posted on 2026-07-09.
 
 ## Get Real-Time Alerts
 

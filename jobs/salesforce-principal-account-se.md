@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Salesforce](https://scoutify.ai/companies/salesforce?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Mexico City, Mexico City, Mexico |
+| Location | Copenhagen, Capital Region, Denmark |
 | Category | Sales Engineer |
-| Posted | 2026-06-08 |
-| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Mexico---Mexico-City/Principal--Account-SE_JR343843) |
+| Posted | 2026-07-09 |
+| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Denmark---Copenhagen/Principal--Account-SE_JR350982) |
 
 ## About This Role
 
-This sales engineer position at Salesforce was posted on 2026-06-08.
+This sales engineer position at Salesforce was posted on 2026-07-09.
 
 ## Get Real-Time Alerts
 

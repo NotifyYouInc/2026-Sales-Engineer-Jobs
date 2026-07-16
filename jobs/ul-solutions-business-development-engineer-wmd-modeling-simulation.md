@@ -1,0 +1,22 @@
+# Business Development Engineer (w/m/d) - Modeling & Simulation at UL Solutions
+
+| Field | Details |
+|-------|---------|
+| Company | [UL Solutions](https://scoutify.ai/companies/ocs-cx-oj109581?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
+| Location | Neu-Isenburg, Hesse, Germany |
+| Category | Software Engineer |
+| Posted | 2026-05-20 |
+| Apply | [View on company site](https://fa-eups-saasfaprod1.fa.ocs.oraclecloud.com/jobs/#9452) |
+
+## About This Role
+
+This software engineer position at UL Solutions was posted on 2026-05-20.
+
+## Get Real-Time Alerts
+
+This job was posted 7+ days ago. For instant alerts on new jobs like this:
+
+**[Get Instant Job Alerts on Scoutify](https://scoutify.ai?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs)** - Be first to apply at 8,800+ companies.
+
+---
+*Data sourced from [Scoutify](https://scoutify.ai) | Updated daily*

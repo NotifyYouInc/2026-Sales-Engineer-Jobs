@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Pearce Services](https://scoutify.ai/companies/pearce-services?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Columbus, Ohio, United States |
-| Category | Electrical / Hardware Engineer |
-| Posted | 2026-05-15 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/pearceservices/jobs/5222681008) |
+| Location | Richmond, Virginia, United States |
+| Category | Sales Engineer |
+| Posted | 2026-07-08 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/pearceservices/jobs/5309406008) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Pearce Services was posted on 2026-05-15.
+This sales engineer position at Pearce Services was posted on 2026-07-08.
 
 ## Get Real-Time Alerts
 

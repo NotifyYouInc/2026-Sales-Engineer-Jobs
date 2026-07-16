@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [RF-SMART](https://scoutify.ai/companies/rf-smart?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | United States |
-| Category | Customer Success |
-| Posted | 2026-05-15 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/rfsmart/jobs/5190180008) |
+| Location | United Kingdom |
+| Category | Sales Engineer |
+| Posted | 2026-07-08 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/rfsmart/jobs/5290179008) |
 
 ## About This Role
 
-This customer success position at RF-SMART was posted on 2026-05-15.
+This sales engineer position at RF-SMART was posted on 2026-07-08.
 
 ## Get Real-Time Alerts
 

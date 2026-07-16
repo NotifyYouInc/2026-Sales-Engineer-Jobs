@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Thomson Reuters](https://scoutify.ai/companies/thomson-reuters?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Bengaluru, Karnataka, India |
-| Category | Implementation / Professional Services |
-| Posted | 2026-03-20 |
-| Apply | [View on company site](https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/India-Bengaluru-Karnataka/Implementation-Consultant--ERP_JREQ199018) |
+| Location | Mexico City, Mexico City, Mexico |
+| Category | Sales Engineer |
+| Posted | 2026-07-08 |
+| Apply | [View on company site](https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/Mexico-Mexico-City/Implementation-Consultant--ERP_JREQ201341) |
 
 ## About This Role
 
-This implementation / professional services position at Thomson Reuters was posted on 2026-03-20.
+This sales engineer position at Thomson Reuters was posted on 2026-07-08.
 
 ## Get Real-Time Alerts
 

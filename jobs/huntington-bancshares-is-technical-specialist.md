@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Huntington Bancshares](https://scoutify.ai/companies/huntington?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Columbus, Ohio, United States |
-| Category | Data Engineer |
-| Posted | 2026-06-15 |
-| Apply | [View on company site](https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Columbus-OH/IS-Technical-Specialist_R0073205) |
+| Location | Virginia, US |
+| Category | Sales Engineer |
+| Posted | 2026-07-09 |
+| Apply | [View on company site](https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Virginia/IS-Technical-Specialist_R0072998) |
 
 ## About This Role
 
-This data engineer position at Huntington Bancshares was posted on 2026-06-15.
+This sales engineer position at Huntington Bancshares was posted on 2026-07-09.
 
 ## Get Real-Time Alerts
 

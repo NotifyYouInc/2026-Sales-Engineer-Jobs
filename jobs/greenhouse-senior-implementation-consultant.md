@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Greenhouse](https://scoutify.ai/companies/greenhouse?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | United States |
-| Category | Customer Success |
-| Posted | 2026-04-02 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/greenhouse/jobs/7767657?gh_jid=7767657) |
+| Category | Sales Engineer |
+| Posted | 2026-07-08 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/greenhouse/jobs/8038270?gh_jid=8038270) |
 
 ## About This Role
 
-This customer success position at Greenhouse was posted on 2026-04-02.
+This sales engineer position at Greenhouse was posted on 2026-07-08.
 
 ## Get Real-Time Alerts
 

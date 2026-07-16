@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Kone](https://scoutify.ai/companies/kone?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Shanghai, Shanghai, China |
+| Location | Guangzhou, Guangdong, China |
 | Category | Sales Engineer |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://kone.wd3.myworkdayjobs.com/careers/job/Shanghai-FL-HQ/Modernization-Sales-Support-Engineer_R0660396) |
+| Posted | 2026-07-09 |
+| Apply | [View on company site](https://kone.wd3.myworkdayjobs.com/careers/job/Guangzhou/Modernization-Sales-Support-Engineer_R0662445) |
 
 ## About This Role
 
-This sales engineer position at Kone was posted on 2026-05-11.
+This sales engineer position at Kone was posted on 2026-07-09.
 
 ## Get Real-Time Alerts
 
