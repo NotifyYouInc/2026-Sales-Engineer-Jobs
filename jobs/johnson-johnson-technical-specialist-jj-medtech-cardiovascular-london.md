@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Johnson & Johnson](https://scoutify.ai/companies/johnson-johnson?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Wokingham, England, United Kingdom |
-| Category | Account Manager |
-| Posted | 2026-03-30 |
-| Apply | [View on company site](https://jj.wd5.myworkdayjobs.com/JJ/job/Wokingham-Berkshire-United-Kingdom/Technical-Specialist---J-J-MedTech---Cardiovascular---London_R-064889) |
+| Location | 2 locations |
+| Category | Sales Engineer |
+| Posted | 2026-07-09 |
+| Apply | [View on company site](https://jj.wd5.myworkdayjobs.com/JJ/job/Wokingham-Berkshire-United-Kingdom/Technical-Specialist---J-J-MedTech---Cardiovascular---London_R-086866) |
 
 ## About This Role
 
-This account manager position at Johnson & Johnson was posted on 2026-03-30.
+This sales engineer position at Johnson & Johnson was posted on 2026-07-09.
 
 ## Get Real-Time Alerts
 

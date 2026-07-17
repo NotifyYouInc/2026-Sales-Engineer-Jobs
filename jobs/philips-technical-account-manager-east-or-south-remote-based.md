@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Philips](https://scoutify.ai/companies/philips?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Cambridge, Massachusetts, United States |
-| Category | Customer Success |
-| Posted | 2026-04-12 |
-| Apply | [View on company site](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/United-States-of-America---Remote-Based-United-States/Technical-Account-Manager---East-or-South--Remote-Based-_576288) |
+| Category | Sales Engineer |
+| Posted | 2026-07-09 |
+| Apply | [View on company site](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/United-States-of-America---Remote-Based-United-States/Technical-Account-Manager---East-or-South--Remote-Based-_581659) |
 
 ## About This Role
 
-This customer success position at Philips was posted on 2026-04-12.
+This sales engineer position at Philips was posted on 2026-07-09.
 
 ## Get Real-Time Alerts
 

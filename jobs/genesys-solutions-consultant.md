@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Genesys](https://scoutify.ai/companies/genesys?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Greece |
-| Category | Implementation / Professional Services |
-| Posted | 2026-06-04 |
-| Apply | [View on company site](https://genesys.wd1.myworkdayjobs.com/Genesys/job/Greece/Solutions-Consultant_JR111006) |
+| Location | São Paulo, São Paulo, Brazil |
+| Category | Sales Engineer |
+| Posted | 2026-07-08 |
+| Apply | [View on company site](https://genesys.wd1.myworkdayjobs.com/Genesys/job/Sao-Paulo-Brazil/Senior-Solution-Consultant---Solution-Consultant_JR108245-1) |
 
 ## About This Role
 
-This implementation / professional services position at Genesys was posted on 2026-06-04.
+This sales engineer position at Genesys was posted on 2026-07-08.
 
 ## Get Real-Time Alerts
 

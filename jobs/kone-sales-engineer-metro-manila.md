@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Kone](https://scoutify.ai/companies/kone?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Makati City, National Capital Region, Philippines |
-| Category | Account Executive |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://kone.wd3.myworkdayjobs.com/careers/job/Makati-City/Sales-Engineer---Metro-Manila_R0658945) |
+| Category | Sales Engineer |
+| Posted | 2026-07-10 |
+| Apply | [View on company site](https://kone.wd3.myworkdayjobs.com/careers/job/Makati-City/Sales-Engineer---Metro-Manila_R0660727) |
 
 ## About This Role
 
-This account executive position at Kone was posted on 2026-03-25.
+This sales engineer position at Kone was posted on 2026-07-10.
 
 ## Get Real-Time Alerts
 

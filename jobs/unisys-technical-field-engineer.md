@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Unisys](https://scoutify.ai/companies/unisys?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Brisbane, Queensland, Australia |
-| Category | Customer Success |
-| Posted | 2026-06-02 |
-| Apply | [View on company site](https://unisys.wd5.myworkdayjobs.com/External/job/Brisbane-QLD-Australia/Technical-Field-Engineer_REQ573465) |
+| Location | Wagga Wagga, New South Wales, Australia |
+| Category | Sales Engineer |
+| Posted | 2026-07-10 |
+| Apply | [View on company site](https://unisys.wd5.myworkdayjobs.com/External/job/Wagga-Wagga-NSW-Australia/Technical-Field-Engineer_REQ574394) |
 
 ## About This Role
 
-This customer success position at Unisys was posted on 2026-06-02.
+This sales engineer position at Unisys was posted on 2026-07-10.
 
 ## Get Real-Time Alerts
 

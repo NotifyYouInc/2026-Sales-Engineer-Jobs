@@ -1,16 +1,16 @@
-# Field Engineer  at Wayve
+# Field Engineer at Wayve
 
 | Field | Details |
 |-------|---------|
 | Company | [Wayve](https://scoutify.ai/companies/wayve?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | 2 locations |
-| Category | Customer Success |
-| Posted | 2026-03-26 |
-| Apply | [View on company site](https://wayve.firststage.co/jobs?gh_jid=8467521002) |
+| Location | Detroit, Michigan, United States |
+| Category | Sales Engineer |
+| Posted | 2026-07-09 |
+| Apply | [View on company site](https://wayve.firststage.co/jobs?gh_jid=8626880002) |
 
 ## About This Role
 
-This customer success position at Wayve was posted on 2026-03-26.
+This sales engineer position at Wayve was posted on 2026-07-09.
 
 ## Get Real-Time Alerts
 

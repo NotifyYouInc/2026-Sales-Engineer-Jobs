@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cognex](https://scoutify.ai/companies/cognex?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Shenzhen, Guangdong, China |
+| Location | Dallas, Texas, United States |
 | Category | Sales Engineer |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://cognex.wd1.myworkdayjobs.com/External_Career_Site/job/Shenzhen-China/Project-Solutions-Engineer_R0011734) |
+| Posted | 2026-07-09 |
+| Apply | [View on company site](https://cognex.wd1.myworkdayjobs.com/External_Career_Site/job/Dallas-Texas/Project-Solutions-Engineer_R0012178) |
 
 ## About This Role
 
-This sales engineer position at Cognex was posted on 2026-03-10.
+This sales engineer position at Cognex was posted on 2026-07-09.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [WISE](https://scoutify.ai/companies/wise?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | São Paulo, São Paulo, Brazil |
 | Category | Sales Engineer |
-| Posted | 2026-06-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000133623361-senior-presales-consultant) |
+| Posted | 2026-07-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000136902720-senior-presales-consultant) |
 
 ## About This Role
 
-This sales engineer position at WISE was posted on 2026-06-23.
+This sales engineer position at WISE was posted on 2026-07-09.
 
 ## Get Real-Time Alerts
 

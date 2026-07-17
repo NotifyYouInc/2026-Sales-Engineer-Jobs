@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ABB](https://scoutify.ai/companies/abb?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Karnataka, IN |
-| Category | Customer Success |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Bangalore-Karnataka-India/Technical-Specialist_JR00021678) |
+| Location | San Luis Potosí, San Luis Potosí, Mexico |
+| Category | Sales Engineer |
+| Posted | 2026-07-09 |
+| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/San-Luis-Potosi-San-Luis-Potos-Mexico/Technical-Specialist_JR00039942-1) |
 
 ## About This Role
 
-This customer success position at ABB was posted on 2026-04-14.
+This sales engineer position at ABB was posted on 2026-07-09.
 
 ## Get Real-Time Alerts
 

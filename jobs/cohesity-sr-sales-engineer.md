@@ -1,16 +1,16 @@
-# Sr. Sales Engineer at Cohesity
+# Sr Sales Engineer at Cohesity
 
 | Field | Details |
 |-------|---------|
 | Company | [Cohesity](https://scoutify.ai/companies/cohesity?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | 4 locations |
+| Location | Kansas, US |
 | Category | Sales Engineer |
-| Posted | 2026-07-02 |
-| Apply | [View on company site](https://cohesity.wd5.myworkdayjobs.com/Cohesity_Careers/job/Austin-Metro-Area---Texas---USA-Remote/Sr-Sales-Engineer_R04118) |
+| Posted | 2026-07-09 |
+| Apply | [View on company site](https://cohesity.wd5.myworkdayjobs.com/Cohesity_Careers/job/USA---Kansas---Remote/Sr-Sales-Engineer_R04052-1) |
 
 ## About This Role
 
-This sales engineer position at Cohesity was posted on 2026-07-02.
+This sales engineer position at Cohesity was posted on 2026-07-09.
 
 ## Get Real-Time Alerts
 

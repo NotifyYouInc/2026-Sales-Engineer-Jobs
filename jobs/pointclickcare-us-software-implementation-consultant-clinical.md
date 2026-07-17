@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Pointclickcare](https://scoutify.ai/companies/pointclickcare?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | United States |
-| Category | Customer Success |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://jobs.lever.co/pointclickcare/264e2c0a-82c0-49dd-8c8d-44a183a8f97e) |
+| Category | Sales Engineer |
+| Posted | 2026-07-09 |
+| Apply | [View on company site](https://jobs.lever.co/pointclickcare/e6fd28a0-e062-499d-8004-ea3280e62f4e) |
 
 ## About This Role
 
-This customer success position at Pointclickcare was posted on 2026-04-21.
+This sales engineer position at Pointclickcare was posted on 2026-07-09.
 
 ## Get Real-Time Alerts
 

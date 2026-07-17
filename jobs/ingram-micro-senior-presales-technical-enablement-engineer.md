@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Ingram Micro](https://scoutify.ai/companies/ingram-micro?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Madrid, Madrid, Spain |
+| Location | Paço de Arcos, Lisbon, Portugal |
 | Category | Sales Engineer |
-| Posted | 2026-06-10 |
-| Apply | [View on company site](https://ingrammicro.wd5.myworkdayjobs.com/ingrammicro/job/Madrid-Spain/Senior-Presales-Technical-Enablement-Engineer_R-115878) |
+| Posted | 2026-07-09 |
+| Apply | [View on company site](https://ingrammicro.wd5.myworkdayjobs.com/ingrammicro/job/Pao-de-Arcos-Portugal/Senior-Presales-Technical-Enablement-Engineer_R-116221) |
 
 ## About This Role
 
-This sales engineer position at Ingram Micro was posted on 2026-06-10.
+This sales engineer position at Ingram Micro was posted on 2026-07-09.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Trend Micro](https://scoutify.ai/companies/trendmicro?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Mumbai, Maharashtra, India |
 | Category | Sales Engineer |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://trendmicro.wd3.myworkdayjobs.com/External/job/Mumbai/Solutions-Engineer--West_R0009259) |
+| Posted | 2026-07-09 |
+| Apply | [View on company site](https://trendmicro.wd3.myworkdayjobs.com/External/job/Mumbai/Solutions-Engineer--West_R0009933) |
 
 ## About This Role
 
-This sales engineer position at Trend Micro was posted on 2026-03-09.
+This sales engineer position at Trend Micro was posted on 2026-07-09.
 
 ## Get Real-Time Alerts
 

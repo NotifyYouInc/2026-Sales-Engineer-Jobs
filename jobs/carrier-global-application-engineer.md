@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Carrier Global](https://scoutify.ai/companies/carrier?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Dubai, Dubai, United Arab Emirates |
-| Category | Sales Engineer |
-| Posted | 2026-06-24 |
-| Apply | [View on company site](https://carrier.wd5.myworkdayjobs.com/jobs/job/UTS-Carrier-Palladium-building-2nd-floor-Al-Quoz-Dubai-UAE/Application-Engineer_30208616) |
+| Location | Abu Dhabi, Abu Dhabi, United Arab Emirates |
+| Category | Software Engineer |
+| Posted | 2026-07-09 |
+| Apply | [View on company site](https://carrier.wd5.myworkdayjobs.com/jobs/job/Abu-Dhabi-United-Arab-Emirates/Application-Engineer_30212519) |
 
 ## About This Role
 
-This sales engineer position at Carrier Global was posted on 2026-06-24.
+This software engineer position at Carrier Global was posted on 2026-07-09.
 
 ## Get Real-Time Alerts
 

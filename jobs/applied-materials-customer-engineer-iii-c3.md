@@ -1,16 +1,16 @@
-# Customer Engineer III (C3) at Applied Materials
+# Customer Engineer III - (C3) at Applied Materials
 
 | Field | Details |
 |-------|---------|
 | Company | [Applied Materials](https://scoutify.ai/companies/applied-materials?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Missouri, US |
-| Category | Customer Success |
-| Posted | 2026-05-27 |
-| Apply | [View on company site](https://amat.wd1.myworkdayjobs.com/External/job/St-PetersMO/Customer-Engineer-III--C3-_R2620500) |
+| Location | Shanghai, Shanghai, China |
+| Category | Sales Engineer |
+| Posted | 2026-07-10 |
+| Apply | [View on company site](https://amat.wd1.myworkdayjobs.com/External/job/ShanghaiCHN/Customer-Engineer-III----C3-_R2623373) |
 
 ## About This Role
 
-This customer success position at Applied Materials was posted on 2026-05-27.
+This sales engineer position at Applied Materials was posted on 2026-07-10.
 
 ## Get Real-Time Alerts
 

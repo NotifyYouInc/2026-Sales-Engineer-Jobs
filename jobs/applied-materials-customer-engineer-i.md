@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Applied Materials](https://scoutify.ai/companies/applied-materials?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | 2 locations |
-| Category | Marketing |
-| Posted | 2026-05-09 |
-| Apply | [View on company site](https://amat.wd1.myworkdayjobs.com/External/job/DalianCHN/Customer-Engineer-I_R2619405) |
+| Location | Guangzhou, Guangdong, China |
+| Category | Sales Engineer |
+| Posted | 2026-07-10 |
+| Apply | [View on company site](https://amat.wd1.myworkdayjobs.com/External/job/GuangzhouCHN/Customer-Engineer-I_R2615333) |
 
 ## About This Role
 
-This marketing position at Applied Materials was posted on 2026-05-09.
+This sales engineer position at Applied Materials was posted on 2026-07-10.
 
 ## Get Real-Time Alerts
 

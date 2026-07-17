@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Kone](https://scoutify.ai/companies/kone?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Abu Dhabi, Abu Dhabi, United Arab Emirates |
+| Location | Singapore, Singapore |
 | Category | Sales Engineer |
-| Posted | 2026-06-16 |
-| Apply | [View on company site](https://kone.wd3.myworkdayjobs.com/careers/job/Abu-Dhabi/Service-Sales-Engineer_R0661504) |
+| Posted | 2026-07-10 |
+| Apply | [View on company site](https://kone.wd3.myworkdayjobs.com/careers/job/Singapore/Service-Sales-Engineer_R0662520) |
 
 ## About This Role
 
-This sales engineer position at Kone was posted on 2026-06-16.
+This sales engineer position at Kone was posted on 2026-07-10.
 
 ## Get Real-Time Alerts
 

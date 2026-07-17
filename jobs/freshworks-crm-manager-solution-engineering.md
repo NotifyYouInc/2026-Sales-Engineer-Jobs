@@ -1,16 +1,16 @@
-# Manager - Solution Engineering  at Freshworks CRM
+# Manager - Solution Engineering at Freshworks CRM
 
 | Field | Details |
 |-------|---------|
 | Company | [Freshworks CRM](https://scoutify.ai/companies/freshworkscrm?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Berlin, State of Berlin, Germany |
+| Location | Bengaluru, Karnataka, India |
 | Category | Sales Engineer |
-| Posted | 2026-07-01 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Freshworks/744000135229652-manager-solution-engineering) |
+| Posted | 2026-07-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Freshworks/744000136768822-manager-solution-engineering) |
 
 ## About This Role
 
-This sales engineer position at Freshworks CRM was posted on 2026-07-01.
+This sales engineer position at Freshworks CRM was posted on 2026-07-09.
 
 ## Get Real-Time Alerts
 

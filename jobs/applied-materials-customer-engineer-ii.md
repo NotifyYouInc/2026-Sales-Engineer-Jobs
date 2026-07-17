@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Applied Materials](https://scoutify.ai/companies/applied-materials?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Chitose, Hokkaido, Japan |
-| Category | Customer Success |
-| Posted | 2026-04-02 |
-| Apply | [View on company site](https://amat.wd1.myworkdayjobs.com/External/job/ChitoseJPN/Customer-Engineer-II_R2616656) |
+| Location | Shenzhen, Guangdong, China |
+| Category | Sales Engineer |
+| Posted | 2026-07-10 |
+| Apply | [View on company site](https://amat.wd1.myworkdayjobs.com/External/job/ShenzhenCHN/Customer-Engineer-II_R2623683) |
 
 ## About This Role
 
-This customer success position at Applied Materials was posted on 2026-04-02.
+This sales engineer position at Applied Materials was posted on 2026-07-10.
 
 ## Get Real-Time Alerts
 

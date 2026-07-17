@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Pointclickcare](https://scoutify.ai/companies/pointclickcare?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Mississauga, Ontario, Canada |
-| Category | Customer Success |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://jobs.lever.co/pointclickcare/e1e6551d-5de2-45c5-92fe-a32558fad250) |
+| Category | Sales Engineer |
+| Posted | 2026-07-09 |
+| Apply | [View on company site](https://jobs.lever.co/pointclickcare/6b7f5c7a-372b-4a4a-8187-b2c347157e14) |
 
 ## About This Role
 
-This customer success position at Pointclickcare was posted on 2026-04-21.
+This sales engineer position at Pointclickcare was posted on 2026-07-09.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Trend Micro](https://scoutify.ai/companies/trendmicro?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Bogotá, Bogota D.C., Colombia |
+| Location | Mexico City, Mexico City, Mexico |
 | Category | Sales Engineer |
-| Posted | 2026-06-30 |
-| Apply | [View on company site](https://trendmicro.wd3.myworkdayjobs.com/External/job/Bogota/Sales-Engineer_R0009882) |
+| Posted | 2026-07-08 |
+| Apply | [View on company site](https://trendmicro.wd3.myworkdayjobs.com/External/job/Mexico-City/Sales-Engineer_R0009926) |
 
 ## About This Role
 
-This sales engineer position at Trend Micro was posted on 2026-06-30.
+This sales engineer position at Trend Micro was posted on 2026-07-08.
 
 ## Get Real-Time Alerts
 

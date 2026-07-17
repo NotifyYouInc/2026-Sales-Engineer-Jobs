@@ -1,16 +1,16 @@
-# Senior Technical Consultant-Network Security Operations at Thinkahead
+# Senior Technical Consultant - Network Security Operations at Thinkahead
 
 | Field | Details |
 |-------|---------|
 | Company | [Thinkahead](https://scoutify.ai/companies/thinkahead?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | United States |
 | Category | SOC & Incident Response |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://jobs.lever.co/thinkahead/3aa254e7-17f3-4676-b808-32f66e1bf7fe) |
+| Posted | 2026-07-09 |
+| Apply | [View on company site](https://jobs.lever.co/thinkahead/872193b4-ebe8-4d56-8574-95178e95cfe6) |
 
 ## About This Role
 
-This soc & incident response position at Thinkahead was posted on 2026-03-02.
+This soc & incident response position at Thinkahead was posted on 2026-07-09.
 
 ## Get Real-Time Alerts
 

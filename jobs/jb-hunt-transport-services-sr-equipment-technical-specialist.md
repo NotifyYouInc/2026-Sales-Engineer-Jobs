@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [J.B. Hunt Transport Services](https://scoutify.ai/companies/j-b-hunt-transport-services?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Lowell, Massachusetts, United States |
-| Category | Customer Success |
-| Posted | 2026-05-12 |
-| Apply | [View on company site](https://jbhunt.wd501.myworkdayjobs.com/careers/job/Lowell-AR---S-Bloomington/Sr-Equipment-Technical-Specialist_00626711) |
+| Category | Sales Engineer |
+| Posted | 2026-07-10 |
+| Apply | [View on company site](https://jbhunt.wd501.myworkdayjobs.com/careers/job/Lowell-AR---Terminal/Sr-Equipment-Technical-Specialist_00633395) |
 
 ## About This Role
 
-This customer success position at J.B. Hunt Transport Services was posted on 2026-05-12.
+This sales engineer position at J.B. Hunt Transport Services was posted on 2026-07-10.
 
 ## Get Real-Time Alerts
 

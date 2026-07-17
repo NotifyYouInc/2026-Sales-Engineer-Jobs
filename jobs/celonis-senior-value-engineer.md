@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Celonis](https://scoutify.ai/companies/celonis?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | New York City, New York, United States |
-| Category | Customer Success |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/celonis/jobs/7742463003?gh_jid=7742463003) |
+| Location | Amsterdam, North Holland, The Netherlands |
+| Category | Sales Engineer |
+| Posted | 2026-07-10 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/celonis/jobs/7608430003?gh_jid=7608430003) |
 
 ## About This Role
 
-This customer success position at Celonis was posted on 2026-05-22.
+This sales engineer position at Celonis was posted on 2026-07-10.
 
 ## Get Real-Time Alerts
 
