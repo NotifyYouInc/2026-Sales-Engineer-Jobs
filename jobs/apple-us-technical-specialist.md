@@ -5,12 +5,12 @@
 | Company | [Apple](https://scoutify.ai/companies/apple?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Not specified |
 | Category | Sales Engineer |
-| Posted | 2026-07-08 |
-| Apply | [View on company site](https://jobs.apple.com/en-us/details/200671167/us-technical-specialist) |
+| Posted | 2026-07-10 |
+| Apply | [View on company site](https://jobs.apple.com/en-us/details/200671951/us-technical-specialist) |
 
 ## About This Role
 
-This sales engineer position at Apple was posted on 2026-07-08.
+This sales engineer position at Apple was posted on 2026-07-10.
 
 ## Get Real-Time Alerts
 

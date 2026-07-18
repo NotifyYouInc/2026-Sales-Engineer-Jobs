@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Trumpf](https://scoutify.ai/companies/trumpf?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Santa Clara, California, United States |
+| Location | Farmington, New Mexico, United States |
 | Category | Software Engineer |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://trumpf.wd3.myworkdayjobs.com/trumpf_graduates_and_professionals/job/Santa-Clara-CA/Application-Engineer_R00039975) |
+| Posted | 2026-07-11 |
+| Apply | [View on company site](https://trumpf.wd3.myworkdayjobs.com/trumpf_graduates_and_professionals/job/Farmington-CT/Application-Engineer_R00041517) |
 
 ## About This Role
 
-This software engineer position at Trumpf was posted on 2026-05-13.
+This software engineer position at Trumpf was posted on 2026-07-11.
 
 ## Get Real-Time Alerts
 

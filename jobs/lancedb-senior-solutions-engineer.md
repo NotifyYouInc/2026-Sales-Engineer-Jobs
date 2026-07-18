@@ -2,15 +2,15 @@
 
 | Field | Details |
 |-------|---------|
-| Company | [LanceDB](https://scoutify.ai/companies/lancedb-lancedb?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
+| Company | [LanceDB](https://scoutify.ai/companies/lancedb?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | San Francisco, California, United States |
-| Category | Technical & Solutions Architect |
-| Posted | 2025-11-10 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/lancedb/9591f012-7122-4e28-b19a-5dc66a7a126d) |
+| Category | Sales Engineer |
+| Posted | 2026-07-10 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/lancedb/90a7a3d6-4b9f-4501-92b5-7cef77c4f1c9) |
 
 ## About This Role
 
-This technical & solutions architect position at LanceDB was posted on 2025-11-10.
+This sales engineer position at LanceDB was posted on 2026-07-10.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Alcon](https://scoutify.ai/companies/alcon?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Fort Worth, Texas, United States |
 | Category | Sales Engineer |
-| Posted | 2026-03-21 |
-| Apply | [View on company site](https://alcon.wd5.myworkdayjobs.com/careers_alcon/job/Fort-Worth-Texas/Senior-Manager--Sales-Engineer---MARLO_R-2026-45384-1) |
+| Posted | 2026-07-10 |
+| Apply | [View on company site](https://alcon.wd5.myworkdayjobs.com/careers_alcon/job/Remote-US/Senior-Manager--Sales-Engineer---MARLO_R-2026-48362-1) |
 
 ## About This Role
 
-This sales engineer position at Alcon was posted on 2026-03-21.
+This sales engineer position at Alcon was posted on 2026-07-10.
 
 ## Get Real-Time Alerts
 

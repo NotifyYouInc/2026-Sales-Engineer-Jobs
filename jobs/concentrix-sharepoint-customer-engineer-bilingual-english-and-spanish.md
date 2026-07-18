@@ -5,12 +5,12 @@
 | Company | [Concentrix](https://scoutify.ai/companies/concentrix?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Costa Rica |
 | Category | Sales Engineer |
-| Posted | 2026-07-08 |
-| Apply | [View on company site](https://cnx.wd1.myworkdayjobs.com/external_global/job/MEX-Work-at-Home/Sharepoint-Customer-Engineer-Bilingual--English-and-Spanish-_R1745507) |
+| Posted | 2026-07-09 |
+| Apply | [View on company site](https://cnx.wd1.myworkdayjobs.com/external_global/job/CRI-Work-at-Home/Sharepoint-Customer-Engineer-Bilingual--English-and-Spanish-_R1745859) |
 
 ## About This Role
 
-This sales engineer position at Concentrix was posted on 2026-07-08.
+This sales engineer position at Concentrix was posted on 2026-07-09.
 
 ## Get Real-Time Alerts
 

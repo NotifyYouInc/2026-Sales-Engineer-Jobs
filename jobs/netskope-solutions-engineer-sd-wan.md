@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Netskope](https://scoutify.ai/companies/netskope?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Australia |
+| Location | Brazil |
 | Category | Sales Engineer |
-| Posted | 2026-07-06 |
-| Apply | [View on company site](https://www.netskope.com/company/careers/open-positions/?gh_jid=8045268) |
+| Posted | 2026-07-10 |
+| Apply | [View on company site](https://www.netskope.com/company/careers/open-positions/?gh_jid=8048841) |
 
 ## About This Role
 
-This sales engineer position at Netskope was posted on 2026-07-06.
+This sales engineer position at Netskope was posted on 2026-07-10.
 
 ## Get Real-Time Alerts
 
