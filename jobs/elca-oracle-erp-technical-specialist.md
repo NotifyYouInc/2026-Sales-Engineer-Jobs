@@ -1,16 +1,16 @@
-# Senior Product Specialist at nCino
+# Oracle ERP Technical Specialist at ELCA
 
 | Field | Details |
 |-------|---------|
-| Company | [nCino](https://scoutify.ai/companies/ncino?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | United States |
+| Company | [ELCA](https://scoutify.ai/companies/ocs-cx-oj33181?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
+| Location | Not specified |
 | Category | Sales Engineer |
-| Posted | 2026-07-10 |
-| Apply | [View on company site](https://ncino.wd5.myworkdayjobs.com/nCinoCareers/job/Remote-USA/Senior-Product-Specialist_R6309) |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://iaaras.fa.ocs.oraclecloud.com/jobs/#2803) |
 
 ## About This Role
 
-This sales engineer position at nCino was posted on 2026-07-10.
+This sales engineer position at ELCA was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

@@ -1,4 +1,4 @@
-# Senior Product Specialist at nCino
+# Principal Product Specialist at nCino
 
 | Field | Details |
 |-------|---------|
@@ -6,7 +6,7 @@
 | Location | United States |
 | Category | Sales Engineer |
 | Posted | 2026-07-10 |
-| Apply | [View on company site](https://ncino.wd5.myworkdayjobs.com/nCinoCareers/job/Remote-USA/Senior-Product-Specialist_R6309) |
+| Apply | [View on company site](https://ncino.wd5.myworkdayjobs.com/nCinoCareers/job/Remote-USA/Principal-Product-Specialist_R6310) |
 
 ## About This Role
 

@@ -1,16 +1,16 @@
-# Customer Engineer Manager at Applied Materials
+# Customer Engineer, Manager at Applied Materials
 
 | Field | Details |
 |-------|---------|
 | Company | [Applied Materials](https://scoutify.ai/companies/applied-materials?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Singapore, Singapore |
-| Category | Engineering Manager |
-| Posted | 2026-05-17 |
-| Apply | [View on company site](https://amat.wd1.myworkdayjobs.com/External/job/SingaporeSGP/Customer-Engineer-Manager_R2618838) |
+| Location | Singapore |
+| Category | Sales Engineer |
+| Posted | 2026-07-12 |
+| Apply | [View on company site](https://amat.wd1.myworkdayjobs.com/External/job/SingaporeSGP/Customer-Engineer--Manager_R2623746) |
 
 ## About This Role
 
-This engineering manager position at Applied Materials was posted on 2026-05-17.
+This sales engineer position at Applied Materials was posted on 2026-07-12.
 
 ## Get Real-Time Alerts
 

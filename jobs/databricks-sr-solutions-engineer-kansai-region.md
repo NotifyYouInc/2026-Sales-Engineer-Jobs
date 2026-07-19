@@ -1,16 +1,16 @@
-# Senior Product Specialist at nCino
+# Sr. Solutions Engineer (Kansai Region) at Databricks
 
 | Field | Details |
 |-------|---------|
-| Company | [nCino](https://scoutify.ai/companies/ncino?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | United States |
+| Company | [Databricks](https://scoutify.ai/companies/databricks?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
+| Location | Osaka, Osaka, Japan |
 | Category | Sales Engineer |
-| Posted | 2026-07-10 |
-| Apply | [View on company site](https://ncino.wd5.myworkdayjobs.com/nCinoCareers/job/Remote-USA/Senior-Product-Specialist_R6309) |
+| Posted | 2026-07-11 |
+| Apply | [View on company site](https://databricks.com/company/careers/open-positions/job?gh_jid=8437030002) |
 
 ## About This Role
 
-This sales engineer position at nCino was posted on 2026-07-10.
+This sales engineer position at Databricks was posted on 2026-07-11.
 
 ## Get Real-Time Alerts
 

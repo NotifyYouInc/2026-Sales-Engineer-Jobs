@@ -1,16 +1,16 @@
-# Senior Product Specialist at nCino
+# Mechanical Field Engineer at Zachry Group
 
 | Field | Details |
 |-------|---------|
-| Company | [nCino](https://scoutify.ai/companies/ncino?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | United States |
+| Company | [Zachry Group](https://scoutify.ai/companies/ocs-cx-oj120675?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
+| Location | Omaha, Nebraska, United States |
 | Category | Sales Engineer |
-| Posted | 2026-07-10 |
-| Apply | [View on company site](https://ncino.wd5.myworkdayjobs.com/nCinoCareers/job/Remote-USA/Senior-Product-Specialist_R6309) |
+| Posted | 2026-01-26 |
+| Apply | [View on company site](https://fa-evfm-saasfaprod1.fa.ocs.oraclecloud.com/jobs/#13381) |
 
 ## About This Role
 
-This sales engineer position at nCino was posted on 2026-07-10.
+This sales engineer position at Zachry Group was posted on 2026-01-26.
 
 ## Get Real-Time Alerts
 

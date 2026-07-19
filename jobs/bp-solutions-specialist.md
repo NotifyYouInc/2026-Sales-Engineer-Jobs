@@ -1,16 +1,16 @@
-# Senior Product Specialist at nCino
+# Solutions Specialist at BP
 
 | Field | Details |
 |-------|---------|
-| Company | [nCino](https://scoutify.ai/companies/ncino?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | United States |
+| Company | [BP](https://scoutify.ai/companies/bpinternational?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
+| Location | 2 locations |
 | Category | Sales Engineer |
-| Posted | 2026-07-10 |
-| Apply | [View on company site](https://ncino.wd5.myworkdayjobs.com/nCinoCareers/job/Remote-USA/Senior-Product-Specialist_R6309) |
+| Posted | 2026-07-12 |
+| Apply | [View on company site](https://bpinternational.wd3.myworkdayjobs.com/bpCareers/job/India---Pune/Solutions-Specialist_RQ113136-1) |
 
 ## About This Role
 
-This sales engineer position at nCino was posted on 2026-07-10.
+This sales engineer position at BP was posted on 2026-07-12.
 
 ## Get Real-Time Alerts
 
