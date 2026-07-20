@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Ralliant](https://scoutify.ai/companies/ocs-cx-oj90966?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Tokyo, Tokyo, Japan |
+| Location | Taiwan |
 | Category | Software Engineer |
-| Posted | 2026-06-23 |
-| Apply | [View on company site](https://ibwujb.fa.ocs.oraclecloud.com/jobs/#9748) |
+| Posted | 2026-07-13 |
+| Apply | [View on company site](https://ibwujb.fa.ocs.oraclecloud.com/jobs/#9907) |
 
 ## About This Role
 
-This software engineer position at Ralliant was posted on 2026-06-23.
+This software engineer position at Ralliant was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

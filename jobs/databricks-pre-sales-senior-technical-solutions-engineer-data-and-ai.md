@@ -1,16 +1,16 @@
-# Pre-sales Senior Technical Solutions Engineer (Data and AI) at Databricks
+# Pre-sales Senior Technical Solutions Engineer (Data and AI)  at Databricks
 
 | Field | Details |
 |-------|---------|
 | Company | [Databricks](https://scoutify.ai/companies/databricks?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | London, England, United Kingdom |
 | Category | Sales Engineer |
-| Posted | 2026-07-05 |
-| Apply | [View on company site](https://databricks.com/company/careers/open-positions/job?gh_jid=8613435002) |
+| Posted | 2026-07-13 |
+| Apply | [View on company site](https://databricks.com/company/careers/open-positions/job?gh_jid=8614459002) |
 
 ## About This Role
 
-This sales engineer position at Databricks was posted on 2026-07-05.
+This sales engineer position at Databricks was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Diligent Corporation](https://scoutify.ai/companies/diligentcorporation?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Sydney, New South Wales, Australia |
-| Category | Technical & Solutions Architect |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/diligentcorporation/jobs/5998115004) |
+| Category | Sales Engineer |
+| Posted | 2026-07-13 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/diligentcorporation/jobs/6114348004) |
 
 ## About This Role
 
-This technical & solutions architect position at Diligent Corporation was posted on 2026-05-18.
+This sales engineer position at Diligent Corporation was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

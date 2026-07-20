@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wiz, Inc.](https://scoutify.ai/companies/wiz-inc?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Singapore |
+| Location | Japan |
 | Category | Sales Engineer |
-| Posted | 2026-07-09 |
-| Apply | [View on company site](https://www.wiz.io/careers/job/4694458006/:title?gh_jid=4694458006) |
+| Posted | 2026-07-13 |
+| Apply | [View on company site](https://www.wiz.io/careers/job/4682671006/:title?gh_jid=4682671006) |
 
 ## About This Role
 
-This sales engineer position at Wiz, Inc. was posted on 2026-07-09.
+This sales engineer position at Wiz, Inc. was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

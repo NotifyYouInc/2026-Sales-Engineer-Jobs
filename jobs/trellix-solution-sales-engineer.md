@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Trellix](https://scoutify.ai/companies/trellix?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Philippines |
+| Location | Hanoi, Hanoi, Vietnam |
 | Category | Sales Engineer |
-| Posted | 2026-05-25 |
-| Apply | [View on company site](https://trellix.wd1.myworkdayjobs.com/EnterpriseCareers/job/Remote-Philippines/Solution-Sales-Engineer_JR0037552) |
+| Posted | 2026-07-13 |
+| Apply | [View on company site](https://trellix.wd1.myworkdayjobs.com/EnterpriseCareers/job/Vietnam-Hanoi/Solution-Sales-Engineer_JR0037682) |
 
 ## About This Role
 
-This sales engineer position at Trellix was posted on 2026-05-25.
+This sales engineer position at Trellix was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

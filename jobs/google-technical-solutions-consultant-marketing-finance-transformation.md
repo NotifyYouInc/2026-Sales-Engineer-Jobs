@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Mountain View, California, United States |
-| Category | FP&A / Strategic Finance |
-| Posted | 2026-05-15 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckXdMt-PYOZiJMmux2-iTUdgXSqNh1SeYbGysyV1DgvLEEjsACxwdTA3qo9IBo0y2RmKx4ixUBK3gJBb2xylMzE3o4kWHvjhxTYjLdlcK_SpM1SEtWb4Cj5To8JbJcQ%3D%3D_V2&loc=US&title=Technical+Solutions+Consultant) |
+| Category | Sales Engineer |
+| Posted | 2026-07-13 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckQeeGQWtNUbLP4IAUut0k4sGubd7MXO3zKv7gLxOrZnUEjsA1Ny_iwErr8EOMJsfdHSTt3Qrq-MUSu8YdoWI6gi2cnrq9sDk17K0UE_HHFVNpCu4a7iHV8l89rktSA%3D%3D_V2&loc=US&title=Technical+Solutions+Consultant) |
 
 ## About This Role
 
-This fp&a / strategic finance position at Google was posted on 2026-05-15.
+This sales engineer position at Google was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

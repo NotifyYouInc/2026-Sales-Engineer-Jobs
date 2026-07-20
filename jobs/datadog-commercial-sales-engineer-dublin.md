@@ -5,12 +5,12 @@
 | Company | [Datadog](https://scoutify.ai/companies/datadog?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Dublin, Leinster, Ireland |
 | Category | Sales Engineer |
-| Posted | 2026-03-30 |
-| Apply | [View on company site](https://careers.datadoghq.com/detail/7746158/?gh_jid=7746158) |
+| Posted | 2026-07-13 |
+| Apply | [View on company site](https://careers.datadoghq.com/detail/8055109/?gh_jid=8055109) |
 
 ## About This Role
 
-This sales engineer position at Datadog was posted on 2026-03-30.
+This sales engineer position at Datadog was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

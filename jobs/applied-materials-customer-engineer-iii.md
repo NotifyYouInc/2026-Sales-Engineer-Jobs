@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Applied Materials](https://scoutify.ai/companies/applied-materials?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Beijing, Beijing, China |
-| Category | Electrical / Hardware Engineer |
-| Posted | 2026-04-01 |
-| Apply | [View on company site](https://amat.wd1.myworkdayjobs.com/External/job/BeijingCHN/Customer-Engineer-III_R2615937) |
+| Location | Wuxi, Jiangsu, China |
+| Category | Sales Engineer |
+| Posted | 2026-07-13 |
+| Apply | [View on company site](https://amat.wd1.myworkdayjobs.com/External/job/WuxiCHN/Customer-Engineer-III_R2623695) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Applied Materials was posted on 2026-04-01.
+This sales engineer position at Applied Materials was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

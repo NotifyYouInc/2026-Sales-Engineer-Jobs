@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Stripe](https://scoutify.ai/companies/stripe?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Dublin, Leinster, Ireland |
-| Category | Customer Success |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://stripe.com/jobs/search?gh_jid=6613516) |
+| Location | Sydney, New South Wales, Australia |
+| Category | Sales Engineer |
+| Posted | 2026-07-13 |
+| Apply | [View on company site](https://stripe.com/jobs/search?gh_jid=8044158) |
 
 ## About This Role
 
-This customer success position at Stripe was posted on 2026-04-22.
+This sales engineer position at Stripe was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

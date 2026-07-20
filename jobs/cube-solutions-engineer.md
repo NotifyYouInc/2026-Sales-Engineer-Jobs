@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cube](https://scoutify.ai/companies/cube?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | London, England, United Kingdom |
+| Location | Toronto, Ontario, Canada |
 | Category | Sales Engineer |
-| Posted | 2026-06-24 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/cube/80db2469-d084-4f85-8190-22d0844be90d) |
+| Posted | 2026-07-13 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/cube/65d879c8-f0e8-42b4-9034-e78d83736541) |
 
 ## About This Role
 
-This sales engineer position at Cube was posted on 2026-06-24.
+This sales engineer position at Cube was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

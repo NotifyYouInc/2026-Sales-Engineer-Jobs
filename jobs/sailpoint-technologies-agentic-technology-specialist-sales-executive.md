@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [SailPoint Technologies](https://scoutify.ai/companies/sailpoint-technologies?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Germany |
+| Location | Dubai, Dubai, United Arab Emirates |
 | Category | Sales Engineer |
-| Posted | 2026-07-08 |
-| Apply | [View on company site](https://sailpoint.wd1.myworkdayjobs.com/sailpoint/job/Remote-Germany/Agentic-Technology-Specialist-Sales-Executive_R013643) |
+| Posted | 2026-07-13 |
+| Apply | [View on company site](https://sailpoint.wd1.myworkdayjobs.com/sailpoint/job/Remote-Dubai-UAE/Agentic-Technology-Specialist-Sales-Executive_R013809) |
 
 ## About This Role
 
-This sales engineer position at SailPoint Technologies was posted on 2026-07-08.
+This sales engineer position at SailPoint Technologies was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

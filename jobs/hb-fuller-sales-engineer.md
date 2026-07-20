@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [H.B. Fuller](https://scoutify.ai/companies/hbfuller?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Kaohsiung, Takao, Taiwan |
-| Category | Account Executive |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://hbfuller.wd1.myworkdayjobs.com/Careers/job/Kaouhsiung-Taiwan/Sales-Engineer_R25_0000000689) |
+| Location | China |
+| Category | Sales Engineer |
+| Posted | 2026-07-12 |
+| Apply | [View on company site](https://hbfuller.wd1.myworkdayjobs.com/Careers/job/West-China/Sales-Engineer_R26_0000001225) |
 
 ## About This Role
 
-This account executive position at H.B. Fuller was posted on 2026-03-09.
+This sales engineer position at H.B. Fuller was posted on 2026-07-12.
 
 ## Get Real-Time Alerts
 

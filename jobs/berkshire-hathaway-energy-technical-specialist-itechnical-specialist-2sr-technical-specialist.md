@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Berkshire Hathaway Energy](https://scoutify.ai/companies/ocs-cx-oj16881?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Delmont, Pennsylvania, United States |
+| Location | Centreville, Virginia, United States |
 | Category | Sales Engineer |
-| Posted | 2026-06-22 |
-| Apply | [View on company site](https://fa-essf-saasfaprod1.fa.ocs.oraclecloud.com/jobs/#10004491) |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://fa-essf-saasfaprod1.fa.ocs.oraclecloud.com/jobs/#10003953) |
 
 ## About This Role
 
-This sales engineer position at Berkshire Hathaway Energy was posted on 2026-06-22.
+This sales engineer position at Berkshire Hathaway Energy was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

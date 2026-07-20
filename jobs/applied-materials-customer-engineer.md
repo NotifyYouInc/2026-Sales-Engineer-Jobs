@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Applied Materials](https://scoutify.ai/companies/applied-materials?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Singapore, Singapore |
+| Location | Philippines |
 | Category | Sales Engineer |
-| Posted | 2026-07-09 |
-| Apply | [View on company site](https://amat.wd1.myworkdayjobs.com/External/job/SingaporeSGP/Customer-Engineer_R2623642) |
+| Posted | 2026-07-11 |
+| Apply | [View on company site](https://amat.wd1.myworkdayjobs.com/External/job/Clark-Freeport-ZonePHL/Customer-Engineer_R2622815) |
 
 ## About This Role
 
-This sales engineer position at Applied Materials was posted on 2026-07-09.
+This sales engineer position at Applied Materials was posted on 2026-07-11.
 
 ## Get Real-Time Alerts
 

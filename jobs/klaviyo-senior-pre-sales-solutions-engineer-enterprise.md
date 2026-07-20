@@ -5,12 +5,12 @@
 | Company | [Klaviyo](https://scoutify.ai/companies/klaviyo?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | London, England, United Kingdom |
 | Category | Sales Engineer |
-| Posted | 2026-05-20 |
-| Apply | [View on company site](https://www.klaviyo.com/careers/jobs?gh_jid=7719028003) |
+| Posted | 2026-07-13 |
+| Apply | [View on company site](https://www.klaviyo.com/careers/jobs/7795894003?gh_jid=7795894003) |
 
 ## About This Role
 
-This sales engineer position at Klaviyo was posted on 2026-05-20.
+This sales engineer position at Klaviyo was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 
