@@ -5,12 +5,12 @@
 | Company | [Salesforce](https://scoutify.ai/companies/salesforce?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | 2 locations |
 | Category | Sales Engineer |
-| Posted | 2026-07-09 |
-| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Mumbai/Specialist-Solution-Engineer_JR351016) |
+| Posted | 2026-07-13 |
+| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Germany---Munich/Specialist-Solution-Engineer_JR349602) |
 
 ## About This Role
 
-This sales engineer position at Salesforce was posted on 2026-07-09.
+This sales engineer position at Salesforce was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

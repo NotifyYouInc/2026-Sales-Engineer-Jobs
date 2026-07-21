@@ -5,12 +5,12 @@
 | Company | [ABB](https://scoutify.ai/companies/abb?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Poznań, Greater Poland, Poland |
 | Category | Sales Engineer |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Poznan-Greater-Poland-Poland/Sales-Engineer---B-R-Automation_JR00031737) |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Warszawa-Masovian-Poland/Sales-Engineer---B-R-Automation_JR00040726) |
 
 ## About This Role
 
-This sales engineer position at ABB was posted on 2026-04-22.
+This sales engineer position at ABB was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

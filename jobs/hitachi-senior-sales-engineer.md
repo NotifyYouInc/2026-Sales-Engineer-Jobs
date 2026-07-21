@@ -1,16 +1,16 @@
-# Senior Sales Engineer at Hitachi
+# Senior sales engineer at Hitachi
 
 | Field | Details |
 |-------|---------|
 | Company | [Hitachi](https://scoutify.ai/companies/hitachi?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Cairo, Cairo, Egypt |
+| Location | Guiyang, Guizhou, China |
 | Category | Sales Engineer |
-| Posted | 2026-06-15 |
-| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Cairo-Cairo-Egypt/Senior-Sales-Engineer_R0134115-1) |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Guiyang-Guizhou-China/Senior-sales-engineer_R0136596-1) |
 
 ## About This Role
 
-This sales engineer position at Hitachi was posted on 2026-06-15.
+This sales engineer position at Hitachi was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

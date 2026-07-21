@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [VusionGroup SA](https://scoutify.ai/companies/vusiongroup-sa?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Albstadt, Baden-Wurttemberg, Germany |
-| Category | Customer Success |
-| Posted | 2026-04-28 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/vusiongroupsa/744000123388359-solution-engineer-fashion-mwd) |
+| Location | Köln, North Rhine-Westphalia, Germany |
+| Category | Sales Engineer |
+| Posted | 2026-07-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/vusiongroupsa/744000137459721-solution-engineer-fashion-mwd) |
 
 ## About This Role
 
-This customer success position at VusionGroup SA was posted on 2026-04-28.
+This sales engineer position at VusionGroup SA was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

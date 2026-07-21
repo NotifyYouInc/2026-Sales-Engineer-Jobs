@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Flowserve](https://scoutify.ai/companies/flowserve?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Pasadena, Texas, United States |
-| Category | Sales Engineer |
-| Posted | 2026-07-01 |
-| Apply | [View on company site](https://flowserve.wd1.myworkdayjobs.com/applied/job/Pasadena-Texas-US/Applications-Engineer_R-20019-1) |
+| Location | Edmonton, Alberta, Canada |
+| Category | Software Engineer |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://flowserve.wd1.myworkdayjobs.com/applied/job/Edmonton-Canada/Applications-Engineer_R-19880) |
 
 ## About This Role
 
-This sales engineer position at Flowserve was posted on 2026-07-01.
+This software engineer position at Flowserve was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

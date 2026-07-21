@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [ServiceNow](https://scoutify.ai/companies/servicenow?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | London, England, United Kingdom |
-| Category | AI / LLM Engineer |
-| Posted | 2026-06-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000131534959-forward-deployed-solution-engineer-applied-ai-fde) |
+| Category | Forward Deployed Engineer |
+| Posted | 2026-07-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000137509420-forward-deployed-solution-engineer-applied-ai-fde) |
 
 ## About This Role
 
-This ai / llm engineer position at ServiceNow was posted on 2026-06-10.
+This forward deployed engineer position at ServiceNow was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

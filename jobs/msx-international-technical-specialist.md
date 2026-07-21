@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [MSX International](https://scoutify.ai/companies/msxinternational?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Dietzenbach, Hesse, Germany |
-| Category | Customer Success |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/MSXInternational/3743990012650386-technical-specialist) |
+| Category | Sales Engineer |
+| Posted | 2026-07-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/MSXInternational/3743990014052786-technical-specialist) |
 
 ## About This Role
 
-This customer success position at MSX International was posted on 2026-04-17.
+This sales engineer position at MSX International was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

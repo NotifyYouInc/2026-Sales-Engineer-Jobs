@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [TikTok](https://scoutify.ai/companies/tiktok?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | San Jose, California, United States |
-| Category | Software Engineer |
-| Posted | 2026-03-05 |
-| Apply | [View on company site](https://careers.tiktok.com/position/7613184208623814917/detail) |
+| Location | New York City, New York, United States |
+| Category | Sales Engineer |
+| Posted | 2026-07-13 |
+| Apply | [View on company site](https://careers.tiktok.com/position/7660646443183868165/detail) |
 
 ## About This Role
 
-This software engineer position at TikTok was posted on 2026-03-05.
+This sales engineer position at TikTok was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

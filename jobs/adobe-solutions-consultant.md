@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Adobe](https://scoutify.ai/companies/adobe-inc?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Paris, Île-de-France, France |
+| Location | Chicago, Illinois, United States |
 | Category | Sales Engineer |
-| Posted | 2026-06-30 |
-| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Paris/Solutions-Consultant_R170194) |
+| Posted | 2026-07-13 |
+| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Chicago/Solutions-Consultant_R167148) |
 
 ## About This Role
 
-This sales engineer position at Adobe was posted on 2026-06-30.
+This sales engineer position at Adobe was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

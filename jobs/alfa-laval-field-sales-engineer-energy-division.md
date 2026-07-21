@@ -1,16 +1,16 @@
-# Field Sales Engineer - Energy Division at Alfa Laval
+# Field Sales Engineer Energy Division at Alfa Laval
 
 | Field | Details |
 |-------|---------|
 | Company | [Alfa Laval](https://scoutify.ai/companies/alfa-laval?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Monza, Lombardy, Italy |
-| Category | Sales |
-| Posted | 2026-02-09 |
-| Apply | [View on company site](https://alfalaval.wd3.myworkdayjobs.com/alfa_laval_jobs/job/Monza/Field-Sales-Engineer---Energy-Division_JR0041697) |
+| Location | Breda, North Brabant, The Netherlands |
+| Category | Sales Engineer |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://alfalaval.wd3.myworkdayjobs.com/alfa_laval_jobs/job/Breda/Field-Sales-Engineer-Energy-Division_JR0046914) |
 
 ## About This Role
 
-This sales position at Alfa Laval was posted on 2026-02-09.
+This sales engineer position at Alfa Laval was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

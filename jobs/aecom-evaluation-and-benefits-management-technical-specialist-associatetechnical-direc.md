@@ -1,16 +1,16 @@
-# Evaluation and Benefits Management Technical Specialist (Associate/Technical Director) at AECOM
+# Evaluation and Benefits Management Technical Specialist (Associate/Technical Director - Transport Planning) at AECOM
 
 | Field | Details |
 |-------|---------|
 | Company | [AECOM](https://scoutify.ai/companies/aecom?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Chesterfield, England, United Kingdom |
 | Category | Sales Engineer |
-| Posted | 2026-07-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000136759849-evaluation-and-benefits-management-technical-specialist-associatetechnical-director) |
+| Posted | 2026-07-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000137429609-evaluation-and-benefits-management-technical-specialist-associatetechnical-director-transport-planning) |
 
 ## About This Role
 
-This sales engineer position at AECOM was posted on 2026-07-09.
+This sales engineer position at AECOM was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

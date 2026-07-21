@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Royal Bank of Canada](https://scoutify.ai/companies/rbc?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | 2 locations |
-| Category | Financial Advisory & Consulting |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/BURLINGTON-Ontario-Canada/Bilingual-Treasury-Solutions-Specialist---RBC-PayEdge_R-0000167775) |
+| Location | Montréal, Quebec, Canada |
+| Category | Sales Engineer |
+| Posted | 2026-07-13 |
+| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/MONTRAL-Quebec-Canada/Bilingual-Treasury-Solutions-Specialist---RBC-PayEdge_R-0000179243-1) |
 
 ## About This Role
 
-This financial advisory & consulting position at Royal Bank of Canada was posted on 2026-04-13.
+This sales engineer position at Royal Bank of Canada was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | North Sydney, New South Wales, Australia |
 | Category | Sales Engineer |
-| Posted | 2026-05-29 |
-| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/North-Sydney-Australia/Solutions-Engineer---NSW---Splunk_2012095-1) |
+| Posted | 2026-07-13 |
+| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/North-Sydney-Australia/Solutions-Engineer---NSW---Splunk_2015108-1) |
 
 ## About This Role
 
-This sales engineer position at Cisco was posted on 2026-05-29.
+This sales engineer position at Cisco was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

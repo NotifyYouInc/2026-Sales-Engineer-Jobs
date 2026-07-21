@@ -5,12 +5,12 @@
 | Company | [ABB](https://scoutify.ai/companies/abb?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Saint-Laurent, Quebec, Canada |
 | Category | Sales Engineer |
-| Posted | 2026-07-08 |
-| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Saint-Laurent-Quebec-Canada/Excitation-Service-Sales-Engineer_JR00038354) |
+| Posted | 2026-07-13 |
+| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Saint-Laurent-Quebec-Canada/Excitation-Service-Sales-Engineer_JR00038362) |
 
 ## About This Role
 
-This sales engineer position at ABB was posted on 2026-07-08.
+This sales engineer position at ABB was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

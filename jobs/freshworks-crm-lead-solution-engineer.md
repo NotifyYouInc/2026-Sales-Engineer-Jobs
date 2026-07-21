@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Freshworks CRM](https://scoutify.ai/companies/freshworkscrm?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Berlin, State of Berlin, Germany |
+| Location | London, England, United Kingdom |
 | Category | Sales Engineer |
-| Posted | 2026-07-07 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Freshworks/744000136266859-lead-solution-engineer) |
+| Posted | 2026-07-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Freshworks/744000137467025-lead-solution-engineer) |
 
 ## About This Role
 
-This sales engineer position at Freshworks CRM was posted on 2026-07-07.
+This sales engineer position at Freshworks CRM was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

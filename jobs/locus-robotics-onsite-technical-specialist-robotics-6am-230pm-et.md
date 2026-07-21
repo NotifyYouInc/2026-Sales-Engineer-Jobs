@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Locus Robotics](https://scoutify.ai/companies/locusrobotics?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Louisville, Kentucky, United States |
-| Category | Robotics Engineer |
-| Posted | 2026-06-02 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/locusrobotics/jobs/5152821007) |
+| Category | Sales Engineer |
+| Posted | 2026-07-13 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/locusrobotics/jobs/5185408007) |
 
 ## About This Role
 
-This robotics engineer position at Locus Robotics was posted on 2026-06-02.
+This sales engineer position at Locus Robotics was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

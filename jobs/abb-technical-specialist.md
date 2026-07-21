@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ABB](https://scoutify.ai/companies/abb?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | San Luis Potosí, San Luis Potosí, Mexico |
+| Location | Bengaluru, Karnataka, India |
 | Category | Sales Engineer |
-| Posted | 2026-07-09 |
-| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/San-Luis-Potosi-San-Luis-Potos-Mexico/Technical-Specialist_JR00039942-1) |
+| Posted | 2026-07-10 |
+| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Bangalore-Karnataka-India/Technical-Specialist_JR00040561) |
 
 ## About This Role
 
-This sales engineer position at ABB was posted on 2026-07-09.
+This sales engineer position at ABB was posted on 2026-07-10.
 
 ## Get Real-Time Alerts
 

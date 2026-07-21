@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Hewlett Packard Enterprise](https://scoutify.ai/companies/hewlett-packard-enterprise?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | 2 locations |
+| Location | Mumbai, Maharashtra, India |
 | Category | Sales Engineer |
-| Posted | 2026-06-08 |
-| Apply | [View on company site](https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/Seattle-Washington-United-States-of-America/Channel-Systems-Engineer_1207768) |
+| Posted | 2026-07-13 |
+| Apply | [View on company site](https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/Mumbai-Maharashtra-India/Channel-Systems-Engineer_1209034-3) |
 
 ## About This Role
 
-This sales engineer position at Hewlett Packard Enterprise was posted on 2026-06-08.
+This sales engineer position at Hewlett Packard Enterprise was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

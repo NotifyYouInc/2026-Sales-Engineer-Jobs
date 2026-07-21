@@ -1,16 +1,16 @@
-# Solutions Consultant | Commercial at Ramp
+# Solutions Consultant, Commercial at Ramp
 
 | Field | Details |
 |-------|---------|
 | Company | [Ramp](https://scoutify.ai/companies/ramp?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | United States |
-| Category | Implementation / Professional Services |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/ramp/c578c61a-2a0a-4c35-97cc-d18e4725b72f) |
+| Category | Sales Engineer |
+| Posted | 2026-07-13 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/ramp/220e674a-fc70-439f-bacf-687553ca59c9) |
 
 ## About This Role
 
-This implementation / professional services position at Ramp was posted on 2026-04-21.
+This sales engineer position at Ramp was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

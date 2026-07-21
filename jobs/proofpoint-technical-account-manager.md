@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Proofpoint](https://scoutify.ai/companies/proofpoint?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Florida, US |
-| Category | Customer Success |
-| Posted | 2026-05-01 |
-| Apply | [View on company site](https://proofpoint.wd5.myworkdayjobs.com/ProofpointCareers/job/Brazil/Technical-Account-Manager_R14137) |
+| Location | California, US |
+| Category | Sales Engineer |
+| Posted | 2026-07-13 |
+| Apply | [View on company site](https://proofpoint.wd5.myworkdayjobs.com/ProofpointCareers/job/California/Technical-Account-Manager_R14458) |
 
 ## About This Role
 
-This customer success position at Proofpoint was posted on 2026-05-01.
+This sales engineer position at Proofpoint was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 
