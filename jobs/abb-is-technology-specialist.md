@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ABB](https://scoutify.ai/companies/abb?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Vaasa, Ostrobothnia, Finland |
-| Category | IT & Systems Administration |
-| Posted | 2026-05-29 |
-| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Vaasa-Ostrobothnia-Finland/IS-Technology-Specialist_JR00036178) |
+| Location | Hyderabad, Telangana, India |
+| Category | Sales Engineer |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Hyderabad--Andhrapradesh--India/IS-Technology-Specialist_JR00039128) |
 
 ## About This Role
 
-This it & systems administration position at ABB was posted on 2026-05-29.
+This sales engineer position at ABB was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

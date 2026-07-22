@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ABB](https://scoutify.ai/companies/abb?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Kolkata, West Bengal, India |
 | Category | Sales Engineer |
-| Posted | 2026-07-10 |
-| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Bangalore-Karnataka-India/Technical-Specialist_JR00040561) |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Kolkata-West-Bengal-India/Technical-Specialist_JR00039159-1) |
 
 ## About This Role
 
-This sales engineer position at ABB was posted on 2026-07-10.
+This sales engineer position at ABB was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

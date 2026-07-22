@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [SHI International](https://scoutify.ai/companies/shi-international?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Georgia, US |
-| Category | Technology / IT Consulting |
-| Posted | 2026-04-01 |
-| Apply | [View on company site](https://shi.wd12.myworkdayjobs.com/shicareers/job/US---TX---Home-Office/Solutions-Engineer---Data-Visualization_JR2840-1) |
+| Location | Texas, US |
+| Category | Sales Engineer |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://shi.wd12.myworkdayjobs.com/shicareers/job/US---TX---Home-Office/Solutions-Engineer---Data-Visualization_JR3392) |
 
 ## About This Role
 
-This technology / it consulting position at SHI International was posted on 2026-04-01.
+This sales engineer position at SHI International was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

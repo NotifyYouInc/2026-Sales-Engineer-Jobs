@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [TD Synnex](https://scoutify.ai/companies/synnex?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | 2 locations |
+| Location | Alcobendas, Madrid, Spain |
 | Category | Sales Engineer |
-| Posted | 2026-06-22 |
-| Apply | [View on company site](https://synnex.wd5.myworkdayjobs.com/tdsynnexcareers/job/Alcobendas-Spain/Technical-Presales-Specialist-Google-Chrome_R52927) |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://synnex.wd5.myworkdayjobs.com/tdsynnexcareers/job/Alcobendas-Spain/Technical-Presales-Specialist-Google-Chrome_R52898) |
 
 ## About This Role
 
-This sales engineer position at TD Synnex was posted on 2026-06-22.
+This sales engineer position at TD Synnex was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

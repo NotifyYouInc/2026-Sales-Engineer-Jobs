@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Itron](https://scoutify.ai/companies/itron?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | North Carolina, US |
+| Location | Stockholm, Stockholm, Sweden |
 | Category | Sales Engineer |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://itron.wd5.myworkdayjobs.com/itron/job/United-States-of-America-North-Carolina/Technical-Sales-Engineer_JR102469) |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://itron.wd5.myworkdayjobs.com/itron/job/Sweden-Stockholm/Technical-Sales-Engineer_JR102556) |
 
 ## About This Role
 
-This sales engineer position at Itron was posted on 2026-05-18.
+This sales engineer position at Itron was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

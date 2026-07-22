@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Saint-Ghislain, Wallonia, Belgium |
-| Category | DevOps Engineer |
-| Posted | 2026-06-11 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckbA7nu1ppftiE9z9q9_36h1uELwK5UrWdpk4D70lw_LrEjsACxwdTCQJyUgmKzJ7x-fzM9flDTeGIoXnnY5W8s3DPmBgnhVW9a4gqk8z7jzfhPpRGomchKBqvcdSWw%3D%3D_V2&loc=BE&title=Network+Implementation+Engineer) |
+| Category | Sales Engineer |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckXYn1w-hP6Wa9Q87yKnX8d7cBx7tdo6Il8HG3rlW8OdbEjsA1Ny_i4m486qNjBZlRiKR0twrrytPa6-fJfJd4Sime9SYgqtwk_IbvcMOfgXoBnX34eLiiEziwMzsvg%3D%3D_V2&loc=BE&title=Network+Implementation+Engineer) |
 
 ## About This Role
 
-This devops engineer position at Google was posted on 2026-06-11.
+This sales engineer position at Google was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

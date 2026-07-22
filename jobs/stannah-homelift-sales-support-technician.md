@@ -5,12 +5,12 @@
 | Company | [Stannah](https://scoutify.ai/companies/stannah?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Andover, England, United Kingdom |
 | Category | Sales Engineer |
-| Posted | 2026-07-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Stannah1/744000136780046-homelift-sales-support-technician) |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Stannah1/744000137825989-homelift-sales-support-technician) |
 
 ## About This Role
 
-This sales engineer position at Stannah was posted on 2026-07-09.
+This sales engineer position at Stannah was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Trellix](https://scoutify.ai/companies/trellix?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | 3 locations |
+| Location | Houston, Texas, United States |
 | Category | Sales Engineer |
-| Posted | 2026-05-27 |
-| Apply | [View on company site](https://trellix.wd1.myworkdayjobs.com/EnterpriseCareers/job/India-Bangalore/Sales-Engineer_JR0037469) |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://trellix.wd1.myworkdayjobs.com/EnterpriseCareers/job/US-Texas-Houston/Sales-Engineer_JR0037646) |
 
 ## About This Role
 
-This sales engineer position at Trellix was posted on 2026-05-27.
+This sales engineer position at Trellix was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

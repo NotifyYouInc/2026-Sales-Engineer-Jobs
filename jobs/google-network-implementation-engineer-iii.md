@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Not specified |
-| Category | DevOps Engineer |
-| Posted | 2026-06-09 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckeJCLSSyVfxO0zLjO1Xi-ql4PrwtfoQMtdVGftWzFcW0EjsACxwdTHyZCfR-2Uw_ZgCEPDauZBV89eQrqAi_mHu7fyLfLAu1ET7NZy9eJi8fZU7jypqAFA827cIDEw%3D%3D_V2&loc=NL&title=Network+Implementation+Engineer+III) |
+| Location | London, England, United Kingdom |
+| Category | Sales Engineer |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckWNCuqnt5cq6eDfH0g02quC1sfw5sAMtXx1Ju2ISE3L1EjsA1Ny_i0O8PTeCNPjCs307pwjLng7kJeoX0G8eN74gdGXL8PVMOVHaqVpvOeRP4pdOuFPAL1TPjCNw6w%3D%3D_V2&loc=GB&title=Network+Implementation+Engineer+III) |
 
 ## About This Role
 
-This devops engineer position at Google was posted on 2026-06-09.
+This sales engineer position at Google was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

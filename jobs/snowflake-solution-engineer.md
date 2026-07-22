@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Snowflake](https://scoutify.ai/companies/snowflake?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Menlo Park, California, United States |
+| Location | Melbourne, Victoria, Australia |
 | Category | Sales Engineer |
-| Posted | 2026-06-30 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/snowflake/d655734e-4bad-49b5-b93f-ebe38ea28cc3) |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/snowflake/84df2d60-d5f6-4ffe-a881-00bfe6cfe379) |
 
 ## About This Role
 
-This sales engineer position at Snowflake was posted on 2026-06-30.
+This sales engineer position at Snowflake was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

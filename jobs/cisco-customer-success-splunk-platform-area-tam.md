@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Richardson, Texas, United States |
+| Location | 2 locations |
 | Category | Sales Engineer |
-| Posted | 2026-07-11 |
-| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Richardson-Texas-US/Customer-Success-Splunk-Platform-Area-TAM_2015573-1) |
+| Posted | 2026-07-13 |
+| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/McLean-Virginia-US/Customer-Success-Splunk-Platform-Area-TAM_2015550-1) |
 
 ## About This Role
 
-This sales engineer position at Cisco was posted on 2026-07-11.
+This sales engineer position at Cisco was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

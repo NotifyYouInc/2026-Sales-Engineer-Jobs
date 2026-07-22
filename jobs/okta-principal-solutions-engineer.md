@@ -1,16 +1,16 @@
-# Principal Solutions Engineer  at Okta
+# Principal Solutions Engineer at Okta
 
 | Field | Details |
 |-------|---------|
 | Company | [Okta](https://scoutify.ai/companies/okta?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Texas, US |
-| Category | Venture Capital |
-| Posted | 2026-02-11 |
-| Apply | [View on company site](https://www.okta.com/company/careers/opportunity/7608457?gh_jid=7608457) |
+| Location | San Francisco, California, United States |
+| Category | Sales Engineer |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://www.okta.com/company/careers/opportunity/8060786?gh_jid=8060786) |
 
 ## About This Role
 
-This venture capital position at Okta was posted on 2026-02-11.
+This sales engineer position at Okta was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

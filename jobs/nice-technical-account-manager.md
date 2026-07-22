@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [NiCE](https://scoutify.ai/companies/nice?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Manila, National Capital Region, Philippines |
+| Location | São Paulo, São Paulo, Brazil |
 | Category | Sales Engineer |
-| Posted | 2026-07-07 |
-| Apply | [View on company site](https://boards.eu.greenhouse.io/nice/jobs/4920045101?gh_jid=4920045101) |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://boards.eu.greenhouse.io/nice/jobs/4927643101?gh_jid=4927643101) |
 
 ## About This Role
 
-This sales engineer position at NiCE was posted on 2026-07-07.
+This sales engineer position at NiCE was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [BP](https://scoutify.ai/companies/bpinternational?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Baku, Baki, Azerbaijan |
-| Category | Robotics Engineer |
-| Posted | 2026-05-20 |
-| Apply | [View on company site](https://bpinternational.wd3.myworkdayjobs.com/bpCareers/job/Azerbaijan---Baku/Operations-Automation-Technology-Specialist_RQ110315-1) |
+| Location | Pune, Maharashtra, India |
+| Category | Sales Engineer |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://bpinternational.wd3.myworkdayjobs.com/bpCareers/job/India---Pune/Operations-Automation-Technology-Specialist_RQ113052) |
 
 ## About This Role
 
-This robotics engineer position at BP was posted on 2026-05-20.
+This sales engineer position at BP was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

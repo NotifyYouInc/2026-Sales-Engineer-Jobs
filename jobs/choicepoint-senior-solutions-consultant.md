@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ChoicePoint](https://scoutify.ai/companies/choicepoint?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | United States |
-| Category | Customer Success |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://relx.wd3.myworkdayjobs.com/risksolutions/job/Remote---USA---Nationwide/Senior-Solutions-Consultant_R111747) |
+| Location | 2 locations |
+| Category | Sales Engineer |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://relx.wd3.myworkdayjobs.com/risksolutions/job/Shanghai/Senior-Solutions-Consultant_R115450-2) |
 
 ## About This Role
 
-This customer success position at ChoicePoint was posted on 2026-04-14.
+This sales engineer position at ChoicePoint was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

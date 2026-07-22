@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Abbott](https://scoutify.ai/companies/abbott-laboratories?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Illinois, US |
-| Category | Customer Success |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Illinois---Abbott-Park/Informatics-Technical-Specialist-II_31144575-1) |
+| Location | 5 locations |
+| Category | Sales Engineer |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Illinois---Abbott-Park/Informatics-Technical-Specialist-II_31154907-1) |
 
 ## About This Role
 
-This customer success position at Abbott was posted on 2026-03-17.
+This sales engineer position at Abbott was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

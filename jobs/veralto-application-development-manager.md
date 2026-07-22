@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Veralto](https://scoutify.ai/companies/veralto?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Manchester, England, United Kingdom |
+| Location | Jakarta, Jakarta, Indonesia |
 | Category | Engineering Manager |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://veralto.wd1.myworkdayjobs.com/hachjobs/job/GBR---Remote/Application-Development-Manager_R10265768) |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://veralto.wd1.myworkdayjobs.com/hachjobs/job/Jakarta-Indonesia/Application-Development-Manager_R10266423-1) |
 
 ## About This Role
 
-This engineering manager position at Veralto was posted on 2026-04-21.
+This engineering manager position at Veralto was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

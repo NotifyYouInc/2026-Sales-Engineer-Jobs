@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Fiserv](https://scoutify.ai/companies/fiserv?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | 2 locations |
-| Category | Customer Success |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://fiserv.wd5.myworkdayjobs.com/ext/job/Berkeley-Heights-New-Jersey/Technical-Account-Manager_R-10389261-1) |
+| Location | Sunnyvale, California, United States |
+| Category | Sales Engineer |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://fiserv.wd5.myworkdayjobs.com/ext/job/Sunnyvale-California/Technical-Account-Manager_R-10398538) |
 
 ## About This Role
 
-This customer success position at Fiserv was posted on 2026-03-10.
+This sales engineer position at Fiserv was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

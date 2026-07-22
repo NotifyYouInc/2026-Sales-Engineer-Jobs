@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Chennai, Tamil Nadu, India |
-| Category | DevOps Engineer |
-| Posted | 2026-05-14 |
-| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Chennai-DLF-IT-Park/Technical-Specialist-Practitioner_JR-0000091731) |
+| Category | Sales Engineer |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Chennai-DLF-IT-Park/Technical-Specialist-Practitioner_JR-0000106224) |
 
 ## About This Role
 
-This devops engineer position at Barclays was posted on 2026-05-14.
+This sales engineer position at Barclays was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

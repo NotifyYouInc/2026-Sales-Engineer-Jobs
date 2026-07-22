@@ -1,16 +1,16 @@
-# Principal-Sr. Principal Dedicated Mission Partner Engineer-AHT at Northrop Grumman
+# Principal-Sr. Principal Dedicated Mission Partner Engineer (AHT) at Northrop Grumman
 
 | Field | Details |
 |-------|---------|
 | Company | [Northrop Grumman](https://scoutify.ai/companies/northrop-grumman?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Florida, US |
-| Category | DevOps Engineer |
-| Posted | 2026-05-15 |
-| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/FLNI01/Principal-Sr-Principal-Dedicated-Mission-Partner-Engineer-AHT_R10233100) |
+| Location | Niceville, Florida, United States |
+| Category | Sales Engineer |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Niceville/Principal-Sr-Principal-Dedicated-Mission-Partner-Engineer--AHT-_R10240412) |
 
 ## About This Role
 
-This devops engineer position at Northrop Grumman was posted on 2026-05-15.
+This sales engineer position at Northrop Grumman was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Harris Computer](https://scoutify.ai/companies/harriscomputer?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | 2 locations |
-| Category | Customer Success |
-| Posted | 2026-05-23 |
-| Apply | [View on company site](https://harriscomputer.wd3.myworkdayjobs.com/1/job/Remote-Pune-Baroda-India/Technical-Consultant_R0040860-2) |
+| Location | Manchester, England, United Kingdom |
+| Category | Sales Engineer |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://harriscomputer.wd3.myworkdayjobs.com/1/job/Office---Manchester/Technical-Consultant_R0043976) |
 
 ## About This Role
 
-This customer success position at Harris Computer was posted on 2026-05-23.
+This sales engineer position at Harris Computer was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Okta](https://scoutify.ai/companies/okta?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Dublin, Leinster, Ireland |
+| Location | Bengaluru, Karnataka, India |
 | Category | Sales Engineer |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://www.okta.com/company/careers/opportunity/6629089?gh_jid=6629089) |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://www.okta.com/company/careers/opportunity/8064221?gh_jid=8064221) |
 
 ## About This Role
 
-This sales engineer position at Okta was posted on 2026-03-10.
+This sales engineer position at Okta was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

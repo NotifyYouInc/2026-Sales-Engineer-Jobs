@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ServiceNow](https://scoutify.ai/companies/servicenow?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Switzerland |
+| Location | Munich, Bavaria, Germany |
 | Category | Sales Engineer |
-| Posted | 2026-07-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000136770469-advisory-presales-solution-consultant-crm-solutions) |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000137706749-advisory-presales-solution-consultant-crm-solutions) |
 
 ## About This Role
 
-This sales engineer position at ServiceNow was posted on 2026-07-09.
+This sales engineer position at ServiceNow was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

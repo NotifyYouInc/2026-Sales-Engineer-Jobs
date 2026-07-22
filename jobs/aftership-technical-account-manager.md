@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AfterShip](https://scoutify.ai/companies/aftership?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Toronto, Ontario, Canada |
-| Category | Customer Success |
-| Posted | 2026-05-01 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/aftership/jobs/5986434004) |
+| Location | California, US |
+| Category | Sales Engineer |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/aftership/jobs/6116047004) |
 
 ## About This Role
 
-This customer success position at AfterShip was posted on 2026-05-01.
+This sales engineer position at AfterShip was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

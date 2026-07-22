@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Royal Bank of Canada](https://scoutify.ai/companies/rbc?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Vancouver, British Columbia, Canada |
-| Category | Account Executive |
-| Posted | 2026-04-02 |
-| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/VANCOUVER-British-Columbia-Canada/Treasury-Solutions-Specialist_R-0000166575-1) |
+| Location | Toronto, Ontario, Canada |
+| Category | Sales Engineer |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/16-YORK-STTORONTO/Treasury-Solutions-Specialist_R-0000180570-1) |
 
 ## About This Role
 
-This account executive position at Royal Bank of Canada was posted on 2026-04-02.
+This sales engineer position at Royal Bank of Canada was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

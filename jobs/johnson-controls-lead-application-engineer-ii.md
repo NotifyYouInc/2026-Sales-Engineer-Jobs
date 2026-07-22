@@ -1,16 +1,16 @@
-# Lead. Application Engineer II at Johnson Controls
+# Lead Application Engineer II at Johnson Controls
 
 | Field | Details |
 |-------|---------|
 | Company | [Johnson Controls](https://scoutify.ai/companies/jci?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Pune, Maharashtra, India |
-| Category | Sales Engineer |
-| Posted | 2026-06-25 |
-| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Pune-Maharashtra-India/Lead-Application-Engineer-II_WD30273032-1) |
+| Location | Bengaluru, Karnataka, India |
+| Category | Software Engineer |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Bangalore-Karnataka-India/Lead-Application-Engineer-II_WD30274422) |
 
 ## About This Role
 
-This sales engineer position at Johnson Controls was posted on 2026-06-25.
+This software engineer position at Johnson Controls was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

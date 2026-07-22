@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Verkada](https://scoutify.ai/companies/verkada?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Texas, US |
+| Location | Washington, District of Columbia, United States |
 | Category | Sales Engineer |
-| Posted | 2026-02-23 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/verkada/jobs/4141002007) |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/verkada/jobs/5185861007) |
 
 ## About This Role
 
-This sales engineer position at Verkada was posted on 2026-02-23.
+This sales engineer position at Verkada was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

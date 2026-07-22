@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Comcast](https://scoutify.ai/companies/comcast?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Woodbridge, California, United States |
+| Location | 3 locations |
 | Category | Sales Engineer |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/VA---Woodbridge-4391-Dale-Blvd/Field-Sales-Engineer-2_R435436) |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Trevose-3800-Horizon-Blvd-Ste-300/Field-Sales-Engineer-2_R441087) |
 
 ## About This Role
 
-This sales engineer position at Comcast was posted on 2026-04-16.
+This sales engineer position at Comcast was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Arrow Electronics](https://scoutify.ai/companies/arrow-electronics?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Shenzhen, Guangdong, China |
+| Location | Nanjing, Jiangsu, China |
 | Category | Sales Engineer |
-| Posted | 2026-07-09 |
-| Apply | [View on company site](https://arrow.wd1.myworkdayjobs.com/ac/job/Shenzhen-Guangdong/Field-Sales-Engineer_R244055) |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://arrow.wd1.myworkdayjobs.com/ac/job/Nanjing-Jiangsu/Field-Sales-Engineer_R244767) |
 
 ## About This Role
 
-This sales engineer position at Arrow Electronics was posted on 2026-07-09.
+This sales engineer position at Arrow Electronics was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

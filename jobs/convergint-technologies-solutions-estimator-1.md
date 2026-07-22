@@ -5,12 +5,12 @@
 | Company | [Convergint Technologies](https://scoutify.ai/companies/convergint-technologies?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | United States |
 | Category | Sales Engineer |
-| Posted | 2026-06-09 |
-| Apply | [View on company site](https://recruiting2.ultipro.com/con1074cvtg/JobBoard/1831b61a-1945-44fa-afd8-624795c9b30d/OpportunityDetail?opportunityId=64526331-07f9-44c0-9ace-73e26a90005f) |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://recruiting2.ultipro.com/con1074cvtg/JobBoard/1831b61a-1945-44fa-afd8-624795c9b30d/OpportunityDetail?opportunityId=5dadb5e9-6aba-47da-aa00-b9cf8d8167ef) |
 
 ## About This Role
 
-This sales engineer position at Convergint Technologies was posted on 2026-06-09.
+This sales engineer position at Convergint Technologies was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

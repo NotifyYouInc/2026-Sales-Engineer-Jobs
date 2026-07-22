@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Zeiss](https://scoutify.ai/companies/zeissgroup?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Chengdu, Sichuan, China |
+| Location | Beijing, Beijing, China |
 | Category | Sales Engineer |
-| Posted | 2026-06-09 |
-| Apply | [View on company site](https://zeissgroup.wd3.myworkdayjobs.com/External/job/Chengdu/Senior-Sales-Engineer--REF-TP_JR_1050365) |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://zeissgroup.wd3.myworkdayjobs.com/External/job/Beijing/Senior-Sales-Engineer--REF-TP_JR_1051445) |
 
 ## About This Role
 
-This sales engineer position at Zeiss was posted on 2026-06-09.
+This sales engineer position at Zeiss was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Netskope](https://scoutify.ai/companies/netskope?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | New York City, New York, United States |
+| Location | Louisiana, US |
 | Category | Sales Engineer |
-| Posted | 2026-07-09 |
-| Apply | [View on company site](https://www.netskope.com/company/careers/open-positions/?gh_jid=8044210) |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://www.netskope.com/company/careers/open-positions/?gh_jid=8064990) |
 
 ## About This Role
 
-This sales engineer position at Netskope was posted on 2026-07-09.
+This sales engineer position at Netskope was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 
