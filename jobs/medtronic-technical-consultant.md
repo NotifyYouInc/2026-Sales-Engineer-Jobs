@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Medtronic](https://scoutify.ai/companies/medtronic?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Dublin, Leinster, Ireland |
-| Category | Customer Success |
-| Posted | 2026-06-23 |
-| Apply | [View on company site](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Dublin-County-Dublin-Ireland/Technical-Consultant_R69801-1) |
+| Location | Bucharest, București, Romania |
+| Category | Sales Engineer |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Bucharest-Bucharest-Romania/Technical-Consultant_R70504-1) |
 
 ## About This Role
 
-This customer success position at Medtronic was posted on 2026-06-23.
+This sales engineer position at Medtronic was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

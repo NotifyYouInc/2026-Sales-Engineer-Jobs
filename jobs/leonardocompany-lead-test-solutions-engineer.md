@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Leonardocompany](https://scoutify.ai/companies/leonardocompany?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Luton, England, United Kingdom |
-| Category | Engineering Manager |
-| Posted | 2026-06-10 |
-| Apply | [View on company site](https://leonardocompany.wd3.myworkdayjobs.com/leonardocareersite/job/GB---Luton---Cap-Green-300/Lead-Test-Solutions-Engineer_R0030443) |
+| Category | Sales Engineer |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://leonardocompany.wd3.myworkdayjobs.com/leonardocareersite/job/GB---Luton---Cap-Green-300/Lead-Test-Solutions-Engineer_R0031439) |
 
 ## About This Role
 
-This engineering manager position at Leonardocompany was posted on 2026-06-10.
+This sales engineer position at Leonardocompany was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

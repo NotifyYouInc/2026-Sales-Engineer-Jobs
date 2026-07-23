@@ -5,12 +5,12 @@
 | Company | [Nexthink](https://scoutify.ai/companies/nexthink?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Washington, District of Columbia, United States |
 | Category | Sales Engineer |
-| Posted | 2026-07-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/nexthink/744000137516659-solution-consultant-federal) |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/nexthink/744000137698639-solution-consultant-federal) |
 
 ## About This Role
 
-This sales engineer position at Nexthink was posted on 2026-07-13.
+This sales engineer position at Nexthink was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

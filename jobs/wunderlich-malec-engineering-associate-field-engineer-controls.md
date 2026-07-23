@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wunderlich-Malec Engineering](https://scoutify.ai/companies/wunderlich-malec-engineering?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Addison, Illinois, United States |
+| Location | Eden Prairie, Minnesota, United States |
 | Category | Sales Engineer |
-| Posted | 2026-07-07 |
-| Apply | [View on company site](https://recruiting2.ultipro.com/wun1002wnd/JobBoard/cf373efc-2fad-42c7-b3ea-efbff4360573/OpportunityDetail?opportunityId=4ae63d79-d567-44fe-8d86-32cf40a876dc) |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://recruiting2.ultipro.com/wun1002wnd/JobBoard/cf373efc-2fad-42c7-b3ea-efbff4360573/OpportunityDetail?opportunityId=d4376a5f-69bc-4963-a463-5d06fa06a87d) |
 
 ## About This Role
 
-This sales engineer position at Wunderlich-Malec Engineering was posted on 2026-07-07.
+This sales engineer position at Wunderlich-Malec Engineering was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

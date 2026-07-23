@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Micron](https://scoutify.ai/companies/micron?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Hyderabad, Telangana, India |
-| Category | Embedded / Firmware Engineer |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Hyderabad---Phoenix-Aquila-India/Test-Solutions-Engineer_JR99088) |
+| Location | Sānand, Gujarat, India |
+| Category | Sales Engineer |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Sanand---303A---ATSSDMOD-India/Test-Solutions-Engineer_JR105804) |
 
 ## About This Role
 
-This embedded / firmware engineer position at Micron was posted on 2026-05-11.
+This sales engineer position at Micron was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

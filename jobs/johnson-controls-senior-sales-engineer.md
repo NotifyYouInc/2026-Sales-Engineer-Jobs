@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Johnson Controls](https://scoutify.ai/companies/jci?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Nanjing, Jiangsu, China |
+| Location | Suzhou, Jiangsu, China |
 | Category | Sales Engineer |
-| Posted | 2026-07-13 |
-| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Nanjing-Jiangsu-China/Senior-Sales-Engineer_WD30274213-2) |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Suzhou-Jiangsu-China/Senior-Sales-Engineer_WD30274299) |
 
 ## About This Role
 
-This sales engineer position at Johnson Controls was posted on 2026-07-13.
+This sales engineer position at Johnson Controls was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

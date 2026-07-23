@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Druva](https://scoutify.ai/companies/druva?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Germany |
-| Category | Channel / Partner Sales |
-| Posted | 2026-05-20 |
-| Apply | [View on company site](https://www.druva.com/why-druva/explore/careers/jobs/8541207002/?gh_jid=8541207002) |
+| Location | Washington, District of Columbia, United States |
+| Category | Sales Engineer |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://www.druva.com/why-druva/explore/careers/jobs/8631457002/?gh_jid=8631457002) |
 
 ## About This Role
 
-This channel / partner sales position at Druva was posted on 2026-05-20.
+This sales engineer position at Druva was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

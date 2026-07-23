@@ -5,12 +5,12 @@
 | Company | [VusionGroup SA](https://scoutify.ai/companies/vusiongroup-sa?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Italy |
 | Category | Sales Engineer |
-| Posted | 2026-07-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/vusiongroupsa/744000135447306-solution-engineer) |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/vusiongroupsa/744000137873069-solution-engineer) |
 
 ## About This Role
 
-This sales engineer position at VusionGroup SA was posted on 2026-07-02.
+This sales engineer position at VusionGroup SA was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

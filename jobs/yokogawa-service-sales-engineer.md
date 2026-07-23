@@ -1,16 +1,16 @@
-# Service Sales Engineer at Yokogawa
+# Service sales Engineer at Yokogawa
 
 | Field | Details |
 |-------|---------|
 | Company | [Yokogawa](https://scoutify.ai/companies/yokogawa?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Kolkata, West Bengal, India |
-| Category | Account Executive |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://yokogawa.wd3.myworkdayjobs.com/yokogawa-career-site/job/Kolkatta/Service-Sales-Engineer_R-9480) |
+| Location | Saudi Arabia |
+| Category | Sales Engineer |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://yokogawa.wd3.myworkdayjobs.com/yokogawa-career-site/job/Jubail/Service-sales-Engineer_R-11917) |
 
 ## About This Role
 
-This account executive position at Yokogawa was posted on 2026-02-25.
+This sales engineer position at Yokogawa was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Xylem](https://scoutify.ai/companies/xylem?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Calgary, Alberta, Canada |
+| Location | 3 locations |
 | Category | Sales Engineer |
-| Posted | 2026-06-18 |
-| Apply | [View on company site](https://xylem.wd5.myworkdayjobs.com/xylem-careers/job/Calgary/Technical-Sales-Engineer-Specialist_R49087) |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://xylem.wd5.myworkdayjobs.com/xylem-careers/job/Sanford-Florida/Technical-Sales-Engineer-Specialist_R49572) |
 
 ## About This Role
 
-This sales engineer position at Xylem was posted on 2026-06-18.
+This sales engineer position at Xylem was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

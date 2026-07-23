@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | 2 locations |
+| Location | New York City, New York, United States |
 | Category | Sales Engineer |
-| Posted | 2026-06-11 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckbuoZ_Z-f-C9AxBzm49P5W6sVAuigDiCCmantcmGoKcFEjsACxwdTHiPRsIqrp-97_daYatq6APoQPvxoL2ismK5C0Pr_UsIoD_k3J_nkKR8o54BVIHcAWSsRa3NGg%3D%3D_V2&loc=US&title=Customer+Engineer+II) |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckavLb6prQ6tDZuF1Sc3xV9o2nWQZsvqfLbjZxe1mi36MEjsA1Ny_i3xy1RUXDROM1AIsRzvfPEmfD-TtEE56lFr1GpE3kSFFMZSm7LfNGb8DOMyryegEBeIFjMnh8Q%3D%3D_V2&loc=US&title=Customer+Engineer+II) |
 
 ## About This Role
 
-This sales engineer position at Google was posted on 2026-06-11.
+This sales engineer position at Google was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

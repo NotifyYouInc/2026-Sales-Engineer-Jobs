@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Automation Anywhere](https://scoutify.ai/companies/automation-anywhere?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | San Jose, California, United States |
+| Location | Mexico City, Mexico City, Mexico |
 | Category | Sales Engineer |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://automationanywhere.wd5.myworkdayjobs.com/automationanywherejobs/job/San-Jose-California/Sr-Sales-Engineer_JR1258) |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://automationanywhere.wd5.myworkdayjobs.com/automationanywherejobs/job/MX-Mexico-City/Sr-Sales-Engineer_JR1407) |
 
 ## About This Role
 
-This sales engineer position at Automation Anywhere was posted on 2026-04-13.
+This sales engineer position at Automation Anywhere was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

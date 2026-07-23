@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [PTC](https://scoutify.ai/companies/ptc?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Pune, Maharashtra, India |
-| Category | Technology / IT Consulting |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://ptc.wd1.myworkdayjobs.com/PTC/job/Pune-India/QA-Technical-Consultant_JR111633) |
+| Category | Sales Engineer |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://ptc.wd1.myworkdayjobs.com/PTC/job/Pune-India/QA-Technical-Consultant_JR112364-1) |
 
 ## About This Role
 
-This technology / it consulting position at PTC was posted on 2026-02-19.
+This sales engineer position at PTC was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

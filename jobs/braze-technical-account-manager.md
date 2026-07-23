@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Braze](https://scoutify.ai/companies/braze?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | San Francisco, California, United States |
-| Category | Customer Success |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://boards.greenhouse.io/braze/jobs/7872124?gh_jid=7872124) |
+| Location | Toronto, Ontario, Canada |
+| Category | Sales Engineer |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://boards.greenhouse.io/braze/jobs/8067160?gh_jid=8067160) |
 
 ## About This Role
 
-This customer success position at Braze was posted on 2026-04-30.
+This sales engineer position at Braze was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

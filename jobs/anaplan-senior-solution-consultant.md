@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Anaplan](https://scoutify.ai/companies/anaplan?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Texas, US |
-| Category | Technical & Solutions Architect |
-| Posted | 2026-04-28 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/anaplan/jobs/8526492002) |
+| Location | Paris, Île-de-France, France |
+| Category | Sales Engineer |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/anaplan/jobs/8624595002) |
 
 ## About This Role
 
-This technical & solutions architect position at Anaplan was posted on 2026-04-28.
+This sales engineer position at Anaplan was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

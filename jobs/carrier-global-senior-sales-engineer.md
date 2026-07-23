@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Carrier Global](https://scoutify.ai/companies/carrier?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | 2 locations |
+| Location | Melbourne, Victoria, Australia |
 | Category | Sales Engineer |
-| Posted | 2026-06-25 |
-| Apply | [View on company site](https://carrier.wd5.myworkdayjobs.com/jobs/job/Carrier-Malaysia-Sdn-Bhd-No-10F-1-10th-Floor-Tower-5--PFCC--Jalan-Puteri-12-Bandar-Puteri-47100-Puchong-Selangor/Senior-Sales-Engineer_30209344) |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://carrier.wd5.myworkdayjobs.com/jobs/job/8-Nexus-CtMulgraveMelbourneVictoria3170Australia/Senior-Sales-Engineer_30212839) |
 
 ## About This Role
 
-This sales engineer position at Carrier Global was posted on 2026-06-25.
+This sales engineer position at Carrier Global was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

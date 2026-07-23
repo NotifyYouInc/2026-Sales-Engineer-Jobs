@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sika](https://scoutify.ai/companies/sika?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Switzerland |
-| Category | Frontend Engineer |
-| Posted | 2026-03-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SikaAG/744000115832205-senior-technical-consultant-sap-development-transportation-management) |
+| Location | Zürich, Zurich, Switzerland |
+| Category | Sales Engineer |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SikaAG/744000138020909-senior-technical-consultant-sap-development-transportation-management) |
 
 ## About This Role
 
-This frontend engineer position at Sika was posted on 2026-03-20.
+This sales engineer position at Sika was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

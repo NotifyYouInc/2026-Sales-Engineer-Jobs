@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Brink's](https://scoutify.ai/companies/brink-s?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Manila, National Capital Region, Philippines |
+| Location | Jakarta, Jakarta, Indonesia |
 | Category | Sales Engineer |
-| Posted | 2026-07-13 |
-| Apply | [View on company site](https://brinks.wd5.myworkdayjobs.com/brinkscareers_row/job/Philippines-Manila-Head-Office/Solution-Support-Specialist_R71663) |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://brinks.wd5.myworkdayjobs.com/brinkscareers_row/job/Jakarta/Solution-Support-Specialist_R71662) |
 
 ## About This Role
 
-This sales engineer position at Brink's was posted on 2026-07-13.
+This sales engineer position at Brink's was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

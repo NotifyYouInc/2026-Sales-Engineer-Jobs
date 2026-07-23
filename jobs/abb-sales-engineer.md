@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ABB](https://scoutify.ai/companies/abb?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Singapore, Singapore |
+| Location | Hangzhou, Zhejiang, China |
 | Category | Sales Engineer |
-| Posted | 2026-06-16 |
-| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Singapore-Central-Singapore-Singapore/Sales-Engineer_JR00036136) |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Hangzhou-Zhejiang-China/Sales-Engineer_JR00041777) |
 
 ## About This Role
 
-This sales engineer position at ABB was posted on 2026-06-16.
+This sales engineer position at ABB was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

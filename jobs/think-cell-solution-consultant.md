@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [think-cell](https://scoutify.ai/companies/think-cell?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Denver, Colorado, United States |
-| Category | Technical & Solutions Architect |
-| Posted | 2026-06-16 |
-| Apply | [View on company site](https://job-boards.eu.greenhouse.io/think-cell/jobs/4896887101) |
+| Location | New York City, New York, United States |
+| Category | Sales Engineer |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://job-boards.eu.greenhouse.io/think-cell/jobs/4929136101) |
 
 ## About This Role
 
-This technical & solutions architect position at think-cell was posted on 2026-06-16.
+This sales engineer position at think-cell was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 
