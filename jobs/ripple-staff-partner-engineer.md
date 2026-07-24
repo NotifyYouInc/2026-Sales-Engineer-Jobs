@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Ripple](https://scoutify.ai/companies/ripple?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | San Francisco, California, United States |
-| Category | Software Engineer |
-| Posted | 2026-05-28 |
-| Apply | [View on company site](https://ripple.com/careers/all-jobs/job/7955223?gh_jid=7955223) |
+| Location | New York City, New York, United States |
+| Category | Sales Engineer |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://ripple.com/careers/all-jobs/job/7955235?gh_jid=7955235) |
 
 ## About This Role
 
-This software engineer position at Ripple was posted on 2026-05-28.
+This sales engineer position at Ripple was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

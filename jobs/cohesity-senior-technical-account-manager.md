@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cohesity](https://scoutify.ai/companies/cohesity?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Melbourne, Victoria, Australia |
-| Category | Customer Success |
-| Posted | 2026-06-04 |
-| Apply | [View on company site](https://cohesity.wd5.myworkdayjobs.com/Cohesity_Careers/job/Australia---Victoria---Remote/Senior-Technical-Account-Manager_R03447) |
+| Location | Norway |
+| Category | Sales Engineer |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://cohesity.wd5.myworkdayjobs.com/Cohesity_Careers/job/Norway---Remote/Senior-Technical-Account-Manager_R04091) |
 
 ## About This Role
 
-This customer success position at Cohesity was posted on 2026-06-04.
+This sales engineer position at Cohesity was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

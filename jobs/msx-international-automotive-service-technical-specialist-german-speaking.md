@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [MSX International](https://scoutify.ai/companies/msxinternational?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Budapest, Budapest, Hungary |
-| Category | Customer Success |
-| Posted | 2026-06-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/MSXInternational/3743990013575226-automotive-service-technical-specialist-german-speaking) |
+| Category | Sales Engineer |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/MSXInternational/3743990014123296-automotive-service-technical-specialist-german-speaking) |
 
 ## About This Role
 
-This customer success position at MSX International was posted on 2026-06-11.
+This sales engineer position at MSX International was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

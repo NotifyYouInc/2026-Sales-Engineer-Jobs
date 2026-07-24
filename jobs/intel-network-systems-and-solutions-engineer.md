@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Intel](https://scoutify.ai/companies/intel?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Taipei, Taiwan, Taiwan |
-| Category | Electrical / Hardware Engineer |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://intel.wd1.myworkdayjobs.com/External/job/Taiwan-Taipei/Network-Systems-and-Solutions-Engineer_JR0281554) |
+| Location | Hillsboro, Oregon, United States |
+| Category | Sales Engineer |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Network-Systems-and-Solutions-Engineer_JR0285494) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Intel was posted on 2026-03-06.
+This sales engineer position at Intel was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

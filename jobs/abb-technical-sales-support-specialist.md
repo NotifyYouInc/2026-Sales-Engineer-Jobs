@@ -1,16 +1,16 @@
-# Technical sales support Specialist at ABB
+# Technical Sales Support Specialist at ABB
 
 | Field | Details |
 |-------|---------|
 | Company | [ABB](https://scoutify.ai/companies/abb?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | 2 locations |
+| Location | 3 locations |
 | Category | Sales Engineer |
-| Posted | 2026-06-22 |
-| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Beijing-Beijing-China/Technical-sales-support-Specialist_JR00035973) |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Krakow-Lesser-Poland-Poland/Technical-Sales-Support-Specialist_JR00039764-1) |
 
 ## About This Role
 
-This sales engineer position at ABB was posted on 2026-06-22.
+This sales engineer position at ABB was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

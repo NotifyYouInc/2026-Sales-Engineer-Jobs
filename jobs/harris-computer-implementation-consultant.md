@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Harris Computer](https://scoutify.ai/companies/harriscomputer?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Alberta, CA |
+| Location | 2 locations |
 | Category | Sales Engineer |
-| Posted | 2026-07-08 |
-| Apply | [View on company site](https://harriscomputer.wd3.myworkdayjobs.com/1/job/Ontario-Canada/Implementation-Consultant_R0041006-1) |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://harriscomputer.wd3.myworkdayjobs.com/1/job/Remote-Pune-Baroda-India/Implementation-Consultant_R0044360-1) |
 
 ## About This Role
 
-This sales engineer position at Harris Computer was posted on 2026-07-08.
+This sales engineer position at Harris Computer was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

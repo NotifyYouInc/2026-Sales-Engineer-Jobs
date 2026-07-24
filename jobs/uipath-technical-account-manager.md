@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [UiPath](https://scoutify.ai/companies/uipath?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Toronto, Ontario, Canada |
-| Category | Customer Success |
-| Posted | 2026-05-01 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/uipath/bd6678e1-3288-469a-ba1c-759b4232e097) |
+| Location | São Paulo, São Paulo, Brazil |
+| Category | Sales Engineer |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/uipath/871f8913-96fd-4b1f-9974-1f5b1d38213f) |
 
 ## About This Role
 
-This customer success position at UiPath was posted on 2026-05-01.
+This sales engineer position at UiPath was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

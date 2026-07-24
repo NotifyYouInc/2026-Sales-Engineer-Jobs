@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [LG Electronics](https://scoutify.ai/companies/lg-electronics?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | California, US |
-| Category | Customer Success |
-| Posted | 2026-05-07 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/lgelectronics/jobs/5213464008) |
+| Category | Sales Engineer |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/lgelectronics/jobs/5356505008) |
 
 ## About This Role
 
-This customer success position at LG Electronics was posted on 2026-05-07.
+This sales engineer position at LG Electronics was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

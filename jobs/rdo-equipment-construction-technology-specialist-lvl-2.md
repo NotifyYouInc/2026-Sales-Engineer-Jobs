@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [RDO Equipment](https://scoutify.ai/companies/rdo-equipment?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | 2 locations |
-| Category | Customer Success |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://recruiting2.ultipro.com/rdo1000rdo/JobBoard/b65401d2-4de5-4c2b-851f-556182926250/OpportunityDetail?opportunityId=f51e8839-48f9-4db3-8bed-7d9e79313030) |
+| Location | Cheyenne, Wyoming, United States |
+| Category | Sales Engineer |
+| Posted | 2026-07-17 |
+| Apply | [View on company site](https://recruiting2.ultipro.com/rdo1000rdo/JobBoard/b65401d2-4de5-4c2b-851f-556182926250/OpportunityDetail?opportunityId=4ed7ec8b-d7df-4549-855c-6e7b2ee117e7) |
 
 ## About This Role
 
-This customer success position at RDO Equipment was posted on 2026-04-17.
+This sales engineer position at RDO Equipment was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 

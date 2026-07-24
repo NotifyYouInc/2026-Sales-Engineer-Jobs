@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Okta](https://scoutify.ai/companies/okta?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | 7 locations |
-| Category | Customer Success |
-| Posted | 2026-05-14 |
-| Apply | [View on company site](https://www.okta.com/company/careers/opportunity/7914568?gh_jid=7914568) |
+| Location | 5 locations |
+| Category | Sales Engineer |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://www.okta.com/company/careers/opportunity/7997944?gh_jid=7997944) |
 
 ## About This Role
 
-This customer success position at Okta was posted on 2026-05-14.
+This sales engineer position at Okta was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

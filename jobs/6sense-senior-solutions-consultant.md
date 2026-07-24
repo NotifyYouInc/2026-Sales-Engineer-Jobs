@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [6sense](https://scoutify.ai/companies/6sense?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | United States |
-| Category | Implementation / Professional Services |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://boards.greenhouse.io/6sense/jobs/7793800?gh_jid=7793800) |
+| Category | Sales Engineer |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://boards.greenhouse.io/6sense/jobs/8056053?gh_jid=8056053) |
 
 ## About This Role
 
-This implementation / professional services position at 6sense was posted on 2026-04-13.
+This sales engineer position at 6sense was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

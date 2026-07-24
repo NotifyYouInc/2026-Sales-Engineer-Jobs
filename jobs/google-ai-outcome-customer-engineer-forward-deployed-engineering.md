@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | 2 locations |
-| Category | Technical & Solutions Architect |
-| Posted | 2026-06-23 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckfnDbBu_fCHFnztUof0YMS5xjzxIWKxE4-6yGpiZWmBGEjsA1Ny_i7wI16Hv1TJwD7SAl1wf6D44khWTJoxwgWR8XziizoAmvvc_bt49w33QLK6x3E40fSoAOR0Big%3D%3D_V2&loc=US&title=AI+Outcome+Customer+Engineer) |
+| Location | Singapore, Singapore |
+| Category | Forward Deployed Engineer |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckefB9VnErrIjd5IA86xV78H2OKBDB_G8yDmIHiDCBNhUEjsA1Ny_izu16HHsJAMKPB2N1489UvWkPsPhgzPJUnQ2Aqxln3V3BH_sLT4lrJIhgQXR02Q2-ZbCuIaIhw%3D%3D_V2&loc=SG&title=AI+Outcome+Customer+Engineer) |
 
 ## About This Role
 
-This technical & solutions architect position at Google was posted on 2026-06-23.
+This forward deployed engineer position at Google was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

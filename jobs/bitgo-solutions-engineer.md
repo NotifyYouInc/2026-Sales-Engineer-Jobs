@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [BitGo](https://scoutify.ai/companies/bitgo?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | São Paulo, São Paulo, Brazil |
-| Category | Technical & Solutions Architect |
-| Posted | 2026-06-10 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/bitgo/jobs/8584800002) |
+| Location | Singapore, Singapore |
+| Category | Sales Engineer |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/bitgo/jobs/8637553002) |
 
 ## About This Role
 
-This technical & solutions architect position at BitGo was posted on 2026-06-10.
+This sales engineer position at BitGo was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 
