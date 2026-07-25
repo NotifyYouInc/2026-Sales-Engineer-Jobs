@@ -5,12 +5,12 @@
 | Company | [T-Mobile](https://scoutify.ai/companies/tmobile?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Herndon, Virginia, United States |
 | Category | Sales Engineer |
-| Posted | 2026-06-26 |
-| Apply | [View on company site](https://tmobile.wd1.myworkdayjobs.com/External/job/Herndon-Virginia/Senior-Solutions-Engineer---Federal-DoD-Sales_REQ360357) |
+| Posted | 2026-07-17 |
+| Apply | [View on company site](https://tmobile.wd1.myworkdayjobs.com/External/job/Herndon-Virginia/Senior-Solutions-Engineer---Federal-DoD-Sales_REQ364871) |
 
 ## About This Role
 
-This sales engineer position at T-Mobile was posted on 2026-06-26.
+This sales engineer position at T-Mobile was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 

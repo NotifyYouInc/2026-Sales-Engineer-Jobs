@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [HARMAN International](https://scoutify.ai/companies/harman?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Northridge, California, United States |
-| Category | Engineering Manager |
-| Posted | 2026-06-04 |
-| Apply | [View on company site](https://harman.wd3.myworkdayjobs.com/HARMAN/job/Northridge---California-USA/Manager-Technical-Sales-North-America_R-53593-2026) |
+| Category | Sales Engineer |
+| Posted | 2026-07-18 |
+| Apply | [View on company site](https://jobsearch.harman.com/en_US/careers/JobDetail/Manager-Technical-Sales-North-America/31746) |
 
 ## About This Role
 
-This engineering manager position at HARMAN International was posted on 2026-06-04.
+This sales engineer position at HARMAN International was posted on 2026-07-18.
 
 ## Get Real-Time Alerts
 

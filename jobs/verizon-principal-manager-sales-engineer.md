@@ -1,16 +1,16 @@
-# Principal Manager-Sales Engineer at Verizon
+# Principal Manager - Sales Engineer at Verizon
 
 | Field | Details |
 |-------|---------|
 | Company | [Verizon](https://scoutify.ai/companies/verizon?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Nashville, Tennessee, United States |
-| Category | Account Manager |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Nashville-Tennessee/Principal-Manager-Sales-Engineer_R-1095251-1) |
+| Location | Alpharetta, Georgia, United States |
+| Category | Sales Engineer |
+| Posted | 2026-07-17 |
+| Apply | [View on company site](https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Alpharetta-Georgia/Principal-Manager---Sales-Engineer_R-1097786-1) |
 
 ## About This Role
 
-This account manager position at Verizon was posted on 2026-05-22.
+This sales engineer position at Verizon was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 

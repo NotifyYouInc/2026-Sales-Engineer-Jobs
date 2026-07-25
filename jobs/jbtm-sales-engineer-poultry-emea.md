@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Jbtm](https://scoutify.ai/companies/jbtm?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Not specified |
+| Location | 2 locations |
 | Category | Sales Engineer |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://jbtm.wd108.myworkdayjobs.com/jbt_marel_career_site/job/NL---Boxmeer-JP/Sales-Engineer--Poultry--EMEA_22147) |
+| Posted | 2026-07-17 |
+| Apply | [View on company site](https://jbtm.wd108.myworkdayjobs.com/jbt_marel_career_site/job/NL---Boxmeer/Sales-Engineer--Poultry--EMEA_23815-1) |
 
 ## About This Role
 
-This sales engineer position at Jbtm was posted on 2026-04-15.
+This sales engineer position at Jbtm was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 

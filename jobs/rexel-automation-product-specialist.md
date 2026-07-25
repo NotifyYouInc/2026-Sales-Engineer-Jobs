@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [REXEL](https://scoutify.ai/companies/rexel?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Solon, Ohio, United States |
+| Location | Broken Arrow, Oklahoma, United States |
 | Category | Sales Engineer |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/REXEL1/744000121867831-automation-product-specialist) |
+| Posted | 2026-07-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/REXEL1/744000138389169-automation-product-specialist) |
 
 ## About This Role
 
-This sales engineer position at REXEL was posted on 2026-04-20.
+This sales engineer position at REXEL was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Appian](https://scoutify.ai/companies/appian?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Raleigh, North Carolina, United States |
-| Category | Technology / IT Consulting |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/appian/jobs/7847010) |
+| Location | Denver, Colorado, United States |
+| Category | Sales Engineer |
+| Posted | 2026-07-17 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/appian/jobs/8072062) |
 
 ## About This Role
 
-This technology / it consulting position at Appian was posted on 2026-04-23.
+This sales engineer position at Appian was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 

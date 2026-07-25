@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Varian](https://scoutify.ai/companies/onehealthineers?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | 2 locations |
-| Category | Marketing |
-| Posted | 2026-06-08 |
-| Apply | [View on company site](https://onehealthineers.wd3.myworkdayjobs.com/SHSJB/job/TPE-DH-337/Product-Specialist_R-28884) |
+| Location | Shanghai, Shanghai, China |
+| Category | Sales Engineer |
+| Posted | 2026-07-17 |
+| Apply | [View on company site](https://onehealthineers.wd3.myworkdayjobs.com/SHSJB/job/SHA-WH/Product-Specialist_R-29543) |
 
 ## About This Role
 
-This marketing position at Varian was posted on 2026-06-08.
+This sales engineer position at Varian was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 

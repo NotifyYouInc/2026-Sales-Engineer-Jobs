@@ -1,16 +1,16 @@
-# Implementation Consultant Lead at Sprinklr
+# Implementation Consultant - Lead at Sprinklr
 
 | Field | Details |
 |-------|---------|
 | Company | [Sprinklr](https://scoutify.ai/companies/sprinklr?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Paris, Île-de-France, France |
-| Category | Customer Success |
-| Posted | 2026-06-02 |
-| Apply | [View on company site](https://sprinklr.wd1.myworkdayjobs.com/careers/job/France---Paris/Implementation-Consultant-Lead_113132-JOB) |
+| Location | Mexico |
+| Category | Sales Engineer |
+| Posted | 2026-07-17 |
+| Apply | [View on company site](https://sprinklr.wd1.myworkdayjobs.com/careers/job/Mexico---Remote/Implementation-Consultant---Lead_113252-JOB) |
 
 ## About This Role
 
-This customer success position at Sprinklr was posted on 2026-06-02.
+This sales engineer position at Sprinklr was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 

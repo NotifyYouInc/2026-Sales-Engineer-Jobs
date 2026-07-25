@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Seattle, Washington, United States |
-| Category | Sales Engineer |
-| Posted | 2026-05-27 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckTvmq_urm0IykOt1NvbTWc1izTlLEe7wnZSsSrC67EBOEjsACxwdTKkUp7_XjiCpZlLgy1dsDgDQWf6oLMo0MfEj9nFXl05ZLbgagLSYHwlkFKpHh9fbkB59m34cxA%3D%3D_V2&loc=US&title=Data+Transformation+Lead) |
+| Location | San Francisco, California, United States |
+| Category | Strategy & Operations |
+| Posted | 2026-07-17 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckSzG4PuVvHNDGTWSucdKPuGaumlor_peUs0REVFBcFMsEjsA1Ny_i85bkHt672aEEziGBzsQ7ETappwBAuBDBdYBjhvdLXWeZb-t7Gl8kBanb_6jDAqHioab-t8txA%3D%3D_V2&loc=US&title=Data+Transformation+Lead) |
 
 ## About This Role
 
-This sales engineer position at Google was posted on 2026-05-27.
+This strategy & operations position at Google was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 

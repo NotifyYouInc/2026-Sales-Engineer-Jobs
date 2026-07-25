@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Equinix](https://scoutify.ai/companies/equinix?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Hong Kong |
+| Location | 2 locations |
 | Category | Sales Engineer |
-| Posted | 2026-06-18 |
-| Apply | [View on company site](https://equinix.wd1.myworkdayjobs.com/external/job/Kowloon-West/Senior-Lead-Sales-Engineer_JR-161656) |
+| Posted | 2026-07-17 |
+| Apply | [View on company site](https://equinix.wd1.myworkdayjobs.com/external/job/Amsterdam/Senior-Lead-Sales-Engineer_JR-162243-1) |
 
 ## About This Role
 
-This sales engineer position at Equinix was posted on 2026-06-18.
+This sales engineer position at Equinix was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 

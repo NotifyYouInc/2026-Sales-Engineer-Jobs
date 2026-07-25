@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Zscaler](https://scoutify.ai/companies/zscaler?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Not specified |
+| Location | Oregon, US |
 | Category | Sales Engineer |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/zscaler/jobs/5068758007) |
+| Posted | 2026-07-17 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/zscaler/jobs/5116406007) |
 
 ## About This Role
 
-This sales engineer position at Zscaler was posted on 2026-03-06.
+This sales engineer position at Zscaler was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 
