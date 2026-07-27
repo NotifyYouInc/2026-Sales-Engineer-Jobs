@@ -1,16 +1,16 @@
-# ERP Technical Consultant (Dutch Speaker) at Unit4
+# ERP Technical Consultant (Dutch speaker) at Unit4
 
 | Field | Details |
 |-------|---------|
 | Company | [Unit4](https://scoutify.ai/companies/unit44?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Dordrecht, South Holland, The Netherlands |
+| Location | Lisbon, Lisbon, Portugal |
 | Category | Sales Engineer |
-| Posted | 2026-07-15 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Unit44/744000137811634-erp-technical-consultant-dutch-speaker) |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Unit44/744000138098114-erp-technical-consultant-dutch-speaker) |
 
 ## About This Role
 
-This sales engineer position at Unit4 was posted on 2026-07-15.
+This sales engineer position at Unit4 was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

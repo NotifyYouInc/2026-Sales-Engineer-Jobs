@@ -1,16 +1,16 @@
-# Senior Sales Engineer - Majors at Zscaler
+# Senior Solutions Engineer at Titan
 
 | Field | Details |
 |-------|---------|
-| Company | [Zscaler](https://scoutify.ai/companies/zscaler?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Company | [Titan](https://scoutify.ai/companies/titan-ai?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
+| Location | United States |
 | Category | Sales Engineer |
-| Posted | 2026-07-16 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/zscaler/jobs/5150518007) |
+| Posted | 2025-10-31 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/titan-ai/63eb1d58-6200-47ce-9132-7cbba2763367) |
 
 ## About This Role
 
-This sales engineer position at Zscaler was posted on 2026-07-16.
+This sales engineer position at Titan was posted on 2025-10-31.
 
 ## Get Real-Time Alerts
 

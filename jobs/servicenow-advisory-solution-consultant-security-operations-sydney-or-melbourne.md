@@ -1,16 +1,16 @@
-# Solution Consultant at ServiceNow
+# Advisory Solution Consultant, Security Operations – Sydney or Melbourne  at ServiceNow
 
 | Field | Details |
 |-------|---------|
 | Company | [ServiceNow](https://scoutify.ai/companies/servicenow?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Staines, England, United Kingdom |
-| Category | Sales Engineer |
+| Location | Sydney, New South Wales, Australia |
+| Category | SOC & Incident Response |
 | Posted | 2026-07-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000138579359-solution-consultant) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000138525861-advisory-solution-consultant-security-operations-sydney-or-melbourne) |
 
 ## About This Role
 
-This sales engineer position at ServiceNow was posted on 2026-07-20.
+This soc & incident response position at ServiceNow was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 

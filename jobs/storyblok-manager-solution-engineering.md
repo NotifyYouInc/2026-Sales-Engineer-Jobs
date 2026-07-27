@@ -1,16 +1,16 @@
-# Senior Sales Engineer - Majors at Zscaler
+# Manager, Solution Engineering  at Storyblok
 
 | Field | Details |
 |-------|---------|
-| Company | [Zscaler](https://scoutify.ai/companies/zscaler?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Company | [Storyblok](https://scoutify.ai/companies/storyblok?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
+| Location | United States |
 | Category | Sales Engineer |
-| Posted | 2026-07-16 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/zscaler/jobs/5150518007) |
+| Posted | 2026-07-20 |
+| Apply | [View on company site](https://www.storyblok.com/job?gh_jid=4929539101) |
 
 ## About This Role
 
-This sales engineer position at Zscaler was posted on 2026-07-16.
+This sales engineer position at Storyblok was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 

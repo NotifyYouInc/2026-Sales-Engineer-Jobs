@@ -1,16 +1,16 @@
-# Lead - Solution Engineer at Freshworks CRM
+# Technical Sales Support Specialist – Motors & Generators Services at ABB
 
 | Field | Details |
 |-------|---------|
-| Company | [Freshworks CRM](https://scoutify.ai/companies/freshworkscrm?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
+| Company | [ABB](https://scoutify.ai/companies/abb?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Sales Engineer |
 | Posted | 2026-07-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Freshworks/744000138597751-lead-solution-engineer) |
+| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Bangalore-Karnataka-India/Technical-Sales-Support-Specialist---Motors---Generators-Services_JR00041706) |
 
 ## About This Role
 
-This sales engineer position at Freshworks CRM was posted on 2026-07-20.
+This sales engineer position at ABB was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 

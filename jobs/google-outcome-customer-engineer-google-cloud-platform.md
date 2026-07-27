@@ -1,16 +1,16 @@
-# Technical Account Manager, Google Cloud Consulting at Google
+# Outcome Customer Engineer, Google Cloud Platform at Google
 
 | Field | Details |
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | 3 locations |
+| Location | Taipei, Taiwan, Taiwan |
 | Category | Sales Engineer |
-| Posted | 2026-07-17 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2Fcke2oAj445O8qZOWWscwrB4fCWfCTxD_KF73JqgoV5pJIEjsA1Ny_i8X389p0SnsXiKXoeNCto8fcfgsEKgIUHA3CosX5Exf9LItV_IeCg83CwfcFbZnsROaXG5t30w%3D%3D_V2&loc=US&title=Technical+Account+Manager) |
+| Posted | 2026-07-20 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckSqdvFsHm7GXVg1VLIBkY8MlpWnbh2vkxfaRQ_aMyGtxEjsA1Ny_i756lGe7CxOqinitdW5m2LLYu7Gy5m9pQbEIbaMXNX0gYRAVLTNu4yTaGS5u48x71VrpflyXNA%3D%3D_V2&loc=TW&title=Outcome+Customer+Engineer) |
 
 ## About This Role
 
-This sales engineer position at Google was posted on 2026-07-17.
+This sales engineer position at Google was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 

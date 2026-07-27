@@ -1,16 +1,16 @@
-# Satair - People Solutions Specialist at Airbus
+# eSIM Technical Consultant (W/M) at Thales
 
 | Field | Details |
 |-------|---------|
-| Company | [Airbus](https://scoutify.ai/companies/ag?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Singapore, Singapore |
+| Company | [Thales](https://scoutify.ai/companies/thales?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
+| Location | Meudon, Île-de-France, France |
 | Category | Sales Engineer |
 | Posted | 2026-07-20 |
-| Apply | [View on company site](https://ag.wd3.myworkdayjobs.com/Airbus/job/Singapore-Area/Satair---People-Solutions-Specialist_JR10430661) |
+| Apply | [View on company site](https://thales.wd3.myworkdayjobs.com/Careers/job/Meudon/eSIM-Technical-Consultant--W-M-_R0334573) |
 
 ## About This Role
 
-This sales engineer position at Airbus was posted on 2026-07-20.
+This sales engineer position at Thales was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 

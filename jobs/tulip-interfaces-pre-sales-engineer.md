@@ -1,16 +1,16 @@
-# Senior Sales Engineer - Majors at Zscaler
+# Pre Sales Engineer at Tulip Interfaces
 
 | Field | Details |
 |-------|---------|
-| Company | [Zscaler](https://scoutify.ai/companies/zscaler?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Company | [Tulip Interfaces](https://scoutify.ai/companies/tulip-interfaces?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
+| Location | Munich, Bavaria, Germany |
 | Category | Sales Engineer |
-| Posted | 2026-07-16 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/zscaler/jobs/5150518007) |
+| Posted | 2026-07-19 |
+| Apply | [View on company site](https://tulip.co/careers/job-posting/?gh_jid=6614901003) |
 
 ## About This Role
 
-This sales engineer position at Zscaler was posted on 2026-07-16.
+This sales engineer position at Tulip Interfaces was posted on 2026-07-19.
 
 ## Get Real-Time Alerts
 

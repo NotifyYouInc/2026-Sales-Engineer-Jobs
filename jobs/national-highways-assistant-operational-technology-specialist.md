@@ -1,16 +1,16 @@
-# Senior Sales Engineer - Majors at Zscaler
+# Assistant Operational Technology Specialist at National Highways
 
 | Field | Details |
 |-------|---------|
-| Company | [Zscaler](https://scoutify.ai/companies/zscaler?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Company | [National Highways](https://scoutify.ai/companies/em1-ukg-cx-oj74892?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
+| Location | United Kingdom |
 | Category | Sales Engineer |
-| Posted | 2026-07-16 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/zscaler/jobs/5150518007) |
+| Posted | 2026-07-20 |
+| Apply | [View on company site](https://ehcu.fa.em1.ukg.oraclecloud.com/jobs/#7588) |
 
 ## About This Role
 
-This sales engineer position at Zscaler was posted on 2026-07-16.
+This sales engineer position at National Highways was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Senior Sales Engineer - Majors at Zscaler
+# Enterprise Solutions Engineer - Nordics at Eleven Labs
 
 | Field | Details |
 |-------|---------|
-| Company | [Zscaler](https://scoutify.ai/companies/zscaler?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Company | [Eleven Labs](https://scoutify.ai/companies/eleven-labs?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
+| Location | Denmark |
 | Category | Sales Engineer |
-| Posted | 2026-07-16 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/zscaler/jobs/5150518007) |
+| Posted | 2026-07-20 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/elevenlabs/4fa4745c-cc31-4d20-8695-60e104c9c217) |
 
 ## About This Role
 
-This sales engineer position at Zscaler was posted on 2026-07-16.
+This sales engineer position at Eleven Labs was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 

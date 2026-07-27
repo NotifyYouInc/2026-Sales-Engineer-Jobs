@@ -1,16 +1,16 @@
-# Sales Engineer at Flowserve
+# Security Solution Engineer (Presales) - Automotive, Travel & Transport Industry at Microsoft
 
 | Field | Details |
 |-------|---------|
-| Company | [Flowserve](https://scoutify.ai/companies/flowserve?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Corpus Christi, Texas, United States |
+| Company | [Microsoft](https://scoutify.ai/companies/microsoft?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
+| Location | Germany |
 | Category | Sales Engineer |
 | Posted | 2026-07-19 |
-| Apply | [View on company site](https://flowserve.wd1.myworkdayjobs.com/applied/job/Corpus-Christi-Texas-US/Sales-Engineer_R-20277) |
+| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556937848) |
 
 ## About This Role
 
-This sales engineer position at Flowserve was posted on 2026-07-19.
+This sales engineer position at Microsoft was posted on 2026-07-19.
 
 ## Get Real-Time Alerts
 

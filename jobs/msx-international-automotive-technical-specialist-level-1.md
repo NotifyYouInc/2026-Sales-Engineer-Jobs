@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [MSX International](https://scoutify.ai/companies/msxinternational?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Warsaw, Mazovia, Poland |
-| Category | Customer Success |
-| Posted | 2026-06-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/MSXInternational/3743990013565236-automotive-technical-specialist-level-1) |
+| Category | Sales Engineer |
+| Posted | 2026-07-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/MSXInternational/3743990014168406-automotive-technical-specialist-level-1) |
 
 ## About This Role
 
-This customer success position at MSX International was posted on 2026-06-10.
+This sales engineer position at MSX International was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [VusionGroup SA](https://scoutify.ai/companies/vusiongroup-sa?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Köln, North Rhine-Westphalia, Germany |
+| Location | Austria |
 | Category | Sales Engineer |
-| Posted | 2026-07-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/vusiongroupsa/744000137459721-solution-engineer-fashion-mwd) |
+| Posted | 2026-07-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/vusiongroupsa/744000138573666-solution-engineer-fashion-mwd) |
 
 ## About This Role
 
-This sales engineer position at VusionGroup SA was posted on 2026-07-13.
+This sales engineer position at VusionGroup SA was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 

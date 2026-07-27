@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Arrow Electronics](https://scoutify.ai/companies/arrow-electronics?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Nanjing, Jiangsu, China |
+| Location | New Taipei City, Taipei, Taiwan |
 | Category | Sales Engineer |
-| Posted | 2026-07-15 |
-| Apply | [View on company site](https://arrow.wd1.myworkdayjobs.com/ac/job/Nanjing-Jiangsu/Field-Sales-Engineer_R244767) |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://arrow.wd1.myworkdayjobs.com/ac/job/Zhonghe-Dist-New-Taipei-City/Field-Sales-Engineer_R245691) |
 
 ## About This Role
 
-This sales engineer position at Arrow Electronics was posted on 2026-07-15.
+This sales engineer position at Arrow Electronics was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

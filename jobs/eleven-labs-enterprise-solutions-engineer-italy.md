@@ -1,16 +1,16 @@
-# Senior Sales Engineer - Majors at Zscaler
+# Enterprise Solutions Engineer - Italy at Eleven Labs
 
 | Field | Details |
 |-------|---------|
-| Company | [Zscaler](https://scoutify.ai/companies/zscaler?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Company | [Eleven Labs](https://scoutify.ai/companies/eleven-labs?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
+| Location | Italy |
 | Category | Sales Engineer |
-| Posted | 2026-07-16 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/zscaler/jobs/5150518007) |
+| Posted | 2026-07-20 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/elevenlabs/9dc3f256-3c42-4368-8d7e-ba9a3b3505e7) |
 
 ## About This Role
 
-This sales engineer position at Zscaler was posted on 2026-07-16.
+This sales engineer position at Eleven Labs was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 
