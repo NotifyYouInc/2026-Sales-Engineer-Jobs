@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Genesys](https://scoutify.ai/companies/genesys?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Mexico City, Mexico City, Mexico |
-| Category | Technical & Solutions Architect |
-| Posted | 2026-06-23 |
-| Apply | [View on company site](https://genesys.wd1.myworkdayjobs.com/Genesys/job/Mexico-City-Mexico/Senior-Solution-Consultant---Solution-Consultant_JR108193-1) |
+| Location | Toronto, Ontario, Canada |
+| Category | Sales Engineer |
+| Posted | 2026-07-20 |
+| Apply | [View on company site](https://genesys.wd1.myworkdayjobs.com/Genesys/job/Quebec-Canada/Solution-Consultant_JR111758) |
 
 ## About This Role
 
-This technical & solutions architect position at Genesys was posted on 2026-06-23.
+This sales engineer position at Genesys was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 

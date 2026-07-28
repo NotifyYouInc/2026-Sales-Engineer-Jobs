@@ -5,12 +5,12 @@
 | Company | [Concentrix](https://scoutify.ai/companies/concentrix?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
 | Category | Sales Engineer |
-| Posted | 2026-06-02 |
-| Apply | [View on company site](https://cnx.wd1.myworkdayjobs.com/external_global/job/MYS-KL-Sentral---NU-Tower-2-Level-21-30-31-38--40/Associate-Technical-Sales--Korean-Speaker-_R1733159) |
+| Posted | 2026-07-20 |
+| Apply | [View on company site](https://cnx.wd1.myworkdayjobs.com/external_global/job/MYS-KL-Sentral---NU-Tower-2-Level-21-30-31-38--40/Associate-Technical-Sales--Korean-Speaker-_R1746969) |
 
 ## About This Role
 
-This sales engineer position at Concentrix was posted on 2026-06-02.
+This sales engineer position at Concentrix was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Apple](https://scoutify.ai/companies/apple?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Toledo, Ohio, United States |
+| Location | Sacramento, California, United States |
 | Category | Sales Engineer |
-| Posted | 2026-07-15 |
-| Apply | [View on company site](https://jobs.apple.com/en-us/details/200672642/us-technical-specialist) |
+| Posted | 2026-07-20 |
+| Apply | [View on company site](https://jobs.apple.com/en-us/details/200673144/us-technical-specialist) |
 
 ## About This Role
 
-This sales engineer position at Apple was posted on 2026-07-15.
+This sales engineer position at Apple was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 

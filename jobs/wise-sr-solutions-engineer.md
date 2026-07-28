@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [WISE](https://scoutify.ai/companies/wise?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Austin, Texas, United States |
-| Category | Technical & Solutions Architect |
-| Posted | 2026-05-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000126111309-sr-solutions-engineer) |
+| Category | Sales Engineer |
+| Posted | 2026-07-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000138665085-sr-solutions-engineer) |
 
 ## About This Role
 
-This technical & solutions architect position at WISE was posted on 2026-05-12.
+This sales engineer position at WISE was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 

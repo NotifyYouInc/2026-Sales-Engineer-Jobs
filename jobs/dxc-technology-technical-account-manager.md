@@ -5,12 +5,12 @@
 | Company | [DXC Technology](https://scoutify.ai/companies/dxctechnology?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Farnborough, England, United Kingdom |
 | Category | Sales Engineer |
-| Posted | 2026-07-15 |
-| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/GBR---HAM---FARNBOROUGH/Technical-Account-Manager_51585139) |
+| Posted | 2026-07-20 |
+| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/GBR---HAM---FARNBOROUGH/Technical-Account-Manager_51585400) |
 
 ## About This Role
 
-This sales engineer position at DXC Technology was posted on 2026-07-15.
+This sales engineer position at DXC Technology was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 

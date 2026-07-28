@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Flowserve](https://scoutify.ai/companies/flowserve?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Cormano, Lombardy, Italy |
+| Location | Lynchburg, Virginia, United States |
 | Category | Software Engineer |
-| Posted | 2026-07-15 |
-| Apply | [View on company site](https://flowserve.wd1.myworkdayjobs.com/applied/job/IT_Mezzago-Campus_MZC/Applications-Engineer_R-19716) |
+| Posted | 2026-07-18 |
+| Apply | [View on company site](https://flowserve.wd1.myworkdayjobs.com/applied/job/Lynchburg-Virginia-US/Applications-Engineer_R-19969) |
 
 ## About This Role
 
-This software engineer position at Flowserve was posted on 2026-07-15.
+This software engineer position at Flowserve was posted on 2026-07-18.
 
 ## Get Real-Time Alerts
 

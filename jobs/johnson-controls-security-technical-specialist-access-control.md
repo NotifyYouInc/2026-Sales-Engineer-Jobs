@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Johnson Controls](https://scoutify.ai/companies/jci?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Boca Raton, Florida, United States |
-| Category | Customer Success |
-| Posted | 2026-05-29 |
-| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Boca-Raton-Florida-United-States-of-America/Security-Technical-Specialist--Access-Control_WD30269759) |
+| Location | 4 locations |
+| Category | Sales Engineer |
+| Posted | 2026-07-20 |
+| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Boca-Raton-Florida-United-States-of-America/Security-Technical-Specialist--Access-Control_WD30273589) |
 
 ## About This Role
 
-This customer success position at Johnson Controls was posted on 2026-05-29.
+This sales engineer position at Johnson Controls was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 

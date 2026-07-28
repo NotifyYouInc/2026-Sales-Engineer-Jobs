@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Renesas Electronics](https://scoutify.ai/companies/renesaselectronics?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | La Jolla, California, United States |
+| Location | Seoul, Seoul, South Korea |
 | Category | Software Engineer |
-| Posted | 2026-04-28 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/RenesasElectronics/744000123505309-field-applications-engineer-fae) |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/RenesasElectronics/744000138774390-field-applications-engineer-fae) |
 
 ## About This Role
 
-This software engineer position at Renesas Electronics was posted on 2026-04-28.
+This software engineer position at Renesas Electronics was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

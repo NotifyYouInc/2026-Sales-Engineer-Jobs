@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Salesforce](https://scoutify.ai/companies/salesforce?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Tokyo, Tokyo, Japan |
+| Location | Thailand |
 | Category | Sales Engineer |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Japan---Tokyo/Senior-Account-Solution-Engineer_JR327950) |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Thailand---Remote/Senior-Account-Solution-Engineer_JR351237-1) |
 
 ## About This Role
 
-This sales engineer position at Salesforce was posted on 2026-03-25.
+This sales engineer position at Salesforce was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

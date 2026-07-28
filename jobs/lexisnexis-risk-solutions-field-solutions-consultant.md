@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [LexisNexis Risk Solutions](https://scoutify.ai/companies/relx?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | 4 locations |
-| Category | Customer Success |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://relx.wd3.myworkdayjobs.com/LexisNexisLegal/job/Home-based-California/Field-Solutions-Consultant_R113577) |
+| Location | Delaware, US |
+| Category | Sales Engineer |
+| Posted | 2026-07-20 |
+| Apply | [View on company site](https://relx.wd3.myworkdayjobs.com/LexisNexisLegal/job/New-Jersey/Field-Solutions-Consultant_R116341) |
 
 ## About This Role
 
-This customer success position at LexisNexis Risk Solutions was posted on 2026-05-18.
+This sales engineer position at LexisNexis Risk Solutions was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 

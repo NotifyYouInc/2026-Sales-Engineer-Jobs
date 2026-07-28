@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [TransUnion](https://scoutify.ai/companies/transunion?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | 2 locations |
+| Location | Costa Rica |
 | Category | Sales Engineer |
-| Posted | 2026-07-15 |
-| Apply | [View on company site](https://transunion.wd5.myworkdayjobs.com/TransUnion/job/Reston-Virginia/Solutions-Consultant_19041215) |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://transunion.wd5.myworkdayjobs.com/TransUnion/job/Lagunilla-de-Heredia/Solutions-Consultant_19041213) |
 
 ## About This Role
 
-This sales engineer position at TransUnion was posted on 2026-07-15.
+This sales engineer position at TransUnion was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Unisys](https://scoutify.ai/companies/unisys?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Rhodes, New South Wales, Australia |
+| Location | Singapore, Singapore |
 | Category | Sales Engineer |
-| Posted | 2026-07-15 |
-| Apply | [View on company site](https://unisys.wd5.myworkdayjobs.com/External/job/Rhodes-NSW-Australia/Technical-Field-Engineer_REQ573849) |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://unisys.wd5.myworkdayjobs.com/External/job/Multi-Client-Singapore/Technical-Field-Engineer_REQ574544) |
 
 ## About This Role
 
-This sales engineer position at Unisys was posted on 2026-07-15.
+This sales engineer position at Unisys was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

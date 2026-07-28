@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Snowflake](https://scoutify.ai/companies/snowflake?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Melbourne, Victoria, Australia |
+| Location | Tel Aviv, Tel Aviv, Israel |
 | Category | Sales Engineer |
-| Posted | 2026-07-14 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/snowflake/84df2d60-d5f6-4ffe-a881-00bfe6cfe379) |
+| Posted | 2026-07-20 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/snowflake/4137a948-1e5a-4b5d-bc20-cc34332b7b69) |
 
 ## About This Role
 
-This sales engineer position at Snowflake was posted on 2026-07-14.
+This sales engineer position at Snowflake was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 

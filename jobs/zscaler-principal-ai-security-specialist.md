@@ -1,16 +1,16 @@
-# Principal AI Security Specialist at Zscaler
+# Principal AI Security Specialist    at Zscaler
 
 | Field | Details |
 |-------|---------|
 | Company | [Zscaler](https://scoutify.ai/companies/zscaler?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | 2 locations |
+| Location | Tokyo, Tokyo, Japan |
 | Category | Sales Engineer |
-| Posted | 2026-07-13 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/zscaler/jobs/5177767007) |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/zscaler/jobs/5174751007) |
 
 ## About This Role
 
-This sales engineer position at Zscaler was posted on 2026-07-13.
+This sales engineer position at Zscaler was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

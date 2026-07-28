@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cato Networks](https://scoutify.ai/companies/cato-networks?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Japan |
+| Location | Bavaria, DE |
 | Category | Sales Engineer |
-| Posted | 2026-07-03 |
-| Apply | [View on company site](https://www.catonetworks.com/careers/careers-post/4821119101?gh_jid=4821119101) |
+| Posted | 2026-07-20 |
+| Apply | [View on company site](https://www.catonetworks.com/careers/careers-post/4926053101?gh_jid=4926053101) |
 
 ## About This Role
 
-This sales engineer position at Cato Networks was posted on 2026-07-03.
+This sales engineer position at Cato Networks was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 

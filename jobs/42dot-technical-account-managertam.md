@@ -5,12 +5,12 @@
 | Company | [42dot](https://scoutify.ai/companies/42dot?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | South Korea |
 | Category | Sales Engineer |
-| Posted | 2026-06-16 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/42dot/225d64f2-40c4-403e-9f98-dbd491cc4412) |
+| Posted | 2026-07-20 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/42dot/1e9ed01b-3428-40d7-9b81-8f398263b96c) |
 
 ## About This Role
 
-This sales engineer position at 42dot was posted on 2026-06-16.
+This sales engineer position at 42dot was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 

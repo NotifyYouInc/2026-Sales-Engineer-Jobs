@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AtkinsRéalis](https://scoutify.ai/companies/slihrms?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Edinburgh, Scotland, United Kingdom |
-| Category | Implementation / Professional Services |
-| Posted | 2026-03-23 |
-| Apply | [View on company site](https://slihrms.wd3.myworkdayjobs.com/careers/job/GBCardiff2-Capital-Quarter-Tyndall-street/Technology-Solutions-Consultant_R-150989) |
+| Location | 2 locations |
+| Category | Sales Engineer |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://slihrms.wd3.myworkdayjobs.com/careers/job/GBBirmingham---Chamberlain-Square/Technology-Solutions-Consultant_R-159921) |
 
 ## About This Role
 
-This implementation / professional services position at AtkinsRéalis was posted on 2026-03-23.
+This sales engineer position at AtkinsRéalis was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

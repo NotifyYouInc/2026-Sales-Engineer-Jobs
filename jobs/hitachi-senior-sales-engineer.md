@@ -1,16 +1,16 @@
-# Senior sales engineer at Hitachi
+# Senior Sales Engineer at Hitachi
 
 | Field | Details |
 |-------|---------|
 | Company | [Hitachi](https://scoutify.ai/companies/hitachi?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Guiyang, Guizhou, China |
+| Location | Sydney, New South Wales, Australia |
 | Category | Sales Engineer |
-| Posted | 2026-07-14 |
-| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Guiyang-Guizhou-China/Senior-sales-engineer_R0136596-1) |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Sydney-New-South-Wales-Australia/Senior-Sales-Engineer_R0138597) |
 
 ## About This Role
 
-This sales engineer position at Hitachi was posted on 2026-07-14.
+This sales engineer position at Hitachi was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

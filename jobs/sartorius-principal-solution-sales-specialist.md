@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sartorius](https://scoutify.ai/companies/sartorius?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | United States |
-| Category | Sales Engineer |
-| Posted | 2026-06-30 |
-| Apply | [View on company site](https://sartorius.wd3.myworkdayjobs.com/sartoriuscareers/job/Home-Office-United-States-of-America/Principal-Solution-Sales-Specialist_R40464-1) |
+| Location | Singapore, Singapore |
+| Category | Account Executive |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://sartorius.wd3.myworkdayjobs.com/sartoriuscareers/job/Singapore/Principal-Solution-Sales-Specialist_R40642) |
 
 ## About This Role
 
-This sales engineer position at Sartorius was posted on 2026-06-30.
+This account executive position at Sartorius was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

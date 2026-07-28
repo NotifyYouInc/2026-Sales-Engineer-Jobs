@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [PTC](https://scoutify.ai/companies/ptc?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | India |
-| Category | Technology / IT Consulting |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://ptc.wd1.myworkdayjobs.com/PTC/job/Gurgaon-India/Technical-Consultant_JR111629-1) |
+| Location | Gurugram, Haryana, India |
+| Category | Sales Engineer |
+| Posted | 2026-07-20 |
+| Apply | [View on company site](https://ptc.wd1.myworkdayjobs.com/PTC/job/IND-Gurgaon-PO/Technical-Consultant_JR112436) |
 
 ## About This Role
 
-This technology / it consulting position at PTC was posted on 2026-02-19.
+This sales engineer position at PTC was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 

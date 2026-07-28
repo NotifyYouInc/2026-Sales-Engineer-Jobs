@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Applied Materials](https://scoutify.ai/companies/applied-materials?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Yokkaichi, Mie, Japan |
+| Location | Naka, Ibaraki, Japan |
 | Category | Sales Engineer |
-| Posted | 2026-07-09 |
-| Apply | [View on company site](https://amat.wd1.myworkdayjobs.com/External/job/YokkaichiJPN/EPI-Customer-Engineer-II_R2623422) |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://amat.wd1.myworkdayjobs.com/External/job/NakaJPN/EPI-Customer-Engineer-II_R2624480) |
 
 ## About This Role
 
-This sales engineer position at Applied Materials was posted on 2026-07-09.
+This sales engineer position at Applied Materials was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

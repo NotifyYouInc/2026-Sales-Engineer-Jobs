@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Freudenberg Group](https://scoutify.ai/companies/freudenberg?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Not specified |
+| Location | United States |
 | Category | Account Executive |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://freudenberg.wd3.myworkdayjobs.com/freudenberg-group/job/United-States-of-America---Remote/Technical-Sales-Representative_R_00087329) |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://freudenberg.wd3.myworkdayjobs.com/freudenberg-group/job/United-States-of-America---Remote/Technical-Sales-Representative_R_00104812) |
 
 ## About This Role
 
-This account executive position at Freudenberg Group was posted on 2026-04-22.
+This account executive position at Freudenberg Group was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 
