@@ -1,16 +1,16 @@
-# Junior Presales Consultant (w/m/d) at Hewlett Packard Enterprise
+# (Junior) Presales Consultant (w/m/d) at Hewlett Packard Enterprise
 
 | Field | Details |
 |-------|---------|
 | Company | [Hewlett Packard Enterprise](https://scoutify.ai/companies/hewlett-packard-enterprise?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Vienna, Vienna, Austria |
+| Location | Berlin, State of Berlin, Germany |
 | Category | Sales Engineer |
-| Posted | 2026-06-15 |
-| Apply | [View on company site](https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/Vienna-Vienna-Austria/Junior-Presales-Consultant--w-m-d-_1196366) |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/Berlin-Berlin-Germany/XMLNAME--Junior--Presales-Consultant--w-m-d-_1203228) |
 
 ## About This Role
 
-This sales engineer position at Hewlett Packard Enterprise was posted on 2026-06-15.
+This sales engineer position at Hewlett Packard Enterprise was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

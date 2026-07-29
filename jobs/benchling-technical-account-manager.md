@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Benchling](https://scoutify.ai/companies/benchling?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Boston, Massachusetts, United States |
-| Category | Customer Success |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/benchling/1b947544-d8cb-446b-89dd-377b2642d31f) |
+| Location | San Francisco, California, United States |
+| Category | Sales Engineer |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/benchling/e0efc252-363f-4b3b-ad21-2f1785f2a6ad) |
 
 ## About This Role
 
-This customer success position at Benchling was posted on 2026-05-21.
+This sales engineer position at Benchling was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

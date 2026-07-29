@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cohesity](https://scoutify.ai/companies/cohesity?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Kansas, US |
+| Location | New York, US |
 | Category | Sales Engineer |
-| Posted | 2026-07-09 |
-| Apply | [View on company site](https://cohesity.wd5.myworkdayjobs.com/Cohesity_Careers/job/USA---Kansas---Remote/Sr-Sales-Engineer_R04052-1) |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://cohesity.wd5.myworkdayjobs.com/Cohesity_Careers/job/New-York---USA-Office/Sr-Sales-Engineer_R04226) |
 
 ## About This Role
 
-This sales engineer position at Cohesity was posted on 2026-07-09.
+This sales engineer position at Cohesity was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Lely](https://scoutify.ai/companies/lely?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Maassluis, South Holland, The Netherlands |
 | Category | Sales Engineer |
-| Posted | 2026-07-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Lely1/744000137377084-technical-solutions-specialist) |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Lely1/744000138847931-technical-solutions-specialist) |
 
 ## About This Role
 
-This sales engineer position at Lely was posted on 2026-07-13.
+This sales engineer position at Lely was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

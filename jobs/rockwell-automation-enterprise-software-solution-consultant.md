@@ -1,16 +1,16 @@
-# ENTERPRISE SOFTWARE SOLUTION CONSULTANT at Rockwell Automation
+# Enterprise Software Solution Consultant at Rockwell Automation
 
 | Field | Details |
 |-------|---------|
 | Company | [Rockwell Automation](https://scoutify.ai/companies/rockwellautomation?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | 3 locations |
 | Category | Sales Engineer |
-| Posted | 2026-07-01 |
-| Apply | [View on company site](https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Kiln-Farm-England-United-Kingdom/ENTERPRISE-SOFTWARE-SOLUTION-CONSULTANT_R26-2738) |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Buenos-Aires-Argentina/Enterprise-Software-Solution-Consultant_R25-6227) |
 
 ## About This Role
 
-This sales engineer position at Rockwell Automation was posted on 2026-07-01.
+This sales engineer position at Rockwell Automation was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

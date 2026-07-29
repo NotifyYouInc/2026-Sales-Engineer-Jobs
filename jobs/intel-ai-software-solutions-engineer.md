@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Intel](https://scoutify.ai/companies/intel?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Gdańsk, Pomerania, Poland |
-| Category | AI / ML Research |
-| Posted | 2026-05-14 |
-| Apply | [View on company site](https://intel.wd1.myworkdayjobs.com/External/job/Poland-Gdansk/AI-Software-Solutions-Engineer_JR0284010) |
+| Location | Shanghai, Shanghai, China |
+| Category | Sales Engineer |
+| Posted | 2026-07-22 |
+| Apply | [View on company site](https://intel.wd1.myworkdayjobs.com/External/job/PRC-Shanghai/AI-Software-Solutions-Engineer_JR0285837) |
 
 ## About This Role
 
-This ai / ml research position at Intel was posted on 2026-05-14.
+This sales engineer position at Intel was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 

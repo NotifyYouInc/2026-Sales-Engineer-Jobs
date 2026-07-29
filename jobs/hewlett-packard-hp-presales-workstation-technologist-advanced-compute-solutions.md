@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Hewlett Packard (HP)](https://scoutify.ai/companies/hp?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Sant Cugat del Vallès, Catalonia, Spain |
-| Category | Technical & Solutions Architect |
-| Posted | 2026-06-05 |
-| Apply | [View on company site](https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/All-Cities-Colorado-United-States-of-America/Presales-Workstation-Technologist---Advanced-Compute-Solutions_3163141-1) |
+| Category | Sales Engineer |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/All-Cities-Colorado-United-States-of-America/Presales-Workstation-Technologist---Advanced-Compute-Solutions_3166216-1) |
 
 ## About This Role
 
-This technical & solutions architect position at Hewlett Packard (HP) was posted on 2026-06-05.
+This sales engineer position at Hewlett Packard (HP) was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

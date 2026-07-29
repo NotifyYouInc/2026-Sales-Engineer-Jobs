@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Freshworks CRM](https://scoutify.ai/companies/freshworkscrm?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Chennai, Tamil Nadu, India |
+| Location | Bengaluru, Karnataka, India |
 | Category | Sales Engineer |
-| Posted | 2026-07-15 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Freshworks/744000137858790-senior-demo-engineer) |
+| Posted | 2026-07-22 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Freshworks/744000139026559-senior-demo-engineer) |
 
 ## About This Role
 
-This sales engineer position at Freshworks CRM was posted on 2026-07-15.
+This sales engineer position at Freshworks CRM was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 

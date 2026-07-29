@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Clearwateranalytics](https://scoutify.ai/companies/clearwateranalytics?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Paris, Île-de-France, France |
+| Location | 2 locations |
 | Category | Sales Engineer |
-| Posted | 2026-06-30 |
-| Apply | [View on company site](https://clearwateranalytics.wd1.myworkdayjobs.com/clearwater_analytics_careers/job/Office---Paris/Solutions-Consultant_R11949-1) |
+| Posted | 2026-07-22 |
+| Apply | [View on company site](https://clearwateranalytics.wd1.myworkdayjobs.com/clearwater_analytics_careers/job/Office---New-York/Solutions-Consultant_R11972) |
 
 ## About This Role
 
-This sales engineer position at Clearwateranalytics was posted on 2026-06-30.
+This sales engineer position at Clearwateranalytics was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 

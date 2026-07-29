@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Memorial Hermann](https://scoutify.ai/companies/memorial-hermann?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Houston, Texas, United States |
-| Category | Customer Success |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://memorialhermann.wd5.myworkdayjobs.com/external/job/Medical-Plaza-North/Supplemental-Desktop-Solutions-Specialist---Central-Staffing_100179896) |
+| Location | Texas, US |
+| Category | Sales Engineer |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://memorialhermann.wd5.myworkdayjobs.com/external/job/Medical-Plaza-North/Supplemental-Desktop-Solutions-Specialist---Central-Staffing_100184845) |
 
 ## About This Role
 
-This customer success position at Memorial Hermann was posted on 2026-03-02.
+This sales engineer position at Memorial Hermann was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

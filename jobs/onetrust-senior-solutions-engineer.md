@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [OneTrust](https://scoutify.ai/companies/onetrust?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | London, England, United Kingdom |
+| Location | New York City, New York, United States |
 | Category | Sales Engineer |
-| Posted | 2026-07-16 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/onetrust/jobs/8013206) |
+| Posted | 2026-07-20 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/onetrust/jobs/8067597) |
 
 ## About This Role
 
-This sales engineer position at OneTrust was posted on 2026-07-16.
+This sales engineer position at OneTrust was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 

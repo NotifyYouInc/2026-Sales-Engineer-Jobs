@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [LiveRamp](https://scoutify.ai/companies/liveramp?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | 2 locations |
+| Location | New York City, New York, United States |
 | Category | Sales Engineer |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://liveramp.wd5.myworkdayjobs.com/LiveRampCareers/job/New-York/Sr-Solutions-Engineer_JR012028) |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://liveramp.wd5.myworkdayjobs.com/LiveRampCareers/job/New-York/Sr-Solutions-Engineer_JR162082) |
 
 ## About This Role
 
-This sales engineer position at LiveRamp was posted on 2026-03-10.
+This sales engineer position at LiveRamp was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

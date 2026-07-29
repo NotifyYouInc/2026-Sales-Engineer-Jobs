@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Huntington Bancshares](https://scoutify.ai/companies/huntington?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Virginia, US |
+| Location | Dallas, Texas, United States |
 | Category | Sales Engineer |
-| Posted | 2026-07-09 |
-| Apply | [View on company site](https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Virginia/IS-Technical-Specialist_R0072998) |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Dallas-TX/IS-Technical-Specialist_R0074051) |
 
 ## About This Role
 
-This sales engineer position at Huntington Bancshares was posted on 2026-07-09.
+This sales engineer position at Huntington Bancshares was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

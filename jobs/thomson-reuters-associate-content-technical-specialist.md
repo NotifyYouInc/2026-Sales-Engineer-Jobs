@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Thomson Reuters](https://scoutify.ai/companies/thomson-reuters?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Hyderabad, Telangana, India |
-| Category | Technical Writer |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/India-Hyderabad-Telangana/Associate-Content-Technical-Specialist_JREQ200560) |
+| Category | Sales Engineer |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/India-Hyderabad-Telangana/Associate-Content-Technical-Specialist_JREQ202067) |
 
 ## About This Role
 
-This technical writer position at Thomson Reuters was posted on 2026-05-22.
+This sales engineer position at Thomson Reuters was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

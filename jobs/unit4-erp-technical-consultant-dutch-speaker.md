@@ -5,12 +5,12 @@
 | Company | [Unit4](https://scoutify.ai/companies/unit44?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Lisbon, Lisbon, Portugal |
 | Category | Sales Engineer |
-| Posted | 2026-07-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Unit44/744000138098114-erp-technical-consultant-dutch-speaker) |
+| Posted | 2026-07-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Unit44/744000138578245-erp-technical-consultant-dutch-speaker) |
 
 ## About This Role
 
-This sales engineer position at Unit4 was posted on 2026-07-16.
+This sales engineer position at Unit4 was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 

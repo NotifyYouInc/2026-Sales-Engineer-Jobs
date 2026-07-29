@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Intuitive Surgical](https://scoutify.ai/companies/intuitivesurgical?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Milan, Lombardy, Italy |
-| Category | Customer Success |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Intuitive/744000113452697-digital-solutions-specialist) |
+| Location | Vienna, Vienna, Austria |
+| Category | Sales Engineer |
+| Posted | 2026-07-22 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Intuitive/744000139024319-digital-solutions-specialist) |
 
 ## About This Role
 
-This customer success position at Intuitive Surgical was posted on 2026-03-09.
+This sales engineer position at Intuitive Surgical was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 

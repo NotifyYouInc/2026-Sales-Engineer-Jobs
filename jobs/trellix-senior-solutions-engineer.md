@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Trellix](https://scoutify.ai/companies/trellix?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Turkey |
-| Category | Technical & Solutions Architect |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://trellix.wd1.myworkdayjobs.com/EnterpriseCareers/job/Remote-Turkey/Senior-Solutions-Engineer_JR0037338-1) |
+| Category | Sales Engineer |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://trellix.wd1.myworkdayjobs.com/EnterpriseCareers/job/Remote-Turkey/Senior-Solutions-Engineer_JR0037687) |
 
 ## About This Role
 
-This technical & solutions architect position at Trellix was posted on 2026-04-17.
+This sales engineer position at Trellix was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# EL Technical & Design Promotion Special at ABB
+# EL Technical & Design Promotion Special. at ABB
 
 | Field | Details |
 |-------|---------|
 | Company | [ABB](https://scoutify.ai/companies/abb?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Santiago, Santiago Metropolitan, Chile |
-| Category | Marketing |
-| Posted | 2026-06-03 |
-| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Santiago-Region-Metropolitana-de-Santiago-Chile/EL-Technical---Design-Promotion-Special_JR00036850) |
+| Location | Cape Town, Western Cape, South Africa |
+| Category | Sales Engineer |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Cape-Town-Western-Cape-South-Africa/EL-Technical---Design-Promotion-Special_JR00023111) |
 
 ## About This Role
 
-This marketing position at ABB was posted on 2026-06-03.
+This sales engineer position at ABB was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

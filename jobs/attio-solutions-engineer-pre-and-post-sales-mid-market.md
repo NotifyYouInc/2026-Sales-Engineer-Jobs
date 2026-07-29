@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Attio](https://scoutify.ai/companies/attio?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | New York City, New York, United States |
-| Category | Technical & Solutions Architect |
-| Posted | 2025-12-16 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/attio/d48617ff-be9b-41cd-aff7-3ad2f826ca74) |
+| Location | San Francisco, California, United States |
+| Category | Sales Engineer |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/attio/eef50b66-c092-4018-bff5-08b81889a4f4) |
 
 ## About This Role
 
-This technical & solutions architect position at Attio was posted on 2025-12-16.
+This sales engineer position at Attio was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Unisys](https://scoutify.ai/companies/unisys?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Singapore, Singapore |
 | Category | Sales Engineer |
-| Posted | 2026-07-16 |
-| Apply | [View on company site](https://unisys.wd5.myworkdayjobs.com/External/job/Multi-Client-Singapore/Technical-Field-Engineer_REQ574544) |
+| Posted | 2026-07-20 |
+| Apply | [View on company site](https://unisys.wd5.myworkdayjobs.com/External/job/Multi-Client-Singapore/Technical-Field-Engineer_REQ574574) |
 
 ## About This Role
 
-This sales engineer position at Unisys was posted on 2026-07-16.
+This sales engineer position at Unisys was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 

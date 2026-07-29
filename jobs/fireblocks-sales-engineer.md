@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Fireblocks](https://scoutify.ai/companies/fireblocks?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | United Kingdom |
+| Location | New York City, New York, United States |
 | Category | Sales Engineer |
-| Posted | 2026-06-02 |
-| Apply | [View on company site](https://www.fireblocks.com/careers/position/4683940006?gh_jid=4683940006) |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://www.fireblocks.com/careers/4698009006?gh_jid=4698009006) |
 
 ## About This Role
 
-This sales engineer position at Fireblocks was posted on 2026-06-02.
+This sales engineer position at Fireblocks was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

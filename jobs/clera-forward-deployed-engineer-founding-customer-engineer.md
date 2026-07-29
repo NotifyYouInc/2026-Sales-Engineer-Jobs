@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Clera](https://scoutify.ai/companies/clera?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | San Francisco, California, United States |
-| Category | Sales Engineer |
-| Posted | 2026-07-02 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/clera/f255a0a1-8862-4bb2-9d03-37fe71d8c7f3) |
+| Category | Forward Deployed Engineer |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/clera/54693b10-708e-4bc3-bc89-1f2d53987823) |
 
 ## About This Role
 
-This sales engineer position at Clera was posted on 2026-07-02.
+This forward deployed engineer position at Clera was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

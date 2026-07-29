@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [OpenAI](https://scoutify.ai/companies/openai?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Singapore, Singapore |
+| Location | Tokyo, Tokyo, Japan |
 | Category | Sales Engineer |
-| Posted | 2026-07-07 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/openai/537cb111-688b-4c6e-8f16-0720361255d6) |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/openai/699906ce-a9fd-4a33-9d02-342bc3b90690) |
 
 ## About This Role
 
-This sales engineer position at OpenAI was posted on 2026-07-07.
+This sales engineer position at OpenAI was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

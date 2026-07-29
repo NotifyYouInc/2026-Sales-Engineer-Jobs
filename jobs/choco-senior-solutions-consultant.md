@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Choco](https://scoutify.ai/companies/choco?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | London, England, United Kingdom |
-| Category | Implementation / Professional Services |
-| Posted | 2026-06-11 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/choco/b6050379-cd75-4333-a1f2-cedbedc53b1b) |
+| Category | Sales Engineer |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/choco/8882a878-ecab-4411-80ed-8c37db170373) |
 
 ## About This Role
 
-This implementation / professional services position at Choco was posted on 2026-06-11.
+This sales engineer position at Choco was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

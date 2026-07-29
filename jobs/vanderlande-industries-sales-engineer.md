@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Vanderlande Industries](https://scoutify.ai/companies/vanderlande-industries?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Veghel, North Brabant, The Netherlands |
+| Location | Pune, Maharashtra, India |
 | Category | Sales Engineer |
-| Posted | 2026-06-28 |
-| Apply | [View on company site](https://vanderlande.wd3.myworkdayjobs.com/careers/job/Veghel/Sales-Engineer_JR36991-1) |
+| Posted | 2026-07-22 |
+| Apply | [View on company site](https://vanderlande.wd3.myworkdayjobs.com/careers/job/Pune-I/Sales-Engineer_JR36928-1) |
 
 ## About This Role
 
-This sales engineer position at Vanderlande Industries was posted on 2026-06-28.
+This sales engineer position at Vanderlande Industries was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 
