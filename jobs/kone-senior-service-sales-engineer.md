@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Kone](https://scoutify.ai/companies/kone?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Dubai, Dubai, United Arab Emirates |
+| Location | Doha, Baladīyat ad Dawḩah, Qatar |
 | Category | Sales Engineer |
-| Posted | 2026-07-15 |
-| Apply | [View on company site](https://kone.wd3.myworkdayjobs.com/careers/job/Dubai/Senior-Service-Sales-Engineer_R0662663) |
+| Posted | 2026-07-23 |
+| Apply | [View on company site](https://kone.wd3.myworkdayjobs.com/careers/job/Doha/Senior-Service-Sales-Engineer_R0662919-1) |
 
 ## About This Role
 
-This sales engineer position at Kone was posted on 2026-07-15.
+This sales engineer position at Kone was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

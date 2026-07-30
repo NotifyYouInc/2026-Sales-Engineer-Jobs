@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sika](https://scoutify.ai/companies/sika?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
+| Location | Zürich, Zurich, Switzerland |
 | Category | Sales Engineer |
-| Posted | 2026-07-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SikaAG/744000138586429-senior-technical-consultant-sap-integration) |
+| Posted | 2026-07-23 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SikaAG/744000139193809-senior-technical-consultant-sap-integration) |
 
 ## About This Role
 
-This sales engineer position at Sika was posted on 2026-07-20.
+This sales engineer position at Sika was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

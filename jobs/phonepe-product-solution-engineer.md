@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [PhonePe](https://scoutify.ai/companies/phonepe?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Software Engineer |
-| Posted | 2026-04-28 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/phonepe/jobs/7714563003) |
+| Category | Sales Engineer |
+| Posted | 2026-07-23 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/phonepe/jobs/7799432003) |
 
 ## About This Role
 
-This software engineer position at PhonePe was posted on 2026-04-28.
+This sales engineer position at PhonePe was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

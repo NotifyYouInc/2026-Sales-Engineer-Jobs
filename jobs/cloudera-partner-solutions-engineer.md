@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cloudera](https://scoutify.ai/companies/cloudera?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Bengaluru, Karnataka, India |
-| Category | Technical & Solutions Architect |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://cloudera.wd5.myworkdayjobs.com/External_Career/job/India-Bangalore/Partner-Solutions-Engineer_260525-1) |
+| Location | Italy |
+| Category | Sales Engineer |
+| Posted | 2026-07-22 |
+| Apply | [View on company site](https://cloudera.wd5.myworkdayjobs.com/External_Career/job/Italy-Remote/Partner-Solutions-Engineer_261027-1) |
 
 ## About This Role
 
-This technical & solutions architect position at Cloudera was posted on 2026-05-18.
+This sales engineer position at Cloudera was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 

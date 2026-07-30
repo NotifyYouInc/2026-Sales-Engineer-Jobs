@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Johnson Controls](https://scoutify.ai/companies/jci?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Chennai, Tamil Nadu, India |
-| Category | Sales Engineer |
-| Posted | 2026-06-22 |
-| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/IND-Chennai/Sr-Application-Engineer-II_WD30272769-1) |
+| Location | Bengaluru, Karnataka, India |
+| Category | Software Engineer |
+| Posted | 2026-07-23 |
+| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Bangalore-Karnataka-India/Sr-Application-Engineer-II_WD30275131) |
 
 ## About This Role
 
-This sales engineer position at Johnson Controls was posted on 2026-06-22.
+This software engineer position at Johnson Controls was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

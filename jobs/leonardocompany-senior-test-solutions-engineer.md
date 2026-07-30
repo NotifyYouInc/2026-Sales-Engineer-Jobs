@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Leonardocompany](https://scoutify.ai/companies/leonardocompany?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Luton, England, United Kingdom |
-| Category | Electrical / Hardware Engineer |
-| Posted | 2026-06-11 |
-| Apply | [View on company site](https://leonardocompany.wd3.myworkdayjobs.com/leonardocareersite/job/GB---Luton---Cap-Green-300/Senior-Test-Solutions-Engineer_R0030446) |
+| Category | Sales Engineer |
+| Posted | 2026-07-22 |
+| Apply | [View on company site](https://leonardocompany.wd3.myworkdayjobs.com/leonardocareersite/job/GB---Luton---Cap-Green-300/Senior-Test-Solutions-Engineer_R0031879) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Leonardocompany was posted on 2026-06-11.
+This sales engineer position at Leonardocompany was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 

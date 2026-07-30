@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Broadcom](https://scoutify.ai/companies/broadcom?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Milan, Lombardy, Italy |
-| Category | Customer Success |
-| Posted | 2026-05-06 |
-| Apply | [View on company site](https://broadcom.wd1.myworkdayjobs.com/External_Career/job/ITA-Milan-Remote-Location/Mainframe-Technical-Consultant----Mainframe-AIOPS_R023914) |
+| Location | United Kingdom |
+| Category | Sales Engineer |
+| Posted | 2026-07-23 |
+| Apply | [View on company site](https://broadcom.wd1.myworkdayjobs.com/External_Career/job/United-Kingdom-Remote-Location/Mainframe-Technical-Consultant----Mainframe-AIOPS_R026569) |
 
 ## About This Role
 
-This customer success position at Broadcom was posted on 2026-05-06.
+This sales engineer position at Broadcom was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

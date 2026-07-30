@@ -1,16 +1,16 @@
-# Technical Account Manager  at Cloudflare
+# Technical Account Manager at Cloudflare
 
 | Field | Details |
 |-------|---------|
 | Company | [Cloudflare](https://scoutify.ai/companies/cloudflare?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | 2 locations |
-| Category | Customer Success |
-| Posted | 2026-02-09 |
-| Apply | [View on company site](https://boards.greenhouse.io/cloudflare/jobs/7600035?gh_jid=7600035) |
+| Location | Singapore, Singapore |
+| Category | Sales Engineer |
+| Posted | 2026-07-23 |
+| Apply | [View on company site](https://boards.greenhouse.io/cloudflare/jobs/8076494?gh_jid=8076494) |
 
 ## About This Role
 
-This customer success position at Cloudflare was posted on 2026-02-09.
+This sales engineer position at Cloudflare was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

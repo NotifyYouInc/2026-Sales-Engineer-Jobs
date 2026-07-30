@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Air Products](https://scoutify.ai/companies/airproducts?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Shenyang, Liaoning, China |
+| Location | Yangzhou, Jiangsu, China |
 | Category | Sales Engineer |
-| Posted | 2026-07-20 |
-| Apply | [View on company site](https://airproducts.wd5.myworkdayjobs.com/AP0001/job/Shenyang-Liaoning/Sales-Engineer_JR-2026-21300) |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://airproducts.wd5.myworkdayjobs.com/AP0001/job/Yangzhou-China/Sales-Engineer_JR-2026-20538) |
 
 ## About This Role
 
-This sales engineer position at Air Products was posted on 2026-07-20.
+This sales engineer position at Air Products was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

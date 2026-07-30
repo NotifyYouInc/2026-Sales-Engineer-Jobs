@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [OneTrust](https://scoutify.ai/companies/onetrust?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | New York City, New York, United States |
+| Location | Madrid, Madrid, Spain |
 | Category | Sales Engineer |
 | Posted | 2026-07-20 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/onetrust/jobs/8067597) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/onetrust/jobs/8072173) |
 
 ## About This Role
 

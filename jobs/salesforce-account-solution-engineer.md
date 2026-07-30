@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Salesforce](https://scoutify.ai/companies/salesforce?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Vienna, Vienna, Austria |
+| Location | 2 locations |
 | Category | Sales Engineer |
-| Posted | 2026-06-11 |
-| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Austria---Vienna/Account-Solution-Engineer_JR345887) |
+| Posted | 2026-07-22 |
+| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Italy---Milan/Account-Solution-Engineer_JR352919) |
 
 ## About This Role
 
-This sales engineer position at Salesforce was posted on 2026-06-11.
+This sales engineer position at Salesforce was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 

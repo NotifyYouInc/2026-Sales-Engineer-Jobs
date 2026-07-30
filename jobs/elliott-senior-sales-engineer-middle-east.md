@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Elliott](https://scoutify.ai/companies/elliott?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | United Arab Emirates |
-| Category | Account Executive |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://elliottgroup.wd5.myworkdayjobs.com/elliottcareers/job/UAE--Remote/Senior-Sales-Engineer-Middle-East_R3427) |
+| Category | Sales Engineer |
+| Posted | 2026-07-22 |
+| Apply | [View on company site](https://elliottgroup.wd5.myworkdayjobs.com/elliottcareers/job/UAE--Remote/Senior-Sales-Engineer-Middle-East_R3478) |
 
 ## About This Role
 
-This account executive position at Elliott was posted on 2026-02-18.
+This sales engineer position at Elliott was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 

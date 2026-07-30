@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Veeam Software](https://scoutify.ai/companies/veeamsoftware?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Poland |
+| Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
 | Category | Sales Engineer |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4823677101) |
+| Posted | 2026-07-23 |
+| Apply | [View on company site](https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4764025101) |
 
 ## About This Role
 
-This sales engineer position at Veeam Software was posted on 2026-04-21.
+This sales engineer position at Veeam Software was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

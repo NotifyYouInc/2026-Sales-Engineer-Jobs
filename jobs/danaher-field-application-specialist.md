@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Danaher](https://scoutify.ai/companies/danaher?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Caguas, Caguas, Puerto Rico |
+| Location | Beijing, Beijing, China |
 | Category | Sales Engineer |
-| Posted | 2026-06-03 |
-| Apply | [View on company site](https://danaher.wd1.myworkdayjobs.com/DanaherJobs/job/Caguas-Puerto-Rico/Field-Application-Specialist_R1311890) |
+| Posted | 2026-07-23 |
+| Apply | [View on company site](https://danaher.wd1.myworkdayjobs.com/DanaherJobs/job/Beijing-China/Field-Application-Specialist_R1315290) |
 
 ## About This Role
 
-This sales engineer position at Danaher was posted on 2026-06-03.
+This sales engineer position at Danaher was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

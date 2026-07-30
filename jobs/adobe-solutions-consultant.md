@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Adobe](https://scoutify.ai/companies/adobe-inc?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Chicago, Illinois, United States |
+| Location | India |
 | Category | Sales Engineer |
-| Posted | 2026-07-13 |
-| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Chicago/Solutions-Consultant_R167148) |
+| Posted | 2026-07-23 |
+| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Remote-India/Solutions-Consultant_R169899) |
 
 ## About This Role
 
-This sales engineer position at Adobe was posted on 2026-07-13.
+This sales engineer position at Adobe was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

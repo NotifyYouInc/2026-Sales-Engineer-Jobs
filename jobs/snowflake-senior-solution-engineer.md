@@ -1,16 +1,16 @@
-# Senior Solution Engineer  at Snowflake
+# Senior Solution Engineer at Snowflake
 
 | Field | Details |
 |-------|---------|
 | Company | [Snowflake](https://scoutify.ai/companies/snowflake?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | London, England, United Kingdom |
+| Location | Alberta, CA |
 | Category | Sales Engineer |
-| Posted | 2026-07-09 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/snowflake/e32988e0-4e39-42a0-a9d3-e3e98248668e) |
+| Posted | 2026-07-22 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/snowflake/59b0a754-fecd-4156-9f28-1caa9cd99509) |
 
 ## About This Role
 
-This sales engineer position at Snowflake was posted on 2026-07-09.
+This sales engineer position at Snowflake was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 

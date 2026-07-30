@@ -5,12 +5,12 @@
 | Company | [Johnson Controls](https://scoutify.ai/companies/jci?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | AI / LLM Engineer |
-| Posted | 2026-06-15 |
-| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Bangalore-Karnataka-India/Senior-PIM---AI-Solutions-Engineer_WD30266108) |
+| Posted | 2026-07-23 |
+| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Bangalore-Karnataka-India/Senior-PIM---AI-Solutions-Engineer_WD30275181-1) |
 
 ## About This Role
 
-This ai / llm engineer position at Johnson Controls was posted on 2026-06-15.
+This ai / llm engineer position at Johnson Controls was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

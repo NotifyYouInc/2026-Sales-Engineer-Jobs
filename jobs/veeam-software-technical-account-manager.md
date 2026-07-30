@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Veeam Software](https://scoutify.ai/companies/veeamsoftware?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | United States |
+| Location | Singapore, Singapore |
 | Category | Sales Engineer |
-| Posted | 2026-07-17 |
-| Apply | [View on company site](https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4744030101) |
+| Posted | 2026-07-23 |
+| Apply | [View on company site](https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4743914101) |
 
 ## About This Role
 
-This sales engineer position at Veeam Software was posted on 2026-07-17.
+This sales engineer position at Veeam Software was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

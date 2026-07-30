@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Monolithic Power Systems](https://scoutify.ai/companies/monolithic-power-systems?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | United Kingdom |
+| Location | Germany |
 | Category | Sales Engineer |
-| Posted | 2026-07-20 |
-| Apply | [View on company site](https://monolithicpower.wd12.myworkdayjobs.com/mps_careers/job/Remote---United-Kingdom/Field-Sales-Engineer_R-1727) |
+| Posted | 2026-07-22 |
+| Apply | [View on company site](https://monolithicpower.wd12.myworkdayjobs.com/mps_careers/job/Remote---Germany/Field-Sales-Engineer_R-1731) |
 
 ## About This Role
 
-This sales engineer position at Monolithic Power Systems was posted on 2026-07-20.
+This sales engineer position at Monolithic Power Systems was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 

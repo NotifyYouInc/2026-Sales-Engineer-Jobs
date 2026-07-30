@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Mexico City, Mexico City, Mexico |
-| Category | Customer Success |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Mexico-City-Mexico/Implementation-Engineer---ThousandEyes_2015031) |
+| Category | Sales Engineer |
+| Posted | 2026-07-22 |
+| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Mexico-City-Mexico/Implementation-Engineer---ThousandEyes_2015030) |
 
 ## About This Role
 
-This customer success position at Cisco was posted on 2026-05-21.
+This sales engineer position at Cisco was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 

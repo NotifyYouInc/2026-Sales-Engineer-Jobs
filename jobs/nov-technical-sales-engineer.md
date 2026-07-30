@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [NOV](https://scoutify.ai/companies/us6-cx-oj76145?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Houston, Texas, United States |
+| Location | Mumbai, Maharashtra, India |
 | Category | Sales Engineer |
-| Posted | 2026-03-27 |
-| Apply | [View on company site](https://egay.fa.us6.oraclecloud.com/jobs/#40449) |
+| Posted | 2026-07-23 |
+| Apply | [View on company site](https://egay.fa.us6.oraclecloud.com/jobs/#42727) |
 
 ## About This Role
 
-This sales engineer position at NOV was posted on 2026-03-27.
+This sales engineer position at NOV was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

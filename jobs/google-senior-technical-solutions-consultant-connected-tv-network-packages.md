@@ -1,0 +1,22 @@
+# Senior Technical Solutions Consultant, Connected TV Network Packages at Google
+
+| Field | Details |
+|-------|---------|
+| Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
+| Location | 2 locations |
+| Category | Sales Engineer |
+| Posted | 2026-07-22 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckQzHezTSp3tiQ4blcDy7c3oyY9NCyzHuy4-1IMAHMkZLEjsA1Ny_ixdhece1-ebuHrZuZIcQs8Kf2OhmSplHseGXX1KhGr6RLrgsAwlnWlUHZ5UGTeIuN_Lo4GzSRg%3D%3D_V2&loc=US&title=Senior+Technical+Solutions+Consultant) |
+
+## About This Role
+
+This sales engineer position at Google was posted on 2026-07-22.
+
+## Get Real-Time Alerts
+
+This job was posted 7+ days ago. For instant alerts on new jobs like this:
+
+**[Get Instant Job Alerts on Scoutify](https://scoutify.ai?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs)** - Be first to apply at 8,800+ companies.
+
+---
+*Data sourced from [Scoutify](https://scoutify.ai) | Updated daily*

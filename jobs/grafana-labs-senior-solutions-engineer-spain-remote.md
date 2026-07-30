@@ -5,12 +5,12 @@
 | Company | [Grafana Labs](https://scoutify.ai/companies/grafana-labs?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Spain |
 | Category | Sales Engineer |
-| Posted | 2026-02-10 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/grafanalabs/jobs/5798765004) |
+| Posted | 2026-07-22 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/grafanalabs/jobs/6121672004) |
 
 ## About This Role
 
-This sales engineer position at Grafana Labs was posted on 2026-02-10.
+This sales engineer position at Grafana Labs was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 
