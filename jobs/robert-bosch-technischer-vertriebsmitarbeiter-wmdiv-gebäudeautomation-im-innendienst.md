@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Verl, North Rhine-Westphalia, Germany |
+| Location | Berlin, State of Berlin, Germany |
 | Category | Sales Engineer |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000123671740-technischer-vertriebsmitarbeiter-wmdiv-gebaudeautomation-im-innendienst) |
+| Posted | 2026-07-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000139530095-technischer-vertriebsmitarbeiter-wmdiv-gebaudeautomation-im-innendienst) |
 
 ## About This Role
 
-This sales engineer position at Robert Bosch was posted on 2026-04-29.
+This sales engineer position at Robert Bosch was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

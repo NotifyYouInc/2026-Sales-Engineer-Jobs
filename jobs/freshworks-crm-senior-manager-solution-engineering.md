@@ -5,12 +5,12 @@
 | Company | [Freshworks CRM](https://scoutify.ai/companies/freshworkscrm?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Chennai, Tamil Nadu, India |
 | Category | Sales Engineer |
-| Posted | 2026-07-21 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Freshworks/744000138825129-senior-manager-solution-engineering) |
+| Posted | 2026-07-23 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Freshworks/744000139237649-senior-manager-solution-engineering) |
 
 ## About This Role
 
-This sales engineer position at Freshworks CRM was posted on 2026-07-21.
+This sales engineer position at Freshworks CRM was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

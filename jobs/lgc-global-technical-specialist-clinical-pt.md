@@ -5,12 +5,12 @@
 | Company | [LGC](https://scoutify.ai/companies/lgc?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Traverse City, Michigan, United States |
 | Category | Sales Engineer |
-| Posted | 2026-07-14 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/LGCGroup/744000137729869-global-technical-specialist-clinical-pt) |
+| Posted | 2026-07-23 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/LGCGroup/744000139367069-global-technical-specialist-clinical-pt) |
 
 ## About This Role
 
-This sales engineer position at LGC was posted on 2026-07-14.
+This sales engineer position at LGC was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

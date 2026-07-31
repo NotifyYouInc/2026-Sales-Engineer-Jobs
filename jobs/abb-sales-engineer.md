@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ABB](https://scoutify.ai/companies/abb?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Hangzhou, Zhejiang, China |
+| Location | Košice, Košice Region, Slovakia |
 | Category | Sales Engineer |
-| Posted | 2026-07-16 |
-| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Hangzhou-Zhejiang-China/Sales-Engineer_JR00041777) |
+| Posted | 2026-07-24 |
+| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Kosice-Kosicky-kraj-Slovakia/Sales-Engineer_JR00040659-1) |
 
 ## About This Role
 
-This sales engineer position at ABB was posted on 2026-07-16.
+This sales engineer position at ABB was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Keyloop](https://scoutify.ai/companies/keyloop?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | South Africa |
-| Category | Customer Success |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://jobs.lever.co/keyloop/e4e0bbeb-019b-4755-8cdf-748c7dc5467c) |
+| Location | Prague, Prague, Czechia |
+| Category | Sales Engineer |
+| Posted | 2026-07-23 |
+| Apply | [View on company site](https://jobs.lever.co/keyloop/d56d66b9-3af0-4a5d-8341-6e49c60349e5) |
 
 ## About This Role
 
-This customer success position at Keyloop was posted on 2026-05-18.
+This sales engineer position at Keyloop was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

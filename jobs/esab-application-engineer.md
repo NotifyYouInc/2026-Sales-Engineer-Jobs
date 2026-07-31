@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [ESAB](https://scoutify.ai/companies/esab?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Hanover, Maryland, United States |
-| Category | Sales Engineer |
-| Posted | 2026-06-30 |
-| Apply | [View on company site](https://esab.wd5.myworkdayjobs.com/esabcareers/job/Hanover-Pennsylvania-USA/Application-Engineer_R0025681) |
+| Category | Software Engineer |
+| Posted | 2026-07-23 |
+| Apply | [View on company site](https://esab.wd5.myworkdayjobs.com/esabcareers/job/Hanover-Pennsylvania-USA/Application-Engineer_R0025958) |
 
 ## About This Role
 
-This sales engineer position at ESAB was posted on 2026-06-30.
+This software engineer position at ESAB was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

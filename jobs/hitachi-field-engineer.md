@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Hitachi](https://scoutify.ai/companies/hitachi?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Naples, Campania, Italy |
-| Category | Electrical / Hardware Engineer |
-| Posted | 2026-04-01 |
-| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Naples-Campania-Italy/Field-Engineer_R0109742) |
+| Location | Milan, Lombardy, Italy |
+| Category | Sales Engineer |
+| Posted | 2026-07-23 |
+| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Milan-Lombardy-Italy/Field-Engineer_R0122140) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Hitachi was posted on 2026-04-01.
+This sales engineer position at Hitachi was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

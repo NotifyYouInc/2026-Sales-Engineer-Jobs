@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Trellix](https://scoutify.ai/companies/trellix?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Tokyo, Tokyo, Japan |
-| Category | Customer Success |
-| Posted | 2026-06-15 |
-| Apply | [View on company site](https://trellix.wd1.myworkdayjobs.com/EnterpriseCareers/job/Japan-Tokyo/Technical-Consultant_JR0037183) |
+| Location | Bengaluru, Karnataka, India |
+| Category | Sales Engineer |
+| Posted | 2026-07-24 |
+| Apply | [View on company site](https://trellix.wd1.myworkdayjobs.com/EnterpriseCareers/job/India-Bangalore/Technical-Consultant_JR0037719) |
 
 ## About This Role
 
-This customer success position at Trellix was posted on 2026-06-15.
+This sales engineer position at Trellix was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

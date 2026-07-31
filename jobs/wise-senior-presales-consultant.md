@@ -5,12 +5,12 @@
 | Company | [WISE](https://scoutify.ai/companies/wise?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | London, England, United Kingdom |
 | Category | Sales Engineer |
-| Posted | 2026-07-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000138294390-senior-presales-consultant) |
+| Posted | 2026-07-23 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000139329439-senior-presales-consultant) |
 
 ## About This Role
 
-This sales engineer position at WISE was posted on 2026-07-17.
+This sales engineer position at WISE was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

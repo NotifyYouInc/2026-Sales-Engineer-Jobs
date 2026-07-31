@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [LinkedIn](https://scoutify.ai/companies/linkedin?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Dublin, Leinster, Ireland |
-| Category | Customer Success |
-| Posted | 2026-06-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/LinkedIn3/744000131850012-senior-implementation-consultant-linkedin-sales-solutions-french-speaking) |
+| Category | Sales Engineer |
+| Posted | 2026-07-23 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/LinkedIn3/744000139282150-senior-implementation-consultant-linkedin-sales-solutions-french-speaking) |
 
 ## About This Role
 
-This customer success position at LinkedIn was posted on 2026-06-12.
+This sales engineer position at LinkedIn was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

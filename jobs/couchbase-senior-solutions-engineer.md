@@ -5,12 +5,12 @@
 | Company | [Couchbase](https://scoutify.ai/companies/couchbaseinc?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | India |
 | Category | Sales Engineer |
-| Posted | 2026-07-21 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/couchbaseinc/jobs/4697611006) |
+| Posted | 2026-07-24 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/couchbaseinc/jobs/4697613006) |
 
 ## About This Role
 
-This sales engineer position at Couchbase was posted on 2026-07-21.
+This sales engineer position at Couchbase was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

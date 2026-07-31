@@ -1,16 +1,16 @@
-# Manager III, Customer Engineer - (M3) at Applied Materials
+# Manager III, Customer Engineer (M3) at Applied Materials
 
 | Field | Details |
 |-------|---------|
 | Company | [Applied Materials](https://scoutify.ai/companies/applied-materials?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Chandler, Arizona, United States |
-| Category | Engineering Manager |
-| Posted | 2026-06-09 |
-| Apply | [View on company site](https://amat.wd1.myworkdayjobs.com/External/job/ChandlerAZ/Manager-III--Customer-Engineer----M3-_R2619913) |
+| Location | Phoenix, Arizona, United States |
+| Category | Sales Engineer |
+| Posted | 2026-07-23 |
+| Apply | [View on company site](https://amat.wd1.myworkdayjobs.com/External/job/PhoenixAZ/Manager-III--Customer-Engineer--M3-_R2622256) |
 
 ## About This Role
 
-This engineering manager position at Applied Materials was posted on 2026-06-09.
+This sales engineer position at Applied Materials was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

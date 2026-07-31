@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Applied Materials](https://scoutify.ai/companies/applied-materials?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Lehi, Utah, United States |
+| Location | Austin, Texas, United States |
 | Category | Sales Engineer |
-| Posted | 2026-07-20 |
-| Apply | [View on company site](https://amat.wd1.myworkdayjobs.com/External/job/LehiUT/Customer-Engineer_R2624415) |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://amat.wd1.myworkdayjobs.com/External/job/AustinTX/Customer-Engineer_R2624416) |
 
 ## About This Role
 
-This sales engineer position at Applied Materials was posted on 2026-07-20.
+This sales engineer position at Applied Materials was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

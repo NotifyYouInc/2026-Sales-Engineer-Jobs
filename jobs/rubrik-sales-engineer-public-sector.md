@@ -5,12 +5,12 @@
 | Company | [Rubrik](https://scoutify.ai/companies/rubrik?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | United Kingdom |
 | Category | Sales Engineer |
-| Posted | 2026-03-08 |
-| Apply | [View on company site](https://www.rubrik.com/company/careers/departments/job.7314623?gh_jid=7314623) |
+| Posted | 2026-07-23 |
+| Apply | [View on company site](https://www.rubrik.com/company/careers/departments/job.7949886?gh_jid=7949886) |
 
 ## About This Role
 
-This sales engineer position at Rubrik was posted on 2026-03-08.
+This sales engineer position at Rubrik was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

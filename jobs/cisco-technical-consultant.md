@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Ottawa, Ontario, Canada |
-| Category | Customer Success |
-| Posted | 2026-06-10 |
-| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Ottawa-Ontario-Canada/Technical-Consultant_2015473-1) |
+| Category | Sales Engineer |
+| Posted | 2026-07-23 |
+| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Ottawa-Ontario-Canada/Technical-Consultant_2020596) |
 
 ## About This Role
 
-This customer success position at Cisco was posted on 2026-06-10.
+This sales engineer position at Cisco was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

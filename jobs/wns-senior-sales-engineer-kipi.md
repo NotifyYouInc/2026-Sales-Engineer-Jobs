@@ -5,12 +5,12 @@
 | Company | [WNS](https://scoutify.ai/companies/wns?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Sales Engineer |
-| Posted | 2026-07-21 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/WNSGlobalServices144/744000138819129-senior-sales-engineer-kipi) |
+| Posted | 2026-07-23 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/WNSGlobalServices144/744000139245548-senior-sales-engineer-kipi) |
 
 ## About This Role
 
-This sales engineer position at WNS was posted on 2026-07-21.
+This sales engineer position at WNS was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

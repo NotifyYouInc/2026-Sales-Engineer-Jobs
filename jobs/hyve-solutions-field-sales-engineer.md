@@ -5,12 +5,12 @@
 | Company | [Hyve Solutions](https://scoutify.ai/companies/hyve-solutions?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Fremont, California, United States |
 | Category | Sales Engineer |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://synnex.wd5.myworkdayjobs.com/hyvecareers/job/Fremont-CA/Field-Sales-Engineer-IV_R43706) |
+| Posted | 2026-07-22 |
+| Apply | [View on company site](https://synnex.wd5.myworkdayjobs.com/hyvecareers/job/Fremont-CA/Field-Sales-Engineer_R54255) |
 
 ## About This Role
 
-This sales engineer position at Hyve Solutions was posted on 2026-04-21.
+This sales engineer position at Hyve Solutions was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 

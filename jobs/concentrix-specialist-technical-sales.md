@@ -5,12 +5,12 @@
 | Company | [Concentrix](https://scoutify.ai/companies/concentrix?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Yokohama, Kanagawa, Japan |
 | Category | Sales Engineer |
-| Posted | 2026-07-02 |
-| Apply | [View on company site](https://cnx.wd1.myworkdayjobs.com/external_global/job/JPN-Yokohama-MM-Park-Building-11th-Flr-3-6-3-Minatomirai-Nishi-ku/Specialist--Technical-Sales_R1731524) |
+| Posted | 2026-07-24 |
+| Apply | [View on company site](https://cnx.wd1.myworkdayjobs.com/external_global/job/JPN-Yokohama-MM-Park-Building-11th-Flr-3-6-3-Minatomirai-Nishi-ku/Specialist--Technical-Sales_R1734862) |
 
 ## About This Role
 
-This sales engineer position at Concentrix was posted on 2026-07-02.
+This sales engineer position at Concentrix was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Nearmap](https://scoutify.ai/companies/nearmap?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | New South Wales, AU |
 | Category | Sales Engineer |
-| Posted | 2026-07-15 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Nearmap/744000137768869-solutions-engineer) |
+| Posted | 2026-07-23 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Nearmap/744000139376669-solutions-engineer) |
 
 ## About This Role
 
-This sales engineer position at Nearmap was posted on 2026-07-15.
+This sales engineer position at Nearmap was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

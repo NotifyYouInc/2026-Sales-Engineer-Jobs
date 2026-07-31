@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [IFS](https://scoutify.ai/companies/ifs?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Copenhagen, Capital Region, Denmark |
+| Location | Stockholm, Stockholm, Sweden |
 | Category | Sales Engineer |
-| Posted | 2026-07-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/IFS1/744000138120019-senior-solutions-consultant-pre-sales-copperleaf-nordics) |
+| Posted | 2026-07-23 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/IFS1/744000139295421-senior-solutions-consultant-pre-sales-copperleaf-nordics) |
 
 ## About This Role
 
-This sales engineer position at IFS was posted on 2026-07-16.
+This sales engineer position at IFS was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

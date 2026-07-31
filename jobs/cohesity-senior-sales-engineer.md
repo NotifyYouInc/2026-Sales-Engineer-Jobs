@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cohesity](https://scoutify.ai/companies/cohesity?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Connecticut, US |
+| Location | Spain |
 | Category | Sales Engineer |
-| Posted | 2026-07-13 |
-| Apply | [View on company site](https://cohesity.wd5.myworkdayjobs.com/Cohesity_Careers/job/USA---Connecticut---Remote/Senior-Sales-Engineer_R04172) |
+| Posted | 2026-07-23 |
+| Apply | [View on company site](https://cohesity.wd5.myworkdayjobs.com/Cohesity_Careers/job/Spain---Remote/Senior-Sales-Engineer_R04051) |
 
 ## About This Role
 
-This sales engineer position at Cohesity was posted on 2026-07-13.
+This sales engineer position at Cohesity was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

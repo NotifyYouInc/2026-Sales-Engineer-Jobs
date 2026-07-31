@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Snowflake](https://scoutify.ai/companies/snowflake?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Tel Aviv, Tel Aviv, Israel |
+| Location | Menlo Park, California, United States |
 | Category | Sales Engineer |
-| Posted | 2026-07-20 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/snowflake/4137a948-1e5a-4b5d-bc20-cc34332b7b69) |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/snowflake/cdcd5c4e-0c62-436d-a168-6ed6dff6dd2b) |
 
 ## About This Role
 
-This sales engineer position at Snowflake was posted on 2026-07-20.
+This sales engineer position at Snowflake was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

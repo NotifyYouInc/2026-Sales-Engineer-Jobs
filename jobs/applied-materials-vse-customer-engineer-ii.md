@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Applied Materials](https://scoutify.ai/companies/applied-materials?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Japan |
+| Location | Yokkaichi, Mie, Japan |
 | Category | Sales Engineer |
-| Posted | 2026-07-09 |
-| Apply | [View on company site](https://amat.wd1.myworkdayjobs.com/External/job/Nishi-TokyoJPN/VSE-Customer-Engineer-II_R2623421) |
+| Posted | 2026-07-24 |
+| Apply | [View on company site](https://amat.wd1.myworkdayjobs.com/External/job/YokkaichiJPN/VSE-Customer-Engineer-II_R2624738-1) |
 
 ## About This Role
 
-This sales engineer position at Applied Materials was posted on 2026-07-09.
+This sales engineer position at Applied Materials was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

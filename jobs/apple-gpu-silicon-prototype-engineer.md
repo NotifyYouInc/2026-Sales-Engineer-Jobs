@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Apple](https://scoutify.ai/companies/apple?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Not specified |
-| Category | Semiconductor / Chip Design |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://jobs.apple.com/en-us/details/200657662/gpu-silicon-prototype-engineer) |
+| Location | Austin, Texas, United States |
+| Category | Sales Engineer |
+| Posted | 2026-07-23 |
+| Apply | [View on company site](https://jobs.apple.com/en-us/details/200673915/gpu-silicon-prototype-engineer) |
 
 ## About This Role
 
-This semiconductor / chip design position at Apple was posted on 2026-04-14.
+This sales engineer position at Apple was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 
