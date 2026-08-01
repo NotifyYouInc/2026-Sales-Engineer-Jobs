@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [GE HealthCare](https://scoutify.ai/companies/ge-healthcare?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | United States |
+| Location | 2 locations |
 | Category | Sales Engineer |
-| Posted | 2026-07-13 |
-| Apply | [View on company site](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Surgery-Field-Engineer-Apprentice_R4042598-1) |
+| Posted | 2026-07-24 |
+| Apply | [View on company site](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Surgery-Field-Engineer-Apprentice_R4043950-1) |
 
 ## About This Role
 
-This sales engineer position at GE HealthCare was posted on 2026-07-13.
+This sales engineer position at GE HealthCare was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

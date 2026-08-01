@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [REXEL](https://scoutify.ai/companies/rexel?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Bangor, Maine, United States |
+| Location | Indianapolis, Indiana, United States |
 | Category | Sales Engineer |
-| Posted | 2026-07-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/REXEL1/744000138389174-product-specialist) |
+| Posted | 2026-07-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/REXEL1/744000139645737-product-specialist) |
 
 ## About This Role
 
-This sales engineer position at REXEL was posted on 2026-07-17.
+This sales engineer position at REXEL was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

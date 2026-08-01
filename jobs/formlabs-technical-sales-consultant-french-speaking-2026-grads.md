@@ -5,12 +5,12 @@
 | Company | [Formlabs](https://scoutify.ai/companies/formlabs?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Berlin, State of Berlin, Germany |
 | Category | Sales Engineer |
-| Posted | 2026-06-23 |
-| Apply | [View on company site](https://careers.formlabs.com/job/8023808/apply/?gh_jid=8023808) |
+| Posted | 2026-07-24 |
+| Apply | [View on company site](https://careers.formlabs.com/job/8083398/apply/?gh_jid=8083398) |
 
 ## About This Role
 
-This sales engineer position at Formlabs was posted on 2026-06-23.
+This sales engineer position at Formlabs was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

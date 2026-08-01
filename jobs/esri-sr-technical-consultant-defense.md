@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Esri](https://scoutify.ai/companies/esri?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Virginia, US |
-| Category | Customer Success |
-| Posted | 2026-06-05 |
-| Apply | [View on company site](https://www.esri.com/careers/5156874007?gh_jid=5156874007) |
+| Location | Fort Belvoir, Virginia, United States |
+| Category | Sales Engineer |
+| Posted | 2026-07-24 |
+| Apply | [View on company site](https://www.esri.com/careers/5195723007?gh_jid=5195723007) |
 
 ## About This Role
 
-This customer success position at Esri was posted on 2026-06-05.
+This sales engineer position at Esri was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

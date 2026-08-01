@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Snowflake](https://scoutify.ai/companies/snowflake?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Menlo Park, California, United States |
+| Location | Oslo, Oslo, Norway |
 | Category | Sales Engineer |
-| Posted | 2026-07-21 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/snowflake/cdcd5c4e-0c62-436d-a168-6ed6dff6dd2b) |
+| Posted | 2026-07-23 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/snowflake/78028f3a-15c8-49e0-b6eb-a146d5de44cd) |
 
 ## About This Role
 
-This sales engineer position at Snowflake was posted on 2026-07-21.
+This sales engineer position at Snowflake was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

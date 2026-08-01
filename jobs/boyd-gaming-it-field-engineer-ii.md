@@ -1,16 +1,16 @@
-# IT Field Engineer II at Boyd Gaming
+# IT Field Engineer II  at Boyd Gaming
 
 | Field | Details |
 |-------|---------|
 | Company | [Boyd Gaming](https://scoutify.ai/companies/boydgaming?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Vinton, Virginia, United States |
-| Category | IT & Systems Administration |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoydGaming/3743990012800746-it-field-engineer-ii) |
+| Location | Las Vegas, Nevada, United States |
+| Category | Sales Engineer |
+| Posted | 2026-07-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoydGaming/3743990014280166-it-field-engineer-ii) |
 
 ## About This Role
 
-This it & systems administration position at Boyd Gaming was posted on 2026-04-23.
+This sales engineer position at Boyd Gaming was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

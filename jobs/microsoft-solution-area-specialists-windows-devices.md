@@ -1,4 +1,4 @@
-# Solution Area Specialists Windows & Devices at Microsoft
+# Solution Area Specialists - Windows & Devices at Microsoft
 
 | Field | Details |
 |-------|---------|
@@ -6,7 +6,7 @@
 | Location | 3 locations |
 | Category | Sales Engineer |
 | Posted | 2026-07-22 |
-| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556938742) |
+| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556938729) |
 
 ## About This Role
 

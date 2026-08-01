@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Infobip](https://scoutify.ai/companies/infobip?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Amman, Amman, Jordan |
+| Location | Paris, Île-de-France, France |
 | Category | Sales Engineer |
-| Posted | 2026-05-14 |
-| Apply | [View on company site](https://infobip.wd3.myworkdayjobs.com/infobipcareers/job/Amman-Jordan/Solution-Engineer-Intern_JR104472) |
+| Posted | 2026-07-24 |
+| Apply | [View on company site](https://infobip.wd3.myworkdayjobs.com/infobipcareers/job/Paris-France/Solution-Engineer-Intern_JR104683-1) |
 
 ## About This Role
 
-This sales engineer position at Infobip was posted on 2026-05-14.
+This sales engineer position at Infobip was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CrowdStrike](https://scoutify.ai/companies/crowdstrike?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Nevada, US |
+| Location | Georgia, US |
 | Category | Sales Engineer |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote-CA/Regional-Sales-Engineer--Remote-_R28393) |
+| Posted | 2026-07-24 |
+| Apply | [View on company site](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote-GA/Regional-Sales-Engineer--Remote-_R29273) |
 
 ## About This Role
 
-This sales engineer position at CrowdStrike was posted on 2026-04-21.
+This sales engineer position at CrowdStrike was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 
