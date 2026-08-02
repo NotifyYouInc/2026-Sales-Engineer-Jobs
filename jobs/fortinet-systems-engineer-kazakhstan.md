@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Fortinet](https://scoutify.ai/companies/us2-cx-oj39798?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Almaty, Almaty, Kazakhstan |
+| Location | Astana, Astana, Kazakhstan |
 | Category | Sales Engineer |
 | Posted | 2026-07-22 |
-| Apply | [View on company site](https://edel.fa.us2.oraclecloud.com/jobs/#23536) |
+| Apply | [View on company site](https://edel.fa.us2.oraclecloud.com/jobs/#23535) |
 
 ## About This Role
 
