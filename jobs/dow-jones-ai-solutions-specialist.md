@@ -1,16 +1,16 @@
-# Product Specialist - East Commercial Unit at Syngenta
+# AI Solutions Specialist at Dow Jones
 
 | Field | Details |
 |-------|---------|
-| Company | [Syngenta](https://scoutify.ai/companies/syngenta?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Bihar, IN |
+| Company | [Dow Jones](https://scoutify.ai/companies/dowjones?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
+| Location | Barcelona, Catalonia, Spain |
 | Category | Sales Engineer |
 | Posted | 2026-07-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SyngentaGroup/744000139961319-product-specialist-east-commercial-unit) |
+| Apply | [View on company site](https://dowjones.wd1.myworkdayjobs.com/Dow_Jones_Career/job/Spain---Barcelona/AI-Solutions-Specialist_Job_Req_54316) |
 
 ## About This Role
 
-This sales engineer position at Syngenta was posted on 2026-07-27.
+This sales engineer position at Dow Jones was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

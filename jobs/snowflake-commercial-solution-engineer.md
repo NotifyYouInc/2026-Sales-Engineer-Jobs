@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Snowflake](https://scoutify.ai/companies/snowflake?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Berlin, State of Berlin, Germany |
-| Category | Technical & Solutions Architect |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/snowflake/d35519be-6fb1-4f6f-98d8-fe3a12095f2c) |
+| Location | Paris, Île-de-France, France |
+| Category | Sales Engineer |
+| Posted | 2026-07-27 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/snowflake/4e31ec82-9339-4ded-b730-8ec38f1d477b) |
 
 ## About This Role
 
-This technical & solutions architect position at Snowflake was posted on 2026-04-24.
+This sales engineer position at Snowflake was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

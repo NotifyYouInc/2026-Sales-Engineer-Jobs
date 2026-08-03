@@ -1,16 +1,16 @@
-# Product Specialist - East Commercial Unit at Syngenta
+# Technical Sales Support Manager - Spirits at Lesaffre
 
 | Field | Details |
 |-------|---------|
-| Company | [Syngenta](https://scoutify.ai/companies/syngenta?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Bihar, IN |
+| Company | [Lesaffre](https://scoutify.ai/companies/lesaffre?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
+| Location | Mumbai, Maharashtra, India |
 | Category | Sales Engineer |
 | Posted | 2026-07-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SyngentaGroup/744000139961319-product-specialist-east-commercial-unit) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Lesaffre/744000139878719-technical-sales-support-manager-spirits) |
 
 ## About This Role
 
-This sales engineer position at Syngenta was posted on 2026-07-27.
+This sales engineer position at Lesaffre was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

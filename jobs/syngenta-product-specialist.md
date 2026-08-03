@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Syngenta](https://scoutify.ai/companies/syngenta?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Guntur, Andhra Pradesh, India |
-| Category | Product Manager |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SyngentaGroup/744000126948443-product-specialist) |
+| Category | Sales Engineer |
+| Posted | 2026-07-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SyngentaGroup/744000139962858-product-specialist) |
 
 ## About This Role
 
-This product manager position at Syngenta was posted on 2026-05-18.
+This sales engineer position at Syngenta was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

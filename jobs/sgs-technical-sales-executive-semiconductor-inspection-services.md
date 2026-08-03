@@ -1,16 +1,16 @@
-# Product Specialist - East Commercial Unit at Syngenta
+# Technical Sales Executive – Semiconductor Inspection Services at SGS
 
 | Field | Details |
 |-------|---------|
-| Company | [Syngenta](https://scoutify.ai/companies/syngenta?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Bihar, IN |
+| Company | [SGS](https://scoutify.ai/companies/sgs?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
+| Location | Malaysia |
 | Category | Sales Engineer |
 | Posted | 2026-07-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SyngentaGroup/744000139961319-product-specialist-east-commercial-unit) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SGS/744000139913145-technical-sales-executive-semiconductor-inspection-services) |
 
 ## About This Role
 
-This sales engineer position at Syngenta was posted on 2026-07-27.
+This sales engineer position at SGS was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

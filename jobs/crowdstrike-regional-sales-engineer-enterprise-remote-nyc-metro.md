@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CrowdStrike](https://scoutify.ai/companies/crowdstrike?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | New Jersey, US |
+| Location | Maryland, US |
 | Category | Sales Engineer |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote-NJ/Regional-Sales-Engineer---Enterprise--Remote--NYC-Metro-_R28000) |
+| Posted | 2026-07-27 |
+| Apply | [View on company site](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote-DC/Regional-Sales-Engineer---Enterprise--Remote--NYC-Metro-_R29285) |
 
 ## About This Role
 
-This sales engineer position at CrowdStrike was posted on 2026-03-25.
+This sales engineer position at CrowdStrike was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

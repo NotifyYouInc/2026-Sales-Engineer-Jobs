@@ -1,16 +1,16 @@
-# Product Specialist - East Commercial Unit at Syngenta
+# Project Sales Engineer at Yokogawa
 
 | Field | Details |
 |-------|---------|
-| Company | [Syngenta](https://scoutify.ai/companies/syngenta?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Bihar, IN |
+| Company | [Yokogawa](https://scoutify.ai/companies/yokogawa?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
+| Location | Puchong, Selangor, Malaysia |
 | Category | Sales Engineer |
 | Posted | 2026-07-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SyngentaGroup/744000139961319-product-specialist-east-commercial-unit) |
+| Apply | [View on company site](https://yokogawa.wd3.myworkdayjobs.com/yokogawa-career-site/job/Puchong/Project-Sales-Engineer_R-12232) |
 
 ## About This Role
 
-This sales engineer position at Syngenta was posted on 2026-07-27.
+This sales engineer position at Yokogawa was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

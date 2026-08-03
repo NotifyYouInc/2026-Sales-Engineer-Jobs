@@ -1,12 +1,12 @@
-# Ecosystem Sales Engineer, Large Customer Sales at Google
+# Senior Customer Engineer, Infrastructure Modernization, Google Cloud at Google
 
 | Field | Details |
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | London, England, United Kingdom |
+| Location | Singapore, Singapore |
 | Category | Sales Engineer |
 | Posted | 2026-07-27 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckbPbH77ANP-oxzLkWDR6-L6HUAHFcsf-J8YPLXRKyPkVEjsA1Ny_i7ErMuLH_GM2ILSlDUg3JhmyihBTpx-8ircW_nkiUI8IEUYvjSwQF2NRsj-U2JbdH-ytVuF8wg%3D%3D_V2&loc=GB&title=Ecosystem+Sales+Engineer) |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckQGz1-Fn2bQPGfeJeODj5WkoPBgn8IxboDbVnNJAWcH6EjsA1Ny_i0k7c6MsGC2A5PBeQvbhCJeUdDfzg1skHIhec5R9GETpO8L_5zPde03FUcF14MXyzYF_a2ZjJg%3D%3D_V2&loc=SG&title=Senior+Customer+Engineer) |
 
 ## About This Role
 

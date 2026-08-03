@@ -5,12 +5,12 @@
 | Company | [New Relic](https://scoutify.ai/companies/new-relic?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Melbourne, Victoria, Australia |
 | Category | Sales Engineer |
-| Posted | 2026-04-02 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/newrelic/jobs/5172404008) |
+| Posted | 2026-07-27 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/newrelic/jobs/5367467008) |
 
 ## About This Role
 
-This sales engineer position at New Relic was posted on 2026-04-02.
+This sales engineer position at New Relic was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Product Specialist - East Commercial Unit at Syngenta
+# Solution Consultant Pre-sales ERP (Dutch Speaking) at Unit4
 
 | Field | Details |
 |-------|---------|
-| Company | [Syngenta](https://scoutify.ai/companies/syngenta?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Bihar, IN |
+| Company | [Unit4](https://scoutify.ai/companies/unit44?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
+| Location | Dordrecht, South Holland, The Netherlands |
 | Category | Sales Engineer |
 | Posted | 2026-07-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SyngentaGroup/744000139961319-product-specialist-east-commercial-unit) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Unit44/744000139923479-solution-consultant-pre-sales-erp-dutch-speaking) |
 
 ## About This Role
 
-This sales engineer position at Syngenta was posted on 2026-07-27.
+This sales engineer position at Unit4 was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

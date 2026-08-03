@@ -1,16 +1,16 @@
-# Product Specialist - East Commercial Unit at Syngenta
+# Software Solutions Specialist at Elekta
 
 | Field | Details |
 |-------|---------|
-| Company | [Syngenta](https://scoutify.ai/companies/syngenta?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Bihar, IN |
+| Company | [Elekta](https://scoutify.ai/companies/elekta?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
+| Location | Jakarta, Jakarta, Indonesia |
 | Category | Sales Engineer |
 | Posted | 2026-07-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SyngentaGroup/744000139961319-product-specialist-east-commercial-unit) |
+| Apply | [View on company site](https://elekta.wd3.myworkdayjobs.com/Elekta_Careers/job/Jakarta/Software-Solutions-Specialist_R2026-1233) |
 
 ## About This Role
 
-This sales engineer position at Syngenta was posted on 2026-07-27.
+This sales engineer position at Elekta was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

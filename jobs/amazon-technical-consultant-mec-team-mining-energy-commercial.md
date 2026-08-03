@@ -1,16 +1,16 @@
-# Product Specialist - East Commercial Unit at Syngenta
+# Technical Consultant, MEC Team - Mining, Energy, Commercial at Amazon
 
 | Field | Details |
 |-------|---------|
-| Company | [Syngenta](https://scoutify.ai/companies/syngenta?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Bihar, IN |
+| Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
+| Location | Perth, Western Australia, Australia |
 | Category | Sales Engineer |
 | Posted | 2026-07-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SyngentaGroup/744000139961319-product-specialist-east-commercial-unit) |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10484255/technical-consultant-mec-team-mining-energy-commercial) |
 
 ## About This Role
 
-This sales engineer position at Syngenta was posted on 2026-07-27.
+This sales engineer position at Amazon was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

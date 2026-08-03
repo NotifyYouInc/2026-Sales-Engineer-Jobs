@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Honeywell](https://scoutify.ai/companies/ocs-cx-oj53173?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Morocco |
 | Category | Sales Engineer |
-| Posted | 2026-07-06 |
-| Apply | [View on company site](https://ibqbjb.fa.ocs.oraclecloud.com/jobs/#150573) |
+| Posted | 2026-07-27 |
+| Apply | [View on company site](https://ibqbjb.fa.ocs.oraclecloud.com/jobs/#153184) |
 
 ## About This Role
 
-This sales engineer position at Honeywell was posted on 2026-07-06.
+This sales engineer position at Honeywell was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

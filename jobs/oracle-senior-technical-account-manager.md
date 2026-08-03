@@ -1,16 +1,16 @@
-# Senior Sales Engineer - Germany at Zscaler
+# Senior Technical Account Manager at Oracle
 
 | Field | Details |
 |-------|---------|
-| Company | [Zscaler](https://scoutify.ai/companies/zscaler?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Germany |
+| Company | [Oracle](https://scoutify.ai/companies/oracle?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
+| Location | Hong Kong, Hong Kong |
 | Category | Sales Engineer |
-| Posted | 2026-07-26 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/zscaler/jobs/5193808007) |
+| Posted | 2026-07-27 |
+| Apply | [View on company site](https://careers.oracle.com/jobs/#341169) |
 
 ## About This Role
 
-This sales engineer position at Zscaler was posted on 2026-07-26.
+This sales engineer position at Oracle was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

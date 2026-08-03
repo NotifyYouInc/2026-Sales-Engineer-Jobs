@@ -1,16 +1,16 @@
-# Senior Sales Engineer - Germany at Zscaler
+# Field Engineer - India  at Cursor
 
 | Field | Details |
 |-------|---------|
-| Company | [Zscaler](https://scoutify.ai/companies/zscaler?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Germany |
+| Company | [Cursor](https://scoutify.ai/companies/cursor?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
+| Location | India |
 | Category | Sales Engineer |
-| Posted | 2026-07-26 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/zscaler/jobs/5193808007) |
+| Posted | 2026-07-27 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/cursor/a6c00f7f-2288-4461-a64d-0f1cd9878909) |
 
 ## About This Role
 
-This sales engineer position at Zscaler was posted on 2026-07-26.
+This sales engineer position at Cursor was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

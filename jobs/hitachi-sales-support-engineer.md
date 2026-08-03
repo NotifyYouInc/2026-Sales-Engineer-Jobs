@@ -1,16 +1,16 @@
-# Sales Support Engineer at Hitachi
+# Sales support Engineer at Hitachi
 
 | Field | Details |
 |-------|---------|
 | Company | [Hitachi](https://scoutify.ai/companies/hitachi?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Trutnov, Královéhradecký kraj, Czechia |
+| Location | Xiamen, Fujian, China |
 | Category | Sales Engineer |
-| Posted | 2026-07-22 |
-| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Trutnov-Krlovhradeck-kraj-Czechia/Sales-Support-Engineer_R0137701) |
+| Posted | 2026-07-27 |
+| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Xiamen-Fujian-China/Sales-support-Engineer_R0139168-1) |
 
 ## About This Role
 
-This sales engineer position at Hitachi was posted on 2026-07-22.
+This sales engineer position at Hitachi was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 
