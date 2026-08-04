@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Huntress](https://scoutify.ai/companies/huntress?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Australia |
-| Category | Customer Success |
-| Posted | 2026-05-07 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/huntress/jobs/7726641003) |
+| Location | United States |
+| Category | Account Manager |
+| Posted | 2026-07-27 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/huntress/jobs/7807952003) |
 
 ## About This Role
 
-This customer success position at Huntress was posted on 2026-05-07.
+This account manager position at Huntress was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

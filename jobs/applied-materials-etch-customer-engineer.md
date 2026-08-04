@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Applied Materials](https://scoutify.ai/companies/applied-materials?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | South Korea |
-| Category | Sales Engineer |
-| Posted | 2026-07-22 |
-| Apply | [View on company site](https://amat.wd1.myworkdayjobs.com/External/job/CheongJuKOR/ETCH-Customer-Engineer_R2624570) |
+| Category | Semiconductor / Chip Design |
+| Posted | 2026-07-28 |
+| Apply | [View on company site](https://amat.wd1.myworkdayjobs.com/External/job/Icheon-GodamKOR/ETCH-Customer-Engineer_R2624106-1) |
 
 ## About This Role
 
-This sales engineer position at Applied Materials was posted on 2026-07-22.
+This semiconductor / chip design position at Applied Materials was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

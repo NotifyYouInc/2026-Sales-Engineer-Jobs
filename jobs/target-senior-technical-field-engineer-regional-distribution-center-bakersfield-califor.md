@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Target](https://scoutify.ai/companies/target?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Shafter, California, United States |
-| Category | Sales Engineer |
+| Category | IT & Systems Administration |
 | Posted | 2026-07-24 |
 | Apply | [View on company site](https://target.wd5.myworkdayjobs.com/targetcareers/job/3880-Zachary-Ave-ShafterCA-93263-9579/Senior-Technical-Field-Engineer---Regional-Distribution-Center---Bakersfield--California_R0000446784) |
 
 ## About This Role
 
-This sales engineer position at Target was posted on 2026-07-24.
+This it & systems administration position at Target was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

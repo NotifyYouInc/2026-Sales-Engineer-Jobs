@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Apple](https://scoutify.ai/companies/apple?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Tukwila, Washington, United States |
+| Location | Tucson, Arizona, United States |
 | Category | Sales Engineer |
-| Posted | 2026-07-23 |
-| Apply | [View on company site](https://jobs.apple.com/en-us/details/200673598/us-technical-specialist) |
+| Posted | 2026-07-27 |
+| Apply | [View on company site](https://jobs.apple.com/en-us/details/200674332/us-technical-specialist) |
 
 ## About This Role
 
-This sales engineer position at Apple was posted on 2026-07-23.
+This sales engineer position at Apple was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

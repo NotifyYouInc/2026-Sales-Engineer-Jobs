@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Arctic Wolf](https://scoutify.ai/companies/arcticwolf?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | United States |
-| Category | Sales Engineer |
+| Category | Sales |
 | Posted | 2026-07-23 |
 | Apply | [View on company site](https://arcticwolf.wd1.myworkdayjobs.com/External/job/Remote-United-States/Director--Sales-Engineering---Enterprise--Northeast-_R26_831) |
 
 ## About This Role
 
-This sales engineer position at Arctic Wolf was posted on 2026-07-23.
+This sales position at Arctic Wolf was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

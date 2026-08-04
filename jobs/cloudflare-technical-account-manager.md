@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cloudflare](https://scoutify.ai/companies/cloudflare?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Singapore, Singapore |
+| Location | Sydney, New South Wales, Australia |
 | Category | Sales Engineer |
-| Posted | 2026-07-23 |
-| Apply | [View on company site](https://boards.greenhouse.io/cloudflare/jobs/8076494?gh_jid=8076494) |
+| Posted | 2026-07-24 |
+| Apply | [View on company site](https://boards.greenhouse.io/cloudflare/jobs/8081039?gh_jid=8081039) |
 
 ## About This Role
 
-This sales engineer position at Cloudflare was posted on 2026-07-23.
+This sales engineer position at Cloudflare was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

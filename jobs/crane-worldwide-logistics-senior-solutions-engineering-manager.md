@@ -5,12 +5,12 @@
 | Company | [Crane Worldwide Logistics](https://scoutify.ai/companies/crane-worldwide-logistics?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Not specified |
 | Category | Sales Engineer |
-| Posted | 2026-07-15 |
-| Apply | [View on company site](https://recruiting2.ultipro.com/cra1009crwl/JobBoard/755fc3a5-077f-4395-ad9a-01ffdc6dea89/OpportunityDetail?opportunityId=016c118f-7bfd-4fb8-abeb-4f0ffa8b2792) |
+| Posted | 2026-07-28 |
+| Apply | [View on company site](https://recruiting2.ultipro.com/cra1009crwl/JobBoard/755fc3a5-077f-4395-ad9a-01ffdc6dea89/OpportunityDetail?opportunityId=c1064f0e-50ff-4e21-a7a8-4913749d8886) |
 
 ## About This Role
 
-This sales engineer position at Crane Worldwide Logistics was posted on 2026-07-15.
+This sales engineer position at Crane Worldwide Logistics was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

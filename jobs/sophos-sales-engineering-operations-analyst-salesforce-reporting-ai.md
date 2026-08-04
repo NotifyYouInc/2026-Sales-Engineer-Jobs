@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Sophos](https://scoutify.ai/companies/sophos?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Romania |
-| Category | Sales Engineer |
+| Category | Operations |
 | Posted | 2026-07-24 |
 | Apply | [View on company site](https://jobs.lever.co/sophos/5abeaea8-8de9-44e9-bcdb-2a96b6bad88c) |
 
 ## About This Role
 
-This sales engineer position at Sophos was posted on 2026-07-24.
+This operations position at Sophos was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

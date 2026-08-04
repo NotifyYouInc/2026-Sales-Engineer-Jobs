@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Applied Materials](https://scoutify.ai/companies/applied-materials?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Yokkaichi, Mie, Japan |
-| Category | Sales Engineer |
+| Category | Semiconductor / Chip Design |
 | Posted | 2026-07-24 |
 | Apply | [View on company site](https://amat.wd1.myworkdayjobs.com/External/job/YokkaichiJPN/DDP-Customer-Engineer-II_R2624737) |
 
 ## About This Role
 
-This sales engineer position at Applied Materials was posted on 2026-07-24.
+This semiconductor / chip design position at Applied Materials was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

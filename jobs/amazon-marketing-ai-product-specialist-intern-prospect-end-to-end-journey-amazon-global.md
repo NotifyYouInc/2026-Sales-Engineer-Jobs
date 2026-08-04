@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Shanghai, CN |
-| Category | Sales Engineer |
+| Category | Product Marketing |
 | Posted | 2026-07-24 |
 | Apply | [View on company site](https://www.amazon.jobs/en/jobs/10483293/marketing-ai-product-specialist-intern-prospect-end-to-end-journey-amazon-global-selling) |
 
 ## About This Role
 
-This sales engineer position at Amazon was posted on 2026-07-24.
+This product marketing position at Amazon was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

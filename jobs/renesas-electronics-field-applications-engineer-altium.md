@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Renesas Electronics](https://scoutify.ai/companies/renesaselectronics?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Seongnam-si, Gyeonggi-do, South Korea |
-| Category | Software Engineer |
+| Category | Sales Engineer |
 | Posted | 2026-07-24 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/RenesasElectronics/744000139515257-field-applications-engineer-altium) |
 
 ## About This Role
 
-This software engineer position at Renesas Electronics was posted on 2026-07-24.
+This sales engineer position at Renesas Electronics was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Avnet](https://scoutify.ai/companies/avnet?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | San Jose, California, United States |
+| Location | Wilmington, North Carolina, United States |
 | Category | Sales Engineer |
-| Posted | 2026-05-28 |
-| Apply | [View on company site](https://avnet.wd1.myworkdayjobs.com/external/job/San-Jose-California-United-States-Of-America/Technical-Sales-Engineer---AMD-Xilinx_JR-022673-1) |
+| Posted | 2026-07-28 |
+| Apply | [View on company site](https://avnet.wd1.myworkdayjobs.com/external/job/Wilmington-Massachusetts-United-States-of-America/Technical-Sales-Engineer---AMD-Xilinx_JR-023620) |
 
 ## About This Role
 
-This sales engineer position at Avnet was posted on 2026-05-28.
+This sales engineer position at Avnet was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

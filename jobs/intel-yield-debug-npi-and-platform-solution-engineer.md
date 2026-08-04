@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Intel](https://scoutify.ai/companies/intel?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Malaysia |
-| Category | Sales Engineer |
+| Category | Electrical / Hardware Engineer |
 | Posted | 2026-07-27 |
 | Apply | [View on company site](https://intel.wd1.myworkdayjobs.com/External/job/Malaysia-Penang/Yield-Debug-NPI-and-Platform-Solution-Engineer_JR0285920) |
 
 ## About This Role
 
-This sales engineer position at Intel was posted on 2026-07-27.
+This electrical / hardware engineer position at Intel was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

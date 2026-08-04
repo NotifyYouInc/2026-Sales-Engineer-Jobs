@@ -5,12 +5,12 @@
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Herndon, Virginia, United States |
 | Category | Electrical / Hardware Engineer |
-| Posted | 2026-05-14 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10419790/electrical-field-engineer-iad-north-field-engineering) |
+| Posted | 2026-07-28 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10485483/electrical-field-engineer-iad-north-field-engineering) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Amazon was posted on 2026-05-14.
+This electrical / hardware engineer position at Amazon was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

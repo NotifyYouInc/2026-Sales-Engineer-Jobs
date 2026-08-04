@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Neara](https://scoutify.ai/companies/neara?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Vilnius, Vilnius, Lithuania |
-| Category | Customer Success |
-| Posted | 2026-06-11 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/neara/172c8061-b5e7-4465-ab13-74fc209784db) |
+| Category | Sales Engineer |
+| Posted | 2026-07-27 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/neara/12c88319-6f1e-48e1-acad-fc4c1017b1cd) |
 
 ## About This Role
 
-This customer success position at Neara was posted on 2026-06-11.
+This sales engineer position at Neara was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

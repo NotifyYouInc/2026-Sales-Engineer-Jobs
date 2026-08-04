@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Olsson](https://scoutify.ai/companies/olsson?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | 2 locations |
-| Category | Sales Engineer |
+| Category | Industrial Automation |
 | Posted | 2026-07-24 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/olsson/jobs/5370592008) |
 
 ## About This Role
 
-This sales engineer position at Olsson was posted on 2026-07-24.
+This industrial automation position at Olsson was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

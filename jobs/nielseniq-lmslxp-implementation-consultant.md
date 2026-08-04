@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Bogotá, Bogota D.C., Colombia |
-| Category | Sales Engineer |
+| Category | Learning & Development |
 | Posted | 2026-07-24 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000139672219-lmslxp-implementation-consultant) |
 
 ## About This Role
 
-This sales engineer position at NielsenIQ was posted on 2026-07-24.
+This learning & development position at NielsenIQ was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

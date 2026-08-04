@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Singapore, Singapore |
-| Category | Sales Engineer |
+| Category | Electrical / Hardware Engineer |
 | Posted | 2026-07-24 |
 | Apply | [View on company site](https://www.amazon.jobs/en/jobs/10483186/critical-infrastructure-controls-field-engineer-field-engineering) |
 
 ## About This Role
 
-This sales engineer position at Amazon was posted on 2026-07-24.
+This electrical / hardware engineer position at Amazon was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

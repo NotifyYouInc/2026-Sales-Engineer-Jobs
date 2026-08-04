@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Voya Financial](https://scoutify.ai/companies/godirect?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Windsor, Connecticut, United States |
-| Category | Sales Engineer |
-| Posted | 2026-07-22 |
-| Apply | [View on company site](https://godirect.wd5.myworkdayjobs.com/voya_jobs/job/CT-Windsor-One-Orange-Way/Lead-Solution-Engineer_JR0033021) |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-07-28 |
+| Apply | [View on company site](https://godirect.wd5.myworkdayjobs.com/voya_jobs/job/CT-Windsor-One-Orange-Way/Lead-Solution-Engineer_JR0033030) |
 
 ## About This Role
 
-This sales engineer position at Voya Financial was posted on 2026-07-22.
+This technical & solutions architect position at Voya Financial was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

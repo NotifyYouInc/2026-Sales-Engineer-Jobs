@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [RTX](https://scoutify.ai/companies/rtx?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Texas, US |
-| Category | Sales Engineer |
+| Category | Electrical / Hardware Engineer |
 | Posted | 2026-07-23 |
 | Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-IL-REMOTE/Avionics-Customer-Support-Field-Engineer--Remote-_01861460) |
 
 ## About This Role
 
-This sales engineer position at RTX was posted on 2026-07-23.
+This electrical / hardware engineer position at RTX was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Canon](https://scoutify.ai/companies/em2-cx-oj45407?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Poland |
-| Category | Sales Engineer |
+| Category | Sales Development (SDR / BDR) |
 | Posted | 2026-07-24 |
 | Apply | [View on company site](https://ejqe.fa.em2.oraclecloud.com/jobs/#533) |
 
 ## About This Role
 
-This sales engineer position at Canon was posted on 2026-07-24.
+This sales development (sdr / bdr) position at Canon was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

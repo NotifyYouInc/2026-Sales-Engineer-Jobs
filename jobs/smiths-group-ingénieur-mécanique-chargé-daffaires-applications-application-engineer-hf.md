@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Smiths Group](https://scoutify.ai/companies/smithsgroup?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Déville-lès-Rouen, Normandy, France |
-| Category | Software Engineer |
-| Posted | 2026-07-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SmithsGroup2/744000139102214-ingenieur-mecanique-charge-daffaires-applications-application-engineer-hf) |
+| Category | Sales Engineer |
+| Posted | 2026-07-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SmithsGroup2/744000139519709-ingenieur-mecanique-charge-daffaires-applications-application-engineer-hf) |
 
 ## About This Role
 
-This software engineer position at Smiths Group was posted on 2026-07-22.
+This sales engineer position at Smiths Group was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

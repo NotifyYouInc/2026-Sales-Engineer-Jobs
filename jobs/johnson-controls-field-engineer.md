@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Johnson Controls](https://scoutify.ai/companies/jci?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Lower Hutt, Wellington Region, New Zealand |
-| Category | Security Engineer |
-| Posted | 2026-05-08 |
-| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Lower-Hutt-Wellington-New-Zealand/Field-Engineer_WD30265803-1) |
+| Location | Gilbert, Arizona, United States |
+| Category | Sales Engineer |
+| Posted | 2026-07-27 |
+| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Gilbert-Arizona-United-States-of-America/Field-Engineer_WD30274882-1) |
 
 ## About This Role
 
-This security engineer position at Johnson Controls was posted on 2026-05-08.
+This sales engineer position at Johnson Controls was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

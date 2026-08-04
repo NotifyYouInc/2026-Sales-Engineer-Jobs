@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [EXFO](https://scoutify.ai/companies/exfo?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Houston, Texas, United States |
+| Location | United States |
 | Category | Sales Engineer |
-| Posted | 2026-07-21 |
-| Apply | [View on company site](https://exfo.wd10.myworkdayjobs.com/EXFO_Careers/job/Remote---USA/Sales-Engineer_R-100305) |
+| Posted | 2026-07-27 |
+| Apply | [View on company site](https://exfo.wd10.myworkdayjobs.com/EXFO_Careers/job/Remote---USA/Sales-Engineer_R-100341-1) |
 
 ## About This Role
 
-This sales engineer position at EXFO was posted on 2026-07-21.
+This sales engineer position at EXFO was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

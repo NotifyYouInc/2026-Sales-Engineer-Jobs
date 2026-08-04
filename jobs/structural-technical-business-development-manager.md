@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Structural](https://scoutify.ai/companies/structural?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | San Francisco, California, United States |
-| Category | Engineering Manager |
+| Category | Sales Development (SDR / BDR) |
 | Posted | 2026-07-23 |
 | Apply | [View on company site](https://structural.wd12.myworkdayjobs.com/structuraltechnologiescareers/job/San-Francisco-CA/Technical-Business-Development-Manager_JR-6588-1) |
 
 ## About This Role
 
-This engineering manager position at Structural was posted on 2026-07-23.
+This sales development (sdr / bdr) position at Structural was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

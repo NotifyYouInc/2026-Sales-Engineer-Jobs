@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Docker](https://scoutify.ai/companies/docker?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | United Kingdom |
-| Category | Customer Success |
-| Posted | 2026-03-31 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/docker/2c1adfa0-76f3-49ba-8693-8f3c54eac46d) |
+| Category | Sales Engineer |
+| Posted | 2026-07-27 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/docker/de4dce34-7643-4c29-9113-230e7a591195) |
 
 ## About This Role
 
-This customer success position at Docker was posted on 2026-03-31.
+This sales engineer position at Docker was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

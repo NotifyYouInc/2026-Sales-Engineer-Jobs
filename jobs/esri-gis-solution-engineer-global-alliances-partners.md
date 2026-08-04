@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Esri](https://scoutify.ai/companies/esri?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Vienna, Virginia, United States |
+| Location | Redlands, California, United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-06-01 |
-| Apply | [View on company site](https://www.esri.com/careers/5151713007?gh_jid=5151713007) |
+| Posted | 2026-07-27 |
+| Apply | [View on company site](https://www.esri.com/careers/5196946007?gh_jid=5196946007) |
 
 ## About This Role
 
-This technical & solutions architect position at Esri was posted on 2026-06-01.
+This technical & solutions architect position at Esri was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

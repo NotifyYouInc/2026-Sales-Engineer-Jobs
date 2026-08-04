@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ServiceNow](https://scoutify.ai/companies/servicenow?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Addison, Illinois, United States |
+| Location | Austin, Texas, United States |
 | Category | Sales Engineer |
-| Posted | 2026-02-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000110834685-partner-technology-strategist) |
+| Posted | 2026-07-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000140067529-partner-technology-strategist) |
 
 ## About This Role
 
-This sales engineer position at ServiceNow was posted on 2026-02-23.
+This sales engineer position at ServiceNow was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

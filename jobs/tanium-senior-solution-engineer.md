@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Tanium](https://scoutify.ai/companies/tanium?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Paris, Île-de-France, France |
+| Location | United States |
 | Category | Sales Engineer |
-| Posted | 2026-04-10 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/tanium/jobs/7800287) |
+| Posted | 2026-07-28 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/tanium/jobs/8078321) |
 
 ## About This Role
 
-This sales engineer position at Tanium was posted on 2026-04-10.
+This sales engineer position at Tanium was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

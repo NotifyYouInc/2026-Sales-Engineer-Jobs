@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Regal Rexnord](https://scoutify.ai/companies/regalrexnord?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Cincinnati, Ohio, United States |
-| Category | Software Engineer |
+| Category | Sales Engineer |
 | Posted | 2026-07-24 |
 | Apply | [View on company site](https://regalrexnord.wd1.myworkdayjobs.com/careers/job/Cincinnati-Ohio-United-States/System-Sales-Applications-Engineer---Intralogistics_R26_02347) |
 
 ## About This Role
 
-This software engineer position at Regal Rexnord was posted on 2026-07-24.
+This sales engineer position at Regal Rexnord was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

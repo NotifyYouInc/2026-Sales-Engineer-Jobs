@@ -5,12 +5,12 @@
 | Company | [Canva](https://scoutify.ai/companies/canva?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | New York City, New York, United States |
 | Category | Sales Engineer |
-| Posted | 2026-07-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Canva/6000000001211550-senior-solutions-consultant-design) |
+| Posted | 2026-07-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Canva/6000000001262616-senior-solutions-consultant-design) |
 
 ## About This Role
 
-This sales engineer position at Canva was posted on 2026-07-06.
+This sales engineer position at Canva was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

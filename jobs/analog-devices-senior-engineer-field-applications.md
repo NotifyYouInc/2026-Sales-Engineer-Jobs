@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Analog Devices](https://scoutify.ai/companies/analogdevices?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | France |
+| Location | Beijing, Beijing, China |
 | Category | Sales Engineer |
-| Posted | 2026-07-03 |
-| Apply | [View on company site](https://analogdevices.wd1.myworkdayjobs.com/External/job/France-Home-Office/Senior-Engineer--Field-Applications_R263501) |
+| Posted | 2026-07-28 |
+| Apply | [View on company site](https://analogdevices.wd1.myworkdayjobs.com/External/job/China-Beijing-Haidian-Xixiaokou/Senior-Engineer--Field-Applications_R264037) |
 
 ## About This Role
 
-This sales engineer position at Analog Devices was posted on 2026-07-03.
+This sales engineer position at Analog Devices was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

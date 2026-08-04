@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Elastic](https://scoutify.ai/companies/elastic?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | United States |
-| Category | Sales Engineer |
+| Category | Sales |
 | Posted | 2026-07-24 |
 | Apply | [View on company site](https://jobs.elastic.co/jobs?gh_jid=7972639&gh_jid=7972639) |
 
 ## About This Role
 
-This sales engineer position at Elastic was posted on 2026-07-24.
+This sales position at Elastic was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

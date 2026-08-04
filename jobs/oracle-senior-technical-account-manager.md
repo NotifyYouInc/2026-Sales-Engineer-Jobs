@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Oracle](https://scoutify.ai/companies/oracle?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Hong Kong, Hong Kong |
-| Category | Sales Engineer |
+| Category | Account Manager |
 | Posted | 2026-07-27 |
 | Apply | [View on company site](https://careers.oracle.com/jobs/#341169) |
 
 ## About This Role
 
-This sales engineer position at Oracle was posted on 2026-07-27.
+This account manager position at Oracle was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

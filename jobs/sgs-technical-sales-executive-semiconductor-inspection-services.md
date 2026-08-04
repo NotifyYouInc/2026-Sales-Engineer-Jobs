@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [SGS](https://scoutify.ai/companies/sgs?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Malaysia |
-| Category | Sales Engineer |
+| Category | Sales |
 | Posted | 2026-07-27 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/SGS/744000139913145-technical-sales-executive-semiconductor-inspection-services) |
 
 ## About This Role
 
-This sales engineer position at SGS was posted on 2026-07-27.
+This sales position at SGS was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Airbus](https://scoutify.ai/companies/ag?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Helsinki, Uusimaa, Finland |
-| Category | Sales Engineer |
+| Category | Machine Learning Engineer |
 | Posted | 2026-07-24 |
 | Apply | [View on company site](https://ag.wd3.myworkdayjobs.com/Airbus/job/Helsinki/IT-Product-Specialist_JR10412122) |
 
 ## About This Role
 
-This sales engineer position at Airbus was posted on 2026-07-24.
+This machine learning engineer position at Airbus was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

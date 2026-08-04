@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Dow Jones](https://scoutify.ai/companies/dowjones?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Barcelona, Catalonia, Spain |
-| Category | Sales Engineer |
+| Category | Machine Learning Engineer |
 | Posted | 2026-07-27 |
 | Apply | [View on company site](https://dowjones.wd1.myworkdayjobs.com/Dow_Jones_Career/job/Spain---Barcelona/AI-Solutions-Specialist_Job_Req_54316) |
 
 ## About This Role
 
-This sales engineer position at Dow Jones was posted on 2026-07-27.
+This machine learning engineer position at Dow Jones was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

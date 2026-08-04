@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Nike](https://scoutify.ai/companies/nike?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Paris, Île-de-France, France |
-| Category | Implementation / Professional Services |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://nike.wd1.myworkdayjobs.com/nke/job/Paris-France/People-Solutions-Consultant-II--EMEA_R-80428) |
+| Location | Italy |
+| Category | Human Resources / People Ops |
+| Posted | 2026-07-27 |
+| Apply | [View on company site](https://nike.wd1.myworkdayjobs.com/nke/job/Milano-Italy/People-Solutions-Consultant-II--EMEA_R-88451) |
 
 ## About This Role
 
-This implementation / professional services position at Nike was posted on 2026-03-11.
+This human resources / people ops position at Nike was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

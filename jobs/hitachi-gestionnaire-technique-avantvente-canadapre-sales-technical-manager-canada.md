@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Hitachi](https://scoutify.ai/companies/hitachi?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Saint-Laurent, Quebec, Canada |
-| Category | Engineering Manager |
+| Category | Sales Engineer |
 | Posted | 2026-07-23 |
 | Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Saint-Laurent-Quebec-Canada/Gestionnaire-technique-avant-vente--Canada--Pre-Sales-Technical-Manager-Canada_R0116874) |
 
 ## About This Role
 
-This engineering manager position at Hitachi was posted on 2026-07-23.
+This sales engineer position at Hitachi was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

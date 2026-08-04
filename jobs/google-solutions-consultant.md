@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Austin, Texas, United States |
-| Category | Customer Success |
-| Posted | 2026-06-08 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckV1fi_Sx_Yp_IKDMy0lZuAMbZs_xKeSfjCCj6a-9ircIEjsACxwdTLcSBR43fiEp68rjPwNuZmoHK0aNVZVJkTzggXHYu7WzmoTbKzUHLJZZ-OwnLOQOXRKnf2-bSw%3D%3D_V2&loc=US&title=Solutions+Consultant) |
+| Location | Atlanta, Georgia, United States |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-07-27 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2Fcka5_vNbj-TrQ3tECq2bbPa8S2ifemxEf3aHlTfuyQuRrEjsA1Ny_iz8k-J3AIp5wYMKMoMIPMJhX-QtdwSyZ5NbdK_zu0s574QXKS-LufDTa7IxOIhcrGr4rse95OA%3D%3D_V2&loc=US&title=Solutions+Consultant) |
 
 ## About This Role
 
-This customer success position at Google was posted on 2026-06-08.
+This technical & solutions architect position at Google was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

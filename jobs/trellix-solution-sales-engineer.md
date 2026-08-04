@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Trellix](https://scoutify.ai/companies/trellix?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Indonesia |
+| Location | Seoul, Seoul, South Korea |
 | Category | Sales Engineer |
-| Posted | 2026-07-23 |
-| Apply | [View on company site](https://trellix.wd1.myworkdayjobs.com/EnterpriseCareers/job/Remote-Indonesia/Solution-Sales-Engineer_JR0037734) |
+| Posted | 2026-07-24 |
+| Apply | [View on company site](https://trellix.wd1.myworkdayjobs.com/EnterpriseCareers/job/South-Korea-Seoul/Solution-Sales-Engineer_JR0037756) |
 
 ## About This Role
 
-This sales engineer position at Trellix was posted on 2026-07-23.
+This sales engineer position at Trellix was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

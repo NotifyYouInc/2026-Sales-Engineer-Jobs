@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [GE HealthCare](https://scoutify.ai/companies/ge-healthcare?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Diegem, Flanders, Belgium |
-| Category | Account Executive |
+| Category | Sales Engineer |
 | Posted | 2026-07-24 |
 | Apply | [View on company site](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/BEL05-01-Genk-Zuiderring-11/Digital-Adoption---Sales-Specialist-Radiation-Oncology---MIM-software_R4043987-1) |
 
 ## About This Role
 
-This account executive position at GE HealthCare was posted on 2026-07-24.
+This sales engineer position at GE HealthCare was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

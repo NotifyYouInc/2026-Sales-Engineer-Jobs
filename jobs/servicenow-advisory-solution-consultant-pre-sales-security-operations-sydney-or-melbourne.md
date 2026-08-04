@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [ServiceNow](https://scoutify.ai/companies/servicenow?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Sydney, New South Wales, Australia |
-| Category | SOC & Incident Response |
+| Category | Sales Engineer |
 | Posted | 2026-07-27 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000139965790-advisory-solution-consultant-pre-sales-security-operations-sydney-or-melbourne) |
 
 ## About This Role
 
-This soc & incident response position at ServiceNow was posted on 2026-07-27.
+This sales engineer position at ServiceNow was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

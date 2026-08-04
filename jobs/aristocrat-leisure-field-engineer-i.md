@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Aristocrat Leisure](https://scoutify.ai/companies/aristocrat-leisure?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Lawton, Oklahoma, United States |
-| Category | Customer Success |
-| Posted | 2026-06-15 |
-| Apply | [View on company site](https://aristocrat.wd3.myworkdayjobs.com/aristocratexternalcareerssite/job/Lawton-Oklahoma/Field-Engineer-I_R0021598) |
+| Location | Tulsa, Oklahoma, United States |
+| Category | Sales Engineer |
+| Posted | 2026-07-27 |
+| Apply | [View on company site](https://aristocrat.wd3.myworkdayjobs.com/aristocratexternalcareerssite/job/Tulsa-OK-US/Field-Engineer-I_R0022191-1) |
 
 ## About This Role
 
-This customer success position at Aristocrat Leisure was posted on 2026-06-15.
+This sales engineer position at Aristocrat Leisure was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

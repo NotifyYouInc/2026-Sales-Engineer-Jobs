@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Kyndryl Holdings](https://scoutify.ai/companies/kyndryl?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Mexico City, Mexico City, Mexico |
-| Category | Sales Engineer |
-| Posted | 2026-07-22 |
-| Apply | [View on company site](https://kyndryl.wd5.myworkdayjobs.com/KyndrylEarlyCareers/job/Mexico-City-Distrito-Federal-Mexico/Graduate-Program---Systems-Administration--Technical-Specialist_R-64959) |
+| Category | IT & Systems Administration |
+| Posted | 2026-07-23 |
+| Apply | [View on company site](https://kyndryl.wd5.myworkdayjobs.com/KyndrylEarlyCareers/job/Mexico-City-Distrito-Federal-Mexico/Graduate-Program---Systems-Administration--Technical-Specialist_R-65540-1) |
 
 ## About This Role
 
-This sales engineer position at Kyndryl Holdings was posted on 2026-07-22.
+This it & systems administration position at Kyndryl Holdings was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 
