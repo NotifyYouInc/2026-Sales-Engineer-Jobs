@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | New York City, New York, United States |
-| Category | Product Manager |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/New-York-New-York-United-States/Product-Specialist_26944799) |
+| Category | Sales Engineer |
+| Posted | 2026-07-28 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/New-York-New-York-United-States/Product-Specialist_26977998) |
 
 ## About This Role
 
-This product manager position at Citigroup was posted on 2026-03-24.
+This sales engineer position at Citigroup was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

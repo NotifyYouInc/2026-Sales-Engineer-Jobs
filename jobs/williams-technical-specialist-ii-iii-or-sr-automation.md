@@ -1,16 +1,16 @@
-# Technical Specialist II, III or Sr - Automation at Williams
+# Technical Specialist II, III, or Sr. - Automation at Williams
 
 | Field | Details |
 |-------|---------|
 | Company | [Williams](https://scoutify.ai/companies/williams?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | 4 locations |
+| Location | 5 locations |
 | Category | Industrial Automation |
-| Posted | 2026-04-03 |
-| Apply | [View on company site](https://williams.wd5.myworkdayjobs.com/External/job/UT-Salt-Lake-City---Office/Technical-Specialist-II--III-or-Sr---Automation_R111727) |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://williams.wd5.myworkdayjobs.com/External/job/UT-Salt-Lake-City---Office/Technical-Specialist-II--III--or-Sr---Automation_R112449) |
 
 ## About This Role
 
-This industrial automation position at Williams was posted on 2026-04-03.
+This industrial automation position at Williams was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

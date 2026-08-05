@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Commvault](https://scoutify.ai/companies/commvault?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Florida, US |
-| Category | Sales Leadership |
-| Posted | 2026-03-23 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/commvault/jobs/5156755008) |
+| Location | Dallas, Texas, United States |
+| Category | Sales Engineer |
+| Posted | 2026-07-28 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/commvault/jobs/5371926008) |
 
 ## About This Role
 
-This sales leadership position at Commvault was posted on 2026-03-23.
+This sales engineer position at Commvault was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Intuitive Surgical](https://scoutify.ai/companies/intuitivesurgical?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Chicago, Illinois, United States |
 | Category | Sales Engineer |
-| Posted | 2026-07-15 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Intuitive/744000137937779-technical-solutions-consultant-future-opportunity) |
+| Posted | 2026-07-28 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Intuitive/744000140319669-technical-solutions-consultant-future-opportunity) |
 
 ## About This Role
 
-This sales engineer position at Intuitive Surgical was posted on 2026-07-15.
+This sales engineer position at Intuitive Surgical was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Brand Technical Specialist– Entry Level Sales Program  2026 at IBM
+# Brand Technical Specialist – Entry Level Sales Program 2026 at IBM
 
 | Field | Details |
 |-------|---------|
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Not specified |
-| Category | Account Executive |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=57120) |
+| Location | Canada |
+| Category | Sales Engineer |
+| Posted | 2026-07-28 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=126773) |
 
 ## About This Role
 
-This account executive position at IBM was posted on 2026-02-18.
+This sales engineer position at IBM was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Alfa Laval](https://scoutify.ai/companies/alfa-laval?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Pune, Maharashtra, India |
+| Location | Łódź, Łódź Voivodeship, Poland |
 | Category | Sales Engineer |
-| Posted | 2026-05-25 |
-| Apply | [View on company site](https://alfalaval.wd3.myworkdayjobs.com/alfa_laval_jobs/job/Pune/Inside-Sales-Engineer_JR0045539) |
+| Posted | 2026-07-28 |
+| Apply | [View on company site](https://alfalaval.wd3.myworkdayjobs.com/alfa_laval_jobs/job/Warszawa/Inside-Sales-Engineer_JR0047220-1) |
 
 ## About This Role
 
-This sales engineer position at Alfa Laval was posted on 2026-05-25.
+This sales engineer position at Alfa Laval was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

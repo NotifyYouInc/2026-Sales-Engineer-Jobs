@@ -5,12 +5,12 @@
 | Company | [Veolia](https://scoutify.ai/companies/veolia?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Cesson-Sévigné, Brittany, France |
 | Category | Sales Engineer |
-| Posted | 2026-07-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000138045202-ingenieur-technico-commercial-service-eaux-process-region-grand-ouest-hf) |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000140405304-ingenieur-technico-commercial-service-eaux-process-region-grand-ouest-hf) |
 
 ## About This Role
 
-This sales engineer position at Veolia was posted on 2026-07-16.
+This sales engineer position at Veolia was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

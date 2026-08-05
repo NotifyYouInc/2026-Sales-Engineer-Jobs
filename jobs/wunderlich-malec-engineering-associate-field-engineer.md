@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wunderlich-Malec Engineering](https://scoutify.ai/companies/wunderlich-malec-engineering?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Fredericksburg, Virginia, United States |
+| Location | Richmond, Virginia, United States |
 | Category | Sales Engineer |
-| Posted | 2026-07-09 |
-| Apply | [View on company site](https://recruiting2.ultipro.com/wun1002wnd/JobBoard/cf373efc-2fad-42c7-b3ea-efbff4360573/OpportunityDetail?opportunityId=a665192e-f174-4220-8c99-b9908f86d437) |
+| Posted | 2026-07-28 |
+| Apply | [View on company site](https://recruiting2.ultipro.com/wun1002wnd/JobBoard/cf373efc-2fad-42c7-b3ea-efbff4360573/OpportunityDetail?opportunityId=4e0f53cf-c11d-4cff-a159-e4448d4cdf7f) |
 
 ## About This Role
 
-This sales engineer position at Wunderlich-Malec Engineering was posted on 2026-07-09.
+This sales engineer position at Wunderlich-Malec Engineering was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

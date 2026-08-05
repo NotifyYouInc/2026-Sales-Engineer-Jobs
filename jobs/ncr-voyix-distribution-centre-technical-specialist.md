@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [NCR Voyix](https://scoutify.ai/companies/ncr-voyix?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Calgary, Alberta, Canada |
-| Category | Customer Success |
-| Posted | 2026-06-04 |
-| Apply | [View on company site](https://ncr.wd1.myworkdayjobs.com/ext_apac/job/ALBERTA-VIRTUAL-CAN/Distribution-Centre-Technical-Specialist_R0156606-4) |
+| Location | Alberta, CA |
+| Category | IT & Systems Administration |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://ncr.wd1.myworkdayjobs.com/ext_apac/job/ALBERTA-VIRTUAL-CAN/Distribution-Centre-Technical-Specialist_R0157640-2) |
 
 ## About This Role
 
-This customer success position at NCR Voyix was posted on 2026-06-04.
+This it & systems administration position at NCR Voyix was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

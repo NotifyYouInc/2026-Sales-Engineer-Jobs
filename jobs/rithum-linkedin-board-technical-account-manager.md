@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Rithum LinkedIn Board](https://scoutify.ai/companies/rithum-linkedin-board?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Raleigh, North Carolina, United States |
-| Category | Customer Success |
-| Posted | 2026-06-12 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/rithumliboard/jobs/8003877) |
+| Location | United Kingdom |
+| Category | Account Manager |
+| Posted | 2026-07-28 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/rithumliboard/jobs/8092923) |
 
 ## About This Role
 
-This customer success position at Rithum LinkedIn Board was posted on 2026-06-12.
+This account manager position at Rithum LinkedIn Board was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

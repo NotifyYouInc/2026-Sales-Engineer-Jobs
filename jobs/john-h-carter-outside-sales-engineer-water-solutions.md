@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [John H Carter](https://scoutify.ai/companies/john-h-carter?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Not specified |
+| Location | United States |
 | Category | Sales Engineer |
-| Posted | 2026-06-17 |
-| Apply | [View on company site](https://recruiting.ultipro.com/joh1009/JobBoard/7e86e39f-c1d1-04f0-7025-17e095d398e2/OpportunityDetail?opportunityId=40552557-5fde-4dc8-9254-5cc3b6175117) |
+| Posted | 2026-07-28 |
+| Apply | [View on company site](https://recruiting.ultipro.com/joh1009/JobBoard/7e86e39f-c1d1-04f0-7025-17e095d398e2/OpportunityDetail?opportunityId=bdd54462-3e2e-482f-bdd6-05f787eab648) |
 
 ## About This Role
 
-This sales engineer position at John H Carter was posted on 2026-06-17.
+This sales engineer position at John H Carter was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [SailPoint Technologies](https://scoutify.ai/companies/sailpoint-technologies?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Toronto, Ontario, Canada |
+| Location | Portugal |
 | Category | Sales Engineer |
-| Posted | 2026-07-23 |
-| Apply | [View on company site](https://sailpoint.wd1.myworkdayjobs.com/sailpoint/job/Remote-Toronto-Canada/Advisory-Solutions-Consultant_R013876) |
+| Posted | 2026-07-28 |
+| Apply | [View on company site](https://sailpoint.wd1.myworkdayjobs.com/sailpoint/job/Remote-Portugal/Advisory-Solutions-Consultant_R013177-1) |
 
 ## About This Role
 
-This sales engineer position at SailPoint Technologies was posted on 2026-07-23.
+This sales engineer position at SailPoint Technologies was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

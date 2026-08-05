@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Motorola Solutions](https://scoutify.ai/companies/motorola-solutions?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Riyadh, Riyadh Region, Saudi Arabia |
-| Category | Customer Success |
-| Posted | 2026-03-12 |
-| Apply | [View on company site](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Riyadh-Saudi-Arabia/Field-Engineer--Arabic-speaker-_R62344-1) |
+| Category | Sales Engineer |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Riyadh-Saudi-Arabia/Field-Engineer--Arabic-speaker-_R65938) |
 
 ## About This Role
 
-This customer success position at Motorola Solutions was posted on 2026-03-12.
+This sales engineer position at Motorola Solutions was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

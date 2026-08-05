@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Unisys](https://scoutify.ai/companies/unisys?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Canberra, Australian Capital Territory, Australia |
-| Category | Customer Success |
-| Posted | 2026-05-07 |
-| Apply | [View on company site](https://unisys.wd5.myworkdayjobs.com/External/job/Canberra-ACT-Australia/Lead-Technical-Field-Engineer_REQ572943) |
+| Location | Adelaide, South Australia, Australia |
+| Category | Sales Engineer |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://unisys.wd5.myworkdayjobs.com/External/job/Adelaide-SA-Australia/Lead-Technical-Field-Engineer_REQ574155) |
 
 ## About This Role
 
-This customer success position at Unisys was posted on 2026-05-07.
+This sales engineer position at Unisys was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

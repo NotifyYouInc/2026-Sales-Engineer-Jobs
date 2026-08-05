@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ENCORE GLOBAL](https://scoutify.ai/companies/encore-global?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Gennevilliers, Île-de-France, France |
-| Category | Customer Success |
-| Posted | 2026-06-02 |
-| Apply | [View on company site](https://recruiting2.ultipro.com/aud1001audv/JobBoard/b1e2129f-5d09-48e8-b7ff-4e900458d8a9/OpportunityDetail?opportunityId=b71332f2-08af-43ac-957d-e1636cb8c4dd) |
+| Location | Not specified |
+| Category | Field & Event Marketing |
+| Posted | 2026-07-28 |
+| Apply | [View on company site](https://recruiting2.ultipro.com/aud1001audv/JobBoard/b1e2129f-5d09-48e8-b7ff-4e900458d8a9/OpportunityDetail?opportunityId=fd88121f-e796-40c2-b07b-69a2e5ae9117) |
 
 ## About This Role
 
-This customer success position at ENCORE GLOBAL was posted on 2026-06-02.
+This field & event marketing position at ENCORE GLOBAL was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

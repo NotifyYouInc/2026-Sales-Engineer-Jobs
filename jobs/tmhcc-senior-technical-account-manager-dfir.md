@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Tmhcc](https://scoutify.ai/companies/tmhcc?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | United States |
-| Category | Customer Success |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://tmhcc.wd108.myworkdayjobs.com/external/job/Remote---USA/Senior-Technical-Account-Manager--DFIR_2026-147) |
+| Category | Sales Engineer |
+| Posted | 2026-07-28 |
+| Apply | [View on company site](https://tmhcc.wd108.myworkdayjobs.com/external/job/Remote---USA/Senior-Technical-Account-Manager--DFIR_2026-740) |
 
 ## About This Role
 
-This customer success position at Tmhcc was posted on 2026-02-17.
+This sales engineer position at Tmhcc was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Arlington, Texas, United States |
-| Category | Sales Engineer |
+| Category | Strategy & Operations |
 | Posted | 2026-07-24 |
 | Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Arlington-Virginia-US/USA-Pubic-Sector-Solution-Engineer-Strategy---Planning-Manager---Remote-USA_2019048) |
 
 ## About This Role
 
-This sales engineer position at Cisco was posted on 2026-07-24.
+This strategy & operations position at Cisco was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

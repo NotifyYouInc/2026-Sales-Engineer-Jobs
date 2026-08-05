@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Pearce Services](https://scoutify.ai/companies/pearce-services?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | West Virginia, US |
+| Location | Iowa, US |
 | Category | Sales Engineer |
-| Posted | 2026-07-14 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/pearceservices/jobs/5350770008) |
+| Posted | 2026-07-28 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/pearceservices/jobs/5372735008) |
 
 ## About This Role
 
-This sales engineer position at Pearce Services was posted on 2026-07-14.
+This sales engineer position at Pearce Services was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

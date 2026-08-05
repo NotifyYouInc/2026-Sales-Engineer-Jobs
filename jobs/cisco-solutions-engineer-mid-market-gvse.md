@@ -1,16 +1,16 @@
-# Solutions Engineer - Mid Market GVSE at Cisco
+# Solutions Engineer Mid-Market GVSE at Cisco
 
 | Field | Details |
 |-------|---------|
 | Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Raleigh, North Carolina, United States |
 | Category | Sales Engineer |
-| Posted | 2026-07-18 |
-| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/RTP-North-Carolina-US/Solutions-Engineer---Mid-Market-GVSE_2019057) |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/RTP-North-Carolina-US/Solutions-Engineer-Mid-Market-GVSE_2020043) |
 
 ## About This Role
 
-This sales engineer position at Cisco was posted on 2026-07-18.
+This sales engineer position at Cisco was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

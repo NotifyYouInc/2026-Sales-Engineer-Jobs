@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Reston, Virginia, United States |
-| Category | Sales Engineer |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckR5CP-D1SBq2GziJDGu01Nq9XZgjFvioZMDAJTRzBWy0EjoACxwdTFEcmJWKlk2Vr1y8Z_dIKw8_L8tdVv4UTduIgxNcv12fNUGcaPjrspO1VUGicAv7OCbH3f9f_V2&loc=US&title=Senior+Customer+Engineer) |
+| Location | 2 locations |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-07-28 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckTN1dKuNZwPToYy80ZFujMXiNUQJz0zv_tFEAhCbaHCIEjoA1Ny_i1uy9UMuXIVJb_DXGZrtErs_REQwuO9odT-CX7DyClcgi1glVJ5XKs8-Dkme6gVjxVKgiGmB_V2&loc=US&title=Senior+Customer+Engineer) |
 
 ## About This Role
 
-This sales engineer position at Google was posted on 2026-04-20.
+This technical & solutions architect position at Google was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 
