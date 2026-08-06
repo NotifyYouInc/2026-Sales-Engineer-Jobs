@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [LinkedIn](https://scoutify.ai/companies/linkedin?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Italy |
-| Category | Sales Engineer |
+| Category | Customer Success |
 | Posted | 2026-07-29 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/LinkedIn3/744000140423421-senior-implementation-consultant-linkedin-talent-solutions-12-month-ftc) |
 
 ## About This Role
 
-This sales engineer position at LinkedIn was posted on 2026-07-29.
+This customer success position at LinkedIn was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

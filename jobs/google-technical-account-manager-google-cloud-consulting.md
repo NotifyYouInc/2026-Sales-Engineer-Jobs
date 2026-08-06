@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | 4 locations |
-| Category | Sales Engineer |
+| Category | Customer Success |
 | Posted | 2026-07-29 |
 | Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckYYYcqL2AKiXYE7zC7_gUadorMSqGKuVgoKEfvuHPATXEjoA1Ny_i5V4uwuBDh-E7nLbNP9hqlJT7RiaPJaoxvCwN2VN531EQdv65qwRJXCpinTSrtZ6B4pcNngU_V2&loc=US&title=Technical+Account+Manager) |
 
 ## About This Role
 
-This sales engineer position at Google was posted on 2026-07-29.
+This customer success position at Google was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

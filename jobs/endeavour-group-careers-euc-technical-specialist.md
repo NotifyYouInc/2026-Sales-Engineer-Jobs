@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Endeavour Group Careers](https://scoutify.ai/companies/endeavourgroupcareers?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Sydney, New South Wales, Australia |
-| Category | Customer Success |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/EndeavourGroupCareers/744000127794979-euc-technical-specialist) |
+| Location | Bulimba, Queensland, Australia |
+| Category | IT & Systems Administration |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/EndeavourGroupCareers/744000140607553-euc-technical-specialist) |
 
 ## About This Role
 
-This customer success position at Endeavour Group Careers was posted on 2026-05-22.
+This it & systems administration position at Endeavour Group Careers was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

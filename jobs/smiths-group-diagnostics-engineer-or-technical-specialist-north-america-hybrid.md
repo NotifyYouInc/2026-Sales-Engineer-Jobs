@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Smiths Group](https://scoutify.ai/companies/smithsgroup?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Pasadena, Texas, United States |
-| Category | Sales Engineer |
-| Posted | 2026-07-21 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SmithsGroup2/744000138923229-diagnostics-engineer-or-technical-specialist-north-america-hybrid) |
+| Location | Shreveport, Louisiana, United States |
+| Category | Industrial Automation |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SmithsGroup2/744000140560829-diagnostics-engineer-or-technical-specialist-north-america-hybrid) |
 
 ## About This Role
 
-This sales engineer position at Smiths Group was posted on 2026-07-21.
+This industrial automation position at Smiths Group was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

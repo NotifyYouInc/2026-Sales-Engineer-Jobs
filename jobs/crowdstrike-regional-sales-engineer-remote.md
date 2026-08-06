@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CrowdStrike](https://scoutify.ai/companies/crowdstrike?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Georgia, US |
+| Location | Connecticut, US |
 | Category | Sales Engineer |
-| Posted | 2026-07-24 |
-| Apply | [View on company site](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote-GA/Regional-Sales-Engineer--Remote-_R29273) |
+| Posted | 2026-07-28 |
+| Apply | [View on company site](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote-MA/Regional-Sales-Engineer--Remote-_R29284) |
 
 ## About This Role
 
-This sales engineer position at CrowdStrike was posted on 2026-07-24.
+This sales engineer position at CrowdStrike was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

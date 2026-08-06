@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Algolia](https://scoutify.ai/companies/algolia?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | United States |
+| Location | Seattle, Washington, United States |
 | Category | Sales Engineer |
-| Posted | 2026-06-17 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/algolia/jobs/6008431004) |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/algolia/jobs/6130399004) |
 
 ## About This Role
 
-This sales engineer position at Algolia was posted on 2026-06-17.
+This sales engineer position at Algolia was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

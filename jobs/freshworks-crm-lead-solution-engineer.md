@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Freshworks CRM](https://scoutify.ai/companies/freshworkscrm?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Boston, Massachusetts, United States |
+| Location | Bengaluru, Karnataka, India |
 | Category | Sales Engineer |
-| Posted | 2026-07-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Freshworks/744000139157499-lead-solution-engineer) |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Freshworks/744000140453109-lead-solution-engineer) |
 
 ## About This Role
 
-This sales engineer position at Freshworks CRM was posted on 2026-07-22.
+This sales engineer position at Freshworks CRM was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [ServiceNow](https://scoutify.ai/companies/servicenow?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | New York City, New York, United States |
 | Category | Sales Engineer |
-| Posted | 2026-05-15 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000126758339-advisory-solution-consultant-state-and-local) |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000140538154-advisory-solution-consultant-state-and-local) |
 
 ## About This Role
 
-This sales engineer position at ServiceNow was posted on 2026-05-15.
+This sales engineer position at ServiceNow was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

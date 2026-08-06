@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Northrop Grumman](https://scoutify.ai/companies/northrop-grumman?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | San Diego, California, United States |
+| Location | Jacksonville, Florida, United States |
 | Category | Sales Engineer |
-| Posted | 2026-07-25 |
-| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Mayport/Field-Engineer-Level-2-or-3_R10242211-1) |
+| Posted | 2026-07-27 |
+| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Mayport/Field-Engineer-Level-2-or-3_R10242443) |
 
 ## About This Role
 
-This sales engineer position at Northrop Grumman was posted on 2026-07-25.
+This sales engineer position at Northrop Grumman was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

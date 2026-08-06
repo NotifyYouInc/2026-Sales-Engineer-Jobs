@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Zuora](https://scoutify.ai/companies/zuora?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Sales Engineer |
+| Category | Customer Success |
 | Posted | 2026-07-28 |
 | Apply | [View on company site](https://boards.greenhouse.io/zuora/jobs/8080486?gh_jid=8080486) |
 
 ## About This Role
 
-This sales engineer position at Zuora was posted on 2026-07-28.
+This customer success position at Zuora was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

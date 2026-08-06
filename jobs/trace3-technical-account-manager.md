@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Trace3](https://scoutify.ai/companies/trace3?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Houston, Texas, United States |
+| Location | Phoenix, Arizona, United States |
 | Category | Account Manager |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/trace3/jobs/7674369) |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/trace3/jobs/8095380) |
 
 ## About This Role
 
-This account manager position at Trace3 was posted on 2026-03-10.
+This account manager position at Trace3 was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

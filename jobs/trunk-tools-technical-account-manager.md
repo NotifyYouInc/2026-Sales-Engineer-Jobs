@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Trunk Tools](https://scoutify.ai/companies/trunk-20tools?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | United States |
-| Category | Sales Engineer |
+| Category | Customer Success |
 | Posted | 2026-07-28 |
 | Apply | [View on company site](https://jobs.ashbyhq.com/trunk%20tools/b27eec70-2937-4192-b0cb-689aefbe2c6c) |
 
 ## About This Role
 
-This sales engineer position at Trunk Tools was posted on 2026-07-28.
+This customer success position at Trunk Tools was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

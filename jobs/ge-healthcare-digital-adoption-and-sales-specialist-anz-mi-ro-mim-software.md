@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [GE HealthCare](https://scoutify.ai/companies/ge-healthcare?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | 3 locations |
-| Category | Sales Engineer |
+| Category | Account Executive |
 | Posted | 2026-07-28 |
 | Apply | [View on company site](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/AUS08-01-Sydney-241-ORiordan-Street-8F/Digital-Adoption-and-Sales-Specialist-ANZ---MI---RO---MIM-Software_R4043996-1) |
 
 ## About This Role
 
-This sales engineer position at GE HealthCare was posted on 2026-07-28.
+This account executive position at GE HealthCare was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

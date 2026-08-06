@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Smiths Group](https://scoutify.ai/companies/smithsgroup?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Laconia, New Hampshire, United States |
-| Category | Engineering Manager |
-| Posted | 2026-06-15 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SmithsGroup2/744000132201822-application-customer-engineer-ii) |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SmithsGroup2/744000140515369-application-customer-engineer-ii) |
 
 ## About This Role
 
-This engineering manager position at Smiths Group was posted on 2026-06-15.
+This technical & solutions architect position at Smiths Group was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

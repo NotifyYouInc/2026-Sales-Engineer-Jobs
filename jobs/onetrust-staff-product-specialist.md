@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [OneTrust](https://scoutify.ai/companies/onetrust?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | San Francisco, California, United States |
-| Category | Sales Engineer |
+| Category | Product Manager |
 | Posted | 2026-07-28 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/onetrust/jobs/8092361) |
 
 ## About This Role
 
-This sales engineer position at OneTrust was posted on 2026-07-28.
+This product manager position at OneTrust was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

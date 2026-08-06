@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [RSM](https://scoutify.ai/companies/rsm?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | 14 locations |
-| Category | Sales Engineer |
+| Category | DevOps Engineer |
 | Posted | 2026-07-27 |
 | Apply | [View on company site](https://rsm.wd1.myworkdayjobs.com/RSMCareers/job/Chicago/Director---Azure-Cloud-Solutions-Engineer---Integrated-Cloud-Consulting--Location-Flexible-_JR120375) |
 
 ## About This Role
 
-This sales engineer position at RSM was posted on 2026-07-27.
+This devops engineer position at RSM was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

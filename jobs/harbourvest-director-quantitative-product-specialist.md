@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [HarbourVest](https://scoutify.ai/companies/harbourvest?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Boston, Massachusetts, United States |
-| Category | Product Marketing |
+| Category | Customer Success |
 | Posted | 2026-07-27 |
 | Apply | [View on company site](https://harbourvest.wd5.myworkdayjobs.com/hvp/job/Boston/Director--Quantitative-Product-Specialist_R2470-2) |
 
 ## About This Role
 
-This product marketing position at HarbourVest was posted on 2026-07-27.
+This customer success position at HarbourVest was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

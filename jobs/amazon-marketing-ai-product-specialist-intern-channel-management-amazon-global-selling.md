@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Shanghai, CN |
-| Category | Sales Engineer |
+| Category | Product Manager |
 | Posted | 2026-07-28 |
 | Apply | [View on company site](https://www.amazon.jobs/en/jobs/10485773/marketing-ai-product-specialist-intern-channel-management-amazon-global-selling) |
 
 ## About This Role
 
-This sales engineer position at Amazon was posted on 2026-07-28.
+This product manager position at Amazon was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

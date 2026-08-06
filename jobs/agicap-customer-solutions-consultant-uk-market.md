@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Agicap](https://scoutify.ai/companies/agicap?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Lyon, Rhône-Alpes, France |
-| Category | Sales Engineer |
+| Category | Customer Success |
 | Posted | 2026-07-27 |
 | Apply | [View on company site](https://jobs.lever.co/agicap/b2e73397-9096-49ce-8df4-9d32e0e08c89) |
 
 ## About This Role
 
-This sales engineer position at Agicap was posted on 2026-07-27.
+This customer success position at Agicap was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

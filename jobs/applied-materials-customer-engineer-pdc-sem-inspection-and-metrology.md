@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Applied Materials](https://scoutify.ai/companies/applied-materials?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Malta |
-| Category | Sales Engineer |
+| Category | Digital / Performance Marketing |
 | Posted | 2026-07-29 |
 | Apply | [View on company site](https://amat.wd1.myworkdayjobs.com/External/job/MaltaNY/Customer-Engineer---PDC--SEM-Inspection-and-Metrology-_R2622642) |
 
 ## About This Role
 
-This sales engineer position at Applied Materials was posted on 2026-07-29.
+This digital / performance marketing position at Applied Materials was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

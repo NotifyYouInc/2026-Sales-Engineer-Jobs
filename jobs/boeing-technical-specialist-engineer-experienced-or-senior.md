@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Boeing](https://scoutify.ai/companies/boeing?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Long Beach, California, United States |
-| Category | Engineering Manager |
-| Posted | 2026-06-12 |
-| Apply | [View on company site](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Long-Beach-CA/Technical-Specialist-Engineer--Experienced-or-Senior-_JR2026514681-1) |
+| Category | Software Engineer |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Long-Beach-CA/Technical-Specialist-Engineer--Experienced-or-Senior-_JR2026520482-1) |
 
 ## About This Role
 
-This engineering manager position at Boeing was posted on 2026-06-12.
+This software engineer position at Boeing was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

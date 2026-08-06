@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Santander](https://scoutify.ai/companies/santander?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | New York City, New York, United States |
-| Category | Sales Engineer |
+| Category | Software Engineer |
 | Posted | 2026-07-28 |
 | Apply | [View on company site](https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/New-York/PolyPath-Market-Risk-Technology-Specialist--Java-Python-_Req1596400) |
 
 ## About This Role
 
-This sales engineer position at Santander was posted on 2026-07-28.
+This software engineer position at Santander was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

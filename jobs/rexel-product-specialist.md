@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [REXEL](https://scoutify.ai/companies/rexel?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Indianapolis, Indiana, United States |
-| Category | Sales |
-| Posted | 2026-07-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/REXEL1/744000139645737-product-specialist) |
+| Category | Account Executive |
+| Posted | 2026-07-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/REXEL1/744000140065719-product-specialist) |
 
 ## About This Role
 
-This sales position at REXEL was posted on 2026-07-24.
+This account executive position at REXEL was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

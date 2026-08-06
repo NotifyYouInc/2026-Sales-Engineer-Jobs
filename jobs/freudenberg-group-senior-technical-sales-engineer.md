@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Freudenberg Group](https://scoutify.ai/companies/freudenberg?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Guangzhou, Guangdong, China |
+| Location | Shanghai, Shanghai, China |
 | Category | Sales Engineer |
-| Posted | 2026-06-15 |
-| Apply | [View on company site](https://freudenberg.wd3.myworkdayjobs.com/freudenberg-group/job/Guangzhou/Senior-Technical-Sales-Engineer_R_00103432) |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://freudenberg.wd3.myworkdayjobs.com/freudenberg-group/job/Shanghai/Senior-Technical-Sales-Engineer_R_00104686) |
 
 ## About This Role
 
-This sales engineer position at Freudenberg Group was posted on 2026-06-15.
+This sales engineer position at Freudenberg Group was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

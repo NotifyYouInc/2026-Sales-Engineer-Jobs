@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Notion](https://scoutify.ai/companies/notion?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Tokyo, Tokyo, Japan |
-| Category | Sales |
+| Category | Account Executive |
 | Posted | 2026-07-27 |
 | Apply | [View on company site](https://jobs.ashbyhq.com/notion/d1d118da-f081-4d0a-91a1-de8450ae0438) |
 
 ## About This Role
 
-This sales position at Notion was posted on 2026-07-27.
+This account executive position at Notion was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

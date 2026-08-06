@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Thermo Fisher Scientific](https://scoutify.ai/companies/thermo-fisher-scientific?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Data Engineer |
+| Category | Machine Learning Engineer |
 | Posted | 2026-07-28 |
 | Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Bangalore-India/AI-Data-Solutions-Engineer_R-01360354) |
 
 ## About This Role
 
-This data engineer position at Thermo Fisher Scientific was posted on 2026-07-28.
+This machine learning engineer position at Thermo Fisher Scientific was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

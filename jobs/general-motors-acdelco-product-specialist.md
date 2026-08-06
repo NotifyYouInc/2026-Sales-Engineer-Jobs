@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [General Motors](https://scoutify.ai/companies/general-motors?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Toluca, México, Mexico |
-| Category | Sales Engineer |
+| Category | Product Manager |
 | Posted | 2026-07-29 |
 | Apply | [View on company site](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Toluca-Mexico-Mexico/ACDelco-Product-Specialist_JR-202615935) |
 
 ## About This Role
 
-This sales engineer position at General Motors was posted on 2026-07-29.
+This product manager position at General Motors was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Avnet](https://scoutify.ai/companies/avnet?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Shanghai, Shanghai, China |
-| Category | Sales Engineer |
+| Category | Software Engineer |
 | Posted | 2026-07-28 |
 | Apply | [View on company site](https://avnet.wd1.myworkdayjobs.com/external/job/Shanghai-Shanghai-China/Field-Application-Engineer_JR-023790) |
 
 ## About This Role
 
-This sales engineer position at Avnet was posted on 2026-07-28.
+This software engineer position at Avnet was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

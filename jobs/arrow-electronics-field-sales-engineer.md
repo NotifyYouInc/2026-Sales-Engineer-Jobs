@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Arrow Electronics](https://scoutify.ai/companies/arrow-electronics?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Chongqing, Chongqing, China |
+| Location | 2 locations |
 | Category | Sales Engineer |
-| Posted | 2026-07-22 |
-| Apply | [View on company site](https://arrow.wd1.myworkdayjobs.com/ac/job/CN-Chongqing-China-Huizhu-Rd/Field-Sales-Engineer_R244397) |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://arrow.wd1.myworkdayjobs.com/ac/job/CN-Shenyang-China-Remote/Account-Manager_R245505) |
 
 ## About This Role
 
-This sales engineer position at Arrow Electronics was posted on 2026-07-22.
+This sales engineer position at Arrow Electronics was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

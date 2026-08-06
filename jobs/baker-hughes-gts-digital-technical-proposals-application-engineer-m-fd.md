@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Baker Hughes](https://scoutify.ai/companies/baker-hughes?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | 2 locations |
-| Category | Sales Engineer |
+| Category | Software Engineer |
 | Posted | 2026-07-27 |
 | Apply | [View on company site](https://bakerhughes.wd5.myworkdayjobs.com/BakerHughes/job/IT-FI-FLORENCE-VIA-FELICE-MATTEUCCI-2/GTS-Digital---Technical-Proposals-Application-Engineer-M--F-D_R165977) |
 
 ## About This Role
 
-This sales engineer position at Baker Hughes was posted on 2026-07-27.
+This software engineer position at Baker Hughes was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

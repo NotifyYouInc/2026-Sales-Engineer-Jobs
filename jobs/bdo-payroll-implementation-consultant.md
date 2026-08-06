@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Bdo](https://scoutify.ai/companies/bdo?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Sydney, New South Wales, Australia |
-| Category | Accounting |
+| Category | Customer Success |
 | Posted | 2026-07-29 |
 | Apply | [View on company site](https://bdoau.wd105.myworkdayjobs.com/bdocareers/job/Sydney-New-South-Wales/Payroll-Implementation-Consultant_JR103461) |
 
 ## About This Role
 
-This accounting position at Bdo was posted on 2026-07-29.
+This customer success position at Bdo was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

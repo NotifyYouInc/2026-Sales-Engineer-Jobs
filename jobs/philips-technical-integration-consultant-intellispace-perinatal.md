@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Philips](https://scoutify.ai/companies/philips?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | United States |
-| Category | Sales Engineer |
+| Category | Customer Success |
 | Posted | 2026-07-27 |
 | Apply | [View on company site](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/United-States-of-America---Remote-Based-United-States/Technical-Integration-Consultant---IntelliSpace-Perinatal_588156) |
 
 ## About This Role
 
-This sales engineer position at Philips was posted on 2026-07-27.
+This customer success position at Philips was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

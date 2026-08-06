@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Baker Hughes](https://scoutify.ai/companies/baker-hughes?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | 5 locations |
-| Category | Account Executive |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://bakerhughes.wd5.myworkdayjobs.com/BakerHughes/job/US-CO-Denver-4601-DTC-Blvd-Suite-900/Sales-Senior-Specialist---Technical-Sales_R161864) |
+| Location | Japan |
+| Category | Sales Engineer |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://bakerhughes.wd5.myworkdayjobs.com/BakerHughes/job/JP-CHUO-KU-4-16-13-TSUKISHIMA/Sales-Senior-Specialist---Technical-Sales_R165927) |
 
 ## About This Role
 
-This account executive position at Baker Hughes was posted on 2026-03-13.
+This sales engineer position at Baker Hughes was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

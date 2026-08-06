@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Applied Materials](https://scoutify.ai/companies/applied-materials?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Naka, Ibaraki, Japan |
+| Location | Kyoto, Kyoto, Japan |
 | Category | Sales Engineer |
-| Posted | 2026-07-21 |
-| Apply | [View on company site](https://amat.wd1.myworkdayjobs.com/External/job/NakaJPN/EPI-Customer-Engineer-II_R2624480) |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://amat.wd1.myworkdayjobs.com/External/job/KyotoJPN/EPI-Customer-Engineer-II_R2624977) |
 
 ## About This Role
 
-This sales engineer position at Applied Materials was posted on 2026-07-21.
+This sales engineer position at Applied Materials was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Hewlett Packard Enterprise](https://scoutify.ai/companies/hewlett-packard-enterprise?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Sales Engineer |
+| Category | Customer Success |
 | Posted | 2026-07-27 |
 | Apply | [View on company site](https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/Bengaluru-Karntaka-India/Complex-Solutions-Engineer---Engineering-Resolution--ERT-_1209277) |
 
 ## About This Role
 
-This sales engineer position at Hewlett Packard Enterprise was posted on 2026-07-27.
+This customer success position at Hewlett Packard Enterprise was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

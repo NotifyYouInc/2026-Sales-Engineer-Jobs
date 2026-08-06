@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [EBANX](https://scoutify.ai/companies/ebanx?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | São Paulo, São Paulo, Brazil |
-| Category | Sales Engineer |
+| Category | Account Executive |
 | Posted | 2026-07-28 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/ebanx/jobs/7777804003) |
 
 ## About This Role
 
-This sales engineer position at EBANX was posted on 2026-07-28.
+This account executive position at EBANX was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

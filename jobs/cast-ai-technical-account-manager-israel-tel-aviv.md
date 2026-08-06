@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Cast AI](https://scoutify.ai/companies/cast-ai?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Tel Aviv, Tel Aviv, Israel |
-| Category | Sales Engineer |
+| Category | Customer Success |
 | Posted | 2026-07-28 |
 | Apply | [View on company site](https://cast.ai/careers/apply/?gh_jid=4335492009) |
 
 ## About This Role
 
-This sales engineer position at Cast AI was posted on 2026-07-28.
+This customer success position at Cast AI was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [White Cap Supply Holdings](https://scoutify.ai/companies/whitecap?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Boston, Massachusetts, United States |
-| Category | Sales |
+| Category | Account Executive |
 | Posted | 2026-07-28 |
 | Apply | [View on company site](https://whitecap.wd1.myworkdayjobs.com/careers/job/Boston_02210/Technical-Sales-Consultant----Safety_WCJR-034574-1) |
 
 ## About This Role
 
-This sales position at White Cap Supply Holdings was posted on 2026-07-28.
+This account executive position at White Cap Supply Holdings was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

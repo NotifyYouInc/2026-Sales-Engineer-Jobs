@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Clutch](https://scoutify.ai/companies/clutch?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Brazil |
-| Category | Sales Engineer |
-| Posted | 2026-07-21 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/withclutch/5476e04f-a2b4-43d9-a58f-d1a14ca5d952) |
+| Location | United States |
+| Category | Customer Success |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/withclutch/27cb9400-9947-4ec2-a986-4dbe8bd31da7) |
 
 ## About This Role
 
-This sales engineer position at Clutch was posted on 2026-07-21.
+This customer success position at Clutch was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

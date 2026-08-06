@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [John H Carter](https://scoutify.ai/companies/john-h-carter?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | United States |
-| Category | Sales Engineer |
+| Category | Account Executive |
 | Posted | 2026-07-28 |
 | Apply | [View on company site](https://recruiting.ultipro.com/joh1009/JobBoard/7e86e39f-c1d1-04f0-7025-17e095d398e2/OpportunityDetail?opportunityId=9f960aaf-c95f-48dc-b964-19957474f68b) |
 
 ## About This Role
 
-This sales engineer position at John H Carter was posted on 2026-07-28.
+This account executive position at John H Carter was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Fireworks AI](https://scoutify.ai/companies/fireworks-ai?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | 3 locations |
-| Category | Sales Engineer |
+| Category | Customer Success |
 | Posted | 2026-07-28 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/fireworksai/jobs/4335490009) |
 
 ## About This Role
 
-This sales engineer position at Fireworks AI was posted on 2026-07-28.
+This customer success position at Fireworks AI was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

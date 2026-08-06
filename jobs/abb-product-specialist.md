@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ABB](https://scoutify.ai/companies/abb?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Xiamen, Fujian, China |
-| Category | Marketing |
-| Posted | 2026-06-04 |
-| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Xiamen-Fujian-China/Product-Specialist_JR00037260-1) |
+| Location | Machelen, Flanders, Belgium |
+| Category | Industrial Automation |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Machelen-Flemish-Brabant-Belgium/Product-Specialist_JR00040038) |
 
 ## About This Role
 
-This marketing position at ABB was posted on 2026-06-04.
+This industrial automation position at ABB was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

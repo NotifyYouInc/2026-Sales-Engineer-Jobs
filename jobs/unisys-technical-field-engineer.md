@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Unisys](https://scoutify.ai/companies/unisys?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Rhodes, New South Wales, Australia |
-| Category | Sales Engineer |
+| Category | Customer Success |
 | Posted | 2026-07-29 |
 | Apply | [View on company site](https://unisys.wd5.myworkdayjobs.com/External/job/Rhodes-NSW-Australia/Technical-Field-Engineer_REQ574629) |
 
 ## About This Role
 
-This sales engineer position at Unisys was posted on 2026-07-29.
+This customer success position at Unisys was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

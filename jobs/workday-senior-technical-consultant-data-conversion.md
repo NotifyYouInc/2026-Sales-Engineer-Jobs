@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Workday](https://scoutify.ai/companies/workday?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Florida, US |
-| Category | Sales Engineer |
+| Category | Customer Success |
 | Posted | 2026-07-29 |
 | Apply | [View on company site](https://workday.wd5.myworkdayjobs.com/Workday/job/USA-IL-Remote/Senior-Technical-Consultant---Data-Conversion_JR-0108957) |
 
 ## About This Role
 
-This sales engineer position at Workday was posted on 2026-07-29.
+This customer success position at Workday was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

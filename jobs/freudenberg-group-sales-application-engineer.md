@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Freudenberg Group](https://scoutify.ai/companies/freudenberg?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Plymouth, Minnesota, United States |
-| Category | Sales Engineer |
+| Category | Software Engineer |
 | Posted | 2026-07-27 |
 | Apply | [View on company site](https://freudenberg.wd3.myworkdayjobs.com/freudenberg-group/job/Plymouth-MI/Sales-Application-Engineer_R_00104654) |
 
 ## About This Role
 
-This sales engineer position at Freudenberg Group was posted on 2026-07-27.
+This software engineer position at Freudenberg Group was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

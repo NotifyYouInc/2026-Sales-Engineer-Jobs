@@ -5,12 +5,12 @@
 | Company | [Airbus](https://scoutify.ai/companies/ag?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Herndon, Virginia, United States |
 | Category | Compliance & Risk Management |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://ag.wd3.myworkdayjobs.com/Airbus/job/Herndon-Area-VA/Compliance-Solutions-Specialist--Contract-_JR10392868) |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://ag.wd3.myworkdayjobs.com/Airbus/job/Herndon-Area-VA/Compliance-Solutions-Specialist--Contract-_JR10431667) |
 
 ## About This Role
 
-This compliance & risk management position at Airbus was posted on 2026-02-27.
+This compliance & risk management position at Airbus was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

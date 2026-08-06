@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Amsterdam, North Holland, The Netherlands |
+| Location | Chicago, Illinois, United States |
 | Category | Sales Engineer |
-| Posted | 2026-07-24 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Amsterdam/Crowdstrike-Technical-Consultant_R00346216) |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Chicago-Accenture-Tower-Corp/Crowdstrike-Technical-Consultant_R00344784) |
 
 ## About This Role
 
-This sales engineer position at Accenture was posted on 2026-07-24.
+This sales engineer position at Accenture was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Rithum](https://scoutify.ai/companies/rithum?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | United Kingdom |
-| Category | Sales Engineer |
+| Category | Customer Success |
 | Posted | 2026-07-28 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/rithum/jobs/8016883) |
 
 ## About This Role
 
-This sales engineer position at Rithum was posted on 2026-07-28.
+This customer success position at Rithum was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

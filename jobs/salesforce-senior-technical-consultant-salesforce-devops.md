@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Salesforce](https://scoutify.ai/companies/salesforce?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | 2 locations |
-| Category | Sales Engineer |
+| Category | DevOps Engineer |
 | Posted | 2026-07-29 |
 | Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Hyderabad/Senior-Technical-Consultant---Salesforce-DevOps_JR353966) |
 
 ## About This Role
 
-This sales engineer position at Salesforce was posted on 2026-07-29.
+This devops engineer position at Salesforce was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 
