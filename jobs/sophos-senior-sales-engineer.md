@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sophos](https://scoutify.ai/companies/sophos?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Italy |
+| Location | Paris, Île-de-France, France |
 | Category | Sales Engineer |
-| Posted | 2026-07-24 |
-| Apply | [View on company site](https://jobs.lever.co/sophos/938f6e8a-abca-45bb-bdf0-036a7ba363fa) |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://jobs.lever.co/sophos/2cda9de0-e6d6-4fe3-a883-89f7ec9765ba) |
 
 ## About This Role
 
-This sales engineer position at Sophos was posted on 2026-07-24.
+This sales engineer position at Sophos was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

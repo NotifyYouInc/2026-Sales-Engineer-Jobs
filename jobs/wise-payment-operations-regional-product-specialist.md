@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [WISE](https://scoutify.ai/companies/wise?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Austin, Texas, United States |
-| Category | Product Manager |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000127694949-payment-operations-regional-product-specialist) |
+| Category | Operations |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000140771874-payment-operations-regional-product-specialist) |
 
 ## About This Role
 
-This product manager position at WISE was posted on 2026-05-21.
+This operations position at WISE was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

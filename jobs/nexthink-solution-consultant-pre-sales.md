@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Nexthink](https://scoutify.ai/companies/nexthink?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | London, England, United Kingdom |
+| Location | Munich, Bavaria, Germany |
 | Category | Sales Engineer |
-| Posted | 2026-07-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/nexthink/744000139952751-solution-consultant-pre-sales) |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/nexthink/744000140666419-solution-consultant-pre-sales) |
 
 ## About This Role
 
-This sales engineer position at Nexthink was posted on 2026-07-27.
+This sales engineer position at Nexthink was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [SailPoint Technologies](https://scoutify.ai/companies/sailpoint-technologies?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Chicago, Illinois, United States |
+| Location | United States |
 | Category | Sales Engineer |
-| Posted | 2026-07-07 |
-| Apply | [View on company site](https://sailpoint.wd1.myworkdayjobs.com/sailpoint/job/Remote-Illinois-USA/Senior-Solutions-Consultant_R013789-1) |
+| Posted | 2026-07-31 |
+| Apply | [View on company site](https://sailpoint.wd1.myworkdayjobs.com/sailpoint/job/United-States/Senior-Solutions-Consultant_R013788) |
 
 ## About This Role
 
-This sales engineer position at SailPoint Technologies was posted on 2026-07-07.
+This sales engineer position at SailPoint Technologies was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

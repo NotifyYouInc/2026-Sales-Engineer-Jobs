@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Baker Hughes](https://scoutify.ai/companies/baker-hughes?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Lagos, Lagos, Nigeria |
+| Location | Houston, Texas, United States |
 | Category | Sales Engineer |
-| Posted | 2026-07-27 |
-| Apply | [View on company site](https://bakerhughes.wd5.myworkdayjobs.com/BakerHughes/job/NG-LAGOS-BISHOP-ABOYADE-COLE-STREET-NO-927928-M/Senior-Technical-Sales-Advisor---Subsea-Intervention---Services-Strategic-Initiatives_R166947) |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://bakerhughes.wd5.myworkdayjobs.com/BakerHughes/job/US-TX-HOUSTON-6500-BRITTMOORE-RD/Senior-Technical-Sales-Advisor---Subsea-Intervention---Services-Strategic-Initiatives_R166944) |
 
 ## About This Role
 
-This sales engineer position at Baker Hughes was posted on 2026-07-27.
+This sales engineer position at Baker Hughes was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

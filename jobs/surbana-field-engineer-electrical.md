@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [SURBANA](https://scoutify.ai/companies/surbana?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Mumbai, Maharashtra, India |
-| Category | Electrical / Hardware Engineer |
+| Category | Sales Engineer |
 | Posted | 2026-07-30 |
 | Apply | [View on company site](https://surbanajurong.wd3.myworkdayjobs.com/careersatsmec/job/Mumbai/Field-Engineer-Electrical_JR117896) |
 
 ## About This Role
 
-This electrical / hardware engineer position at SURBANA was posted on 2026-07-30.
+This sales engineer position at SURBANA was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

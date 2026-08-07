@@ -1,16 +1,16 @@
-# SALES SPECIALIST - PACKAGING EQUIPMENT at Veritiv Corporation
+# Sales Specialist - Packaging Equipment at Veritiv Corporation
 
 | Field | Details |
 |-------|---------|
 | Company | [Veritiv Corporation](https://scoutify.ai/companies/veritiv?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Belleville, Illinois, United States |
-| Category | Sales |
-| Posted | 2026-02-06 |
-| Apply | [View on company site](https://veritiv.wd5.myworkdayjobs.com/veritivcareers/job/USA---NJ---Belleville/SALES-SPECIALIST---PACKAGING-EQUIPMENT_R30489) |
+| Location | Maryland, US |
+| Category | Account Executive |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://veritiv.wd5.myworkdayjobs.com/veritivcareers/job/USA---PA---Statewide/Sales-Specialist---Packaging-Equipment_R31802) |
 
 ## About This Role
 
-This sales position at Veritiv Corporation was posted on 2026-02-06.
+This account executive position at Veritiv Corporation was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

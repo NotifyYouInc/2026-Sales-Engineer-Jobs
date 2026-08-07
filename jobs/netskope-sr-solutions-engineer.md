@@ -1,16 +1,16 @@
-# Sr. Solutions Engineer  at Netskope
+# Sr. Solutions Engineer at Netskope
 
 | Field | Details |
 |-------|---------|
 | Company | [Netskope](https://scoutify.ai/companies/netskope?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Utah, US |
+| Location | Hong Kong, Hong Kong |
 | Category | Sales Engineer |
-| Posted | 2026-07-15 |
-| Apply | [View on company site](https://www.netskope.com/company/careers/open-positions/?gh_jid=8067498) |
+| Posted | 2026-07-31 |
+| Apply | [View on company site](https://www.netskope.com/company/careers/open-positions/?gh_jid=8043291) |
 
 ## About This Role
 
-This sales engineer position at Netskope was posted on 2026-07-15.
+This sales engineer position at Netskope was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

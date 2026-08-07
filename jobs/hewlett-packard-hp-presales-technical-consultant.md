@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Hewlett Packard (HP)](https://scoutify.ai/companies/hp?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Reading, England, United Kingdom |
+| Location | 2 locations |
 | Category | Sales Engineer |
-| Posted | 2026-06-28 |
-| Apply | [View on company site](https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Reading-Berkshire-United-Kingdom/Presales-Technical-Consultant_3165579-1) |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Rio-Rancho-New-Mexico-United-States-of-America/Presales-Technical-Consultant_3165074-1) |
 
 ## About This Role
 
-This sales engineer position at Hewlett Packard (HP) was posted on 2026-06-28.
+This sales engineer position at Hewlett Packard (HP) was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

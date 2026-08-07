@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [LG Electronics](https://scoutify.ai/companies/lg-electronics?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | California, US |
-| Category | Sales Engineer |
-| Posted | 2026-07-16 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/lgelectronics/jobs/5356505008) |
+| Location | Farmers Branch, Texas, United States |
+| Category | Customer Success |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/lgelectronics/jobs/5375439008) |
 
 ## About This Role
 
-This sales engineer position at LG Electronics was posted on 2026-07-16.
+This customer success position at LG Electronics was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

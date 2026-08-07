@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Caterpillar Inc.](https://scoutify.ai/companies/cat?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Kiel, Schleswig-Holstein, Germany |
-| Category | Electrical / Hardware Engineer |
+| Category | Sales Engineer |
 | Posted | 2026-07-28 |
 | Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Kiel-Schleswig-Holstein/Life-Cycle-Solutions-Engineer_R0000385244) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Caterpillar Inc. was posted on 2026-07-28.
+This sales engineer position at Caterpillar Inc. was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Twilio](https://scoutify.ai/companies/twilio?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | United States |
+| Location | Mexico |
 | Category | Sales Engineer |
-| Posted | 2026-06-15 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/twilio/jobs/8001200) |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/twilio/jobs/8096642) |
 
 ## About This Role
 
-This sales engineer position at Twilio was posted on 2026-06-15.
+This sales engineer position at Twilio was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

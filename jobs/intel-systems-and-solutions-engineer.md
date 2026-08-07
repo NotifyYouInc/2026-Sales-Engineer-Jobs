@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Intel](https://scoutify.ai/companies/intel?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Taipei, Taiwan, Taiwan |
-| Category | Embedded / Firmware Engineer |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://intel.wd1.myworkdayjobs.com/External/job/Taiwan-Taipei/Systems-and-Solutions-Engineer_JR0283601-1) |
+| Location | 2 locations |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-07-31 |
+| Apply | [View on company site](https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Systems-and-Solutions-Engineer_JR0285495) |
 
 ## About This Role
 
-This embedded / firmware engineer position at Intel was posted on 2026-05-05.
+This technical & solutions architect position at Intel was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

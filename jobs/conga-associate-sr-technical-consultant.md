@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Conga](https://scoutify.ai/companies/conga?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Ahmedabad, Gujarat, India |
 | Category | Customer Success |
-| Posted | 2026-05-12 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/conga/jobs/5134041007) |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/conga/jobs/5198529007) |
 
 ## About This Role
 
-This customer success position at Conga was posted on 2026-05-12.
+This customer success position at Conga was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

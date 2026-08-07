@@ -5,12 +5,12 @@
 | Company | [Regal Rexnord](https://scoutify.ai/companies/regalrexnord?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | 2 locations |
 | Category | Software Engineer |
-| Posted | 2026-06-02 |
-| Apply | [View on company site](https://regalrexnord.wd1.myworkdayjobs.com/careers/job/Fort-Wayne-Indiana-United-States/Application-Engineer-I_R26_01979) |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://regalrexnord.wd1.myworkdayjobs.com/careers/job/Florence-Kentucky-United-States/Application-Engineer-I_R26_03815) |
 
 ## About This Role
 
-This software engineer position at Regal Rexnord was posted on 2026-06-02.
+This software engineer position at Regal Rexnord was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

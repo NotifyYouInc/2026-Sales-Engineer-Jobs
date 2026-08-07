@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [OneTrust](https://scoutify.ai/companies/onetrust?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Madrid, Madrid, Spain |
+| Location | Amsterdam, North Holland, The Netherlands |
 | Category | Sales Engineer |
-| Posted | 2026-07-20 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/onetrust/jobs/8072173) |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/onetrust/jobs/8053411) |
 
 ## About This Role
 
-This sales engineer position at OneTrust was posted on 2026-07-20.
+This sales engineer position at OneTrust was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

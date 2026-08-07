@@ -6,7 +6,7 @@
 | Location | Warsaw, Mazovia, Poland |
 | Category | Sales Engineer |
 | Posted | 2026-07-28 |
-| Apply | [View on company site](https://efpv.fa.us6.oraclecloud.com/jobs/#7879) |
+| Apply | [View on company site](https://efpv.fa.us6.oraclecloud.com/jobs/#7880) |
 
 ## About This Role
 

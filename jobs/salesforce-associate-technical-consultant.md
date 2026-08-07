@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Salesforce](https://scoutify.ai/companies/salesforce?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Argentina |
+| Location | Brazil |
 | Category | Customer Success |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Brazil---Remote/Associate-Technical-Consultant_JR329262) |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Brazil---Remote/Associate-Technical-Consultant_JR354262) |
 
 ## About This Role
 
-This customer success position at Salesforce was posted on 2026-03-24.
+This customer success position at Salesforce was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

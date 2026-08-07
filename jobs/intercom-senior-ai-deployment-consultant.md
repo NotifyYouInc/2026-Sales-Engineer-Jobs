@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Intercom](https://scoutify.ai/companies/intercom?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | 2 locations |
+| Location | London, England, United Kingdom |
 | Category | Customer Success |
-| Posted | 2026-03-19 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/intercom/jobs/7735288) |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/intercom/jobs/8094884) |
 
 ## About This Role
 
-This customer success position at Intercom was posted on 2026-03-19.
+This customer success position at Intercom was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

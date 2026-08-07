@@ -1,16 +1,16 @@
-# customer engineer at Applied Materials
+# Customer Engineer at Applied Materials
 
 | Field | Details |
 |-------|---------|
 | Company | [Applied Materials](https://scoutify.ai/companies/applied-materials?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Chengdu, Sichuan, China |
-| Category | Sales Engineer |
-| Posted | 2026-07-22 |
-| Apply | [View on company site](https://amat.wd1.myworkdayjobs.com/External/job/ChengduCHN/customer-engineer_R2622313) |
+| Location | Singapore, Singapore |
+| Category | Customer Success |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://amat.wd1.myworkdayjobs.com/External/job/SingaporeSGP/Customer-Engineer_R2616064) |
 
 ## About This Role
 
-This sales engineer position at Applied Materials was posted on 2026-07-22.
+This customer success position at Applied Materials was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

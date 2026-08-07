@@ -5,12 +5,12 @@
 | Company | [Veolia](https://scoutify.ai/companies/veolia?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Montréal, Quebec, Canada |
 | Category | Software Engineer |
-| Posted | 2026-07-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000136885260-ingenieure-application-application-engineer) |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000140748022-ingenieure-application-application-engineer) |
 
 ## About This Role
 
-This software engineer position at Veolia was posted on 2026-07-09.
+This software engineer position at Veolia was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Senior Value Engineer - Manufacturing at Celonis
+# Senior Value Engineer – Manufacturing at Celonis
 
 | Field | Details |
 |-------|---------|
 | Company | [Celonis](https://scoutify.ai/companies/celonis?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Raleigh, North Carolina, United States |
-| Category | Customer Success |
-| Posted | 2026-06-17 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/celonis/jobs/7773291003?gh_jid=7773291003) |
+| Location | Chicago, Illinois, United States |
+| Category | Sales Engineer |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/celonis/jobs/7817254003?gh_jid=7817254003) |
 
 ## About This Role
 
-This customer success position at Celonis was posted on 2026-06-17.
+This sales engineer position at Celonis was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 
