@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sprinklr](https://scoutify.ai/companies/sprinklr?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Sydney, New South Wales, Australia |
-| Category | Implementation / Professional Services |
-| Posted | 2026-04-09 |
-| Apply | [View on company site](https://sprinklr.wd1.myworkdayjobs.com/careers/job/Australia---Sydney/Sr-Solutions-Consultant_112969-JOB) |
+| Location | Singapore, Singapore |
+| Category | Sales Engineer |
+| Posted | 2026-07-31 |
+| Apply | [View on company site](https://sprinklr.wd1.myworkdayjobs.com/careers/job/Singapore/Sr-Solutions-Consultant_113372-JOB-1) |
 
 ## About This Role
 
-This implementation / professional services position at Sprinklr was posted on 2026-04-09.
+This sales engineer position at Sprinklr was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

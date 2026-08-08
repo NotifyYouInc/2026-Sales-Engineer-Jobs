@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [SailPoint Technologies](https://scoutify.ai/companies/sailpoint-technologies?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Portugal |
+| Location | United States |
 | Category | Sales Engineer |
-| Posted | 2026-07-28 |
-| Apply | [View on company site](https://sailpoint.wd1.myworkdayjobs.com/sailpoint/job/Remote-Portugal/Advisory-Solutions-Consultant_R013177-1) |
+| Posted | 2026-07-31 |
+| Apply | [View on company site](https://sailpoint.wd1.myworkdayjobs.com/sailpoint/job/Remote-Ohio-USA/Advisory-Solutions-Consultant_R013763) |
 
 ## About This Role
 
-This sales engineer position at SailPoint Technologies was posted on 2026-07-28.
+This sales engineer position at SailPoint Technologies was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Flowserve](https://scoutify.ai/companies/flowserve?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Santa Isabel Xiloxoxtla, Tlaxcala, Mexico |
+| Location | Houston, Texas, United States |
 | Category | Sales Engineer |
-| Posted | 2026-06-22 |
-| Apply | [View on company site](https://flowserve.wd1.myworkdayjobs.com/applied/job/Santa-Isabel-Xiloxoxtla-Mexico/Sales-Engineer-Senior_R-19597) |
+| Posted | 2026-08-01 |
+| Apply | [View on company site](https://flowserve.wd1.myworkdayjobs.com/applied/job/Houston-Texas-US/Sales-Engineer-Senior_R-19599) |
 
 ## About This Role
 
-This sales engineer position at Flowserve was posted on 2026-06-22.
+This sales engineer position at Flowserve was posted on 2026-08-01.
 
 ## Get Real-Time Alerts
 

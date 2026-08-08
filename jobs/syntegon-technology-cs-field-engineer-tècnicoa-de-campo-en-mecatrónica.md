@@ -5,12 +5,12 @@
 | Company | [Syntegon Technology](https://scoutify.ai/companies/syntegontechnology?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Terrassa, Catalonia, Spain |
 | Category | Industrial Automation |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SYNTEGON/744000121130874-cs-field-engineer-tecnicoa-de-campo-en-mecatronica) |
+| Posted | 2026-07-31 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SYNTEGON/744000140881745-cs-field-engineer-tecnicoa-de-campo-en-mecatronica) |
 
 ## About This Role
 
-This industrial automation position at Syntegon Technology was posted on 2026-04-16.
+This industrial automation position at Syntegon Technology was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

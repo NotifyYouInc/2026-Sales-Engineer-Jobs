@@ -1,16 +1,16 @@
-# Applikationsspezialist Ultraschall  (m/w/d) at Samsung
+# Applikationsspezialist Ultraschall (m/w/d) at Samsung
 
 | Field | Details |
 |-------|---------|
 | Company | [Samsung](https://scoutify.ai/companies/samsung?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Stuttgart, Baden-Wurttemberg, Germany |
+| Location | Eschborn, Hesse, Germany |
 | Category | Sales Engineer |
-| Posted | 2026-04-28 |
-| Apply | [View on company site](https://sec.wd3.myworkdayjobs.com/Samsung_Careers/job/Stuttgart-Germany-Home-Office/Applikationsspezialist-Ultraschall---m-w-d-_R116737) |
+| Posted | 2026-07-31 |
+| Apply | [View on company site](https://sec.wd3.myworkdayjobs.com/Samsung_Careers/job/Eschborn-Germany-Home-Office/Applikationsspezialist-Ultraschall--m-w-d-_R119083) |
 
 ## About This Role
 
-This sales engineer position at Samsung was posted on 2026-04-28.
+This sales engineer position at Samsung was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

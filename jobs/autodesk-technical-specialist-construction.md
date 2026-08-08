@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Autodesk](https://scoutify.ai/companies/autodesk?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Denver, Colorado, United States |
+| Location | Quebec, CA |
 | Category | Sales Engineer |
-| Posted | 2026-07-09 |
-| Apply | [View on company site](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Denver-CO-USA/Technical-Specialist--Construction_26WD99799) |
+| Posted | 2026-08-01 |
+| Apply | [View on company site](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Quebec-CAN---Remote/Technical-Specialist--Construction_26WD100286-2) |
 
 ## About This Role
 
-This sales engineer position at Autodesk was posted on 2026-07-09.
+This sales engineer position at Autodesk was posted on 2026-08-01.
 
 ## Get Real-Time Alerts
 

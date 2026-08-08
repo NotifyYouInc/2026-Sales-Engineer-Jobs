@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Flowserve](https://scoutify.ai/companies/flowserve?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Singapore, Singapore |
+| Location | 3 locations |
 | Category | Sales Engineer |
-| Posted | 2026-07-22 |
-| Apply | [View on company site](https://flowserve.wd1.myworkdayjobs.com/applied/job/7-Tuas-Loop-Singapore/Sales-Engineer_R-19932-1) |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://flowserve.wd1.myworkdayjobs.com/applied/job/Fort--McMurray-Canada/Sales-Engineer_R-20100) |
 
 ## About This Role
 
-This sales engineer position at Flowserve was posted on 2026-07-22.
+This sales engineer position at Flowserve was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

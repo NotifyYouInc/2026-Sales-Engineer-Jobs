@@ -5,12 +5,12 @@
 | Company | [Crowe](https://scoutify.ai/companies/crowe?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | 12 locations |
 | Category | Sales Engineer |
-| Posted | 2026-07-15 |
-| Apply | [View on company site](https://crowe.wd12.myworkdayjobs.com/external_careers/job/Chicago-IL-USA/Senior-AI-Solutions-Consultant_R-51627) |
+| Posted | 2026-08-01 |
+| Apply | [View on company site](https://crowe.wd12.myworkdayjobs.com/external_careers/job/Chicago-IL-USA/Senior-AI-Solutions-Consultant_R-51802) |
 
 ## About This Role
 
-This sales engineer position at Crowe was posted on 2026-07-15.
+This sales engineer position at Crowe was posted on 2026-08-01.
 
 ## Get Real-Time Alerts
 

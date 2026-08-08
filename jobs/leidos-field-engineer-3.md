@@ -5,12 +5,12 @@
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | United States |
 | Category | Sales Engineer |
-| Posted | 2026-07-28 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Field-Engineer-3_R-00188235) |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Field-Engineer-3_R-00188419) |
 
 ## About This Role
 
-This sales engineer position at Leidos was posted on 2026-07-28.
+This sales engineer position at Leidos was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

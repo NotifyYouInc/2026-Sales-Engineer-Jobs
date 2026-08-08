@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Apple](https://scoutify.ai/companies/apple?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Columbus, Ohio, United States |
+| Location | Scottsdale, Arizona, United States |
 | Category | Customer Success |
-| Posted | 2026-07-28 |
-| Apply | [View on company site](https://jobs.apple.com/en-us/details/200674571/us-technical-specialist) |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://jobs.apple.com/en-us/details/200674776/us-technical-specialist) |
 
 ## About This Role
 
-This customer success position at Apple was posted on 2026-07-28.
+This customer success position at Apple was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

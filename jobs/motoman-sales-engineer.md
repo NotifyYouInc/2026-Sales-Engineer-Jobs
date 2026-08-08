@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Motoman](https://scoutify.ai/companies/motoman?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Phoenix, Arizona, United States |
+| Location | California, US |
 | Category | Sales Engineer |
-| Posted | 2026-07-22 |
-| Apply | [View on company site](https://recruiting.ultipro.com/yas1000yaami/JobBoard/8a2317d2-a61e-4259-a857-722d164a211c/OpportunityDetail?opportunityId=8d2513d2-0c76-4456-ae3f-bfaf65aa84b6) |
+| Posted | 2026-07-31 |
+| Apply | [View on company site](https://recruiting.ultipro.com/yas1000yaami/JobBoard/8a2317d2-a61e-4259-a857-722d164a211c/OpportunityDetail?opportunityId=9c404b5f-b608-4118-96d1-22e19c51e788) |
 
 ## About This Role
 
-This sales engineer position at Motoman was posted on 2026-07-22.
+This sales engineer position at Motoman was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

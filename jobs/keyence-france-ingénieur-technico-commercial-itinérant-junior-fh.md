@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [KEYENCE (FRANCE)](https://scoutify.ai/companies/keyencefrance?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Lille, Hauts-de-France, France |
+| Location | Lyon, Rhône-Alpes, France |
 | Category | Sales Engineer |
-| Posted | 2026-06-29 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/KEYENCEFRANCE/744000134828599-ingenieur-technico-commercial-itinerant-junior-fh) |
+| Posted | 2026-07-31 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/KEYENCEFRANCE/744000140942324-ingenieur-technico-commercial-itinerant-junior-fh) |
 
 ## About This Role
 
-This sales engineer position at KEYENCE (FRANCE) was posted on 2026-06-29.
+This sales engineer position at KEYENCE (FRANCE) was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

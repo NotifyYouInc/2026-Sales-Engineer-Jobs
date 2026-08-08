@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [The Nielsen Company](https://scoutify.ai/companies/thenielsencompany?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | New York City, New York, United States |
-| Category | Account Executive |
-| Posted | 2026-06-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/TheNielsenCompany/3743990013596581-senior-solutions-consultant-pre-sales-i) |
+| Location | Tokyo, Tokyo, Japan |
+| Category | Sales Engineer |
+| Posted | 2026-07-31 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/TheNielsenCompany/3743990014384696-senior-solutions-consultant-pre-sales-i) |
 
 ## About This Role
 
-This account executive position at The Nielsen Company was posted on 2026-06-12.
+This sales engineer position at The Nielsen Company was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Listed Derivatives Execution Solutions – Client Facing Product & Solutions Specialist at Deutsche Bank
+# Listed Derivatives Execution Solutions – Client Facing Product & Solutions Specialist - Vice President at Deutsche Bank
 
 | Field | Details |
 |-------|---------|
 | Company | [Deutsche Bank](https://scoutify.ai/companies/deutsche-bank?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | New York City, New York, United States |
-| Category | Corporate Finance |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://db.wd3.myworkdayjobs.com/dbwebsite/job/New-York-1-Columbus-Circle/Listed-Derivatives-Execution-Solutions---Client-Facing-Product---Solutions-Specialist_R0433812) |
+| Category | Sales & Trading |
+| Posted | 2026-07-31 |
+| Apply | [View on company site](https://db.wd3.myworkdayjobs.com/dbwebsite/job/New-York-1-Columbus-Circle/Listed-Derivatives-Execution-Solutions---Client-Facing-Product---Solutions-Specialist---Vice-President_R0445505) |
 
 ## About This Role
 
-This corporate finance position at Deutsche Bank was posted on 2026-04-29.
+This sales & trading position at Deutsche Bank was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

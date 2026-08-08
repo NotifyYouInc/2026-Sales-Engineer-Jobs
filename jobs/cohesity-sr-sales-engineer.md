@@ -1,16 +1,16 @@
-# Sr Sales Engineer at Cohesity
+# Sr. Sales Engineer at Cohesity
 
 | Field | Details |
 |-------|---------|
 | Company | [Cohesity](https://scoutify.ai/companies/cohesity?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Pennsylvania, US |
+| Location | Phoenix, Arizona, United States |
 | Category | Sales Engineer |
-| Posted | 2026-07-22 |
-| Apply | [View on company site](https://cohesity.wd5.myworkdayjobs.com/Cohesity_Careers/job/USA---Pennsylvania---Remote/Sr-Sales-Engineer_R04223) |
+| Posted | 2026-08-01 |
+| Apply | [View on company site](https://cohesity.wd5.myworkdayjobs.com/Cohesity_Careers/job/Phoenix-Metro-Area---Arizona---USA-Remote/Sr-Sales-Engineer_R04357-1) |
 
 ## About This Role
 
-This sales engineer position at Cohesity was posted on 2026-07-22.
+This sales engineer position at Cohesity was posted on 2026-08-01.
 
 ## Get Real-Time Alerts
 

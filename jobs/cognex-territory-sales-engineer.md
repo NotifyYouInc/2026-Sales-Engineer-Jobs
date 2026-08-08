@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cognex](https://scoutify.ai/companies/cognex?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Ohio, US |
+| Location | Missouri, US |
 | Category | Sales Engineer |
-| Posted | 2026-07-20 |
-| Apply | [View on company site](https://cognex.wd1.myworkdayjobs.com/External_Career_Site/job/Ohio---Field/Territory-Sales-Engineer_R0012238) |
+| Posted | 2026-07-31 |
+| Apply | [View on company site](https://cognex.wd1.myworkdayjobs.com/External_Career_Site/job/Missouri---Field/Territory-Sales-Engineer_R0012263) |
 
 ## About This Role
 
-This sales engineer position at Cognex was posted on 2026-07-20.
+This sales engineer position at Cognex was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

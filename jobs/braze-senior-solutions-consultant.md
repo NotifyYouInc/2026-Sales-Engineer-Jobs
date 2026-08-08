@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Braze](https://scoutify.ai/companies/braze?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Seattle, Washington, United States |
-| Category | Implementation / Professional Services |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://boards.greenhouse.io/braze/jobs/7811361?gh_jid=7811361) |
+| Location | Chicago, Illinois, United States |
+| Category | Sales Engineer |
+| Posted | 2026-07-31 |
+| Apply | [View on company site](https://boards.greenhouse.io/braze/jobs/8081875?gh_jid=8081875) |
 
 ## About This Role
 
-This implementation / professional services position at Braze was posted on 2026-04-21.
+This sales engineer position at Braze was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

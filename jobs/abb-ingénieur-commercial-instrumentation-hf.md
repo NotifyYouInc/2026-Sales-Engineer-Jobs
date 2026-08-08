@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ABB](https://scoutify.ai/companies/abb?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Beynost, Rhône-Alpes, France |
+| Location | 2 locations |
 | Category | Sales Engineer |
-| Posted | 2026-04-27 |
-| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Beynost-Ain-France/Ingnieur-commercial-instrumentation-H-F_JR00032545) |
+| Posted | 2026-07-31 |
+| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Beynost-Ain-France/Ingnieur-commercial-instrumentation-H-F_JR00042212) |
 
 ## About This Role
 
-This sales engineer position at ABB was posted on 2026-04-27.
+This sales engineer position at ABB was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

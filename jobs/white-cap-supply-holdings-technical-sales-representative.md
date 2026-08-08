@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [White Cap Supply Holdings](https://scoutify.ai/companies/whitecap?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | United States |
+| Location | Arkansas, US |
 | Category | Account Executive |
-| Posted | 2026-04-10 |
-| Apply | [View on company site](https://whitecap.wd1.myworkdayjobs.com/careers/job/REMOTE-FL/Technical-Sales-Representative_WCJR-031558-1) |
+| Posted | 2026-08-01 |
+| Apply | [View on company site](https://whitecap.wd1.myworkdayjobs.com/careers/job/REMOTE-TX/Technical-Sales-Representative_WCJR-034568-1) |
 
 ## About This Role
 
-This account executive position at White Cap Supply Holdings was posted on 2026-04-10.
+This account executive position at White Cap Supply Holdings was posted on 2026-08-01.
 
 ## Get Real-Time Alerts
 

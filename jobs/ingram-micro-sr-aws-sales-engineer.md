@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Ingram Micro](https://scoutify.ai/companies/ingram-micro?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | United States |
+| Location | Not specified |
 | Category | Sales Engineer |
-| Posted | 2026-07-01 |
-| Apply | [View on company site](https://ingrammicro.wd5.myworkdayjobs.com/ingrammicro/job/Field/Sr-AWS-Sales-Engineer_R-116075) |
+| Posted | 2026-07-31 |
+| Apply | [View on company site](https://ingrammicro.wd5.myworkdayjobs.com/ingrammicro/job/Field/Sr-AWS-Sales-Engineer_R-116585) |
 
 ## About This Role
 
-This sales engineer position at Ingram Micro was posted on 2026-07-01.
+This sales engineer position at Ingram Micro was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

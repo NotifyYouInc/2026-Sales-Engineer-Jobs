@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Snowflake](https://scoutify.ai/companies/snowflake?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Chicago, Illinois, United States |
+| Location | New York City, New York, United States |
 | Category | Sales Engineer |
-| Posted | 2026-07-27 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/snowflake/6deb6b1b-aad0-4ba3-ade2-af5b2c695c67) |
+| Posted | 2026-07-31 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/snowflake/4c21e47c-8666-4a7d-8f04-13f631cc2f64) |
 
 ## About This Role
 
-This sales engineer position at Snowflake was posted on 2026-07-27.
+This sales engineer position at Snowflake was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

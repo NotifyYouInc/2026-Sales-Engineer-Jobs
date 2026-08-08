@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | 2 locations |
-| Category | Customer Success |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/jobs/results/98004416455418566-customer-engineer-iii-applied-ai-google-cloud?sort_by=date&page=1) |
+| Location | 3 locations |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-07-31 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckdqKYtPPQoKT8tQfejGXSM_Uz1Atq8eH6qLjQ5-hvZ6VEjsA1Ny_i_XSjVG_y8dEvKCrVoToPCngd--w_fQ80QCrsUAHAGZHX5ivTmpl6Wd5ppLAeQxeTXadaa0FBw%3D%3D_V2&loc=US&title=Customer+Engineer+III) |
 
 ## About This Role
 
-This customer success position at Google was posted on 2026-03-04.
+This technical & solutions architect position at Google was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

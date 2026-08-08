@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Stryker](https://scoutify.ai/companies/stryker?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | 2 locations |
+| Location | 3 locations |
 | Category | Sales Engineer |
-| Posted | 2026-02-23 |
-| Apply | [View on company site](https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Charlotte-North-Carolina/Sales-Systems-Engineer-East--Field-based-_R559900-1) |
+| Posted | 2026-07-31 |
+| Apply | [View on company site](https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/New-York-New-York/Sales-Systems-Engineer-East--Field-based-_R569991) |
 
 ## About This Role
 
-This sales engineer position at Stryker was posted on 2026-02-23.
+This sales engineer position at Stryker was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 
