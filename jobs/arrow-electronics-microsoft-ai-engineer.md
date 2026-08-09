@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Arrow Electronics](https://scoutify.ai/companies/arrow-electronics?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Denmark |
-| Category | Sales Engineer |
+| Category | AI / LLM Engineer |
 | Posted | 2026-07-30 |
 | Apply | [View on company site](https://arrow.wd1.myworkdayjobs.com/ac/job/NL-Netherlands---Remote/Microsoft-AI-Engineer_R244437) |
 
 ## About This Role
 
-This sales engineer position at Arrow Electronics was posted on 2026-07-30.
+This ai / llm engineer position at Arrow Electronics was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

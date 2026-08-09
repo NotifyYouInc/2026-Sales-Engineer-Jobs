@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Adobe](https://scoutify.ai/companies/adobe-inc?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | New York City, New York, United States |
-| Category | Account Executive |
+| Category | Sales |
 | Posted | 2026-07-31 |
 | Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/New-York/Product-Specialist--Firefly_R170840) |
 
 ## About This Role
 
-This account executive position at Adobe was posted on 2026-07-31.
+This sales position at Adobe was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

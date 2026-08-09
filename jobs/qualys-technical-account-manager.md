@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Qualys](https://scoutify.ai/companies/qualys?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | South Africa |
-| Category | Account Manager |
+| Category | Sales |
 | Posted | 2026-07-29 |
 | Apply | [View on company site](https://qualys.wd5.myworkdayjobs.com/careers/job/South-Africa/Technical-Account-manager_R0004921) |
 
 ## About This Role
 
-This account manager position at Qualys was posted on 2026-07-29.
+This sales position at Qualys was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

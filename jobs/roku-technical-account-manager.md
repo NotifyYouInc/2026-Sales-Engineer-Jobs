@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Roku](https://scoutify.ai/companies/roku?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Santa Monica, California, United States |
-| Category | Account Manager |
+| Category | Sales |
 | Posted | 2026-07-29 |
 | Apply | [View on company site](https://www.weareroku.com/jobs/7567448?gh_jid=7567448) |
 
 ## About This Role
 
-This account manager position at Roku was posted on 2026-07-29.
+This sales position at Roku was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Whoop](https://scoutify.ai/companies/whoop?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Boston, Massachusetts, United States |
-| Category | Machine Learning Engineer |
+| Category | AI / LLM Engineer |
 | Posted | 2026-07-29 |
 | Apply | [View on company site](https://jobs.ashbyhq.com/whoop/7a99c2ff-db66-426b-8e85-09d87b9b8ed4) |
 
 ## About This Role
 
-This machine learning engineer position at Whoop was posted on 2026-07-29.
+This ai / llm engineer position at Whoop was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

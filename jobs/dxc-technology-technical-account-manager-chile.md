@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [DXC Technology](https://scoutify.ai/companies/dxctechnology?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Santiago, Santiago Metropolitan, Chile |
-| Category | Account Manager |
+| Category | Sales |
 | Posted | 2026-07-29 |
 | Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/CHL---RM---SANTIAGO/Technical-Account-Manager--Chile_51586004) |
 
 ## About This Role
 
-This account manager position at DXC Technology was posted on 2026-07-29.
+This sales position at DXC Technology was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

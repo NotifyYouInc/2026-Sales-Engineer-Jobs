@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Scale Army](https://scoutify.ai/companies/scale-army?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Egypt |
-| Category | Account Manager |
+| Category | Sales |
 | Posted | 2026-07-31 |
 | Apply | [View on company site](https://jobs.ashbyhq.com/scale%20army%20careers/888d090f-6100-463e-abb4-ce117f23d070) |
 
 ## About This Role
 
-This account manager position at Scale Army was posted on 2026-07-31.
+This sales position at Scale Army was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Five9](https://scoutify.ai/companies/five9?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | United States |
-| Category | Account Manager |
+| Category | Sales |
 | Posted | 2026-07-30 |
 | Apply | [View on company site](https://www.five9.com/about/careers/job-detail?gh_jid=6130729004) |
 
 ## About This Role
 
-This account manager position at Five9 was posted on 2026-07-30.
+This sales position at Five9 was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 
