@@ -5,12 +5,12 @@
 | Company | [Applied Materials](https://scoutify.ai/companies/applied-materials?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | South Korea |
 | Category | Sales Engineer |
-| Posted | 2026-07-22 |
-| Apply | [View on company site](https://amat.wd1.myworkdayjobs.com/External/job/Icheon-GwangoKOR/VSE-Customer-Engineer_R2624118) |
+| Posted | 2026-08-03 |
+| Apply | [View on company site](https://amat.wd1.myworkdayjobs.com/External/job/Icheon-GwangoKOR/VSE-Ion-Implant--Customer-Engineer_R2624119) |
 
 ## About This Role
 
-This sales engineer position at Applied Materials was posted on 2026-07-22.
+This sales engineer position at Applied Materials was posted on 2026-08-03.
 
 ## Get Real-Time Alerts
 

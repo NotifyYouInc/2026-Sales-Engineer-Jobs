@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Daikin Comfort](https://scoutify.ai/companies/daikin-comfort?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | United States |
+| Location | Not specified |
 | Category | Customer Success |
-| Posted | 2026-05-26 |
-| Apply | [View on company site](https://recruiting2.ultipro.com/goo1038gomn/JobBoard/75022464-9dbd-43d2-af44-2840603d5823/OpportunityDetail?opportunityId=44d2faac-1f15-4c29-8b77-1b7c748a4a23) |
+| Posted | 2026-08-03 |
+| Apply | [View on company site](https://recruiting2.ultipro.com/goo1038gomn/JobBoard/75022464-9dbd-43d2-af44-2840603d5823/OpportunityDetail?opportunityId=366d6978-6e73-4a47-a976-e7685669eda5) |
 
 ## About This Role
 
-This customer success position at Daikin Comfort was posted on 2026-05-26.
+This customer success position at Daikin Comfort was posted on 2026-08-03.
 
 ## Get Real-Time Alerts
 

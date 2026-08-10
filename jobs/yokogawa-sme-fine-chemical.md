@@ -1,16 +1,16 @@
-# Sales Engineer at Avnet
+# SME - Fine Chemical at Yokogawa
 
 | Field | Details |
 |-------|---------|
-| Company | [Avnet](https://scoutify.ai/companies/avnet?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Beijing, Beijing, China |
+| Company | [Yokogawa](https://scoutify.ai/companies/yokogawa?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
+| Location | Ål, Buskerud, Norway |
 | Category | Sales Engineer |
-| Posted | 2026-08-03 |
-| Apply | [View on company site](https://avnet.wd1.myworkdayjobs.com/external/job/Beijing-Beijing-China/Sales-Engineer_JR-023890) |
+| Posted | 2026-08-02 |
+| Apply | [View on company site](https://yokogawa.wd3.myworkdayjobs.com/yokogawa-career-site/job/Al-Khobar/SME---Fine-Chemical_R-12429) |
 
 ## About This Role
 
-This sales engineer position at Avnet was posted on 2026-08-03.
+This sales engineer position at Yokogawa was posted on 2026-08-02.
 
 ## Get Real-Time Alerts
 

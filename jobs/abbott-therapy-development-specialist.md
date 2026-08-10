@@ -1,16 +1,16 @@
-# Sales Engineer at Avnet
+# Therapy Development Specialist at Abbott
 
 | Field | Details |
 |-------|---------|
-| Company | [Avnet](https://scoutify.ai/companies/avnet?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Beijing, Beijing, China |
+| Company | [Abbott](https://scoutify.ai/companies/abbott-laboratories?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
+| Location | Taipei, Taiwan, Taiwan |
 | Category | Sales Engineer |
 | Posted | 2026-08-03 |
-| Apply | [View on company site](https://avnet.wd1.myworkdayjobs.com/external/job/Beijing-Beijing-China/Sales-Engineer_JR-023890) |
+| Apply | [View on company site](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/Taiwan--Taipei--No-407-Ruiguang-Road/Therapy-Development-Specialist_31157990) |
 
 ## About This Role
 
-This sales engineer position at Avnet was posted on 2026-08-03.
+This sales engineer position at Abbott was posted on 2026-08-03.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Anduril](https://scoutify.ai/companies/andurilindustries?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Costa Mesa, California, United States |
-| Category | Product Manager |
+| Category | Customer Success |
 | Posted | 2026-07-30 |
 | Apply | [View on company site](https://boards.greenhouse.io/andurilindustries/jobs/5199983007?gh_jid=5199983007) |
 
 ## About This Role
 
-This product manager position at Anduril was posted on 2026-07-30.
+This customer success position at Anduril was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

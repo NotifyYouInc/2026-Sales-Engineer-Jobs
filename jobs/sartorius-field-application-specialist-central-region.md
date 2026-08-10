@@ -1,16 +1,16 @@
-# Senior Proposal Engineer at Rockwell Automation
+# Field Application Specialist-Central Region at Sartorius
 
 | Field | Details |
 |-------|---------|
-| Company | [Rockwell Automation](https://scoutify.ai/companies/rockwellautomation?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
+| Company | [Sartorius](https://scoutify.ai/companies/sartorius?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | 3 locations |
 | Category | Sales Engineer |
 | Posted | 2026-08-03 |
-| Apply | [View on company site](https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Jakarta-Indonesia/Senior-Proposal-Engineer_R26-6203) |
+| Apply | [View on company site](https://sartorius.wd3.myworkdayjobs.com/sartoriuscareers/job/Houston-TX-United-States-of-America/Field-Application-Specialist-Central-Region_R40558-1) |
 
 ## About This Role
 
-This sales engineer position at Rockwell Automation was posted on 2026-08-03.
+This sales engineer position at Sartorius was posted on 2026-08-03.
 
 ## Get Real-Time Alerts
 

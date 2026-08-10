@@ -1,16 +1,16 @@
-# Sales Engineer at Avnet
+# Solution Engineer (m/w/d) at Superchat
 
 | Field | Details |
 |-------|---------|
-| Company | [Avnet](https://scoutify.ai/companies/avnet?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Beijing, Beijing, China |
+| Company | [Superchat](https://scoutify.ai/companies/superchat?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
+| Location | Berlin, State of Berlin, Germany |
 | Category | Sales Engineer |
 | Posted | 2026-08-03 |
-| Apply | [View on company site](https://avnet.wd1.myworkdayjobs.com/external/job/Beijing-Beijing-China/Sales-Engineer_JR-023890) |
+| Apply | [View on company site](https://job-boards.eu.greenhouse.io/superchat/jobs/4943117101) |
 
 ## About This Role
 
-This sales engineer position at Avnet was posted on 2026-08-03.
+This sales engineer position at Superchat was posted on 2026-08-03.
 
 ## Get Real-Time Alerts
 

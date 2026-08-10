@@ -5,12 +5,12 @@
 | Company | [ALTEN](https://scoutify.ai/companies/alten?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Graz, Styria, Austria |
 | Category | Sales Engineer |
-| Posted | 2026-07-14 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000137603259-technical-consultant-all-gender) |
+| Posted | 2026-08-03 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000141206644-technical-consultant-all-gender) |
 
 ## About This Role
 
-This sales engineer position at ALTEN was posted on 2026-07-14.
+This sales engineer position at ALTEN was posted on 2026-08-03.
 
 ## Get Real-Time Alerts
 

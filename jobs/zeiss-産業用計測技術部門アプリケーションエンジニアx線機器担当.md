@@ -1,16 +1,16 @@
-# Sales Engineer at Avnet
+# 産業用計測技術部門アプリケーションエンジニア（X線機器担当） at Zeiss
 
 | Field | Details |
 |-------|---------|
-| Company | [Avnet](https://scoutify.ai/companies/avnet?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Beijing, Beijing, China |
+| Company | [Zeiss](https://scoutify.ai/companies/zeissgroup?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
+| Location | Osaka, Osaka, Japan |
 | Category | Sales Engineer |
 | Posted | 2026-08-03 |
-| Apply | [View on company site](https://avnet.wd1.myworkdayjobs.com/external/job/Beijing-Beijing-China/Sales-Engineer_JR-023890) |
+| Apply | [View on company site](https://zeissgroup.wd3.myworkdayjobs.com/External/job/Osaka/-X-_JR_1051943) |
 
 ## About This Role
 
-This sales engineer position at Avnet was posted on 2026-08-03.
+This sales engineer position at Zeiss was posted on 2026-08-03.
 
 ## Get Real-Time Alerts
 

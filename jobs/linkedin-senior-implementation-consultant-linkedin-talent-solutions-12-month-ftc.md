@@ -6,7 +6,7 @@
 | Location | Italy |
 | Category | Customer Success |
 | Posted | 2026-07-29 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/LinkedIn3/744000140423421-senior-implementation-consultant-linkedin-talent-solutions-12-month-ftc) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/LinkedIn3/744000140471419-senior-implementation-consultant-linkedin-talent-solutions-12-month-ftc) |
 
 ## About This Role
 

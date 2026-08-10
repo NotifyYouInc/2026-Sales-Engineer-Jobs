@@ -1,16 +1,16 @@
-# Technical Consultant (all gender) at ALTEN Canada
+# Lead Software Solutions Engineer (all gender) at ALTEN
 
 | Field | Details |
 |-------|---------|
-| Company | [ALTEN Canada](https://scoutify.ai/companies/alten-canada?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
+| Company | [ALTEN](https://scoutify.ai/companies/alten?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Graz, Styria, Austria |
-| Category | Sales Engineer |
+| Category | Software Engineer |
 | Posted | 2026-08-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Alten/744000141206644-technical-consultant-all-gender) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000141181089-lead-software-solutions-engineer-all-gender) |
 
 ## About This Role
 
-This sales engineer position at ALTEN Canada was posted on 2026-08-03.
+This software engineer position at ALTEN was posted on 2026-08-03.
 
 ## Get Real-Time Alerts
 
