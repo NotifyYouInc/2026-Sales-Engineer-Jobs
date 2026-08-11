@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amadeus](https://scoutify.ai/companies/amadeus?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
+| Location | Lisbon, Lisbon, Portugal |
 | Category | Customer Success |
-| Posted | 2026-06-04 |
-| Apply | [View on company site](https://amadeus.wd502.myworkdayjobs.com/jobs/job/Kuala-Lumpur/Implementation-Engineer_R33538) |
+| Posted | 2026-08-03 |
+| Apply | [View on company site](https://amadeus.wd502.myworkdayjobs.com/jobs/job/Lisbon/Implementation-Engineer_R36650) |
 
 ## About This Role
 
-This customer success position at Amadeus was posted on 2026-06-04.
+This customer success position at Amadeus was posted on 2026-08-03.
 
 ## Get Real-Time Alerts
 

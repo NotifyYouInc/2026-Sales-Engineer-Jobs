@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [GE Vernova](https://scoutify.ai/companies/ge-vernova?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Stafford, England, United Kingdom |
-| Category | Sales Engineer |
+| Category | Electrical / Hardware Engineer |
 | Posted | 2026-07-31 |
 | Apply | [View on company site](https://gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite/job/Stafford/Lead-Mechatronic-Test-Solutions-Engineer_R5048358-2) |
 
 ## About This Role
 
-This sales engineer position at GE Vernova was posted on 2026-07-31.
+This electrical / hardware engineer position at GE Vernova was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

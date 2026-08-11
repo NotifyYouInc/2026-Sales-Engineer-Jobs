@@ -1,16 +1,16 @@
-# Technical Account Manager, OpenShift at Red Hat
+# Technical Account Manager - Openshift at Red Hat
 
 | Field | Details |
 |-------|---------|
 | Company | [Red Hat](https://scoutify.ai/companies/red-hat?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Virginia, US |
+| Location | Raleigh, North Carolina, United States |
 | Category | Customer Success |
-| Posted | 2026-06-10 |
-| Apply | [View on company site](https://redhat.wd5.myworkdayjobs.com/Jobs/job/Remote-US-VA/Technical-Account-Manager--OpenShift_R-057673-1) |
+| Posted | 2026-08-03 |
+| Apply | [View on company site](https://redhat.wd5.myworkdayjobs.com/Jobs/job/Remote-US-MN/Technical-Account-Manager---Openshift_R-058177-1) |
 
 ## About This Role
 
-This customer success position at Red Hat was posted on 2026-06-10.
+This customer success position at Red Hat was posted on 2026-08-03.
 
 ## Get Real-Time Alerts
 

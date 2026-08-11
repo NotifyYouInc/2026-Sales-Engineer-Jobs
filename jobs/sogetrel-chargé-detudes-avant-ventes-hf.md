@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Sogetrel](https://scoutify.ai/companies/sogetrel?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Aix-en-Provence, Provence-Alpes-Côte d'Azur, France |
-| Category | Technical & Solutions Architect |
-| Posted | 2026-06-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Sogetrel/744000131604489-charge-detudes-avant-ventes-hf) |
+| Category | Sales Engineer |
+| Posted | 2026-08-03 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Sogetrel/744000141239541-charge-detudes-avant-ventes-hf) |
 
 ## About This Role
 
-This technical & solutions architect position at Sogetrel was posted on 2026-06-11.
+This sales engineer position at Sogetrel was posted on 2026-08-03.
 
 ## Get Real-Time Alerts
 

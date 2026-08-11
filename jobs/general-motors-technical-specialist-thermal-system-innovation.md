@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [General Motors](https://scoutify.ai/companies/general-motors?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Warren, Michigan, United States |
-| Category | Sales Engineer |
+| Category | Electrical / Hardware Engineer |
 | Posted | 2026-07-30 |
 | Apply | [View on company site](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/Technical-Specialist---Thermal-System-Innovation_JR-202615473-1) |
 
 ## About This Role
 
-This sales engineer position at General Motors was posted on 2026-07-30.
+This electrical / hardware engineer position at General Motors was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

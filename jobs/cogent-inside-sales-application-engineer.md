@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cogent](https://scoutify.ai/companies/cogent-rec-pro-ukg-net?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Riverside, California, United States |
+| Location | Tulsa, Oklahoma, United States |
 | Category | Software Engineer |
-| Posted | 2026-06-29 |
-| Apply | [View on company site](https://cogent.rec.pro.ukg.net/cog1001cogt/JobBoard/6ef4887f-e9d3-4536-8f81-818a63ab3102/OpportunityDetail?opportunityId=a62329b2-49aa-44af-a119-78fb1944429c) |
+| Posted | 2026-08-03 |
+| Apply | [View on company site](https://cogent.rec.pro.ukg.net/cog1001cogt/JobBoard/6ef4887f-e9d3-4536-8f81-818a63ab3102/OpportunityDetail?opportunityId=73565517-25c0-409d-bd67-4018ad60894e) |
 
 ## About This Role
 
-This software engineer position at Cogent was posted on 2026-06-29.
+This software engineer position at Cogent was posted on 2026-08-03.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Onapsis](https://scoutify.ai/companies/onapsis?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Boston, Massachusetts, United States |
 | Category | Sales Engineer |
-| Posted | 2026-01-06 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/onapsis/jobs/8073374002) |
+| Posted | 2026-08-03 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/onapsis/jobs/8659410002) |
 
 ## About This Role
 
-This sales engineer position at Onapsis was posted on 2026-01-06.
+This sales engineer position at Onapsis was posted on 2026-08-03.
 
 ## Get Real-Time Alerts
 

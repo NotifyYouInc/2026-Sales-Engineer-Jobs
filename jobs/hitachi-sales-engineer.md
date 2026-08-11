@@ -1,16 +1,16 @@
-# Sales engineer at Hitachi
+# sales engineer at Hitachi
 
 | Field | Details |
 |-------|---------|
 | Company | [Hitachi](https://scoutify.ai/companies/hitachi?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Xi’an, Shaanxi, China |
+| Location | Hefei, Anhui, China |
 | Category | Sales Engineer |
-| Posted | 2026-06-15 |
-| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/XiAn-Shaanxi-China/Sales-engineer_R0134307) |
+| Posted | 2026-08-04 |
+| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Hefei-Anhui-China/sales-engineer_R0139880) |
 
 ## About This Role
 
-This sales engineer position at Hitachi was posted on 2026-06-15.
+This sales engineer position at Hitachi was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

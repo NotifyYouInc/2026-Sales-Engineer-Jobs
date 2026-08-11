@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Helsinki, Uusimaa, Finland |
+| Location | São Paulo, São Paulo, Brazil |
 | Category | Sales Engineer |
-| Posted | 2026-06-25 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckbZ_JaggugaOc5YJG7QA98V5BxyuXaUS-utWn-FXwXxUEjsA1Ny_iz6w-Q9BKjUfZXbjTN9aYSGn_3f-eoNN8TbBKLeZJoFD9iBmJuziNjkRBzI7zdTGu_cULDuffw%3D%3D_V2&loc=FI&title=Customer+Engineer) |
+| Posted | 2026-08-03 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckQUL4B_BiEv3LJfg3XpYVLdyNO2dg3HDxEAYM0pvXz8QEjsA1Ny_i6BhNJUssuYf_9REWJQQtWJQ0OQuM00UcV0HPMIlMnWxslvvIp7ToISMOzMaYQL79CWg65tH1w%3D%3D_V2&loc=BR&title=Customer+Engineer) |
 
 ## About This Role
 
-This sales engineer position at Google was posted on 2026-06-25.
+This sales engineer position at Google was posted on 2026-08-03.
 
 ## Get Real-Time Alerts
 

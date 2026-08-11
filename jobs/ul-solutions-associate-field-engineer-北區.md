@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [UL Solutions](https://scoutify.ai/companies/ocs-cx-oj109581?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Taiwan |
-| Category | Sales Engineer |
+| Category | Electrical / Hardware Engineer |
 | Posted | 2026-07-31 |
 | Apply | [View on company site](https://fa-eups-saasfaprod1.fa.ocs.oraclecloud.com/jobs/#10388) |
 
 ## About This Role
 
-This sales engineer position at UL Solutions was posted on 2026-07-31.
+This electrical / hardware engineer position at UL Solutions was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

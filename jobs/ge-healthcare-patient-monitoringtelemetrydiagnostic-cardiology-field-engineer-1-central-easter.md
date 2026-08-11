@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [GE HealthCare](https://scoutify.ai/companies/ge-healthcare?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Washington, US |
-| Category | Sales Engineer |
+| Category | Electrical / Hardware Engineer |
 | Posted | 2026-08-01 |
 | Apply | [View on company site](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Patient-Monitoring-Telemetry-Diagnostic-Cardiology-Field-Engineer-1---Central---Eastern-Washington_R4044259-1) |
 
 ## About This Role
 
-This sales engineer position at GE HealthCare was posted on 2026-08-01.
+This electrical / hardware engineer position at GE HealthCare was posted on 2026-08-01.
 
 ## Get Real-Time Alerts
 

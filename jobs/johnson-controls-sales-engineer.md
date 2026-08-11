@@ -1,16 +1,16 @@
-# Sales Engineer at Johnson Controls
+# sales engineer at Johnson Controls
 
 | Field | Details |
 |-------|---------|
 | Company | [Johnson Controls](https://scoutify.ai/companies/jci?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Xi’an, Shaanxi, China |
+| Location | Chengdu, Sichuan, China |
 | Category | Sales Engineer |
-| Posted | 2026-07-20 |
-| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Xi-an-Shaanxi-China/Sales-Engineer_WD30272777-3) |
+| Posted | 2026-08-03 |
+| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Chengdu-Sichuan-China/sales-engineer_WD30272192) |
 
 ## About This Role
 
-This sales engineer position at Johnson Controls was posted on 2026-07-20.
+This sales engineer position at Johnson Controls was posted on 2026-08-03.
 
 ## Get Real-Time Alerts
 

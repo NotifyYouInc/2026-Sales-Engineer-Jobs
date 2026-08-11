@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Schweitzer Engineering Laboratories](https://scoutify.ai/companies/selinc?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Houston, Texas, United States |
+| Location | Plano, Texas, United States |
 | Category | Software Engineer |
-| Posted | 2026-04-27 |
-| Apply | [View on company site](https://selinc.wd1.myworkdayjobs.com/SEL/job/Texas---Houston/Application-Engineer---Protection--Multiple-Openings-_2026-21086) |
+| Posted | 2026-08-04 |
+| Apply | [View on company site](https://selinc.wd1.myworkdayjobs.com/SEL/job/Texas---Plano/Application-Engineer---Protection--Multiple-Openings-_2026-22592) |
 
 ## About This Role
 
-This software engineer position at Schweitzer Engineering Laboratories was posted on 2026-04-27.
+This software engineer position at Schweitzer Engineering Laboratories was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

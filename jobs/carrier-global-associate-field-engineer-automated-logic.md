@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Carrier Global](https://scoutify.ai/companies/carrier?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Urbandale, Iowa, United States |
+| Location | Phoenix, Arizona, United States |
 | Category | Sales Engineer |
-| Posted | 2026-07-29 |
-| Apply | [View on company site](https://carrier.wd5.myworkdayjobs.com/jobs/job/IA35-3968-Northwest-Urbandale-Drive-Urbandale-IA-50322-USA/Associate-Field-Engineer---Automated-Logic_30213614) |
+| Posted | 2026-07-31 |
+| Apply | [View on company site](https://carrier.wd5.myworkdayjobs.com/jobs/job/CAA11-ALC-West-AZ-4615-South-33rd-Place-Phoenix-AZ-85040-USA/Associate-Field-Engineer---Automated-Logic_30214174) |
 
 ## About This Role
 
-This sales engineer position at Carrier Global was posted on 2026-07-29.
+This sales engineer position at Carrier Global was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

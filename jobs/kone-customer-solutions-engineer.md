@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Kone](https://scoutify.ai/companies/kone?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | 4 locations |
-| Category | Sales Engineer |
-| Posted | 2026-05-20 |
-| Apply | [View on company site](https://kone.wd3.myworkdayjobs.com/careers/job/Mascot/Customer-Solutions-Engineer_R0660538) |
+| Location | Mascot, New South Wales, Australia |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-08-04 |
+| Apply | [View on company site](https://kone.wd3.myworkdayjobs.com/careers/job/Mascot/Customer-Solutions-Engineer_R0662379-1) |
 
 ## About This Role
 
-This sales engineer position at Kone was posted on 2026-05-20.
+This technical & solutions architect position at Kone was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

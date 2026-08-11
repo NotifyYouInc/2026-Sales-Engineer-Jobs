@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [HighRadius](https://scoutify.ai/companies/highradius?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Hyderabad, Telangana, India |
-| Category | Financial Advisory & Consulting |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://www.highradius.com/about/careers-list/?gh_jid=6233917003) |
+| Category | Sales Engineer |
+| Posted | 2026-08-03 |
+| Apply | [View on company site](https://www.highradius.com/about/careers-list/?gh_jid=7700843003) |
 
 ## About This Role
 
-This financial advisory & consulting position at HighRadius was posted on 2026-02-19.
+This sales engineer position at HighRadius was posted on 2026-08-03.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Sales engineer at Rehiko
+# Sales Engineer at Rehiko
 
 | Field | Details |
 |-------|---------|
 | Company | [Rehiko](https://scoutify.ai/companies/rehlko?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Tunis, Tunis Governorate, Tunisia |
+| Location | Pomona, California, United States |
 | Category | Sales Engineer |
-| Posted | 2026-05-12 |
-| Apply | [View on company site](https://rehlko.wd12.myworkdayjobs.com/Reh/job/Tunis/Sales-engineer_R03756) |
+| Posted | 2026-08-04 |
+| Apply | [View on company site](https://rehlko.wd12.myworkdayjobs.com/Reh/job/Pomona/Sales-Engineer_R04212) |
 
 ## About This Role
 
-This sales engineer position at Rehiko was posted on 2026-05-12.
+This sales engineer position at Rehiko was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 
