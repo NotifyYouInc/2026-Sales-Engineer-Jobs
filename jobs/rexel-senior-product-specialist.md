@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [REXEL](https://scoutify.ai/companies/rexel?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Charlotte, North Carolina, United States |
-| Category | Account Manager |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/REXEL1/744000126326839-senior-product-specialist) |
+| Location | Richmond, Virginia, United States |
+| Category | Sales |
+| Posted | 2026-08-04 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/REXEL1/744000141560069-senior-product-specialist) |
 
 ## About This Role
 
-This account manager position at REXEL was posted on 2026-05-13.
+This sales position at REXEL was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

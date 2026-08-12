@@ -5,12 +5,12 @@
 | Company | [Datadog](https://scoutify.ai/companies/datadog?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Tel Aviv, Tel Aviv, Israel |
 | Category | Sales Engineer |
-| Posted | 2026-02-09 |
-| Apply | [View on company site](https://careers.datadoghq.com/detail/7594608/?gh_jid=7594608) |
+| Posted | 2026-08-04 |
+| Apply | [View on company site](https://careers.datadoghq.com/detail/8092637/?gh_jid=8092637) |
 
 ## About This Role
 
-This sales engineer position at Datadog was posted on 2026-02-09.
+This sales engineer position at Datadog was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

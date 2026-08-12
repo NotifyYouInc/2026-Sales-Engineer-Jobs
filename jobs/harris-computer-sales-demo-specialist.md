@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Harris Computer](https://scoutify.ai/companies/harriscomputer?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Texas, US |
-| Category | Content Marketing |
-| Posted | 2026-07-23 |
-| Apply | [View on company site](https://harriscomputer.wd3.myworkdayjobs.com/1/job/Texas-United-States/Sales-Demo-Specialist_R0045488-3) |
+| Location | Washington, District of Columbia, United States |
+| Category | Sales Engineer |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://harriscomputer.wd3.myworkdayjobs.com/1/job/Texas-United-States/Sales-Demo-Specialist_R0045501) |
 
 ## About This Role
 
-This content marketing position at Harris Computer was posted on 2026-07-23.
+This sales engineer position at Harris Computer was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Devoteam](https://scoutify.ai/companies/devoteam?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Madrid, Madrid, Spain |
-| Category | Technical & Solutions Architect |
-| Posted | 2026-06-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Devoteam/744000132845519-google-cloud-presales-ai-engineer) |
+| Category | AI / LLM Engineer |
+| Posted | 2026-08-04 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Devoteam/744000141500666-google-cloud-presales-ai-engineer) |
 
 ## About This Role
 
-This technical & solutions architect position at Devoteam was posted on 2026-06-18.
+This ai / llm engineer position at Devoteam was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

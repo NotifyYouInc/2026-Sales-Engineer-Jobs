@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Flowserve](https://scoutify.ai/companies/flowserve?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Guyancourt, Île-de-France, France |
+| Location | El Dorado, Arkansas, United States |
 | Category | Software Engineer |
-| Posted | 2026-07-16 |
-| Apply | [View on company site](https://flowserve.wd1.myworkdayjobs.com/applied/job/Guyancourt-France/On-Site-Application-Engineer_R-20240) |
+| Posted | 2026-08-04 |
+| Apply | [View on company site](https://flowserve.wd1.myworkdayjobs.com/applied/job/El-Dorado-Arkansas-US/On-Site-Application-Engineer_R-20475) |
 
 ## About This Role
 
-This software engineer position at Flowserve was posted on 2026-07-16.
+This software engineer position at Flowserve was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

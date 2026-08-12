@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Proofpoint](https://scoutify.ai/companies/proofpoint?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Pittsburgh, Pennsylvania, United States |
-| Category | Sales Engineer |
-| Posted | 2026-07-23 |
-| Apply | [View on company site](https://proofpoint.wd5.myworkdayjobs.com/ProofpointCareers/job/Pittsburgh-PA/Technical-Account-Manager_R14492) |
+| Location | 2 locations |
+| Category | Customer Success |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://proofpoint.wd5.myworkdayjobs.com/ProofpointCareers/job/Sydney-Australia/Technical-Account-Manager_R14507) |
 
 ## About This Role
 
-This sales engineer position at Proofpoint was posted on 2026-07-23.
+This customer success position at Proofpoint was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Sartorius](https://scoutify.ai/companies/sartorius?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | São Bernardo do Campo, São Paulo, Brazil |
 | Category | Sales Engineer |
-| Posted | 2026-07-23 |
-| Apply | [View on company site](https://sartorius.wd3.myworkdayjobs.com/sartoriuscareers/job/So-Bernardo-do-Campo/Technical-Sales-Specialist_R41289) |
+| Posted | 2026-08-03 |
+| Apply | [View on company site](https://sartorius.wd3.myworkdayjobs.com/sartoriuscareers/job/So-Bernardo-do-Campo/Technical-Sales-Specialist_R41342) |
 
 ## About This Role
 
-This sales engineer position at Sartorius was posted on 2026-07-23.
+This sales engineer position at Sartorius was posted on 2026-08-03.
 
 ## Get Real-Time Alerts
 

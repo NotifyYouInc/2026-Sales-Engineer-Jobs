@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Box](https://scoutify.ai/companies/box?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Atlanta, Georgia, United States |
+| Location | Redwood City, California, United States |
 | Category | Sales Engineer |
-| Posted | 2026-06-11 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/boxinc/jobs/8001042) |
+| Posted | 2026-08-04 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/boxinc/jobs/8097679) |
 
 ## About This Role
 
-This sales engineer position at Box was posted on 2026-06-11.
+This sales engineer position at Box was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Workato](https://scoutify.ai/companies/workato?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | 4 locations |
-| Category | Customer Success |
-| Posted | 2026-05-06 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/workato/jobs/8537407002) |
+| Location | Mexico City, Mexico City, Mexico |
+| Category | Sales Engineer |
+| Posted | 2026-08-04 |
+| Apply | [View on company site](https://www.workato.com/careers?gh_jid=8659503002#open-roles) |
 
 ## About This Role
 
-This customer success position at Workato was posted on 2026-05-06.
+This sales engineer position at Workato was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

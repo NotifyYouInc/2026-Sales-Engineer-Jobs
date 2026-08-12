@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Snowflake](https://scoutify.ai/companies/snowflake?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | New York City, New York, United States |
+| Location | Menlo Park, California, United States |
 | Category | Sales Engineer |
 | Posted | 2026-07-31 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/snowflake/4c21e47c-8666-4a7d-8f04-13f631cc2f64) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/snowflake/12157257-dc3e-490b-8c7f-614a681c3e0c) |
 
 ## About This Role
 

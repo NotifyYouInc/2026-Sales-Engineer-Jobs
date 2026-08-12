@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Stanley Black & Decker](https://scoutify.ai/companies/sbdinc?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Leggiuno, Lombardy, Italy |
+| Location | Sofia, Sofia-Capital, Bulgaria |
 | Category | Sales Engineer |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://sbdinc.wd1.myworkdayjobs.com/Stanley_Black_Decker_Career_Site/job/Leggiuno-Varese-Italy/End-User-Specialist_REQ-1000047047) |
+| Posted | 2026-08-04 |
+| Apply | [View on company site](https://sbdinc.wd1.myworkdayjobs.com/Stanley_Black_Decker_Career_Site/job/Bulgaria---Remote/End-User-Specialist_REQ-1000050240) |
 
 ## About This Role
 
-This sales engineer position at Stanley Black & Decker was posted on 2026-04-29.
+This sales engineer position at Stanley Black & Decker was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

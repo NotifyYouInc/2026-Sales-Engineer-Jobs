@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Esri](https://scoutify.ai/companies/esri?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Minneapolis, Minnesota, United States |
-| Category | Technical & Solutions Architect |
-| Posted | 2026-05-08 |
-| Apply | [View on company site](https://www.esri.com/careers/5122107007?gh_jid=5122107007) |
+| Category | Sales Engineer |
+| Posted | 2026-08-04 |
+| Apply | [View on company site](https://www.esri.com/careers/5122116007?gh_jid=5122116007) |
 
 ## About This Role
 
-This technical & solutions architect position at Esri was posted on 2026-05-08.
+This sales engineer position at Esri was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [GE Vernova](https://scoutify.ai/companies/ge-vernova?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Mexico City, Mexico City, Mexico |
+| Location | 4 locations |
 | Category | Sales Engineer |
-| Posted | 2026-05-15 |
-| Apply | [View on company site](https://gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite/job/Mexico-City/Lead-Proposal-Engineer_R5036991-2) |
+| Posted | 2026-08-04 |
+| Apply | [View on company site](https://gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite/job/Sao-Paulo/Lead-Proposal-Engineer_R5048781-2) |
 
 ## About This Role
 
-This sales engineer position at GE Vernova was posted on 2026-05-15.
+This sales engineer position at GE Vernova was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

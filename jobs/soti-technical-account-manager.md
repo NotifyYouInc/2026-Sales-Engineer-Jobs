@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [SOTI](https://scoutify.ai/companies/soti?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Mississauga, Ontario, Canada |
+| Location | Gurugram, Haryana, India |
 | Category | Customer Success |
-| Posted | 2026-03-20 |
-| Apply | [View on company site](https://soti.wd3.myworkdayjobs.com/careers/job/Mississauga-Canada--Meadowvale-Office-HQ/Technical-Account-Manager_R09551) |
+| Posted | 2026-08-04 |
+| Apply | [View on company site](https://soti.wd3.myworkdayjobs.com/careers/job/Gurgaon-India/Technical-Account-Manager_R10332-2) |
 
 ## About This Role
 
-This customer success position at SOTI was posted on 2026-03-20.
+This customer success position at SOTI was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

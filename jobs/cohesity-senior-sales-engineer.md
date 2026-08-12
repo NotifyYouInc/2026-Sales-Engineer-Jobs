@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cohesity](https://scoutify.ai/companies/cohesity?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Spain |
+| Location | New Jersey, US |
 | Category | Sales Engineer |
-| Posted | 2026-07-23 |
-| Apply | [View on company site](https://cohesity.wd5.myworkdayjobs.com/Cohesity_Careers/job/Spain---Remote/Senior-Sales-Engineer_R04051) |
+| Posted | 2026-08-04 |
+| Apply | [View on company site](https://cohesity.wd5.myworkdayjobs.com/Cohesity_Careers/job/New-York--New-Jersey-Metro-Area---USA-Remote/Senior-Sales-Engineer_R04351) |
 
 ## About This Role
 
-This sales engineer position at Cohesity was posted on 2026-07-23.
+This sales engineer position at Cohesity was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

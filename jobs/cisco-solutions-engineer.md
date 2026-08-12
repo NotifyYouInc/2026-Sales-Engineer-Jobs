@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Taipei, Taiwan, Taiwan |
+| Location | 5 locations |
 | Category | Sales Engineer |
-| Posted | 2026-07-30 |
-| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Taipei-Taiwan/Solutions-Engineer_2019203) |
+| Posted | 2026-07-31 |
+| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Dallas-Texas-US/Solutions-Engineer_2019987-1) |
 
 ## About This Role
 
-This sales engineer position at Cisco was posted on 2026-07-30.
+This sales engineer position at Cisco was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

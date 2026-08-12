@@ -1,16 +1,16 @@
-#  Anwendungstechniker im Vertrieb (m/w/d) Region Hannover at Stanley Black & Decker
+#  Anwendungstechniker im Vertrieb (m/w/d) Region Hannover at Stanley Black & Decker
 
 | Field | Details |
 |-------|---------|
 | Company | [Stanley Black & Decker](https://scoutify.ai/companies/sbdinc?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Idstein, Hesse, Germany |
+| Location | 2 locations |
 | Category | Sales Engineer |
-| Posted | 2026-07-31 |
-| Apply | [View on company site](https://sbdinc.wd1.myworkdayjobs.com/Stanley_Black_Decker_Career_Site/job/Rheingau-Taunus-Kreis-Idstein-Deutschland/XMLNAME--Anwendungstechniker-im-Vertrieb-Industrial-Automotive--m-w-d--Region-Hannover_REQ-1000050573) |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://sbdinc.wd1.myworkdayjobs.com/Stanley_Black_Decker_Career_Site/job/Rheingau-Taunus-Kreis-Idstein-Deutschland/XMLNAME--Anwendungstechniker-im-Vertrieb--m-w-d--Region-Hannover_REQ-1000050571) |
 
 ## About This Role
 
-This sales engineer position at Stanley Black & Decker was posted on 2026-07-31.
+This sales engineer position at Stanley Black & Decker was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

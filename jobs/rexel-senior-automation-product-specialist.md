@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [REXEL](https://scoutify.ai/companies/rexel?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Tacoma, Washington, United States |
-| Category | Industrial Automation |
-| Posted | 2026-07-30 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/REXEL1/744000140740839-senior-automation-product-specialist) |
+| Category | Sales Engineer |
+| Posted | 2026-07-31 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/REXEL1/744000140995949-senior-automation-product-specialist) |
 
 ## About This Role
 
-This industrial automation position at REXEL was posted on 2026-07-30.
+This sales engineer position at REXEL was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

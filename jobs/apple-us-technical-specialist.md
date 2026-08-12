@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Apple](https://scoutify.ai/companies/apple?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Pittsburgh, Pennsylvania, United States |
+| Location | Corte Madera, California, United States |
 | Category | Customer Success |
-| Posted | 2026-07-30 |
-| Apply | [View on company site](https://jobs.apple.com/en-us/details/200675073/us-technical-specialist) |
+| Posted | 2026-08-03 |
+| Apply | [View on company site](https://jobs.apple.com/en-us/details/200675499/us-technical-specialist) |
 
 ## About This Role
 
-This customer success position at Apple was posted on 2026-07-30.
+This customer success position at Apple was posted on 2026-08-03.
 
 ## Get Real-Time Alerts
 

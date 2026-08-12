@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Genesys](https://scoutify.ai/companies/genesys?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Germany |
-| Category | Implementation / Professional Services |
-| Posted | 2026-04-28 |
-| Apply | [View on company site](https://genesys.wd1.myworkdayjobs.com/Genesys/job/Germany/Principal-Solutions-Consultant_JR110801) |
+| Location | Florida, US |
+| Category | Sales Engineer |
+| Posted | 2026-08-04 |
+| Apply | [View on company site](https://genesys.wd1.myworkdayjobs.com/Genesys/job/North-Carolina-USA/Principal-Solutions-Consultant_JR111992) |
 
 ## About This Role
 
-This implementation / professional services position at Genesys was posted on 2026-04-28.
+This sales engineer position at Genesys was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Viavi Solutions](https://scoutify.ai/companies/viavisolutions?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Mexico City, Mexico City, Mexico |
-| Category | Technical & Solutions Architect |
-| Posted | 2026-05-28 |
-| Apply | [View on company site](https://viavisolutions.wd1.myworkdayjobs.com/careers/job/Mexico-City-MEX/Solutions-Engineer_260004693-2) |
+| Location | San Jose, California, United States |
+| Category | Sales Engineer |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://viavisolutions.wd1.myworkdayjobs.com/careers/job/San-Jose-CA-USA/Solutions-Engineer_260004939-1) |
 
 ## About This Role
 
-This technical & solutions architect position at Viavi Solutions was posted on 2026-05-28.
+This sales engineer position at Viavi Solutions was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

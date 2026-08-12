@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Intuitive Surgical](https://scoutify.ai/companies/intuitivesurgical?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Pordenone, Friuli Venezia Giulia, Italy |
+| Location | Lecco, Lombardy, Italy |
 | Category | Sales Engineer |
-| Posted | 2026-07-31 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Intuitive/744000140850579-da-vinci-clinical-territory-associate) |
+| Posted | 2026-08-03 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Intuitive/744000141271510-da-vinci-clinical-territory-associate) |
 
 ## About This Role
 
-This sales engineer position at Intuitive Surgical was posted on 2026-07-31.
+This sales engineer position at Intuitive Surgical was posted on 2026-08-03.
 
 ## Get Real-Time Alerts
 

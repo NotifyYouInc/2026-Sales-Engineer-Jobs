@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Arista Networks](https://scoutify.ai/companies/aristanetworks?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Mexico City, Mexico City, Mexico |
-| Category | Technical & Solutions Architect |
-| Posted | 2026-06-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AristaNetworks/744000129852564-network-systems-engineer-pre-sales) |
+| Location | Houston, Texas, United States |
+| Category | Sales Engineer |
+| Posted | 2026-08-04 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AristaNetworks/744000141514964-network-systems-engineer-pre-sales) |
 
 ## About This Role
 
-This technical & solutions architect position at Arista Networks was posted on 2026-06-02.
+This sales engineer position at Arista Networks was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

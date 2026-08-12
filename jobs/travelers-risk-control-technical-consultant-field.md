@@ -1,16 +1,16 @@
-# Risk Control Technical Consultant Field at Travelers
+# Risk Control Technical Consultant, Field at Travelers
 
 | Field | Details |
 |-------|---------|
 | Company | [Travelers](https://scoutify.ai/companies/travelers?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | 2 locations |
-| Category | Technology / IT Consulting |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Risk-Control-Technical-Consultant-Field_R-49273) |
+| Category | Compliance & Risk Management |
+| Posted | 2026-08-04 |
+| Apply | [View on company site](https://travelers.wd5.myworkdayjobs.com/External/job/CA---Rancho-Cordova/Risk-Control-Technical-Consultant--Field_R-51877) |
 
 ## About This Role
 
-This technology / it consulting position at Travelers was posted on 2026-02-17.
+This compliance & risk management position at Travelers was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

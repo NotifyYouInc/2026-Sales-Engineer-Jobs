@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Spain |
+| Location | India |
 | Category | Sales Engineer |
-| Posted | 2026-07-13 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=125427) |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=127821) |
 
 ## About This Role
 
-This sales engineer position at IBM was posted on 2026-07-13.
+This sales engineer position at IBM was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 
