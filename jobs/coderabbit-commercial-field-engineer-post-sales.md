@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Coderabbit](https://scoutify.ai/companies/coderabbit?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | 2 locations |
-| Category | Sales Engineer |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/coderabbit/189ad2aa-d656-4d0a-a481-818839ea495f) |
+| Location | London, England, United Kingdom |
+| Category | Customer Success |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/coderabbit/73584524-cc69-47b6-9962-0f8099d9b8a4) |
 
 ## About This Role
 
-This sales engineer position at Coderabbit was posted on 2026-05-11.
+This customer success position at Coderabbit was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

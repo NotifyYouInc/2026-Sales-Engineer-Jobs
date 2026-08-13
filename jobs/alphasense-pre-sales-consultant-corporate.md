@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AlphaSense](https://scoutify.ai/companies/alphasense?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | London, England, United Kingdom |
-| Category | Customer Success |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/alphasense/jobs/8560156002) |
+| Location | United States |
+| Category | Sales Engineer |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/alphasense/jobs/8600927002) |
 
 ## About This Role
 
-This customer success position at AlphaSense was posted on 2026-05-21.
+This sales engineer position at AlphaSense was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Johnson Controls](https://scoutify.ai/companies/jci?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Pune, Maharashtra, India |
 | Category | Sales Engineer |
-| Posted | 2026-05-20 |
-| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Bangalore-Karnataka-India/Proposal-Lead_WD30269980) |
+| Posted | 2026-08-06 |
+| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Pune-Maharashtra-India/Proposal-Lead_WD30276299) |
 
 ## About This Role
 
-This sales engineer position at Johnson Controls was posted on 2026-05-20.
+This sales engineer position at Johnson Controls was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

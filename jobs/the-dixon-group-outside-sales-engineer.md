@@ -5,12 +5,12 @@
 | Company | [The Dixon Group](https://scoutify.ai/companies/recruiting-ultipro-com-oj30106?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Landisville, Pennsylvania, United States |
 | Category | Sales Engineer |
-| Posted | 2026-06-29 |
-| Apply | [View on company site](https://recruiting.ultipro.com/dvc1000/JobBoard/0242ab93-599e-ad02-de18-4ee7b0eb85e2/OpportunityDetail?opportunityId=8484492b-a7fb-443f-9e2f-cbf4f6c0d92d) |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://recruiting.ultipro.com/dvc1000/JobBoard/0242ab93-599e-ad02-de18-4ee7b0eb85e2/OpportunityDetail?opportunityId=b1239a63-9c9c-4651-863d-76f65c7d1032) |
 
 ## About This Role
 
-This sales engineer position at The Dixon Group was posted on 2026-06-29.
+This sales engineer position at The Dixon Group was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

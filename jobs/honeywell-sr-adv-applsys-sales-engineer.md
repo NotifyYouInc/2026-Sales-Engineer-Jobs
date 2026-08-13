@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Honeywell](https://scoutify.ai/companies/ocs-cx-oj53173?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Tokyo, Tokyo, Japan |
+| Location | Indonesia |
 | Category | Sales Engineer |
-| Posted | 2026-07-02 |
-| Apply | [View on company site](https://ibqbjb.fa.ocs.oraclecloud.com/jobs/#151274) |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://ibqbjb.fa.ocs.oraclecloud.com/jobs/#154689) |
 
 ## About This Role
 
-This sales engineer position at Honeywell was posted on 2026-07-02.
+This sales engineer position at Honeywell was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Hewlett Packard Enterprise](https://scoutify.ai/companies/hewlett-packard-enterprise?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Sofia, Sofia-Capital, Bulgaria |
 | Category | Customer Success |
-| Posted | 2026-04-02 |
-| Apply | [View on company site](https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/Sofia-Sofia-Bulgaria/Technical-Account-Manager-with-German_1204593) |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/Sofia-Sofia-Bulgaria/Technical-Account-Manager-with-German_1210345) |
 
 ## About This Role
 
-This customer success position at Hewlett Packard Enterprise was posted on 2026-04-02.
+This customer success position at Hewlett Packard Enterprise was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

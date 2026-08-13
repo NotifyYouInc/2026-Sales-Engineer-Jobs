@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Ann Arbor, Michigan, United States |
-| Category | Technical & Solutions Architect |
-| Posted | 2026-05-14 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckXy-gGRR9uB2gyDQSWKIIo2cv9LW21LEB7FINVFTZrnQEjsACxwdTIorKVxyt07O9pV3ml1-cusDS5-rTUXTxK3huzvyEKpJrP82XrTizx83ltVNIrD7ARp_3DJexA%3D%3D_V2&loc=US&title=Partner+Solutions+Engineer) |
+| Category | Software Engineer |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckSw0YF0yRxwB6qOGTpbwRi-n9-z3DIYUkQgCDMWTuyq5EjsA1Ny_i4WWYGw50GL0LDj17QhbIhJY6G-j3yB48A4RqfofRbj5vkOyvnCT-YmWzKqutY3iCdQEhbhlWg%3D%3D_V2&loc=US&title=Partner+Solutions+Engineer) |
 
 ## About This Role
 
-This technical & solutions architect position at Google was posted on 2026-05-14.
+This software engineer position at Google was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

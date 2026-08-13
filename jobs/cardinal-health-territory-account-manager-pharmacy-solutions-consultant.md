@@ -1,16 +1,16 @@
-# Territory Account Manager - Pharmacy Solutions Consultant at Cardinal Health
+# Territory Account Manager, Pharmacy Solutions Consultant at Cardinal Health
 
 | Field | Details |
 |-------|---------|
 | Company | [Cardinal Health](https://scoutify.ai/companies/cardinal-health?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | New York City, New York, United States |
-| Category | Account Manager |
-| Posted | 2026-05-01 |
-| Apply | [View on company site](https://cardinalhealth.wd1.myworkdayjobs.com/EXT/job/NY-New-York-FIELD-New-York-City/Territory-Account-Manager---Pharmacy-Solutions-Consultant_20180036) |
+| Location | 2 locations |
+| Category | Sales |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://cardinalhealth.wd1.myworkdayjobs.com/EXT/job/DC-District-of-Columbia-FIELD/Territory-Account-Manager--Pharmacy-Solutions-Consultant_20184966) |
 
 ## About This Role
 
-This account manager position at Cardinal Health was posted on 2026-05-01.
+This sales position at Cardinal Health was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

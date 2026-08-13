@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Adobe](https://scoutify.ai/companies/adobe-inc?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | New York City, New York, United States |
+| Location | 4 locations |
 | Category | Sales |
-| Posted | 2026-07-31 |
-| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/New-York/Product-Specialist--Firefly_R170840) |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/New-York/Product-Specialist--Firefly_R171023) |
 
 ## About This Role
 
-This sales position at Adobe was posted on 2026-07-31.
+This sales position at Adobe was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [EXFO](https://scoutify.ai/companies/exfo?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Germany |
+| Location | Australia |
 | Category | Sales Engineer |
-| Posted | 2026-07-27 |
-| Apply | [View on company site](https://exfo.wd10.myworkdayjobs.com/EXFO_Careers/job/Germany/Technical-Sales-Specialist_R-100349) |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://exfo.wd10.myworkdayjobs.com/EXFO_Careers/job/Australia/Technical-Sales-Specialist_R-100384) |
 
 ## About This Role
 
-This sales engineer position at EXFO was posted on 2026-07-27.
+This sales engineer position at EXFO was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

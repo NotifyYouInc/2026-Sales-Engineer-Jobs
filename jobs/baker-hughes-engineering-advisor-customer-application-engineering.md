@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Baker Hughes](https://scoutify.ai/companies/baker-hughes?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Houston, Texas, United States |
+| Location | 2 locations |
 | Category | Sales Engineer |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://bakerhughes.wd5.myworkdayjobs.com/BakerHughes/job/US-TX-HOUSTON-575-N-DAIRY-ASHFORD-RD-ENERGY-CENTER-II-EC2/Engineering-Advisor---Customer-Application-Engineering_R159604) |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://bakerhughes.wd5.myworkdayjobs.com/BakerHughes/job/CN-BEIJING-12-TAIYANGGONG-MIDDLE-RD-CHAOYANG-DISTRICT/Engineering-Advisor---Customer-Application-Engineering_R167517) |
 
 ## About This Role
 
-This sales engineer position at Baker Hughes was posted on 2026-04-24.
+This sales engineer position at Baker Hughes was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

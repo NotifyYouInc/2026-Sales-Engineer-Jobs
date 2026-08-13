@@ -5,12 +5,12 @@
 | Company | [Wabtec](https://scoutify.ai/companies/wabtec?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Governador Valadares, Minas Gerais, Brazil |
 | Category | Sales Engineer |
-| Posted | 2026-07-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wabtec/3743990014251386-estagio-de-engenharia-em-desenvolvimento-de-negocios) |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Wabtec/3743990014449397-estagio-de-engenharia-em-desenvolvimento-de-negocios) |
 
 ## About This Role
 
-This sales engineer position at Wabtec was posted on 2026-07-23.
+This sales engineer position at Wabtec was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

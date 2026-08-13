@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [General Dynamics Information Technology](https://scoutify.ai/companies/general-dynamics-information-technology?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Norfolk, Virginia, United States |
+| Location | Portsmouth, Virginia, United States |
 | Category | Sales Engineer |
-| Posted | 2026-07-30 |
-| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-VA-Norfolk---Norfolk-Naval-Base-VAC200/ADNS-Field-Engineer_RQ225126-1) |
+| Posted | 2026-08-06 |
+| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-VA-Portsmouth/ADNS-Field-Engineer_RQ225481-1) |
 
 ## About This Role
 
-This sales engineer position at General Dynamics Information Technology was posted on 2026-07-30.
+This sales engineer position at General Dynamics Information Technology was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

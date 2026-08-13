@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Alkami Technology](https://scoutify.ai/companies/alkami-technology?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | United States |
-| Category | Sales |
+| Category | Sales Leadership |
 | Posted | 2026-08-04 |
 | Apply | [View on company site](https://alkami.wd12.myworkdayjobs.com/alkami/job/US-Remote/Manager--Sales-Engineering_JR-000804-1) |
 
 ## About This Role
 
-This sales position at Alkami Technology was posted on 2026-08-04.
+This sales leadership position at Alkami Technology was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

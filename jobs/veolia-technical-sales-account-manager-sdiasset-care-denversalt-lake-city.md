@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Veolia](https://scoutify.ai/companies/veolia?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Commerce City, Colorado, United States |
-| Category | Account Manager |
-| Posted | 2026-07-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000139617464-technical-sales-account-manager-sdiasset-care-denversalt-lake-city) |
+| Category | Sales |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000141779109-technical-sales-account-manager-sdiasset-care-denversalt-lake-city) |
 
 ## About This Role
 
-This account manager position at Veolia was posted on 2026-07-24.
+This sales position at Veolia was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

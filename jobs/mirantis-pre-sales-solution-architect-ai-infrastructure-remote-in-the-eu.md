@@ -6,7 +6,7 @@
 | Location | Zürich, Zurich, Switzerland |
 | Category | Technical & Solutions Architect |
 | Posted | 2026-08-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/mirantis/744000141341749-pre-sales-solution-architect-ai-infrastructure-remote-in-the-eu) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/mirantis/744000141347264-pre-sales-solution-architect-ai-infrastructure-remote-in-the-eu) |
 
 ## About This Role
 

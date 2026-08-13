@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sika](https://scoutify.ai/companies/sika?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Mumbai, Maharashtra, India |
-| Category | Account Manager |
-| Posted | 2026-06-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SikaAG/744000132847989-national-specification-manager-industrial-segment) |
+| Location | Navi Mumbai, Maharashtra, India |
+| Category | Sales Engineer |
+| Posted | 2026-08-06 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SikaAG/744000141853679-national-specification-manager-industrial-segment) |
 
 ## About This Role
 
-This account manager position at Sika was posted on 2026-06-18.
+This sales engineer position at Sika was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

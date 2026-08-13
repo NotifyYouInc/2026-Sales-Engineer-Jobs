@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Braze](https://scoutify.ai/companies/braze?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Madrid, Madrid, Spain |
-| Category | Implementation / Professional Services |
-| Posted | 2026-06-08 |
-| Apply | [View on company site](https://boards.greenhouse.io/braze/jobs/7982646?gh_jid=7982646) |
+| Location | London, England, United Kingdom |
+| Category | Sales Engineer |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://boards.greenhouse.io/braze/jobs/8053015?gh_jid=8053015) |
 
 ## About This Role
 
-This implementation / professional services position at Braze was posted on 2026-06-08.
+This sales engineer position at Braze was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

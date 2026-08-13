@@ -5,12 +5,12 @@
 | Company | [Agilent Technologies](https://scoutify.ai/companies/agilent-technologies?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Chengdu, Sichuan, China |
 | Category | Sales Engineer |
-| Posted | 2026-05-09 |
-| Apply | [View on company site](https://agilent.wd5.myworkdayjobs.com/Agilent_Student_Careers/job/China-Remote-Location-Chengdu/2026---_4035729) |
+| Posted | 2026-08-06 |
+| Apply | [View on company site](https://agilent.wd5.myworkdayjobs.com/Agilent_Student_Careers/job/China-Remote-Location-Chengdu/Account-Manager_4039064) |
 
 ## About This Role
 
-This sales engineer position at Agilent Technologies was posted on 2026-05-09.
+This sales engineer position at Agilent Technologies was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Delinea](https://scoutify.ai/companies/delinea?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | United States |
-| Category | Product Marketing |
+| Category | Marketing |
 | Posted | 2026-08-04 |
 | Apply | [View on company site](https://jobs.ashbyhq.com/delinea/c87a39e6-cbf7-4e11-8c1e-856c178b637f) |
 
 ## About This Role
 
-This product marketing position at Delinea was posted on 2026-08-04.
+This marketing position at Delinea was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

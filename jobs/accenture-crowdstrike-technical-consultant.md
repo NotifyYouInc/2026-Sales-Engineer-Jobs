@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Chicago, Illinois, United States |
+| Location | London, England, United Kingdom |
 | Category | Sales Engineer |
-| Posted | 2026-07-29 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Chicago-Accenture-Tower-Corp/Crowdstrike-Technical-Consultant_R00344784) |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/London/Crowdstrike-Technical-Consultant_R00346247) |
 
 ## About This Role
 
-This sales engineer position at Accenture was posted on 2026-07-29.
+This sales engineer position at Accenture was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Thermo Fisher Scientific](https://scoutify.ai/companies/thermo-fisher-scientific?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Mumbai, Maharashtra, India |
+| Location | Hyderabad, Telangana, India |
 | Category | Sales Engineer |
-| Posted | 2026-08-03 |
-| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Mumbai-India/Field-Applications-Scientist_R-01363073) |
+| Posted | 2026-08-04 |
+| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Hyderabad-India/Field-Applications-Scientist_R-01363074) |
 
 ## About This Role
 
-This sales engineer position at Thermo Fisher Scientific was posted on 2026-08-03.
+This sales engineer position at Thermo Fisher Scientific was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

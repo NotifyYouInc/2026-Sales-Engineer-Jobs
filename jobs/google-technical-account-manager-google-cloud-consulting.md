@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | 4 locations |
+| Location | Bangkok, Bangkok, Thailand |
 | Category | Customer Success |
-| Posted | 2026-07-29 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckYYYcqL2AKiXYE7zC7_gUadorMSqGKuVgoKEfvuHPATXEjoA1Ny_i5V4uwuBDh-E7nLbNP9hqlJT7RiaPJaoxvCwN2VN531EQdv65qwRJXCpinTSrtZ6B4pcNngU_V2&loc=US&title=Technical+Account+Manager) |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckUYHiLxTCwXKzP11vl5NCbzMaMgb1PosRdjHMvaCajd5EjsA1Ny_i1JEYaWhc0w6yHvxDwEHymgUyeNdqxFXunM1_yMwCy70IXvTZTEr4wDZwOH4hgTp14j19Z_O5A%3D%3D_V2&loc=TH&title=Technical+Account+Manager) |
 
 ## About This Role
 
-This customer success position at Google was posted on 2026-07-29.
+This customer success position at Google was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

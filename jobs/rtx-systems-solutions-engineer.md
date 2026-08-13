@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [RTX](https://scoutify.ai/companies/rtx?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Warminster, England, United Kingdom |
-| Category | DevOps Engineer |
-| Posted | 2026-05-08 |
-| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/Warminster-Wiltshire/Systems-Solutions-Engineer_01844243-1) |
+| Category | Sales Engineer |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/Warminster-Wiltshire/Systems-Solutions-Engineer_01860169) |
 
 ## About This Role
 
-This devops engineer position at RTX was posted on 2026-05-08.
+This sales engineer position at RTX was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 
