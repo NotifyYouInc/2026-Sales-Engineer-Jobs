@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Intuitive Surgical](https://scoutify.ai/companies/intuitivesurgical?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Salt Lake City, Utah, United States |
+| Location | Allentown, Pennsylvania, United States |
 | Category | Sales Engineer |
-| Posted | 2026-06-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Intuitive/744000131902482-endoluminal-territory-associate-future-opportunity) |
+| Posted | 2026-08-06 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Intuitive/744000141955150-endoluminal-territory-associate-future-opportunity) |
 
 ## About This Role
 
-This sales engineer position at Intuitive Surgical was posted on 2026-06-12.
+This sales engineer position at Intuitive Surgical was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

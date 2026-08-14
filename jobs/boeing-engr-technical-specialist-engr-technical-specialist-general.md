@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Boeing](https://scoutify.ai/companies/boeing?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Oklahoma City, Oklahoma, United States |
-| Category | Technical Writer |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Oklahoma-City-OK/Engr-Technical-Specialist--Engr-Technical-Specialist-General-_JR2026492542-2) |
+| Location | Berkeley, California, United States |
+| Category | Electrical / Hardware Engineer |
+| Posted | 2026-08-06 |
+| Apply | [View on company site](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Berkeley-MO/Engr-Technical-Specialist--Engr-Technical-Specialist-General-_JR2026520116) |
 
 ## About This Role
 
-This technical writer position at Boeing was posted on 2026-02-20.
+This electrical / hardware engineer position at Boeing was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

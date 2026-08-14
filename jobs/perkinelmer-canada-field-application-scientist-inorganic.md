@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [PerkinElmer Canada](https://scoutify.ai/companies/perkinelmer-canada?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Beijing, Beijing, China |
+| Location | Vadodara, Gujarat, India |
 | Category | Sales Engineer |
-| Posted | 2026-07-31 |
-| Apply | [View on company site](https://newperkinelmer.wd1.myworkdayjobs.com/external/job/Beijing/Field-Application-Scientist---Inorganic_REQ-057745) |
+| Posted | 2026-08-06 |
+| Apply | [View on company site](https://newperkinelmer.wd1.myworkdayjobs.com/external/job/Vadodara/Field-Application-Scientist_REQ-058131) |
 
 ## About This Role
 
-This sales engineer position at PerkinElmer Canada was posted on 2026-07-31.
+This sales engineer position at PerkinElmer Canada was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

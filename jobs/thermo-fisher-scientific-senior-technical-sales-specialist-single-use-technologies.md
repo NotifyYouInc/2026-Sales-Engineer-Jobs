@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Thermo Fisher Scientific](https://scoutify.ai/companies/thermo-fisher-scientific?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Belgium |
+| Location | Ireland |
 | Category | Sales Engineer |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Remote-Netherlands/Senior-Technical-Sales-Specialist--Single-Use-Technologies_R-01353226) |
+| Posted | 2026-08-06 |
+| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Remote-Ireland/Senior-Technical-Sales-Specialist--Single-Use-Technologies_R-01362386) |
 
 ## About This Role
 
-This sales engineer position at Thermo Fisher Scientific was posted on 2026-05-21.
+This sales engineer position at Thermo Fisher Scientific was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Unit4](https://scoutify.ai/companies/unit44?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Granada, Andalusia, Spain |
+| Location | Lisbon, Lisbon, Portugal |
 | Category | Sales Engineer |
-| Posted | 2026-07-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Unit44/744000139949569-erp-technical-consultant-dutch-speaker) |
+| Posted | 2026-08-06 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Unit44/744000141908439-erp-technical-consultant-dutch-speaker) |
 
 ## About This Role
 
-This sales engineer position at Unit4 was posted on 2026-07-27.
+This sales engineer position at Unit4 was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

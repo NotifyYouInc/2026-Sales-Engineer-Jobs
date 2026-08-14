@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Apple](https://scoutify.ai/companies/apple?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Singapore, Singapore |
-| Category | Sales Engineer |
-| Posted | 2026-07-17 |
-| Apply | [View on company site](https://jobs.apple.com/en-us/details/200672858/cdn-solutions-engineer) |
+| Location | Cupertino, California, United States |
+| Category | Software Engineer |
+| Posted | 2026-08-06 |
+| Apply | [View on company site](https://jobs.apple.com/en-us/details/200672206/cdn-solutions-engineer) |
 
 ## About This Role
 
-This sales engineer position at Apple was posted on 2026-07-17.
+This software engineer position at Apple was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

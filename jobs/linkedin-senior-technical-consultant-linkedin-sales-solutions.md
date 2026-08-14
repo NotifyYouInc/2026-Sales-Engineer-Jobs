@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [LinkedIn](https://scoutify.ai/companies/linkedin?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Paris, Île-de-France, France |
+| Location | Dublin, Leinster, Ireland |
 | Category | Sales Engineer |
-| Posted | 2026-07-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/LinkedIn3/744000139109349-senior-technical-consultant-linkedin-sales-solutions) |
+| Posted | 2026-08-06 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/LinkedIn3/744000141891679-senior-technical-consultant-linkedin-sales-solutions) |
 
 ## About This Role
 
-This sales engineer position at LinkedIn was posted on 2026-07-22.
+This sales engineer position at LinkedIn was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

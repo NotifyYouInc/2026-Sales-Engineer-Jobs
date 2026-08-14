@@ -1,16 +1,16 @@
-# Pre-Sales Account Technical Lead – UK & Ireland at Autodesk
+# Pre-Sales Account Technical Lead - UK & Ireland at Autodesk
 
 | Field | Details |
 |-------|---------|
 | Company | [Autodesk](https://scoutify.ai/companies/autodesk?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | United Kingdom |
-| Category | Technical & Solutions Architect |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://autodesk.wd1.myworkdayjobs.com/Ext/job/United-Kingdom---Remote/Pre-Sales-Account-Technical-Lead---UK---Ireland_26WD97492-1) |
+| Location | 3 locations |
+| Category | Software Engineer |
+| Posted | 2026-08-06 |
+| Apply | [View on company site](https://autodesk.wd1.myworkdayjobs.com/Ext/job/United-Kingdom---Remote/Pre-Sales-Account-Technical-Lead---UK---Ireland_26WD100329-1) |
 
 ## About This Role
 
-This technical & solutions architect position at Autodesk was posted on 2026-04-24.
+This software engineer position at Autodesk was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

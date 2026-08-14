@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Uline](https://scoutify.ai/companies/uline?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Pleasant Prairie, Wisconsin, United States |
-| Category | Software Engineer |
-| Posted | 2026-05-07 |
-| Apply | [View on company site](https://uline.wd1.myworkdayjobs.com/Uline_Careers/job/Pleasant-Prairie-WI/Microsoft-Solutions-Engineer_R263822-2) |
+| Location | 5 locations |
+| Category | IT & Systems Administration |
+| Posted | 2026-08-06 |
+| Apply | [View on company site](https://uline.wd1.myworkdayjobs.com/Uline_Careers/job/Pleasant-Prairie-WI/Microsoft-Solutions-Engineer_R266261-1) |
 
 ## About This Role
 
-This software engineer position at Uline was posted on 2026-05-07.
+This it & systems administration position at Uline was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

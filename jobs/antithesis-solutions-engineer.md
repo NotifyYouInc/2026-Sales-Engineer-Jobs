@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Antithesis](https://scoutify.ai/companies/antithesis?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Singapore, Singapore |
+| Location | Japan |
 | Category | Sales Engineer |
-| Posted | 2026-07-29 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/antithesis/840e5ce0-9fb0-4623-8b30-81b1629d8345) |
+| Posted | 2026-08-06 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/antithesis/26d53e9b-5b45-490a-afbd-df578b5d4d91) |
 
 ## About This Role
 
-This sales engineer position at Antithesis was posted on 2026-07-29.
+This sales engineer position at Antithesis was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

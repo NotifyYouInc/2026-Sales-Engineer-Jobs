@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Scopely](https://scoutify.ai/companies/scopely?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Shanghai, Shanghai, China |
-| Category | Mobile Engineer |
-| Posted | 2026-06-05 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/scopely/jobs/5196204008?gh_jid=5196204008) |
+| Location | Barcelona, Catalonia, Spain |
+| Category | Software Engineer |
+| Posted | 2026-08-06 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/scopely/jobs/5342840008?gh_jid=5342840008) |
 
 ## About This Role
 
-This mobile engineer position at Scopely was posted on 2026-06-05.
+This software engineer position at Scopely was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

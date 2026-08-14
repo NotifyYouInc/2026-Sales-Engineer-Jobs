@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Fivetran](https://scoutify.ai/companies/fivetran?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Illinois, US |
+| Location | 2 locations |
 | Category | Sales Engineer |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://www.fivetran.com/careers/job?gh_jid=7743196003) |
+| Posted | 2026-08-06 |
+| Apply | [View on company site](https://www.fivetran.com/careers/job?gh_jid=7822654003) |
 
 ## About This Role
 
-This sales engineer position at Fivetran was posted on 2026-05-21.
+This sales engineer position at Fivetran was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

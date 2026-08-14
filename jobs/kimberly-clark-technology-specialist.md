@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Kimberly-Clark](https://scoutify.ai/companies/kimberly-clark?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | LaGrange, Georgia, United States |
+| Location | Neenah, Wisconsin, United States |
 | Category | IT & Systems Administration |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://kimberlyclark.wd1.myworkdayjobs.com/global/job/USA-GA-LaGrange/Technology-Specialist_885284) |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://kimberlyclark.wd1.myworkdayjobs.com/global/job/USA-WI-Neenah/Technology-Specialist_886636-1) |
 
 ## About This Role
 
-This it & systems administration position at Kimberly-Clark was posted on 2026-05-05.
+This it & systems administration position at Kimberly-Clark was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

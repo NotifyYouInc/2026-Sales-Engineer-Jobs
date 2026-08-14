@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Veolia](https://scoutify.ai/companies/veolia?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Tomball, Texas, United States |
-| Category | Sales |
+| Category | Asset Management / Portfolio Management |
 | Posted | 2026-08-05 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000141779569-technical-sales-account-manager-sdi-asset-care) |
 
 ## About This Role
 
-This sales position at Veolia was posted on 2026-08-05.
+This asset management / portfolio management position at Veolia was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 
