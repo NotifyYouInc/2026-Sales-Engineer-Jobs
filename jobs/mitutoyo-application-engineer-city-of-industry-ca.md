@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Mitutoyo](https://scoutify.ai/companies/recruiting2-ultipro-com-oj69975?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | California, US |
-| Category | Software Engineer |
+| Category | Sales Engineer |
 | Posted | 2026-08-05 |
 | Apply | [View on company site](https://recruiting2.ultipro.com/mit1004mta/JobBoard/bb216e86-609a-4fdb-8eda-111fd9e9c1c6/OpportunityDetail?opportunityId=ba344046-c4a7-4aff-a10f-f7ee857e3f48) |
 
 ## About This Role
 
-This software engineer position at Mitutoyo was posted on 2026-08-05.
+This sales engineer position at Mitutoyo was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

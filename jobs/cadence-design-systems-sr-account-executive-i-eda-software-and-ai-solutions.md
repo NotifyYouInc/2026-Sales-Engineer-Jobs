@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Cadence Design Systems](https://scoutify.ai/companies/cadence-design-systems?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | 2 locations |
-| Category | Account Executive |
+| Category | Sales Engineer |
 | Posted | 2026-08-06 |
 | Apply | [View on company site](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/BEIJING/Sr-Account-Executive-I--EDA-Software-and-AI-solutions-_R55781-1) |
 
 ## About This Role
 
-This account executive position at Cadence Design Systems was posted on 2026-08-06.
+This sales engineer position at Cadence Design Systems was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

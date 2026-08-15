@@ -5,12 +5,12 @@
 | Company | [Johnson Controls](https://scoutify.ai/companies/jci?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Vaud, CH |
 | Category | Sales Engineer |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Mont-sur-Lausanne-Vaud-Switzerland/Ingnieur-Commercial---Froid-Industriel--f-h-d-_WD30267656) |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Mont-sur-Lausanne-Vaud-Switzerland/Ingnieur-Commercial---Froid-Industriel--f-h-d-_WD30266909-3) |
 
 ## About This Role
 
-This sales engineer position at Johnson Controls was posted on 2026-04-21.
+This sales engineer position at Johnson Controls was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

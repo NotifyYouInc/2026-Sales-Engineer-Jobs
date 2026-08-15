@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Paris, Île-de-France, France |
-| Category | Customer Success |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckdV90K5K2auS0LA1R1A6uWTuP_VLw0NfHjjq79ZESpXyEjoACxwdTOVXge45iBxDjMAIk0QSEurP8j5oJODT1ZI_gHNhT2yf3JNuVL5UvmTMTqn-FGlePgzr_tFE_V2&loc=FR&title=Technical+Account+Manager) |
+| Category | Sales Engineer |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckU1KjxA9nTUCzPLLlQPJzsx0ks37f868l3INKGa_wBJaEjsA1Ny_i4dfoxtJuyB8ID-eEsRBiTfGdcUFTifm7hEPtEpFoP5dS1xBHr4kV-_22j24ROS6X4HzFqgsMQ%3D%3D_V2&loc=FR&title=Technical+Account+Manager) |
 
 ## About This Role
 
-This customer success position at Google was posted on 2026-05-22.
+This sales engineer position at Google was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

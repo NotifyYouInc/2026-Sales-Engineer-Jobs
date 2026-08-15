@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Nvidia](https://scoutify.ai/companies/nvidia?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Santa Clara, California, United States |
-| Category | Software Engineer |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Solution-Engineer--Networking_JR2016634) |
+| Location | 6 locations |
+| Category | Sales Engineer |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Solution-Engineer--Networking_JR2022908) |
 
 ## About This Role
 
-This software engineer position at Nvidia was posted on 2026-04-23.
+This sales engineer position at Nvidia was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

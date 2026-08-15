@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Sabre](https://scoutify.ai/companies/sabre?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Montevideo, Montevideo Department, Uruguay |
-| Category | Customer Success |
+| Category | Sales Engineer |
 | Posted | 2026-08-05 |
 | Apply | [View on company site](https://sabre.wd1.myworkdayjobs.com/sabrejobs/job/ZonAmerica-Montevideo-Uruguay/Technical-product-specialist-I_JR108386) |
 
 ## About This Role
 
-This customer success position at Sabre was posted on 2026-08-05.
+This sales engineer position at Sabre was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

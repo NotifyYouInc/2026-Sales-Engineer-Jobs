@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Ultra Cleaning Service](https://scoutify.ai/companies/ultra-cleaning-service?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Phoenix, Arizona, United States |
-| Category | Customer Success |
+| Category | Sales Engineer |
 | Posted | 2026-08-05 |
 | Apply | [View on company site](https://recruiting2.ultipro.com/ult1005uch/JobBoard/93be8725-1d6c-4162-aba5-e796cf8ea1b5/OpportunityDetail?opportunityId=14a85c41-6c02-46f6-be70-2f3ab9497b52) |
 
 ## About This Role
 
-This customer success position at Ultra Cleaning Service was posted on 2026-08-05.
+This sales engineer position at Ultra Cleaning Service was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

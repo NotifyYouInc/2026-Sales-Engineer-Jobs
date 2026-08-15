@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Computershare](https://scoutify.ai/companies/ocs-cx-oj25273?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Bristol, England, United Kingdom |
-| Category | Product Manager |
+| Category | Sales Engineer |
 | Posted | 2026-08-07 |
 | Apply | [View on company site](https://fa-evdq-saasfaprod1.fa.ocs.oraclecloud.com/jobs/#12515) |
 
 ## About This Role
 
-This product manager position at Computershare was posted on 2026-08-07.
+This sales engineer position at Computershare was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

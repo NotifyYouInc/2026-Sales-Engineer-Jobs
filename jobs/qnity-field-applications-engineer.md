@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Qnity](https://scoutify.ai/companies/qnity?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Shenzhen, Guangdong, China |
-| Category | Software Engineer |
+| Category | Sales Engineer |
 | Posted | 2026-08-05 |
 | Apply | [View on company site](https://qnity.wd503.myworkdayjobs.com/jobs/job/Shenzhen-Baoan-Guangdong/Field-Applications-Engineer_249659W) |
 
 ## About This Role
 
-This software engineer position at Qnity was posted on 2026-08-05.
+This sales engineer position at Qnity was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

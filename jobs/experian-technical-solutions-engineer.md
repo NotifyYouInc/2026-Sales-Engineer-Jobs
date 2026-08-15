@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Experian](https://scoutify.ai/companies/experian?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Hyderabad, Telangana, India |
-| Category | Customer Success |
+| Category | Sales Engineer |
 | Posted | 2026-08-07 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000142051450-technical-solutions-engineer) |
 
 ## About This Role
 
-This customer success position at Experian was posted on 2026-08-07.
+This sales engineer position at Experian was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

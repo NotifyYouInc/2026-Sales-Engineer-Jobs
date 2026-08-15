@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Akamai](https://scoutify.ai/companies/ocs-cx-oj3301?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Japan |
-| Category | Account Executive |
+| Category | Sales Engineer |
 | Posted | 2026-08-07 |
 | Apply | [View on company site](https://fa-extu-saasfaprod1.fa.ocs.oraclecloud.com/jobs/#3439) |
 
 ## About This Role
 
-This account executive position at Akamai was posted on 2026-08-07.
+This sales engineer position at Akamai was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

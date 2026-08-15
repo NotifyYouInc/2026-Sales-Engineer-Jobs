@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Apple](https://scoutify.ai/companies/apple?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Whitehall, Ohio, United States |
-| Category | Customer Success |
+| Category | Sales Engineer |
 | Posted | 2026-08-05 |
 | Apply | [View on company site](https://jobs.apple.com/en-us/details/200676189/us-technical-specialist) |
 
 ## About This Role
 
-This customer success position at Apple was posted on 2026-08-05.
+This sales engineer position at Apple was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Red Hat](https://scoutify.ai/companies/red-hat?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | North Carolina, US |
-| Category | Customer Success |
+| Category | Sales Engineer |
 | Posted | 2026-08-05 |
 | Apply | [View on company site](https://redhat.wd5.myworkdayjobs.com/Jobs/job/Remote-US-NC/Technical-Account-Manager_R-058538-1) |
 
 ## About This Role
 
-This customer success position at Red Hat was posted on 2026-08-05.
+This sales engineer position at Red Hat was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

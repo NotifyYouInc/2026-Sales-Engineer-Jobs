@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Carrier Global](https://scoutify.ai/companies/carrier?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Phoenix, Arizona, United States |
-| Category | Industrial Automation |
-| Posted | 2026-08-05 |
-| Apply | [View on company site](https://carrier.wd5.myworkdayjobs.com/jobs/job/CAA11-ALC-West-AZ-4615-South-33rd-Place-Phoenix-AZ-85040-USA/Associate-Field-Engineer---Automated-Logic_30214597) |
+| Location | Charlotte, North Carolina, United States |
+| Category | Sales Engineer |
+| Posted | 2026-08-06 |
+| Apply | [View on company site](https://carrier.wd5.myworkdayjobs.com/jobs/job/CAN05-CCS-Charlotte-5900-Northwoods-Business-Parkway-Charlotte-NC-28269-USA/Associate-Field-Engineer---Automated-Logic_30215155) |
 
 ## About This Role
 
-This industrial automation position at Carrier Global was posted on 2026-08-05.
+This sales engineer position at Carrier Global was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

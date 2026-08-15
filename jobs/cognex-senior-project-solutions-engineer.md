@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cognex](https://scoutify.ai/companies/cognex?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Shenzhen, Guangdong, China |
+| Location | Suzhou, Jiangsu, China |
 | Category | Sales Engineer |
-| Posted | 2026-03-12 |
-| Apply | [View on company site](https://cognex.wd1.myworkdayjobs.com/External_Career_Site/job/Shenzhen-China/Senior-Project-Solutions-Engineer_R0011735) |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://cognex.wd1.myworkdayjobs.com/External_Career_Site/job/Suzhou-China/Senior-Project-Solutions-Engineer_R0012286) |
 
 ## About This Role
 
-This sales engineer position at Cognex was posted on 2026-03-12.
+This sales engineer position at Cognex was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

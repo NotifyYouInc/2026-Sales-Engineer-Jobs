@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [i3 Verticals](https://scoutify.ai/companies/recruiting2-ultipro-com-oj53367?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Not specified |
-| Category | Customer Success |
+| Category | Sales Engineer |
 | Posted | 2026-08-06 |
 | Apply | [View on company site](https://recruiting2.ultipro.com/ive1000ivec/JobBoard/ec3e4530-b925-46c7-8da5-602b6abf81e7/OpportunityDetail?opportunityId=71325bc3-9393-4775-90ba-9405655c7a46) |
 
 ## About This Role
 
-This customer success position at i3 Verticals was posted on 2026-08-06.
+This sales engineer position at i3 Verticals was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

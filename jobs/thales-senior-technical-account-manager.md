@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Thales](https://scoutify.ai/companies/thales?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Customer Success |
+| Category | Sales Engineer |
 | Posted | 2026-08-06 |
 | Apply | [View on company site](https://thales.wd3.myworkdayjobs.com/Careers/job/Bangalore---Indraprastha/Senior-Technical-Account-Manager_R0333742-1) |
 
 ## About This Role
 
-This customer success position at Thales was posted on 2026-08-06.
+This sales engineer position at Thales was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

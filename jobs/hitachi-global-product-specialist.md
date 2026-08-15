@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Hitachi](https://scoutify.ai/companies/hitachi?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Stoney Creek, Ontario, Canada |
-| Category | Product Manager |
+| Category | Sales Engineer |
 | Posted | 2026-08-05 |
 | Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Stoney-Creek-Ontario-Canada/Global-Product-Specialist_R0122008) |
 
 ## About This Role
 
-This product manager position at Hitachi was posted on 2026-08-05.
+This sales engineer position at Hitachi was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

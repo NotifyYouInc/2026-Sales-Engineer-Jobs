@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Autodesk](https://scoutify.ai/companies/autodesk?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | 3 locations |
-| Category | Software Engineer |
+| Category | Sales Engineer |
 | Posted | 2026-08-06 |
 | Apply | [View on company site](https://autodesk.wd1.myworkdayjobs.com/Ext/job/United-Kingdom---Remote/Pre-Sales-Account-Technical-Lead---UK---Ireland_26WD100329-1) |
 
 ## About This Role
 
-This software engineer position at Autodesk was posted on 2026-08-06.
+This sales engineer position at Autodesk was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

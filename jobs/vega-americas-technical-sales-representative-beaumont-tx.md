@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [VEGA Americas](https://scoutify.ai/companies/vegaamericas?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Beaumont, Texas, United States |
-| Category | Account Executive |
+| Category | Sales Engineer |
 | Posted | 2026-08-05 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/vegaamericas/jobs/4701966006) |
 
 ## About This Role
 
-This account executive position at VEGA Americas was posted on 2026-08-05.
+This sales engineer position at VEGA Americas was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

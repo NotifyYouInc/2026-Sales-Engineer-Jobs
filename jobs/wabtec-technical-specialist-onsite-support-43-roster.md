@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Wabtec](https://scoutify.ai/companies/wabtec?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Antofagasta, Antofagasta, Chile |
-| Category | Customer Success |
-| Posted | 2026-08-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wabtec/3743990014432036-technical-specialist-onsite-support-43-roster) |
+| Category | Sales Engineer |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Wabtec/3743990014491156-technical-specialist-onsite-support-43-roster) |
 
 ## About This Role
 
-This customer success position at Wabtec was posted on 2026-08-04.
+This sales engineer position at Wabtec was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

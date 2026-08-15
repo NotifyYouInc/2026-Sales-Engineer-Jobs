@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Smiths Group](https://scoutify.ai/companies/smithsgroup?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | North Carolina, US |
-| Category | Software Engineer |
+| Category | Sales Engineer |
 | Posted | 2026-08-05 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/SmithsGroup2/744000141789089-applications-engineer) |
 
 ## About This Role
 
-This software engineer position at Smiths Group was posted on 2026-08-05.
+This sales engineer position at Smiths Group was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Aquabyte](https://scoutify.ai/companies/aquabyte?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Bergen, Vestland, Norway |
-| Category | Customer Success |
+| Category | Sales Engineer |
 | Posted | 2026-08-05 |
 | Apply | [View on company site](https://jobs.lever.co/aquabyte/2ace2e34-e3a7-4e12-9f99-ddd685f9ff59) |
 
 ## About This Role
 
-This customer success position at Aquabyte was posted on 2026-08-05.
+This sales engineer position at Aquabyte was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

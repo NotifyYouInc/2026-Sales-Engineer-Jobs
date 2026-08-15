@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Autodesk](https://scoutify.ai/companies/autodesk?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Tokyo, Tokyo, Japan |
-| Category | Customer Success |
+| Category | Sales Engineer |
 | Posted | 2026-08-06 |
 | Apply | [View on company site](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Tokyo-JPN/Senior-Implementation-Consultant--Manufacturing-_26WD100439) |
 
 ## About This Role
 
-This customer success position at Autodesk was posted on 2026-08-06.
+This sales engineer position at Autodesk was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Graybar](https://scoutify.ai/companies/graybar?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Not specified |
+| Location | Dallas, Texas, United States |
 | Category | Sales Engineer |
-| Posted | 2026-06-15 |
-| Apply | [View on company site](https://graybar.wd1.myworkdayjobs.com/Careers/job/Access-Only/Sales-Engineer---Industrial-Automation_R262194-1) |
+| Posted | 2026-08-08 |
+| Apply | [View on company site](https://graybar.wd1.myworkdayjobs.com/Careers/job/Dallas-TX/Sales-Engineer---Industrial-Automation_R263055-1) |
 
 ## About This Role
 
-This sales engineer position at Graybar was posted on 2026-06-15.
+This sales engineer position at Graybar was posted on 2026-08-08.
 
 ## Get Real-Time Alerts
 

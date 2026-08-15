@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Hitachi](https://scoutify.ai/companies/hitachi?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Los Angeles, California, United States |
+| Location | New Jersey, US |
 | Category | Sales Engineer |
-| Posted | 2026-07-29 |
-| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/DEAI-HV-US-Remote-CA---Los-Angeles--Orange-County/Presales-Solution-Consultant_R0139734-1) |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/DEAI-HV-US-Remote-NY---New-York-City/Presales-Solution-Consultant_R0140718) |
 
 ## About This Role
 
-This sales engineer position at Hitachi was posted on 2026-07-29.
+This sales engineer position at Hitachi was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

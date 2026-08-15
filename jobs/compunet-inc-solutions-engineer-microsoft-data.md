@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [CompuNet, Inc.](https://scoutify.ai/companies/compunet-inc?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | 6 locations |
-| Category | Data Engineer |
+| Category | Sales Engineer |
 | Posted | 2026-08-05 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/compunetinc/jobs/5379562008) |
 
 ## About This Role
 
-This data engineer position at CompuNet, Inc. was posted on 2026-08-05.
+This sales engineer position at CompuNet, Inc. was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

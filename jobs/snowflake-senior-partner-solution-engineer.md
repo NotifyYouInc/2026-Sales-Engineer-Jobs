@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Snowflake](https://scoutify.ai/companies/snowflake?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Madrid, Madrid, Spain |
+| Location | Mumbai, Maharashtra, India |
 | Category | Sales Engineer |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/snowflake/2bf1088a-61c7-4e2b-ab28-2974e1eaaf15) |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/snowflake/67c2aa6c-37eb-430f-b7e5-9063dd4d4c8d) |
 
 ## About This Role
 
-This sales engineer position at Snowflake was posted on 2026-02-18.
+This sales engineer position at Snowflake was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

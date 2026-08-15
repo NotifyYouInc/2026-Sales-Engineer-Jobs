@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Treasury Wine Estates](https://scoutify.ai/companies/us2-cx-oj112475?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Melbourne, Victoria, Australia |
-| Category | Product Manager |
+| Category | Sales Engineer |
 | Posted | 2026-08-06 |
 | Apply | [View on company site](https://ebpm.fa.us2.oraclecloud.com/jobs/#1005130) |
 
 ## About This Role
 
-This product manager position at Treasury Wine Estates was posted on 2026-08-06.
+This sales engineer position at Treasury Wine Estates was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

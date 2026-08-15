@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [uft](https://scoutify.ai/companies/uft?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Delaware, US |
+| Location | Lansdale, Pennsylvania, United States |
 | Category | Sales Engineer |
-| Posted | 2026-06-12 |
-| Apply | [View on company site](https://jobs.lever.co/uft/d4414279-6493-4852-bd8c-bfaa646fa57e) |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://jobs.lever.co/uft/2df0124a-b324-40ac-afb0-94b2bbf359a7) |
 
 ## About This Role
 
-This sales engineer position at uft was posted on 2026-06-12.
+This sales engineer position at uft was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

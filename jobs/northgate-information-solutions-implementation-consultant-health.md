@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Northgate Information Solutions](https://scoutify.ai/companies/northgateinformationsolutions?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Hemel Hempstead, England, United Kingdom |
-| Category | Customer Success |
+| Category | Sales Engineer |
 | Posted | 2026-08-07 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/NECSWS/744000142067701-implementation-consultant-health) |
 
 ## About This Role
 
-This customer success position at Northgate Information Solutions was posted on 2026-08-07.
+This sales engineer position at Northgate Information Solutions was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

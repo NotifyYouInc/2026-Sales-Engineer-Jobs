@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ABB](https://scoutify.ai/companies/abb?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | 3 locations |
+| Location | Mebane, North Carolina, United States |
 | Category | Sales Engineer |
-| Posted | 2026-06-23 |
-| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Houston-Texas-United-States-of-America/Proposal-Engineer_JR00038020) |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/USA-NC-Mebane/Proposal-Engineer_JR00043219) |
 
 ## About This Role
 
-This sales engineer position at ABB was posted on 2026-06-23.
+This sales engineer position at ABB was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

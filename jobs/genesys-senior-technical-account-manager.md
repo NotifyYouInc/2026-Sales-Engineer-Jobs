@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Genesys](https://scoutify.ai/companies/genesys?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | United Kingdom |
-| Category | Customer Success |
+| Category | Sales Engineer |
 | Posted | 2026-08-07 |
 | Apply | [View on company site](https://genesys.wd1.myworkdayjobs.com/Genesys/job/United-Kingdom/Snr-Technical-Account-Manager_JR111680-2) |
 
 ## About This Role
 
-This customer success position at Genesys was posted on 2026-08-07.
+This sales engineer position at Genesys was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

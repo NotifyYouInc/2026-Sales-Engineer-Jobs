@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Exadel Inc (Website)](https://scoutify.ai/companies/exadel-inc-website?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Bulgaria |
-| Category | AI / LLM Engineer |
+| Category | Sales Engineer |
 | Posted | 2026-08-07 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/exadelinc/jobs/6136156004) |
 
 ## About This Role
 
-This ai / llm engineer position at Exadel Inc (Website) was posted on 2026-08-07.
+This sales engineer position at Exadel Inc (Website) was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

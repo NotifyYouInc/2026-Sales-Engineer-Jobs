@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Heidelberg Materials](https://scoutify.ai/companies/heidelbergmaterials?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Wrocław, Lower Silesia, Poland |
-| Category | Industrial Automation |
+| Category | Sales Engineer |
 | Posted | 2026-08-06 |
 | Apply | [View on company site](https://heidelbergmaterials.wd3.myworkdayjobs.com/global_hm_career_site/job/Wrocaw/Autonomous-Mining-Technology-Specialist--f-m-_JR10017745-1) |
 
 ## About This Role
 
-This industrial automation position at Heidelberg Materials was posted on 2026-08-06.
+This sales engineer position at Heidelberg Materials was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

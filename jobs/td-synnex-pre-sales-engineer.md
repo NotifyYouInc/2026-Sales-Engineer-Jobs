@@ -1,16 +1,16 @@
-# Pre Sales Engineer at TD Synnex
+# Pre sales Engineer at TD Synnex
 
 | Field | Details |
 |-------|---------|
 | Company | [TD Synnex](https://scoutify.ai/companies/synnex?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Bogotá, Bogota D.C., Colombia |
+| Location | Santiago, Santiago Metropolitan, Chile |
 | Category | Sales Engineer |
-| Posted | 2026-07-28 |
-| Apply | [View on company site](https://synnex.wd5.myworkdayjobs.com/tdsynnexcareers/job/Bogota-Colombia/Pre-Sales-Engineer_R53223) |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://synnex.wd5.myworkdayjobs.com/tdsynnexcareers/job/Santiago-Chile/Pre-sales-Engineer_R54011) |
 
 ## About This Role
 
-This sales engineer position at TD Synnex was posted on 2026-07-28.
+This sales engineer position at TD Synnex was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

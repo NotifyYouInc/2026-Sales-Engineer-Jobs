@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Faraday Future](https://scoutify.ai/companies/faradayfuture?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | 3 locations |
-| Category | Software Engineer |
+| Category | Sales Engineer |
 | Posted | 2026-08-06 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/faradayfuture/jobs/7819907003) |
 
 ## About This Role
 
-This software engineer position at Faraday Future was posted on 2026-08-06.
+This sales engineer position at Faraday Future was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

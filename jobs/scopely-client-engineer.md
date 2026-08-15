@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Scopely](https://scoutify.ai/companies/scopely?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Barcelona, Catalonia, Spain |
-| Category | Software Engineer |
+| Category | Sales Engineer |
 | Posted | 2026-08-06 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/scopely/jobs/5342840008?gh_jid=5342840008) |
 
 ## About This Role
 
-This software engineer position at Scopely was posted on 2026-08-06.
+This sales engineer position at Scopely was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

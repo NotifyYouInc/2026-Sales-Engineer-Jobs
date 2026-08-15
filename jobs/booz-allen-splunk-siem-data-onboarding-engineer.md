@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | 4 locations |
-| Category | Cybersecurity Engineer |
+| Category | Sales Engineer |
 | Posted | 2026-08-06 |
 | Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Reston-VA/Splunk-SIEM-Data-Onboarding-Engineer_R0246217) |
 
 ## About This Role
 
-This cybersecurity engineer position at Booz Allen was posted on 2026-08-06.
+This sales engineer position at Booz Allen was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

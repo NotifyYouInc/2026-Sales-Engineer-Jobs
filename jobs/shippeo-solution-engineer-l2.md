@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Shippeo](https://scoutify.ai/companies/shippeo?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Paris, Île-de-France, France |
-| Category | Customer Success |
+| Category | Sales Engineer |
 | Posted | 2026-08-06 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/Shippeo/744000141979919-solution-engineer-l2) |
 
 ## About This Role
 
-This customer success position at Shippeo was posted on 2026-08-06.
+This sales engineer position at Shippeo was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

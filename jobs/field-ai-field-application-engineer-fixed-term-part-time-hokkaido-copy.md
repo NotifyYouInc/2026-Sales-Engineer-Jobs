@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Field AI](https://scoutify.ai/companies/field-ai?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Hokkaido, JP |
-| Category | Software Engineer |
+| Category | Sales Engineer |
 | Posted | 2026-08-05 |
 | Apply | [View on company site](https://jobs.lever.co/field-ai/56da4b01-aec7-4217-909a-3d08007c1401) |
 
 ## About This Role
 
-This software engineer position at Field AI was posted on 2026-08-05.
+This sales engineer position at Field AI was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

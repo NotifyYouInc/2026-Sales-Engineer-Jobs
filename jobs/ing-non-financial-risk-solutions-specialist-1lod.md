@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [ING](https://scoutify.ai/companies/ing?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Madrid, Madrid, Spain |
-| Category | Compliance & Risk Management |
+| Category | Sales Engineer |
 | Posted | 2026-08-06 |
 | Apply | [View on company site](https://ing.wd3.myworkdayjobs.com/icsgblcor/job/Madrid-Va-de-los-Poblados/Non-Financial-Risk-Solutions-Specialist--1LoD-_REQ-10119244) |
 
 ## About This Role
 
-This compliance & risk management position at ING was posted on 2026-08-06.
+This sales engineer position at ING was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

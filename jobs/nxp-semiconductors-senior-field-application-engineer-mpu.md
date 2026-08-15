@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [NXP Semiconductors](https://scoutify.ai/companies/nxp?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Shanghai, Shanghai, China |
-| Category | Software Engineer |
+| Category | Sales Engineer |
 | Posted | 2026-08-06 |
 | Apply | [View on company site](https://nxp.wd3.myworkdayjobs.com/careers/job/Shanghai-JingAn/Senior-Field-Application-Engineer---MPU_R-10065917) |
 
 ## About This Role
 
-This software engineer position at NXP Semiconductors was posted on 2026-08-06.
+This sales engineer position at NXP Semiconductors was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [DigiCert](https://scoutify.ai/companies/digicert?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Cape Town, Western Cape, South Africa |
-| Category | Customer Success |
+| Category | Sales Engineer |
 | Posted | 2026-08-06 |
 | Apply | [View on company site](https://www.digicert.com/careers/?gh_jid=8660298002) |
 
 ## About This Role
 
-This customer success position at DigiCert was posted on 2026-08-06.
+This sales engineer position at DigiCert was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

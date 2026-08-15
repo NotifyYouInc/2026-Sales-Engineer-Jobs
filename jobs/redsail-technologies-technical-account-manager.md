@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [RedSail Technologies](https://scoutify.ai/companies/recruiting2-ultipro-com-oj89664?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Irving, Texas, United States |
-| Category | Sales |
+| Category | Sales Engineer |
 | Posted | 2026-08-06 |
 | Apply | [View on company site](https://recruiting2.ultipro.com/smi1009kona/JobBoard/5ddac4cc-ec35-463e-ad66-e3fcb1135085/OpportunityDetail?opportunityId=9da36182-edf5-42e9-b5db-7372e74b2a9c) |
 
 ## About This Role
 
-This sales position at RedSail Technologies was posted on 2026-08-06.
+This sales engineer position at RedSail Technologies was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

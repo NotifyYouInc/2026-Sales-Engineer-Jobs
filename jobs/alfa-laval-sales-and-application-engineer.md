@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Alfa Laval](https://scoutify.ai/companies/alfa-laval?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Richmond, Virginia, United States |
-| Category | Software Engineer |
+| Category | Sales Engineer |
 | Posted | 2026-08-06 |
 | Apply | [View on company site](https://alfalaval.wd3.myworkdayjobs.com/alfa_laval_jobs/job/Richmond-VA/Sales-and-Application-Engineer_JR0047098) |
 
 ## About This Role
 
-This software engineer position at Alfa Laval was posted on 2026-08-06.
+This sales engineer position at Alfa Laval was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

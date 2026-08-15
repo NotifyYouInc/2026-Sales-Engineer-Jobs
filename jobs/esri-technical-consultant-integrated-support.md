@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Esri](https://scoutify.ai/companies/esri?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Redlands, California, United States |
-| Category | Customer Success |
+| Category | Sales Engineer |
 | Posted | 2026-08-06 |
 | Apply | [View on company site](https://www.esri.com/careers/5128319007?gh_jid=5128319007) |
 
 ## About This Role
 
-This customer success position at Esri was posted on 2026-08-06.
+This sales engineer position at Esri was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wabash Valley Power Alliance](https://scoutify.ai/companies/wabashvalleypoweralliance?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Thorntown, Indiana, United States |
-| Category | Sales Engineer |
-| Posted | 2026-07-21 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/WabashValleyPowerAlliance/744000138884359-electronic-field-engineer) |
+| Location | Lafayette, Louisiana, United States |
+| Category | IT & Systems Administration |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/WabashValleyPowerAlliance/744000142198079-electronic-field-engineer) |
 
 ## About This Role
 
-This sales engineer position at Wabash Valley Power Alliance was posted on 2026-07-21.
+This it & systems administration position at Wabash Valley Power Alliance was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

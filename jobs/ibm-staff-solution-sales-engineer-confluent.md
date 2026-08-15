@@ -5,12 +5,12 @@
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | United States |
 | Category | Sales Engineer |
-| Posted | 2026-06-16 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=121223) |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=127637) |
 
 ## About This Role
 
-This sales engineer position at IBM was posted on 2026-06-16.
+This sales engineer position at IBM was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

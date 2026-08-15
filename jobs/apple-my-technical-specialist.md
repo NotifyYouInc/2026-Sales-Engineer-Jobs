@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Apple](https://scoutify.ai/companies/apple?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Putrajaya, Putrajaya, Malaysia |
-| Category | Customer Success |
+| Category | Sales Engineer |
 | Posted | 2026-08-07 |
 | Apply | [View on company site](https://jobs.apple.com/en-us/details/200675949/my-technical-specialist) |
 
 ## About This Role
 
-This customer success position at Apple was posted on 2026-08-07.
+This sales engineer position at Apple was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

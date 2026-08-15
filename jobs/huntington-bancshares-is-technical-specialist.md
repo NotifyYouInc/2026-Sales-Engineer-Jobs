@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Huntington Bancshares](https://scoutify.ai/companies/huntington?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Columbus, Ohio, United States |
-| Category | Software Engineer |
+| Category | Sales Engineer |
 | Posted | 2026-08-06 |
 | Apply | [View on company site](https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Columbus-OH/IS-Technical-Specialist_R0074653) |
 
 ## About This Role
 
-This software engineer position at Huntington Bancshares was posted on 2026-08-06.
+This sales engineer position at Huntington Bancshares was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

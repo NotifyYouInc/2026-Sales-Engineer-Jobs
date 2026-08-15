@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Northwestern Mutual](https://scoutify.ai/companies/northwesternmutual?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Wisconsin, US |
-| Category | Software Engineer |
+| Category | Sales Engineer |
 | Posted | 2026-08-06 |
 | Apply | [View on company site](https://northwesternmutual.wd5.myworkdayjobs.com/corporate-careers/job/Remote-Wisconsin/Sr-Solutions-Engineer_JR-45714) |
 
 ## About This Role
 
-This software engineer position at Northwestern Mutual was posted on 2026-08-06.
+This sales engineer position at Northwestern Mutual was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 
