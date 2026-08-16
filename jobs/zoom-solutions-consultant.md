@@ -1,16 +1,16 @@
-# Solution Engineer at Salesforce
+# Solutions Consultant at Zoom
 
 | Field | Details |
 |-------|---------|
-| Company | [Salesforce](https://scoutify.ai/companies/salesforce?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Dublin, Leinster, Ireland |
+| Company | [Zoom](https://scoutify.ai/companies/zoom?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
+| Location | United States |
 | Category | Sales Engineer |
 | Posted | 2026-08-08 |
-| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Ireland---Dublin/Solution-Engineer_JR354118) |
+| Apply | [View on company site](https://zoom.wd5.myworkdayjobs.com/zoom/job/Remote--US/Solutions-Consultant_R19524) |
 
 ## About This Role
 
-This sales engineer position at Salesforce was posted on 2026-08-08.
+This sales engineer position at Zoom was posted on 2026-08-08.
 
 ## Get Real-Time Alerts
 

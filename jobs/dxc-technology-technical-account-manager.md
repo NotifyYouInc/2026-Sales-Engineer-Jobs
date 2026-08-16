@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [DXC Technology](https://scoutify.ai/companies/dxctechnology?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Mexico City, Mexico City, Mexico |
-| Category | Sales Engineer |
+| Category | Sales |
 | Posted | 2026-08-06 |
 | Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/MEX---DIF---MEXICO-CITY/Technical-Account-Manager_51586534) |
 
 ## About This Role
 
-This sales engineer position at DXC Technology was posted on 2026-08-06.
+This sales position at DXC Technology was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 
