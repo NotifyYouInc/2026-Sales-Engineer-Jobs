@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Arrow Electronics](https://scoutify.ai/companies/arrow-electronics?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Hungary |
-| Category | Sales Engineer |
+| Category | Semiconductor / Chip Design |
 | Posted | 2026-08-06 |
 | Apply | [View on company site](https://arrow.wd1.myworkdayjobs.com/ac/job/CZ-Czechia---Remote/Market-Development-Engineer-FPGA_R247207) |
 
 ## About This Role
 
-This sales engineer position at Arrow Electronics was posted on 2026-08-06.
+This semiconductor / chip design position at Arrow Electronics was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

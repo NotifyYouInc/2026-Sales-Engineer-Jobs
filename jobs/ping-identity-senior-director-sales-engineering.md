@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Ping Identity](https://scoutify.ai/companies/ping-identity?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | United States |
-| Category | Sales Leadership |
+| Category | Sales |
 | Posted | 2026-08-06 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/pingidentity/jobs/8662831002) |
 
 ## About This Role
 
-This sales leadership position at Ping Identity was posted on 2026-08-06.
+This sales position at Ping Identity was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

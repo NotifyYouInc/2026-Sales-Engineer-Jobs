@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Minato, Wakayama, Japan |
+| Location | Kolkata, West Bengal, India |
 | Category | Sales Engineer |
-| Posted | 2026-08-05 |
-| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Minato-Japan/Solutions-Engineer_2020229) |
+| Posted | 2026-08-06 |
+| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Kolkata-India/Solutions-Engineer_2021938) |
 
 ## About This Role
 
-This sales engineer position at Cisco was posted on 2026-08-05.
+This sales engineer position at Cisco was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

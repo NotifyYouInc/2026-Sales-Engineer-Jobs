@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [United Parcel Service (UPS)](https://scoutify.ai/companies/hcmportal?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | 3 locations |
-| Category | Sales Engineer |
-| Posted | 2026-04-02 |
-| Apply | [View on company site](https://hcmportal.wd5.myworkdayjobs.com/Search/job/IT---ROME-PASSO-CORESE-AEW-LOTTO-ITPSO/Logistics-Solutions-Engineer_R26010420) |
+| Location | Horsley Park, New South Wales, Australia |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-08-10 |
+| Apply | [View on company site](https://hcmportal.wd5.myworkdayjobs.com/Search/job/AU---SCS-HORSLEY-PARK-AUHPK/Logistics-Solutions-Engineer_R26024913) |
 
 ## About This Role
 
-This sales engineer position at United Parcel Service (UPS) was posted on 2026-04-02.
+This technical & solutions architect position at United Parcel Service (UPS) was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 

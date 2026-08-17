@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Adobe](https://scoutify.ai/companies/adobe-inc?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Sales Engineer |
+| Category | Data Engineer |
 | Posted | 2026-08-07 |
 | Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bangalore/Data-Solutions-Engineer_R171113-1) |
 
 ## About This Role
 
-This sales engineer position at Adobe was posted on 2026-08-07.
+This data engineer position at Adobe was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

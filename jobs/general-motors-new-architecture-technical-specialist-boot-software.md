@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [General Motors](https://scoutify.ai/companies/general-motors?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Milford, Connecticut, United States |
-| Category | Sales Engineer |
+| Category | Embedded / Firmware Engineer |
 | Posted | 2026-08-07 |
 | Apply | [View on company site](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Milford-Michigan-United-States-of-America/New-Architecture-Technical-Specialist--Boot-Software_JR-202616262) |
 
 ## About This Role
 
-This sales engineer position at General Motors was posted on 2026-08-07.
+This embedded / firmware engineer position at General Motors was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

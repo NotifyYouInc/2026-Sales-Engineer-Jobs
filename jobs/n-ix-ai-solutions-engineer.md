@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [N-iX](https://scoutify.ai/companies/n-ix?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Union, New Jersey, United States |
-| Category | Sales Engineer |
+| Category | AI / LLM Engineer |
 | Posted | 2026-08-06 |
 | Apply | [View on company site](https://careers.n-ix.com/jobs/4944592101?gh_jid=4944592101) |
 
 ## About This Role
 
-This sales engineer position at N-iX was posted on 2026-08-06.
+This ai / llm engineer position at N-iX was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

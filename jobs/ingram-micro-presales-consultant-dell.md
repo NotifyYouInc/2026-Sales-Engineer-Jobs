@@ -1,16 +1,16 @@
-# Presales Consultant Dell at Ingram Micro
+# Presales Consultant - DELL at Ingram Micro
 
 | Field | Details |
 |-------|---------|
 | Company | [Ingram Micro](https://scoutify.ai/companies/ingram-micro?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Diegem, Flanders, Belgium |
+| Location | Dubai, Dubai, United Arab Emirates |
 | Category | Sales Engineer |
-| Posted | 2026-04-28 |
-| Apply | [View on company site](https://ingrammicro.wd5.myworkdayjobs.com/ingrammicro/job/Diegem-Belgium/Presales-Consultant-Dell_R-114858) |
+| Posted | 2026-08-10 |
+| Apply | [View on company site](https://ingrammicro.wd5.myworkdayjobs.com/ingrammicro/job/Dubai-United-Arab-Emirates/Presales-Consultant---DELL_R-116988) |
 
 ## About This Role
 
-This sales engineer position at Ingram Micro was posted on 2026-04-28.
+This sales engineer position at Ingram Micro was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 

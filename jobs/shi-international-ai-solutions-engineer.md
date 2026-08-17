@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [SHI International](https://scoutify.ai/companies/shi-international?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | California, US |
-| Category | Sales Engineer |
+| Category | AI / LLM Engineer |
 | Posted | 2026-08-08 |
 | Apply | [View on company site](https://shi.wd12.myworkdayjobs.com/shicareers/job/US---CA---Home-Office/AI-Solutions-Engineer_JR3423-1) |
 
 ## About This Role
 
-This sales engineer position at SHI International was posted on 2026-08-08.
+This ai / llm engineer position at SHI International was posted on 2026-08-08.
 
 ## Get Real-Time Alerts
 

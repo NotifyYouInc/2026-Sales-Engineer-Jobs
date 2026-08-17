@@ -5,12 +5,12 @@
 | Company | [Honeywell](https://scoutify.ai/companies/ocs-cx-oj53173?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Adelaide, South Australia, Australia |
 | Category | Sales Engineer |
-| Posted | 2026-06-28 |
-| Apply | [View on company site](https://ibqbjb.fa.ocs.oraclecloud.com/jobs/#151485) |
+| Posted | 2026-08-10 |
+| Apply | [View on company site](https://ibqbjb.fa.ocs.oraclecloud.com/jobs/#154803) |
 
 ## About This Role
 
-This sales engineer position at Honeywell was posted on 2026-06-28.
+This sales engineer position at Honeywell was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 

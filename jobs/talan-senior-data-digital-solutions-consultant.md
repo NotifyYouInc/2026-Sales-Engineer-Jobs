@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Talan](https://scoutify.ai/companies/talan?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | London, England, United Kingdom |
-| Category | Sales Engineer |
+| Category | Data Engineer |
 | Posted | 2026-08-06 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/Talan/744000141859616-senior-data-digital-solutions-consultant) |
 
 ## About This Role
 
-This sales engineer position at Talan was posted on 2026-08-06.
+This data engineer position at Talan was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

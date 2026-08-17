@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Endeavour Group Careers](https://scoutify.ai/companies/endeavourgroupcareers?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Bulimba, Queensland, Australia |
+| Location | Angaston, South Australia, Australia |
 | Category | IT & Systems Administration |
-| Posted | 2026-07-30 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/EndeavourGroupCareers/744000140607553-euc-technical-specialist) |
+| Posted | 2026-08-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/EndeavourGroupCareers/744000142562023-euc-technical-specialist) |
 
 ## About This Role
 
-This it & systems administration position at Endeavour Group Careers was posted on 2026-07-30.
+This it & systems administration position at Endeavour Group Careers was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 

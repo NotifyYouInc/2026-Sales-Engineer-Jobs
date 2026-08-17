@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ABB](https://scoutify.ai/companies/abb?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Vittuone, Lombardy, Italy |
+| Location | 2 locations |
 | Category | Account Executive |
-| Posted | 2026-07-30 |
-| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Vittuone-Milano-Italy/Service-Sales-Specialist_JR00019217) |
+| Posted | 2026-08-09 |
+| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Chandigarh-Punjab-India/Service-Sales-Specialist_JR00043238) |
 
 ## About This Role
 
-This account executive position at ABB was posted on 2026-07-30.
+This account executive position at ABB was posted on 2026-08-09.
 
 ## Get Real-Time Alerts
 

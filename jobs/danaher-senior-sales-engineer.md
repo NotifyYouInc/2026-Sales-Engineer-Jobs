@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Danaher](https://scoutify.ai/companies/danaher?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | 3 locations |
+| Location | 2 locations |
 | Category | Sales Engineer |
-| Posted | 2026-06-30 |
-| Apply | [View on company site](https://danaher.wd1.myworkdayjobs.com/DanaherJobs/job/Xian-Beijing-China/Senior-Sales-Engineer_R1314273) |
+| Posted | 2026-08-10 |
+| Apply | [View on company site](https://danaher.wd1.myworkdayjobs.com/DanaherJobs/job/Shanghai-China/Senior-Sales-Engineer_R1316703) |
 
 ## About This Role
 
-This sales engineer position at Danaher was posted on 2026-06-30.
+This sales engineer position at Danaher was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 
