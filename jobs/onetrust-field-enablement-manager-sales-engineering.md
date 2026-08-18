@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [OneTrust](https://scoutify.ai/companies/onetrust?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Atlanta, Georgia, United States |
-| Category | Learning & Development |
+| Category | Sales Engineer |
 | Posted | 2026-08-07 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/onetrust/jobs/8114148) |
 
 ## About This Role
 
-This learning & development position at OneTrust was posted on 2026-08-07.
+This sales engineer position at OneTrust was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

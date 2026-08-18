@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [NXP Semiconductors](https://scoutify.ai/companies/nxp?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Shenzhen, Guangdong, China |
+| Location | Shanghai, Shanghai, China |
 | Category | Sales Engineer |
-| Posted | 2026-08-06 |
-| Apply | [View on company site](https://nxp.wd3.myworkdayjobs.com/careers/job/Shenzhen/Senior-Field-Application-Engineer---Automotive-MCU_R-10065897) |
+| Posted | 2026-08-09 |
+| Apply | [View on company site](https://nxp.wd3.myworkdayjobs.com/careers/job/Shanghai-JingAn/Senior-Field-Application-Engineer---Automotive-MCU_R-10065899) |
 
 ## About This Role
 
-This sales engineer position at NXP Semiconductors was posted on 2026-08-06.
+This sales engineer position at NXP Semiconductors was posted on 2026-08-09.
 
 ## Get Real-Time Alerts
 

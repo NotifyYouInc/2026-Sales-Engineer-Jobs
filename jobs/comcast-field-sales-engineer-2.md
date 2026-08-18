@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Comcast](https://scoutify.ai/companies/comcast?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | 3 locations |
+| Location | Oregon, US |
 | Category | Sales Engineer |
-| Posted | 2026-07-14 |
-| Apply | [View on company site](https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Trevose-3800-Horizon-Blvd-Ste-300/Field-Sales-Engineer-2_R441087) |
+| Posted | 2026-08-10 |
+| Apply | [View on company site](https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/OR---Tigard-11308-SW-68th-Pkwy/Field-Sales-Engineer-2_R441790) |
 
 ## About This Role
 
-This sales engineer position at Comcast was posted on 2026-07-14.
+This sales engineer position at Comcast was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 

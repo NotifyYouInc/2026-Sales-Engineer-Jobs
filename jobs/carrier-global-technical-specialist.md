@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Carrier Global](https://scoutify.ai/companies/carrier?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Hyderabad, Telangana, India |
-| Category | QA Engineer |
-| Posted | 2026-05-07 |
-| Apply | [View on company site](https://carrier.wd5.myworkdayjobs.com/jobs/job/Building-No-12C-Floor-91011-Building-No-12B--Stilt-floor-Raheja-Mindspace-Cyberabad-Madhapur-Hyderabad---500081-Telangana-India/Technical-Specialist_30205657) |
+| Location | 2 locations |
+| Category | Sales Engineer |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://carrier.wd5.myworkdayjobs.com/jobs/job/Building-No-12D-Floor-5-Raheja-Mindspace-Cyberabad-Madhapur-Hyderabad---500081-Telangana-India/Technical-Specialist_30215187) |
 
 ## About This Role
 
-This qa engineer position at Carrier Global was posted on 2026-05-07.
+This sales engineer position at Carrier Global was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

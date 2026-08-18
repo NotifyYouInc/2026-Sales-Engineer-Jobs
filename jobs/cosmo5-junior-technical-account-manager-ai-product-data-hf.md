@@ -5,12 +5,12 @@
 | Company | [Cosmo5](https://scoutify.ai/companies/labelium?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Bordeaux, Nouvelle-Aquitaine, France |
 | Category | Sales |
-| Posted | 2026-08-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Labelium/744000141927949-junior-technical-account-manager-ai-product-data-hf) |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Labelium/744000142069488-junior-technical-account-manager-ai-product-data-hf) |
 
 ## About This Role
 
-This sales position at Cosmo5 was posted on 2026-08-06.
+This sales position at Cosmo5 was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

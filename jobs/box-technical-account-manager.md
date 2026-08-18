@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Box](https://scoutify.ai/companies/box?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Boston, Massachusetts, United States |
-| Category | Sales Engineer |
+| Category | Customer Success |
 | Posted | 2026-08-07 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/boxinc/jobs/8114558) |
 
 ## About This Role
 
-This sales engineer position at Box was posted on 2026-08-07.
+This customer success position at Box was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

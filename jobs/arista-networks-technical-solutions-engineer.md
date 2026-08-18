@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Arista Networks](https://scoutify.ai/companies/aristanetworks?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Dublin, Leinster, Ireland |
-| Category | Sales Engineer |
-| Posted | 2026-08-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AristaNetworks/744000141940329-technical-solutions-engineer) |
+| Category | Customer Success |
+| Posted | 2026-08-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AristaNetworks/744000142509069-technical-solutions-engineer) |
 
 ## About This Role
 
-This sales engineer position at Arista Networks was posted on 2026-08-06.
+This customer success position at Arista Networks was posted on 2026-08-09.
 
 ## Get Real-Time Alerts
 

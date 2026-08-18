@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Smiths Group](https://scoutify.ai/companies/smithsgroup?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Slough, England, United Kingdom |
-| Category | Business Analyst |
+| Category | Sales Engineer |
 | Posted | 2026-08-07 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/SmithsGroup2/744000142103604-commercial-product-specialist) |
 
 ## About This Role
 
-This business analyst position at Smiths Group was posted on 2026-08-07.
+This sales engineer position at Smiths Group was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

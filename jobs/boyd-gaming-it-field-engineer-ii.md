@@ -1,16 +1,16 @@
-# IT Field Engineer II  at Boyd Gaming
+# IT Field Engineer II at Boyd Gaming
 
 | Field | Details |
 |-------|---------|
 | Company | [Boyd Gaming](https://scoutify.ai/companies/boydgaming?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Las Vegas, Nevada, United States |
+| Location | Kansas City, Missouri, United States |
 | Category | IT & Systems Administration |
-| Posted | 2026-07-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoydGaming/3743990014280166-it-field-engineer-ii) |
+| Posted | 2026-08-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoydGaming/3743990014515603-it-field-engineer-ii) |
 
 ## About This Role
 
-This it & systems administration position at Boyd Gaming was posted on 2026-07-24.
+This it & systems administration position at Boyd Gaming was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 

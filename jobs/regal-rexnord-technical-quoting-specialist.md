@@ -5,12 +5,12 @@
 | Company | [Regal Rexnord](https://scoutify.ai/companies/regalrexnord?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Langley, British Columbia, Canada |
 | Category | Sales Engineer |
-| Posted | 2026-06-09 |
-| Apply | [View on company site](https://regalrexnord.wd1.myworkdayjobs.com/careers/job/Langley-British-Columbia-Canada/Technical-Quoting-Specialist_R26_02757-1) |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://regalrexnord.wd1.myworkdayjobs.com/careers/job/Langley-British-Columbia-Canada/Technical-Quoting-Specialist_R26_04025) |
 
 ## About This Role
 
-This sales engineer position at Regal Rexnord was posted on 2026-06-09.
+This sales engineer position at Regal Rexnord was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Field Engineer Electrical at SURBANA
+# Field Engineer (Electrical) at SURBANA
 
 | Field | Details |
 |-------|---------|
 | Company | [SURBANA](https://scoutify.ai/companies/surbana?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Mumbai, Maharashtra, India |
 | Category | Electrical / Hardware Engineer |
-| Posted | 2026-07-30 |
-| Apply | [View on company site](https://surbanajurong.wd3.myworkdayjobs.com/careersatsmec/job/Mumbai/Field-Engineer-Electrical_JR117896) |
+| Posted | 2026-08-10 |
+| Apply | [View on company site](https://surbanajurong.wd3.myworkdayjobs.com/careersatsmec/job/Mumbai/Field-Engineer--Electrical-_JR118098) |
 
 ## About This Role
 
-This electrical / hardware engineer position at SURBANA was posted on 2026-07-30.
+This electrical / hardware engineer position at SURBANA was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 

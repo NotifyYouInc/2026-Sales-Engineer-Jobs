@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Rubrik](https://scoutify.ai/companies/rubrik?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | United States |
+| Location | Austin, Texas, United States |
 | Category | Sales Engineer |
-| Posted | 2026-07-07 |
-| Apply | [View on company site](https://www.rubrik.com/company/careers/departments/job.7964089?gh_jid=7964089) |
+| Posted | 2026-08-10 |
+| Apply | [View on company site](https://www.rubrik.com/company/careers/departments/job.8114370?gh_jid=8114370) |
 
 ## About This Role
 
-This sales engineer position at Rubrik was posted on 2026-07-07.
+This sales engineer position at Rubrik was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 

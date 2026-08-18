@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Red Hat](https://scoutify.ai/companies/red-hat?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Florida, US |
-| Category | Sales Engineer |
+| Category | Customer Success |
 | Posted | 2026-08-06 |
 | Apply | [View on company site](https://redhat.wd5.myworkdayjobs.com/Jobs/job/Remote-US-NC/Technical-Account-Manager---Ansible_R-058670-2) |
 
 ## About This Role
 
-This sales engineer position at Red Hat was posted on 2026-08-06.
+This customer success position at Red Hat was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

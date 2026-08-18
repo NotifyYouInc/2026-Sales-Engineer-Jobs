@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AVEVA](https://scoutify.ai/companies/aveva?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | 2 locations |
+| Location | Stavanger, Rogaland, Norway |
 | Category | Sales Engineer |
-| Posted | 2026-05-29 |
-| Apply | [View on company site](https://aveva.wd3.myworkdayjobs.com/AVEVA_careers/job/Singapore-Singapore/Senior-Presales-Consultant_R014021-1) |
+| Posted | 2026-08-10 |
+| Apply | [View on company site](https://aveva.wd3.myworkdayjobs.com/AVEVA_careers/job/Malmo-Sweden/Senior-Presales-Consultant_R014642-1) |
 
 ## About This Role
 
-This sales engineer position at AVEVA was posted on 2026-05-29.
+This sales engineer position at AVEVA was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 

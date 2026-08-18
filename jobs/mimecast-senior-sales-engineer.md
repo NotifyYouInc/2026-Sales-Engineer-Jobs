@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mimecast](https://scoutify.ai/companies/mimecast?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Indonesia |
+| Location | New South Wales, AU |
 | Category | Sales Engineer |
-| Posted | 2026-07-29 |
-| Apply | [View on company site](https://mimecast.wd5.myworkdayjobs.com/Mimecast-Careers/job/Indonesia---Remote/Senior-Sales-Engineer_R6596) |
+| Posted | 2026-08-10 |
+| Apply | [View on company site](https://mimecast.wd5.myworkdayjobs.com/Mimecast-Careers/job/Australia---New-South-Wales/Senior-Sales-Engineer_R6615) |
 
 ## About This Role
 
-This sales engineer position at Mimecast was posted on 2026-07-29.
+This sales engineer position at Mimecast was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 

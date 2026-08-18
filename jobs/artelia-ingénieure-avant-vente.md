@@ -5,12 +5,12 @@
 | Company | [Artelia](https://scoutify.ai/companies/artelia?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Montréal, Quebec, Canada |
 | Category | Sales Engineer |
-| Posted | 2026-08-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Artelia/744000141500520-ingenieure-avant-vente) |
+| Posted | 2026-08-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Artelia/744000142686169-ingenieure-avant-vente) |
 
 ## About This Role
 
-This sales engineer position at Artelia was posted on 2026-08-04.
+This sales engineer position at Artelia was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 

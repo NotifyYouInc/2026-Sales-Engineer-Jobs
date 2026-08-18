@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cadence Design Systems](https://scoutify.ai/companies/cadence-design-systems?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Hsinchu, Taiwan, Taiwan |
-| Category | Technical & Solutions Architect |
-| Posted | 2026-05-29 |
-| Apply | [View on company site](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/HSINCHU/Lead-Solutions-Engineer_R54909) |
+| Location | San Jose, California, United States |
+| Category | DevOps Engineer |
+| Posted | 2026-08-10 |
+| Apply | [View on company site](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/SAN-JOSE/Lead-Solutions-Engineer_R55916) |
 
 ## About This Role
 
-This technical & solutions architect position at Cadence Design Systems was posted on 2026-05-29.
+This devops engineer position at Cadence Design Systems was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Distro](https://scoutify.ai/companies/distro?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Chandler, Arizona, United States |
-| Category | Sales Engineer |
+| Category | Customer Success |
 | Posted | 2026-08-07 |
 | Apply | [View on company site](https://jobs.lever.co/distro/7af995d2-5993-4c81-a8d1-1d32e491fc35) |
 
 ## About This Role
 
-This sales engineer position at Distro was posted on 2026-08-07.
+This customer success position at Distro was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

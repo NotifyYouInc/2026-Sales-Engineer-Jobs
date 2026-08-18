@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wiz, Inc.](https://scoutify.ai/companies/wiz-inc?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | New York City, New York, United States |
-| Category | Technical & Solutions Architect |
-| Posted | 2026-05-07 |
-| Apply | [View on company site](https://www.wiz.io/careers/job/4679535006/:title?gh_jid=4679535006) |
+| Location | United States |
+| Category | Sales Engineer |
+| Posted | 2026-08-10 |
+| Apply | [View on company site](https://www.wiz.io/careers/job/4703831006/:title?gh_jid=4703831006) |
 
 ## About This Role
 
-This technical & solutions architect position at Wiz, Inc. was posted on 2026-05-07.
+This sales engineer position at Wiz, Inc. was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 

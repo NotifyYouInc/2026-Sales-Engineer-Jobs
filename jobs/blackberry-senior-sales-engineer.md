@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [BlackBerry](https://scoutify.ai/companies/blackberry?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Seoul, Seoul, South Korea |
+| Location | San Jose, California, United States |
 | Category | Sales Engineer |
-| Posted | 2026-07-09 |
-| Apply | [View on company site](https://bb.wd3.myworkdayjobs.com/blackberry/job/Seoul-Home-Office/Senior-Sales-Engineer_20260201) |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://bb.wd3.myworkdayjobs.com/blackberry/job/San-Jose-CA/Senior-Sales-Engineer_20260280-1) |
 
 ## About This Role
 
-This sales engineer position at BlackBerry was posted on 2026-07-09.
+This sales engineer position at BlackBerry was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

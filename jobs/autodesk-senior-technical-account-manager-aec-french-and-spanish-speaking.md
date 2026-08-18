@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Autodesk](https://scoutify.ai/companies/autodesk?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Madrid, Madrid, Spain |
-| Category | Sales Engineer |
+| Category | Customer Success |
 | Posted | 2026-08-07 |
 | Apply | [View on company site](https://autodesk.wd1.myworkdayjobs.com/Ext/job/EMEA---Spain---Barcelona---Tower-B2/Senior-Technical-Account-Manager--AEC--French-and-Spanish-speaking-_26WD100399-2) |
 
 ## About This Role
 
-This sales engineer position at Autodesk was posted on 2026-08-07.
+This customer success position at Autodesk was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

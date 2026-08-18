@@ -5,12 +5,12 @@
 | Company | [PTC](https://scoutify.ai/companies/ptc?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Boston, Massachusetts, United States |
 | Category | Sales Engineer |
-| Posted | 2026-04-07 |
-| Apply | [View on company site](https://ptc.wd1.myworkdayjobs.com/PTC/job/Boston-MA-USA/Technical-Services-Engineer---Onshape_JR111906) |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://ptc.wd1.myworkdayjobs.com/PTC/job/Boston-MA-USA/Technical-Services-Engineer---Onshape_JR112559) |
 
 ## About This Role
 
-This sales engineer position at PTC was posted on 2026-04-07.
+This sales engineer position at PTC was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

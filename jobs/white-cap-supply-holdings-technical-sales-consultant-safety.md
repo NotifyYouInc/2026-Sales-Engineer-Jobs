@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [White Cap Supply Holdings](https://scoutify.ai/companies/whitecap?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | 3 locations |
+| Location | 8 locations |
 | Category | Sales Engineer |
-| Posted | 2026-08-06 |
-| Apply | [View on company site](https://whitecap.wd1.myworkdayjobs.com/careers/job/Los-Angeles_90066/Technical-Sales-Consultant----Safety_WCJR-034669-1) |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://whitecap.wd1.myworkdayjobs.com/careers/job/Philadelphia_19146/Technical-Sales-Consultant----Safety_WCJR-035013-1) |
 
 ## About This Role
 
-This sales engineer position at White Cap Supply Holdings was posted on 2026-08-06.
+This sales engineer position at White Cap Supply Holdings was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

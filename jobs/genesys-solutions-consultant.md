@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Genesys](https://scoutify.ai/companies/genesys?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | São Paulo, São Paulo, Brazil |
+| Location | Indiana, US |
 | Category | Sales Engineer |
-| Posted | 2026-07-08 |
-| Apply | [View on company site](https://genesys.wd1.myworkdayjobs.com/Genesys/job/Sao-Paulo-Brazil/Senior-Solution-Consultant---Solution-Consultant_JR108245-1) |
+| Posted | 2026-08-10 |
+| Apply | [View on company site](https://genesys.wd1.myworkdayjobs.com/Genesys/job/Indiana-USA/Solutions-Consultant_JR112003) |
 
 ## About This Role
 
-This sales engineer position at Genesys was posted on 2026-07-08.
+This sales engineer position at Genesys was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 

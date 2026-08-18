@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Salesforce](https://scoutify.ai/companies/salesforce?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Mexico City, Mexico City, Mexico |
-| Category | Customer Success |
-| Posted | 2026-06-05 |
-| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Mexico---Mexico-City/Technical-Consultant_JR313347-1) |
+| Category | Sales Engineer |
+| Posted | 2026-08-10 |
+| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Mexico---Mexico-City/Technical-Consultant_JR355501) |
 
 ## About This Role
 
-This customer success position at Salesforce was posted on 2026-06-05.
+This sales engineer position at Salesforce was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 

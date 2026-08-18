@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Kolkata, West Bengal, India |
+| Location | 2 locations |
 | Category | Sales Engineer |
 | Posted | 2026-08-06 |
-| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Kolkata-India/Solutions-Engineer_2021938) |
+| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/New-York-New-York-US/Solutions-Engineer_2021628) |
 
 ## About This Role
 

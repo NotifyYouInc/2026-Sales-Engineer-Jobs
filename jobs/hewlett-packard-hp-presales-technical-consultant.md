@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Hewlett Packard (HP)](https://scoutify.ai/companies/hp?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | 2 locations |
+| Location | Stockholm, Stockholm, Sweden |
 | Category | Sales Engineer |
-| Posted | 2026-07-30 |
-| Apply | [View on company site](https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Rio-Rancho-New-Mexico-United-States-of-America/Presales-Technical-Consultant_3165074-1) |
+| Posted | 2026-08-10 |
+| Apply | [View on company site](https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Stockholm---Solna-Stockholm-County-Sweden/Presales-Technical-Consultant_3165632-2) |
 
 ## About This Role
 
-This sales engineer position at Hewlett Packard (HP) was posted on 2026-07-30.
+This sales engineer position at Hewlett Packard (HP) was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 
