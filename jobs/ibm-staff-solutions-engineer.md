@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Melbourne, Victoria, Australia |
-| Category | Technical & Solutions Architect |
-| Posted | 2026-06-16 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=119930) |
+| Category | Sales Engineer |
+| Posted | 2026-08-12 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=128371) |
 
 ## About This Role
 
-This technical & solutions architect position at IBM was posted on 2026-06-16.
+This sales engineer position at IBM was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

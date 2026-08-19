@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Abbott](https://scoutify.ai/companies/abbott-laboratories?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Guatemala |
-| Category | Customer Success |
+| Category | Sales Engineer |
 | Posted | 2026-08-07 |
 | Apply | [View on company site](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/Guatemala---Guatemala/Informatics-Technical-Specialist-I--ITS-_31157679) |
 
 ## About This Role
 
-This customer success position at Abbott was posted on 2026-08-07.
+This sales engineer position at Abbott was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

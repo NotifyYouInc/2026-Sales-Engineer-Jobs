@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Applied Materials](https://scoutify.ai/companies/applied-materials?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Kitakami, Iwate, Japan |
+| Location | Hsinchu, Taiwan, Taiwan |
 | Category | Sales Engineer |
-| Posted | 2026-07-30 |
-| Apply | [View on company site](https://amat.wd1.myworkdayjobs.com/External/job/KitakamiJPN/Manager-III--Customer-Engineer_R2625094) |
+| Posted | 2026-08-12 |
+| Apply | [View on company site](https://amat.wd1.myworkdayjobs.com/External/job/HsinchuTWN/Manager-III--Customer-Engineer_R2625796) |
 
 ## About This Role
 
-This sales engineer position at Applied Materials was posted on 2026-07-30.
+This sales engineer position at Applied Materials was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

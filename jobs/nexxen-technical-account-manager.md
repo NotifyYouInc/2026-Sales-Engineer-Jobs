@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Nexxen](https://scoutify.ai/companies/nexxen?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | New York City, New York, United States |
-| Category | Customer Success |
+| Category | Sales Engineer |
 | Posted | 2026-08-07 |
 | Apply | [View on company site](https://jobs.ashbyhq.com/nexxen/2fa3ef80-a0ba-4858-856e-ea383cceb144) |
 
 ## About This Role
 
-This customer success position at Nexxen was posted on 2026-08-07.
+This sales engineer position at Nexxen was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

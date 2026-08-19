@@ -1,16 +1,16 @@
-# Legal Engineer, Product Specialist at Harvey
+# Legal Engineer - Product Specialist at Harvey
 
 | Field | Details |
 |-------|---------|
 | Company | [Harvey](https://scoutify.ai/companies/harvey?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Milan, Lombardy, Italy |
-| Category | Customer Success |
-| Posted | 2026-06-11 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/harvey/5f2e05de-e876-4a90-a609-ce17e4f2a3d4) |
+| Location | Toronto, Ontario, Canada |
+| Category | Sales Engineer |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/harvey/5c30c057-437e-41a7-9b38-bbb6101a3b2b) |
 
 ## About This Role
 
-This customer success position at Harvey was posted on 2026-06-11.
+This sales engineer position at Harvey was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [MSX International](https://scoutify.ai/companies/msxinternational?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | New York, US |
+| Location | Detroit, Michigan, United States |
 | Category | Sales Engineer |
-| Posted | 2026-08-07 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/MSXInternational/3743990014489661-field-engineer) |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/MSXInternational/3743990014535056-field-engineer) |
 
 ## About This Role
 
-This sales engineer position at MSX International was posted on 2026-08-07.
+This sales engineer position at MSX International was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Camunda](https://scoutify.ai/companies/camunda?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Austria |
-| Category | Customer Success |
-| Posted | 2026-05-26 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/camunda/5c194367-ef3b-49e6-8dac-7feba555915c) |
+| Location | Germany |
+| Category | Sales Engineer |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/camunda/05070fb6-de7a-4a03-b885-442032da57ec) |
 
 ## About This Role
 
-This customer success position at Camunda was posted on 2026-05-26.
+This sales engineer position at Camunda was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

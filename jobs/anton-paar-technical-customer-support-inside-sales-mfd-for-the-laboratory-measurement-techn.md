@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Anton Paar](https://scoutify.ai/companies/antonpaar?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Ostfildern, Baden-Wurttemberg, Germany |
-| Category | Customer Success |
+| Category | Sales Engineer |
 | Posted | 2026-08-10 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/AntonPaar1/744000142635218-technical-customer-support-inside-sales-mfd-for-the-laboratory-measurement-technology-division) |
 
 ## About This Role
 
-This customer success position at Anton Paar was posted on 2026-08-10.
+This sales engineer position at Anton Paar was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 

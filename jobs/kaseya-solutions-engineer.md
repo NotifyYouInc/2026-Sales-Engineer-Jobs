@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Kaseya](https://scoutify.ai/companies/kaseya?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Medellín, Antioquia, Colombia |
+| Location | Colombia |
 | Category | Sales Engineer |
-| Posted | 2026-07-08 |
-| Apply | [View on company site](https://www.kaseya.com/careers/jobs/id/6111611004/?gh_jid=6111611004) |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://www.kaseya.com/careers/jobs/id/6141234004/?gh_jid=6141234004) |
 
 ## About This Role
 
-This sales engineer position at Kaseya was posted on 2026-07-08.
+This sales engineer position at Kaseya was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

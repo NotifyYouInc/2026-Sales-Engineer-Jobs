@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Netskope](https://scoutify.ai/companies/netskope?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Colombia |
-| Category | Customer Success |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://www.netskope.com/company/careers/open-positions/?gh_jid=7709569) |
+| Location | Japan |
+| Category | Sales Engineer |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://www.netskope.com/company/careers/open-positions/?gh_jid=8121108) |
 
 ## About This Role
 
-This customer success position at Netskope was posted on 2026-05-22.
+This sales engineer position at Netskope was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

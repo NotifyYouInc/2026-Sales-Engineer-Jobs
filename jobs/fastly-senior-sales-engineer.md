@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Fastly](https://scoutify.ai/companies/fastly?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Baltimore, Maryland, United States |
+| Location | Sydney, New South Wales, Australia |
 | Category | Sales Engineer |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://www.fastly.com/about/jobs/apply?gh_jid=7894885) |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://www.fastly.com/about/jobs/apply?gh_jid=8121024) |
 
 ## About This Role
 
-This sales engineer position at Fastly was posted on 2026-05-05.
+This sales engineer position at Fastly was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

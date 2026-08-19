@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [DepthFirst](https://scoutify.ai/companies/depthfirst?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | San Francisco, California, United States |
-| Category | Customer Success |
+| Category | Sales Engineer |
 | Posted | 2026-08-10 |
 | Apply | [View on company site](https://jobs.ashbyhq.com/depthfirst/d8142dad-79e7-49c2-90e7-c0557404e833) |
 
 ## About This Role
 
-This customer success position at DepthFirst was posted on 2026-08-10.
+This sales engineer position at DepthFirst was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 

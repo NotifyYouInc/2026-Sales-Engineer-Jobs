@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Syngenta](https://scoutify.ai/companies/syngenta?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Bahawalpur, Punjab, Pakistan |
-| Category | Channel / Partner Sales |
-| Posted | 2026-05-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SyngentaGroup/744000124866419-technical-sales-officer-fort-abass) |
+| Category | Sales Engineer |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SyngentaGroup/744000142841749-technical-sales-officer-fort-abass) |
 
 ## About This Role
 
-This channel / partner sales position at Syngenta was posted on 2026-05-06.
+This sales engineer position at Syngenta was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

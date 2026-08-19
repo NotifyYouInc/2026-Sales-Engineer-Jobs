@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [CloudZero](https://scoutify.ai/companies/cloudzero?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | San Francisco, California, United States |
-| Category | Customer Success |
+| Category | Sales Engineer |
 | Posted | 2026-08-07 |
 | Apply | [View on company site](https://jobs.ashbyhq.com/cloudzero/bb7685b5-3d01-48bc-8a40-fb6a7805d9b2) |
 
 ## About This Role
 
-This customer success position at CloudZero was posted on 2026-08-07.
+This sales engineer position at CloudZero was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

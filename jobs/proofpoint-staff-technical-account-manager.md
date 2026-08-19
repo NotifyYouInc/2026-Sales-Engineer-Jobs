@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Proofpoint](https://scoutify.ai/companies/proofpoint?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Texas, US |
-| Category | Customer Success |
+| Category | Sales Engineer |
 | Posted | 2026-08-10 |
 | Apply | [View on company site](https://proofpoint.wd5.myworkdayjobs.com/ProofpointCareers/job/Texas/Staff-Technical-Account-Manager_R14540) |
 
 ## About This Role
 
-This customer success position at Proofpoint was posted on 2026-08-10.
+This sales engineer position at Proofpoint was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 

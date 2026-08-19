@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Conga](https://scoutify.ai/companies/conga?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | 2 locations |
-| Category | Customer Success |
+| Category | Sales Engineer |
 | Posted | 2026-08-10 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/conga/jobs/5201833007) |
 
 ## About This Role
 
-This customer success position at Conga was posted on 2026-08-10.
+This sales engineer position at Conga was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Telstra](https://scoutify.ai/companies/telstra?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | 2 locations |
-| Category | Customer Success |
-| Posted | 2026-05-28 |
-| Apply | [View on company site](https://telstra.wd3.myworkdayjobs.com/telstra_careers/job/Canberra/Network-Technical-Specialist_JR-10164996-1) |
+| Location | Singapore, Singapore |
+| Category | IT & Systems Administration |
+| Posted | 2026-08-12 |
+| Apply | [View on company site](https://telstra.wd3.myworkdayjobs.com/telstra_careers/job/Singapore/Network-Technical-Specialist_JR-10169656-1) |
 
 ## About This Role
 
-This customer success position at Telstra was posted on 2026-05-28.
+This it & systems administration position at Telstra was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

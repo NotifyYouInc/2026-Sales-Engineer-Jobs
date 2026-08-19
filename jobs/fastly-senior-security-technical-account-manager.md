@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Fastly](https://scoutify.ai/companies/fastly?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | San Francisco, California, United States |
-| Category | Customer Success |
+| Category | Sales Engineer |
 | Posted | 2026-08-10 |
 | Apply | [View on company site](https://www.fastly.com/about/jobs/apply?gh_jid=8114333) |
 
 ## About This Role
 
-This customer success position at Fastly was posted on 2026-08-10.
+This sales engineer position at Fastly was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 

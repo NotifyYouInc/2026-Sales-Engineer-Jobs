@@ -5,12 +5,12 @@
 | Company | [Vanderlande Industries](https://scoutify.ai/companies/vanderlande-industries?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Pune, Maharashtra, India |
 | Category | Sales Engineer |
-| Posted | 2026-07-22 |
-| Apply | [View on company site](https://vanderlande.wd3.myworkdayjobs.com/careers/job/Pune-I/Sales-Engineer_JR36928-1) |
+| Posted | 2026-08-12 |
+| Apply | [View on company site](https://vanderlande.wd3.myworkdayjobs.com/careers/job/Pune-I/Sales-Engineer_JR36954-1) |
 
 ## About This Role
 
-This sales engineer position at Vanderlande Industries was posted on 2026-07-22.
+This sales engineer position at Vanderlande Industries was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

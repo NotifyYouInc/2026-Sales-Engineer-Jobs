@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Canopy](https://scoutify.ai/companies/canopy?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | South Jordan, Utah, United States |
-| Category | Customer Success |
+| Category | Sales Engineer |
 | Posted | 2026-08-10 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/canopytax/jobs/4362542009) |
 
 ## About This Role
 
-This customer success position at Canopy was posted on 2026-08-10.
+This sales engineer position at Canopy was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 

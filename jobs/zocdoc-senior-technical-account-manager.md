@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Zocdoc](https://scoutify.ai/companies/zocdoc?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | New York City, New York, United States |
-| Category | Customer Success |
+| Category | Sales Engineer |
 | Posted | 2026-08-10 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/zocdoc/jobs/8114067) |
 
 ## About This Role
 
-This customer success position at Zocdoc was posted on 2026-08-10.
+This sales engineer position at Zocdoc was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Figma](https://scoutify.ai/companies/figma?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Singapore, Singapore |
-| Category | Customer Success |
+| Category | Sales Engineer |
 | Posted | 2026-08-10 |
 | Apply | [View on company site](https://boards.greenhouse.io/figma/jobs/6113161004?gh_jid=6113161004) |
 
 ## About This Role
 
-This customer success position at Figma was posted on 2026-08-10.
+This sales engineer position at Figma was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Sydney, New South Wales, Australia |
+| Location | Mumbai, Maharashtra, India |
 | Category | Sales Engineer |
-| Posted | 2026-08-06 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2Fcke1DMtdyd3ZdU2xRlwz7dHt79dOyQHWdDuQpBv5LhEo8EjsA1Ny_izhcQnzOYc6r5RAozpW4oSAR6fFh3oL_04dpz79XIYNEysM7v6rFrq-0cZ_R3lu37Kp6Pke3qA%3D%3D_V2&loc=AU&title=Security+Customer+Engineer) |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckRT6YO9Cyudi4T5JPnpzBAPQ8fnA5Dd9I359xP8_7E7cEjsA1Ny_i8J7w-Z_cdluUwbHo2eLFN7NnB1w_UfVVndUBwwvlyc1K8XRUGIi5uF5LVSSPFnH1ks_IXw70Q%3D%3D_V2&loc=IN&title=Security+Customer+Engineer) |
 
 ## About This Role
 
-This sales engineer position at Google was posted on 2026-08-06.
+This sales engineer position at Google was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ACI Worldwide](https://scoutify.ai/companies/us2-cx-oj829?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Bahrain |
+| Location | Saudi Arabia |
 | Category | Sales Engineer |
-| Posted | 2026-01-23 |
-| Apply | [View on company site](https://ebwg.fa.us2.oraclecloud.com/jobs/#18271) |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://ebwg.fa.us2.oraclecloud.com/jobs/#18527) |
 
 ## About This Role
 
-This sales engineer position at ACI Worldwide was posted on 2026-01-23.
+This sales engineer position at ACI Worldwide was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

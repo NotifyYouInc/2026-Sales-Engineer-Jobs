@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [The Trade Desk](https://scoutify.ai/companies/the-trade-desk?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | New York City, New York, United States |
-| Category | Customer Success |
+| Category | Sales Engineer |
 | Posted | 2026-08-10 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/thetradedesk/jobs/5208548007) |
 
 ## About This Role
 
-This customer success position at The Trade Desk was posted on 2026-08-10.
+This sales engineer position at The Trade Desk was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 

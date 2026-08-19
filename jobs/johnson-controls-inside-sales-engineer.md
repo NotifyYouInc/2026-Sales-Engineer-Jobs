@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Johnson Controls](https://scoutify.ai/companies/jci?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Ankara, Ankara, Turkey |
-| Category | Account Executive |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Ankara-Ankara-Turkey/Inside-Sales-Engineer_WD30263189) |
+| Location | Singapore, Singapore |
+| Category | Sales Engineer |
+| Posted | 2026-08-12 |
+| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Singapore-Singapore-Singapore/Inside-Sales-Engineer_WD30276482-2) |
 
 ## About This Role
 
-This account executive position at Johnson Controls was posted on 2026-02-26.
+This sales engineer position at Johnson Controls was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

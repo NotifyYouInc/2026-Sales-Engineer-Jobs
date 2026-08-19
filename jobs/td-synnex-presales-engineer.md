@@ -5,12 +5,12 @@
 | Company | [TD Synnex](https://scoutify.ai/companies/synnex?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Mexico |
 | Category | Sales Engineer |
-| Posted | 2026-06-26 |
-| Apply | [View on company site](https://synnex.wd5.myworkdayjobs.com/tdsynnexcareers/job/Alcalda-Benito-Juarez-Mexico/Presales-Engineer_R52477) |
+| Posted | 2026-08-12 |
+| Apply | [View on company site](https://synnex.wd5.myworkdayjobs.com/tdsynnexcareers/job/Alcalda-Benito-Juarez-Mexico/Presales-Engineer_R54535) |
 
 ## About This Role
 
-This sales engineer position at TD Synnex was posted on 2026-06-26.
+This sales engineer position at TD Synnex was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

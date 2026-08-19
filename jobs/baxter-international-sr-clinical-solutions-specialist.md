@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Baxter International](https://scoutify.ai/companies/baxter-international?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Raleigh, North Carolina, United States |
-| Category | Customer Success |
+| Category | Sales Engineer |
 | Posted | 2026-08-10 |
 | Apply | [View on company site](https://baxter.wd1.myworkdayjobs.com/baxter/job/Raleigh-North-Carolina/Sr-Clinical-Solutions-Specialist_JR-205691-1) |
 
 ## About This Role
 
-This customer success position at Baxter International was posted on 2026-08-10.
+This sales engineer position at Baxter International was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 
