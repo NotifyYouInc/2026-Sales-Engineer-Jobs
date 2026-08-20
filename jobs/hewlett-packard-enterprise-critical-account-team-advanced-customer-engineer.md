@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Hewlett Packard Enterprise](https://scoutify.ai/companies/hewlett-packard-enterprise?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Karnataka, IN |
-| Category | Customer Success |
-| Posted | 2026-04-01 |
-| Apply | [View on company site](https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/Bangalore-Karnataka-India/Critical-Account-Team---Advanced-Customer-Engineer_1204109) |
+| Location | 3 locations |
+| Category | Sales Engineer |
+| Posted | 2026-08-12 |
+| Apply | [View on company site](https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/Bengaluru-Karntaka-India/Critical-Account-Team---Advanced-Customer-Engineer_1210628) |
 
 ## About This Role
 
-This customer success position at Hewlett Packard Enterprise was posted on 2026-04-01.
+This sales engineer position at Hewlett Packard Enterprise was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

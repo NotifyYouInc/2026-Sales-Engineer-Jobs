@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Keyfactor, Inc.](https://scoutify.ai/companies/keyfactor-inc?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Paris, Île-de-France, France |
+| Location | Madrid, Madrid, Spain |
 | Category | Sales Engineer |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/keyfactorinc/jobs/5973426004) |
+| Posted | 2026-08-12 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/keyfactorinc/jobs/6141971004) |
 
 ## About This Role
 
-This sales engineer position at Keyfactor, Inc. was posted on 2026-04-20.
+This sales engineer position at Keyfactor, Inc. was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

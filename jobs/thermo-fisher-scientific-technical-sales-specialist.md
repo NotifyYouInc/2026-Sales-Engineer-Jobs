@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Thermo Fisher Scientific](https://scoutify.ai/companies/thermo-fisher-scientific?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Boston, Massachusetts, United States |
+| Location | Singapore, Singapore |
 | Category | Sales Engineer |
-| Posted | 2026-06-12 |
-| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Boston-Massachusetts-USA/Technical-Sales-Specialist_R-01356659) |
+| Posted | 2026-08-12 |
+| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Singapore-Singapore/Technical-Sales-Specialist_R-01362995) |
 
 ## About This Role
 
-This sales engineer position at Thermo Fisher Scientific was posted on 2026-06-12.
+This sales engineer position at Thermo Fisher Scientific was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

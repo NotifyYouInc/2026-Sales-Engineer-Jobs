@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [ServiceNow](https://scoutify.ai/companies/servicenow?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Fort Meade, Maryland, United States |
-| Category | Customer Success |
-| Posted | 2026-06-15 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000132248379-principal-technical-consultant-platform-federal-tsscifsp-clearance) |
+| Category | Sales Engineer |
+| Posted | 2026-08-12 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000143177509-principal-technical-consultant-platform-federal-tsscifsp-clearance) |
 
 ## About This Role
 
-This customer success position at ServiceNow was posted on 2026-06-15.
+This sales engineer position at ServiceNow was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Genesys](https://scoutify.ai/companies/genesys?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Colorado, US |
-| Category | Technical & Solutions Architect |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://genesys.wd1.myworkdayjobs.com/Genesys/job/Colorado-USA/Senior-Solution-Consultant_JR111090) |
+| Location | Prague, Prague, Czechia |
+| Category | Sales Engineer |
+| Posted | 2026-08-12 |
+| Apply | [View on company site](https://genesys.wd1.myworkdayjobs.com/Genesys/job/Prague-Flexible/Senior-Solution-Consultant_JR112032-1) |
 
 ## About This Role
 
-This technical & solutions architect position at Genesys was posted on 2026-05-18.
+This sales engineer position at Genesys was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

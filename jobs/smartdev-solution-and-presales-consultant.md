@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [SmartDev](https://scoutify.ai/companies/smartdev?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Hải Châu, Da Nang City, Vietnam |
-| Category | Technical & Solutions Architect |
-| Posted | 2026-07-30 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/smartdev1/744000140597619-solution-and-presales-consultant) |
+| Location | Cầu Giấy, Hanoi, Vietnam |
+| Category | Sales Engineer |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/smartdev1/744000143220870-solution-and-presales-consultant) |
 
 ## About This Role
 
-This technical & solutions architect position at SmartDev was posted on 2026-07-30.
+This sales engineer position at SmartDev was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

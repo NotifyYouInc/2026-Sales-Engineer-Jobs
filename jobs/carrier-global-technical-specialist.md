@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Carrier Global](https://scoutify.ai/companies/carrier?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | 2 locations |
-| Category | Sales Engineer |
+| Category | Cybersecurity Engineer |
 | Posted | 2026-08-11 |
 | Apply | [View on company site](https://carrier.wd5.myworkdayjobs.com/jobs/job/Building-No-12D-Floor-5-Raheja-Mindspace-Cyberabad-Madhapur-Hyderabad---500081-Telangana-India/Technical-Specialist_30215187) |
 
 ## About This Role
 
-This sales engineer position at Carrier Global was posted on 2026-08-11.
+This cybersecurity engineer position at Carrier Global was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

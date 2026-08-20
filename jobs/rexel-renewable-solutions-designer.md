@@ -5,12 +5,12 @@
 | Company | [REXEL](https://scoutify.ai/companies/rexel?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Birmingham, England, United Kingdom |
 | Category | Sales Engineer |
-| Posted | 2026-08-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/REXEL1/744000141316154-renewable-solutions-designer) |
+| Posted | 2026-08-12 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/REXEL1/744000143060019-renewable-solutions-designer) |
 
 ## About This Role
 
-This sales engineer position at REXEL was posted on 2026-08-03.
+This sales engineer position at REXEL was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

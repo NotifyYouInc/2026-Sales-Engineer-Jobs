@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Workday](https://scoutify.ai/companies/workday?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Costa Rica |
-| Category | Customer Success |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://workday.wd5.myworkdayjobs.com/Workday/job/Costa-Rica/Technical-Account-Manager_JR-0102943-2) |
+| Location | 3 locations |
+| Category | Sales Engineer |
+| Posted | 2026-08-12 |
+| Apply | [View on company site](https://workday.wd5.myworkdayjobs.com/Workday/job/USA-UT-Salt-Lake-City/Technical-Account-Manager_JR-0109151-1) |
 
 ## About This Role
 
-This customer success position at Workday was posted on 2026-02-05.
+This sales engineer position at Workday was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

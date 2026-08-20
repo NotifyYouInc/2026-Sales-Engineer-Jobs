@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [3M Company](https://scoutify.ai/companies/3m-company?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Shanghai, Shanghai, China |
+| Location | Livonia, Michigan, United States |
 | Category | Sales Engineer |
-| Posted | 2026-08-10 |
-| Apply | [View on company site](https://3m.wd1.myworkdayjobs.com/Search/job/CN-Shanghai/Senior-Application-Engineer_R01169129) |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://3m.wd1.myworkdayjobs.com/Search/job/US-Michigan-Livonia/Senior-Application-Engineer_R01169295) |
 
 ## About This Role
 
-This sales engineer position at 3M Company was posted on 2026-08-10.
+This sales engineer position at 3M Company was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

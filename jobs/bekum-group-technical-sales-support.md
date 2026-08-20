@@ -5,12 +5,12 @@
 | Company | [Bekum Group](https://scoutify.ai/companies/bekumgroup?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Williamston, North Carolina, United States |
 | Category | Sales Engineer |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BekumGroup/744000112215814-technical-sales-support) |
+| Posted | 2026-08-12 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BekumGroup/744000143173798-technical-sales-support) |
 
 ## About This Role
 
-This sales engineer position at Bekum Group was posted on 2026-03-02.
+This sales engineer position at Bekum Group was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

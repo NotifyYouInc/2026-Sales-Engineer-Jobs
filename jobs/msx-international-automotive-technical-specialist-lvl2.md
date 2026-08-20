@@ -5,12 +5,12 @@
 | Company | [MSX International](https://scoutify.ai/companies/msxinternational?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Evere, Brussels Capital, Belgium |
 | Category | Sales Engineer |
-| Posted | 2026-08-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/MSXInternational/3743990014511166-automotive-technical-specialist-lvl2) |
+| Posted | 2026-08-12 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/MSXInternational/3743990014554716-automotive-technical-specialist-lvl2) |
 
 ## About This Role
 
-This sales engineer position at MSX International was posted on 2026-08-10.
+This sales engineer position at MSX International was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

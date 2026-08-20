@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [NiCE](https://scoutify.ai/companies/nice?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | United States |
-| Category | Technical & Solutions Architect |
-| Posted | 2026-05-29 |
-| Apply | [View on company site](https://boards.eu.greenhouse.io/nice/jobs/4868399101?gh_jid=4868399101) |
+| Category | Sales Engineer |
+| Posted | 2026-08-12 |
+| Apply | [View on company site](https://boards.eu.greenhouse.io/nice/jobs/4951008101?gh_jid=4951008101) |
 
 ## About This Role
 
-This technical & solutions architect position at NiCE was posted on 2026-05-29.
+This sales engineer position at NiCE was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Unisys](https://scoutify.ai/companies/unisys?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Norwich, Connecticut, United States |
-| Category | Sales Engineer |
-| Posted | 2026-07-20 |
-| Apply | [View on company site](https://unisys.wd5.myworkdayjobs.com/External/job/Norwich-CT-United-States-of-America/Field-Engineer-Technician_REQ574477) |
+| Location | Chicago, Illinois, United States |
+| Category | IT & Systems Administration |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://unisys.wd5.myworkdayjobs.com/External/job/Chicago-IL-United-States-of-America/Field-Engineer-Technician_REQ574981) |
 
 ## About This Role
 
-This sales engineer position at Unisys was posted on 2026-07-20.
+This it & systems administration position at Unisys was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

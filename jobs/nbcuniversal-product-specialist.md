@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [NBCUniversal](https://scoutify.ai/companies/nbcuniversal?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Orlando, Florida, United States |
-| Category | Product Manager |
-| Posted | 2026-05-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NBCUniversal3/744000128788800-product-specialist) |
+| Location | New York City, New York, United States |
+| Category | Sales Engineer |
+| Posted | 2026-08-12 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NBCUniversal3/744000143156429-product-specialist) |
 
 ## About This Role
 
-This product manager position at NBCUniversal was posted on 2026-05-27.
+This sales engineer position at NBCUniversal was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

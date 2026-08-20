@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Bristol-Myers Squibb](https://scoutify.ai/companies/bristol-myers-squibb?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Princeton, Florida, United States |
-| Category | Software Engineer |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://bristolmyerssquibb.wd5.myworkdayjobs.com/BMS/job/Princeton---NJ---US/Senior-Technology-Specialist--Veeva-Quality-Vault_R1601669) |
+| Category | AI / LLM Engineer |
+| Posted | 2026-08-12 |
+| Apply | [View on company site](https://bristolmyerssquibb.wd5.myworkdayjobs.com/BMS/job/Princeton---NJ---US/Senior-Technology-Specialist--Veeva-Quality-Vault_R1605291-1) |
 
 ## About This Role
 
-This software engineer position at Bristol-Myers Squibb was posted on 2026-04-29.
+This ai / llm engineer position at Bristol-Myers Squibb was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

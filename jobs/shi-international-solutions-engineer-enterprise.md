@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [SHI International](https://scoutify.ai/companies/shi-international?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Kansas, US |
+| Location | Arizona, US |
 | Category | Sales Engineer |
-| Posted | 2026-08-08 |
-| Apply | [View on company site](https://shi.wd12.myworkdayjobs.com/shicareers/job/US---MO---Home-Office/Solutions-Engineer---Enterprise_JR3528) |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://shi.wd12.myworkdayjobs.com/shicareers/job/US---AZ---Home-Office/Solutions-Engineer---Enterprise_JR3530) |
 
 ## About This Role
 
-This sales engineer position at SHI International was posted on 2026-08-08.
+This sales engineer position at SHI International was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

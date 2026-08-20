@@ -6,7 +6,7 @@
 | Location | Braine-l'Alleud, Wallonia, Belgium |
 | Category | Sales Engineer |
 | Posted | 2026-08-10 |
-| Apply | [View on company site](https://spektrum-group.com/jobs?gh_jid=4949675101) |
+| Apply | [View on company site](https://spektrum-group.com/jobs?gh_jid=4949882101) |
 
 ## About This Role
 

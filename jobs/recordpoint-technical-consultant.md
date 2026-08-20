@@ -5,12 +5,12 @@
 | Company | [Recordpoint](https://scoutify.ai/companies/recordpoint?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Sydney, New South Wales, Australia |
 | Category | Sales Engineer |
-| Posted | 2026-06-17 |
-| Apply | [View on company site](https://jobs.lever.co/recordpoint/8b826459-b189-41a6-8e77-fff8a750d219) |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://jobs.lever.co/recordpoint/8c4e13d7-ded7-4aa4-8f49-0117300c52e1) |
 
 ## About This Role
 
-This sales engineer position at Recordpoint was posted on 2026-06-17.
+This sales engineer position at Recordpoint was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

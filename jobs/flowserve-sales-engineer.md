@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Flowserve](https://scoutify.ai/companies/flowserve?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Kawasaki, Kanagawa, Japan |
+| Location | Tennessee, US |
 | Category | Sales Engineer |
-| Posted | 2026-08-03 |
-| Apply | [View on company site](https://flowserve.wd1.myworkdayjobs.com/applied/job/Kawasaki-City-Japan/Sales-Engineer_R-19819-1) |
+| Posted | 2026-08-12 |
+| Apply | [View on company site](https://flowserve.wd1.myworkdayjobs.com/applied/job/US_Alabama_WFH/Sales-Engineer_R-20427) |
 
 ## About This Role
 
-This sales engineer position at Flowserve was posted on 2026-08-03.
+This sales engineer position at Flowserve was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

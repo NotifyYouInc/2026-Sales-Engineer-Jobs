@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Agilent](https://scoutify.ai/companies/agilent?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | 5 locations |
+| Location | New Delhi, Delhi, India |
 | Category | Sales Engineer |
-| Posted | 2026-06-30 |
-| Apply | [View on company site](https://agilent.wd5.myworkdayjobs.com/agilent_careers/job/US-PA-Remote-Location/Pre-Sales-Application-Engineer_4036810) |
+| Posted | 2026-08-12 |
+| Apply | [View on company site](https://agilent.wd5.myworkdayjobs.com/agilent_careers/job/India-New-Delhi/Pre-Sales-Application-Engineer_4039364) |
 
 ## About This Role
 
-This sales engineer position at Agilent was posted on 2026-06-30.
+This sales engineer position at Agilent was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Daimler Truck](https://scoutify.ai/companies/dtna?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Fort Mill, South Carolina, United States |
 | Category | Sales Engineer |
-| Posted | 2026-07-06 |
-| Apply | [View on company site](https://dtna.wd5.myworkdayjobs.com/DTNA_external/job/Fort-Mill-SC-US/Customer-Application-Engineer-I_DT-18233-2) |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://dtna.wd5.myworkdayjobs.com/DTNA_external/job/Fort-Mill-SC-US/Customer-Application-Engineer-I_DT-19212) |
 
 ## About This Role
 
-This sales engineer position at Daimler Truck was posted on 2026-07-06.
+This sales engineer position at Daimler Truck was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

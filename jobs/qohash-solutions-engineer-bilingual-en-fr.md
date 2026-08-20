@@ -5,12 +5,12 @@
 | Company | [Qohash](https://scoutify.ai/companies/qohash?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Montréal, Quebec, Canada |
 | Category | Sales Engineer |
-| Posted | 2026-06-12 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/qohash/jobs/4705547005) |
+| Posted | 2026-08-12 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/qohash/jobs/4722050005) |
 
 ## About This Role
 
-This sales engineer position at Qohash was posted on 2026-06-12.
+This sales engineer position at Qohash was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

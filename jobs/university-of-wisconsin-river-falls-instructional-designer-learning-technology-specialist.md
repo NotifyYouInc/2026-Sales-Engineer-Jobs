@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [University of Wisconsin-River Falls](https://scoutify.ai/companies/university-of-wisconsin-river-falls?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | University, Florida, United States |
-| Category | Sales Engineer |
+| Category | Learning & Development |
 | Posted | 2026-08-10 |
 | Apply | [View on company site](https://wisconsin.wd1.myworkdayjobs.com/uw_comprehensives/job/Oshkosh-WI/Instructional-Designer---Learning-Technology-Specialist_JR10013688) |
 
 ## About This Role
 
-This sales engineer position at University of Wisconsin-River Falls was posted on 2026-08-10.
+This learning & development position at University of Wisconsin-River Falls was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 

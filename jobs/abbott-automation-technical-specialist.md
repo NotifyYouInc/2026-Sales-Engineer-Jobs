@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Abbott](https://scoutify.ai/companies/abbott-laboratories?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Not specified |
-| Category | Customer Success |
-| Posted | 2026-06-09 |
-| Apply | [View on company site](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States-of-America--Remote/Automation-Technical-Specialist_31152231-1) |
+| Location | 7 locations |
+| Category | Sales Engineer |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Illinois---Abbott-Park/Automation-Technical-Specialist_31158897-1) |
 
 ## About This Role
 
-This customer success position at Abbott was posted on 2026-06-09.
+This sales engineer position at Abbott was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

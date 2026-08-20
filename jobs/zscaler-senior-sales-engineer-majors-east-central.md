@@ -1,16 +1,16 @@
-# Senior Sales Engineer - Majors, East Central at Zscaler
+# Senior Sales Engineer - Majors, East Central  at Zscaler
 
 | Field | Details |
 |-------|---------|
 | Company | [Zscaler](https://scoutify.ai/companies/zscaler?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Tennessee, US |
 | Category | Sales Engineer |
-| Posted | 2026-08-10 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/zscaler/jobs/5198880007) |
+| Posted | 2026-08-12 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/zscaler/jobs/5198882007) |
 
 ## About This Role
 
-This sales engineer position at Zscaler was posted on 2026-08-10.
+This sales engineer position at Zscaler was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 
