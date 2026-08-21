@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Addepar](https://scoutify.ai/companies/addepar?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Salt Lake City, Utah, United States |
-| Category | Customer Success |
-| Posted | 2026-06-11 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/addepar1/jobs/8588110002) |
+| Category | Sales Engineer |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/addepar1/jobs/8706718002) |
 
 ## About This Role
 
-This customer success position at Addepar was posted on 2026-06-11.
+This sales engineer position at Addepar was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Cision](https://scoutify.ai/companies/cision?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | India |
-| Category | Customer Success |
-| Posted | 2026-05-30 |
-| Apply | [View on company site](https://job-boards.eu.greenhouse.io/cision/jobs/4875715101) |
+| Category | Sales Engineer |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://job-boards.eu.greenhouse.io/cision/jobs/4948260101) |
 
 ## About This Role
 
-This customer success position at Cision was posted on 2026-05-30.
+This sales engineer position at Cision was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

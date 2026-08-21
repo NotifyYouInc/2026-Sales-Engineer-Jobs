@@ -1,16 +1,16 @@
-# Senior Sales Engineer - Majors West at Datadog
+# Senior Sales Engineer - Majors (West) at Datadog
 
 | Field | Details |
 |-------|---------|
 | Company | [Datadog](https://scoutify.ai/companies/datadog?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | California, US |
-| Category | Account Executive |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://careers.datadoghq.com/detail/7677759/?gh_jid=7677759) |
+| Category | Sales Engineer |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://careers.datadoghq.com/detail/8126596/?gh_jid=8126596) |
 
 ## About This Role
 
-This account executive position at Datadog was posted on 2026-03-09.
+This sales engineer position at Datadog was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

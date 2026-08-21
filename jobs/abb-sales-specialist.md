@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ABB](https://scoutify.ai/companies/abb?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Chengdu, Sichuan, China |
+| Location | Luleå, Norrbotten, Sweden |
 | Category | Account Executive |
-| Posted | 2026-08-11 |
-| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Chengdu-Sichuan-China/Sales-Specialist_JR00043375-3) |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Lulea-Norrbotten-County-Sweden/Sales-Specialist_JR00033321) |
 
 ## About This Role
 
-This account executive position at ABB was posted on 2026-08-11.
+This account executive position at ABB was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Wolters Kluwer](https://scoutify.ai/companies/wolters-kluwer?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Hasselt, Flanders, Belgium |
-| Category | Customer Success |
-| Posted | 2026-04-28 |
-| Apply | [View on company site](https://wk.wd3.myworkdayjobs.com/External/job/NLD---Hoevelaken/API---Implementation-Consultant_R0053523) |
+| Category | Sales Engineer |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://wk.wd3.myworkdayjobs.com/External/job/NLD---Hoevelaken/API-Integration-Consultant_R0058375) |
 
 ## About This Role
 
-This customer success position at Wolters Kluwer was posted on 2026-04-28.
+This sales engineer position at Wolters Kluwer was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

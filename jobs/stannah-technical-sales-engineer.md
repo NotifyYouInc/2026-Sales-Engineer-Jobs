@@ -5,12 +5,12 @@
 | Company | [Stannah](https://scoutify.ai/companies/stannah?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | United Kingdom |
 | Category | Sales Engineer |
-| Posted | 2026-07-30 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Stannah1/744000140617360-technical-sales-engineer) |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Stannah1/744000143257293-technical-sales-engineer) |
 
 ## About This Role
 
-This sales engineer position at Stannah was posted on 2026-07-30.
+This sales engineer position at Stannah was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

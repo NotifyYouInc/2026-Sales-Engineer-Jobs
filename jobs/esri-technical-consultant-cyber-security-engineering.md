@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Esri](https://scoutify.ai/companies/esri?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Vienna, Virginia, United States |
-| Category | Security Engineer |
-| Posted | 2026-06-05 |
-| Apply | [View on company site](https://www.esri.com/careers/5109028007?gh_jid=5109028007) |
+| Location | St. Louis, Missouri, United States |
+| Category | Sales Engineer |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://www.esri.com/careers/5211443007?gh_jid=5211443007) |
 
 ## About This Role
 
-This security engineer position at Esri was posted on 2026-06-05.
+This sales engineer position at Esri was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

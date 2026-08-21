@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Veolia](https://scoutify.ai/companies/veolia?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Salt Lake City, Utah, United States |
-| Category | Asset Management / Portfolio Management |
-| Posted | 2026-08-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000142006519-technical-sales-account-manager-sdiasset-care-denversalt-lake-city) |
+| Location | Commerce City, Colorado, United States |
+| Category | Sales |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000143356919-technical-sales-account-manager-sdiasset-care-denversalt-lake-city) |
 
 ## About This Role
 
-This asset management / portfolio management position at Veolia was posted on 2026-08-06.
+This sales position at Veolia was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

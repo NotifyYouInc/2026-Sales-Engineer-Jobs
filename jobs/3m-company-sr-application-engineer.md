@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [3M Company](https://scoutify.ai/companies/3m-company?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Shanghai, Shanghai, China |
-| Category | Software Engineer |
-| Posted | 2026-06-11 |
-| Apply | [View on company site](https://3m.wd1.myworkdayjobs.com/Search/job/CN-Shanghai/Sr-Application-Engineer_R01166512-1) |
+| Location | 2 locations |
+| Category | Sales Engineer |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://3m.wd1.myworkdayjobs.com/Search/job/US-Minnesota-Maplewood/Sr-Application-Engineer_R01168751) |
 
 ## About This Role
 
-This software engineer position at 3M Company was posted on 2026-06-11.
+This sales engineer position at 3M Company was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

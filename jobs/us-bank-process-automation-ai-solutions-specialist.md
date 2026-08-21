@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [U.S. Bank](https://scoutify.ai/companies/u-s-bank?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Atlanta, Georgia, United States |
-| Category | Sales Engineer |
-| Posted | 2026-05-01 |
-| Apply | [View on company site](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Atlanta-GA/Process-Automation---AI-Solutions-Specialist_2026-0011203) |
+| Location | 4 locations |
+| Category | Strategy & Operations |
+| Posted | 2026-08-14 |
+| Apply | [View on company site](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Atlanta-GA/Process-Automation---AI-Solutions-Specialist_2026-0025191) |
 
 ## About This Role
 
-This sales engineer position at U.S. Bank was posted on 2026-05-01.
+This strategy & operations position at U.S. Bank was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

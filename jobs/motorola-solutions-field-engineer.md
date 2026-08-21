@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Motorola Solutions](https://scoutify.ai/companies/motorola-solutions?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Tennessee, US |
-| Category | IT & Systems Administration |
-| Posted | 2026-03-23 |
-| Apply | [View on company site](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Illinois-Remote-Work/Field-Engineer_R62939) |
+| Location | Illinois, US |
+| Category | Sales Engineer |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Illinois-Remote-Work/Field-Engineer_R67664) |
 
 ## About This Role
 
-This it & systems administration position at Motorola Solutions was posted on 2026-03-23.
+This sales engineer position at Motorola Solutions was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

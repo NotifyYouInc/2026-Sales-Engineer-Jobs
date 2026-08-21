@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Insulet Corporation](https://scoutify.ai/companies/insulet?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Guadalajara, Jalisco, Mexico |
-| Category | Customer Success |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://insulet.wd5.myworkdayjobs.com/insuletcareers/job/MX---Guadalajara-Office/Clinical-Product-Specialist_REQ-2026-14778) |
+| Location | Montréal, Quebec, Canada |
+| Category | Sales Engineer |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://insulet.wd5.myworkdayjobs.com/insuletcareers/job/CA---Montreal/Clinical-Product-Specialist_REQ-2026-17629) |
 
 ## About This Role
 
-This customer success position at Insulet Corporation was posted on 2026-03-06.
+This sales engineer position at Insulet Corporation was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

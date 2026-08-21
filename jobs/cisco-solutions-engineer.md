@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Charlotte, North Carolina, United States |
+| Location | 2 locations |
 | Category | Sales Engineer |
-| Posted | 2026-08-10 |
-| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/RTP-North-Carolina-US/Solutions-Engineer_2020161) |
+| Posted | 2026-08-12 |
+| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Fulton-Maryland-US/Solutions-Engineer_2020539) |
 
 ## About This Role
 
-This sales engineer position at Cisco was posted on 2026-08-10.
+This sales engineer position at Cisco was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | 5 locations |
-| Category | Cybersecurity Engineer |
+| Category | Sales Engineer |
 | Posted | 2026-08-12 |
 | Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckR55WL3VGEnc9zRSO-yZaOLJ5sdM2YA2E9R5pmi9O0lpEjsA1Ny_ixXX5kGYLGpknl2FtJIlWuQ9HVB-tWE5jvAP0fNdDe7WWLwpNx6RTUrsW8k9WBzZq29xAgdlWw%3D%3D_V2&loc=US&title=Physical+Security) |
 
 ## About This Role
 
-This cybersecurity engineer position at Google was posted on 2026-08-12.
+This sales engineer position at Google was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

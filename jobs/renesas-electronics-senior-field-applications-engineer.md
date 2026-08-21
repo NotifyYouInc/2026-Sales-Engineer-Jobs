@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Renesas Electronics](https://scoutify.ai/companies/renesaselectronics?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | San Jose, California, United States |
+| Location | Istanbul, Istanbul, Turkey |
 | Category | Sales Engineer |
-| Posted | 2026-06-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/RenesasElectronics/744000133394315-senior-field-applications-engineer) |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/RenesasElectronics/744000143326022-senior-field-applications-engineer) |
 
 ## About This Role
 
-This sales engineer position at Renesas Electronics was posted on 2026-06-22.
+This sales engineer position at Renesas Electronics was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

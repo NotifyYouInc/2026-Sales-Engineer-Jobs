@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Neo4j](https://scoutify.ai/companies/neo4j?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Not specified |
+| Location | United States |
 | Category | Sales Engineer |
-| Posted | 2026-07-02 |
-| Apply | [View on company site](https://boards.greenhouse.io/neo4j/jobs/4693556006?gh_jid=4693556006) |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://boards.greenhouse.io/neo4j/jobs/4705210006?gh_jid=4705210006) |
 
 ## About This Role
 
-This sales engineer position at Neo4j was posted on 2026-07-02.
+This sales engineer position at Neo4j was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

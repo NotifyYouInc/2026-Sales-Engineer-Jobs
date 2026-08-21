@@ -6,7 +6,7 @@
 | Location | Syracuse, New York, United States |
 | Category | Account Executive |
 | Posted | 2026-08-11 |
-| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Syracuse-New-York-US/Account-Executive---Portfolio_2021198) |
+| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Syracuse-New-York-US/Account-Executive---Portfolio_2021863) |
 
 ## About This Role
 

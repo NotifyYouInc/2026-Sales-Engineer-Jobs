@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | São Paulo, São Paulo, Brazil |
+| Location | Nairobi, Nairobi County, Kenya |
 | Category | Sales Engineer |
-| Posted | 2026-07-20 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckcG5klFekLWbE50ccdcm3mRfWUVY5D-AjWFhyQgyqcGMEjsA1Ny_i8UxwrqA_pv-NTsVSxcrX9CCjCnX4y23msP9SP8iejQKLX5BV0lHsxPiiTUOqHg2jNqtlazzoA%3D%3D_V2&loc=BR&title=Education+Solutions+Engineer) |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckV94HISBMffA7H1h2Q82zlINkh-8bsZeSTDTc2DKK9dTEjsA1Ny_i2OJQkMjKD00XL3BbppI6AJRd-aZ4_QbhTmgbf2iaauqiUQID8XPVPgEmwvffYRiMX2gls4Omw%3D%3D_V2&loc=KE&title=Education+Solutions+Engineer) |
 
 ## About This Role
 
-This sales engineer position at Google was posted on 2026-07-20.
+This sales engineer position at Google was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

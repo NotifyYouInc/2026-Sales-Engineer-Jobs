@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Nationwide](https://scoutify.ai/companies/nationwide?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | 3 locations |
-| Category | Cybersecurity Engineer |
+| Category | AI / LLM Engineer |
 | Posted | 2026-08-13 |
 | Apply | [View on company site](https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-Three-Nationwide-Plaza/Consultant--Cybersecurity--Agentic-Solutions-Engineer-_099562) |
 
 ## About This Role
 
-This cybersecurity engineer position at Nationwide was posted on 2026-08-13.
+This ai / llm engineer position at Nationwide was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

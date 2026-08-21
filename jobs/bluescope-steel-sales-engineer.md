@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Bluescope Steel](https://scoutify.ai/companies/bluescope-steel?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Kansas City, Missouri, United States |
+| Location | Missouri, US |
 | Category | Sales Engineer |
-| Posted | 2026-07-28 |
-| Apply | [View on company site](https://bluescopenac.wd5.myworkdayjobs.com/bnacareers/job/MO-Kansas-City/Sales-Engineer_REQ-3051) |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://bluescopenac.wd5.myworkdayjobs.com/bnacareers/job/Missouri---Remote/Sales-Engineer_REQ-3128) |
 
 ## About This Role
 
-This sales engineer position at Bluescope Steel was posted on 2026-07-28.
+This sales engineer position at Bluescope Steel was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

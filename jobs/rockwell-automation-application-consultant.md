@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Rockwell Automation](https://scoutify.ai/companies/rockwellautomation?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | 3 locations |
-| Category | Technology / IT Consulting |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Detroit-Michigan-United-States/Application-Consultant_R26-627) |
+| Location | Caracas, Distrito Federal, Venezuela |
+| Category | Sales Engineer |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Caracas-Capital-District-Venezuela/Application-Consultant_R26-5993) |
 
 ## About This Role
 
-This technology / it consulting position at Rockwell Automation was posted on 2026-04-30.
+This sales engineer position at Rockwell Automation was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

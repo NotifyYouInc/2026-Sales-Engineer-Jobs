@@ -5,12 +5,12 @@
 | Company | [Globus Medical](https://scoutify.ai/companies/globusmedical?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | United Kingdom |
 | Category | Sales Engineer |
-| Posted | 2026-06-16 |
-| Apply | [View on company site](https://globusmedical.wd5.myworkdayjobs.com/gmed_careers/job/United-Kingdom/Clinical-Specialist---Midlands_JR107073-1) |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://globusmedical.wd5.myworkdayjobs.com/gmed_careers/job/United-Kingdom/Clinical-Specialist---Midlands_JR107514) |
 
 ## About This Role
 
-This sales engineer position at Globus Medical was posted on 2026-06-16.
+This sales engineer position at Globus Medical was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

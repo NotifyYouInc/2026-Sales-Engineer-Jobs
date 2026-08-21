@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Ensigninfosecurity](https://scoutify.ai/companies/ensigninfosecurity?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Indonesia |
-| Category | Cybersecurity Engineer |
+| Category | Sales Engineer |
 | Posted | 2026-08-12 |
 | Apply | [View on company site](https://ensigninfosecurity.wd3.myworkdayjobs.com/ensign_careers/job/Indonesia/SOC-Implementation-Consultant_JOBREQ-0003579) |
 
 ## About This Role
 
-This cybersecurity engineer position at Ensigninfosecurity was posted on 2026-08-12.
+This sales engineer position at Ensigninfosecurity was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 
