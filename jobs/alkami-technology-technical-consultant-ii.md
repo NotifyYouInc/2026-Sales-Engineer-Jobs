@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Alkami Technology](https://scoutify.ai/companies/alkami-technology?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | United States |
-| Category | Customer Success |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://alkami.wd12.myworkdayjobs.com/alkami/job/US-Remote/Technical-Consultant-II_JR-000670) |
+| Category | Sales Engineer |
+| Posted | 2026-08-15 |
+| Apply | [View on company site](https://alkami.wd12.myworkdayjobs.com/alkami/job/US-Remote/Technical-Consultant-II_JR-000827) |
 
 ## About This Role
 
-This customer success position at Alkami Technology was posted on 2026-05-19.
+This sales engineer position at Alkami Technology was posted on 2026-08-15.
 
 ## Get Real-Time Alerts
 

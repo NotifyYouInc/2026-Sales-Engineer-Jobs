@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Formlabs](https://scoutify.ai/companies/formlabs?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Berlin, State of Berlin, Germany |
-| Category | Account Executive |
-| Posted | 2026-06-23 |
-| Apply | [View on company site](https://careers.formlabs.com/job/8023803/apply/?gh_jid=8023803) |
+| Category | Sales Engineer |
+| Posted | 2026-08-14 |
+| Apply | [View on company site](https://careers.formlabs.com/job/8129973/apply/?gh_jid=8129973) |
 
 ## About This Role
 
-This account executive position at Formlabs was posted on 2026-06-23.
+This sales engineer position at Formlabs was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

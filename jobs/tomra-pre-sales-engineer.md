@@ -5,12 +5,12 @@
 | Company | [TOMRA](https://scoutify.ai/companies/tomra?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Spain |
 | Category | Sales Engineer |
-| Posted | 2026-08-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Tomra/744000142915494-pre-sales-engineer) |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Tomra/744000143312689-pre-sales-engineer) |
 
 ## About This Role
 
-This sales engineer position at TOMRA was posted on 2026-08-11.
+This sales engineer position at TOMRA was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

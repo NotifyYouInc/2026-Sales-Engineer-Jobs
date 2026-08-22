@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Environmental Resources Management (ERM)](https://scoutify.ai/companies/environmental-resources-management-erm?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | 5 locations |
-| Category | Corporate Development & M&A |
-| Posted | 2026-04-10 |
-| Apply | [View on company site](https://erm.wd3.myworkdayjobs.com/erm_careers/job/Seattle-Washington/Managing-Technical-Consultant--Environmental-Permitting---Due-Diligence-Project-Manager_R00029996-1) |
+| Category | Project Manager |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://erm.wd3.myworkdayjobs.com/erm_careers/job/Seattle-Washington/Managing-Technical-Consultant--Environmental-Permitting---Due-Diligence-Project-Manager_R00031587-2) |
 
 ## About This Role
 
-This corporate development & m&a position at Environmental Resources Management (ERM) was posted on 2026-04-10.
+This project manager position at Environmental Resources Management (ERM) was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

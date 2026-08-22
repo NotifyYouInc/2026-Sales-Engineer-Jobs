@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Environmental Resources Management (ERM)](https://scoutify.ai/companies/environmental-resources-management-erm?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Seattle, Washington, United States |
-| Category | ESG / Sustainability |
-| Posted | 2026-04-10 |
-| Apply | [View on company site](https://erm.wd3.myworkdayjobs.com/erm_careers/job/Seattle-Washington/Managing-Technical-Consultant--Biologist-Regulatory-Specialist--Power-and-Technology-Sectors_R00029995-1) |
+| Category | Sales Engineer |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://erm.wd3.myworkdayjobs.com/erm_careers/job/Seattle-Washington/Managing-Technical-Consultant--Biologist-Regulatory-Specialist--Power-and-Technology-Sectors_R00031588-1) |
 
 ## About This Role
 
-This esg / sustainability position at Environmental Resources Management (ERM) was posted on 2026-04-10.
+This sales engineer position at Environmental Resources Management (ERM) was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

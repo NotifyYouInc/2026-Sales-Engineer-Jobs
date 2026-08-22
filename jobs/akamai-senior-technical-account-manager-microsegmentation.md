@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Akamai](https://scoutify.ai/companies/ocs-cx-oj3301?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Brazil |
+| Location | United Arab Emirates |
 | Category | Sales Engineer |
-| Posted | 2026-06-23 |
-| Apply | [View on company site](https://fa-extu-saasfaprod1.fa.ocs.oraclecloud.com/jobs/#3330) |
+| Posted | 2026-08-14 |
+| Apply | [View on company site](https://fa-extu-saasfaprod1.fa.ocs.oraclecloud.com/jobs/#3694) |
 
 ## About This Role
 
-This sales engineer position at Akamai was posted on 2026-06-23.
+This sales engineer position at Akamai was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

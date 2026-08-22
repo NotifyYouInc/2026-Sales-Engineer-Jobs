@@ -1,16 +1,16 @@
-# TECHNICAL ACCOUNT MANAGER (Presencial en Monterrey) at DXC Technology
+# Technical Account Manager (presencial en Monterrey) at DXC Technology
 
 | Field | Details |
 |-------|---------|
 | Company | [DXC Technology](https://scoutify.ai/companies/dxctechnology?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Monterrey, Nuevo León, Mexico |
-| Category | Sales Engineer |
-| Posted | 2026-07-14 |
-| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/MEX---NLE---MONTERREY/TECHNICAL-ACCOUNT-MANAGER--Presencial-en-Monterrey-_51585123-1) |
+| Category | Sales |
+| Posted | 2026-08-14 |
+| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/MEX---NLE---MONTERREY/Operador-de-Data-Center--presencial-en-Monterrey-_51572892) |
 
 ## About This Role
 
-This sales engineer position at DXC Technology was posted on 2026-07-14.
+This sales position at DXC Technology was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

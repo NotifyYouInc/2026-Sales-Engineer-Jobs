@@ -5,12 +5,12 @@
 | Company | [CrowdStrike](https://scoutify.ai/companies/crowdstrike?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | California, US |
 | Category | Sales Engineer |
-| Posted | 2026-06-25 |
-| Apply | [View on company site](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote-CA/Specialist--NG-Identity-Security--Remote-_R29217) |
+| Posted | 2026-08-14 |
+| Apply | [View on company site](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote-CA/Specialist--NG-Identity-Security--Remote-_R29605) |
 
 ## About This Role
 
-This sales engineer position at CrowdStrike was posted on 2026-06-25.
+This sales engineer position at CrowdStrike was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

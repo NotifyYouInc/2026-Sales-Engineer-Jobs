@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Autodesk](https://scoutify.ai/companies/autodesk?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Brazil |
+| Location | Georgia, US |
 | Category | Sales Engineer |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://autodesk.wd1.myworkdayjobs.com/Ext/job/AMER---Brazil---OffsiteHome/Technical-Sales-Specialist_26WD97303-1) |
+| Posted | 2026-08-14 |
+| Apply | [View on company site](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Colorado-USA---Remote/Technical-Sales-Specialist_26WD100445) |
 
 ## About This Role
 
-This sales engineer position at Autodesk was posted on 2026-04-16.
+This sales engineer position at Autodesk was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

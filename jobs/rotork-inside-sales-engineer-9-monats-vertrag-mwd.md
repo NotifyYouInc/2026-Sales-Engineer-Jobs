@@ -6,7 +6,7 @@
 | Location | Sinzig, Rheinland-Pfalz, Germany |
 | Category | Sales Engineer |
 | Posted | 2026-08-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Rotork1/744000143059452-inside-sales-engineer-9-monats-vertrag-mwd) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Rotork1/744000143113455-inside-sales-engineer-9-monats-vertrag-mwd) |
 
 ## About This Role
 

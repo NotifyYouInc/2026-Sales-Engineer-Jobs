@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Airwallex](https://scoutify.ai/companies/airwallex?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | London, England, United Kingdom |
+| Location | Amsterdam, North Holland, The Netherlands |
 | Category | Sales Engineer |
-| Posted | 2026-07-14 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/airwallex/79e85187-d127-499b-8464-2cfd288ce4d5) |
+| Posted | 2026-08-14 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/airwallex/77d1969e-ccf6-4d7a-bfa4-6e7e53629705) |
 
 ## About This Role
 
-This sales engineer position at Airwallex was posted on 2026-07-14.
+This sales engineer position at Airwallex was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

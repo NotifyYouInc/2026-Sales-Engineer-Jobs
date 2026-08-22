@@ -5,12 +5,12 @@
 | Company | [VusionGroup SA](https://scoutify.ai/companies/vusiongroup-sa?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Austria |
 | Category | Sales Engineer |
-| Posted | 2026-07-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/vusiongroupsa/744000138573666-solution-engineer-fashion-mwd) |
+| Posted | 2026-08-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/vusiongroupsa/744000143473759-solution-engineer-fashion-mwd) |
 
 ## About This Role
 
-This sales engineer position at VusionGroup SA was posted on 2026-07-20.
+This sales engineer position at VusionGroup SA was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

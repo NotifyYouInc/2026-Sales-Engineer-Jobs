@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amadeus](https://scoutify.ai/companies/amadeus?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Lisbon, Lisbon, Portugal |
-| Category | Customer Success |
-| Posted | 2026-08-03 |
-| Apply | [View on company site](https://amadeus.wd502.myworkdayjobs.com/jobs/job/Lisbon/Implementation-Engineer_R36650) |
+| Location | Irving, Texas, United States |
+| Category | Sales Engineer |
+| Posted | 2026-08-14 |
+| Apply | [View on company site](https://amadeus.wd502.myworkdayjobs.com/jobs/job/Irving-Texas/Implementation-Engineer_R36188) |
 
 ## About This Role
 
-This customer success position at Amadeus was posted on 2026-08-03.
+This sales engineer position at Amadeus was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

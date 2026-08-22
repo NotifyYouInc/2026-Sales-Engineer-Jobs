@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AvePoint](https://scoutify.ai/companies/avepoint?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | London, England, United Kingdom |
+| Location | 2 locations |
 | Category | Sales Engineer |
-| Posted | 2026-07-10 |
-| Apply | [View on company site](https://www.avepoint.com/careers/job-detail?gh_jid=8000759) |
+| Posted | 2026-08-14 |
+| Apply | [View on company site](https://www.avepoint.com/careers/job-detail?gh_jid=8121241) |
 
 ## About This Role
 
-This sales engineer position at AvePoint was posted on 2026-07-10.
+This sales engineer position at AvePoint was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Renesas Electronics](https://scoutify.ai/companies/renesaselectronics?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Frisco, Texas, United States |
-| Category | Software Engineer |
-| Posted | 2026-06-15 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/RenesasElectronics/744000132293779-staff-field-applications-engineer-fae) |
+| Category | Sales Engineer |
+| Posted | 2026-08-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/RenesasElectronics/744000143557769-staff-field-applications-engineer-fae) |
 
 ## About This Role
 
-This software engineer position at Renesas Electronics was posted on 2026-06-15.
+This sales engineer position at Renesas Electronics was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

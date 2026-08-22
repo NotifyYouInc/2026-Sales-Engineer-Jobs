@@ -1,16 +1,16 @@
-# Service Sales Specialist - inden for el-infrastruktur at ABB
+# Service Sales Specialist inden for el-infrastruktur at ABB
 
 | Field | Details |
 |-------|---------|
 | Company | [ABB](https://scoutify.ai/companies/abb?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Middelfart, South Denmark, Denmark |
 | Category | Account Executive |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Middelfart-Region-Syddanmark-Denmark/Service-Sales-Specialist---inden-for-el-infrastruktur_JR00031621) |
+| Posted | 2026-08-14 |
+| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Middelfart-Region-Syddanmark-Denmark/Service-Sales-Specialist-inden-for-el-infrastruktur_JR00044155) |
 
 ## About This Role
 
-This account executive position at ABB was posted on 2026-04-14.
+This account executive position at ABB was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

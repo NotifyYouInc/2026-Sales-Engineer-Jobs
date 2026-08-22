@@ -5,12 +5,12 @@
 | Company | [Renesas Electronics](https://scoutify.ai/companies/renesaselectronics?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Frisco, Texas, United States |
 | Category | Sales Engineer |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/RenesasElectronics/744000127929431-solution-engineer) |
+| Posted | 2026-08-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/RenesasElectronics/744000143540616-solution-engineer) |
 
 ## About This Role
 
-This sales engineer position at Renesas Electronics was posted on 2026-05-22.
+This sales engineer position at Renesas Electronics was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

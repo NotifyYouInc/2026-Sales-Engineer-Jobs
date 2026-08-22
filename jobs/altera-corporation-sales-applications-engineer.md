@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Altera Corporation](https://scoutify.ai/companies/altera?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Tokyo, Tokyo, Japan |
-| Category | Software Engineer |
-| Posted | 2026-06-15 |
-| Apply | [View on company site](https://altera.wd1.myworkdayjobs.com/altera/job/Tokyo-Regus-Japan/Sales-Applications-Engineer_R02663) |
+| Location | Taiwan |
+| Category | Sales Engineer |
+| Posted | 2026-08-14 |
+| Apply | [View on company site](https://altera.wd1.myworkdayjobs.com/altera/job/Virtual-Taiwan/Sales-Applications-Engineer_R02914) |
 
 ## About This Role
 
-This software engineer position at Altera Corporation was posted on 2026-06-15.
+This sales engineer position at Altera Corporation was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

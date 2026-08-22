@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Intel](https://scoutify.ai/companies/intel?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Malaysia |
-| Category | Corporate Finance |
-| Posted | 2026-05-20 |
-| Apply | [View on company site](https://intel.wd1.myworkdayjobs.com/External/job/Malaysia-Penang/Accounting-Technical-Specialist_JR0282083) |
+| Category | Accounting |
+| Posted | 2026-08-14 |
+| Apply | [View on company site](https://intel.wd1.myworkdayjobs.com/External/job/Malaysia-Penang/Accounting-Technical-Specialist_JR0286481) |
 
 ## About This Role
 
-This corporate finance position at Intel was posted on 2026-05-20.
+This accounting position at Intel was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

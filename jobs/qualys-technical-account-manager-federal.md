@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Qualys](https://scoutify.ai/companies/qualys?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | North Carolina, US |
-| Category | Customer Success |
-| Posted | 2026-04-07 |
-| Apply | [View on company site](https://qualys.wd5.myworkdayjobs.com/careers/job/Tennessee/Technical-Account-Manager--Federal_R0004599) |
+| Location | Washington, District of Columbia, United States |
+| Category | Sales |
+| Posted | 2026-08-14 |
+| Apply | [View on company site](https://qualys.wd5.myworkdayjobs.com/careers/job/Maryland/Technical-Account-Manager--Federal_R0004997) |
 
 ## About This Role
 
-This customer success position at Qualys was posted on 2026-04-07.
+This sales position at Qualys was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

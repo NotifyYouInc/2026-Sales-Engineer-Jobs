@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [The Aerospace Corporation](https://scoutify.ai/companies/aero?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | 2 locations |
-| Category | DevOps Engineer |
-| Posted | 2026-03-16 |
-| Apply | [View on company site](https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/Cloud-Solutions-Engineer_R014770) |
+| Location | Chantilly, Virginia, United States |
+| Category | Sales Engineer |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://aero.wd5.myworkdayjobs.com/external/job/Chantilly-VA/Cloud-Solutions-Engineer_R016084) |
 
 ## About This Role
 
-This devops engineer position at The Aerospace Corporation was posted on 2026-03-16.
+This sales engineer position at The Aerospace Corporation was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 
