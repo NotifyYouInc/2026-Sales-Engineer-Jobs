@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [VAM Systems](https://scoutify.ai/companies/vamsystems?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Abu Dhabi, Abu Dhabi, United Arab Emirates |
-| Category | AI / LLM Engineer |
+| Category | Sales Engineer |
 | Posted | 2026-08-14 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/VAMSystems/744000143454489-ai-solutions-engineer-banking) |
 
 ## About This Role
 
-This ai / llm engineer position at VAM Systems was posted on 2026-08-14.
+This sales engineer position at VAM Systems was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

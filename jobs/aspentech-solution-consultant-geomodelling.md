@@ -1,16 +1,16 @@
-# AI Solution Engineer at AECOM
+# Solution Consultant (Geomodelling) at Aspentech
 
 | Field | Details |
 |-------|---------|
-| Company | [AECOM](https://scoutify.ai/companies/aecom?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | London, England, United Kingdom |
+| Company | [Aspentech](https://scoutify.ai/companies/aspentech?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
+| Location | Not specified |
 | Category | Sales Engineer |
-| Posted | 2026-08-14 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000143558909-ai-solution-engineer) |
+| Posted | 2026-08-16 |
+| Apply | [View on company site](https://aspentech.wd5.myworkdayjobs.com/aspentech/job/Solution-Consultant--Geomodelling-_R9320) |
 
 ## About This Role
 
-This sales engineer position at AECOM was posted on 2026-08-14.
+This sales engineer position at Aspentech was posted on 2026-08-16.
 
 ## Get Real-Time Alerts
 

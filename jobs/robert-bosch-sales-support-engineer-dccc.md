@@ -5,12 +5,12 @@
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Changzhou, Jiangsu, China |
 | Category | Sales Engineer |
-| Posted | 2026-07-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000135866489-sales-support-engineer-dccc) |
+| Posted | 2026-08-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000143686779-sales-support-engineer-dccc) |
 
 ## About This Role
 
-This sales engineer position at Robert Bosch was posted on 2026-07-05.
+This sales engineer position at Robert Bosch was posted on 2026-08-16.
 
 ## Get Real-Time Alerts
 

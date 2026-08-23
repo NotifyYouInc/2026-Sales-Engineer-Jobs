@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Hewlett Packard (HP)](https://scoutify.ai/companies/hp?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | AI / LLM Engineer |
-| Posted | 2026-05-07 |
-| Apply | [View on company site](https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Bengaluru-Karnataka-India/AI-Solutions-Engineer_3159817-1) |
+| Category | Sales Engineer |
+| Posted | 2026-08-15 |
+| Apply | [View on company site](https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Bengaluru-Karntaka-India/AI-Solutions-Engineer_3166378-1) |
 
 ## About This Role
 
-This ai / llm engineer position at Hewlett Packard (HP) was posted on 2026-05-07.
+This sales engineer position at Hewlett Packard (HP) was posted on 2026-08-15.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Environmental Resources Management (ERM)](https://scoutify.ai/companies/environmental-resources-management-erm?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | New Delhi, Delhi, India |
-| Category | AI / LLM Engineer |
+| Category | Sales Engineer |
 | Posted | 2026-08-12 |
 | Apply | [View on company site](https://erm.wd3.myworkdayjobs.com/erm_careers/job/New-Delhi-India/AI-Data-Solution-Engineer_R00031553-1) |
 
 ## About This Role
 
-This ai / llm engineer position at Environmental Resources Management (ERM) was posted on 2026-08-12.
+This sales engineer position at Environmental Resources Management (ERM) was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

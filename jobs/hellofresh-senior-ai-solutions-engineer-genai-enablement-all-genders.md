@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [HelloFresh](https://scoutify.ai/companies/hellofresh?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Berlin, State of Berlin, Germany |
-| Category | AI / LLM Engineer |
+| Category | Sales Engineer |
 | Posted | 2026-08-12 |
 | Apply | [View on company site](https://careers.hellofresh.com/global/en/job/8125805?gh_jid=8125805) |
 
 ## About This Role
 
-This ai / llm engineer position at HelloFresh was posted on 2026-08-12.
+This sales engineer position at HelloFresh was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 
