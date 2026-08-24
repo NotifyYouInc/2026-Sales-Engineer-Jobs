@@ -1,16 +1,16 @@
-# Solutions Engineer at Cisco
+# Technical Account Manager - Egypt  at Veeam Software
 
 | Field | Details |
 |-------|---------|
-| Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | 2 locations |
+| Company | [Veeam Software](https://scoutify.ai/companies/veeamsoftware?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
+| Location | Cairo, Cairo, Egypt |
 | Category | Sales Engineer |
-| Posted | 2026-08-13 |
-| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Birmingham-Alabama-US/Solutions-Engineer_2020537) |
+| Posted | 2026-08-16 |
+| Apply | [View on company site](https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4951218101) |
 
 ## About This Role
 
-This sales engineer position at Cisco was posted on 2026-08-13.
+This sales engineer position at Veeam Software was posted on 2026-08-16.
 
 ## Get Real-Time Alerts
 

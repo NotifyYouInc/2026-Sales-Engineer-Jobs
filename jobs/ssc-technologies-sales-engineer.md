@@ -1,16 +1,16 @@
-# Automotive Technical Specialist Level 1 at MSX International
+# Sales Engineer at SS&C Technologies
 
 | Field | Details |
 |-------|---------|
-| Company | [MSX International](https://scoutify.ai/companies/msxinternational?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Germany |
+| Company | [SS&C Technologies](https://scoutify.ai/companies/ss-c-technologies?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
+| Location | Oslo, Oslo, Norway |
 | Category | Sales Engineer |
 | Posted | 2026-08-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/MSXInternational/3743990014617466-automotive-technical-specialist-level-1) |
+| Apply | [View on company site](https://ssctech.wd1.myworkdayjobs.com/ssctechnologies/job/Oslo-Norway/Sales-Engineer_R45596) |
 
 ## About This Role
 
-This sales engineer position at MSX International was posted on 2026-08-17.
+This sales engineer position at SS&C Technologies was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

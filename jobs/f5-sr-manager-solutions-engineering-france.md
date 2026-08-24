@@ -1,16 +1,16 @@
-# Principal Partner Engineer — Ecosystem at Canva
+# Sr. Manager, Solutions Engineering - France at F5
 
 | Field | Details |
 |-------|---------|
-| Company | [Canva](https://scoutify.ai/companies/canva?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Texas, US |
+| Company | [F5](https://scoutify.ai/companies/f5?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
+| Location | Paris, Île-de-France, France |
 | Category | Sales Engineer |
 | Posted | 2026-08-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Canva/6000000001317623-principal-partner-engineer-ecosystem) |
+| Apply | [View on company site](https://ffive.wd5.myworkdayjobs.com/f5jobs/job/Paris/Sr-Manager--Solutions-Engineering---France_RP1038413) |
 
 ## About This Role
 
-This sales engineer position at Canva was posted on 2026-08-16.
+This sales engineer position at F5 was posted on 2026-08-16.
 
 ## Get Real-Time Alerts
 

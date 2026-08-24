@@ -1,16 +1,16 @@
-# Solutions Engineer at Cisco
+# Sr. Solutions/Presales Engineer - Federal at BigID
 
 | Field | Details |
 |-------|---------|
-| Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | 2 locations |
+| Company | [BigID](https://scoutify.ai/companies/bigid?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
+| Location | District of Columbia, US |
 | Category | Sales Engineer |
-| Posted | 2026-08-13 |
-| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Birmingham-Alabama-US/Solutions-Engineer_2020537) |
+| Posted | 2026-08-16 |
+| Apply | [View on company site](https://bigid.com/company/careers/job-details/8719824002?gh_jid=8719824002) |
 
 ## About This Role
 
-This sales engineer position at Cisco was posted on 2026-08-13.
+This sales engineer position at BigID was posted on 2026-08-16.
 
 ## Get Real-Time Alerts
 

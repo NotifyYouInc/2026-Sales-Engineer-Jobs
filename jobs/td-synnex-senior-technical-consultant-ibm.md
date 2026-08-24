@@ -1,16 +1,16 @@
-# Automotive Technical Specialist Level 1 at MSX International
+# Senior Technical Consultant (IBM) at TD Synnex
 
 | Field | Details |
 |-------|---------|
-| Company | [MSX International](https://scoutify.ai/companies/msxinternational?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Germany |
+| Company | [TD Synnex](https://scoutify.ai/companies/synnex?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
+| Location | Malaysia |
 | Category | Sales Engineer |
 | Posted | 2026-08-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/MSXInternational/3743990014617466-automotive-technical-specialist-level-1) |
+| Apply | [View on company site](https://synnex.wd5.myworkdayjobs.com/tdsynnexcareers/job/Kelana-Centre-Point-Malaysia/Senior-Technical-Consultant_R54641) |
 
 ## About This Role
 
-This sales engineer position at MSX International was posted on 2026-08-17.
+This sales engineer position at TD Synnex was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Automotive Technical Specialist Level 1 at MSX International
+# Senior Engineer - Sales at The Weir Group
 
 | Field | Details |
 |-------|---------|
-| Company | [MSX International](https://scoutify.ai/companies/msxinternational?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Germany |
+| Company | [The Weir Group](https://scoutify.ai/companies/weir?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
+| Location | Visakhapatnam, Andhra Pradesh, India |
 | Category | Sales Engineer |
 | Posted | 2026-08-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/MSXInternational/3743990014617466-automotive-technical-specialist-level-1) |
+| Apply | [View on company site](https://weir.wd3.myworkdayjobs.com/weir_external_careers/job/Visakhapatnam/Senior-Engineer---Sales_R0038732) |
 
 ## About This Role
 
-This sales engineer position at MSX International was posted on 2026-08-17.
+This sales engineer position at The Weir Group was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

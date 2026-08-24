@@ -1,16 +1,16 @@
-# Solutions Engineer at Cisco
+# Waste Solutions Specialist at Veolia
 
 | Field | Details |
 |-------|---------|
-| Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | 2 locations |
+| Company | [Veolia](https://scoutify.ai/companies/veolia?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
+| Location | Beerse, Flanders, Belgium |
 | Category | Sales Engineer |
-| Posted | 2026-08-13 |
-| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Birmingham-Alabama-US/Solutions-Engineer_2020537) |
+| Posted | 2026-08-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000143747809-waste-solutions-specialist) |
 
 ## About This Role
 
-This sales engineer position at Cisco was posted on 2026-08-13.
+This sales engineer position at Veolia was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

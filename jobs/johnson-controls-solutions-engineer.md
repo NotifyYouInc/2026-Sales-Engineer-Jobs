@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Johnson Controls](https://scoutify.ai/companies/jci?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Edmonton, Alberta, Canada |
-| Category | Technical & Solutions Architect |
-| Posted | 2026-06-02 |
-| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Edmonton-Alberta-Canada/Solutions-Engineer_WD30269800-1) |
+| Location | Singapore, Singapore |
+| Category | Leadership Development Program |
+| Posted | 2026-08-17 |
+| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Singapore-Singapore-Singapore/Solutions-Engineer_WD30277123) |
 
 ## About This Role
 
-This technical & solutions architect position at Johnson Controls was posted on 2026-06-02.
+This leadership development program position at Johnson Controls was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

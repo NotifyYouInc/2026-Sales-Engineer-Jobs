@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Ingram Micro](https://scoutify.ai/companies/ingram-micro?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Cairo, Cairo, Egypt |
+| Location | Dubai, Dubai, United Arab Emirates |
 | Category | Sales Engineer |
-| Posted | 2026-06-23 |
-| Apply | [View on company site](https://ingrammicro.wd5.myworkdayjobs.com/ingrammicro/job/Cairo-Egypt/Technical-Pre-Sales-Consultant---HPE_R-116035) |
+| Posted | 2026-08-17 |
+| Apply | [View on company site](https://ingrammicro.wd5.myworkdayjobs.com/ingrammicro/job/Dubai-United-Arab-Emirates/Technical-Pre-Sales-Consultant---HPE_R-117001) |
 
 ## About This Role
 
-This sales engineer position at Ingram Micro was posted on 2026-06-23.
+This sales engineer position at Ingram Micro was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

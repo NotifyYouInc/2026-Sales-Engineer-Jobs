@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Thermo Fisher Scientific](https://scoutify.ai/companies/thermo-fisher-scientific?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Louisiana, US |
-| Category | Account Executive |
+| Category | Sales |
 | Posted | 2026-08-12 |
 | Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Remote-Texas-USA/Sr-Product-Specialist---SDG_R-01363892) |
 
 ## About This Role
 
-This account executive position at Thermo Fisher Scientific was posted on 2026-08-12.
+This sales position at Thermo Fisher Scientific was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

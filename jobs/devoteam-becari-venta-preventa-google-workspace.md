@@ -1,16 +1,16 @@
-# Automotive Technical Specialist Level 1 at MSX International
+# Becari@ venta/ preventa google workspace at Devoteam
 
 | Field | Details |
 |-------|---------|
-| Company | [MSX International](https://scoutify.ai/companies/msxinternational?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Germany |
+| Company | [Devoteam](https://scoutify.ai/companies/devoteam?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
+| Location | Madrid, Madrid, Spain |
 | Category | Sales Engineer |
 | Posted | 2026-08-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/MSXInternational/3743990014617466-automotive-technical-specialist-level-1) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Devoteam/744000143751069-becari-venta-preventa-google-workspace) |
 
 ## About This Role
 
-This sales engineer position at MSX International was posted on 2026-08-17.
+This sales engineer position at Devoteam was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

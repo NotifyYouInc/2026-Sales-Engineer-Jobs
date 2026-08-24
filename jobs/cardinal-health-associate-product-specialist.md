@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Cardinal Health](https://scoutify.ai/companies/cardinal-health?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Seoul, Seoul, South Korea |
-| Category | Account Executive |
+| Category | Sales |
 | Posted | 2026-08-13 |
 | Apply | [View on company site](https://cardinalhealth.wd1.myworkdayjobs.com/EXT/job/South-Korea-Seoul-AIA-Tower/Associate-Product-Specialist_20184357) |
 
 ## About This Role
 
-This account executive position at Cardinal Health was posted on 2026-08-13.
+This sales position at Cardinal Health was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

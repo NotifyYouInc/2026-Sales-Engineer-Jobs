@@ -1,16 +1,16 @@
-# Principal Partner Engineer — Ecosystem at Canva
+# Greece Generalist Presales at Hewlett Packard (HP)
 
 | Field | Details |
 |-------|---------|
-| Company | [Canva](https://scoutify.ai/companies/canva?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Texas, US |
+| Company | [Hewlett Packard (HP)](https://scoutify.ai/companies/hp?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
+| Location | Athens, Attica, Greece |
 | Category | Sales Engineer |
 | Posted | 2026-08-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Canva/6000000001317623-principal-partner-engineer-ecosystem) |
+| Apply | [View on company site](https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Greece---Athens/Greece-Generalist-Presales_3159763-2) |
 
 ## About This Role
 
-This sales engineer position at Canva was posted on 2026-08-16.
+This sales engineer position at Hewlett Packard (HP) was posted on 2026-08-16.
 
 ## Get Real-Time Alerts
 

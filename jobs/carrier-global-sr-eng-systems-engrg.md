@@ -1,16 +1,16 @@
-# Principal Partner Engineer — Ecosystem at Canva
+# Sr Eng, Systems Engrg at Carrier Global
 
 | Field | Details |
 |-------|---------|
-| Company | [Canva](https://scoutify.ai/companies/canva?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Texas, US |
+| Company | [Carrier Global](https://scoutify.ai/companies/carrier?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
+| Location | Baoshan, Shanghai, China |
 | Category | Sales Engineer |
 | Posted | 2026-08-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Canva/6000000001317623-principal-partner-engineer-ecosystem) |
+| Apply | [View on company site](https://carrier.wd5.myworkdayjobs.com/jobs/job/LOC3149-388-Haihuan-Road-Baoshan-Shanghai-China/Sr-Eng--Systems-Engrg_30215819) |
 
 ## About This Role
 
-This sales engineer position at Canva was posted on 2026-08-16.
+This sales engineer position at Carrier Global was posted on 2026-08-16.
 
 ## Get Real-Time Alerts
 
