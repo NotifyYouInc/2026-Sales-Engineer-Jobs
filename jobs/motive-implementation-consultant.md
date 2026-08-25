@@ -1,16 +1,16 @@
-# Implementation Consultant at Motive
+# Implementation Consultant  at Motive
 
 | Field | Details |
 |-------|---------|
 | Company | [Motive](https://scoutify.ai/companies/motive?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Pakistan |
-| Category | Customer Success |
-| Posted | 2026-05-20 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/gomotive/jobs/8555827002) |
+| Location | Mexico City, Mexico City, Mexico |
+| Category | Sales Engineer |
+| Posted | 2026-08-17 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/gomotive/jobs/8523862002) |
 
 ## About This Role
 
-This customer success position at Motive was posted on 2026-05-20.
+This sales engineer position at Motive was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

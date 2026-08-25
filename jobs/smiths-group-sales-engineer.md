@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Smiths Group](https://scoutify.ai/companies/smithsgroup?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Doddaballapura, Karnataka, India |
+| Location | Lima, Lima Province, Peru |
 | Category | Sales Engineer |
-| Posted | 2026-07-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SmithsGroup2/744000139569334-sales-engineer) |
+| Posted | 2026-08-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SmithsGroup2/744000143853674-sales-engineer) |
 
 ## About This Role
 
-This sales engineer position at Smiths Group was posted on 2026-07-24.
+This sales engineer position at Smiths Group was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

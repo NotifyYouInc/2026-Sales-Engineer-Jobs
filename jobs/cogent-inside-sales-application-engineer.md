@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Cogent](https://scoutify.ai/companies/cogent-rec-pro-ukg-net?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Tulsa, Oklahoma, United States |
-| Category | Software Engineer |
-| Posted | 2026-08-03 |
-| Apply | [View on company site](https://cogent.rec.pro.ukg.net/cog1001cogt/JobBoard/6ef4887f-e9d3-4536-8f81-818a63ab3102/OpportunityDetail?opportunityId=73565517-25c0-409d-bd67-4018ad60894e) |
+| Category | Sales Engineer |
+| Posted | 2026-08-17 |
+| Apply | [View on company site](https://cogent.rec.pro.ukg.net/cog1001cogt/JobBoard/6ef4887f-e9d3-4536-8f81-818a63ab3102/OpportunityDetail?opportunityId=e8974ef8-c3fd-425f-a1d7-f42e6d25daf6) |
 
 ## About This Role
 
-This software engineer position at Cogent was posted on 2026-08-03.
+This sales engineer position at Cogent was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

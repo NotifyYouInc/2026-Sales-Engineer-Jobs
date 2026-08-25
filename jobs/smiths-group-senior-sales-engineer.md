@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Smiths Group](https://scoutify.ai/companies/smithsgroup?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Sepang, Selangor, Malaysia |
+| Location | Secunda, Mpumalanga, South Africa |
 | Category | Sales Engineer |
-| Posted | 2026-07-14 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SmithsGroup2/744000137643169-senior-sales-engineer) |
+| Posted | 2026-08-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SmithsGroup2/744000143798659-senior-sales-engineer) |
 
 ## About This Role
 
-This sales engineer position at Smiths Group was posted on 2026-07-14.
+This sales engineer position at Smiths Group was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

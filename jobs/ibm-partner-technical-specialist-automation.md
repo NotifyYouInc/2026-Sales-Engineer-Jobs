@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Philippines |
-| Category | Sales |
+| Category | Sales Engineer |
 | Posted | 2026-08-14 |
 | Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=128361) |
 
 ## About This Role
 
-This sales position at IBM was posted on 2026-08-14.
+This sales engineer position at IBM was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

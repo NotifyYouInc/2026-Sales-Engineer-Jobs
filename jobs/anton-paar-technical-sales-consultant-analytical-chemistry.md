@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Anton Paar](https://scoutify.ai/companies/antonpaar?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Newark, New Jersey, United States |
+| Location | Los Angeles, California, United States |
 | Category | Sales Engineer |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AntonPaar1/744000122013507-technical-sales-consultant-analytical-chemistry) |
+| Posted | 2026-08-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AntonPaar1/744000143928589-technical-sales-consultant-analytical-chemistry) |
 
 ## About This Role
 
-This sales engineer position at Anton Paar was posted on 2026-04-21.
+This sales engineer position at Anton Paar was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

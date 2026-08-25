@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Cardinal Health](https://scoutify.ai/companies/cardinal-health?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | United States |
-| Category | Sales |
+| Category | Sales Engineer |
 | Posted | 2026-08-13 |
 | Apply | [View on company site](https://cardinalhealth.wd1.myworkdayjobs.com/EXT/job/US-Nationwide-FIELD/Technical-Account-Manager_20185563) |
 
 ## About This Role
 
-This sales position at Cardinal Health was posted on 2026-08-13.
+This sales engineer position at Cardinal Health was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

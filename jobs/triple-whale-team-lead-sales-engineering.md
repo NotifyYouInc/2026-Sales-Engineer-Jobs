@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Triple Whale](https://scoutify.ai/companies/triple-whale?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | 2 locations |
-| Category | Sales |
+| Category | Sales Engineer |
 | Posted | 2026-08-13 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/triplewhale/jobs/5389383008) |
 
 ## About This Role
 
-This sales position at Triple Whale was posted on 2026-08-13.
+This sales engineer position at Triple Whale was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Monolithic Power Systems](https://scoutify.ai/companies/monolithic-power-systems?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Shanghai, Shanghai, China |
+| Location | Beijing, Beijing, China |
 | Category | Sales Engineer |
-| Posted | 2026-07-17 |
-| Apply | [View on company site](https://monolithicpower.wd12.myworkdayjobs.com/mps_careers/job/Shanghai---China/Sales-Engineer_R-1737) |
+| Posted | 2026-08-17 |
+| Apply | [View on company site](https://monolithicpower.wd12.myworkdayjobs.com/mps_careers/job/Beijing---China/Sales-Engineer_R-1807) |
 
 ## About This Role
 
-This sales engineer position at Monolithic Power Systems was posted on 2026-07-17.
+This sales engineer position at Monolithic Power Systems was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

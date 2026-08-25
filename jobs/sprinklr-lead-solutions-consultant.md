@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sprinklr](https://scoutify.ai/companies/sprinklr?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Dubai, Dubai, United Arab Emirates |
+| Location | London, England, United Kingdom |
 | Category | Sales Engineer |
-| Posted | 2026-08-10 |
-| Apply | [View on company site](https://sprinklr.wd1.myworkdayjobs.com/careers/job/United-Arab-Emirates---Dubai/Lead-Solutions-Consultant_113380-JOB) |
+| Posted | 2026-08-17 |
+| Apply | [View on company site](https://sprinklr.wd1.myworkdayjobs.com/careers/job/United-Kingdom---London/Lead-Solutions-Consultant_113386-JOB-1) |
 
 ## About This Role
 
-This sales engineer position at Sprinklr was posted on 2026-08-10.
+This sales engineer position at Sprinklr was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

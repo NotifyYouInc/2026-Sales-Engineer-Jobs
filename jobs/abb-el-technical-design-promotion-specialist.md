@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ABB](https://scoutify.ai/companies/abb?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Beijing, Beijing, China |
+| Location | Colombia |
 | Category | Sales Engineer |
-| Posted | 2026-06-08 |
-| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Beijing-Beijing-China/EL-Technical---Design-Promotion-Speciali_JR00027032-2) |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Remote-Colombia/EL-Technical---Design-Promotion-Specialist_JR00044246) |
 
 ## About This Role
 
-This sales engineer position at ABB was posted on 2026-06-08.
+This sales engineer position at ABB was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

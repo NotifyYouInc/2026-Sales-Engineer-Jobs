@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Singapore |
-| Category | Customer Success |
-| Posted | 2026-02-23 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/3186590/technical-account-manager-enterprise-support) |
+| Location | Dallas, Texas, United States |
+| Category | Sales Engineer |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10504455/technical-account-manager-enterprise-support) |
 
 ## About This Role
 
-This customer success position at Amazon was posted on 2026-02-23.
+This sales engineer position at Amazon was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

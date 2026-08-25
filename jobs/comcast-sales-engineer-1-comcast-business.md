@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Comcast](https://scoutify.ai/companies/comcast?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Miami, Florida, United States |
+| Location | Maryland, US |
 | Category | Sales Engineer |
-| Posted | 2026-06-22 |
-| Apply | [View on company site](https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/FL---Miami-18601-NW-2nd-Ave/Sales-Engineer-1--Comcast-Business_R439687) |
+| Posted | 2026-08-17 |
+| Apply | [View on company site](https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/MD---Silver-Spring-11800-Tech-Rd/Sales-Engineer-1--Comcast-Business_R442976) |
 
 ## About This Role
 
-This sales engineer position at Comcast was posted on 2026-06-22.
+This sales engineer position at Comcast was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

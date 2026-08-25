@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [DXC Technology](https://scoutify.ai/companies/dxctechnology?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Mexico City, Mexico City, Mexico |
-| Category | Sales |
-| Posted | 2026-08-06 |
-| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/MEX---DIF---MEXICO-CITY/Technical-Account-Manager_51586534) |
+| Location | Macquarie Park, New South Wales, Australia |
+| Category | Sales Engineer |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/AUS---NSW---MACQUARIE-PARK/Technical-Account-Manager_51587233) |
 
 ## About This Role
 
-This sales position at DXC Technology was posted on 2026-08-06.
+This sales engineer position at DXC Technology was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

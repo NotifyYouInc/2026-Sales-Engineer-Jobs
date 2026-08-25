@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Applied Materials](https://scoutify.ai/companies/applied-materials?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Santa Clara, California, United States |
-| Category | Sales Engineer |
-| Posted | 2026-08-13 |
-| Apply | [View on company site](https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Customer-Engineer_R2624902) |
+| Location | Singapore, Singapore |
+| Category | Electrical / Hardware Engineer |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://amat.wd1.myworkdayjobs.com/External/job/SingaporeSGP/Customer-Engineer_R2519709) |
 
 ## About This Role
 
-This sales engineer position at Applied Materials was posted on 2026-08-13.
+This electrical / hardware engineer position at Applied Materials was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

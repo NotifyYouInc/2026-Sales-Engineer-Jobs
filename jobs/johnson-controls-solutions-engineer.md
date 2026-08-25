@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Johnson Controls](https://scoutify.ai/companies/jci?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Singapore, Singapore |
-| Category | Leadership Development Program |
+| Category | Sales Engineer |
 | Posted | 2026-08-17 |
 | Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Singapore-Singapore-Singapore/Solutions-Engineer_WD30277123) |
 
 ## About This Role
 
-This leadership development program position at Johnson Controls was posted on 2026-08-17.
+This sales engineer position at Johnson Controls was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

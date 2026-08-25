@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [The Trade Desk](https://scoutify.ai/companies/the-trade-desk?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | 2 locations |
-| Category | Customer Success |
-| Posted | 2026-04-27 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/thetradedesk/jobs/5121274007) |
+| Location | New Delhi, Delhi, India |
+| Category | Sales Engineer |
+| Posted | 2026-08-17 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/thetradedesk/jobs/5213299007) |
 
 ## About This Role
 
-This customer success position at The Trade Desk was posted on 2026-04-27.
+This sales engineer position at The Trade Desk was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

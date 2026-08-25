@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | 2 locations |
+| Location | Minato, Wakayama, Japan |
 | Category | Sales Engineer |
-| Posted | 2026-08-13 |
-| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Birmingham-Alabama-US/Solutions-Engineer_2020537) |
+| Posted | 2026-08-14 |
+| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Minato-Japan/Solutions-Engineer_2020623-1) |
 
 ## About This Role
 
-This sales engineer position at Cisco was posted on 2026-08-13.
+This sales engineer position at Cisco was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

@@ -6,7 +6,7 @@
 | Location | Budapest, Budapest, Hungary |
 | Category | Sales Engineer |
 | Posted | 2026-08-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/MSXInternational/3743990014582476-automotive-technical-specialist-spanish-speaking) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/MSXInternational/3743990014584106-automotive-technical-specialist-spanish-speaking) |
 
 ## About This Role
 

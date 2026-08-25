@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [DXC Technology](https://scoutify.ai/companies/dxctechnology?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Monterrey, Nuevo León, Mexico |
-| Category | Sales |
+| Category | Sales Engineer |
 | Posted | 2026-08-14 |
 | Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/MEX---NLE---MONTERREY/Operador-de-Data-Center--presencial-en-Monterrey-_51572892) |
 
 ## About This Role
 
-This sales position at DXC Technology was posted on 2026-08-14.
+This sales engineer position at DXC Technology was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Avnet](https://scoutify.ai/companies/avnet?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Tlaquepaque, Jalisco, Mexico |
-| Category | Customer Success |
-| Posted | 2026-05-08 |
-| Apply | [View on company site](https://avnet.wd1.myworkdayjobs.com/external/job/Tlaquepaque-Jalisco-Mexico/Customer-Solutions-Specialist_JR-022538) |
+| Category | Sales Engineer |
+| Posted | 2026-08-17 |
+| Apply | [View on company site](https://avnet.wd1.myworkdayjobs.com/external/job/Tlaquepaque-Jalisco-Mexico/Customer-Solutions-Specialist_JR-024013) |
 
 ## About This Role
 
-This customer success position at Avnet was posted on 2026-05-08.
+This sales engineer position at Avnet was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

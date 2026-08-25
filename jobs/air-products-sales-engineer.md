@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Air Products](https://scoutify.ai/companies/airproducts?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Yantai, Shandong, China |
+| Location | Zhongshan, Guangdong, China |
 | Category | Sales Engineer |
-| Posted | 2026-08-12 |
-| Apply | [View on company site](https://airproducts.wd5.myworkdayjobs.com/AP0001/job/Yantai-Shandong/Sales-Engineer_JR-2026-21583) |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://airproducts.wd5.myworkdayjobs.com/AP0001/job/Zhongshan-Guangdong/Sales-Engineer_JR-2026-21797) |
 
 ## About This Role
 
-This sales engineer position at Air Products was posted on 2026-08-12.
+This sales engineer position at Air Products was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

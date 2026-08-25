@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Qualys](https://scoutify.ai/companies/qualys?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Florida, US |
-| Category | Sales |
+| Category | Sales Engineer |
 | Posted | 2026-08-14 |
 | Apply | [View on company site](https://qualys.wd5.myworkdayjobs.com/careers/job/North-Carolina/Technical-Account-Manager--Post-Sales--SME_R0004999) |
 
 ## About This Role
 
-This sales position at Qualys was posted on 2026-08-14.
+This sales engineer position at Qualys was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [BSI Group](https://scoutify.ai/companies/bsi-group?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | 3 locations |
-| Category | Account Executive |
-| Posted | 2026-05-27 |
-| Apply | [View on company site](https://bsigroup.wd3.myworkdayjobs.com/bsi_careers/job/Canada/Training-Solutions-Specialist_JR0019141) |
+| Location | United States |
+| Category | Sales Engineer |
+| Posted | 2026-08-17 |
+| Apply | [View on company site](https://bsigroup.wd3.myworkdayjobs.com/bsi_careers/job/USA/Training-Solutions-Specialist_JR0020601) |
 
 ## About This Role
 
-This account executive position at BSI Group was posted on 2026-05-27.
+This sales engineer position at BSI Group was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

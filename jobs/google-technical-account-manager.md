@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Mumbai, Maharashtra, India |
-| Category | Customer Success |
-| Posted | 2026-08-03 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckSy6iEYhbUvoehyjWb2_uoSG5K05zBTkAHQjx7sM9XmgEjsA1Ny_i4sGcO0X-x9GhNNOFfc9M73P72SIxFLZwSItcPhWn2wY8I4AZcUnaC2RyjF_zwMC0BwICAAbBA%3D%3D_V2&loc=IN&title=Technical+Account+Manager) |
+| Location | Bengaluru, Karnataka, India |
+| Category | Sales Engineer |
+| Posted | 2026-08-17 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2Fckb2HEE_2e963Nba-KV5sH3mqbTYWQTuZxpmMrRkp_mprEjsA1Ny_i3CFF8yymFnqgqRX0WLYgHogqIlMEMvvxuh_LccOv6BDs0YY0snu_4m8mtdnGt_yOCmN5KNBow%3D%3D_V2&loc=IN&title=Technical+Account+Manager) |
 
 ## About This Role
 
-This customer success position at Google was posted on 2026-08-03.
+This sales engineer position at Google was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

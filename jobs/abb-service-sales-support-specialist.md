@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ABB](https://scoutify.ai/companies/abb?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | 2 locations |
+| Location | Doha, Baladīyat ad Dawḩah, Qatar |
 | Category | Sales Engineer |
-| Posted | 2026-07-21 |
-| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Sant-Quirze-del-Valles-Barcelona-Spain/Service-Sales-Support-Specialist_JR00041848) |
+| Posted | 2026-08-17 |
+| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Doha-Al-Asimah-Qatar/Service-Sales-Support-Specialist_JR00043697-1) |
 
 ## About This Role
 
-This sales engineer position at ABB was posted on 2026-07-21.
+This sales engineer position at ABB was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

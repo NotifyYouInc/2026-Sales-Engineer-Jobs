@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Qualys](https://scoutify.ai/companies/qualys?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Washington, District of Columbia, United States |
-| Category | Sales |
+| Category | Sales Engineer |
 | Posted | 2026-08-14 |
 | Apply | [View on company site](https://qualys.wd5.myworkdayjobs.com/careers/job/Maryland/Technical-Account-Manager--Federal_R0004997) |
 
 ## About This Role
 
-This sales position at Qualys was posted on 2026-08-14.
+This sales engineer position at Qualys was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 
