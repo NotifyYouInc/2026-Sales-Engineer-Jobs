@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Snowflake](https://scoutify.ai/companies/snowflake?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Switzerland |
+| Location | Georgia, US |
 | Category | Sales Engineer |
-| Posted | 2026-08-13 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/snowflake/5537b75b-825a-4fda-8483-70d4ce6dc149) |
+| Posted | 2026-08-14 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/snowflake/ef881134-59a9-42f4-ba77-f5e7a9ddaf89) |
 
 ## About This Role
 
-This sales engineer position at Snowflake was posted on 2026-08-13.
+This sales engineer position at Snowflake was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

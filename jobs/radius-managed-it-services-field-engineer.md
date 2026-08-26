@@ -5,12 +5,12 @@
 | Company | [Radius](https://scoutify.ai/companies/radius?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Belfast, Northern Ireland, United Kingdom |
 | Category | IT & Systems Administration |
-| Posted | 2026-06-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/RadiusLimited/744000131828090-managed-it-services-field-engineer) |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/RadiusLimited/744000144103459-managed-it-services-field-engineer) |
 
 ## About This Role
 
-This it & systems administration position at Radius was posted on 2026-06-12.
+This it & systems administration position at Radius was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

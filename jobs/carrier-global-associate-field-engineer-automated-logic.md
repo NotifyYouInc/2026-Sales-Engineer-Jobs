@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Carrier Global](https://scoutify.ai/companies/carrier?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Waukesha, Wisconsin, United States |
+| Location | Green Bay, Wisconsin, United States |
 | Category | Sales Engineer |
-| Posted | 2026-08-13 |
-| Apply | [View on company site](https://carrier.wd5.myworkdayjobs.com/jobs/job/CAW11-ALC-Brown-Deer-1501-Paramount-Drive-Waukesha-WI-53186-USA/Associate-Field-Engineer---Automated-Logic_30214562) |
+| Posted | 2026-08-17 |
+| Apply | [View on company site](https://carrier.wd5.myworkdayjobs.com/jobs/job/CAW13-AL-Wisconsin-GRB-954-Glory-Road-Green-Bay-WI-54304-USA/Associate-Field-Engineer---Automated-Logic_30215711) |
 
 ## About This Role
 
-This sales engineer position at Carrier Global was posted on 2026-08-13.
+This sales engineer position at Carrier Global was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

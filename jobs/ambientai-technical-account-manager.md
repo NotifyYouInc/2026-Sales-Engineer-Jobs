@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Ambient.ai](https://scoutify.ai/companies/ambient-ai?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Boston, Massachusetts, United States |
-| Category | Customer Success |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/ambient.ai/e4202787-9ef9-4e4c-888c-85d3cbbabeb0) |
+| Location | Los Angeles, California, United States |
+| Category | Sales Engineer |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/ambient.ai/637ec424-b1e2-432c-906e-2390ad9ee407) |
 
 ## About This Role
 
-This customer success position at Ambient.ai was posted on 2026-03-11.
+This sales engineer position at Ambient.ai was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

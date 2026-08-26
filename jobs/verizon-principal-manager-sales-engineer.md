@@ -1,16 +1,16 @@
-# Principal Manager - Sales Engineer at Verizon
+# Principal Manager Sales Engineer at Verizon
 
 | Field | Details |
 |-------|---------|
 | Company | [Verizon](https://scoutify.ai/companies/verizon?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Albany, New York, United States |
+| Location | Richmond, Virginia, United States |
 | Category | Sales Engineer |
-| Posted | 2026-07-22 |
-| Apply | [View on company site](https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Albany-New-York/Principal-Manager---Sales-Engineer_R-1098004-1) |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Richmond-Virginia/Principal-Manager-Sales-Engineer_R-1099803-1) |
 
 ## About This Role
 
-This sales engineer position at Verizon was posted on 2026-07-22.
+This sales engineer position at Verizon was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

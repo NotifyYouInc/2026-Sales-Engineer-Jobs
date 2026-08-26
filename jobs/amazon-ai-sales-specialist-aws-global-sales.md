@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Tokyo, Tokyo, Japan |
-| Category | Sales Engineer |
-| Posted | 2026-07-07 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10467031/ai-sales-specialist-aws-global-sales) |
+| Location | Tokyo, JP |
+| Category | Account Executive |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10504664/ai-sales-specialist-aws-global-sales) |
 
 ## About This Role
 
-This sales engineer position at Amazon was posted on 2026-07-07.
+This account executive position at Amazon was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

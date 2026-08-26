@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Unisys](https://scoutify.ai/companies/unisys?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Chicago, Illinois, United States |
-| Category | IT & Systems Administration |
-| Posted | 2026-08-13 |
-| Apply | [View on company site](https://unisys.wd5.myworkdayjobs.com/External/job/Chicago-IL-United-States-of-America/Field-Engineer-Technician_REQ574981) |
+| Category | Sales Engineer |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://unisys.wd5.myworkdayjobs.com/External/job/Chicago-IL-United-States-of-America/Field-Engineer-Technician_REQ574980) |
 
 ## About This Role
 
-This it & systems administration position at Unisys was posted on 2026-08-13.
+This sales engineer position at Unisys was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

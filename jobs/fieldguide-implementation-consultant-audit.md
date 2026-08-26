@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Fieldguide](https://scoutify.ai/companies/fieldguide?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | San Francisco, California, United States |
-| Category | Customer Success |
-| Posted | 2026-05-06 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/fieldguide/c25b336f-2eea-4e64-9316-8b4bec55e837) |
+| Category | Sales Engineer |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/fieldguide/4c43f78d-3dd0-4779-b872-dff4498345ce) |
 
 ## About This Role
 
-This customer success position at Fieldguide was posted on 2026-05-06.
+This sales engineer position at Fieldguide was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

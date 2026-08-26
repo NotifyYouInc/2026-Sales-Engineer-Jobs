@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Veeam Software](https://scoutify.ai/companies/veeamsoftware?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Hong Kong, Hong Kong |
-| Category | Customer Success |
-| Posted | 2026-07-28 |
-| Apply | [View on company site](https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4639459101) |
+| Location | Italy |
+| Category | Sales Engineer |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4953820101) |
 
 ## About This Role
 
-This customer success position at Veeam Software was posted on 2026-07-28.
+This sales engineer position at Veeam Software was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

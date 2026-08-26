@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [SOTI](https://scoutify.ai/companies/soti?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Gurugram, Haryana, India |
-| Category | Customer Success |
-| Posted | 2026-08-04 |
-| Apply | [View on company site](https://soti.wd3.myworkdayjobs.com/careers/job/Gurgaon-India/Technical-Account-Manager_R10332-2) |
+| Location | 2 locations |
+| Category | Sales Engineer |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://soti.wd3.myworkdayjobs.com/careers/job/Kochi-India/Technical-Account-Manager_R10381-2) |
 
 ## About This Role
 
-This customer success position at SOTI was posted on 2026-08-04.
+This sales engineer position at SOTI was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

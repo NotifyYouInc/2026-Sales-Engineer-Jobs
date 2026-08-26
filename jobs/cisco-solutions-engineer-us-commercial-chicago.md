@@ -5,12 +5,12 @@
 | Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Chicago, Illinois, United States |
 | Category | Sales Engineer |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Chicago-Illinois-US/Solutions-Engineer---US-Commercial---Chicago_2012793) |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Chicago-Illinois-US/Solutions-Engineer---US-Commercial---Chicago_2022808) |
 
 ## About This Role
 
-This sales engineer position at Cisco was posted on 2026-04-20.
+This sales engineer position at Cisco was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

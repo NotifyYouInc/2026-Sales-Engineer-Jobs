@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amadeus](https://scoutify.ai/companies/amadeus?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | London, England, United Kingdom |
 | Category | Sales Engineer |
-| Posted | 2026-08-14 |
-| Apply | [View on company site](https://amadeus.wd502.myworkdayjobs.com/jobs/job/Bangalore/Senior-Technical-Consultant-Analyst_R34502-1) |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://amadeus.wd502.myworkdayjobs.com/jobs/job/London-Heathrow/Senior-Technical-Consultant-Analyst_R35291) |
 
 ## About This Role
 
-This sales engineer position at Amadeus was posted on 2026-08-14.
+This sales engineer position at Amadeus was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

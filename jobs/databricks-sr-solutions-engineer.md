@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Databricks](https://scoutify.ai/companies/databricks?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Mexico City, Mexico City, Mexico |
+| Location | Munich, Bavaria, Germany |
 | Category | Sales Engineer |
-| Posted | 2026-07-22 |
-| Apply | [View on company site](https://databricks.com/company/careers/open-positions/job?gh_jid=8606312002) |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://databricks.com/company/careers/open-positions/job?gh_jid=8721005002) |
 
 ## About This Role
 
-This sales engineer position at Databricks was posted on 2026-07-22.
+This sales engineer position at Databricks was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Ambient.ai](https://scoutify.ai/companies/ambient-ai?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Boston, Massachusetts, United States |
+| Location | Redwood City, California, United States |
 | Category | Sales Engineer |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/ambient.ai/70e91af0-c7b0-45d0-bf09-3fdc4fc55c28) |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/ambient.ai/95c62ed1-96c3-4df4-a296-4ba2fe470f34) |
 
 ## About This Role
 
-This sales engineer position at Ambient.ai was posted on 2026-04-13.
+This sales engineer position at Ambient.ai was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

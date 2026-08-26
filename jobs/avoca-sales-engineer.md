@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Avoca](https://scoutify.ai/companies/avoca?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | New York City, New York, United States |
+| Location | Santa Barbara, California, United States |
 | Category | Sales Engineer |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/avoca/032aa6fc-7ccf-4135-9aa3-4bb2edadb208) |
+| Posted | 2026-08-19 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/avoca/78fe92bb-a047-445c-bbcc-96a1a3070812) |
 
 ## About This Role
 
-This sales engineer position at Avoca was posted on 2026-05-11.
+This sales engineer position at Avoca was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

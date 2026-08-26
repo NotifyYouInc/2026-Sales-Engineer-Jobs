@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Hewlett Packard (HP)](https://scoutify.ai/companies/hp?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Corvallis, Oregon, United States |
-| Category | Embedded / Firmware Engineer |
+| Category | Sales Engineer |
 | Posted | 2026-08-17 |
 | Apply | [View on company site](https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Corvallis-Oregon-United-States-of-America/PageWide-Web-Press-Finishing-Solutions-Engineer_3161595-2) |
 
 ## About This Role
 
-This embedded / firmware engineer position at Hewlett Packard (HP) was posted on 2026-08-17.
+This sales engineer position at Hewlett Packard (HP) was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

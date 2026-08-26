@@ -5,12 +5,12 @@
 | Company | [Keenfinity](https://scoutify.ai/companies/keenfinity?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Burnsville, Minnesota, United States |
 | Category | Sales Engineer |
-| Posted | 2026-07-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/keenfinity/744000139094102-technical-sales-support-public-address) |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/keenfinity/744000144133438-technical-sales-support-public-address) |
 
 ## About This Role
 
-This sales engineer position at Keenfinity was posted on 2026-07-22.
+This sales engineer position at Keenfinity was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 
