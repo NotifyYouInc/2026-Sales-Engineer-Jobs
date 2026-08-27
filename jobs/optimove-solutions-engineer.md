@@ -1,16 +1,16 @@
-# Solutions Engineer at Optimove
+# Solutions Engineer  at Optimove
 
 | Field | Details |
 |-------|---------|
 | Company | [Optimove](https://scoutify.ai/companies/optimove?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Brazil |
+| Location | New York City, New York, United States |
 | Category | Sales Engineer |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://job-boards.eu.greenhouse.io/optimove/jobs/4858917101) |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://job-boards.eu.greenhouse.io/optimove/jobs/4957384101) |
 
 ## About This Role
 
-This sales engineer position at Optimove was posted on 2026-05-05.
+This sales engineer position at Optimove was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

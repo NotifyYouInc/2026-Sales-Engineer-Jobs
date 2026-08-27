@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [TD Synnex](https://scoutify.ai/companies/synnex?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Jakarta, Jakarta, Indonesia |
+| Location | Hong Kong, Hong Kong |
 | Category | Sales Engineer |
-| Posted | 2026-08-13 |
-| Apply | [View on company site](https://synnex.wd5.myworkdayjobs.com/tdsynnexcareers/job/Jakarta-Indonesia/Product-Specialist_R55150) |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://synnex.wd5.myworkdayjobs.com/tdsynnexcareers/job/Millennium-City-Hong-Kong/Product-Specialist_R55345) |
 
 ## About This Role
 
-This sales engineer position at TD Synnex was posted on 2026-08-13.
+This sales engineer position at TD Synnex was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

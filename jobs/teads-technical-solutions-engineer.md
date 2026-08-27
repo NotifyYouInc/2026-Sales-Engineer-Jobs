@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Teads](https://scoutify.ai/companies/teads1?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Toronto, Ontario, Canada |
+| Location | Ljubljana, Ljubljana, Slovenia |
 | Category | Sales Engineer |
-| Posted | 2026-08-17 |
-| Apply | [View on company site](https://job-boards.eu.greenhouse.io/teads1/jobs/4953794101) |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://job-boards.eu.greenhouse.io/teads1/jobs/4956649101) |
 
 ## About This Role
 
-This sales engineer position at Teads was posted on 2026-08-17.
+This sales engineer position at Teads was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

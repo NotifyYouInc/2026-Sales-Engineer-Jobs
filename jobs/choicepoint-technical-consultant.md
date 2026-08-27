@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [ChoicePoint](https://scoutify.ai/companies/choicepoint?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | London, England, United Kingdom |
-| Category | Technology / IT Consulting |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://relx.wd3.myworkdayjobs.com/risksolutions/job/UK---London-London-Wall/Technical-Consultant_R109061) |
+| Category | Sales Engineer |
+| Posted | 2026-08-19 |
+| Apply | [View on company site](https://relx.wd3.myworkdayjobs.com/risksolutions/job/UK---London-London-Wall/Techical-Consultant_R115520) |
 
 ## About This Role
 
-This technology / it consulting position at ChoicePoint was posted on 2026-03-04.
+This sales engineer position at ChoicePoint was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

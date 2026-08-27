@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Zip](https://scoutify.ai/companies/zip?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Sydney, New South Wales, Australia |
+| Location | London, England, United Kingdom |
 | Category | Sales Engineer |
-| Posted | 2026-04-07 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/zip/c30b33c9-3649-42c6-9c9f-9c1fdb3af8e0) |
+| Posted | 2026-08-19 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/zip/249da127-7ddd-4427-81c5-4857b7168217) |
 
 ## About This Role
 
-This sales engineer position at Zip was posted on 2026-04-07.
+This sales engineer position at Zip was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

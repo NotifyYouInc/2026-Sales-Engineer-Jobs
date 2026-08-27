@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Minato, Wakayama, Japan |
+| Location | Jakarta, Jakarta, Indonesia |
 | Category | Sales Engineer |
-| Posted | 2026-08-14 |
-| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Minato-Japan/Solutions-Engineer_2020623-1) |
+| Posted | 2026-08-19 |
+| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Jakarta-Indonesia/Solutions-Engineer_2012957-1) |
 
 ## About This Role
 
-This sales engineer position at Cisco was posted on 2026-08-14.
+This sales engineer position at Cisco was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

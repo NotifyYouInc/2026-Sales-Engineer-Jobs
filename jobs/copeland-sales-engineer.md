@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Copeland](https://scoutify.ai/companies/copeland?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Mexico City, Mexico City, Mexico |
+| Location | Colombia |
 | Category | Sales Engineer |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://copeland.wd5.myworkdayjobs.com/copeland_external_careers_page/job/Mexico-City-Mexico/Sales-Engineer_JR113394) |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://copeland.wd5.myworkdayjobs.com/copeland_external_careers_page/job/Remote-Colombia/Sales-Engineer_JR117467) |
 
 ## About This Role
 
-This sales engineer position at Copeland was posted on 2026-03-03.
+This sales engineer position at Copeland was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

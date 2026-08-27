@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Fortinet](https://scoutify.ai/companies/us2-cx-oj39798?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Madrid, Madrid, Spain |
+| Location | 2 locations |
 | Category | Sales Engineer |
-| Posted | 2026-08-17 |
-| Apply | [View on company site](https://edel.fa.us2.oraclecloud.com/jobs/#23815) |
+| Posted | 2026-08-19 |
+| Apply | [View on company site](https://edel.fa.us2.oraclecloud.com/jobs/#23848) |
 
 ## About This Role
 
-This sales engineer position at Fortinet was posted on 2026-08-17.
+This sales engineer position at Fortinet was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Solutions Engineer, Upmarket (Pre-Sales) - EMEA  at Vanta
+# Solutions Engineer (Upmarket, Pre-Sales) - EMEA at Vanta
 
 | Field | Details |
 |-------|---------|
 | Company | [Vanta](https://scoutify.ai/companies/vanta?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | London, England, United Kingdom |
 | Category | Sales Engineer |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/vanta/e16d0ea8-f05a-4939-92c9-475c59d5bc11) |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/vanta/a2371f65-5777-47b7-9f4e-bcb260ce70a4) |
 
 ## About This Role
 
-This sales engineer position at Vanta was posted on 2026-04-30.
+This sales engineer position at Vanta was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

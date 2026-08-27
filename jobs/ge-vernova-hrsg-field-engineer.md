@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [GE Vernova](https://scoutify.ai/companies/ge-vernova?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | United States |
-| Category | Engineering Manager |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite/job/Remote/HRSG-Field-Engineer_R5034191) |
+| Category | Sales Engineer |
+| Posted | 2026-08-19 |
+| Apply | [View on company site](https://gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite/job/Remote/HRSG-Field-Engineer_R5050682-2) |
 
 ## About This Role
 
-This engineering manager position at GE Vernova was posted on 2026-04-30.
+This sales engineer position at GE Vernova was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

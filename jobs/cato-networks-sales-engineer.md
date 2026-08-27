@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cato Networks](https://scoutify.ai/companies/cato-networks?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | 2 locations |
+| Location | Denmark |
 | Category | Sales Engineer |
-| Posted | 2026-08-13 |
-| Apply | [View on company site](https://www.catonetworks.com/careers/careers-post/4938889101?gh_jid=4938889101) |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://www.catonetworks.com/careers/careers-post/4955497101?gh_jid=4955497101) |
 
 ## About This Role
 
-This sales engineer position at Cato Networks was posted on 2026-08-13.
+This sales engineer position at Cato Networks was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

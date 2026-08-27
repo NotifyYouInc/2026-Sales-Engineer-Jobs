@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Workiva](https://scoutify.ai/companies/workiva?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | London, England, United Kingdom |
+| Location | Alberta, CA |
 | Category | Sales Engineer |
-| Posted | 2026-05-15 |
-| Apply | [View on company site](https://workiva.wd503.myworkdayjobs.com/careers/job/London/Senior-Solution-Consultant_R11801) |
+| Posted | 2026-08-19 |
+| Apply | [View on company site](https://workiva.wd503.myworkdayjobs.com/careers/job/Remote---BC/Senior-Solution-Consultant_R12341) |
 
 ## About This Role
 
-This sales engineer position at Workiva was posted on 2026-05-15.
+This sales engineer position at Workiva was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

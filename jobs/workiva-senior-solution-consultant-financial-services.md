@@ -5,12 +5,12 @@
 | Company | [Workiva](https://scoutify.ai/companies/workiva?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | United States |
 | Category | Sales Engineer |
-| Posted | 2026-07-01 |
-| Apply | [View on company site](https://workiva.wd503.myworkdayjobs.com/careers/job/USA---Remote/Senior-Solution-Consultant---Financial-Services_R11970) |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://workiva.wd503.myworkdayjobs.com/careers/job/USA---Remote/Senior-Solution-Consultant---Financial-Services_R12184) |
 
 ## About This Role
 
-This sales engineer position at Workiva was posted on 2026-07-01.
+This sales engineer position at Workiva was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

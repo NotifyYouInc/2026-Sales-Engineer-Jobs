@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [JLL](https://scoutify.ai/companies/jll?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Philippines |
-| Category | Customer Success |
-| Posted | 2026-05-07 |
-| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Makati-Philippines/Product-Specialist-Associate_REQ503822) |
+| Location | Warsaw, Mazovia, Poland |
+| Category | Sales Engineer |
+| Posted | 2026-08-19 |
+| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Warsaw-POL/Product-Specialist-Associate_REQ528254-1) |
 
 ## About This Role
 
-This customer success position at JLL was posted on 2026-05-07.
+This sales engineer position at JLL was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

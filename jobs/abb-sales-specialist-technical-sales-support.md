@@ -5,12 +5,12 @@
 | Company | [ABB](https://scoutify.ai/companies/abb?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Pointe-Claire, Quebec, Canada |
 | Category | Sales Engineer |
-| Posted | 2026-06-03 |
-| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Pointe-Claire-Quebec-Canada/Sales-Specialist---Technical-Sales-Support_JR00034578) |
+| Posted | 2026-08-19 |
+| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Pointe-Claire-Quebec-Canada/Sales-Specialist---Technical-Sales-Support_JR00041995) |
 
 ## About This Role
 
-This sales engineer position at ABB was posted on 2026-06-03.
+This sales engineer position at ABB was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Amsterdam, North Holland, The Netherlands |
-| Category | Technology / IT Consulting |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Amsterdam/SAP-Integration-Consultant_R00234052-1) |
+| Category | Sales Engineer |
+| Posted | 2026-08-19 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Amsterdam/SAP-Integration-Consultant_R00351710-1) |
 
 ## About This Role
 
-This technology / it consulting position at Accenture was posted on 2026-04-30.
+This sales engineer position at Accenture was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

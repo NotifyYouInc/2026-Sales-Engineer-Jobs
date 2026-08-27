@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Rockwell Automation](https://scoutify.ai/companies/rockwellautomation?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Chennai, Tamil Nadu, India |
+| Location | Osaka, Osaka, Japan |
 | Category | Sales Engineer |
-| Posted | 2026-07-21 |
-| Apply | [View on company site](https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/India-Hyderabad/Solution-Consultant_R26-4337) |
+| Posted | 2026-08-19 |
+| Apply | [View on company site](https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Japan-Osaka/Solution-Consultant_R25-8245) |
 
 ## About This Role
 
-This sales engineer position at Rockwell Automation was posted on 2026-07-21.
+This sales engineer position at Rockwell Automation was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

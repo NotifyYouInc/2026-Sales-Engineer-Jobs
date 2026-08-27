@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Celonis](https://scoutify.ai/companies/celonis?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Amsterdam, North Holland, The Netherlands |
+| Location | Copenhagen, Capital Region, Denmark |
 | Category | Sales Engineer |
-| Posted | 2026-07-10 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/celonis/jobs/7608430003?gh_jid=7608430003) |
+| Posted | 2026-08-19 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/celonis/jobs/7885753003?gh_jid=7885753003) |
 
 ## About This Role
 
-This sales engineer position at Celonis was posted on 2026-07-10.
+This sales engineer position at Celonis was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

@@ -6,7 +6,7 @@
 | Location | Singapore, Singapore |
 | Category | Electrical / Hardware Engineer |
 | Posted | 2026-08-18 |
-| Apply | [View on company site](https://amat.wd1.myworkdayjobs.com/External/job/SingaporeSGP/Customer-Engineer_R2519709) |
+| Apply | [View on company site](https://amat.wd1.myworkdayjobs.com/External/job/SingaporeSGP/Customer-Engineer_R2625494) |
 
 ## About This Role
 

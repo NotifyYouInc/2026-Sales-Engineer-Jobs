@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Anton Paar](https://scoutify.ai/companies/antonpaar?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Luton, England, United Kingdom |
+| Location | United Kingdom |
 | Category | Sales Engineer |
 | Posted | 2026-08-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AntonPaar1/744000144012919-sales-engineer-spectroscopy-analytical-chemistry-north-uk) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AntonPaar1/744000144016240-sales-engineer-spectroscopy-analytical-chemistry-north-uk) |
 
 ## About This Role
 

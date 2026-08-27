@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ABB](https://scoutify.ai/companies/abb?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Jakarta, Jakarta, Indonesia |
+| Location | Petaling Jaya, Selangor, Malaysia |
 | Category | Sales Engineer |
-| Posted | 2026-08-05 |
-| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Jakarta-Jakarta-Indonesia/Service-Tendering-Specialist_JR00041882-1) |
+| Posted | 2026-08-19 |
+| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Petaling-Jaya-Selangor-Malaysia/Service-Tendering-Specialist_JR00024226) |
 
 ## About This Role
 
-This sales engineer position at ABB was posted on 2026-08-05.
+This sales engineer position at ABB was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

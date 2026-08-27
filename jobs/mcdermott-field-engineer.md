@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [McDermott](https://scoutify.ai/companies/us2-cx-oj68057?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
+| Location | Dubai, Dubai, United Arab Emirates |
 | Category | Sales Engineer |
-| Posted | 2026-08-04 |
-| Apply | [View on company site](https://edsv.fa.us2.oraclecloud.com/jobs/#26003761) |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://edsv.fa.us2.oraclecloud.com/jobs/#26003746) |
 
 ## About This Role
 
-This sales engineer position at McDermott was posted on 2026-08-04.
+This sales engineer position at McDermott was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

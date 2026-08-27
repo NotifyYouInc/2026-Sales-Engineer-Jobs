@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Regal Rexnord](https://scoutify.ai/companies/regalrexnord?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | 13 locations |
+| Location | Seri Kembangan, Selangor, Malaysia |
 | Category | Sales Engineer |
-| Posted | 2026-06-25 |
-| Apply | [View on company site](https://regalrexnord.wd1.myworkdayjobs.com/careers/job/Las-Vegas-Nevada-United-States/Sales-Engineer_R26_03082) |
+| Posted | 2026-08-19 |
+| Apply | [View on company site](https://regalrexnord.wd1.myworkdayjobs.com/careers/job/Seri-Kembangan-Selangor-Malaysia/Sales-Engineer_R26_04136) |
 
 ## About This Role
 
-This sales engineer position at Regal Rexnord was posted on 2026-06-25.
+This sales engineer position at Regal Rexnord was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

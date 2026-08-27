@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [REXEL](https://scoutify.ai/companies/rexel?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Raipur, Chhattisgarh, India |
-| Category | Industrial Automation |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/REXEL1/744000113088650-technical-consultant) |
+| Location | Ludhiana, Punjab, India |
+| Category | Sales Engineer |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/REXEL1/744000144529979-technical-consultant) |
 
 ## About This Role
 
-This industrial automation position at REXEL was posted on 2026-03-06.
+This sales engineer position at REXEL was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

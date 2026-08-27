@@ -1,16 +1,16 @@
-# Technical Account Manager, Auth0 at Okta
+# Technical Account Manager - Auth0 at Okta
 
 | Field | Details |
 |-------|---------|
 | Company | [Okta](https://scoutify.ai/companies/okta?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Tokyo, Tokyo, Japan |
-| Category | Customer Success |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://www.okta.com/company/careers/opportunity/7671515?gh_jid=7671515) |
+| Location | London, England, United Kingdom |
+| Category | Sales Engineer |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://www.okta.com/company/careers/opportunity/8143749?gh_jid=8143749) |
 
 ## About This Role
 
-This customer success position at Okta was posted on 2026-03-03.
+This sales engineer position at Okta was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

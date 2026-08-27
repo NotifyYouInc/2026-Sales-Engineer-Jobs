@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Warsaw, Mazovia, Poland |
-| Category | Technical & Solutions Architect |
-| Posted | 2026-02-13 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/jobs/results/110840897955865286-customer-engineer-platform-fsi-google-cloud-polish?sort_by=date&page=1) |
+| Category | Sales Engineer |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckTqF-aGbR8SbKGKQw0jXZJ_qy09Ig5g-a5RIS9sYt1uLEjsA1Ny_i4i7KDFF7rm53uxoFyu80nyTN55KjDp1IQawYW_NqxcP8Z0vq_yipzwkZEUgUc4wgpnElvh7dA%3D%3D_V2&loc=PL&title=Customer+Engineer) |
 
 ## About This Role
 
-This technical & solutions architect position at Google was posted on 2026-02-13.
+This sales engineer position at Google was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

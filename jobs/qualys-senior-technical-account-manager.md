@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Qualys](https://scoutify.ai/companies/qualys?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | 2 locations |
-| Category | Customer Success |
-| Posted | 2026-05-07 |
-| Apply | [View on company site](https://qualys.wd5.myworkdayjobs.com/careers/job/Georgia/Senior-Technical-Account-Manager_R0004666) |
+| Location | Georgia |
+| Category | Sales Engineer |
+| Posted | 2026-08-19 |
+| Apply | [View on company site](https://qualys.wd5.myworkdayjobs.com/careers/job/Georgia/Senior-Technical-Account-Manager_R0004960) |
 
 ## About This Role
 
-This customer success position at Qualys was posted on 2026-05-07.
+This sales engineer position at Qualys was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

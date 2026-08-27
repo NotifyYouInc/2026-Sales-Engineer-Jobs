@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sprinklr](https://scoutify.ai/companies/sprinklr?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | 2 locations |
-| Category | Customer Success |
-| Posted | 2026-07-29 |
-| Apply | [View on company site](https://sprinklr.wd1.myworkdayjobs.com/careers/job/India---Haryana---Gurgaon/Lead-Implementation-Consultant_113340-JOB) |
+| Location | Riyadh, Riyadh Region, Saudi Arabia |
+| Category | Sales Engineer |
+| Posted | 2026-08-19 |
+| Apply | [View on company site](https://sprinklr.wd1.myworkdayjobs.com/careers/job/Saudi-Arabia---Riyadh/Lead-Implementation-Consultant_113439-JOB) |
 
 ## About This Role
 
-This customer success position at Sprinklr was posted on 2026-07-29.
+This sales engineer position at Sprinklr was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

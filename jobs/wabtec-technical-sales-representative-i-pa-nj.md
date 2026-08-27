@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wabtec](https://scoutify.ai/companies/wabtec?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Philadelphia, Pennsylvania, United States |
+| Location | New Jersey, US |
 | Category | Account Executive |
-| Posted | 2026-08-07 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wabtec/3743990014497556-technical-sales-representative-i-pa-nj) |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Wabtec/3743990014705151-technical-sales-representative-i-pa-nj) |
 
 ## About This Role
 
-This account executive position at Wabtec was posted on 2026-08-07.
+This account executive position at Wabtec was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

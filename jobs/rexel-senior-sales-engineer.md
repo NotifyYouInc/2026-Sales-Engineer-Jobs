@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [REXEL](https://scoutify.ai/companies/rexel?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | India |
+| Location | Pune, Maharashtra, India |
 | Category | Sales Engineer |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/REXEL1/744000113090627-senior-sales-engineer) |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/REXEL1/744000144528669-senior-sales-engineer) |
 
 ## About This Role
 
-This sales engineer position at REXEL was posted on 2026-03-06.
+This sales engineer position at REXEL was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

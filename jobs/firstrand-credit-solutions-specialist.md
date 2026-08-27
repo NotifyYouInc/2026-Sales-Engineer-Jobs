@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [FirstRand](https://scoutify.ai/companies/firstrand?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Durban, KwaZulu-Natal, South Africa |
-| Category | Sales Engineer |
+| Category | Financial Analyst |
 | Posted | 2026-08-19 |
 | Apply | [View on company site](https://firstrand.wd3.myworkdayjobs.com/frb/job/Durban/Credit-Solutions-Specialist_R52428) |
 
 ## About This Role
 
-This sales engineer position at FirstRand was posted on 2026-08-19.
+This financial analyst position at FirstRand was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

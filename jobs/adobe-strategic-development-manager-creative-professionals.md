@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Adobe](https://scoutify.ai/companies/adobe-inc?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | New York City, New York, United States |
-| Category | Strategy & Operations |
-| Posted | 2026-08-17 |
-| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/New-York/Strategic-Development-Manager--Creative-Professionals_R171300) |
+| Category | Go To Market Engineer |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/New-York/Strategic-Development-Manager--Creative-Professionals_R171298) |
 
 ## About This Role
 
-This strategy & operations position at Adobe was posted on 2026-08-17.
+This go to market engineer position at Adobe was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 
