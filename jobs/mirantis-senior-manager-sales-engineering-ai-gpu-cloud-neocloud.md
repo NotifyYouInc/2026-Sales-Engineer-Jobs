@@ -5,12 +5,12 @@
 | Company | [Mirantis](https://scoutify.ai/companies/mirantis?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | San Jose, California, United States |
 | Category | Sales Engineer |
-| Posted | 2026-08-14 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/mirantis/744000143579824-senior-manager-sales-engineering-ai-gpu-cloud-neocloud) |
+| Posted | 2026-08-21 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/mirantis/744000144806419-senior-manager-sales-engineering-ai-gpu-cloud-neocloud) |
 
 ## About This Role
 
-This sales engineer position at Mirantis was posted on 2026-08-14.
+This sales engineer position at Mirantis was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

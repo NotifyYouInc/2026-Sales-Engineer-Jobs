@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Snowflake](https://scoutify.ai/companies/snowflake?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Ohio, US |
+| Location | Atlanta, Georgia, United States |
 | Category | Sales Engineer |
-| Posted | 2026-08-13 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/snowflake/81de2dde-0255-4c9f-8db5-e22e5a96891e) |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/snowflake/4b494244-50fe-4c55-837c-5c347ff5235b) |
 
 ## About This Role
 
-This sales engineer position at Snowflake was posted on 2026-08-13.
+This sales engineer position at Snowflake was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Solventum](https://scoutify.ai/companies/solventum?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | 4 locations |
-| Category | Customer Success |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://healthcare.wd1.myworkdayjobs.com/search/job/AU-NORTH-RYDE-VIRTUAL/Implementation-Consultant_R01124308-1) |
+| Location | Alberta, CA |
+| Category | Sales Engineer |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://healthcare.wd1.myworkdayjobs.com/search/job/CA-ONTARIO-VIRTUAL/Implementation-Consultant_R01132579) |
 
 ## About This Role
 
-This customer success position at Solventum was posted on 2026-03-02.
+This sales engineer position at Solventum was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

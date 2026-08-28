@@ -5,12 +5,12 @@
 | Company | [Banner Health](https://scoutify.ai/companies/bannerhealth?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Phoenix, Arizona, United States |
 | Category | Sales Development (SDR / BDR) |
-| Posted | 2026-03-18 |
-| Apply | [View on company site](https://bannerhealth.wd108.myworkdayjobs.com/Careers/job/Banner-Health-Corp-Phoenix-2901-N-Central-Ave/Business-Development-Solutions-Consultant_R4436625) |
+| Posted | 2026-08-21 |
+| Apply | [View on company site](https://bannerhealth.wd108.myworkdayjobs.com/Careers/job/Banner-Health-Corp-Phoenix-2901-N-Central-Ave/Business-Development-Solutions-Consultant_R4451708) |
 
 ## About This Role
 
-This sales development (sdr / bdr) position at Banner Health was posted on 2026-03-18.
+This sales development (sdr / bdr) position at Banner Health was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

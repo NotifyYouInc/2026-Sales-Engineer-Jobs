@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [REXEL](https://scoutify.ai/companies/rexel?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Calgary, Alberta, Canada |
+| Location | Edmonton, Alberta, Canada |
 | Category | Sales Engineer |
-| Posted | 2026-08-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/REXEL1/744000144161161-junior-outside-technical-sales-specialist-power-and-motor-control) |
+| Posted | 2026-08-19 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/REXEL1/744000144340738-junior-outside-technical-sales-specialist-power-and-motor-control) |
 
 ## About This Role
 
-This sales engineer position at REXEL was posted on 2026-08-18.
+This sales engineer position at REXEL was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

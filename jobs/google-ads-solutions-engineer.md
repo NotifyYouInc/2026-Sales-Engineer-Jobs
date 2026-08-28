@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Warsaw, Mazovia, Poland |
-| Category | Software Engineer |
-| Posted | 2026-08-04 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckZf7-uD7LPrBD1BCO70dXVQ5WbPkMa8oC6ktFkC2kvx6EjsA1Ny_i0iZETRyqi68vyk1G5JIiioGJzFPoVosnBL29R4-3StGHZpCwL9GfHz87MLWTSLqDBKqmdHoaA%3D%3D_V2&loc=PL&title=Ads+Solutions+Engineer) |
+| Location | New York City, New York, United States |
+| Category | Sales Engineer |
+| Posted | 2026-08-21 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckW7XWiHB0qwLiIFRSRqSpaFlgxYIEQ-w7afz_Iwmi2b5EjsA1Ny_i-Xo54W5ep4iDr4tgxcj-NIaHAfnudgTFinrJ7-eCirDjTkap3emdM5iVDysqrG1STPbGarVyg%3D%3D_V2&loc=US&title=Ads+Solutions+Engineer) |
 
 ## About This Role
 
-This software engineer position at Google was posted on 2026-08-04.
+This sales engineer position at Google was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

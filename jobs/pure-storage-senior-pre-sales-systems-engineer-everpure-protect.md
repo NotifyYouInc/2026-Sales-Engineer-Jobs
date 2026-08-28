@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Pure Storage](https://scoutify.ai/companies/pure-storage?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | 2 locations |
+| Location | 6 locations |
 | Category | Sales Engineer |
-| Posted | 2026-04-01 |
+| Posted | 2026-08-20 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/purestorage/jobs/7761477) |
 
 ## About This Role
 
-This sales engineer position at Pure Storage was posted on 2026-04-01.
+This sales engineer position at Pure Storage was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

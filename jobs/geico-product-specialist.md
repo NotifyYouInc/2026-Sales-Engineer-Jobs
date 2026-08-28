@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Geico](https://scoutify.ai/companies/geico?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Bethesda, Maryland, United States |
-| Category | Compliance & Risk Management |
-| Posted | 2026-05-12 |
-| Apply | [View on company site](https://geico.wd1.myworkdayjobs.com/External/job/Bethesda-MD/Product-Specialist_R0063808) |
+| Location | 12 locations |
+| Category | Sales Engineer |
+| Posted | 2026-08-21 |
+| Apply | [View on company site](https://geico.wd1.myworkdayjobs.com/External/job/Bethesda-MD/Product-Specialist_R0065280) |
 
 ## About This Role
 
-This compliance & risk management position at Geico was posted on 2026-05-12.
+This sales engineer position at Geico was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

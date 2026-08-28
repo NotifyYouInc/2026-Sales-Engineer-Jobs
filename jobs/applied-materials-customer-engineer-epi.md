@@ -1,16 +1,16 @@
-# Customer Engineer-Epi at Applied Materials
+# Customer Engineer-EPI at Applied Materials
 
 | Field | Details |
 |-------|---------|
 | Company | [Applied Materials](https://scoutify.ai/companies/applied-materials?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Shanghai, Shanghai, China |
-| Category | Sales Engineer |
-| Posted | 2026-07-24 |
-| Apply | [View on company site](https://amat.wd1.myworkdayjobs.com/External/job/ShanghaiCHN/Customer-Engineer-Epi_R2624742) |
+| Category | Semiconductor / Chip Design |
+| Posted | 2026-08-21 |
+| Apply | [View on company site](https://amat.wd1.myworkdayjobs.com/External/job/ShanghaiCHN/Customer-Engineer-EPI_R2626647) |
 
 ## About This Role
 
-This sales engineer position at Applied Materials was posted on 2026-07-24.
+This semiconductor / chip design position at Applied Materials was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Technical Account Manager - EMEA at Hightouch
+# Technical Account Manager, EMEA  at Hightouch
 
 | Field | Details |
 |-------|---------|
-| Company | [Hightouch](https://scoutify.ai/companies/hightouch-889617?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | 2 locations |
-| Category | Customer Success |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/hightouch/jobs/5466160004) |
+| Company | [Hightouch](https://scoutify.ai/companies/hightouch?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
+| Location | Not specified |
+| Category | Sales Engineer |
+| Posted | 2026-08-21 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/hightouch/jobs/6146017004) |
 
 ## About This Role
 
-This customer success position at Hightouch was posted on 2026-04-30.
+This sales engineer position at Hightouch was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

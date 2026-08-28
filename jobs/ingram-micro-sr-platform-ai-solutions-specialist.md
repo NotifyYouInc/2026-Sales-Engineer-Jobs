@@ -1,16 +1,16 @@
-# Sr. Platform, AI Solutions Specialist at Ingram Micro
+# Sr. Platform AI Solutions Specialist at Ingram Micro
 
 | Field | Details |
 |-------|---------|
 | Company | [Ingram Micro](https://scoutify.ai/companies/ingram-micro?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Buffalo, New York, United States |
 | Category | Sales Engineer |
-| Posted | 2026-08-13 |
-| Apply | [View on company site](https://ingrammicro.wd5.myworkdayjobs.com/ingrammicro/job/Buffalo-NY-United-States-of-America/Platform-AI-Solutions-Specialist_R-116749-1) |
+| Posted | 2026-08-21 |
+| Apply | [View on company site](https://ingrammicro.wd5.myworkdayjobs.com/ingrammicro/job/Buffalo-NY-United-States-of-America/Sr-Platform-AI-Solutions-Specialist_R-116748) |
 
 ## About This Role
 
-This sales engineer position at Ingram Micro was posted on 2026-08-13.
+This sales engineer position at Ingram Micro was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

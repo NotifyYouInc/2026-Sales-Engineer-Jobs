@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [SHI International](https://scoutify.ai/companies/shi-international?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Texas, US |
+| Location | California, US |
 | Category | Sales Engineer |
-| Posted | 2026-07-21 |
-| Apply | [View on company site](https://shi.wd12.myworkdayjobs.com/shicareers/job/US---TX---Home-Office/Field-Solutions-Engineer---Public-Sector_JR3417) |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://shi.wd12.myworkdayjobs.com/shicareers/job/US---CA---Home-Office/Field-Solutions-Engineer---Public-Sector_JR3566) |
 
 ## About This Role
 
-This sales engineer position at SHI International was posted on 2026-07-21.
+This sales engineer position at SHI International was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Adyen](https://scoutify.ai/companies/adyen?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Sydney, New South Wales, Australia |
+| Location | Chicago, Illinois, United States |
 | Category | Sales Engineer |
-| Posted | 2026-07-07 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/adyen/jobs/8009831) |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/adyen/jobs/8142106) |
 
 ## About This Role
 
-This sales engineer position at Adyen was posted on 2026-07-07.
+This sales engineer position at Adyen was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

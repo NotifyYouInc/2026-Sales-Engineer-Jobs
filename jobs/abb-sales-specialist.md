@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ABB](https://scoutify.ai/companies/abb?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Chennai, Tamil Nadu, India |
+| Location | Indore, Madhya Pradesh, India |
 | Category | Account Executive |
-| Posted | 2026-08-18 |
-| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Chennai-Tamil-Nadu-India/Sales-Specialist_JR00043988) |
+| Posted | 2026-08-21 |
+| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Indore-Madhya-Pradesh--India/Sales-Specialist_JR00045126) |
 
 ## About This Role
 
-This account executive position at ABB was posted on 2026-08-18.
+This account executive position at ABB was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

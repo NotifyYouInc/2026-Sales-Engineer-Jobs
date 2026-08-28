@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Thermo Fisher Scientific](https://scoutify.ai/companies/thermo-fisher-scientific?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Tokyo, Tokyo, Japan |
-| Category | Software Engineer |
-| Posted | 2026-07-13 |
-| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Tokyo-Japan/Field-Application-Engineer_R-01356806-1) |
+| Location | 2 locations |
+| Category | Sales Engineer |
+| Posted | 2026-08-21 |
+| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Shanghai-China/Field-Application-Engineer_R-01365565) |
 
 ## About This Role
 
-This software engineer position at Thermo Fisher Scientific was posted on 2026-07-13.
+This sales engineer position at Thermo Fisher Scientific was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

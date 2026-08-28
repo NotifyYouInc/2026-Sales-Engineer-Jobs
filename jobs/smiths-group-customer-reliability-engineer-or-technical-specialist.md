@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Smiths Group](https://scoutify.ai/companies/smithsgroup?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Clinton, Maryland, United States |
-| Category | DevOps Engineer |
-| Posted | 2026-07-07 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SmithsGroup2/744000136243357-customer-reliability-engineer-or-technical-specialist) |
+| Location | Mount Vernon, New York, United States |
+| Category | Sales Engineer |
+| Posted | 2026-08-21 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SmithsGroup2/744000144803867-customer-reliability-engineer-or-technical-specialist) |
 
 ## About This Role
 
-This devops engineer position at Smiths Group was posted on 2026-07-07.
+This sales engineer position at Smiths Group was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

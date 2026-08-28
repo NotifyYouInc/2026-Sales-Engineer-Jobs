@@ -5,12 +5,12 @@
 | Company | [Sophos](https://scoutify.ai/companies/sophos?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Dallas, Texas, United States |
 | Category | Sales Engineer |
-| Posted | 2026-02-10 |
-| Apply | [View on company site](https://jobs.lever.co/sophos/e819a429-84cc-47b1-860d-4cdd57e44a88) |
+| Posted | 2026-08-21 |
+| Apply | [View on company site](https://jobs.lever.co/sophos/d252e62c-7a33-491e-8696-3c0c37357d4c) |
 
 ## About This Role
 
-This sales engineer position at Sophos was posted on 2026-02-10.
+This sales engineer position at Sophos was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

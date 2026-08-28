@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Zscaler](https://scoutify.ai/companies/zscaler?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Texas, US |
-| Category | Sales Engineer |
+| Category | Sales Leadership |
 | Posted | 2026-08-19 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/zscaler/jobs/5198914007) |
 
 ## About This Role
 
-This sales engineer position at Zscaler was posted on 2026-08-19.
+This sales leadership position at Zscaler was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

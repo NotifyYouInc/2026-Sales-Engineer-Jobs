@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Canva](https://scoutify.ai/companies/canva?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Texas, US |
+| Location | San Francisco, California, United States |
 | Category | Sales Engineer |
-| Posted | 2026-08-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Canva/6000000001317623-principal-partner-engineer-ecosystem) |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Canva/6000000001336005-principal-partner-engineer-ecosystem) |
 
 ## About This Role
 
-This sales engineer position at Canva was posted on 2026-08-16.
+This sales engineer position at Canva was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

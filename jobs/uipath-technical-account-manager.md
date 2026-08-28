@@ -5,12 +5,12 @@
 | Company | [UiPath](https://scoutify.ai/companies/uipath?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | São Paulo, São Paulo, Brazil |
 | Category | Sales Engineer |
-| Posted | 2026-07-16 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/uipath/871f8913-96fd-4b1f-9974-1f5b1d38213f) |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/uipath/7ae90b76-d672-4a16-9ab5-c9212017b9ff) |
 
 ## About This Role
 
-This sales engineer position at UiPath was posted on 2026-07-16.
+This sales engineer position at UiPath was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

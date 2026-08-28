@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Londrina, Paraná, Brazil |
-| Category | PR & External Communications |
+| Category | Sales Engineer |
 | Posted | 2026-08-19 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000144358489-consultor-tecnico-comercial-pl-ferramentas-eletricas-londrinapr-35477) |
 
 ## About This Role
 
-This pr & external communications position at Robert Bosch was posted on 2026-08-19.
+This sales engineer position at Robert Bosch was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

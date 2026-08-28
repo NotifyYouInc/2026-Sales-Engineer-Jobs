@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ABB](https://scoutify.ai/companies/abb?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | 2 locations |
+| Location | Xiamen, Fujian, China |
 | Category | Sales Engineer |
-| Posted | 2026-06-18 |
-| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Paranaque-City-NCR-Philippines/EL-Sales-Support-Specialist---Configuration-and-Quotation_JR00034808) |
+| Posted | 2026-08-21 |
+| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Xiamen-Fujian-China/EL-Sales-Support-Specialist---Configuration-and-Quotation_JR00045010-2) |
 
 ## About This Role
 
-This sales engineer position at ABB was posted on 2026-06-18.
+This sales engineer position at ABB was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Senior Advisory Solutions Consultant at Appian
+# Senior Advisory Solutions Consultant  at Appian
 
 | Field | Details |
 |-------|---------|
 | Company | [Appian](https://scoutify.ai/companies/appian?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Amsterdam, North Holland, The Netherlands |
+| Location | Dubai, Dubai, United Arab Emirates |
 | Category | Sales Engineer |
-| Posted | 2026-06-17 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/appian/jobs/7951312) |
+| Posted | 2026-08-21 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/appian/jobs/8147261) |
 
 ## About This Role
 
-This sales engineer position at Appian was posted on 2026-06-17.
+This sales engineer position at Appian was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

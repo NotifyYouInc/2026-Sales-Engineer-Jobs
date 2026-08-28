@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Intercom](https://scoutify.ai/companies/intercom?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | San Francisco, California, United States |
-| Category | Technical & Solutions Architect |
+| Category | Sales Engineer |
 | Posted | 2026-08-20 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/intercom/jobs/8122199) |
 
 ## About This Role
 
-This technical & solutions architect position at Intercom was posted on 2026-08-20.
+This sales engineer position at Intercom was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

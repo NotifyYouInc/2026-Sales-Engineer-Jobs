@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Trumpf](https://scoutify.ai/companies/trumpf?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Pune, Maharashtra, India |
-| Category | Sales Engineer |
+| Category | Sales Leadership |
 | Posted | 2026-08-19 |
 | Apply | [View on company site](https://trumpf.wd3.myworkdayjobs.com/trumpf_graduates_and_professionals/job/Pune/Zonal-Manager-Sales---Trumpf-Machinery---Company--Airprax-Pneumatics-LLP_R00042475) |
 
 ## About This Role
 
-This sales engineer position at Trumpf was posted on 2026-08-19.
+This sales leadership position at Trumpf was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 
