@@ -1,16 +1,16 @@
-# Implementation Consultant I at R1 Rcm
+# Subject Matter Expert - Chemical at Yokogawa
 
 | Field | Details |
 |-------|---------|
-| Company | [R1 Rcm](https://scoutify.ai/companies/r1rcm?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | United States |
+| Company | [Yokogawa](https://scoutify.ai/companies/yokogawa?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
+| Location | São Paulo, São Paulo, Brazil |
 | Category | Sales Engineer |
 | Posted | 2026-08-21 |
-| Apply | [View on company site](https://r1rcm.wd1.myworkdayjobs.com/r1rcm/job/Remote-USA/Implementation-Consultant-I_R260000005390) |
+| Apply | [View on company site](https://yokogawa.wd3.myworkdayjobs.com/yokogawa-career-site/job/Sao-Paulo/Subject-Matter-Expert---Chemical_R-12685) |
 
 ## About This Role
 
-This sales engineer position at R1 Rcm was posted on 2026-08-21.
+This sales engineer position at Yokogawa was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [SunSource](https://scoutify.ai/companies/sunsource?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Golden, Colorado, United States |
-| Category | Sales Engineer |
+| Category | Software Engineer |
 | Posted | 2026-08-20 |
 | Apply | [View on company site](https://jobs.lever.co/sunsrce/52e86685-28b2-44f6-82ee-e1bf50db37ee) |
 
 ## About This Role
 
-This sales engineer position at SunSource was posted on 2026-08-20.
+This software engineer position at SunSource was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

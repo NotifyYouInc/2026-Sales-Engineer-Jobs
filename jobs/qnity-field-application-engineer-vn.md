@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Qnity](https://scoutify.ai/companies/qnity?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Bắc Ninh, Bac Ninh, Vietnam |
-| Category | Sales Engineer |
+| Category | Software Engineer |
 | Posted | 2026-08-21 |
 | Apply | [View on company site](https://qnity.wd503.myworkdayjobs.com/jobs/job/Bac-Ninh-Bac-Ninh/Field-Application-Engineer--VN-_252690W) |
 
 ## About This Role
 
-This sales engineer position at Qnity was posted on 2026-08-21.
+This software engineer position at Qnity was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

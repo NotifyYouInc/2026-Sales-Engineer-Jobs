@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [GlobalFoundries](https://scoutify.ai/companies/globalfoundries?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Leuven, Flanders, Belgium |
-| Category | Sales Engineer |
+| Category | Software Engineer |
 | Posted | 2026-08-21 |
 | Apply | [View on company site](https://globalfoundries.wd1.myworkdayjobs.com/External/job/Belgium/Applications-Engineer---Atlas-Explorer_JR-2603707-1) |
 
 ## About This Role
 
-This sales engineer position at GlobalFoundries was posted on 2026-08-21.
+This software engineer position at GlobalFoundries was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Field Application Engineer at Thermo Fisher Scientific
+# Application Specialist III at Thermo Fisher Scientific
 
 | Field | Details |
 |-------|---------|
 | Company | [Thermo Fisher Scientific](https://scoutify.ai/companies/thermo-fisher-scientific?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | 2 locations |
-| Category | Software Engineer |
+| Location | Colombia |
+| Category | Sales Engineer |
 | Posted | 2026-08-21 |
-| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Shanghai-China/Field-Application-Engineer_R-01365565) |
+| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Remote-Colombia/Application-Specialist-III_R-01361161) |
 
 ## About This Role
 
-This software engineer position at Thermo Fisher Scientific was posted on 2026-08-21.
+This sales engineer position at Thermo Fisher Scientific was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

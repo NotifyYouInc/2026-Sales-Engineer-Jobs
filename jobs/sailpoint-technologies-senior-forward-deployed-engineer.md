@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [SailPoint Technologies](https://scoutify.ai/companies/sailpoint-technologies?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | United States |
-| Category | Sales Engineer |
+| Category | Software Engineer |
 | Posted | 2026-08-21 |
 | Apply | [View on company site](https://sailpoint.wd1.myworkdayjobs.com/sailpoint/job/United-States/Senior-Forward-Deployed-Engineer_R014000) |
 
 ## About This Role
 
-This sales engineer position at SailPoint Technologies was posted on 2026-08-21.
+This software engineer position at SailPoint Technologies was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

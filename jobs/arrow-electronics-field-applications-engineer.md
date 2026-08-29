@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Arrow Electronics](https://scoutify.ai/companies/arrow-electronics?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Tokyo, Tokyo, Japan |
-| Category | Sales Engineer |
+| Category | Software Engineer |
 | Posted | 2026-08-19 |
 | Apply | [View on company site](https://arrow.wd1.myworkdayjobs.com/ac/job/JP-Tokyo-Japan-Atago-Green-Hills-Mori/Field-Applications-Engineer_R246867) |
 
 ## About This Role
 
-This sales engineer position at Arrow Electronics was posted on 2026-08-19.
+This software engineer position at Arrow Electronics was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Aggreko](https://scoutify.ai/companies/aggreko?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Pune, Maharashtra, India |
-| Category | Sales Engineer |
+| Category | Software Engineer |
 | Posted | 2026-08-20 |
 | Apply | [View on company site](https://aggreko.wd3.myworkdayjobs.com/aggreko_careers_1/job/Pune-India/Application-Engineer---Temperature-Control_JR21297) |
 
 ## About This Role
 
-This sales engineer position at Aggreko was posted on 2026-08-20.
+This software engineer position at Aggreko was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

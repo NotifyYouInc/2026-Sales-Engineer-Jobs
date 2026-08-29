@@ -1,16 +1,16 @@
-# Implementation Consultant I at R1 Rcm
+# Sr. Partner Solutions Engineer at Cisco
 
 | Field | Details |
 |-------|---------|
-| Company | [R1 Rcm](https://scoutify.ai/companies/r1rcm?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | United States |
+| Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
+| Location | Mexico City, Mexico City, Mexico |
 | Category | Sales Engineer |
 | Posted | 2026-08-21 |
-| Apply | [View on company site](https://r1rcm.wd1.myworkdayjobs.com/r1rcm/job/Remote-USA/Implementation-Consultant-I_R260000005390) |
+| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Mexico-City-Mexico/Sr-Partner-Solutions-Engineer_2023802) |
 
 ## About This Role
 
-This sales engineer position at R1 Rcm was posted on 2026-08-21.
+This sales engineer position at Cisco was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

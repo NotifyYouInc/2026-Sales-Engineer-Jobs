@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Qnity](https://scoutify.ai/companies/qnity?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Seoul, Seoul, South Korea |
-| Category | Sales Engineer |
+| Category | Software Engineer |
 | Posted | 2026-08-20 |
 | Apply | [View on company site](https://qnity.wd503.myworkdayjobs.com/jobs/job/Seoul-Sudogwon/Field-Application-Engineer_252385W-1) |
 
 ## About This Role
 
-This sales engineer position at Qnity was posted on 2026-08-20.
+This software engineer position at Qnity was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

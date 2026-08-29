@@ -1,16 +1,16 @@
-# Implementation Consultant I at R1 Rcm
+# Pre Sales Engineer | Cloud at TD Synnex
 
 | Field | Details |
 |-------|---------|
-| Company | [R1 Rcm](https://scoutify.ai/companies/r1rcm?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | United States |
+| Company | [TD Synnex](https://scoutify.ai/companies/synnex?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
+| Location | 2 locations |
 | Category | Sales Engineer |
 | Posted | 2026-08-21 |
-| Apply | [View on company site](https://r1rcm.wd1.myworkdayjobs.com/r1rcm/job/Remote-USA/Implementation-Consultant-I_R260000005390) |
+| Apply | [View on company site](https://synnex.wd5.myworkdayjobs.com/tdsynnexcareers/job/So-Paulo-Brazil/Pre-Sales-Engineer---Cloud_R55463) |
 
 ## About This Role
 
-This sales engineer position at R1 Rcm was posted on 2026-08-21.
+This sales engineer position at TD Synnex was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

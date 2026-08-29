@@ -1,16 +1,16 @@
-# Implementation Consultant I at R1 Rcm
+# Solution Engineer-1 at Infobip
 
 | Field | Details |
 |-------|---------|
-| Company | [R1 Rcm](https://scoutify.ai/companies/r1rcm?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | United States |
+| Company | [Infobip](https://scoutify.ai/companies/infobip?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
+| Location | Jersey City, New Jersey, United States |
 | Category | Sales Engineer |
 | Posted | 2026-08-21 |
-| Apply | [View on company site](https://r1rcm.wd1.myworkdayjobs.com/r1rcm/job/Remote-USA/Implementation-Consultant-I_R260000005390) |
+| Apply | [View on company site](https://infobip.wd3.myworkdayjobs.com/infobipcareers/job/Jersey-City-USA/Solution-Engineer-1_JR104885) |
 
 ## About This Role
 
-This sales engineer position at R1 Rcm was posted on 2026-08-21.
+This sales engineer position at Infobip was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

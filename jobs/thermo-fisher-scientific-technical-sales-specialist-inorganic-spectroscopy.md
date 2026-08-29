@@ -1,16 +1,16 @@
-# Field Application Engineer at Thermo Fisher Scientific
+# Technical Sales Specialist, Inorganic Spectroscopy at Thermo Fisher Scientific
 
 | Field | Details |
 |-------|---------|
 | Company | [Thermo Fisher Scientific](https://scoutify.ai/companies/thermo-fisher-scientific?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | 2 locations |
-| Category | Software Engineer |
-| Posted | 2026-08-21 |
-| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Shanghai-China/Field-Application-Engineer_R-01365565) |
+| Location | 3 locations |
+| Category | Sales Engineer |
+| Posted | 2026-08-22 |
+| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Remote-California-USA/Technical-Sales-Specialist--Inorganic-Spectroscopy_R-01364946) |
 
 ## About This Role
 
-This software engineer position at Thermo Fisher Scientific was posted on 2026-08-21.
+This sales engineer position at Thermo Fisher Scientific was posted on 2026-08-22.
 
 ## Get Real-Time Alerts
 

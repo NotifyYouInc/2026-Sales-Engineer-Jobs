@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Workday](https://scoutify.ai/companies/workday?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Atlanta, Georgia, United States |
-| Category | Sales Engineer |
+| Category | Account Manager |
 | Posted | 2026-08-20 |
 | Apply | [View on company site](https://workday.wd5.myworkdayjobs.com/Workday/job/USA-GA-Atlanta/Technical-Account-Manager--Atlanta-GA-_JR-0109355) |
 
 ## About This Role
 
-This sales engineer position at Workday was posted on 2026-08-20.
+This account manager position at Workday was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

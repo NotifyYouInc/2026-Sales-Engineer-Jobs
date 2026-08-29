@@ -1,16 +1,16 @@
-# Application Engineer - Systems at Proconex
+# Application Engineer at Pentair
 
 | Field | Details |
 |-------|---------|
-| Company | [Proconex](https://scoutify.ai/companies/proconex?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Royersford, Pennsylvania, United States |
+| Company | [Pentair](https://scoutify.ai/companies/pentair?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
+| Location | Kansas City, Missouri, United States |
 | Category | Software Engineer |
 | Posted | 2026-08-21 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/proconex/jobs/6150359004) |
+| Apply | [View on company site](https://pentair.wd5.myworkdayjobs.com/pentair_careers/job/Kansas-City-KS/Application-Engineer_R23706) |
 
 ## About This Role
 
-This software engineer position at Proconex was posted on 2026-08-21.
+This software engineer position at Pentair was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

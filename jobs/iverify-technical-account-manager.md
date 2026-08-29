@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Iverify](https://scoutify.ai/companies/iverify?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | United States |
-| Category | Sales Engineer |
+| Category | Account Manager |
 | Posted | 2026-08-20 |
 | Apply | [View on company site](https://jobs.ashbyhq.com/iverify/052e345d-a495-4de5-a6f6-6b3ebbcf5548) |
 
 ## About This Role
 
-This sales engineer position at Iverify was posted on 2026-08-20.
+This account manager position at Iverify was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Baker Hughes](https://scoutify.ai/companies/baker-hughes?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Sales Engineer |
+| Category | Software Engineer |
 | Posted | 2026-08-19 |
 | Apply | [View on company site](https://bakerhughes.wd5.myworkdayjobs.com/BakerHughes/job/IN-KA-BANGALORE-REGUS-BUSINESS-CENTRE-IBIS-HOTEL/Digital-Technology-Specialist---Automation-Engineering_R166689) |
 
 ## About This Role
 
-This sales engineer position at Baker Hughes was posted on 2026-08-19.
+This software engineer position at Baker Hughes was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Thinkahead](https://scoutify.ai/companies/thinkahead?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Gurugram, Haryana, India |
-| Category | Sales Engineer |
+| Category | AI / LLM Engineer |
 | Posted | 2026-08-21 |
 | Apply | [View on company site](https://jobs.lever.co/thinkahead/10d11950-8fab-425b-a8ce-ac903e598514) |
 
 ## About This Role
 
-This sales engineer position at Thinkahead was posted on 2026-08-21.
+This ai / llm engineer position at Thinkahead was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Flowserve](https://scoutify.ai/companies/flowserve?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Suzhou, Jiangsu, China |
-| Category | Sales Engineer |
+| Category | Software Engineer |
 | Posted | 2026-08-20 |
 | Apply | [View on company site](https://flowserve.wd1.myworkdayjobs.com/applied/job/Suzhou-China/Applications-Engineer_R-20750) |
 
 ## About This Role
 
-This sales engineer position at Flowserve was posted on 2026-08-20.
+This software engineer position at Flowserve was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

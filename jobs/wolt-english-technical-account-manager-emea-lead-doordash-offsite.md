@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Wolt - English](https://scoutify.ai/companies/wolt?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Berlin, State of Berlin, Germany |
-| Category | Sales Engineer |
+| Category | Account Manager |
 | Posted | 2026-08-20 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/wolt/jobs/8141720) |
 
 ## About This Role
 
-This sales engineer position at Wolt - English was posted on 2026-08-20.
+This account manager position at Wolt - English was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Medtronic](https://scoutify.ai/companies/medtronic?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | San Juan, Texas, United States |
-| Category | Sales Engineer |
+| Category | Product Marketing |
 | Posted | 2026-08-20 |
 | Apply | [View on company site](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/San-Juan-Puerto-Rico-United-States-of-America/Senior-Product-Specialist_R64350-1) |
 
 ## About This Role
 
-This sales engineer position at Medtronic was posted on 2026-08-20.
+This product marketing position at Medtronic was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

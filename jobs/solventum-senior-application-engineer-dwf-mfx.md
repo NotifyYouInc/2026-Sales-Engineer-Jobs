@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Solventum](https://scoutify.ai/companies/solventum?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Loughborough, England, United Kingdom |
-| Category | Sales Engineer |
+| Category | Software Engineer |
 | Posted | 2026-08-20 |
 | Apply | [View on company site](https://healthcare.wd1.myworkdayjobs.com/search/job/GB-Loughborough-Leics/Senior-Application-Engineer--DWF---m-f-x-_R01133313) |
 
 ## About This Role
 
-This sales engineer position at Solventum was posted on 2026-08-20.
+This software engineer position at Solventum was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

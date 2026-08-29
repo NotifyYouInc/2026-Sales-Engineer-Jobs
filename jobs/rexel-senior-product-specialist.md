@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [REXEL](https://scoutify.ai/companies/rexel?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Richmond, Virginia, United States |
-| Category | Sales Engineer |
+| Category | Account Manager |
 | Posted | 2026-08-19 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/REXEL1/744000144330442-senior-product-specialist) |
 
 ## About This Role
 
-This sales engineer position at REXEL was posted on 2026-08-19.
+This account manager position at REXEL was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 
