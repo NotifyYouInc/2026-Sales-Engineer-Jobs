@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Salesforce](https://scoutify.ai/companies/salesforce?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Brazil |
-| Category | Customer Success |
-| Posted | 2026-07-30 |
-| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Brazil---Remote/Associate-Technical-Consultant_JR354262) |
+| Location | 2 locations |
+| Category | Software Engineer |
+| Posted | 2026-08-24 |
+| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Bangalore/Associate-Technical-Consultant_JR357147) |
 
 ## About This Role
 
-This customer success position at Salesforce was posted on 2026-07-30.
+This software engineer position at Salesforce was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

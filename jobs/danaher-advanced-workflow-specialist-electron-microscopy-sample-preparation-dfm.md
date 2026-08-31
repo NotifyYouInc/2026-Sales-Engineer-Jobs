@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Danaher](https://scoutify.ai/companies/danaher?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Vienna, Vienna, Austria |
+| Location | Milan, Lombardy, Italy |
 | Category | Sales Engineer |
-| Posted | 2026-08-19 |
-| Apply | [View on company site](https://danaher.wd1.myworkdayjobs.com/DanaherJobs/job/AUT---Remote/Advanced-Workflow-Specialist---Electron-Microscopy-Sample-Preparation--d-f-m-_R1316813-1) |
+| Posted | 2026-08-21 |
+| Apply | [View on company site](https://danaher.wd1.myworkdayjobs.com/DanaherJobs/job/Milan-Italy/Advanced-Workflow-Specialist---Electron-Microscopy-Sample-Preparation--d-f-m-_R1317319) |
 
 ## About This Role
 
-This sales engineer position at Danaher was posted on 2026-08-19.
+This sales engineer position at Danaher was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

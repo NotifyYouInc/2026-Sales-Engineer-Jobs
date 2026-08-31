@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Applied Materials](https://scoutify.ai/companies/applied-materials?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Shenzhen, Guangdong, China |
+| Location | Chengdu, Sichuan, China |
 | Category | Sales Engineer |
-| Posted | 2026-07-14 |
-| Apply | [View on company site](https://amat.wd1.myworkdayjobs.com/External/job/ShenzhenCHN/Customer-Engineer-CMP_R2623366) |
+| Posted | 2026-08-24 |
+| Apply | [View on company site](https://amat.wd1.myworkdayjobs.com/External/job/ChengduCHN/Customer-Engineer-CMP_R2626924) |
 
 ## About This Role
 
-This sales engineer position at Applied Materials was posted on 2026-07-14.
+This sales engineer position at Applied Materials was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

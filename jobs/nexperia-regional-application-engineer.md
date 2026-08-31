@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Nexperia](https://scoutify.ai/companies/nexperia?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Taipei, Taiwan, Taiwan |
-| Category | Semiconductor / Chip Design |
+| Category | Software Engineer |
 | Posted | 2026-08-20 |
 | Apply | [View on company site](https://nexperia.wd3.myworkdayjobs.com/careers/job/Taipei/Regional-Application-Engineer_R-20015390) |
 
 ## About This Role
 
-This semiconductor / chip design position at Nexperia was posted on 2026-08-20.
+This software engineer position at Nexperia was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

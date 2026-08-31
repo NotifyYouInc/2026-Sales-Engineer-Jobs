@@ -1,16 +1,16 @@
-# Presales Lead- Digital Transformation at Ghobash Group
+# Presales Lead - Digital Transformation at Ghobash Group
 
 | Field | Details |
 |-------|---------|
 | Company | [Ghobash Group](https://scoutify.ai/companies/ghobashgroup?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Dubai, Dubai, United Arab Emirates |
 | Category | Strategy & Operations |
-| Posted | 2026-08-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/GhobashGroup/744000141867936-presales-lead-digital-transformation) |
+| Posted | 2026-08-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/GhobashGroup/744000145190851-presales-lead-digital-transformation) |
 
 ## About This Role
 
-This strategy & operations position at Ghobash Group was posted on 2026-08-06.
+This strategy & operations position at Ghobash Group was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

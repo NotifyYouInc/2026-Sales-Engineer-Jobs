@@ -5,12 +5,12 @@
 | Company | [McWane](https://scoutify.ai/companies/mcwane?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | United States |
 | Category | Sales Engineer |
-| Posted | 2026-08-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/McWaneInc/3743990014669801-tyler-union-sales-engineer-south-centralsouthwest-region) |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/McWaneInc/3743990014697316-tyler-union-sales-engineer-south-centralsouthwest-region) |
 
 ## About This Role
 
-This sales engineer position at McWane was posted on 2026-08-19.
+This sales engineer position at McWane was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

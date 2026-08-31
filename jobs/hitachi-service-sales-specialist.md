@@ -1,16 +1,16 @@
-# Service Sales specialist at Hitachi
+# Service Sales Specialist at Hitachi
 
 | Field | Details |
 |-------|---------|
 | Company | [Hitachi](https://scoutify.ai/companies/hitachi?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | 5 locations |
+| Location | Jakarta, Jakarta, Indonesia |
 | Category | Account Executive |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Drammen-Buskerud-Norway/Service-Sales-specialist_R0115595-1) |
+| Posted | 2026-08-24 |
+| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Jakarta-Jakarta-Raya-Indonesia/Service-Sales-Specialist_R0127008) |
 
 ## About This Role
 
-This account executive position at Hitachi was posted on 2026-05-19.
+This account executive position at Hitachi was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Honeywell](https://scoutify.ai/companies/ocs-cx-oj53173?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | New Taipei City, Taipei, Taiwan |
+| Location | Pune, Maharashtra, India |
 | Category | Sales Engineer |
-| Posted | 2026-07-13 |
-| Apply | [View on company site](https://ibqbjb.fa.ocs.oraclecloud.com/jobs/#153203) |
+| Posted | 2026-08-24 |
+| Apply | [View on company site](https://ibqbjb.fa.ocs.oraclecloud.com/jobs/#155345) |
 
 ## About This Role
 
-This sales engineer position at Honeywell was posted on 2026-07-13.
+This sales engineer position at Honeywell was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

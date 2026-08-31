@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Agilent](https://scoutify.ai/companies/agilent?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Beijing, Beijing, China |
+| Location | Chengdu, Sichuan, China |
 | Category | Sales Engineer |
-| Posted | 2026-08-14 |
-| Apply | [View on company site](https://agilent.wd5.myworkdayjobs.com/agilent_careers/job/China-Beijing/LC-MS-Technical-Solution-Specialist_4039425) |
+| Posted | 2026-08-24 |
+| Apply | [View on company site](https://agilent.wd5.myworkdayjobs.com/agilent_careers/job/China-Chengdu/LC-MS-Technical-Solution-Specialist_4039427) |
 
 ## About This Role
 
-This sales engineer position at Agilent was posted on 2026-08-14.
+This sales engineer position at Agilent was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

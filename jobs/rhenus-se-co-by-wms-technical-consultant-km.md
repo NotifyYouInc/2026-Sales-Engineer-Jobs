@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Rhenus SE & Co.](https://scoutify.ai/companies/rhenus-se-co?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Poland |
-| Category | Technology / IT Consulting |
-| Posted | 2026-02-23 |
-| Apply | [View on company site](https://rhe.wd3.myworkdayjobs.com/r1111/job/Bonie-Poland/BY-WMS-Technical-Consultant--k-m-_JR119944) |
+| Location | Błonie, Mazovia, Poland |
+| Category | Sales Engineer |
+| Posted | 2026-08-24 |
+| Apply | [View on company site](https://rhe.wd3.myworkdayjobs.com/r1111/job/Bonie-Poland/BY-WMS-Technical-Consultant--k-m-_JR124912) |
 
 ## About This Role
 
-This technology / it consulting position at Rhenus SE & Co. was posted on 2026-02-23.
+This sales engineer position at Rhenus SE & Co. was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

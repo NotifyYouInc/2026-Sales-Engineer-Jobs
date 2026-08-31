@@ -5,12 +5,12 @@
 | Company | [TD Synnex](https://scoutify.ai/companies/synnex?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Sales Engineer |
-| Posted | 2026-07-02 |
-| Apply | [View on company site](https://synnex.wd5.myworkdayjobs.com/tdsynnexcareers/job/Bangalore-India/Presales-Consultant--Cisco_R53373) |
+| Posted | 2026-08-24 |
+| Apply | [View on company site](https://synnex.wd5.myworkdayjobs.com/tdsynnexcareers/job/Bangalore-India/Presales-Consultant--Cisco_R54807) |
 
 ## About This Role
 
-This sales engineer position at TD Synnex was posted on 2026-07-02.
+This sales engineer position at TD Synnex was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

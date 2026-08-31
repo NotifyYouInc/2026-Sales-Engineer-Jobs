@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Applied Materials](https://scoutify.ai/companies/applied-materials?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Hefei, Anhui, China |
-| Category | Engineering Manager |
-| Posted | 2026-06-04 |
-| Apply | [View on company site](https://amat.wd1.myworkdayjobs.com/External/job/HefeiCHN/Manager-IV--Customer-Engineer_R2620625) |
+| Location | Singapore, Singapore |
+| Category | Sales Engineer |
+| Posted | 2026-08-24 |
+| Apply | [View on company site](https://amat.wd1.myworkdayjobs.com/External/job/SingaporeSGP/Manager-IV--Customer-Engineer_R2625848) |
 
 ## About This Role
 
-This engineering manager position at Applied Materials was posted on 2026-06-04.
+This sales engineer position at Applied Materials was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 
