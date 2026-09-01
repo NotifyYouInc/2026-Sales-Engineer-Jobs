@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Epiqsystems](https://scoutify.ai/companies/epiqsystems?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Singapore, Singapore |
+| Location | Zürich, Zurich, Switzerland |
 | Category | Customer Success |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://epiqsystems.wd503.myworkdayjobs.com/epiq_careers/job/SGP-Singapore-Hong-Leong-Building/Technical-Specialist_R0034003) |
+| Posted | 2026-08-25 |
+| Apply | [View on company site](https://epiqsystems.wd503.myworkdayjobs.com/epiq_careers/job/CHE-Zrich/Technical-Specialist_R0035015) |
 
 ## About This Role
 
-This customer success position at Epiqsystems was posted on 2026-04-16.
+This customer success position at Epiqsystems was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

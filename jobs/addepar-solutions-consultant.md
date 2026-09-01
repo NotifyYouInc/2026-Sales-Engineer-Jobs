@@ -5,12 +5,12 @@
 | Company | [Addepar](https://scoutify.ai/companies/addepar?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | London, England, United Kingdom |
 | Category | Customer Success |
-| Posted | 2026-08-05 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/addepar1/jobs/8683134002) |
+| Posted | 2026-08-24 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/addepar1/jobs/8725303002) |
 
 ## About This Role
 
-This customer success position at Addepar was posted on 2026-08-05.
+This customer success position at Addepar was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

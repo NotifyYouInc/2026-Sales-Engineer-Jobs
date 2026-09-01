@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ABB](https://scoutify.ai/companies/abb?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Aargau, CH |
-| Category | Technology / IT Consulting |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Untersiggenthal-Aargau-Switzerland/Senior-Technical-Consultant_JR00024314) |
+| Location | Bengaluru, Karnataka, India |
+| Category | Sales Engineer |
+| Posted | 2026-08-25 |
+| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Bangalore-Karnataka-India/Senior-Technical-Consultant_JR00045110) |
 
 ## About This Role
 
-This technology / it consulting position at ABB was posted on 2026-03-02.
+This sales engineer position at ABB was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

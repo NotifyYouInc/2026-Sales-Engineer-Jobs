@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Renesas Electronics](https://scoutify.ai/companies/renesaselectronics?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | San Jose, California, United States |
-| Category | Marketing |
-| Posted | 2026-06-01 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/RenesasElectronics/744000129510544-senior-staff-field-applications-engineer-fae) |
+| Location | Toyosu, Tokyo, Japan |
+| Category | Software Engineer |
+| Posted | 2026-08-25 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/RenesasElectronics/744000145383109-senior-staff-field-applications-engineer-fae) |
 
 ## About This Role
 
-This marketing position at Renesas Electronics was posted on 2026-06-01.
+This software engineer position at Renesas Electronics was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Telstra](https://scoutify.ai/companies/telstra?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Singapore, Singapore |
+| Location | Canberra, Australian Capital Territory, Australia |
 | Category | IT & Systems Administration |
-| Posted | 2026-08-12 |
-| Apply | [View on company site](https://telstra.wd3.myworkdayjobs.com/telstra_careers/job/Singapore/Network-Technical-Specialist_JR-10169656-1) |
+| Posted | 2026-08-25 |
+| Apply | [View on company site](https://telstra.wd3.myworkdayjobs.com/telstra_careers/job/Canberra/Network-Technical-Specialist_JR-10173837) |
 
 ## About This Role
 
-This it & systems administration position at Telstra was posted on 2026-08-12.
+This it & systems administration position at Telstra was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

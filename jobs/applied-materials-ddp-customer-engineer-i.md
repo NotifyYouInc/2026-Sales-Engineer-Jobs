@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Applied Materials](https://scoutify.ai/companies/applied-materials?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Yokkaichi, Mie, Japan |
-| Category | Customer Success |
-| Posted | 2026-07-30 |
-| Apply | [View on company site](https://amat.wd1.myworkdayjobs.com/External/job/YokkaichiJPN/DDP-Customer-Engineer-I_R2625086) |
+| Location | Chitose, Hokkaido, Japan |
+| Category | Sales Engineer |
+| Posted | 2026-08-25 |
+| Apply | [View on company site](https://amat.wd1.myworkdayjobs.com/External/job/ChitoseJPN/DDP-Customer-Engineer-I_R2626311) |
 
 ## About This Role
 
-This customer success position at Applied Materials was posted on 2026-07-30.
+This sales engineer position at Applied Materials was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

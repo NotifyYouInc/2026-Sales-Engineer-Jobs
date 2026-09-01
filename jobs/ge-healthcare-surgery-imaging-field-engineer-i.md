@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [GE HealthCare](https://scoutify.ai/companies/ge-healthcare?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Lubbock, Texas, United States |
-| Category | Sales Engineer |
+| Category | Embedded / Firmware Engineer |
 | Posted | 2026-08-21 |
 | Apply | [View on company site](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Surgery-Imaging-Field-Engineer-I_R4044978-1) |
 
 ## About This Role
 
-This sales engineer position at GE HealthCare was posted on 2026-08-21.
+This embedded / firmware engineer position at GE HealthCare was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

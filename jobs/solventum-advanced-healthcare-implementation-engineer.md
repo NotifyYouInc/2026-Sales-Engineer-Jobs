@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Solventum](https://scoutify.ai/companies/solventum?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | North Ryde, New South Wales, Australia |
-| Category | Sales Engineer |
-| Posted | 2026-08-18 |
-| Apply | [View on company site](https://healthcare.wd1.myworkdayjobs.com/search/job/AU-NORTH-RYDE-VIRTUAL/Advanced-Healthcare-Implementation-Engineer_R01132026-1) |
+| Category | Customer Success |
+| Posted | 2026-08-24 |
+| Apply | [View on company site](https://healthcare.wd1.myworkdayjobs.com/search/job/AU-NORTH-RYDE-VIRTUAL/Advanced-Healthcare-Implementation-Engineer_R01133149) |
 
 ## About This Role
 
-This sales engineer position at Solventum was posted on 2026-08-18.
+This customer success position at Solventum was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

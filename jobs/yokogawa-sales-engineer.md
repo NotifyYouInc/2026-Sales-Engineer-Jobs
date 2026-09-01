@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Yokogawa](https://scoutify.ai/companies/yokogawa?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Singapore |
+| Location | 2 locations |
 | Category | Sales Engineer |
-| Posted | 2026-07-27 |
-| Apply | [View on company site](https://yokogawa.wd3.myworkdayjobs.com/yokogawa-career-site/job/Bedok/Sales-Engineer_R-11727-1) |
+| Posted | 2026-08-25 |
+| Apply | [View on company site](https://yokogawa.wd3.myworkdayjobs.com/yokogawa-career-site/job/Bucharest/Sales-Engineer_R-12409) |
 
 ## About This Role
 
-This sales engineer position at Yokogawa was posted on 2026-07-27.
+This sales engineer position at Yokogawa was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

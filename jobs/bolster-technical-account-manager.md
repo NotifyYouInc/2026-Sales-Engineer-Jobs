@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Bolster](https://scoutify.ai/companies/bolster?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | United States |
-| Category | Sales Engineer |
+| Category | Customer Success |
 | Posted | 2026-08-21 |
 | Apply | [View on company site](https://jobs.lever.co/bolster/4fdea070-99b1-4818-9bc3-6da8b9a25725) |
 
 ## About This Role
 
-This sales engineer position at Bolster was posted on 2026-08-21.
+This customer success position at Bolster was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

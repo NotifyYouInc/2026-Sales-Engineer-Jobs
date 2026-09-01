@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Fresh Prints](https://scoutify.ai/companies/fresh-prints?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | India |
-| Category | Account Manager |
+| Category | Customer Success |
 | Posted | 2026-08-21 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/freshprints/jobs/6150004004) |
 
 ## About This Role
 
-This account manager position at Fresh Prints was posted on 2026-08-21.
+This customer success position at Fresh Prints was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

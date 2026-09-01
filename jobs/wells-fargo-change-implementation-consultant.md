@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | 3 locations |
-| Category | Sales Engineer |
+| Category | Customer Success |
 | Posted | 2026-08-24 |
 | Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/CHANDLER-AZ/Change-Implementation-Consultant_R-565610) |
 
 ## About This Role
 
-This sales engineer position at Wells Fargo was posted on 2026-08-24.
+This customer success position at Wells Fargo was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

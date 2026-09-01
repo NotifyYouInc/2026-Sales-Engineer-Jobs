@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Toast](https://scoutify.ai/companies/toast?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | United States |
-| Category | Sales Engineer |
+| Category | Customer Success |
 | Posted | 2026-08-21 |
 | Apply | [View on company site](https://careers.toasttab.com/jobs?gh_jid=8121574) |
 
 ## About This Role
 
-This sales engineer position at Toast was posted on 2026-08-21.
+This customer success position at Toast was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

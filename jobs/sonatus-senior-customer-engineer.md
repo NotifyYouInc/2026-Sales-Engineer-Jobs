@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sonatus](https://scoutify.ai/companies/sonatus?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Germany |
-| Category | Technical Writer |
-| Posted | 2026-04-02 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/sonatus/jobs/5097693007) |
+| Location | Sunnyvale, California, United States |
+| Category | Sales Engineer |
+| Posted | 2026-08-24 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/sonatus/jobs/5220638007) |
 
 ## About This Role
 
-This technical writer position at Sonatus was posted on 2026-04-02.
+This sales engineer position at Sonatus was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

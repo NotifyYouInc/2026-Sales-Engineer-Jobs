@@ -5,12 +5,12 @@
 | Company | [Teliacompany](https://scoutify.ai/companies/teliacompany?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Tampere, Pirkanmaa, Finland |
 | Category | Customer Success |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://teliacompany.wd3.myworkdayjobs.com/telia_careers/job/Tampere/Technical-Specialist_60739) |
+| Posted | 2026-08-24 |
+| Apply | [View on company site](https://teliacompany.wd3.myworkdayjobs.com/telia_careers/job/Tampere/Technical-Specialist_60740) |
 
 ## About This Role
 
-This customer success position at Teliacompany was posted on 2026-04-20.
+This customer success position at Teliacompany was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

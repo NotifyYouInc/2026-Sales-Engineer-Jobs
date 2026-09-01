@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Hightouch](https://scoutify.ai/companies/hightouch?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Not specified |
-| Category | Sales Engineer |
+| Category | Customer Success |
 | Posted | 2026-08-21 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/hightouch/jobs/6146017004) |
 
 ## About This Role
 
-This sales engineer position at Hightouch was posted on 2026-08-21.
+This customer success position at Hightouch was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Artisight](https://scoutify.ai/companies/artisight?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Indianapolis, Indiana, United States |
-| Category | Sales Engineer |
+| Category | Customer Success |
 | Posted | 2026-08-20 |
 | Apply | [View on company site](https://artisight.com/positions/?gh_jid=4373897009) |
 
 ## About This Role
 
-This sales engineer position at Artisight was posted on 2026-08-20.
+This customer success position at Artisight was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

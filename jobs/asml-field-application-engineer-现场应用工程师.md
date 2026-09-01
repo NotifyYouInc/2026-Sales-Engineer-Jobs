@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ASML](https://scoutify.ai/companies/asml?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Shanghai, Shanghai, China |
-| Category | Sales Engineer |
-| Posted | 2026-08-12 |
-| Apply | [View on company site](https://asml.wd3.myworkdayjobs.com/asmlext1/job/Shanghai-China/Field-Application-Engineer-_J-00345639) |
+| Location | Chengdu, Sichuan, China |
+| Category | Software Engineer |
+| Posted | 2026-08-25 |
+| Apply | [View on company site](https://asml.wd3.myworkdayjobs.com/asmlext1/job/Chengdu-China/Field-Application-Engineer-_J-00342542) |
 
 ## About This Role
 
-This sales engineer position at ASML was posted on 2026-08-12.
+This software engineer position at ASML was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

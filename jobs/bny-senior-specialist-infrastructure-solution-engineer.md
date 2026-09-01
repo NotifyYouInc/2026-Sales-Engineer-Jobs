@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [BNY](https://scoutify.ai/companies/us2-cx-oj13796?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Lake Mary, Florida, United States |
-| Category | Sales Engineer |
+| Category | IT & Systems Administration |
 | Posted | 2026-08-24 |
 | Apply | [View on company site](https://eofe.fa.us2.oraclecloud.com/jobs/#80537) |
 
 ## About This Role
 
-This sales engineer position at BNY was posted on 2026-08-24.
+This it & systems administration position at BNY was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

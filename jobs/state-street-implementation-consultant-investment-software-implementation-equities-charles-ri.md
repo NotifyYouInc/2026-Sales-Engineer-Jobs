@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [State Street](https://scoutify.ai/companies/statestreet?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | 9 locations |
+| Location | 10 locations |
 | Category | Customer Success |
-| Posted | 2026-05-06 |
+| Posted | 2026-08-24 |
 | Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Burlington-Massachusetts/Implementation-Consultant---Investment-Software-Implementation---Equities---Charles-River-Development_R-789667) |
 
 ## About This Role
 
-This customer success position at State Street was posted on 2026-05-06.
+This customer success position at State Street was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

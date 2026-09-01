@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Abbott](https://scoutify.ai/companies/abbott-laboratories?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | 4 locations |
-| Category | Sales Engineer |
+| Category | Customer Success |
 | Posted | 2026-08-21 |
 | Apply | [View on company site](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---New-York---Remote/Informatics-Technical-Specialist-I--Laboratory-_31159921-2) |
 
 ## About This Role
 
-This sales engineer position at Abbott was posted on 2026-08-21.
+This customer success position at Abbott was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

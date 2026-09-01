@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Shamrock Foods Company](https://scoutify.ai/companies/recruiting2-ultipro-com-oj106140?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Not specified |
-| Category | Sales Engineer |
+| Category | IT & Systems Administration |
 | Posted | 2026-08-21 |
 | Apply | [View on company site](https://recruiting2.ultipro.com/sha1012shro/JobBoard/bd133796-9230-4370-9ed3-1ee1ae84a55f/OpportunityDetail?opportunityId=98db6c64-4913-4548-a9bd-69c5901e2359) |
 
 ## About This Role
 
-This sales engineer position at Shamrock Foods Company was posted on 2026-08-21.
+This it & systems administration position at Shamrock Foods Company was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

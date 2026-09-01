@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Travelers](https://scoutify.ai/companies/travelers?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | 3 locations |
-| Category | Legal |
-| Posted | 2026-03-20 |
-| Apply | [View on company site](https://travelers.wd5.myworkdayjobs.com/External/job/IL---Downers-Grove/General-Liability-Technical-Specialist_R-49843-1) |
+| Location | 5 locations |
+| Category | Actuary / Insurance Analytics |
+| Posted | 2026-08-25 |
+| Apply | [View on company site](https://travelers.wd5.myworkdayjobs.com/External/job/MD---Hunt-Valley/General-Liability-Technical-Specialist_R-52232) |
 
 ## About This Role
 
-This legal position at Travelers was posted on 2026-03-20.
+This actuary / insurance analytics position at Travelers was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Arrow Electronics](https://scoutify.ai/companies/arrow-electronics?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Suzhou, Jiangsu, China |
+| Location | 2 locations |
 | Category | Sales Engineer |
-| Posted | 2026-08-19 |
-| Apply | [View on company site](https://arrow.wd1.myworkdayjobs.com/ac/job/Suzhou-Jiangsu/Field-Sales-Engineer_R246064) |
+| Posted | 2026-08-25 |
+| Apply | [View on company site](https://arrow.wd1.myworkdayjobs.com/ac/job/Shenzhen-Guangdong/Field-Sales-Engineer_R241053) |
 
 ## About This Role
 
-This sales engineer position at Arrow Electronics was posted on 2026-08-19.
+This sales engineer position at Arrow Electronics was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

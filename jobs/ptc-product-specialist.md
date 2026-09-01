@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [PTC](https://scoutify.ai/companies/ptc?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Gurugram, Haryana, India |
-| Category | Sales Engineer |
+| Category | Customer Success |
 | Posted | 2026-08-21 |
 | Apply | [View on company site](https://ptc.wd1.myworkdayjobs.com/PTC/job/Gurgaon-India/Product-Specialist_JR111879) |
 
 ## About This Role
 
-This sales engineer position at PTC was posted on 2026-08-21.
+This customer success position at PTC was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

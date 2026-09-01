@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [A.P. Moller - Maersk](https://scoutify.ai/companies/a-p-moller-maersk?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Chennai, Tamil Nadu, India |
-| Category | Sales Engineer |
+| Category | Program Manager |
 | Posted | 2026-08-21 |
 | Apply | [View on company site](https://maersk.wd3.myworkdayjobs.com/maersk_careers/job/India-Chennai-600116/Lead-Logistics-Emerging-Product-Specialist_R191355-1) |
 
 ## About This Role
 
-This sales engineer position at A.P. Moller - Maersk was posted on 2026-08-21.
+This program manager position at A.P. Moller - Maersk was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

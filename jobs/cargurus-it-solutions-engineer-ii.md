@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [CarGurus](https://scoutify.ai/companies/cargurus?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Boston, Massachusetts, United States |
-| Category | Sales Engineer |
+| Category | IT & Systems Administration |
 | Posted | 2026-08-20 |
 | Apply | [View on company site](https://careers.cargurus.com/us/en/job/8130855?gh_jid=8130855) |
 
 ## About This Role
 
-This sales engineer position at CarGurus was posted on 2026-08-20.
+This it & systems administration position at CarGurus was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

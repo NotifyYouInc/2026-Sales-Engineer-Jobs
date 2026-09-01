@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Samsung](https://scoutify.ai/companies/samsung?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Austin, Texas, United States |
-| Category | Sales Engineer |
+| Category | Semiconductor / Chip Design |
 | Posted | 2026-08-20 |
 | Apply | [View on company site](https://sec.wd3.myworkdayjobs.com/Samsung_Careers/job/12100-Samsung-Blvd-Austin-TX-USA/Foundry-Customer-Engineer_R119618-1) |
 
 ## About This Role
 
-This sales engineer position at Samsung was posted on 2026-08-20.
+This semiconductor / chip design position at Samsung was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

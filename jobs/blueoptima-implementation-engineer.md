@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [BlueOptima](https://scoutify.ai/companies/blueoptima?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Sales Engineer |
+| Category | Customer Success |
 | Posted | 2026-08-24 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/BlueOptima/744000145208739-implementation-engineer) |
 
 ## About This Role
 
-This sales engineer position at BlueOptima was posted on 2026-08-24.
+This customer success position at BlueOptima was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

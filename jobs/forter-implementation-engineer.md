@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Forter](https://scoutify.ai/companies/forter?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Singapore, Singapore |
-| Category | Sales Engineer |
+| Category | Customer Success |
 | Posted | 2026-08-24 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/forter/jobs/8736598002) |
 
 ## About This Role
 
-This sales engineer position at Forter was posted on 2026-08-24.
+This customer success position at Forter was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

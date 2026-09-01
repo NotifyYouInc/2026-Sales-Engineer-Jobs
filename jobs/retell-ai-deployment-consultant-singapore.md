@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Retell Ai](https://scoutify.ai/companies/retell-ai?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Singapore, Singapore |
-| Category | Sales Engineer |
+| Category | Customer Success |
 | Posted | 2026-08-21 |
 | Apply | [View on company site](https://jobs.ashbyhq.com/retell-ai/51c7204e-5fb3-48f4-ae7d-559aa88eb085) |
 
 ## About This Role
 
-This sales engineer position at Retell Ai was posted on 2026-08-21.
+This customer success position at Retell Ai was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

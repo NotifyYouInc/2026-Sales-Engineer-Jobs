@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Baird](https://scoutify.ai/companies/baird?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Milwaukee, Wisconsin, United States |
-| Category | Sales Engineer |
+| Category | IT & Systems Administration |
 | Posted | 2026-08-21 |
 | Apply | [View on company site](https://baird.wd1.myworkdayjobs.com/Careers/job/WI-Milwaukee/Event-Technical-Specialist_R2026905-1) |
 
 ## About This Role
 
-This sales engineer position at Baird was posted on 2026-08-21.
+This it & systems administration position at Baird was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Ingram Micro](https://scoutify.ai/companies/ingram-micro?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Buffalo, New York, United States |
-| Category | Sales Engineer |
+| Category | Program Manager |
 | Posted | 2026-08-21 |
 | Apply | [View on company site](https://ingrammicro.wd5.myworkdayjobs.com/ingrammicro/job/Buffalo-NY-United-States-of-America/Sr-Platform-AI-Solutions-Specialist_R-116748) |
 
 ## About This Role
 
-This sales engineer position at Ingram Micro was posted on 2026-08-21.
+This program manager position at Ingram Micro was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

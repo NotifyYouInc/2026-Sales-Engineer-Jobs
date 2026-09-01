@@ -5,12 +5,12 @@
 | Company | [Nissan](https://scoutify.ai/companies/alliance?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Montigny-le-Bretonneux, Île-de-France, France |
 | Category | Customer Success |
-| Posted | 2026-02-18 |
+| Posted | 2026-08-25 |
 | Apply | [View on company site](https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Montigny-le-Bretonneux/Dealer-Technical-Specialist-Itinerant_R00203937-1) |
 
 ## About This Role
 
-This customer success position at Nissan was posted on 2026-02-18.
+This customer success position at Nissan was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

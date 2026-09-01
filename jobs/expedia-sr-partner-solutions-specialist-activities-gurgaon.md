@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Expedia](https://scoutify.ai/companies/expedia?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Gurugram, Haryana, India |
-| Category | Sales Engineer |
+| Category | Customer Success |
 | Posted | 2026-08-21 |
 | Apply | [View on company site](https://expedia.wd108.myworkdayjobs.com/search/job/India---Gurgaon/Sr-Partner-Solutions-Specialist--Activities--Gurgaon-_R-108833) |
 
 ## About This Role
 
-This sales engineer position at Expedia was posted on 2026-08-21.
+This customer success position at Expedia was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

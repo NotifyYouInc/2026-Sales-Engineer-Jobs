@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Idexcorp](https://scoutify.ai/companies/idexcorp?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Pittsburgh, Pennsylvania, United States |
-| Category | Sales Engineer |
+| Category | Customer Success |
 | Posted | 2026-08-21 |
 | Apply | [View on company site](https://idexcorp.wd5.myworkdayjobs.com/idex_careers/job/Pittsburgh-Pennsylvania/Technical-Specialist_R-09681-1) |
 
 ## About This Role
 
-This sales engineer position at Idexcorp was posted on 2026-08-21.
+This customer success position at Idexcorp was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

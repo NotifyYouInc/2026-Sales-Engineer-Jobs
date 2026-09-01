@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [MSX International](https://scoutify.ai/companies/msxinternational?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Germany |
-| Category | Sales Engineer |
-| Posted | 2026-08-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/MSXInternational/3743990014617466-automotive-technical-specialist-level-1) |
+| Category | Customer Success |
+| Posted | 2026-08-25 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/MSXInternational/3743990014829416-automotive-technical-specialist-level-1) |
 
 ## About This Role
 
-This sales engineer position at MSX International was posted on 2026-08-17.
+This customer success position at MSX International was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

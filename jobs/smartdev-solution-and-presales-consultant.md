@@ -5,12 +5,12 @@
 | Company | [SmartDev](https://scoutify.ai/companies/smartdev?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Cầu Giấy, Hanoi, Vietnam |
 | Category | Sales Engineer |
-| Posted | 2026-08-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/smartdev1/744000143220870-solution-and-presales-consultant) |
+| Posted | 2026-08-25 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/smartdev1/744000145462369-solution-and-presales-consultant) |
 
 ## About This Role
 
-This sales engineer position at SmartDev was posted on 2026-08-13.
+This sales engineer position at SmartDev was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

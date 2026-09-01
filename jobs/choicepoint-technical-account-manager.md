@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [ChoicePoint](https://scoutify.ai/companies/choicepoint?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Mumbai, Maharashtra, India |
-| Category | Sales Engineer |
+| Category | Customer Success |
 | Posted | 2026-08-20 |
 | Apply | [View on company site](https://relx.wd3.myworkdayjobs.com/risksolutions/job/Mumbai/Technical-Account-Manager_R117559-1) |
 
 ## About This Role
 
-This sales engineer position at ChoicePoint was posted on 2026-08-20.
+This customer success position at ChoicePoint was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

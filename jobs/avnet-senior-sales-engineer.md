@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Avnet](https://scoutify.ai/companies/avnet?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Shenzhen, Guangdong, China |
-| Category | Account Executive |
-| Posted | 2026-03-18 |
-| Apply | [View on company site](https://avnet.wd1.myworkdayjobs.com/external/job/Shenzhen-Guangdong-China/Senior-Sales-Engineer_JR-021270) |
+| Category | Sales Engineer |
+| Posted | 2026-08-24 |
+| Apply | [View on company site](https://avnet.wd1.myworkdayjobs.com/external/job/Shenzhen-Guangdong-China/Senior-Sales-Engineer_JR-023259-1) |
 
 ## About This Role
 
-This account executive position at Avnet was posted on 2026-03-18.
+This sales engineer position at Avnet was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

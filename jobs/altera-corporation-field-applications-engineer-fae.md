@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Altera Corporation](https://scoutify.ai/companies/altera?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Maryland, US |
-| Category | Electrical / Hardware Engineer |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://altera.wd1.myworkdayjobs.com/altera/job/Maryland-United-States-Remote/Field-Applications-Engineer--FAE-_R02250-1) |
+| Category | Software Engineer |
+| Posted | 2026-08-24 |
+| Apply | [View on company site](https://altera.wd1.myworkdayjobs.com/altera/job/Maryland-United-States-Remote/Field-Applications-Engineer--FAE-_R02981) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Altera Corporation was posted on 2026-04-16.
+This software engineer position at Altera Corporation was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

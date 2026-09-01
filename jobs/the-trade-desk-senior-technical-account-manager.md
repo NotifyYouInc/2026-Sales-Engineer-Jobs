@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [The Trade Desk](https://scoutify.ai/companies/the-trade-desk?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | London, England, United Kingdom |
-| Category | Sales Engineer |
-| Posted | 2026-07-21 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/thetradedesk/jobs/5192162007) |
+| Location | Los Angeles, California, United States |
+| Category | Customer Success |
+| Posted | 2026-08-24 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/thetradedesk/jobs/5215018007) |
 
 ## About This Role
 
-This sales engineer position at The Trade Desk was posted on 2026-07-21.
+This customer success position at The Trade Desk was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

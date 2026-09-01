@@ -5,12 +5,12 @@
 | Company | [LexisNexis Risk Solutions](https://scoutify.ai/companies/relx?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Washington, District of Columbia, United States |
 | Category | Sales Engineer |
-| Posted | 2026-08-11 |
-| Apply | [View on company site](https://relx.wd3.myworkdayjobs.com/LexisNexisLegal/job/Washington-DC-18th/Legal-Solutions-Consultant--Gov-t-Accounts--JD-and-Military-Background-Required-_R117161-1) |
+| Posted | 2026-08-24 |
+| Apply | [View on company site](https://relx.wd3.myworkdayjobs.com/LexisNexisLegal/job/Washington-DC-18th/Legal-Solutions-Consultant--Gov-t-Accounts--JD-and-Military-Background-Required-_R117609-1) |
 
 ## About This Role
 
-This sales engineer position at LexisNexis Risk Solutions was posted on 2026-08-11.
+This sales engineer position at LexisNexis Risk Solutions was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 
