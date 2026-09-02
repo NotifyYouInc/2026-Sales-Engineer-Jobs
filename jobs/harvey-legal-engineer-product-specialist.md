@@ -1,16 +1,16 @@
-# Legal Engineer - Product Specialist at Harvey
+# Legal Engineer, Product Specialist at Harvey
 
 | Field | Details |
 |-------|---------|
 | Company | [Harvey](https://scoutify.ai/companies/harvey?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Toronto, Ontario, Canada |
-| Category | Sales Engineer |
-| Posted | 2026-08-11 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/harvey/5c30c057-437e-41a7-9b38-bbb6101a3b2b) |
+| Location | Seoul, Seoul, South Korea |
+| Category | Customer Success |
+| Posted | 2026-08-25 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/harvey/2807b46b-3ea5-43e2-94ea-4e6cdc6d4bb2) |
 
 ## About This Role
 
-This sales engineer position at Harvey was posted on 2026-08-11.
+This customer success position at Harvey was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

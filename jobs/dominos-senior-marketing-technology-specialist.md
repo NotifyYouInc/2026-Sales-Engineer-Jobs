@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Domino's](https://scoutify.ai/companies/dominos?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Ann Arbor, Michigan, United States |
-| Category | Marketing Operations |
-| Posted | 2026-07-31 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/dominos/744000140913374-senior-marketing-technology-specialist) |
+| Category | Marketing |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/dominos/744000145620955-senior-marketing-technology-specialist) |
 
 ## About This Role
 
-This marketing operations position at Domino's was posted on 2026-07-31.
+This marketing position at Domino's was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

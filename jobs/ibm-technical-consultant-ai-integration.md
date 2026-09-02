@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Pune, Maharashtra, India |
-| Category | AI / LLM Engineer |
-| Posted | 2026-06-12 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=119251) |
+| Category | Sales Engineer |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=130612) |
 
 ## About This Role
 
-This ai / llm engineer position at IBM was posted on 2026-06-12.
+This sales engineer position at IBM was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

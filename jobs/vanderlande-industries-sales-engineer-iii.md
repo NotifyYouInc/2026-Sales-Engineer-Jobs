@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Vanderlande Industries](https://scoutify.ai/companies/vanderlande-industries?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Marietta, Georgia, United States |
+| Location | Pune, Maharashtra, India |
 | Category | Sales Engineer |
-| Posted | 2026-07-31 |
-| Apply | [View on company site](https://vanderlande.wd3.myworkdayjobs.com/careers/job/Marietta-Atlanta/Sales-Engineer-III_JR37058-1) |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://vanderlande.wd3.myworkdayjobs.com/careers/job/Pune-India/Sales-Engineer-III_JR37823-1) |
 
 ## About This Role
 
-This sales engineer position at Vanderlande Industries was posted on 2026-07-31.
+This sales engineer position at Vanderlande Industries was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

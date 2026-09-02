@@ -1,16 +1,16 @@
-# Technical Account Manager at Black Duck Software, Inc.
+#  Technical Account Manager at Black Duck Software, Inc.
 
 | Field | Details |
 |-------|---------|
 | Company | [Black Duck Software, Inc.](https://scoutify.ai/companies/black-duck-software-inc?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Italy |
 | Category | Customer Success |
-| Posted | 2026-05-15 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/blackduck/jobs/5221632008) |
+| Posted | 2026-08-25 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/blackduck/jobs/5172485008) |
 
 ## About This Role
 
-This customer success position at Black Duck Software, Inc. was posted on 2026-05-15.
+This customer success position at Black Duck Software, Inc. was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

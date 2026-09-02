@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Applied Materials](https://scoutify.ai/companies/applied-materials?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Shenzhen, Guangdong, China |
+| Location | Kulim, Kedah, Malaysia |
 | Category | Sales Engineer |
-| Posted | 2026-07-10 |
-| Apply | [View on company site](https://amat.wd1.myworkdayjobs.com/External/job/ShenzhenCHN/Customer-Engineer-II_R2623683) |
+| Posted | 2026-08-25 |
+| Apply | [View on company site](https://amat.wd1.myworkdayjobs.com/External/job/KulimMYS/Customer-Engineer-II_R2623441) |
 
 ## About This Role
 
-This sales engineer position at Applied Materials was posted on 2026-07-10.
+This sales engineer position at Applied Materials was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

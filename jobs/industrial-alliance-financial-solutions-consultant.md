@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Industrial Alliance](https://scoutify.ai/companies/industrial-alliance?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | 2 locations |
-| Category | Implementation / Professional Services |
-| Posted | 2026-04-24 |
+| Category | Corporate Finance |
+| Posted | 2026-08-25 |
 | Apply | [View on company site](https://ia.wd3.myworkdayjobs.com/professional/job/Quebec-Quebec/Consultant-e--en-solutions-financires_JR10026292-1) |
 
 ## About This Role
 
-This implementation / professional services position at Industrial Alliance was posted on 2026-04-24.
+This corporate finance position at Industrial Alliance was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

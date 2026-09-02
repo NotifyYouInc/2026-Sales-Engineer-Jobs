@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Freudenberg Group](https://scoutify.ai/companies/freudenberg?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Germany |
-| Category | Project Manager |
+| Category | Sales |
 | Posted | 2026-08-24 |
 | Apply | [View on company site](https://freudenberg.wd3.myworkdayjobs.com/freudenberg-group/job/Germany---Remote/Account-Manager-Automotive-Industry---Automotive-Technical-Sales-Project-Manager_R_00103122-1) |
 
 ## About This Role
 
-This project manager position at Freudenberg Group was posted on 2026-08-24.
+This sales position at Freudenberg Group was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

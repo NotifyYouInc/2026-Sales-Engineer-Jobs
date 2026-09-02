@@ -5,12 +5,12 @@
 | Company | [Maven Agi](https://scoutify.ai/companies/maven-agi?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Boston, Massachusetts, United States |
 | Category | Sales Engineer |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/maven-agi/c840f11e-7c6f-4c5d-93d5-27094c00b787) |
+| Posted | 2026-08-25 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/maven-agi/84fa4f3f-27ab-40f1-acfb-bf985e53ac6b) |
 
 ## About This Role
 
-This sales engineer position at Maven Agi was posted on 2026-05-13.
+This sales engineer position at Maven Agi was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

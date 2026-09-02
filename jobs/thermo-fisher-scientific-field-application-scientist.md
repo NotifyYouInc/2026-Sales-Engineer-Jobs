@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Thermo Fisher Scientific](https://scoutify.ai/companies/thermo-fisher-scientific?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Singapore, Singapore |
+| Location | Shanghai, Shanghai, China |
 | Category | Sales Engineer |
-| Posted | 2026-08-14 |
-| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Singapore-Singapore/Field-Application-Scientist_R-01362996) |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Shanghai-China/Field-Application-Scientist_R-01366127) |
 
 ## About This Role
 
-This sales engineer position at Thermo Fisher Scientific was posted on 2026-08-14.
+This sales engineer position at Thermo Fisher Scientific was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

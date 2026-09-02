@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [HighLevel](https://scoutify.ai/companies/highlevel?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | India |
-| Category | Business Development |
-| Posted | 2026-07-29 |
-| Apply | [View on company site](https://jobs.lever.co/gohighlevel/16fed5c8-da45-459a-bee6-06c2f5d5ed81) |
+| Location | United States |
+| Category | Sales |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://jobs.lever.co/gohighlevel/f9c72969-9987-4bb6-abff-c77460e12cf7) |
 
 ## About This Role
 
-This business development position at HighLevel was posted on 2026-07-29.
+This sales position at HighLevel was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

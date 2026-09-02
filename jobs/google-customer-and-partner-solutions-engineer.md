@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Taipei, Taiwan, Taiwan |
-| Category | Technical & Solutions Architect |
-| Posted | 2026-05-27 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckXBXe-hDiqNW2X28tf6QpmP85tgN4QzenP_4Cl0i3q2cEjsACxwdTOiIN1Hdq3pgtUOe4UDno3LzGBenMM5eo_jR5tUHWwPPxlEyn0hxt-2PwvwUSmzfY6qXQgF01g%3D%3D_V2&loc=TW&title=Customer+and+Partner+Solutions+Engineer) |
+| Location | New York City, New York, United States |
+| Category | Customer Success |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckaQNuCJwISU29V-RXVzJUxv63vwFwYsAjt1xuJ8EXL56EjsA1Ny_i-DgSnFbL7kk-MGj7F989AuulDnyCSFsLZv_RIyoWg8fy7e6b0H_f8dR3SFPrjCmjPnM8aswgA%3D%3D_V2&loc=US&title=Customer+and+Partner+Solutions+Engineer) |
 
 ## About This Role
 
-This technical & solutions architect position at Google was posted on 2026-05-27.
+This customer success position at Google was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

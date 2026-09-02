@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [T-Mobile](https://scoutify.ai/companies/tmobile?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Denver, Colorado, United States |
+| Location | Parsippany, New Jersey, United States |
 | Category | Sales Engineer |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://tmobile.wd1.myworkdayjobs.com/External/job/Denver-Colorado/Solutions-Engineer--SMB_REQ351834) |
+| Posted | 2026-08-25 |
+| Apply | [View on company site](https://tmobile.wd1.myworkdayjobs.com/External/job/Parsippany-New-Jersey/Solutions-Engineer--SMB_REQ369973-1) |
 
 ## About This Role
 
-This sales engineer position at T-Mobile was posted on 2026-04-17.
+This sales engineer position at T-Mobile was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Guidehouse](https://scoutify.ai/companies/guidehouse?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | 4 locations |
-| Category | Data Analyst |
+| Category | Sales Engineer |
 | Posted | 2026-08-24 |
 | Apply | [View on company site](https://guidehouse.wd1.myworkdayjobs.com/external/job/US---VA-Arlington/Data-Analyst-FM-Product-Specialist--Multiple-Levels-_43860) |
 
 ## About This Role
 
-This data analyst position at Guidehouse was posted on 2026-08-24.
+This sales engineer position at Guidehouse was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

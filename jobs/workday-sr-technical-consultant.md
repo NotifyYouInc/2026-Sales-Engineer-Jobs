@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Workday](https://scoutify.ai/companies/workday?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Dublin, Leinster, Ireland |
+| Location | 3 locations |
 | Category | Customer Success |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://workday.wd5.myworkdayjobs.com/Workday/job/Ireland-Dublin/Sr-Technical-Consultant_JR-0106517) |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://workday.wd5.myworkdayjobs.com/Workday/job/Australia-NSW-North-Sydney/Sr-Technical-Consultant_JR-0109566) |
 
 ## About This Role
 
-This customer success position at Workday was posted on 2026-04-20.
+This customer success position at Workday was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

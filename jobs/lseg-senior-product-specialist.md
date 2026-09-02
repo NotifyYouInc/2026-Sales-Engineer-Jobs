@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [LSEG](https://scoutify.ai/companies/lseg?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | London, England, United Kingdom |
-| Category | Quant Research |
+| Category | Sales Engineer |
 | Posted | 2026-08-24 |
 | Apply | [View on company site](https://lseg.wd3.myworkdayjobs.com/Careers/job/London-United-Kingdom/Senior-Product-Specialist_R0122600) |
 
 ## About This Role
 
-This quant research position at LSEG was posted on 2026-08-24.
+This sales engineer position at LSEG was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

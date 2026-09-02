@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Thermo Fisher Scientific](https://scoutify.ai/companies/thermo-fisher-scientific?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Location | China |
 | Category | Sales Engineer |
-| Posted | 2026-08-04 |
-| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Hyderabad-India/Field-Applications-Scientist_R-01363074) |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Remote-China/Field-Applications-Scientist_R-01366126-1) |
 
 ## About This Role
 
-This sales engineer position at Thermo Fisher Scientific was posted on 2026-08-04.
+This sales engineer position at Thermo Fisher Scientific was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

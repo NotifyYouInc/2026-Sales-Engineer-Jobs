@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Applied Materials](https://scoutify.ai/companies/applied-materials?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Singapore, Singapore |
-| Category | Electrical / Hardware Engineer |
-| Posted | 2026-08-18 |
-| Apply | [View on company site](https://amat.wd1.myworkdayjobs.com/External/job/SingaporeSGP/Customer-Engineer_R2625494) |
+| Location | Kulim, Kedah, Malaysia |
+| Category | Sales Engineer |
+| Posted | 2026-08-25 |
+| Apply | [View on company site](https://amat.wd1.myworkdayjobs.com/External/job/KulimMYS/Customer-Engineer_R2623443) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Applied Materials was posted on 2026-08-18.
+This sales engineer position at Applied Materials was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Anton Paar](https://scoutify.ai/companies/antonpaar?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Portland, Oregon, United States |
-| Category | Account Executive |
+| Category | Sales |
 | Posted | 2026-08-24 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/AntonPaar1/744000145359809-technical-sales-consultant-analytical-instrumentation) |
 
 ## About This Role
 
-This account executive position at Anton Paar was posted on 2026-08-24.
+This sales position at Anton Paar was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

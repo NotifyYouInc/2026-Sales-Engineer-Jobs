@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [D2 Technical Services](https://scoutify.ai/companies/d2-technical-services?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Springfield, Missouri, United States |
-| Category | Security Engineer |
-| Posted | 2026-04-27 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/d2consulting/jobs/5201391008) |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-08-25 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/d2consulting/jobs/5405086008) |
 
 ## About This Role
 
-This security engineer position at D2 Technical Services was posted on 2026-04-27.
+This cybersecurity engineer position at D2 Technical Services was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

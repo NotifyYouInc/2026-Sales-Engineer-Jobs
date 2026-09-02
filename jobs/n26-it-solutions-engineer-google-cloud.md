@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [N26](https://scoutify.ai/companies/n26?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Berlin, State of Berlin, Germany |
-| Category | IT & Systems Administration |
+| Category | Sales Engineer |
 | Posted | 2026-08-25 |
 | Apply | [View on company site](https://n26.com/en-eu/careers/positions/8138757?gh_jid=8138757) |
 
 ## About This Role
 
-This it & systems administration position at N26 was posted on 2026-08-25.
+This sales engineer position at N26 was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

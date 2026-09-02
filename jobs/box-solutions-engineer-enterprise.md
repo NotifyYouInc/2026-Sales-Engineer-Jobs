@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Box](https://scoutify.ai/companies/box?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Tokyo, Tokyo, Japan |
+| Location | Osaka, Osaka, Japan |
 | Category | Sales Engineer |
-| Posted | 2026-07-10 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/boxinc/jobs/8054660) |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/boxinc/jobs/8157979) |
 
 ## About This Role
 
-This sales engineer position at Box was posted on 2026-07-10.
+This sales engineer position at Box was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

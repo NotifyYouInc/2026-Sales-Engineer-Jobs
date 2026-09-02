@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Freudenberg Group](https://scoutify.ai/companies/freudenberg?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Valinhos, São Paulo, Brazil |
-| Category | Sales Engineer |
-| Posted | 2026-06-22 |
-| Apply | [View on company site](https://freudenberg.wd3.myworkdayjobs.com/freudenberg-group/job/Valinhos/Application-Engineer_R_00103527) |
+| Location | Chennai, Tamil Nadu, India |
+| Category | Software Engineer |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://freudenberg.wd3.myworkdayjobs.com/freudenberg-group/job/Chennai/Application-Engineer_R_00100303) |
 
 ## About This Role
 
-This sales engineer position at Freudenberg Group was posted on 2026-06-22.
+This software engineer position at Freudenberg Group was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

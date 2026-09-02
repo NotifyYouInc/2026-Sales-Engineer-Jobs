@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Crowe](https://scoutify.ai/companies/crowe?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Indianapolis, Indiana, United States |
-| Category | Customer Success |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://crowe.wd12.myworkdayjobs.com/external_careers/job/Indianapolis-IN-USA/ServiceNow-Implementation-Consultant_R-50379) |
+| Location | Chicago, Illinois, United States |
+| Category | Sales Engineer |
+| Posted | 2026-08-25 |
+| Apply | [View on company site](https://crowe.wd12.myworkdayjobs.com/external_careers/job/Chicago-IL-USA/ServiceNow-Implementation-Consultant_R-52023) |
 
 ## About This Role
 
-This customer success position at Crowe was posted on 2026-02-27.
+This sales engineer position at Crowe was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

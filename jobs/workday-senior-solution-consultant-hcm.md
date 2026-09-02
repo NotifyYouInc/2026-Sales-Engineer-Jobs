@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Workday](https://scoutify.ai/companies/workday?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | 4 locations |
-| Category | Customer Success |
-| Posted | 2026-06-17 |
-| Apply | [View on company site](https://workday.wd5.myworkdayjobs.com/Workday/job/Australia-NSW-North-Sydney/Senior-Solution-Consultant---HCM_JR-0108096-1) |
+| Location | Melbourne, Victoria, Australia |
+| Category | Sales Engineer |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://workday.wd5.myworkdayjobs.com/Workday/job/Australia-VIC-Melbourne/Senior-Solution-Consultant---HCM_JR-0108614) |
 
 ## About This Role
 
-This customer success position at Workday was posted on 2026-06-17.
+This sales engineer position at Workday was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

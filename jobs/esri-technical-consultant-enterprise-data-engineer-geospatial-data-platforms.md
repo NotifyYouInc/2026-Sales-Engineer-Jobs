@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Esri](https://scoutify.ai/companies/esri?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Redlands, California, United States |
-| Category | Sales Engineer |
+| Category | Data Engineer |
 | Posted | 2026-08-24 |
 | Apply | [View on company site](https://www.esri.com/careers/5219768007?gh_jid=5219768007) |
 
 ## About This Role
 
-This sales engineer position at Esri was posted on 2026-08-24.
+This data engineer position at Esri was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

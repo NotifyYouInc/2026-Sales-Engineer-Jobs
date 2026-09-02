@@ -1,16 +1,16 @@
-# Sr Advisory Solution Consultant– Security, Identity & Exposure Management (Armis/Veza) Northeast at ServiceNow
+# Sr Advisory Solution Consultant– Security, Identity & Exposure Management (Armis/Veza) West Coast at ServiceNow
 
 | Field | Details |
 |-------|---------|
 | Company | [ServiceNow](https://scoutify.ai/companies/servicenow?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Washington, US |
+| Location | San Francisco, California, United States |
 | Category | Sales Engineer |
-| Posted | 2026-08-21 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000144836189-sr-advisory-solution-consultant-security-identity-exposure-management-armisveza-northeast) |
+| Posted | 2026-08-25 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000145610239-sr-advisory-solution-consultant-security-identity-exposure-management-armisveza-west-coast) |
 
 ## About This Role
 
-This sales engineer position at ServiceNow was posted on 2026-08-21.
+This sales engineer position at ServiceNow was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Stripe](https://scoutify.ai/companies/stripe?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | San Francisco, California, United States |
-| Category | Sales Engineer |
+| Category | Sales |
 | Posted | 2026-08-24 |
 | Apply | [View on company site](https://stripe.com/jobs/search?gh_jid=8142304) |
 
 ## About This Role
 
-This sales engineer position at Stripe was posted on 2026-08-24.
+This sales position at Stripe was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

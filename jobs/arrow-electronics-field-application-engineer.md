@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Arrow Electronics](https://scoutify.ai/companies/arrow-electronics?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Pune, Maharashtra, India |
+| Location | Peabody, Massachusetts, United States |
 | Category | Software Engineer |
-| Posted | 2026-07-09 |
-| Apply | [View on company site](https://arrow.wd1.myworkdayjobs.com/ac/job/IN-MH-Pune-India-Solitaire-Bldg/Field-Application-Engineer_R242673) |
+| Posted | 2026-08-25 |
+| Apply | [View on company site](https://arrow.wd1.myworkdayjobs.com/ac/job/US-MA-Peabody-Massachusetts-Technology-Dr/Field-Application-Engineer_R246998) |
 
 ## About This Role
 
-This software engineer position at Arrow Electronics was posted on 2026-07-09.
+This software engineer position at Arrow Electronics was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

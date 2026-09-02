@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Medtronic](https://scoutify.ai/companies/medtronic?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Beijing, Beijing, China |
-| Category | Account Executive |
+| Category | Sales |
 | Posted | 2026-08-25 |
 | Apply | [View on company site](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Beijing-Beijing-China/SHAPE-Aortic-Senior-Technical-Sales-Representative-Beijing_R74106-1) |
 
 ## About This Role
 
-This account executive position at Medtronic was posted on 2026-08-25.
+This sales position at Medtronic was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

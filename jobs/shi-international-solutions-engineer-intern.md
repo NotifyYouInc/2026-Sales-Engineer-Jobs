@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [SHI International](https://scoutify.ai/companies/shi-international?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Piscataway, New Jersey, United States |
-| Category | Technical Writer |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://shi.wd12.myworkdayjobs.com/shicareers/job/Piscataway-NJ-USA/Solutions-Engineer---Intern_JR2608) |
+| Category | Sales Engineer |
+| Posted | 2026-08-25 |
+| Apply | [View on company site](https://shi.wd12.myworkdayjobs.com/shicareers/job/Piscataway-NJ-USA/Solutions-Engineer---Intern_JR3619) |
 
 ## About This Role
 
-This technical writer position at SHI International was posted on 2026-02-18.
+This sales engineer position at SHI International was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Neara](https://scoutify.ai/companies/neara?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Vilnius, Vilnius, Lithuania |
-| Category | Sales Engineer |
-| Posted | 2026-07-27 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/neara/12c88319-6f1e-48e1-acad-fc4c1017b1cd) |
+| Category | Data Engineer |
+| Posted | 2026-08-25 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/neara/27c3a016-71ea-45e1-8fab-2ae25b155e7a) |
 
 ## About This Role
 
-This sales engineer position at Neara was posted on 2026-07-27.
+This data engineer position at Neara was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 
