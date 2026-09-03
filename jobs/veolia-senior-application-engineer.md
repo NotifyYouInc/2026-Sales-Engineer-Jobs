@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Veolia](https://scoutify.ai/companies/veolia?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Oakville, Ontario, Canada |
+| Location | Pennsylvania, US |
 | Category | Software Engineer |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000122308340-senior-application-engineer) |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000145759799-senior-application-engineer) |
 
 ## About This Role
 
-This software engineer position at Veolia was posted on 2026-04-22.
+This software engineer position at Veolia was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ABB](https://scoutify.ai/companies/abb?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Jeddah, Mecca Region, Saudi Arabia |
-| Category | Sales |
-| Posted | 2026-02-11 |
-| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Jeddah-Makkah-Saudi-Arabia/Senior-Sales-Specialist_JR00022508) |
+| Location | Kolkata, West Bengal, India |
+| Category | Account Executive |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Kolkata-West-Bengal-India/Senior-Sales-Specialist_JR00044626) |
 
 ## About This Role
 
-This sales position at ABB was posted on 2026-02-11.
+This account executive position at ABB was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

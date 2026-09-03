@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Salesforce](https://scoutify.ai/companies/salesforce?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | London, England, United Kingdom |
-| Category | Technical Writer |
-| Posted | 2026-03-20 |
-| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/United-Kingdom---London/Principal-Data-and-AI-Architect_JR331486) |
+| Category | Sales Engineer |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/United-Kingdom---London/Principal-Data-and-AI-Architect_JR357154) |
 
 ## About This Role
 
-This technical writer position at Salesforce was posted on 2026-03-20.
+This sales engineer position at Salesforce was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

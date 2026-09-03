@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Harvey](https://scoutify.ai/companies/harvey?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | London, England, United Kingdom |
+| Location | New York City, New York, United States |
 | Category | Customer Success |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/harvey/f8a3ef35-21e4-4198-9d96-e34d1b91c948) |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/harvey/7af582ea-39f0-4e4c-ad4d-74f9740686bf) |
 
 ## About This Role
 
-This customer success position at Harvey was posted on 2026-04-13.
+This customer success position at Harvey was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

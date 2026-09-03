@@ -5,12 +5,12 @@
 | Company | [Zeeco](https://scoutify.ai/companies/zeeco?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Tulsa, Oklahoma, United States |
 | Category | Software Engineer |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://jobs.lever.co/zeeco/2c2dee7d-8fc4-4a4b-95b9-4a4addad1e5d) |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://jobs.lever.co/zeeco/4d1b1f2d-7ec4-4fb4-adaf-d01feb8b9edc) |
 
 ## About This Role
 
-This software engineer position at Zeeco was posted on 2026-05-21.
+This software engineer position at Zeeco was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

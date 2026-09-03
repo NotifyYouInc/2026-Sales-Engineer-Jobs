@@ -1,16 +1,16 @@
-# Associate Implementation Consultant, CoStar Real Estate Manager -  Atlanta, GA at CoStar Group
+# Associate Implementation Consultant, CoStar Real Estate Manager - Atlanta, GA at CoStar Group
 
 | Field | Details |
 |-------|---------|
 | Company | [CoStar Group](https://scoutify.ai/companies/costar-group?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Atlanta, Georgia, United States |
 | Category | Customer Success |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://costar.wd1.myworkdayjobs.com/CoStarCareers/job/US-GA-Atlanta/Associate-Implementation-Consultant--CoStar-Real-Estate-Manager----Atlanta--GA_R38957) |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://costar.wd1.myworkdayjobs.com/CoStarCareers/job/US-GA-Atlanta/Associate-Implementation-Consultant--CoStar-Real-Estate-Manager---Atlanta--GA_R39704) |
 
 ## About This Role
 
-This customer success position at CoStar Group was posted on 2026-05-18.
+This customer success position at CoStar Group was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Arrow Electronics](https://scoutify.ai/companies/arrow-electronics?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Bloomington, Minnesota, United States |
+| Location | Bengaluru, Karnataka, India |
 | Category | Software Engineer |
-| Posted | 2026-08-20 |
-| Apply | [View on company site](https://arrow.wd1.myworkdayjobs.com/ac/job/US-MN-Bloomington-Minnesota-Hampshire-Ave/Field-Applications-Engineer_R246603) |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://arrow.wd1.myworkdayjobs.com/ac/job/Bangalore-Karnataka/Field-Applications-Engineer_R243490) |
 
 ## About This Role
 
-This software engineer position at Arrow Electronics was posted on 2026-08-20.
+This software engineer position at Arrow Electronics was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Vistex](https://scoutify.ai/companies/recruiting2-ultipro-com-oj116090?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Germany |
+| Location | Not specified |
 | Category | Sales Engineer |
-| Posted | 2026-08-19 |
-| Apply | [View on company site](https://recruiting2.ultipro.com/vis1012visx/JobBoard/23e64b4e-ff01-4579-9e5a-835480ac7a51/OpportunityDetail?opportunityId=742eff98-758e-4b3c-a95d-ddcdb324e055) |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://recruiting2.ultipro.com/vis1012visx/JobBoard/23e64b4e-ff01-4579-9e5a-835480ac7a51/OpportunityDetail?opportunityId=4e835ba1-0bbc-4aa1-bdb7-0a03ffbf6024) |
 
 ## About This Role
 
-This sales engineer position at Vistex was posted on 2026-08-19.
+This sales engineer position at Vistex was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

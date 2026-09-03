@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Veolia](https://scoutify.ai/companies/veolia?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Dayton, Ohio, United States |
-| Category | Sales Engineer |
-| Posted | 2026-08-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000144643780-technical-sales-manager-equipment-water-services-central-us) |
+| Category | Sales |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000145810680-technical-sales-manager-equipment-water-services-central-us) |
 
 ## About This Role
 
-This sales engineer position at Veolia was posted on 2026-08-20.
+This sales position at Veolia was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

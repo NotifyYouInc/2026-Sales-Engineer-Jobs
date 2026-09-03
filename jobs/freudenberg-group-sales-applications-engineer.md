@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Freudenberg Group](https://scoutify.ai/companies/freudenberg?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Melbourne, Victoria, Australia |
+| Location | 3 locations |
 | Category | Software Engineer |
-| Posted | 2026-06-15 |
-| Apply | [View on company site](https://freudenberg.wd3.myworkdayjobs.com/freudenberg-group/job/Melbourne-VIC/Sales---Applications-Engineer_R_00103255) |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://freudenberg.wd3.myworkdayjobs.com/freudenberg-group/job/Perth-Beckenham-WA/Sales---Applications-Engineer_R_00103255) |
 
 ## About This Role
 
-This software engineer position at Freudenberg Group was posted on 2026-06-15.
+This software engineer position at Freudenberg Group was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

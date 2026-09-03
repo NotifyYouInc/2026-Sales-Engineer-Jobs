@@ -5,12 +5,12 @@
 | Company | [Arrow Electronics](https://scoutify.ai/companies/arrow-electronics?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | 2 locations |
 | Category | Software Engineer |
-| Posted | 2026-06-15 |
-| Apply | [View on company site](https://arrow.wd1.myworkdayjobs.com/ac/job/Suzhou-Jiangsu/Senior-Field-Application-Engineer_R243931) |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://arrow.wd1.myworkdayjobs.com/ac/job/Zhonghe-Dist-New-Taipei-City/Senior-Field-Application-Engineer_R239776) |
 
 ## About This Role
 
-This software engineer position at Arrow Electronics was posted on 2026-06-15.
+This software engineer position at Arrow Electronics was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

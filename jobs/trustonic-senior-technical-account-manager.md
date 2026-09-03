@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Trustonic](https://scoutify.ai/companies/trustonic?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Bogotá, Bogota D.C., Colombia |
-| Category | Customer Success |
-| Posted | 2026-07-31 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/trustonic/744000140864044-senior-technical-account-manager) |
+| Location | Bangkok, Bangkok, Thailand |
+| Category | Sales |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/trustonic/744000145913390-senior-technical-account-manager) |
 
 ## About This Role
 
-This customer success position at Trustonic was posted on 2026-07-31.
+This sales position at Trustonic was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

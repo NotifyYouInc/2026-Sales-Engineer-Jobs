@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Boyd Gaming](https://scoutify.ai/companies/boydgaming?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Kansas City, Missouri, United States |
-| Category | IT & Systems Administration |
-| Posted | 2026-08-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoydGaming/3743990014515603-it-field-engineer-ii) |
+| Location | Las Vegas, Nevada, United States |
+| Category | Sales Engineer |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoydGaming/3743990014869886-it-field-engineer-ii) |
 
 ## About This Role
 
-This it & systems administration position at Boyd Gaming was posted on 2026-08-10.
+This sales engineer position at Boyd Gaming was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

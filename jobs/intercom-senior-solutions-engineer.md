@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Intercom](https://scoutify.ai/companies/intercom?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | London, England, United Kingdom |
+| Location | Chicago, Illinois, United States |
 | Category | Sales Engineer |
-| Posted | 2026-06-16 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/intercom/jobs/8011085) |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/intercom/jobs/8144761) |
 
 ## About This Role
 
-This sales engineer position at Intercom was posted on 2026-06-16.
+This sales engineer position at Intercom was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

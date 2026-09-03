@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ServiceNow](https://scoutify.ai/companies/servicenow?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Vienna, Virginia, United States |
+| Location | Madrid, Madrid, Spain |
 | Category | Sales Engineer |
-| Posted | 2026-08-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000143139703-sr-advisory-solution-consultant) |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000145754969-sr-advisory-solution-consultant) |
 
 ## About This Role
 
-This sales engineer position at ServiceNow was posted on 2026-08-12.
+This sales engineer position at ServiceNow was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

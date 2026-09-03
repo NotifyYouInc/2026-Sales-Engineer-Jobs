@@ -5,12 +5,12 @@
 | Company | [Carrier Global](https://scoutify.ai/companies/carrier?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Kennesaw, Georgia, United States |
 | Category | Sales Engineer |
-| Posted | 2026-07-31 |
-| Apply | [View on company site](https://carrier.wd5.myworkdayjobs.com/jobs/job/CAG11-ALC-Other-HG-1025-Cobb-Place-Boulevard-Kennesaw-GA-30144-USA/Sales-Estimator---Automated-Logic_30214376) |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://carrier.wd5.myworkdayjobs.com/jobs/job/CAG11-ALC-Other-HG-1025-Cobb-Place-Boulevard-Kennesaw-GA-30144-USA/Sales-Estimator---Automated-Logic_30216697) |
 
 ## About This Role
 
-This sales engineer position at Carrier Global was posted on 2026-07-31.
+This sales engineer position at Carrier Global was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

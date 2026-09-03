@@ -5,12 +5,12 @@
 | Company | [Carrier Global](https://scoutify.ai/companies/carrier?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Phalempin, Hauts-de-France, France |
 | Category | Sales Engineer |
-| Posted | 2026-06-01 |
+| Posted | 2026-08-26 |
 | Apply | [View on company site](https://carrier.wd5.myworkdayjobs.com/jobs/job/Viessmann-France-SAS-Rue-Saint-Patrick-59133-PHALEMPIN/Ingnieur-technico-commercial-H-F_30206976) |
 
 ## About This Role
 
-This sales engineer position at Carrier Global was posted on 2026-06-01.
+This sales engineer position at Carrier Global was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

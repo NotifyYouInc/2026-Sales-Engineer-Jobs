@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ServiceNow](https://scoutify.ai/companies/servicenow?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Tokyo, Tokyo, Japan |
+| Location | Sydney, New South Wales, Australia |
 | Category | Sales Engineer |
-| Posted | 2026-08-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000144243599-advisory-solution-consultant) |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000145907360-advisory-solution-consultant) |
 
 ## About This Role
 
-This sales engineer position at ServiceNow was posted on 2026-08-19.
+This sales engineer position at ServiceNow was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

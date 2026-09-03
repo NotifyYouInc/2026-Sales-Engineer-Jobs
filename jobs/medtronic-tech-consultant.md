@@ -1,16 +1,16 @@
-# Tech Consultant. at Medtronic
+# Tech Consultant at Medtronic
 
 | Field | Details |
 |-------|---------|
 | Company | [Medtronic](https://scoutify.ai/companies/medtronic?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | 5 locations |
-| Category | Customer Success |
-| Posted | 2026-06-16 |
-| Apply | [View on company site](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Mollsfeld-Meerbusch-Germany/Technical-Consultant-Cranial---Spinal-Technologies--CST---m-w-d-_R68680-1) |
+| Location | Italy |
+| Category | Sales Engineer |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Milano-Lombardia-Italy/Tech-Consultant_R73326-1) |
 
 ## About This Role
 
-This customer success position at Medtronic was posted on 2026-06-16.
+This sales engineer position at Medtronic was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

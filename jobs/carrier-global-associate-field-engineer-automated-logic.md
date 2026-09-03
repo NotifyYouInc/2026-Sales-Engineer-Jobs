@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Carrier Global](https://scoutify.ai/companies/carrier?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Green Bay, Wisconsin, United States |
-| Category | Sales Engineer |
-| Posted | 2026-08-17 |
-| Apply | [View on company site](https://carrier.wd5.myworkdayjobs.com/jobs/job/CAW13-AL-Wisconsin-GRB-954-Glory-Road-Green-Bay-WI-54304-USA/Associate-Field-Engineer---Automated-Logic_30215711) |
+| Location | Kennesaw, Georgia, United States |
+| Category | Electrical / Hardware Engineer |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://carrier.wd5.myworkdayjobs.com/jobs/job/CAG11-ALC-Other-HG-1025-Cobb-Place-Boulevard-Kennesaw-GA-30144-USA/Associate-Field-Engineer---Automated-Logic_30216153) |
 
 ## About This Role
 
-This sales engineer position at Carrier Global was posted on 2026-08-17.
+This electrical / hardware engineer position at Carrier Global was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

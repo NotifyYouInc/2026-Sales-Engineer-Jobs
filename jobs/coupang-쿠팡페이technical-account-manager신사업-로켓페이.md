@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Coupang](https://scoutify.ai/companies/coupang?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Seoul, Seoul, South Korea |
-| Category | Sales Engineer |
-| Posted | 2026-08-21 |
-| Apply | [View on company site](https://www.coupang.jobs/en/jobs/?gh_jid=8146599) |
+| Category | Customer Success |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://www.coupang.jobs/en/jobs/?gh_jid=8152513) |
 
 ## About This Role
 
-This sales engineer position at Coupang was posted on 2026-08-21.
+This customer success position at Coupang was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

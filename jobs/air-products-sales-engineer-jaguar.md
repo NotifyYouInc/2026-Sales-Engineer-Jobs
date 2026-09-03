@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Air Products](https://scoutify.ai/companies/airproducts?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Chongqing, Chongqing, China |
-| Category | Account Executive |
-| Posted | 2026-04-01 |
+| Category | Sales Engineer |
+| Posted | 2026-08-27 |
 | Apply | [View on company site](https://airproducts.wd5.myworkdayjobs.com/AP0001/job/Chongqing-China/Sales-Engineer-Jaguar_JR-2026-19889) |
 
 ## About This Role
 
-This account executive position at Air Products was posted on 2026-04-01.
+This sales engineer position at Air Products was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

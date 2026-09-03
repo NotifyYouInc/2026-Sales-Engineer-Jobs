@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Airbus](https://scoutify.ai/companies/ag?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Manching, Bavaria, Germany |
-| Category | Data Engineer |
+| Category | Sales Engineer |
 | Posted | 2026-08-25 |
 | Apply | [View on company site](https://ag.wd3.myworkdayjobs.com/Airbus/job/Mnchen-Area/SAP-BI-Technology-Specialist-in-Germany---d-f-m-_JR10426822) |
 
 ## About This Role
 
-This data engineer position at Airbus was posted on 2026-08-25.
+This sales engineer position at Airbus was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [TD Synnex](https://scoutify.ai/companies/synnex?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Bodegraven, South Holland, The Netherlands |
+| Location | Aalst, Flanders, Belgium |
 | Category | Sales Engineer |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://synnex.wd5.myworkdayjobs.com/tdsynnexcareers/job/Bodegraven-Netherlands/Technical-Presales-Specialist-HPE_R50370) |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://synnex.wd5.myworkdayjobs.com/tdsynnexcareers/job/Aalst-Belgium/Technical-Presales-Specialist-HPE_R54600) |
 
 ## About This Role
 
-This sales engineer position at TD Synnex was posted on 2026-04-30.
+This sales engineer position at TD Synnex was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

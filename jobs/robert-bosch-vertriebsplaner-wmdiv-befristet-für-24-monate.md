@@ -5,12 +5,12 @@
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Bayreuth, Bavaria, Germany |
 | Category | Sales Engineer |
-| Posted | 2026-06-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000133364439-vertriebsplaner-wmdiv-befristet-fur-24-monate) |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000145941282-vertriebsplaner-wmdiv-befristet-fur-24-monate) |
 
 ## About This Role
 
-This sales engineer position at Robert Bosch was posted on 2026-06-22.
+This sales engineer position at Robert Bosch was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

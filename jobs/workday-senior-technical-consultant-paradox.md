@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Workday](https://scoutify.ai/companies/workday?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Atlanta, Georgia, United States |
+| Location | 20 locations |
 | Category | Customer Success |
-| Posted | 2026-06-10 |
-| Apply | [View on company site](https://workday.wd5.myworkdayjobs.com/Workday/job/USA-GA-Atlanta/Senior-Technical-Consultant---Paradox_JR-0108065) |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://workday.wd5.myworkdayjobs.com/Workday/job/USA-GA-Atlanta/Senior-Technical-Consultant---Paradox_JR-0109626) |
 
 ## About This Role
 
-This customer success position at Workday was posted on 2026-06-10.
+This customer success position at Workday was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Senior Sales Engineer at REXEL
+# Senior Sales Engineer  at REXEL
 
 | Field | Details |
 |-------|---------|
 | Company | [REXEL](https://scoutify.ai/companies/rexel?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Badmal, Odisha, India |
+| Location | Hyderabad, Telangana, India |
 | Category | Sales Engineer |
-| Posted | 2026-08-21 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/REXEL1/744000144729079-senior-sales-engineer) |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/REXEL1/744000145923014-senior-sales-engineer) |
 
 ## About This Role
 
-This sales engineer position at REXEL was posted on 2026-08-21.
+This sales engineer position at REXEL was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

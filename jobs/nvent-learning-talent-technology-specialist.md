@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [nVent](https://scoutify.ai/companies/nvent?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Monterrey, Nuevo León, Mexico |
-| Category | Learning & Development |
+| Category | Sales Engineer |
 | Posted | 2026-08-25 |
 | Apply | [View on company site](https://nvent.wd5.myworkdayjobs.com/nVent/job/Monterrey-MX/Learning---Talent-Technology-Specialist_R23201) |
 
 ## About This Role
 
-This learning & development position at nVent was posted on 2026-08-25.
+This sales engineer position at nVent was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

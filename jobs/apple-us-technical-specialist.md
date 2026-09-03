@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Apple](https://scoutify.ai/companies/apple?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Boise, Idaho, United States |
+| Location | Pittsburgh, Pennsylvania, United States |
 | Category | Customer Success |
-| Posted | 2026-08-06 |
-| Apply | [View on company site](https://jobs.apple.com/en-us/details/200676477/us-technical-specialist) |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://jobs.apple.com/en-us/details/200680118/us-technical-specialist) |
 
 ## About This Role
 
-This customer success position at Apple was posted on 2026-08-06.
+This customer success position at Apple was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 
