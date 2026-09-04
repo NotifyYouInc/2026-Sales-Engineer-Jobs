@@ -5,12 +5,12 @@
 | Company | [CrowdStrike](https://scoutify.ai/companies/crowdstrike?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Mumbai, Maharashtra, India |
 | Category | Sales Engineer |
-| Posted | 2026-05-28 |
+| Posted | 2026-08-28 |
 | Apply | [View on company site](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/India---Mumbai/Manager--Sales-Engineering_R26874-1) |
 
 ## About This Role
 
-This sales engineer position at CrowdStrike was posted on 2026-05-28.
+This sales engineer position at CrowdStrike was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

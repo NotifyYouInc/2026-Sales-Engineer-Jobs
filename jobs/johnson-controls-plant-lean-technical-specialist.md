@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Johnson Controls](https://scoutify.ai/companies/jci?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Gilbert, Arizona, United States |
-| Category | Industrial Automation |
+| Category | Sales Engineer |
 | Posted | 2026-08-27 |
 | Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Gilbert-Arizona-United-States-of-America/Plant-Lean-Technical-Specialist_EB000753291) |
 
 ## About This Role
 
-This industrial automation position at Johnson Controls was posted on 2026-08-27.
+This sales engineer position at Johnson Controls was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

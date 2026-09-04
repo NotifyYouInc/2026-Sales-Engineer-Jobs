@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [SHI International](https://scoutify.ai/companies/shi-international?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Austin, Texas, United States |
+| Location | Texas, US |
 | Category | Data Engineer |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://shi.wd12.myworkdayjobs.com/shicareers/job/US---TX---Home-Office/Solutions-Engineer---Data-Engineering_JR3031) |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://shi.wd12.myworkdayjobs.com/shicareers/job/US---TX---Home-Office/Solutions-Engineer---Data-Engineering_JR3645) |
 
 ## About This Role
 
-This data engineer position at SHI International was posted on 2026-05-13.
+This data engineer position at SHI International was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

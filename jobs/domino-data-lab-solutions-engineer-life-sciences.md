@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Domino Data Lab](https://scoutify.ai/companies/domino-data-lab?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | United States |
-| Category | Technical & Solutions Architect |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://app.careerpuck.com/job-board/domino-data-lab/job/7818479?gh_jid=7818479) |
+| Category | Sales Engineer |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://app.careerpuck.com/job-board/domino-data-lab/job/8163381?gh_jid=8163381) |
 
 ## About This Role
 
-This technical & solutions architect position at Domino Data Lab was posted on 2026-04-20.
+This sales engineer position at Domino Data Lab was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

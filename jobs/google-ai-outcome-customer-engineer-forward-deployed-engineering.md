@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Singapore, Singapore |
-| Category | Forward Deployed Engineer |
-| Posted | 2026-07-16 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckefB9VnErrIjd5IA86xV78H2OKBDB_G8yDmIHiDCBNhUEjsA1Ny_izu16HHsJAMKPB2N1489UvWkPsPhgzPJUnQ2Aqxln3V3BH_sLT4lrJIhgQXR02Q2-ZbCuIaIhw%3D%3D_V2&loc=SG&title=AI+Outcome+Customer+Engineer) |
+| Location | 4 locations |
+| Category | Sales Engineer |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckcWyqUHywcWQPQWVXo-Z_nHjqFrZBGRHCmD_B0EV6zG3EjsA1Ny_izO8BtYPvo67PIIWpMN2NTAFHhBlWe_rSev9l52RpyAPIYSTeuYlr4IHpUMju3uPzj8_dCXJyg%3D%3D_V2&loc=US&title=AI+Outcome+Customer+Engineer) |
 
 ## About This Role
 
-This forward deployed engineer position at Google was posted on 2026-07-16.
+This sales engineer position at Google was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

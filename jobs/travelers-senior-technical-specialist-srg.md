@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Travelers](https://scoutify.ai/companies/travelers?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Baltimore, Maryland, United States |
-| Category | Actuary / Insurance Analytics |
+| Category | Corporate Finance |
 | Posted | 2026-08-26 |
 | Apply | [View on company site](https://travelers.wd5.myworkdayjobs.com/External/job/MD---Baltimore/Senior-Technical-Specialist--SRG_R-52246) |
 
 ## About This Role
 
-This actuary / insurance analytics position at Travelers was posted on 2026-08-26.
+This corporate finance position at Travelers was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Xylem](https://scoutify.ai/companies/xylem?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | 3 locations |
+| Location | 2 locations |
 | Category | Sales Engineer |
-| Posted | 2026-07-15 |
-| Apply | [View on company site](https://xylem.wd5.myworkdayjobs.com/xylem-careers/job/Sanford-Florida/Technical-Sales-Engineer-Specialist_R49572) |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://xylem.wd5.myworkdayjobs.com/xylem-careers/job/Mokena-Illinois/Technical-Sales-Engineer-Specialist_R50260) |
 
 ## About This Role
 
-This sales engineer position at Xylem was posted on 2026-07-15.
+This sales engineer position at Xylem was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Rockwell Automation](https://scoutify.ai/companies/rockwellautomation?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Parsippany, New Jersey, United States |
+| Location | Philadelphia, Pennsylvania, United States |
 | Category | Sales Engineer |
-| Posted | 2026-05-20 |
-| Apply | [View on company site](https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Parsippany-New-Jersey-United-States/Regional-Proposal-Specialist_R26-1817) |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Philadelphia-Pennsylvania-United-States/Regional-Proposal-Specialist_R26-1817) |
 
 ## About This Role
 
-This sales engineer position at Rockwell Automation was posted on 2026-05-20.
+This sales engineer position at Rockwell Automation was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

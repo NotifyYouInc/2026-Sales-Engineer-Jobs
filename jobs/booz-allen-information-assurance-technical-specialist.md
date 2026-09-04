@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Fayetteville, North Carolina, United States |
-| Category | Security Engineer |
-| Posted | 2026-06-11 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Fayetteville-NC/Information-Assurance-Technical-Specialist_R0242046) |
+| Location | Fort Stewart, Georgia, United States |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Fort-Stewart-GA/Information-Assurance-Technical-Specialist_R0248068) |
 
 ## About This Role
 
-This security engineer position at Booz Allen was posted on 2026-06-11.
+This cybersecurity engineer position at Booz Allen was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

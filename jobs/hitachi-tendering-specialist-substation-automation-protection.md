@@ -5,12 +5,12 @@
 | Company | [Hitachi](https://scoutify.ai/companies/hitachi?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Chennai, Tamil Nadu, India |
 | Category | Sales Engineer |
-| Posted | 2026-08-03 |
-| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Chennai-Tamil-Nadu-India/Tendering-Specialist---Substation-Automation---Protection_R0139373) |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Chennai-Tamil-Nadu-India/Tendering-Specialist---Substation-Automation---Protection_R0141922) |
 
 ## About This Role
 
-This sales engineer position at Hitachi was posted on 2026-08-03.
+This sales engineer position at Hitachi was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

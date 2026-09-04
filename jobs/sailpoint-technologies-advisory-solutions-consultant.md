@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [SailPoint Technologies](https://scoutify.ai/companies/sailpoint-technologies?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Germany |
+| Location | Georgia, US |
 | Category | Sales Engineer |
 | Posted | 2026-08-25 |
-| Apply | [View on company site](https://sailpoint.wd1.myworkdayjobs.com/sailpoint/job/Remote-Germany/Advisory-Solutions-Consultant_R013198) |
+| Apply | [View on company site](https://sailpoint.wd1.myworkdayjobs.com/sailpoint/job/Remote-North-Carolina-USA/Advisory-Solutions-Consultant_R013939) |
 
 ## About This Role
 

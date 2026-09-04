@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Harris Computer](https://scoutify.ai/companies/harriscomputer?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Alberta, CA |
+| Location | Toronto, Ontario, Canada |
 | Category | Customer Success |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://harriscomputer.wd3.myworkdayjobs.com/1/job/Ontario-Canada/XMLNAME--Remote--Technical-Consultant_R0040328-5) |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://harriscomputer.wd3.myworkdayjobs.com/1/job/Toronto-Ontario/XMLNAME--Remote--Technical-Consultant_R0045765) |
 
 ## About This Role
 
-This customer success position at Harris Computer was posted on 2026-02-27.
+This customer success position at Harris Computer was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

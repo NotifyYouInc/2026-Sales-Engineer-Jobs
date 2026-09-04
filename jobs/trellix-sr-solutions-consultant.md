@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Trellix](https://scoutify.ai/companies/trellix?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | United States |
+| Location | Columbia, South Carolina, United States |
 | Category | Customer Success |
-| Posted | 2026-08-25 |
-| Apply | [View on company site](https://trellix.wd1.myworkdayjobs.com/EnterpriseCareers/job/Remote-United-States/Sr-Solutions-Consultant_JR0037849) |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://trellix.wd1.myworkdayjobs.com/EnterpriseCareers/job/US-Maryland-Columbia/Sr-Solutions-Consultant_JR0037624) |
 
 ## About This Role
 
-This customer success position at Trellix was posted on 2026-08-25.
+This customer success position at Trellix was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [PagerDuty](https://scoutify.ai/companies/pagerduty?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | United States |
+| Location | Toronto, Ontario, Canada |
 | Category | Sales Engineer |
 | Posted | 2026-08-25 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/pagerduty/jobs/6162220004) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/pagerduty/jobs/6163290004) |
 
 ## About This Role
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Proofpoint](https://scoutify.ai/companies/proofpoint?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | 2 locations |
+| Location | United Kingdom |
 | Category | Customer Success |
-| Posted | 2026-08-05 |
-| Apply | [View on company site](https://proofpoint.wd5.myworkdayjobs.com/ProofpointCareers/job/Sydney-Australia/Technical-Account-Manager_R14507) |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://proofpoint.wd5.myworkdayjobs.com/ProofpointCareers/job/England/Technical-Account-Manager_R14670) |
 
 ## About This Role
 
-This customer success position at Proofpoint was posted on 2026-08-05.
+This customer success position at Proofpoint was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

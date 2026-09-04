@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Thomson Reuters](https://scoutify.ai/companies/thomson-reuters?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Bengaluru, Karnataka, India |
-| Category | Sales Engineer |
-| Posted | 2026-08-19 |
-| Apply | [View on company site](https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/India-Bengaluru-Karnataka/Lead-Implementation-Consultant_JREQ198617-1) |
+| Location | London, England, United Kingdom |
+| Category | Customer Success |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/United-Kingdom-London/Implementation-Consultant_JREQ197145) |
 
 ## About This Role
 
-This sales engineer position at Thomson Reuters was posted on 2026-08-19.
+This customer success position at Thomson Reuters was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

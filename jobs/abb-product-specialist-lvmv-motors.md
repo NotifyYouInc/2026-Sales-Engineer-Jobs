@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [ABB](https://scoutify.ai/companies/abb?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Bogotá, Bogota D.C., Colombia |
-| Category | Sales Engineer |
+| Category | Product Manager |
 | Posted | 2026-08-26 |
 | Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Bogota-Cundinamarca--Colombia/Product-Specialist---LV-MV-Motors_JR00045143) |
 
 ## About This Role
 
-This sales engineer position at ABB was posted on 2026-08-26.
+This product manager position at ABB was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

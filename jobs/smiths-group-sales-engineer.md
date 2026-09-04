@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Smiths Group](https://scoutify.ai/companies/smithsgroup?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Lima, Lima Province, Peru |
+| Location | Sepang, Selangor, Malaysia |
 | Category | Sales Engineer |
-| Posted | 2026-08-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SmithsGroup2/744000143853674-sales-engineer) |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SmithsGroup2/744000146131119-sales-engineer) |
 
 ## About This Role
 
-This sales engineer position at Smiths Group was posted on 2026-08-17.
+This sales engineer position at Smiths Group was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

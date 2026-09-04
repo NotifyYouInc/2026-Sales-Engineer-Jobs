@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Numerix](https://scoutify.ai/companies/numerix?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | 3 locations |
+| Location | Hong Kong, Hong Kong |
 | Category | Product Manager |
-| Posted | 2026-04-02 |
-| Apply | [View on company site](https://www.numerix.com/numerix-job-opportunities?gh_jid=5175466008) |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/numerix/jobs/5408014008) |
 
 ## About This Role
 
-This product manager position at Numerix was posted on 2026-04-02.
+This product manager position at Numerix was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Huntsville, Alabama, United States |
-| Category | Electrical / Hardware Engineer |
-| Posted | 2026-08-18 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Field-Engineer_R-00189825-1) |
+| Location | Alexandria, Virginia, United States |
+| Category | Sales Engineer |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Alexandria-VA/Field-Engineer_R-00190704) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Leidos was posted on 2026-08-18.
+This sales engineer position at Leidos was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

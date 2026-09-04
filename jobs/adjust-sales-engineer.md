@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Adjust](https://scoutify.ai/companies/adjustjobs?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Seoul, Seoul, South Korea |
+| Location | Beijing, Beijing, China |
 | Category | Sales Engineer |
-| Posted | 2026-07-06 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/adjustjobs/jobs/4683024006) |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/adjustjobs/jobs/4707707006) |
 
 ## About This Role
 
-This sales engineer position at Adjust was posted on 2026-07-06.
+This sales engineer position at Adjust was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

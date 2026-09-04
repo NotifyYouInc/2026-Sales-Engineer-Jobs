@@ -1,16 +1,16 @@
-# Advisory Solutions Consultant (Strategic West) at SailPoint Technologies
+# Advisory Solutions Consultant - Strategic West at SailPoint Technologies
 
 | Field | Details |
 |-------|---------|
 | Company | [SailPoint Technologies](https://scoutify.ai/companies/sailpoint-technologies?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Texas, US |
-| Category | Implementation / Professional Services |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://sailpoint.wd1.myworkdayjobs.com/sailpoint/job/Remote-Texas-USA/Advisory-Solutions-Consultant--Strategic-West-_R012267) |
+| Location | United States |
+| Category | Sales Engineer |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://sailpoint.wd1.myworkdayjobs.com/sailpoint/job/Remote-California-USA/Advisory-Solutions-Consultant---Strategic-West_R013941) |
 
 ## About This Role
 
-This implementation / professional services position at SailPoint Technologies was posted on 2026-04-13.
+This sales engineer position at SailPoint Technologies was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

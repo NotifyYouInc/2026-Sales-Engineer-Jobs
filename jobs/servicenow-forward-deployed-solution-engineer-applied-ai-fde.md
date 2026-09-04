@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ServiceNow](https://scoutify.ai/companies/servicenow?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Santa Clara, California, United States |
-| Category | AI / LLM Engineer |
-| Posted | 2026-08-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000144639119-forward-deployed-solution-engineer-applied-ai-fde) |
+| Location | London, England, United Kingdom |
+| Category | Sales Engineer |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000146024879-forward-deployed-solution-engineer-applied-ai-fde) |
 
 ## About This Role
 
-This ai / llm engineer position at ServiceNow was posted on 2026-08-20.
+This sales engineer position at ServiceNow was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

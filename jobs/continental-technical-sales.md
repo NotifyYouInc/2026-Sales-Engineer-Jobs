@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Continental](https://scoutify.ai/companies/continental?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Itapevi, São Paulo, Brazil |
-| Category | Sales Engineer |
-| Posted | 2026-07-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/continental/744000138634959-technical-sales) |
+| Location | São Paulo, São Paulo, Brazil |
+| Category | Customer Success |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/continental/744000145987839-technical-sales) |
 
 ## About This Role
 
-This sales engineer position at Continental was posted on 2026-07-20.
+This customer success position at Continental was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

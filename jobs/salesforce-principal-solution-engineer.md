@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Salesforce](https://scoutify.ai/companies/salesforce?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Milan, Lombardy, Italy |
-| Category | Technical & Solutions Architect |
-| Posted | 2026-06-23 |
-| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Italy---Milan/Principal-Solution-Engineer_JR347059) |
+| Location | San Francisco, California, United States |
+| Category | Sales Engineer |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Principal-Solution-Engineer_JR357432) |
 
 ## About This Role
 
-This technical & solutions architect position at Salesforce was posted on 2026-06-23.
+This sales engineer position at Salesforce was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Orca Security](https://scoutify.ai/companies/orca-security?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Singapore, Singapore |
+| Location | Australia |
 | Category | Sales Engineer |
-| Posted | 2026-08-25 |
-| Apply | [View on company site](https://orca.security/about/careers/5805648004?gh_jid=5805648004) |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://orca.security/about/careers/6161080004?gh_jid=6161080004) |
 
 ## About This Role
 
-This sales engineer position at Orca Security was posted on 2026-08-25.
+This sales engineer position at Orca Security was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

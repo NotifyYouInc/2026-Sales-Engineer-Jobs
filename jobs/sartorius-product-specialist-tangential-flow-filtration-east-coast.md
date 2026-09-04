@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Sartorius](https://scoutify.ai/companies/sartorius?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | United States |
-| Category | Product Marketing |
+| Category | Marketing |
 | Posted | 2026-08-27 |
 | Apply | [View on company site](https://sartorius.wd3.myworkdayjobs.com/sartoriuscareers/job/Home-Office-United-States-of-America/Product-Specialist--Tangential-Flow-Filtration----East-Coast_R41603-1) |
 
 ## About This Role
 
-This product marketing position at Sartorius was posted on 2026-08-27.
+This marketing position at Sartorius was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

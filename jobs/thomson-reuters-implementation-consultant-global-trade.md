@@ -5,12 +5,12 @@
 | Company | [Thomson Reuters](https://scoutify.ai/companies/thomson-reuters?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Frisco, Texas, United States |
 | Category | Customer Success |
-| Posted | 2026-05-11 |
+| Posted | 2026-08-27 |
 | Apply | [View on company site](https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/United-States-of-America-Frisco-Texas/Implementation-Consultant---Global-Trade_JREQ200621) |
 
 ## About This Role
 
-This customer success position at Thomson Reuters was posted on 2026-05-11.
+This customer success position at Thomson Reuters was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

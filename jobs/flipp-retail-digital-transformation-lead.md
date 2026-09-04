@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Flipp](https://scoutify.ai/companies/flipp?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Canada |
-| Category | Product Marketing |
+| Category | Strategy & Operations |
 | Posted | 2026-08-27 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/flipp/jobs/8114465) |
 
 ## About This Role
 
-This product marketing position at Flipp was posted on 2026-08-27.
+This strategy & operations position at Flipp was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

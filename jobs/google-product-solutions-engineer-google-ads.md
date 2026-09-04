@@ -5,12 +5,12 @@
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | 3 locations |
 | Category | Digital / Performance Marketing |
-| Posted | 2026-06-11 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2Fckd7znbBPx4zh7dWccBuPV4mSV2fyzhK3LKCtsJ8lc6-SEjsACxwdTCnVYRaDmBejBqNprRKt4FPaHD3FvOxZNQVh98WpKQXOBD0MBHEMpqy6imF_AfTpHUKhKTgO2g%3D%3D_V2&loc=US&title=Product+Solutions+Engineer) |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckSyJVfoIxMOZ8yyD2ASt1FGKzBbgbdoOSFGLjCbnsbE4EjsA1Ny_iw9mTMEyoFoJkNDtQRosFGQjQzVzolvXxNaGmx1QpXdpe7z13kLOZBdaGKNUz3PamsYiw4cftg%3D%3D_V2&loc=US&title=Product+Solutions+Engineer) |
 
 ## About This Role
 
-This digital / performance marketing position at Google was posted on 2026-06-11.
+This digital / performance marketing position at Google was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

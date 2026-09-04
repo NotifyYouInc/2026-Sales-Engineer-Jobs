@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Veolia](https://scoutify.ai/companies/veolia?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Tomball, Texas, United States |
-| Category | Sales Engineer |
-| Posted | 2026-08-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000143872889-ultra-pure-water-technical-sales-account-manager) |
+| Location | Pasadena, Texas, United States |
+| Category | Sales |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000146074619-ultra-pure-water-technical-sales-account-manager) |
 
 ## About This Role
 
-This sales engineer position at Veolia was posted on 2026-08-17.
+This sales position at Veolia was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 
