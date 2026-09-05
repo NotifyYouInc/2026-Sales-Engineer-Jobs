@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Avantor Asia Middle East Africa (AMEA)](https://scoutify.ai/companies/avantor-asia-middle-east-africa-amea?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | 2 locations |
+| Location | Coimbatore, Tamil Nadu, India |
 | Category | Sales Engineer |
-| Posted | 2026-07-17 |
-| Apply | [View on company site](https://vwr.wd1.myworkdayjobs.com/avantorjobs/job/Coimbatore-IND/Senior-Associate---QTPS-Operations_R-173581-1) |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://vwr.wd1.myworkdayjobs.com/avantorjobs/job/Coimbatore-IND/Senior-Associate---QTPS-Operations_R-173479) |
 
 ## About This Role
 
-This sales engineer position at Avantor Asia Middle East Africa (AMEA) was posted on 2026-07-17.
+This sales engineer position at Avantor Asia Middle East Africa (AMEA) was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

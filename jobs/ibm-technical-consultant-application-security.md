@@ -6,7 +6,7 @@
 | Location | Bengaluru, Karnataka, India |
 | Category | Cybersecurity Engineer |
 | Posted | 2026-08-26 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=130569) |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=130566) |
 
 ## About This Role
 

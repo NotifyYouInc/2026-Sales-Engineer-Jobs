@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Minato, Wakayama, Japan |
+| Location | Hanoi, Hanoi, Vietnam |
 | Category | Sales Engineer |
-| Posted | 2026-06-04 |
-| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Minato-Japan/Solutions-Engineer--Service-Provider-_2014991-1) |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Hanoi-Vietnam/Solutions-Engineer--Service-Provider-_2020754) |
 
 ## About This Role
 
-This sales engineer position at Cisco was posted on 2026-06-04.
+This sales engineer position at Cisco was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

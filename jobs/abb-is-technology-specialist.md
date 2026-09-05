@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [ABB](https://scoutify.ai/companies/abb?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Kraków, Lesser Poland, Poland |
-| Category | Sales Engineer |
+| Category | IT & Systems Administration |
 | Posted | 2026-08-26 |
 | Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Krakow-Lesser-Poland-Poland/IS-Technology-Specialist_JR00044062) |
 
 ## About This Role
 
-This sales engineer position at ABB was posted on 2026-08-26.
+This it & systems administration position at ABB was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

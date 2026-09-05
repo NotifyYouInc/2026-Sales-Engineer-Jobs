@@ -5,12 +5,12 @@
 | Company | [Arista Networks](https://scoutify.ai/companies/aristanetworks?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | London, England, United Kingdom |
 | Category | Sales Engineer |
-| Posted | 2026-05-15 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AristaNetworks/744000126735679-advisory-systems-engineer-dv-cleared) |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AristaNetworks/744000146230419-advisory-systems-engineer-dv-cleared) |
 
 ## About This Role
 
-This sales engineer position at Arista Networks was posted on 2026-05-15.
+This sales engineer position at Arista Networks was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

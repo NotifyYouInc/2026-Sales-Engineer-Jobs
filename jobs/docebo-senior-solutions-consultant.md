@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Docebo](https://scoutify.ai/companies/docebo?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | London, England, United Kingdom |
-| Category | Implementation / Professional Services |
-| Posted | 2026-03-30 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/docebo/f12c138f-bc6f-403b-8422-1da977bdf0f2) |
+| Location | Toronto, Ontario, Canada |
+| Category | Sales Engineer |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/docebo/4a5155e6-c91a-4d1a-9dff-fdd10b7d444a) |
 
 ## About This Role
 
-This implementation / professional services position at Docebo was posted on 2026-03-30.
+This sales engineer position at Docebo was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

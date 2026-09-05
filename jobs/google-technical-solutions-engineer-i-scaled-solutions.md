@@ -5,12 +5,12 @@
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | 4 locations |
 | Category | Customer Success |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckcHaWrHIBbWYFNCmrBVX_CYNF44eh7cKaFcf0aqqRER6EjsACxwdTIUwvLDaangEC_bmAgaFCmrtyMjFNnvKN6uxOcVpuMZoS30Tcn5H72rOjUpX-piTRZ0OiG70Hw%3D%3D_V2&loc=NL&title=Technical+Solutions+Engineer+I) |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2Fckdz5JGCU9hjgLpDmCTk8XOJvQeNXIxrhbpR10fHMWIwjEjsA1Ny_i4klP2qRsVjxpnli_6RSbpjn_Q8xd0rzGu7BI4CDZ6XRFFZneE0Cl6DvAKlXPV9qtfmiyeIwVQ%3D%3D_V2&loc=NL&title=Technical+Solutions+Engineer+I) |
 
 ## About This Role
 
-This customer success position at Google was posted on 2026-04-16.
+This customer success position at Google was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

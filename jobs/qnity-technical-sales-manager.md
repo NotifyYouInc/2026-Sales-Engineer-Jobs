@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Qnity](https://scoutify.ai/companies/qnity?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Shanghai, Shanghai, China |
-| Category | Account Manager |
-| Posted | 2026-06-10 |
-| Apply | [View on company site](https://qnity.wd503.myworkdayjobs.com/jobs/job/AP-CN-Shanghai-Zhangjiang-Cailun-EL/Technical-Sales-Manager_251784W) |
+| Location | Tainan, Taiwan, Taiwan |
+| Category | Sales Engineer |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://qnity.wd503.myworkdayjobs.com/jobs/job/Tainan-Taiwan/Technical-Sales-Manager_252698W) |
 
 ## About This Role
 
-This account manager position at Qnity was posted on 2026-06-10.
+This sales engineer position at Qnity was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

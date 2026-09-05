@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Teledyne](https://scoutify.ai/companies/flir?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Sweden |
+| Location | Beijing, Beijing, China |
 | Category | Sales Engineer |
-| Posted | 2026-06-01 |
-| Apply | [View on company site](https://flir.wd1.myworkdayjobs.com/flircareers/job/Sweden---Field/Sales-Engineer_REQ34634) |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://flir.wd1.myworkdayjobs.com/flircareers/job/China---Beijing/Sales-Engineer_REQ34521) |
 
 ## About This Role
 
-This sales engineer position at Teledyne was posted on 2026-06-01.
+This sales engineer position at Teledyne was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

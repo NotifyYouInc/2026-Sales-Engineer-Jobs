@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Pune, Maharashtra, India |
+| Location | Bengaluru, Karnataka, India |
 | Category | Sales Engineer |
 | Posted | 2026-08-26 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=130612) |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=130528) |
 
 ## About This Role
 

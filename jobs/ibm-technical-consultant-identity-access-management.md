@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Location | Bengaluru, Karnataka, India |
 | Category | Sales Engineer |
-| Posted | 2026-08-26 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=130508) |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=130496) |
 
 ## About This Role
 
-This sales engineer position at IBM was posted on 2026-08-26.
+This sales engineer position at IBM was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

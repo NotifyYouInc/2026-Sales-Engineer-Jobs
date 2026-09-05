@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [KPN](https://scoutify.ai/companies/kpn?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Hilversum, North Holland, The Netherlands |
-| Category | Customer Success |
+| Category | Cybersecurity Engineer |
 | Posted | 2026-08-27 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/KPN/744000145912369-senior-implementation-engineer-soc) |
 
 ## About This Role
 
-This customer success position at KPN was posted on 2026-08-27.
+This cybersecurity engineer position at KPN was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

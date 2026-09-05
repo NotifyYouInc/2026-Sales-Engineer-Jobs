@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Crowe](https://scoutify.ai/companies/crowe?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Chicago, Illinois, United States |
+| Location | Noida, Uttar Pradesh, India |
 | Category | Sales Engineer |
-| Posted | 2026-08-17 |
-| Apply | [View on company site](https://crowe.wd12.myworkdayjobs.com/external_careers/job/Chicago-IL-USA/NetSuite-Implementation-Consultant_R-51938) |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://crowe.wd12.myworkdayjobs.com/external_careers/job/Noida-Uttar-Pradesh-India/NetSuite-Implementation-Consultant_R-70855) |
 
 ## About This Role
 
-This sales engineer position at Crowe was posted on 2026-08-17.
+This sales engineer position at Crowe was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

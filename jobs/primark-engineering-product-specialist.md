@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Primark](https://scoutify.ai/companies/primark?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Reading, England, United Kingdom |
-| Category | Software Engineer |
+| Category | IT & Systems Administration |
 | Posted | 2026-08-27 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/primark/744000145986300-engineering-product-specialist) |
 
 ## About This Role
 
-This software engineer position at Primark was posted on 2026-08-27.
+This it & systems administration position at Primark was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Altasciences](https://scoutify.ai/companies/altasciences?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Harleysville, Pennsylvania, United States |
-| Category | Sales Engineer |
+| Category | IT & Systems Administration |
 | Posted | 2026-08-27 |
 | Apply | [View on company site](https://altasciences.wd1.myworkdayjobs.com/Careers/job/Harleysville-Pennsylvania/Senior-Technical-Specialist--Sample-Management_R102978) |
 
 ## About This Role
 
-This sales engineer position at Altasciences was posted on 2026-08-27.
+This it & systems administration position at Altasciences was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

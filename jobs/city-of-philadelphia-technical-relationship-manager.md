@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [City of Philadelphia](https://scoutify.ai/companies/city-of-philadelphia?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Philadelphia, Pennsylvania, United States |
-| Category | Sales Engineer |
+| Category | Program Manager |
 | Posted | 2026-08-27 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/cityofphiladelphia/744000145973416-technical-relationship-manager) |
 
 ## About This Role
 
-This sales engineer position at City of Philadelphia was posted on 2026-08-27.
+This program manager position at City of Philadelphia was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Zendesk](https://scoutify.ai/companies/zendesk?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | London, England, United Kingdom |
-| Category | Sales Leadership |
-| Posted | 2026-05-06 |
-| Apply | [View on company site](https://zendesk.wd1.myworkdayjobs.com/zendesk/job/London-United-Kingdom/Senior-Sales-Product-Specialist_R34105) |
+| Category | Sales Engineer |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://zendesk.wd1.myworkdayjobs.com/zendesk/job/London-United-Kingdom/Senior-Sales-Product-Specialist_R35380) |
 
 ## About This Role
 
-This sales leadership position at Zendesk was posted on 2026-05-06.
+This sales engineer position at Zendesk was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 
