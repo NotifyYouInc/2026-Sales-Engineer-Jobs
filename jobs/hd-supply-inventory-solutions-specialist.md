@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [HD Supply](https://scoutify.ai/companies/hdsupply?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | 2 locations |
-| Category | Sales Engineer |
+| Category | Business Analyst |
 | Posted | 2026-08-27 |
 | Apply | [View on company site](https://hdsupply.wd1.myworkdayjobs.com/External/job/Austin-TX-US/Inventory-Solutions-Specialist_R26004686) |
 
 ## About This Role
 
-This sales engineer position at HD Supply was posted on 2026-08-27.
+This business analyst position at HD Supply was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

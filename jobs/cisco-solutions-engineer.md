@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | 5 locations |
+| Location | 2 locations |
 | Category | Sales Engineer |
-| Posted | 2026-08-24 |
-| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/London-United-Kingdom/Solutions-Engineer_2021950-1) |
+| Posted | 2026-08-29 |
+| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Gurgaon-India/Solutions-Engineer_2020453) |
 
 ## About This Role
 
-This sales engineer position at Cisco was posted on 2026-08-24.
+This sales engineer position at Cisco was posted on 2026-08-29.
 
 ## Get Real-Time Alerts
 

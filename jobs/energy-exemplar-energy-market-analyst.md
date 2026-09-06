@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Energy Exemplar ](https://scoutify.ai/companies/energy-exemplar?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | United States |
-| Category | Sales Engineer |
+| Category | Business Analyst |
 | Posted | 2026-08-27 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/energyexemplarllc/jobs/4618193008) |
 
 ## About This Role
 
-This sales engineer position at Energy Exemplar  was posted on 2026-08-27.
+This business analyst position at Energy Exemplar  was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

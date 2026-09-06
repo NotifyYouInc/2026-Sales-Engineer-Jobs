@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Nexperia](https://scoutify.ai/companies/nexperia?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Munich, Bavaria, Germany |
-| Category | Software Engineer |
+| Category | Semiconductor / Chip Design |
 | Posted | 2026-08-27 |
 | Apply | [View on company site](https://nexperia.wd3.myworkdayjobs.com/careers/job/Munich/XMLNAME--Sr--Regional-Application-Engineer_R-20015349) |
 
 ## About This Role
 
-This software engineer position at Nexperia was posted on 2026-08-27.
+This semiconductor / chip design position at Nexperia was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Micron](https://scoutify.ai/companies/micron?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Singapore, Singapore |
-| Category | Sales Engineer |
+| Category | Semiconductor / Chip Design |
 | Posted | 2026-08-28 |
 | Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/MSB-Singapore/Intern--Test-Solutions-Engineer_JR106290) |
 
 ## About This Role
 
-This sales engineer position at Micron was posted on 2026-08-28.
+This semiconductor / chip design position at Micron was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

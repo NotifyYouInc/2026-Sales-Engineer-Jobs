@@ -6,7 +6,7 @@
 | Location | Bengaluru, Karnataka, India |
 | Category | Sales Engineer |
 | Posted | 2026-08-26 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=130528) |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=130580) |
 
 ## About This Role
 
