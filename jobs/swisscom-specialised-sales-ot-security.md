@@ -1,16 +1,16 @@
-# Technical Consultant at Elanco
+# Specialised Sales OT Security at Swisscom
 
 | Field | Details |
 |-------|---------|
-| Company | [Elanco](https://scoutify.ai/companies/elanco?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Auckland, Auckland, New Zealand |
+| Company | [Swisscom](https://scoutify.ai/companies/swisscom?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
+| Location | Lausanne, Vaud, Switzerland |
 | Category | Sales Engineer |
 | Posted | 2026-08-30 |
-| Apply | [View on company site](https://elanco.wd5.myworkdayjobs.com/External_Career/job/NZ---Auckland/Technical-Consultant_R0026927-1) |
+| Apply | [View on company site](https://swisscom.wd103.myworkdayjobs.com/swisscomexternalcareers/job/Lausanne/Specialised-Sales-OT-Security_R-0006157) |
 
 ## About This Role
 
-This sales engineer position at Elanco was posted on 2026-08-30.
+This sales engineer position at Swisscom was posted on 2026-08-30.
 
 ## Get Real-Time Alerts
 

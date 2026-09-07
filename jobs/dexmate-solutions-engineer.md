@@ -1,16 +1,16 @@
-# Sales Engineer at Freudenberg Group
+# Solutions Engineer at Dexmate
 
 | Field | Details |
 |-------|---------|
-| Company | [Freudenberg Group](https://scoutify.ai/companies/freudenberg?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Dalian, Liaoning, China |
+| Company | [Dexmate](https://scoutify.ai/companies/dexmate?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
+| Location | Fremont, California, United States |
 | Category | Sales Engineer |
 | Posted | 2026-08-31 |
-| Apply | [View on company site](https://freudenberg.wd3.myworkdayjobs.com/freudenberg-group/job/Dalian/Sales-Engineer_R_00106439) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/dexmate/a5f0f85d-0d7d-47b6-8168-8395f8200491) |
 
 ## About This Role
 
-This sales engineer position at Freudenberg Group was posted on 2026-08-31.
+This sales engineer position at Dexmate was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

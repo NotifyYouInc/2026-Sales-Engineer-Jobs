@@ -1,16 +1,16 @@
-# Technical Account Manager (TAM) at Legion
+# Technical Account Manager - German Speaker at Commvault
 
 | Field | Details |
 |-------|---------|
-| Company | [Legion](https://scoutify.ai/companies/legion?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Pune, Maharashtra, India |
+| Company | [Commvault](https://scoutify.ai/companies/commvault?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
+| Location | Cairo, Cairo, Egypt |
 | Category | Customer Success |
 | Posted | 2026-08-31 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/legion/jobs/7981582003) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/commvault/jobs/5399517008) |
 
 ## About This Role
 
-This customer success position at Legion was posted on 2026-08-31.
+This customer success position at Commvault was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

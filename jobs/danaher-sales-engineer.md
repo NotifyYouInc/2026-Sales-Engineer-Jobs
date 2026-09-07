@@ -5,12 +5,12 @@
 | Company | [Danaher](https://scoutify.ai/companies/danaher?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Beijing, Beijing, China |
 | Category | Sales Engineer |
-| Posted | 2026-07-13 |
-| Apply | [View on company site](https://danaher.wd1.myworkdayjobs.com/DanaherJobs/job/Beijing-China/Sales-Engineer_R1314814) |
+| Posted | 2026-08-31 |
+| Apply | [View on company site](https://danaher.wd1.myworkdayjobs.com/DanaherJobs/job/Beijing-China/Sales-Engineer_R1317784) |
 
 ## About This Role
 
-This sales engineer position at Danaher was posted on 2026-07-13.
+This sales engineer position at Danaher was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

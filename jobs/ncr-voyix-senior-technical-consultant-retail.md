@@ -1,16 +1,16 @@
-# Sales Engineer at Freudenberg Group
+# Senior Technical Consultant (Retail) at NCR Voyix
 
 | Field | Details |
 |-------|---------|
-| Company | [Freudenberg Group](https://scoutify.ai/companies/freudenberg?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Dalian, Liaoning, China |
+| Company | [NCR Voyix](https://scoutify.ai/companies/ncr-voyix?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
+| Location | Thailand |
 | Category | Sales Engineer |
 | Posted | 2026-08-31 |
-| Apply | [View on company site](https://freudenberg.wd3.myworkdayjobs.com/freudenberg-group/job/Dalian/Sales-Engineer_R_00106439) |
+| Apply | [View on company site](https://ncr.wd1.myworkdayjobs.com/ext_apac/job/THAILAND-VIRTUAL-THA/Senior-Technical-Consultant--Retail-_R0157894) |
 
 ## About This Role
 
-This sales engineer position at Freudenberg Group was posted on 2026-08-31.
+This sales engineer position at NCR Voyix was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

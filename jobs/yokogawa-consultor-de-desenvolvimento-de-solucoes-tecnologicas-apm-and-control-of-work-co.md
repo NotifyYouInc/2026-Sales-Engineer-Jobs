@@ -1,16 +1,16 @@
-# Technical Promotion Specialist at Yokogawa
+# CONSULTOR DE DESENVOLVIMENTO DE SOLUCOES TECNOLOGICAS (APM AND CONTROL OF WORK CONSULTANT) at Yokogawa
 
 | Field | Details |
 |-------|---------|
 | Company | [Yokogawa](https://scoutify.ai/companies/yokogawa?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Shanghai, Shanghai, China |
-| Category | Sales Engineer |
-| Posted | 2026-08-30 |
-| Apply | [View on company site](https://yokogawa.wd3.myworkdayjobs.com/yokogawa-career-site/job/Shanghai/Technical-Promotion-Specialist_R-12750) |
+| Location | São Paulo, São Paulo, Brazil |
+| Category | Product Manager |
+| Posted | 2026-08-31 |
+| Apply | [View on company site](https://yokogawa.wd3.myworkdayjobs.com/yokogawa-career-site/job/Sao-Paulo/CONSULTOR-DE-DESENVOLVIMENTO-DE-SOLUCOES-TECNOLOGICAS--APM-AND-CONTROL-OF-WORK-CONSULTANT-_R-12805) |
 
 ## About This Role
 
-This sales engineer position at Yokogawa was posted on 2026-08-30.
+This product manager position at Yokogawa was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Technical Consultant at Elanco
+# Senior Service Sales Engineer - Oil & Gas at ABB
 
 | Field | Details |
 |-------|---------|
-| Company | [Elanco](https://scoutify.ai/companies/elanco?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Auckland, Auckland, New Zealand |
+| Company | [ABB](https://scoutify.ai/companies/abb?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
+| Location | Saudi Arabia |
 | Category | Sales Engineer |
 | Posted | 2026-08-30 |
-| Apply | [View on company site](https://elanco.wd5.myworkdayjobs.com/External_Career/job/NZ---Auckland/Technical-Consultant_R0026927-1) |
+| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Al-Khobar-asch-Scharqiyya-Saudi-Arabia/Senior-Service-Sales-Engineer---Oil---Gas_JR00045338) |
 
 ## About This Role
 
-This sales engineer position at Elanco was posted on 2026-08-30.
+This sales engineer position at ABB was posted on 2026-08-30.
 
 ## Get Real-Time Alerts
 

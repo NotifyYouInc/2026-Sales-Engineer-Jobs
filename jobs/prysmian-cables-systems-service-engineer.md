@@ -1,16 +1,16 @@
-# Sales Engineer at Freudenberg Group
+# Service Engineer at Prysmian Cables & Systems
 
 | Field | Details |
 |-------|---------|
-| Company | [Freudenberg Group](https://scoutify.ai/companies/freudenberg?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Dalian, Liaoning, China |
+| Company | [Prysmian Cables & Systems](https://scoutify.ai/companies/prysmian-cables-systems?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
+| Location | Suzhou, Jiangsu, China |
 | Category | Sales Engineer |
 | Posted | 2026-08-31 |
-| Apply | [View on company site](https://freudenberg.wd3.myworkdayjobs.com/freudenberg-group/job/Dalian/Sales-Engineer_R_00106439) |
+| Apply | [View on company site](https://prysmiangroup.wd3.myworkdayjobs.com/careers/job/Suzhou/Service-Engineer_R-35972) |
 
 ## About This Role
 
-This sales engineer position at Freudenberg Group was posted on 2026-08-31.
+This sales engineer position at Prysmian Cables & Systems was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

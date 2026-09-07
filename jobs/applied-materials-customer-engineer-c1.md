@@ -1,16 +1,16 @@
-# Technical Account Manager (TAM) at Legion
+# Customer Engineer - C1 at Applied Materials
 
 | Field | Details |
 |-------|---------|
-| Company | [Legion](https://scoutify.ai/companies/legion?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Pune, Maharashtra, India |
+| Company | [Applied Materials](https://scoutify.ai/companies/applied-materials?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
+| Location | Wuxi, Jiangsu, China |
 | Category | Customer Success |
 | Posted | 2026-08-31 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/legion/jobs/7981582003) |
+| Apply | [View on company site](https://amat.wd1.myworkdayjobs.com/External/job/WuxiCHN/Customer-Engineer---C1_R2627636) |
 
 ## About This Role
 
-This customer success position at Legion was posted on 2026-08-31.
+This customer success position at Applied Materials was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

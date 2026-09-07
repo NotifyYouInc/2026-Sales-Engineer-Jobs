@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Blue Yonder](https://scoutify.ai/companies/jda?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Coimbatore, Tamil Nadu, India |
-| Category | Technology / IT Consulting |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://jda.wd5.myworkdayjobs.com/JDA_Careers/job/IND---Coimbatore-708/Sr-Technical-Consultant---Java--PLSQL--WMS_254692) |
+| Category | Software Engineer |
+| Posted | 2026-08-31 |
+| Apply | [View on company site](https://jda.wd5.myworkdayjobs.com/JDA_Careers/job/IND---Coimbatore-708/Sr-Technical-Consultant---Java--PLSQL--WMS_262739) |
 
 ## About This Role
 
-This technology / it consulting position at Blue Yonder was posted on 2026-02-26.
+This software engineer position at Blue Yonder was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

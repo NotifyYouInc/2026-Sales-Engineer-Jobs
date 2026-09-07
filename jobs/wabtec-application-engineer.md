@@ -1,16 +1,16 @@
-# Service Now Technical Consultant at Robert Bosch
+# Application Engineer at Wabtec
 
 | Field | Details |
 |-------|---------|
-| Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Coimbatore, Tamil Nadu, India |
+| Company | [Wabtec](https://scoutify.ai/companies/wabtec?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
+| Location | Pune, Maharashtra, India |
 | Category | Software Engineer |
 | Posted | 2026-08-31 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000146393189-service-now-technical-consultant) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Wabtec/3743990014942856-application-engineer) |
 
 ## About This Role
 
-This software engineer position at Robert Bosch was posted on 2026-08-31.
+This software engineer position at Wabtec was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Copeland](https://scoutify.ai/companies/copeland?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | 2 locations |
+| Location | Guangzhou, Guangdong, China |
 | Category | Sales Engineer |
-| Posted | 2026-05-29 |
-| Apply | [View on company site](https://copeland.wd5.myworkdayjobs.com/copeland_external_careers_page/job/Kennesaw-GA-USA/Technical-Sales-Engineer_JR114792) |
+| Posted | 2026-08-31 |
+| Apply | [View on company site](https://copeland.wd5.myworkdayjobs.com/copeland_external_careers_page/job/Guangzhou-China/Technical-Sales-Engineer_JR117520) |
 
 ## About This Role
 
-This sales engineer position at Copeland was posted on 2026-05-29.
+This sales engineer position at Copeland was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

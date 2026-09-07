@@ -1,16 +1,16 @@
-# Sales Engineer at Freudenberg Group
+# Technical Consultant - Cardiometabolic at Abbott
 
 | Field | Details |
 |-------|---------|
-| Company | [Freudenberg Group](https://scoutify.ai/companies/freudenberg?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Dalian, Liaoning, China |
+| Company | [Abbott](https://scoutify.ai/companies/abbott-laboratories?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
+| Location | 40 locations |
 | Category | Sales Engineer |
 | Posted | 2026-08-31 |
-| Apply | [View on company site](https://freudenberg.wd3.myworkdayjobs.com/freudenberg-group/job/Dalian/Sales-Engineer_R_00106439) |
+| Apply | [View on company site](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States-of-America--Remote/Technical-Consultant---Cardiometabolic_31160459-1) |
 
 ## About This Role
 
-This sales engineer position at Freudenberg Group was posted on 2026-08-31.
+This sales engineer position at Abbott was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

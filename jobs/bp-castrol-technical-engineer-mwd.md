@@ -1,16 +1,16 @@
-# Sales Engineer at Freudenberg Group
+# Castrol: Technical Engineer (m/w/d) at BP
 
 | Field | Details |
 |-------|---------|
-| Company | [Freudenberg Group](https://scoutify.ai/companies/freudenberg?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Dalian, Liaoning, China |
+| Company | [BP](https://scoutify.ai/companies/bpinternational?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
+| Location | Germany |
 | Category | Sales Engineer |
 | Posted | 2026-08-31 |
-| Apply | [View on company site](https://freudenberg.wd3.myworkdayjobs.com/freudenberg-group/job/Dalian/Sales-Engineer_R_00106439) |
+| Apply | [View on company site](https://bpinternational.wd3.myworkdayjobs.com/bpCareers/job/Germany---Remote/Castrol--Technical-Engineer--m-w-d-_RQ115226) |
 
 ## About This Role
 
-This sales engineer position at Freudenberg Group was posted on 2026-08-31.
+This sales engineer position at BP was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

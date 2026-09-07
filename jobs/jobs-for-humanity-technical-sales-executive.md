@@ -1,16 +1,16 @@
-# Technical Consultant at Elanco
+# Technical Sales Executive at Jobs for Humanity
 
 | Field | Details |
 |-------|---------|
-| Company | [Elanco](https://scoutify.ai/companies/elanco?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Auckland, Auckland, New Zealand |
+| Company | [Jobs for Humanity](https://scoutify.ai/companies/jobs-for-humanity?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
+| Location | Rabat, Rabat-Salé-Kénitra, Morocco |
 | Category | Sales Engineer |
 | Posted | 2026-08-30 |
-| Apply | [View on company site](https://elanco.wd5.myworkdayjobs.com/External_Career/job/NZ---Auckland/Technical-Consultant_R0026927-1) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/jobsforhumanity/744000146350529-technical-sales-executive) |
 
 ## About This Role
 
-This sales engineer position at Elanco was posted on 2026-08-30.
+This sales engineer position at Jobs for Humanity was posted on 2026-08-30.
 
 ## Get Real-Time Alerts
 

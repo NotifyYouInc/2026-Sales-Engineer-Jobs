@@ -1,16 +1,16 @@
-# Technical Account Manager (TAM) at Legion
+# Product Specialist at BP
 
 | Field | Details |
 |-------|---------|
-| Company | [Legion](https://scoutify.ai/companies/legion?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Pune, Maharashtra, India |
-| Category | Customer Success |
+| Company | [BP](https://scoutify.ai/companies/bpinternational?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
+| Location | Pudong, Shanghai, China |
+| Category | Marketing |
 | Posted | 2026-08-31 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/legion/jobs/7981582003) |
+| Apply | [View on company site](https://bpinternational.wd3.myworkdayjobs.com/bpCareers/job/China---Pudong/Product-Specialist_RQ115312) |
 
 ## About This Role
 
-This customer success position at Legion was posted on 2026-08-31.
+This marketing position at BP was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

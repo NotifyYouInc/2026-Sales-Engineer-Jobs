@@ -1,16 +1,16 @@
-# Senior Sales Engineer at Alteryx
+# Global Commercial Partnership Solutions Specialist, GMPT, TikTok Australia at TikTok
 
 | Field | Details |
 |-------|---------|
-| Company | [Alteryx](https://scoutify.ai/companies/alteryx?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
+| Company | [TikTok](https://scoutify.ai/companies/tiktok?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Sydney, New South Wales, Australia |
-| Category | Sales Engineer |
+| Category | Sales |
 | Posted | 2026-08-31 |
-| Apply | [View on company site](https://alteryx.wd108.myworkdayjobs.com/alteryxcareers/job/Sydney-Australia/Senior-Sales-Engineer_R12405) |
+| Apply | [View on company site](https://careers.tiktok.com/position/7680018614349515013/detail) |
 
 ## About This Role
 
-This sales engineer position at Alteryx was posted on 2026-08-31.
+This sales position at TikTok was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

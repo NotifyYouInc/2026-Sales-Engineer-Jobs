@@ -1,16 +1,16 @@
-# Technical Account Manager (TAM) at Legion
+# Associate Technical Account Manager at Adjust
 
 | Field | Details |
 |-------|---------|
-| Company | [Legion](https://scoutify.ai/companies/legion?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Pune, Maharashtra, India |
+| Company | [Adjust](https://scoutify.ai/companies/adjustjobs?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
+| Location | Beijing, Beijing, China |
 | Category | Customer Success |
 | Posted | 2026-08-31 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/legion/jobs/7981582003) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/adjustjobs/jobs/4707708006) |
 
 ## About This Role
 
-This customer success position at Legion was posted on 2026-08-31.
+This customer success position at Adjust was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

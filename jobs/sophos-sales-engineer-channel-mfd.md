@@ -1,16 +1,16 @@
-# Sales Engineer at Freudenberg Group
+# Sales Engineer - Channel (m/f/d) at Sophos
 
 | Field | Details |
 |-------|---------|
-| Company | [Freudenberg Group](https://scoutify.ai/companies/freudenberg?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Dalian, Liaoning, China |
+| Company | [Sophos](https://scoutify.ai/companies/sophos?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
+| Location | Germany |
 | Category | Sales Engineer |
 | Posted | 2026-08-31 |
-| Apply | [View on company site](https://freudenberg.wd3.myworkdayjobs.com/freudenberg-group/job/Dalian/Sales-Engineer_R_00106439) |
+| Apply | [View on company site](https://jobs.lever.co/sophos/360a1471-3838-4feb-bfd9-d9d8a0a6477f) |
 
 ## About This Role
 
-This sales engineer position at Freudenberg Group was posted on 2026-08-31.
+This sales engineer position at Sophos was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 
