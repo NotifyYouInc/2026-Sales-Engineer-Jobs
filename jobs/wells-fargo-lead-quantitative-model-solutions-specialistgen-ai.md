@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Data Scientist |
+| Category | Sales Engineer |
 | Posted | 2026-08-28 |
 | Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Bengaluru-India/Lead-Quantitative-Model-Solutions-Specialist-Gen-AI-_R-569145-1) |
 
 ## About This Role
 
-This data scientist position at Wells Fargo was posted on 2026-08-28.
+This sales engineer position at Wells Fargo was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

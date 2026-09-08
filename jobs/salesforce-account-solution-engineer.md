@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Salesforce](https://scoutify.ai/companies/salesforce?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | 2 locations |
+| Location | Santiago, Santiago Metropolitan, Chile |
 | Category | Sales Engineer |
-| Posted | 2026-08-26 |
-| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Florida---Tampa-Metro---Remote/Account-Solution-Engineer_JR357413) |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Chile---Santiago/Account-Solution-Engineer_JR357584) |
 
 ## About This Role
 
-This sales engineer position at Salesforce was posted on 2026-08-26.
+This sales engineer position at Salesforce was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Cloudflare](https://scoutify.ai/companies/cloudflare?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Singapore, Singapore |
-| Category | Technical & Solutions Architect |
-| Posted | 2026-06-03 |
-| Apply | [View on company site](https://boards.greenhouse.io/cloudflare/jobs/7976246?gh_jid=7976246) |
+| Category | Sales Engineer |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://boards.greenhouse.io/cloudflare/jobs/8158614?gh_jid=8158614) |
 
 ## About This Role
 
-This technical & solutions architect position at Cloudflare was posted on 2026-06-03.
+This sales engineer position at Cloudflare was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

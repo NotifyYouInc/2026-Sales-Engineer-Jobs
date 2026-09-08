@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Imprint](https://scoutify.ai/companies/imprint?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | 2 locations |
-| Category | Technical Writer |
-| Posted | 2026-02-24 |
+| Location | San Francisco, California, United States |
+| Category | Sales Engineer |
+| Posted | 2026-08-31 |
 | Apply | [View on company site](https://jobs.ashbyhq.com/imprint/332aa0e9-46b5-4f89-bee8-3e63362d3056) |
 
 ## About This Role
 
-This technical writer position at Imprint was posted on 2026-02-24.
+This sales engineer position at Imprint was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

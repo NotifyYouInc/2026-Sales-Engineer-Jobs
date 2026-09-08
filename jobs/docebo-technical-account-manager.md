@@ -5,12 +5,12 @@
 | Company | [Docebo](https://scoutify.ai/companies/docebo?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Toronto, Ontario, Canada |
 | Category | Customer Success |
-| Posted | 2026-06-01 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/docebo/77dce002-c0cd-4008-9eb5-069868fab1cc) |
+| Posted | 2026-08-31 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/docebo/4c36ab93-24b2-4be1-8587-255b127c897e) |
 
 ## About This Role
 
-This customer success position at Docebo was posted on 2026-06-01.
+This customer success position at Docebo was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

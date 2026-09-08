@@ -5,12 +5,12 @@
 | Company | [Fortinet](https://scoutify.ai/companies/us2-cx-oj39798?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Utrecht, Utrecht, The Netherlands |
 | Category | Sales Engineer |
-| Posted | 2026-08-10 |
-| Apply | [View on company site](https://edel.fa.us2.oraclecloud.com/jobs/#23759) |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://edel.fa.us2.oraclecloud.com/jobs/#23964) |
 
 ## About This Role
 
-This sales engineer position at Fortinet was posted on 2026-08-10.
+This sales engineer position at Fortinet was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

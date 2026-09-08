@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | 3 locations |
+| Location | Pierre, South Dakota, United States |
 | Category | Sales Engineer |
-| Posted | 2026-07-08 |
-| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/San-Jose-California-US/Solutions-Engineer---SLED_2014813-1) |
+| Posted | 2026-08-31 |
+| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Pierre-South-Dakota-US/Solutions-Engineer---SLED_2023582) |
 
 ## About This Role
 
-This sales engineer position at Cisco was posted on 2026-07-08.
+This sales engineer position at Cisco was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

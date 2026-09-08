@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | London, England, United Kingdom |
-| Category | Technical & Solutions Architect |
-| Posted | 2026-07-29 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckTyQfa1g5xIHpZwiJ7uZuQTwA8XtAEKWgnnE9sJy-AFvEjsA1Ny_i6EqEiCtyJwPxVNwqTl6yq3FuuqojqvKXvDZbpx6IeDE46s2LtqWd2hoQdMMMJZYAhKB-GEm_w%3D%3D_V2&loc=GB&title=Senior+Customer+Solutions+Engineer) |
+| Category | Software Engineer |
+| Posted | 2026-08-31 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2Fcke1LYl5miQSoXQaYA8BsIj1QeGlShlfRirfsLaO3sMfpEjsA1Ny_izuONi3Shcwzcgnvk64DYBCWGsPG1FaXQGaw7GTYbms_8hQVjvMgi3waf0d2vFBzt8g7JFy2TA%3D%3D_V2&loc=GB&title=Senior+Customer+Solutions+Engineer) |
 
 ## About This Role
 
-This technical & solutions architect position at Google was posted on 2026-07-29.
+This software engineer position at Google was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Baker Hughes](https://scoutify.ai/companies/baker-hughes?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Florence, Tuscany, Italy |
 | Category | Software Engineer |
-| Posted | 2026-08-24 |
-| Apply | [View on company site](https://bakerhughes.wd5.myworkdayjobs.com/BakerHughes/job/IT-FI-FLORENCE-VIA-FELICE-MATTEUCCI-2/CSA-Customer-Application-Engineer--M-F-D-_R166547) |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://bakerhughes.wd5.myworkdayjobs.com/BakerHughes/job/IT-FI-FLORENCE-VIA-FELICE-MATTEUCCI-2/CSA-Customer-Application-Engineer--M-F-D-_R167586-1) |
 
 ## About This Role
 
-This software engineer position at Baker Hughes was posted on 2026-08-24.
+This software engineer position at Baker Hughes was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

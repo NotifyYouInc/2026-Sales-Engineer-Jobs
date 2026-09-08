@@ -5,12 +5,12 @@
 | Company | [Ncratleos](https://scoutify.ai/companies/ncratleos?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | India |
 | Category | Customer Success |
-| Posted | 2026-08-27 |
-| Apply | [View on company site](https://ncratleos.wd1.myworkdayjobs.com/ext_apacatleos/job/INDIA-VIRTUAL-IND/Customer-Engineer_R1154438) |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://ncratleos.wd1.myworkdayjobs.com/ext_apacatleos/job/INDIA-VIRTUAL-IND/Customer-Engineer_R1154473) |
 
 ## About This Role
 
-This customer success position at Ncratleos was posted on 2026-08-27.
+This customer success position at Ncratleos was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Smith+Nephew](https://scoutify.ai/companies/smithnephew?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | 3 locations |
-| Category | Business Development |
-| Posted | 2026-05-10 |
-| Apply | [View on company site](https://smithnephew.wd5.myworkdayjobs.com/External/job/ITA---Field/Product-Specialist_R89978) |
+| Location | United Arab Emirates |
+| Category | Sales Engineer |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://smithnephew.wd5.myworkdayjobs.com/External/job/UAE---Field/Product-Specialist_R91254) |
 
 ## About This Role
 
-This business development position at Smith+Nephew was posted on 2026-05-10.
+This sales engineer position at Smith+Nephew was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mimecast](https://scoutify.ai/companies/mimecast?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Lexington, Kentucky, United States |
+| Location | Colorado, US |
 | Category | Sales Engineer |
-| Posted | 2026-07-14 |
-| Apply | [View on company site](https://mimecast.wd5.myworkdayjobs.com/Mimecast-Careers/job/United-States-of-America---Massachusetts---Lexington/Sales-Engineer_R6538-1) |
+| Posted | 2026-08-31 |
+| Apply | [View on company site](https://mimecast.wd5.myworkdayjobs.com/Mimecast-Careers/job/United-States-of-America---Colorado---Remote/Sales-Engineer_R6684-1) |
 
 ## About This Role
 
-This sales engineer position at Mimecast was posted on 2026-07-14.
+This sales engineer position at Mimecast was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

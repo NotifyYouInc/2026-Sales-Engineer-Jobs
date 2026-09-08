@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Hitachi](https://scoutify.ai/companies/hitachi?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | 2 locations |
+| Location | Jakarta, Jakarta, Indonesia |
 | Category | Sales Engineer |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Vaasa-Ostrobothnia-Finland/Service-Tendering-Specialist_R0128283) |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Jakarta-Jakarta-Raya-Indonesia/Service-Tendering-Specialist_R0137089) |
 
 ## About This Role
 
-This sales engineer position at Hitachi was posted on 2026-05-05.
+This sales engineer position at Hitachi was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

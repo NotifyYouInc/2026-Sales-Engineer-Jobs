@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ServiceNow](https://scoutify.ai/companies/servicenow?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | 3 locations |
-| Category | Customer Success |
-| Posted | 2026-06-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000132694169-senior-advisory-solution-consultant-moveworks-energy-transportation-core-services) |
+| Location | Austin, Texas, United States |
+| Category | Sales Engineer |
+| Posted | 2026-08-31 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000146514879-senior-advisory-solution-consultant-moveworks-energy-transportation-core-services) |
 
 ## About This Role
 
-This customer success position at ServiceNow was posted on 2026-06-17.
+This sales engineer position at ServiceNow was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

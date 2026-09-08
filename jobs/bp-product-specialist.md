@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [BP](https://scoutify.ai/companies/bpinternational?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Pudong, Shanghai, China |
-| Category | Marketing |
+| Category | Sales Engineer |
 | Posted | 2026-08-31 |
 | Apply | [View on company site](https://bpinternational.wd3.myworkdayjobs.com/bpCareers/job/China---Pudong/Product-Specialist_RQ115312) |
 
 ## About This Role
 
-This marketing position at BP was posted on 2026-08-31.
+This sales engineer position at BP was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

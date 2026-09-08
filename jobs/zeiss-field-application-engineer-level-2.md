@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Zeiss](https://scoutify.ai/companies/zeissgroup?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Bloomfield, New Jersey, United States |
-| Category | Sales Engineer |
-| Posted | 2026-08-06 |
-| Apply | [View on company site](https://zeissgroup.wd3.myworkdayjobs.com/External/job/Bloomfield/Field-Application-Engineer-Level-2_JR_1050948) |
+| Location | Wixom, Michigan, United States |
+| Category | Software Engineer |
+| Posted | 2026-08-31 |
+| Apply | [View on company site](https://zeissgroup.wd3.myworkdayjobs.com/External/job/Wixom-MI/Field-Application-Engineer-Level-2_JR_1052175) |
 
 ## About This Role
 
-This sales engineer position at Zeiss was posted on 2026-08-06.
+This software engineer position at Zeiss was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

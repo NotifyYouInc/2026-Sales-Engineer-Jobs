@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
+| Location | Kuala Lumpur, MY |
 | Category | Customer Success |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/3201764/technical-account-manager-enterprise-support-aws-enterprise-support-asean) |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10523293/technical-account-manager-enterprise-support-aws-enterprise-support-asean) |
 
 ## About This Role
 
-This customer success position at Amazon was posted on 2026-03-11.
+This customer success position at Amazon was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

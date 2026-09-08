@@ -1,16 +1,16 @@
-# Senior  Technical Account Manager at Docker
+# Senior Technical Account Manager  at Docker
 
 | Field | Details |
 |-------|---------|
 | Company | [Docker](https://scoutify.ai/companies/docker?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Canada |
-| Category | Customer Success |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/docker/e5fde053-9d0c-4455-bbf3-a71b69d7394a) |
+| Category | Sales |
+| Posted | 2026-08-31 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/docker/8fba5588-e4cf-449f-b953-74f7985863cd) |
 
 ## About This Role
 
-This customer success position at Docker was posted on 2026-04-21.
+This sales position at Docker was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

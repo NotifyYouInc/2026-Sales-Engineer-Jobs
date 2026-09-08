@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Applied Materials](https://scoutify.ai/companies/applied-materials?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Hsinchu, Taiwan, Taiwan |
+| Location | 3 locations |
 | Category | Sales Engineer |
-| Posted | 2026-08-12 |
-| Apply | [View on company site](https://amat.wd1.myworkdayjobs.com/External/job/HsinchuTWN/Manager-III--Customer-Engineer_R2625796) |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://amat.wd1.myworkdayjobs.com/External/job/YokkaichiJPN/Manager-III--Customer-Engineer_R2627571) |
 
 ## About This Role
 
-This sales engineer position at Applied Materials was posted on 2026-08-12.
+This sales engineer position at Applied Materials was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

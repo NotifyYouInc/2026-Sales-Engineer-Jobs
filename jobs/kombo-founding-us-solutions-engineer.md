@@ -5,12 +5,12 @@
 | Company | [Kombo](https://scoutify.ai/companies/kombo?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | New York City, New York, United States |
 | Category | Sales Engineer |
-| Posted | 2026-08-04 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/kombo/a5cadc7c-f096-4ff3-8e7b-240875b39d2a) |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/kombo/7fdb3082-322c-4278-b109-323fd2aa26f2) |
 
 ## About This Role
 
-This sales engineer position at Kombo was posted on 2026-08-04.
+This sales engineer position at Kombo was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

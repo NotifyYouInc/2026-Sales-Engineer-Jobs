@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Vanderlande Industries](https://scoutify.ai/companies/vanderlande-industries?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Marietta, Georgia, United States |
+| Location | Veghel, North Brabant, The Netherlands |
 | Category | Sales Engineer |
-| Posted | 2026-07-30 |
-| Apply | [View on company site](https://vanderlande.wd3.myworkdayjobs.com/careers/job/Marietta-GA-USA/Group-Leader-Sales-Engineering---Bid-Manager_JR37457) |
+| Posted | 2026-08-31 |
+| Apply | [View on company site](https://vanderlande.wd3.myworkdayjobs.com/careers/job/Veghel/Group-Leader-Sales-Engineering---Bid-Manager_JR37488-2) |
 
 ## About This Role
 
-This sales engineer position at Vanderlande Industries was posted on 2026-07-30.
+This sales engineer position at Vanderlande Industries was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

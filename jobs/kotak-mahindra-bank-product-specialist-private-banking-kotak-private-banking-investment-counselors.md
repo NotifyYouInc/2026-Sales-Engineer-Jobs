@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Kotak Mahindra Bank](https://scoutify.ai/companies/em2-cx-oj60191?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Mumbai, Maharashtra, India |
-| Category | Sales Engineer |
-| Posted | 2026-07-10 |
-| Apply | [View on company site](https://hcbt.fa.em2.oraclecloud.com/jobs/#246133) |
+| Category | Corporate Finance |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://hcbt.fa.em2.oraclecloud.com/jobs/#255604) |
 
 ## About This Role
 
-This sales engineer position at Kotak Mahindra Bank was posted on 2026-07-10.
+This corporate finance position at Kotak Mahindra Bank was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Medtronic](https://scoutify.ai/companies/medtronic?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Dijon, Bourgogne, France |
+| Location | Paris, Île-de-France, France |
 | Category | Sales Engineer |
-| Posted | 2026-06-11 |
-| Apply | [View on company site](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Dijon-Cte-dOr-France/Ingnieur-d-Application-F-H_R68329-2) |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Paris-le-de-France-France/Ingnieur-d-Application-F-H_R76140-1) |
 
 ## About This Role
 
-This sales engineer position at Medtronic was posted on 2026-06-11.
+This sales engineer position at Medtronic was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 
