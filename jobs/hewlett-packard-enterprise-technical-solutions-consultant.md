@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Hewlett Packard Enterprise](https://scoutify.ai/companies/hewlett-packard-enterprise?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Tunisia |
 | Category | Customer Success |
-| Posted | 2026-05-20 |
-| Apply | [View on company site](https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/Bengaluru-Karntaka-India/Technical-Solutions-Consultant_1205559) |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/Ariana-Ariana-Tunisia/Technical-Solutions-Consultant_1210414) |
 
 ## About This Role
 
-This customer success position at Hewlett Packard Enterprise was posted on 2026-05-20.
+This customer success position at Hewlett Packard Enterprise was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Infobip](https://scoutify.ai/companies/infobip?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Milan, Lombardy, Italy |
+| Location | Santiago, Santiago Metropolitan, Chile |
 | Category | Sales Engineer |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://infobip.wd3.myworkdayjobs.com/infobipcareers/job/Milan-Italy/Solution-Engineer-Associate_JR104471) |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://infobip.wd3.myworkdayjobs.com/infobipcareers/job/Santiago-de-Chile-Chile/Solution-Engineer-Associate_JR104924) |
 
 ## About This Role
 
-This sales engineer position at Infobip was posted on 2026-04-30.
+This sales engineer position at Infobip was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

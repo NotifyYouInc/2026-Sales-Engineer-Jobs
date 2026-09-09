@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [DXC Technology](https://scoutify.ai/companies/dxctechnology?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Macquarie Park, New South Wales, Australia |
-| Category | Sales Engineer |
-| Posted | 2026-08-18 |
-| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/AUS---NSW---MACQUARIE-PARK/Technical-Account-Manager_51587233) |
+| Location | London, England, United Kingdom |
+| Category | Sales |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/GBR---ENG---LONDON/Technical-Account-Manager_51588273) |
 
 ## About This Role
 
-This sales engineer position at DXC Technology was posted on 2026-08-18.
+This sales position at DXC Technology was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

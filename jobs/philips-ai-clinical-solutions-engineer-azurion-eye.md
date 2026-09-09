@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Philips](https://scoutify.ai/companies/philips?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Asheville, North Carolina, United States |
-| Category | Sales Engineer |
+| Category | Machine Learning Engineer |
 | Posted | 2026-08-31 |
 | Apply | [View on company site](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Asheville-North-Carolina-United-States/AI-Clinical-Solutions-Engineer---Azurion-Eye_588764-1) |
 
 ## About This Role
 
-This sales engineer position at Philips was posted on 2026-08-31.
+This machine learning engineer position at Philips was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

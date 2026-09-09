@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Intel](https://scoutify.ai/companies/intel?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Hillsboro, Oregon, United States |
-| Category | Sales Engineer |
+| Category | Machine Learning Engineer |
 | Posted | 2026-08-31 |
 | Apply | [View on company site](https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/AI-Solutions-Engineering-Graduate-Intern_JR0286546) |
 
 ## About This Role
 
-This sales engineer position at Intel was posted on 2026-08-31.
+This machine learning engineer position at Intel was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

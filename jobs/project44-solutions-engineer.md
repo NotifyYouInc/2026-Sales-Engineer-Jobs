@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [project44](https://scoutify.ai/companies/project44?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Chicago, Illinois, United States |
-| Category | Technical & Solutions Architect |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/project44/jobs/7650314) |
+| Location | Hamburg, Hamburg, Germany |
+| Category | Sales Engineer |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/project44/jobs/8164703) |
 
 ## About This Role
 
-This technical & solutions architect position at project44 was posted on 2026-04-13.
+This sales engineer position at project44 was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

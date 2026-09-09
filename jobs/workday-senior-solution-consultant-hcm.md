@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Workday](https://scoutify.ai/companies/workday?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Melbourne, Victoria, Australia |
+| Location | Auckland, Auckland, New Zealand |
 | Category | Sales Engineer |
-| Posted | 2026-08-26 |
-| Apply | [View on company site](https://workday.wd5.myworkdayjobs.com/Workday/job/Australia-VIC-Melbourne/Senior-Solution-Consultant---HCM_JR-0108614) |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://workday.wd5.myworkdayjobs.com/Workday/job/New-Zealand-Auckland/Senior-Solution-Consultant---HCM_JR-0109772) |
 
 ## About This Role
 
-This sales engineer position at Workday was posted on 2026-08-26.
+This sales engineer position at Workday was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cohesity](https://scoutify.ai/companies/cohesity?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | California, US |
+| Location | Iowa, US |
 | Category | Sales Engineer |
-| Posted | 2026-08-24 |
-| Apply | [View on company site](https://cohesity.wd5.myworkdayjobs.com/Cohesity_Careers/job/USA---California---Remote/Senior-Sales-Engineer_R04467) |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://cohesity.wd5.myworkdayjobs.com/Cohesity_Careers/job/USA---Illinois---Remote/Senior-Sales-Engineer_R04424-1) |
 
 ## About This Role
 
-This sales engineer position at Cohesity was posted on 2026-08-24.
+This sales engineer position at Cohesity was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

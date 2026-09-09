@@ -5,12 +5,12 @@
 | Company | [Blue Yonder](https://scoutify.ai/companies/jda?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Coimbatore, Tamil Nadu, India |
 | Category | IT & Systems Administration |
-| Posted | 2026-08-26 |
-| Apply | [View on company site](https://jda.wd5.myworkdayjobs.com/JDA_Careers/job/IND---Coimbatore-708/IN-Technical-Consultant---Cloud_261936) |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://jda.wd5.myworkdayjobs.com/JDA_Careers/job/IND---Coimbatore-708/IN-Technical-Consultant---Cloud_261945) |
 
 ## About This Role
 
-This it & systems administration position at Blue Yonder was posted on 2026-08-26.
+This it & systems administration position at Blue Yonder was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

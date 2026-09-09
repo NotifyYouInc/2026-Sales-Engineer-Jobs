@@ -1,16 +1,16 @@
-# Senior Pre- Sales Engineer at Exclusivenetworks
+# Senior Pre-Sales Engineer at Exclusivenetworks
 
 | Field | Details |
 |-------|---------|
 | Company | [Exclusivenetworks](https://scoutify.ai/companies/exclusivenetworks?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Singapore, Singapore |
+| Location | Hong Kong, Hong Kong |
 | Category | Sales Engineer |
-| Posted | 2026-08-04 |
-| Apply | [View on company site](https://exclusivenetworks.wd103.myworkdayjobs.com/exclusive-networks-career/job/Singapore/Senior-Pre--Sales-Engineer_JR2311-1) |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://exclusivenetworks.wd103.myworkdayjobs.com/exclusive-networks-career/job/Hong-Kong/Senior-Pre-Sales-Engineer-Manager_JR2420-1) |
 
 ## About This Role
 
-This sales engineer position at Exclusivenetworks was posted on 2026-08-04.
+This sales engineer position at Exclusivenetworks was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

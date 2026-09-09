@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wunderlich-Malec Engineering](https://scoutify.ai/companies/wunderlich-malec-engineering?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Richmond, Virginia, United States |
+| Location | Cherry Hill, New Jersey, United States |
 | Category | Sales Engineer |
-| Posted | 2026-07-28 |
-| Apply | [View on company site](https://recruiting2.ultipro.com/wun1002wnd/JobBoard/cf373efc-2fad-42c7-b3ea-efbff4360573/OpportunityDetail?opportunityId=4e0f53cf-c11d-4cff-a159-e4448d4cdf7f) |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://recruiting2.ultipro.com/wun1002wnd/JobBoard/cf373efc-2fad-42c7-b3ea-efbff4360573/OpportunityDetail?opportunityId=e7039934-588e-4bbe-8822-b9cadd00e614) |
 
 ## About This Role
 
-This sales engineer position at Wunderlich-Malec Engineering was posted on 2026-07-28.
+This sales engineer position at Wunderlich-Malec Engineering was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

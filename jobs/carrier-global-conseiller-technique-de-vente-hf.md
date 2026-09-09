@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Carrier Global](https://scoutify.ai/companies/carrier?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | France |
+| Location | Massy, Île-de-France, France |
 | Category | Sales Engineer |
-| Posted | 2026-06-24 |
-| Apply | [View on company site](https://carrier.wd5.myworkdayjobs.com/jobs/job/655-alle-des-Parcs---Btiment-B--69-800-Saint-Priest/Conseiller-technique-de-vente-H-F_30208986) |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://carrier.wd5.myworkdayjobs.com/jobs/job/1416-Avenue-Carnot-91300-Massy-France/Conseiller-technique-de-vente-H-F_30217325) |
 
 ## About This Role
 
-This sales engineer position at Carrier Global was posted on 2026-06-24.
+This sales engineer position at Carrier Global was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

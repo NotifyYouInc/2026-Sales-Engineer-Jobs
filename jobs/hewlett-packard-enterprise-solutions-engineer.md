@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Hewlett Packard Enterprise](https://scoutify.ai/companies/hewlett-packard-enterprise?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | 2 locations |
-| Category | Sales Engineer |
-| Posted | 2026-03-12 |
-| Apply | [View on company site](https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/Sofia-Sofia-Bulgaria/Solutions-Engineer_1201769-1) |
+| Location | Bengaluru, Karnataka, India |
+| Category | Software Engineer |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/Bengaluru-Karntaka-India/Solutions-Engineer_1210909) |
 
 ## About This Role
 
-This sales engineer position at Hewlett Packard Enterprise was posted on 2026-03-12.
+This software engineer position at Hewlett Packard Enterprise was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

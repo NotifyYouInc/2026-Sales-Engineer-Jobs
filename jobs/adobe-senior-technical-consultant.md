@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Adobe](https://scoutify.ai/companies/adobe-inc?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Customer Success |
-| Posted | 2026-04-27 |
-| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bangalore/Senior-Technical-Consultant_R168104) |
+| Category | Sales Engineer |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bangalore/Senior-Technical-Consultant_R171578) |
 
 ## About This Role
 
-This customer success position at Adobe was posted on 2026-04-27.
+This sales engineer position at Adobe was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

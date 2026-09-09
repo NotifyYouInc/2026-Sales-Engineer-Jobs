@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Clarivate](https://scoutify.ai/companies/clarivate?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Ann Arbor, Michigan, United States |
-| Category | Sales Engineer |
-| Posted | 2026-07-15 |
-| Apply | [View on company site](https://clarivate.wd3.myworkdayjobs.com/clarivate_careers/job/R186--Ann-Arbor/Implementation-Consultant--Intellectual-Property-_JREQ136036-1) |
+| Location | 6 locations |
+| Category | Customer Success |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://clarivate.wd3.myworkdayjobs.com/clarivate_careers/job/R186--Ann-Arbor/Implementation-Consultant--Intellectual-Property-_JREQ136031-1) |
 
 ## About This Role
 
-This sales engineer position at Clarivate was posted on 2026-07-15.
+This customer success position at Clarivate was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

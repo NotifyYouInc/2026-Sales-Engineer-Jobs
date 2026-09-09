@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cummins](https://scoutify.ai/companies/ocs-cx-oj27349?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Columbus, Ohio, United States |
+| Location | Beijing, Beijing, China |
 | Category | Sales Engineer |
-| Posted | 2026-08-10 |
-| Apply | [View on company site](https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/jobs/#2431198) |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/jobs/#2436104) |
 
 ## About This Role
 
-This sales engineer position at Cummins was posted on 2026-08-10.
+This sales engineer position at Cummins was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

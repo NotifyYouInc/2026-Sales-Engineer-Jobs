@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Hitachi](https://scoutify.ai/companies/hitachi?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Stoney Creek, Ontario, Canada |
-| Category | Sales Engineer |
-| Posted | 2026-08-05 |
-| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Stoney-Creek-Ontario-Canada/Global-Product-Specialist_R0122008) |
+| Location | Västerås, Västmanland, Sweden |
+| Category | Product Manager |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Vaesteras-Vastmanland-County-Sweden/Global-Product-Specialist_R0143234) |
 
 ## About This Role
 
-This sales engineer position at Hitachi was posted on 2026-08-05.
+This product manager position at Hitachi was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

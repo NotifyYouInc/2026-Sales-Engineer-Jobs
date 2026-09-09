@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Seco Tools](https://scoutify.ai/companies/seco-tools?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Istanbul, Istanbul, Turkey |
+| Location | West Palm Beach, Florida, United States |
 | Category | Sales Engineer |
-| Posted | 2026-08-26 |
-| Apply | [View on company site](https://sandvik.wd3.myworkdayjobs.com/seco-jobs/job/Trkiye-Istanbul/Technical-Sales-Engineer_R0092055-1) |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://sandvik.wd3.myworkdayjobs.com/seco-jobs/job/USA-FL-West-Palm-Beach/Technical-Sales-Engineer_R0096860-3) |
 
 ## About This Role
 
-This sales engineer position at Seco Tools was posted on 2026-08-26.
+This sales engineer position at Seco Tools was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

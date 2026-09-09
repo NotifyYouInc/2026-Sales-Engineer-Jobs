@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Workiva](https://scoutify.ai/companies/workiva?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | United States |
-| Category | Technical & Solutions Architect |
-| Posted | 2026-05-28 |
-| Apply | [View on company site](https://workiva.wd503.myworkdayjobs.com/careers/job/USA---Remote/Senior-Solution-Consultant---Technical_R11784) |
+| Location | Amsterdam, North Holland, The Netherlands |
+| Category | Sales Engineer |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://workiva.wd503.myworkdayjobs.com/careers/job/Remote---UK/Senior-Solution-Consultant---Technical_R12374) |
 
 ## About This Role
 
-This technical & solutions architect position at Workiva was posted on 2026-05-28.
+This sales engineer position at Workiva was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

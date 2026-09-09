@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Sopra Steria](https://scoutify.ai/companies/soprasteria?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Germany |
-| Category | Technical & Solutions Architect |
-| Posted | 2026-08-28 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000146144470-senior-customer-experience-solution-engineer-mwd) |
+| Category | Sales Engineer |
+| Posted | 2026-08-31 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000146458241-senior-customer-experience-solution-engineer-mwd) |
 
 ## About This Role
 
-This technical & solutions architect position at Sopra Steria was posted on 2026-08-28.
+This sales engineer position at Sopra Steria was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

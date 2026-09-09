@@ -5,12 +5,12 @@
 | Company | [Sewan](https://scoutify.ai/companies/sewan?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Paris, Île-de-France, France |
 | Category | Sales Engineer |
-| Posted | 2026-08-28 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SEWAN/744000146136209-ingenieur-avant-vente-reseau-hf-en-cdi-a-paris) |
+| Posted | 2026-08-31 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SEWAN/744000146513840-ingenieur-avant-vente-reseau-hf-en-cdi-a-paris) |
 
 ## About This Role
 
-This sales engineer position at Sewan was posted on 2026-08-28.
+This sales engineer position at Sewan was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

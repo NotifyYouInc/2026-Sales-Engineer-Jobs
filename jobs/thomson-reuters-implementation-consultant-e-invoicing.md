@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Thomson Reuters](https://scoutify.ai/companies/thomson-reuters?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | 3 locations |
+| Location | Eagan, Minnesota, United States |
 | Category | Customer Success |
-| Posted | 2026-04-10 |
-| Apply | [View on company site](https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/United-States-of-America-Ann-Arbor-Michigan/Implementation-Consultant--E-invoicing_JREQ199701) |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/United-States-of-America-Eagan-Minnesota/Implementation-Consultant--E-invoicing_JREQ203266) |
 
 ## About This Role
 
-This customer success position at Thomson Reuters was posted on 2026-04-10.
+This customer success position at Thomson Reuters was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

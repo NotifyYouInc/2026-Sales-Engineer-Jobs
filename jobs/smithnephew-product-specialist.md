@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Smith+Nephew](https://scoutify.ai/companies/smithnephew?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | United Arab Emirates |
-| Category | Sales Engineer |
+| Category | Product Marketing |
 | Posted | 2026-09-01 |
 | Apply | [View on company site](https://smithnephew.wd5.myworkdayjobs.com/External/job/UAE---Field/Product-Specialist_R91254) |
 
 ## About This Role
 
-This sales engineer position at Smith+Nephew was posted on 2026-09-01.
+This product marketing position at Smith+Nephew was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

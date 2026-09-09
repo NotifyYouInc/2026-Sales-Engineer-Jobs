@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Arrow Electronics](https://scoutify.ai/companies/arrow-electronics?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Alcobendas, Madrid, Spain |
+| Location | Bulgaria |
 | Category | Sales Engineer |
-| Posted | 2026-07-08 |
-| Apply | [View on company site](https://arrow.wd1.myworkdayjobs.com/ac/job/ES-Alcobendas-Spain-Avenida-de-Europa/Technical-Sales-Engineer_R244256) |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://arrow.wd1.myworkdayjobs.com/ac/job/BG-Bulgaria---remote/Technical-Sales-Engineer_R246046) |
 
 ## About This Role
 
-This sales engineer position at Arrow Electronics was posted on 2026-07-08.
+This sales engineer position at Arrow Electronics was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

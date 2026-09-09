@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Exclusivenetworks](https://scoutify.ai/companies/exclusivenetworks?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Mumbai, Maharashtra, India |
-| Category | Technical & Solutions Architect |
-| Posted | 2026-05-26 |
+| Category | Sales Engineer |
+| Posted | 2026-09-02 |
 | Apply | [View on company site](https://exclusivenetworks.wd103.myworkdayjobs.com/exclusive-networks-career/job/Mumbai/Pre-Sale-Engineer_JR1973-1) |
 
 ## About This Role
 
-This technical & solutions architect position at Exclusivenetworks was posted on 2026-05-26.
+This sales engineer position at Exclusivenetworks was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

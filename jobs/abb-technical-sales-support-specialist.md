@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ABB](https://scoutify.ai/companies/abb?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | 3 locations |
+| Location | Ostrava, Moravskoslezský, Czechia |
 | Category | Sales Engineer |
-| Posted | 2026-07-16 |
-| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Krakow-Lesser-Poland-Poland/Technical-Sales-Support-Specialist_JR00039764-1) |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Ostrava-Moravskoslezsk-kraj-Czechia/Technical-Sales-Support-Specialist_JR00044650) |
 
 ## About This Role
 
-This sales engineer position at ABB was posted on 2026-07-16.
+This sales engineer position at ABB was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

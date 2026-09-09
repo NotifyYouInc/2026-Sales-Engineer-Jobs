@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Cuautitlán Izcalli, México, Mexico |
+| Location | Santa Catarina, Nuevo León, Mexico |
 | Category | Account Executive |
-| Posted | 2026-08-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000143891629-application-engineer-ae) |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000146834219-application-engineer-ae) |
 
 ## About This Role
 
-This account executive position at Robert Bosch was posted on 2026-08-17.
+This account executive position at Robert Bosch was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

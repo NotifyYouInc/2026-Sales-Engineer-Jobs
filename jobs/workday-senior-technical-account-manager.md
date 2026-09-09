@@ -5,12 +5,12 @@
 | Company | [Workday](https://scoutify.ai/companies/workday?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Tokyo, Tokyo, Japan |
 | Category | Customer Success |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://workday.wd5.myworkdayjobs.com/Workday/job/Japan-Tokyo/Senior-Technical-Account-Manager_JR-0107219) |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://workday.wd5.myworkdayjobs.com/Workday/job/Japan-Tokyo/Senior-Technical-Account-Manager_JR-0108569) |
 
 ## About This Role
 
-This customer success position at Workday was posted on 2026-05-19.
+This customer success position at Workday was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 
