@@ -5,12 +5,12 @@
 | Company | [Johnson Controls](https://scoutify.ai/companies/jci?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Sales Engineer |
-| Posted | 2026-07-28 |
-| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Bangalore-Karnataka-India/Fire-Post-Sales-Technical-Specialist-2_WD30275461) |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Bangalore-Karnataka-India/Fire-Post-Sales-Technical-Specialist-2_WD30278911) |
 
 ## About This Role
 
-This sales engineer position at Johnson Controls was posted on 2026-07-28.
+This sales engineer position at Johnson Controls was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Infobip](https://scoutify.ai/companies/infobip?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Asunción, Asunción, Paraguay |
 | Category | Sales Engineer |
-| Posted | 2026-08-07 |
-| Apply | [View on company site](https://infobip.wd3.myworkdayjobs.com/infobipcareers/job/Bangalore-India/Solution-Engineer_JR104752) |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://infobip.wd3.myworkdayjobs.com/infobipcareers/job/Asuncion-Paraguay/Solution-Engineer_JR104925) |
 
 ## About This Role
 
-This sales engineer position at Infobip was posted on 2026-08-07.
+This sales engineer position at Infobip was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

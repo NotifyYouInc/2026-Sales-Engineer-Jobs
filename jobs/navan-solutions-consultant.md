@@ -5,12 +5,12 @@
 | Company | [Navan](https://scoutify.ai/companies/navan?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Berlin, State of Berlin, Germany |
 | Category | Sales Engineer |
-| Posted | 2026-08-26 |
-| Apply | [View on company site](https://navan.com/careers/openings?gh_jid=8155099) |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://navan.com/careers/openings?gh_jid=8174904) |
 
 ## About This Role
 
-This sales engineer position at Navan was posted on 2026-08-26.
+This sales engineer position at Navan was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

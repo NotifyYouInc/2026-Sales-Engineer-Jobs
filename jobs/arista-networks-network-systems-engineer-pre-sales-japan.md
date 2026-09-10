@@ -5,12 +5,12 @@
 | Company | [Arista Networks](https://scoutify.ai/companies/aristanetworks?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Tokyo, Tokyo, Japan |
 | Category | Sales Engineer |
-| Posted | 2026-08-31 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AristaNetworks/744000146404459-network-systems-engineer-pre-sales-japan) |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AristaNetworks/744000146669251-network-systems-engineer-pre-sales-japan) |
 
 ## About This Role
 
-This sales engineer position at Arista Networks was posted on 2026-08-31.
+This sales engineer position at Arista Networks was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

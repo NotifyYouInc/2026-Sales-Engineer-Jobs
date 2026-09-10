@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ABB](https://scoutify.ai/companies/abb?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Kraków, Lesser Poland, Poland |
+| Location | Richmond, Virginia, United States |
 | Category | IT & Systems Administration |
-| Posted | 2026-08-26 |
-| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Krakow-Lesser-Poland-Poland/IS-Technology-Specialist_JR00044062) |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Richmond-Virginia-USA/IS-Technology-Specialist_JR00045958) |
 
 ## About This Role
 
-This it & systems administration position at ABB was posted on 2026-08-26.
+This it & systems administration position at ABB was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

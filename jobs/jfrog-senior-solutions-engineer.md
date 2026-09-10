@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [JFrog](https://scoutify.ai/companies/jfrog?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Germany |
-| Category | DevOps Engineer |
-| Posted | 2026-05-27 |
-| Apply | [View on company site](https://join.jfrog.com/job/?job=7946125&gh_jid=7946125) |
+| Location | Taipei, Taiwan, Taiwan |
+| Category | Sales Engineer |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://join.jfrog.com/job/?job=8172978&gh_jid=8172978) |
 
 ## About This Role
 
-This devops engineer position at JFrog was posted on 2026-05-27.
+This sales engineer position at JFrog was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

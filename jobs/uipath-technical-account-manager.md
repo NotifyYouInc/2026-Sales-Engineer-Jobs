@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [UiPath](https://scoutify.ai/companies/uipath?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | São Paulo, São Paulo, Brazil |
+| Location | Istanbul, Istanbul, Turkey |
 | Category | Customer Success |
-| Posted | 2026-08-20 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/uipath/7ae90b76-d672-4a16-9ab5-c9212017b9ff) |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/uipath/c26a5547-1c3a-4dc2-8a05-623aca8e1a76) |
 
 ## About This Role
 
-This customer success position at UiPath was posted on 2026-08-20.
+This customer success position at UiPath was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

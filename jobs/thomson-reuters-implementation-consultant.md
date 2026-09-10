@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Thomson Reuters](https://scoutify.ai/companies/thomson-reuters?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Gdańsk, Pomerania, Poland |
+| Location | Sweden |
 | Category | Customer Success |
-| Posted | 2026-08-31 |
-| Apply | [View on company site](https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/Poland-Gdansk/Implementation-Consultant_JREQ203198) |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/Sweden-Gothenburg/Implementation-Consultant_JREQ203367-1) |
 
 ## About This Role
 
-This customer success position at Thomson Reuters was posted on 2026-08-31.
+This customer success position at Thomson Reuters was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

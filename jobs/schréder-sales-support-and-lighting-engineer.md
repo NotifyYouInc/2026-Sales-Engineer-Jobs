@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Schréder](https://scoutify.ai/companies/schrder?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Basingstoke, England, United Kingdom |
+| Location | Leeds, England, United Kingdom |
 | Category | Sales Engineer |
-| Posted | 2026-07-29 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Schrder/744000140543689-sales-support-and-lighting-engineer) |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Schrder/744000147170679-sales-support-and-lighting-engineer) |
 
 ## About This Role
 
-This sales engineer position at Schréder was posted on 2026-07-29.
+This sales engineer position at Schréder was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

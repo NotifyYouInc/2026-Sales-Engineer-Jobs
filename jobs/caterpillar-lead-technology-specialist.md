@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Caterpillar](https://scoutify.ai/companies/caterpillar?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Nagar, Rajasthan, India |
-| Category | Sales Engineer |
-| Posted | 2026-08-17 |
-| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Chhatrapati-Sambhaji-Nagar--Maharashtra/Lead-Technology-Specialist_R0000385923) |
+| Location | Irving, Texas, United States |
+| Category | Product Manager |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Irving-Texas/Lead-Technology-Specialist_R0000391436) |
 
 ## About This Role
 
-This sales engineer position at Caterpillar was posted on 2026-08-17.
+This product manager position at Caterpillar was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

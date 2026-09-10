@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Zeiss](https://scoutify.ai/companies/zeissgroup?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Changchun, Jilin, China |
+| Location | Shanghai, Shanghai, China |
 | Category | Sales Engineer |
-| Posted | 2026-08-28 |
-| Apply | [View on company site](https://zeissgroup.wd3.myworkdayjobs.com/External/job/Changchun-City/Sales-Engineer--REF-TP_JR_1052613) |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://zeissgroup.wd3.myworkdayjobs.com/External/job/Shanghai/Sales-Engineer--REF-TP_JR_1052768) |
 
 ## About This Role
 
-This sales engineer position at Zeiss was posted on 2026-08-28.
+This sales engineer position at Zeiss was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

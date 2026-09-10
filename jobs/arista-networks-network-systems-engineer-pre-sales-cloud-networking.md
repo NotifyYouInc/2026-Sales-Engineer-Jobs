@@ -1,16 +1,16 @@
-# Network Systems Engineer (Pre-Sales) -  Cloud Networking at Arista Networks
+# Network Systems Engineer (Pre-Sales) - Cloud Networking at Arista Networks
 
 | Field | Details |
 |-------|---------|
 | Company | [Arista Networks](https://scoutify.ai/companies/aristanetworks?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Lagos, Lagos, Nigeria |
+| Location | Warsaw, Mazovia, Poland |
 | Category | Sales Engineer |
-| Posted | 2026-07-01 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AristaNetworks/744000135240859-network-systems-engineer-pre-sales-cloud-networking) |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AristaNetworks/744000147014524-network-systems-engineer-pre-sales-cloud-networking) |
 
 ## About This Role
 
-This sales engineer position at Arista Networks was posted on 2026-07-01.
+This sales engineer position at Arista Networks was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

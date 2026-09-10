@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cohesity](https://scoutify.ai/companies/cohesity?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Poland |
+| Location | Boston, Massachusetts, United States |
 | Category | Sales Engineer |
-| Posted | 2026-08-26 |
-| Apply | [View on company site](https://cohesity.wd5.myworkdayjobs.com/Cohesity_Careers/job/Poland---Remote/Sales-Engineer_R02989-1) |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://cohesity.wd5.myworkdayjobs.com/Cohesity_Careers/job/Boston-Metro-Area---Massachusetts---USA-Remote/Sales-Engineer_R04587) |
 
 ## About This Role
 
-This sales engineer position at Cohesity was posted on 2026-08-26.
+This sales engineer position at Cohesity was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Genuine Parts Company](https://scoutify.ai/companies/genpt?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Boise, Idaho, United States |
+| Location | Illinois, US |
 | Category | Sales Engineer |
-| Posted | 2026-08-10 |
-| Apply | [View on company site](https://genpt.wd1.myworkdayjobs.com/Careers/job/USA-UT---Remote/T-E-Technical-Sales-Specialist_R26_0000025769) |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://genpt.wd1.myworkdayjobs.com/Careers/job/USA-IL---Remote/T-E-Technical-Sales-Specialist_R26_0000025770-1) |
 
 ## About This Role
 
-This sales engineer position at Genuine Parts Company was posted on 2026-08-10.
+This sales engineer position at Genuine Parts Company was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

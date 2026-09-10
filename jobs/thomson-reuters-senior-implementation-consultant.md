@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Thomson Reuters](https://scoutify.ai/companies/thomson-reuters?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Espoo, Uusimaa, Finland |
+| Location | Madrid, Madrid, Spain |
 | Category | Customer Success |
-| Posted | 2026-08-31 |
-| Apply | [View on company site](https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/Finland-Espoo/Senior-Implementation-Consultant_JREQ203195) |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/Spain-Madrid-Madrid/Senior-Implementation-Consultant_JREQ203201-1) |
 
 ## About This Role
 
-This customer success position at Thomson Reuters was posted on 2026-08-31.
+This customer success position at Thomson Reuters was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

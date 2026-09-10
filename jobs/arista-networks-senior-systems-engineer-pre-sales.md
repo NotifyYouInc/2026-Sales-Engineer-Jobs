@@ -1,16 +1,16 @@
-# Senior Systems Engineer (Pre-Sales) at Arista Networks
+# Senior Systems Engineer (Pre Sales) at Arista Networks
 
 | Field | Details |
 |-------|---------|
 | Company | [Arista Networks](https://scoutify.ai/companies/aristanetworks?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Santa Clara, California, United States |
-| Category | Technical & Solutions Architect |
-| Posted | 2026-06-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AristaNetworks/744000129853479-senior-systems-engineer-pre-sales) |
+| Location | Mumbai, Maharashtra, India |
+| Category | Sales Engineer |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AristaNetworks/744000147166899-senior-systems-engineer-pre-sales) |
 
 ## About This Role
 
-This technical & solutions architect position at Arista Networks was posted on 2026-06-02.
+This sales engineer position at Arista Networks was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

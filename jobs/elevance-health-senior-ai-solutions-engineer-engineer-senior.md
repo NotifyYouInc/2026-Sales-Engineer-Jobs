@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Elevance Health](https://scoutify.ai/companies/elevance-health?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Atlanta, Georgia, United States |
-| Category | AI / LLM Engineer |
+| Category | Machine Learning Engineer |
 | Posted | 2026-09-01 |
 | Apply | [View on company site](https://elevancehealth.wd1.myworkdayjobs.com/ANT/job/GA-ATLANTA-740-W-PEACHTREE-ST-NW/Senior-AI-Solutions-Engineer--Engineer-Senior-_JR205877) |
 
 ## About This Role
 
-This ai / llm engineer position at Elevance Health was posted on 2026-09-01.
+This machine learning engineer position at Elevance Health was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

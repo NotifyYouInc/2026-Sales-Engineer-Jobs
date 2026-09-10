@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Baker Hughes](https://scoutify.ai/companies/baker-hughes?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Purcell, Oklahoma, United States |
+| Location | Houston, Texas, United States |
 | Category | Software Engineer |
-| Posted | 2026-08-03 |
-| Apply | [View on company site](https://bakerhughes.wd5.myworkdayjobs.com/BakerHughes/job/US-OK-PURCELL-1739-HARDCASTLE-BLVD/Applications-Engineer_R167032-1) |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://bakerhughes.wd5.myworkdayjobs.com/BakerHughes/job/US-TX-HOUSTON-2001-RANKIN-ROAD/Applications-Engineer_R168539) |
 
 ## About This Role
 
-This software engineer position at Baker Hughes was posted on 2026-08-03.
+This software engineer position at Baker Hughes was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

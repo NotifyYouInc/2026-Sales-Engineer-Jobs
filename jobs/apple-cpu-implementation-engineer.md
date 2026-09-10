@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Apple](https://scoutify.ai/companies/apple?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Not specified |
+| Location | Austin, Texas, United States |
 | Category | Semiconductor / Chip Design |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://jobs.apple.com/en-us/details/200657973/cpu-implementation-engineer) |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://jobs.apple.com/en-us/details/200679170/cpu-implementation-engineer) |
 
 ## About This Role
 
-This semiconductor / chip design position at Apple was posted on 2026-04-14.
+This semiconductor / chip design position at Apple was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AT&T](https://scoutify.ai/companies/at-t?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Atlanta, Georgia, United States |
-| Category | Technology / IT Consulting |
-| Posted | 2026-02-23 |
-| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Atlanta-Georgia/Lead-Technical-Consultant-1_R-93515) |
+| Location | Dallas, Texas, United States |
+| Category | Sales Engineer |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Dallas-Texas/Lead-Technical-Consultant-1_R-119599) |
 
 ## About This Role
 
-This technology / it consulting position at AT&T was posted on 2026-02-23.
+This sales engineer position at AT&T was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [FICO](https://scoutify.ai/companies/fico?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | United States |
+| Location | Ontario, CA |
 | Category | Sales Engineer |
-| Posted | 2026-08-10 |
-| Apply | [View on company site](https://fico.wd1.myworkdayjobs.com/external/job/Work-from-Home-United-States/Technical-Pre-Sales-Consultant_32187) |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://fico.wd1.myworkdayjobs.com/external/job/Ontario-Canada/Technical-Pre-Sales-Consultant_32250) |
 
 ## About This Role
 
-This sales engineer position at FICO was posted on 2026-08-10.
+This sales engineer position at FICO was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

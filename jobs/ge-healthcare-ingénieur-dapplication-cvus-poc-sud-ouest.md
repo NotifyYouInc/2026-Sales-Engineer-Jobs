@@ -5,12 +5,12 @@
 | Company | [GE HealthCare](https://scoutify.ai/companies/ge-healthcare?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Mérignac, Nouvelle-Aquitaine, France |
 | Category | Sales Engineer |
-| Posted | 2026-07-03 |
-| Apply | [View on company site](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Merignac/Ingnieur-d-application---CVUS-POC---Sud-Ouest_R4040609-1) |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Merignac/Ingnieur-d-application---CVUS-POC---Sud-Ouest_R4045892-1) |
 
 ## About This Role
 
-This sales engineer position at GE HealthCare was posted on 2026-07-03.
+This sales engineer position at GE HealthCare was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

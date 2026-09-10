@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Reltio](https://scoutify.ai/companies/reltio?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Bengaluru, Karnataka, India |
-| Category | Sales Engineer |
-| Posted | 2026-08-12 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/reltio/jobs/6139717004) |
+| Location | United States |
+| Category | Customer Success |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/reltio/jobs/5576245004) |
 
 ## About This Role
 
-This sales engineer position at Reltio was posted on 2026-08-12.
+This customer success position at Reltio was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

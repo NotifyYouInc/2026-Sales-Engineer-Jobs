@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Formic](https://scoutify.ai/companies/formic?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | 2 locations |
-| Category | Industrial Automation |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/formic/jobs/4639218006) |
+| Category | Sales Engineer |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/formic/jobs/4710422006) |
 
 ## About This Role
 
-This industrial automation position at Formic was posted on 2026-04-14.
+This sales engineer position at Formic was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

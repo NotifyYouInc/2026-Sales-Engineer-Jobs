@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Zscaler](https://scoutify.ai/companies/zscaler?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Plano, Texas, United States |
+| Location | 2 locations |
 | Category | Sales Engineer |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/zscaler/jobs/5070045007) |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/zscaler/jobs/5215336007) |
 
 ## About This Role
 
-This sales engineer position at Zscaler was posted on 2026-03-09.
+This sales engineer position at Zscaler was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

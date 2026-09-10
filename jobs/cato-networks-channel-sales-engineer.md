@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cato Networks](https://scoutify.ai/companies/cato-networks?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Hong Kong, Hong Kong |
+| Location | 2 locations |
 | Category | Sales Engineer |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://www.catonetworks.com/careers/careers-post/4817149101?gh_jid=4817149101) |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://www.catonetworks.com/careers/careers-post/4967067101?gh_jid=4967067101) |
 
 ## About This Role
 
-This sales engineer position at Cato Networks was posted on 2026-04-24.
+This sales engineer position at Cato Networks was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

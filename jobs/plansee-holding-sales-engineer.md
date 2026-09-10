@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Plansee Holding](https://scoutify.ai/companies/plansee-holding?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Cambridge, Ontario, Canada |
+| Location | Charlotte, North Carolina, United States |
 | Category | Sales Engineer |
-| Posted | 2026-08-03 |
-| Apply | [View on company site](https://myhr.wd3.myworkdayjobs.com/planseegroup_career/job/Cambridge-ON-Canada/Sales-Engineer_JR-12350) |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://myhr.wd3.myworkdayjobs.com/planseegroup_career/job/Charlotte-NC-USA/Sales-Engineer_JR-12594) |
 
 ## About This Role
 
-This sales engineer position at Plansee Holding was posted on 2026-08-03.
+This sales engineer position at Plansee Holding was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

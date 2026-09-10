@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [DigiCert](https://scoutify.ai/companies/digicert?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | United States |
+| Location | London, England, United Kingdom |
 | Category | Sales Engineer |
-| Posted | 2026-03-26 |
-| Apply | [View on company site](https://www.digicert.com/careers/?gh_jid=8472381002) |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://www.digicert.com/careers/?gh_jid=8780131002) |
 
 ## About This Role
 
-This sales engineer position at DigiCert was posted on 2026-03-26.
+This sales engineer position at DigiCert was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

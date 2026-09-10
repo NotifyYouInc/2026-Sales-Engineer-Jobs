@@ -1,16 +1,16 @@
-# Pre-Sales specialist 🇧🇪 at Alan
+# Pre-Sales Specialist 🇧🇪 at Alan
 
 | Field | Details |
 |-------|---------|
 | Company | [Alan](https://scoutify.ai/companies/alan?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Belgium |
 | Category | Sales Engineer |
-| Posted | 2026-07-08 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/alan/c4ae5db2-b730-4685-9845-af728371d561) |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/alan/a79de329-f70b-4b00-9502-6c2e98693cf9) |
 
 ## About This Role
 
-This sales engineer position at Alan was posted on 2026-07-08.
+This sales engineer position at Alan was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

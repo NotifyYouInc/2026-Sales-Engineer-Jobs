@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Fivetran](https://scoutify.ai/companies/fivetran?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Ireland |
-| Category | Security Engineer |
-| Posted | 2026-06-12 |
-| Apply | [View on company site](https://www.fivetran.com/careers/job?gh_jid=7771515003) |
+| Location | California, US |
+| Category | Sales Engineer |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://www.fivetran.com/careers/job?gh_jid=7964408003) |
 
 ## About This Role
 
-This security engineer position at Fivetran was posted on 2026-06-12.
+This sales engineer position at Fivetran was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

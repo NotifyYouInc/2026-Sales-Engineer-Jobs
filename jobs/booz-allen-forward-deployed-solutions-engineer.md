@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | McLean, Virginia, United States |
-| Category | Technical & Solutions Architect |
-| Posted | 2026-05-06 |
+| Category | Sales Engineer |
+| Posted | 2026-09-02 |
 | Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/McLean-VA/Forward-Deployed-Solutions-Engineer_R0239454) |
 
 ## About This Role
 
-This technical & solutions architect position at Booz Allen was posted on 2026-05-06.
+This sales engineer position at Booz Allen was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

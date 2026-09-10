@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Alfa Laval](https://scoutify.ai/companies/alfa-laval?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Camberley, England, United Kingdom |
+| Location | Monza, Lombardy, Italy |
 | Category | Sales Engineer |
-| Posted | 2026-05-29 |
-| Apply | [View on company site](https://alfalaval.wd3.myworkdayjobs.com/alfa_laval_jobs/job/Camberley/Technical-Sales-Engineer_JR0045777-1) |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://alfalaval.wd3.myworkdayjobs.com/alfa_laval_jobs/job/Monza/Technical-Sales-Engineer_JR0047327) |
 
 ## About This Role
 
-This sales engineer position at Alfa Laval was posted on 2026-05-29.
+This sales engineer position at Alfa Laval was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 
