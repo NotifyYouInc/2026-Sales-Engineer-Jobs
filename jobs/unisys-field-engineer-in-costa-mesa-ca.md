@@ -5,12 +5,12 @@
 | Company | [Unisys](https://scoutify.ai/companies/unisys?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Costa Mesa, California, United States |
 | Category | Sales Engineer |
-| Posted | 2026-08-26 |
-| Apply | [View on company site](https://unisys.wd5.myworkdayjobs.com/External/job/Costa-Mesa-CA-United-States-of-America/Field-Engineer-in-Costa-Mesa--CA_REQ571993) |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://unisys.wd5.myworkdayjobs.com/External/job/Costa-Mesa-CA-United-States-of-America/Field-Engineer-in-Costa-Mesa--CA_REQ575372) |
 
 ## About This Role
 
-This sales engineer position at Unisys was posted on 2026-08-26.
+This sales engineer position at Unisys was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

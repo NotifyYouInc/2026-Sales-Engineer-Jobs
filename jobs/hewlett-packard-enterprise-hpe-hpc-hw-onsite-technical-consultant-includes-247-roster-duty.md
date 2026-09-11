@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Hewlett Packard Enterprise](https://scoutify.ai/companies/hewlett-packard-enterprise?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Sweden |
-| Category | Customer Success |
-| Posted | 2026-06-15 |
+| Category | Sales Engineer |
+| Posted | 2026-09-04 |
 | Apply | [View on company site](https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/All-Sweden/HPE-HPC-HW-Onsite-Technical-Consultant--includes-24-7-roster-duty-_1207412-3) |
 
 ## About This Role
 
-This customer success position at Hewlett Packard Enterprise was posted on 2026-06-15.
+This sales engineer position at Hewlett Packard Enterprise was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

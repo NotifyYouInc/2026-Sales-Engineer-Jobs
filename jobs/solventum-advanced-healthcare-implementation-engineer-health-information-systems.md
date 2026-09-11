@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Solventum](https://scoutify.ai/companies/solventum?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Riyadh, Riyadh Region, Saudi Arabia |
-| Category | Customer Success |
+| Category | Sales Engineer |
 | Posted | 2026-09-02 |
 | Apply | [View on company site](https://healthcare.wd1.myworkdayjobs.com/search/job/SA-Riyadh-Virtual/Advanced-Healthcare-Implementation-Engineer--Health-Information-Systems_R01133275) |
 
 ## About This Role
 
-This customer success position at Solventum was posted on 2026-09-02.
+This sales engineer position at Solventum was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

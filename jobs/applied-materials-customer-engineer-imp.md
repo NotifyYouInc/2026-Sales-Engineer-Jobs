@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Applied Materials](https://scoutify.ai/companies/applied-materials?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Beijing, Beijing, China |
-| Category | Sales Engineer |
-| Posted | 2026-07-10 |
-| Apply | [View on company site](https://amat.wd1.myworkdayjobs.com/External/job/BeijingCHN/Customer-Engineer-IMP_R2623647) |
+| Location | Shanghai, Shanghai, China |
+| Category | Semiconductor / Chip Design |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://amat.wd1.myworkdayjobs.com/External/job/ShanghaiCHN/Customer-Engineer-IMP_R2626979) |
 
 ## About This Role
 
-This sales engineer position at Applied Materials was posted on 2026-07-10.
+This semiconductor / chip design position at Applied Materials was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

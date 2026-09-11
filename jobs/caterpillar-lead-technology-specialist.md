@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Caterpillar](https://scoutify.ai/companies/caterpillar?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Irving, Texas, United States |
-| Category | Product Manager |
+| Category | Sales Engineer |
 | Posted | 2026-09-02 |
 | Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Irving-Texas/Lead-Technology-Specialist_R0000391436) |
 
 ## About This Role
 
-This product manager position at Caterpillar was posted on 2026-09-02.
+This sales engineer position at Caterpillar was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

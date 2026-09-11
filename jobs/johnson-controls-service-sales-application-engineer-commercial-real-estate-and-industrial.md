@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Johnson Controls](https://scoutify.ai/companies/jci?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Arlington Heights, Illinois, United States |
-| Category | Software Engineer |
+| Category | Sales Engineer |
 | Posted | 2026-09-01 |
 | Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Arlington-Heights-Illinois-United-States-of-America/Service-Sales-Application-Engineer-Commercial-Real-Estate-and-Industrial_WD30277300-1) |
 
 ## About This Role
 
-This software engineer position at Johnson Controls was posted on 2026-09-01.
+This sales engineer position at Johnson Controls was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

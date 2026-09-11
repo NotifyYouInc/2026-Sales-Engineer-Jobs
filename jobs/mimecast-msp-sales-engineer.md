@@ -5,12 +5,12 @@
 | Company | [Mimecast](https://scoutify.ai/companies/mimecast?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | London, England, United Kingdom |
 | Category | Sales Engineer |
-| Posted | 2026-05-28 |
+| Posted | 2026-09-03 |
 | Apply | [View on company site](https://mimecast.wd5.myworkdayjobs.com/Mimecast-Careers/job/Great-Britain---London/MSP-Sales-Engineer_R6448-2) |
 
 ## About This Role
 
-This sales engineer position at Mimecast was posted on 2026-05-28.
+This sales engineer position at Mimecast was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

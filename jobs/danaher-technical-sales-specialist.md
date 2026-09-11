@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Danaher](https://scoutify.ai/companies/danaher?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Seoul, Seoul, South Korea |
-| Category | Sales |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://danaher.wd1.myworkdayjobs.com/DanaherJobs/job/Seoul-Republic-of-Korea/Technical-Sales-Specialist_R1304692) |
+| Location | 9 locations |
+| Category | Sales Engineer |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://danaher.wd1.myworkdayjobs.com/DanaherJobs/job/USA---Remote/Technical-Sales-Specialist_R1317660) |
 
 ## About This Role
 
-This sales position at Danaher was posted on 2026-02-05.
+This sales engineer position at Danaher was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

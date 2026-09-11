@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Zillow](https://scoutify.ai/companies/zillow?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | United States |
-| Category | Customer Success |
+| Category | Sales Engineer |
 | Posted | 2026-09-01 |
 | Apply | [View on company site](https://zillow.wd5.myworkdayjobs.com/Zillow_Group_External/job/Remote-USA/Implementation-Consultant--Follow-Up-Boss_P751262) |
 
 ## About This Role
 
-This customer success position at Zillow was posted on 2026-09-01.
+This sales engineer position at Zillow was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

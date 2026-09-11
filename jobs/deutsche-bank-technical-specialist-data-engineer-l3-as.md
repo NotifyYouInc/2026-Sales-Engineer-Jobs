@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Deutsche Bank](https://scoutify.ai/companies/deutsche-bank?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Pune, Maharashtra, India |
-| Category | Data Engineer |
+| Category | Sales Engineer |
 | Posted | 2026-09-03 |
 | Apply | [View on company site](https://db.wd3.myworkdayjobs.com/dbwebsite/job/Pune---Margarpatta/Technical-specialist--Data-Engineer--L3----AS_R0447132) |
 
 ## About This Role
 
-This data engineer position at Deutsche Bank was posted on 2026-09-03.
+This sales engineer position at Deutsche Bank was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

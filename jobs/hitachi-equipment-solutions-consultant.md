@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Hitachi](https://scoutify.ai/companies/hitachi?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Salt Lake City, Utah, United States |
-| Category | Account Executive |
-| Posted | 2026-06-18 |
-| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/SUL-Salt-Lake-City-UT/Equipment-Solutions-Consultant_R0134800) |
+| Location | Charleston, South Carolina, United States |
+| Category | Sales |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Beckly-West-Virginia-United-States/Equipment-Solutions-Consultant_R0139717) |
 
 ## About This Role
 
-This account executive position at Hitachi was posted on 2026-06-18.
+This sales position at Hitachi was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

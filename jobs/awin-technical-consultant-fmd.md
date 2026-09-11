@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Awin](https://scoutify.ai/companies/awin?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | São Paulo, São Paulo, Brazil |
-| Category | Customer Success |
+| Category | Sales Engineer |
 | Posted | 2026-09-02 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/awin/jobs/7984749003) |
 
 ## About This Role
 
-This customer success position at Awin was posted on 2026-09-02.
+This sales engineer position at Awin was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

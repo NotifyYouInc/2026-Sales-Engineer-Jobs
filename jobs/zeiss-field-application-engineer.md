@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Zeiss](https://scoutify.ai/companies/zeissgroup?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Bloomfield, New Jersey, United States |
+| Location | Toronto, Ontario, Canada |
 | Category | Sales Engineer |
-| Posted | 2026-08-14 |
-| Apply | [View on company site](https://zeissgroup.wd3.myworkdayjobs.com/External/job/Bloomfield/Field-Application-Engineer_JR_1052024) |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://zeissgroup.wd3.myworkdayjobs.com/External/job/Toronto/Field-Application-Engineer_JR_1052089) |
 
 ## About This Role
 
-This sales engineer position at Zeiss was posted on 2026-08-14.
+This sales engineer position at Zeiss was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

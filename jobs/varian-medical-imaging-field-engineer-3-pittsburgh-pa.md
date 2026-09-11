@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Varian](https://scoutify.ai/companies/onehealthineers?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Pittsburgh, Pennsylvania, United States |
-| Category | Customer Success |
+| Category | Sales Engineer |
 | Posted | 2026-09-02 |
 | Apply | [View on company site](https://onehealthineers.wd3.myworkdayjobs.com/SHSJB/job/PIT-H/Medical-Imaging-Field-Engineer-3--Pittsburgh--PA_R-30323-2) |
 
 ## About This Role
 
-This customer success position at Varian was posted on 2026-09-02.
+This sales engineer position at Varian was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

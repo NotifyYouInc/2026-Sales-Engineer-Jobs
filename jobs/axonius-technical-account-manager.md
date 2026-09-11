@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Axonius](https://scoutify.ai/companies/axonius?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Colorado, US |
-| Category | Customer Success |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://www.axonius.com/company/careers/open-jobs?gh_jid=7723964003) |
+| Location | United Kingdom |
+| Category | Sales Engineer |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://www.axonius.com/company/careers/open-jobs?gh_jid=7984719003) |
 
 ## About This Role
 
-This customer success position at Axonius was posted on 2026-05-13.
+This sales engineer position at Axonius was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

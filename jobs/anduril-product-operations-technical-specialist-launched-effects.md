@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Anduril](https://scoutify.ai/companies/andurilindustries?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Atlanta, Georgia, United States |
-| Category | Customer Success |
+| Category | Sales Engineer |
 | Posted | 2026-09-02 |
 | Apply | [View on company site](https://boards.greenhouse.io/andurilindustries/jobs/5227013007?gh_jid=5227013007) |
 
 ## About This Role
 
-This customer success position at Anduril was posted on 2026-09-02.
+This sales engineer position at Anduril was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

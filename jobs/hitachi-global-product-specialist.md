@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Hitachi](https://scoutify.ai/companies/hitachi?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Västerås, Västmanland, Sweden |
-| Category | Product Manager |
+| Category | Sales Engineer |
 | Posted | 2026-09-02 |
 | Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Vaesteras-Vastmanland-County-Sweden/Global-Product-Specialist_R0143234) |
 
 ## About This Role
 
-This product manager position at Hitachi was posted on 2026-09-02.
+This sales engineer position at Hitachi was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

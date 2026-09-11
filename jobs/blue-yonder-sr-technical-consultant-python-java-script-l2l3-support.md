@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Blue Yonder](https://scoutify.ai/companies/jda?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Customer Success |
+| Category | Sales Engineer |
 | Posted | 2026-09-02 |
 | Apply | [View on company site](https://jda.wd5.myworkdayjobs.com/JDA_Careers/job/Bangalore/IN-Sr-Technical-Consultant---Cloud_261917) |
 
 ## About This Role
 
-This customer success position at Blue Yonder was posted on 2026-09-02.
+This sales engineer position at Blue Yonder was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

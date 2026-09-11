@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Pine Services Group](https://scoutify.ai/companies/pine-services-group?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | United States |
-| Category | Customer Success |
+| Category | Sales Engineer |
 | Posted | 2026-09-02 |
 | Apply | [View on company site](https://jobs.lever.co/pine-services/3efe799c-67fd-4514-9266-ad0e33c9f8e9) |
 
 ## About This Role
 
-This customer success position at Pine Services Group was posted on 2026-09-02.
+This sales engineer position at Pine Services Group was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

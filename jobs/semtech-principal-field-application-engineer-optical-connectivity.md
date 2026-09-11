@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Semtech](https://scoutify.ai/companies/semtech?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | San Jose, California, United States |
-| Category | Software Engineer |
+| Category | Sales Engineer |
 | Posted | 2026-09-03 |
 | Apply | [View on company site](https://semtech.wd1.myworkdayjobs.com/SemtechCareers/job/USA---San-Jose-CA/Principal-FAE_REQ3563) |
 
 ## About This Role
 
-This software engineer position at Semtech was posted on 2026-09-03.
+This sales engineer position at Semtech was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

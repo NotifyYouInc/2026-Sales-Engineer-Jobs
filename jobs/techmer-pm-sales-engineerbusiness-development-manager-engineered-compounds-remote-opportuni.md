@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Techmer PM](https://scoutify.ai/companies/recruiting-ultipro-com-oj107347?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Not specified |
-| Category | Sales Engineer |
-| Posted | 2026-06-02 |
-| Apply | [View on company site](https://recruiting.ultipro.com/tec1011tpml/JobBoard/4e76433f-6af3-4f9a-8d94-ef4d96ad1501/OpportunityDetail?opportunityId=ce66b7ad-2780-417a-ac83-3f4a1efb5cf3) |
+| Category | Sales |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://recruiting.ultipro.com/tec1011tpml/JobBoard/4e76433f-6af3-4f9a-8d94-ef4d96ad1501/OpportunityDetail?opportunityId=af5a63c0-7208-4aee-8a00-86639dad5287) |
 
 ## About This Role
 
-This sales engineer position at Techmer PM was posted on 2026-06-02.
+This sales position at Techmer PM was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

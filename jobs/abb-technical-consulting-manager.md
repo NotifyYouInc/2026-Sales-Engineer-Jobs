@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [ABB](https://scoutify.ai/companies/abb?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Pune, Maharashtra, India |
-| Category | Industrial Automation |
+| Category | Sales Engineer |
 | Posted | 2026-09-01 |
 | Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Pune-Maharashtra-India/Technical-Consulting-Manager_JR00045081) |
 
 ## About This Role
 
-This industrial automation position at ABB was posted on 2026-09-01.
+This sales engineer position at ABB was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

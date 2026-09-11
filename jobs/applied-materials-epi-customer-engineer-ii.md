@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Applied Materials](https://scoutify.ai/companies/applied-materials?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Japan |
-| Category | Sales Engineer |
-| Posted | 2026-08-05 |
-| Apply | [View on company site](https://amat.wd1.myworkdayjobs.com/External/job/HokurikuJPN/EPI-Customer-Engineer-II_R2625540) |
+| Location | Hiroshima, Hiroshima, Japan |
+| Category | Semiconductor / Chip Design |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://amat.wd1.myworkdayjobs.com/External/job/HiroshimaJPN/EPI-Customer-Engineer-II_R2627452) |
 
 ## About This Role
 
-This sales engineer position at Applied Materials was posted on 2026-08-05.
+This semiconductor / chip design position at Applied Materials was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

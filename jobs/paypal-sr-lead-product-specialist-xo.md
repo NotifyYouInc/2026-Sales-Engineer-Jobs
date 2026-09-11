@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [PayPal](https://scoutify.ai/companies/paypal?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | New York City, New York, United States |
-| Category | Product Manager |
+| Category | Sales Engineer |
 | Posted | 2026-09-03 |
 | Apply | [View on company site](https://paypal.wd1.myworkdayjobs.com/jobs/job/New-York-City-New-York-United-States-of-America/Sr-Lead--Product-Specialist---XO_R0137400) |
 
 ## About This Role
 
-This product manager position at PayPal was posted on 2026-09-03.
+This sales engineer position at PayPal was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

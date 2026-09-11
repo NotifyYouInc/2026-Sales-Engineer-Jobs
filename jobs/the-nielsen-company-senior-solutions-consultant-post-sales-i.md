@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [The Nielsen Company](https://scoutify.ai/companies/thenielsencompany?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | New York City, New York, United States |
-| Category | Technical & Solutions Architect |
-| Posted | 2026-08-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/TheNielsenCompany/3743990014655366-senior-solutions-consultant-post-sales-i) |
+| Category | Sales Engineer |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/TheNielsenCompany/3743990015047446-senior-solutions-consultant-post-sales-i) |
 
 ## About This Role
 
-This technical & solutions architect position at The Nielsen Company was posted on 2026-08-18.
+This sales engineer position at The Nielsen Company was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Gurugram, Haryana, India |
+| Location | Pune, Maharashtra, India |
 | Category | Sales Engineer |
-| Posted | 2026-09-01 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=130544) |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=130563) |
 
 ## About This Role
 
-This sales engineer position at IBM was posted on 2026-09-01.
+This sales engineer position at IBM was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

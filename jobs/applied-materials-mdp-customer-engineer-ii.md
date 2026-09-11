@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Applied Materials](https://scoutify.ai/companies/applied-materials?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Yokkaichi, Mie, Japan |
+| Location | Kumamoto, Kumamoto, Japan |
 | Category | Sales Engineer |
-| Posted | 2026-07-24 |
-| Apply | [View on company site](https://amat.wd1.myworkdayjobs.com/External/job/YokkaichiJPN/MDP-Customer-Engineer-II_R2624736) |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://amat.wd1.myworkdayjobs.com/External/job/KumamotoJPN/MDP-Customer-Engineer-II_R2628035) |
 
 ## About This Role
 
-This sales engineer position at Applied Materials was posted on 2026-07-24.
+This sales engineer position at Applied Materials was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

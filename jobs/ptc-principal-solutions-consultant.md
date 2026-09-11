@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [PTC](https://scoutify.ai/companies/ptc?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | United Kingdom |
-| Category | Implementation / Professional Services |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://ptc.wd1.myworkdayjobs.com/PTC/job/Remote-United-Kingdom/Principal-Solutions-Consultant_JR111736) |
+| Location | 2 locations |
+| Category | Sales Engineer |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://ptc.wd1.myworkdayjobs.com/PTC/job/Munich-Germany/Principal-Solutions-Consultant_JR112686) |
 
 ## About This Role
 
-This implementation / professional services position at PTC was posted on 2026-03-10.
+This sales engineer position at PTC was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

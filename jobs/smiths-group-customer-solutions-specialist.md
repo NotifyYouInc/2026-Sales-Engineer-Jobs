@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Smiths Group](https://scoutify.ai/companies/smithsgroup?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Laconia, New Hampshire, United States |
-| Category | Customer Success |
+| Category | Sales Engineer |
 | Posted | 2026-09-02 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/SmithsGroup2/744000147021559-customer-solutions-specialist) |
 
 ## About This Role
 
-This customer success position at Smiths Group was posted on 2026-09-02.
+This sales engineer position at Smiths Group was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

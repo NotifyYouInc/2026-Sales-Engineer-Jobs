@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Intel](https://scoutify.ai/companies/intel?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | 5 locations |
-| Category | Leadership Development Program |
+| Category | Sales Engineer |
 | Posted | 2026-09-02 |
 | Apply | [View on company site](https://intel.wd1.myworkdayjobs.com/External/job/US-California-Santa-Clara/Sales-and-Marketing-Rotation-Program--Technical----College-Graduate_JR0286832) |
 
 ## About This Role
 
-This leadership development program position at Intel was posted on 2026-09-02.
+This sales engineer position at Intel was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

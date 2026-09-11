@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Arrow Electronics](https://scoutify.ai/companies/arrow-electronics?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Muntinlupa, Calabarzon, Philippines |
-| Category | Software Engineer |
+| Category | Sales Engineer |
 | Posted | 2026-09-02 |
 | Apply | [View on company site](https://arrow.wd1.myworkdayjobs.com/ac/job/PH-Muntinlupa-Philippines/Senior-Field-Applications-Engineer_R243320) |
 
 ## About This Role
 
-This software engineer position at Arrow Electronics was posted on 2026-09-02.
+This sales engineer position at Arrow Electronics was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Intrum](https://scoutify.ai/companies/intrum?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Riga, Riga, Latvia |
-| Category | Customer Success |
+| Category | Sales Engineer |
 | Posted | 2026-09-03 |
 | Apply | [View on company site](https://intrum.wd3.myworkdayjobs.com/external/job/Riga/Integration-Product-Specialist_R10606) |
 
 ## About This Role
 
-This customer success position at Intrum was posted on 2026-09-03.
+This sales engineer position at Intrum was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

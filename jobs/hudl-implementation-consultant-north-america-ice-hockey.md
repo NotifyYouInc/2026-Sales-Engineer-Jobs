@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Hudl](https://scoutify.ai/companies/hudl?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | United States |
-| Category | Customer Success |
+| Category | Sales Engineer |
 | Posted | 2026-09-02 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/hudl/jobs/7646241) |
 
 ## About This Role
 
-This customer success position at Hudl was posted on 2026-09-02.
+This sales engineer position at Hudl was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

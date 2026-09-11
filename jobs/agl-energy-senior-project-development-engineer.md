@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [AGL Energy](https://scoutify.ai/companies/agl-energy?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | 2 locations |
-| Category | Software Engineer |
+| Category | Sales Engineer |
 | Posted | 2026-09-02 |
 | Apply | [View on company site](https://agl.wd3.myworkdayjobs.com/agl_recruitment/job/Melbourne-Corporate/Senior-Project-Development-Engineer_R-0023797) |
 
 ## About This Role
 
-This software engineer position at AGL Energy was posted on 2026-09-02.
+This sales engineer position at AGL Energy was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

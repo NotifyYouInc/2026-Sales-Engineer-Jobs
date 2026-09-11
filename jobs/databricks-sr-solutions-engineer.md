@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Databricks](https://scoutify.ai/companies/databricks?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | London, England, United Kingdom |
+| Location | Singapore, Singapore |
 | Category | Sales Engineer |
-| Posted | 2026-08-24 |
-| Apply | [View on company site](https://databricks.com/company/careers/open-positions/job?gh_jid=8742382002) |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://databricks.com/company/careers/open-positions/job?gh_jid=8783420002) |
 
 ## About This Role
 
-This sales engineer position at Databricks was posted on 2026-08-24.
+This sales engineer position at Databricks was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

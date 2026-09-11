@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Beijing, Beijing, China |
-| Category | Customer Success |
-| Posted | 2026-07-27 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2Fckbh9JujtLwPV1o_iMXzmDknmUXFGC7KwNWTfI5hqY1n0EjsA1Ny_i8B9ITiVCb3-96BEss2mCzrGrpxf8EzkacsL4wgNiJ89EZKRpXA9YZzFwXUA-RdEBvc04u2GHA%3D%3D_V2&loc=CN&title=Technical+Account+Manager) |
+| Location | 2 locations |
+| Category | Sales Engineer |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckZ2Tw3pyhKTgk45MWOQJgI7nA03uBdN0UJeOOEsHRIWJEjsA1Ny_i1CxYId4JZfa05kxZqNlPgp8pY7oS-4MIFIfIyCeFgpwDLxWlVkew2x4cYwtLXnlSPvNZgL0IQ%3D%3D_V2&loc=US&title=Technical+Account+Manager) |
 
 ## About This Role
 
-This customer success position at Google was posted on 2026-07-27.
+This sales engineer position at Google was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

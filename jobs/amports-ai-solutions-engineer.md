@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [AMPORTS](https://scoutify.ai/companies/amports-rec-pro-ukg-net?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | United States |
-| Category | Machine Learning Engineer |
+| Category | Sales Engineer |
 | Posted | 2026-09-01 |
 | Apply | [View on company site](https://amports.rec.pro.ukg.net/AME1132APOI/JobBoard/0b25c195-c8b9-4ca7-899d-88dfae5897bc/OpportunityDetail?opportunityId=567a5093-9b90-4dcc-b5ac-320506820dcf) |
 
 ## About This Role
 
-This machine learning engineer position at AMPORTS was posted on 2026-09-01.
+This sales engineer position at AMPORTS was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

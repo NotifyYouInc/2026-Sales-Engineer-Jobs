@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Motorola Solutions](https://scoutify.ai/companies/motorola-solutions?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Reston, Virginia, United States |
-| Category | Software Engineer |
-| Posted | 2026-05-14 |
-| Apply | [View on company site](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Reston-VA--VA58/Senior-Field-Applications-Engineer_R64392) |
+| Category | Sales Engineer |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Reston-VA--VA58/Senior-Field-Applications-Engineer_R68520) |
 
 ## About This Role
 
-This software engineer position at Motorola Solutions was posted on 2026-05-14.
+This sales engineer position at Motorola Solutions was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

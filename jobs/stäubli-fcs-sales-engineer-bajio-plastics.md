@@ -5,12 +5,12 @@
 | Company | [Stäubli](https://scoutify.ai/companies/stubli?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Santiago de Querétaro, Querétaro, Mexico |
 | Category | Sales Engineer |
-| Posted | 2026-06-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/StaubliGroup/744000133448909-fcs-sales-engineer-bajio-plastics) |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/StaubliGroup/744000147294160-fcs-sales-engineer-bajio-plastics) |
 
 ## About This Role
 
-This sales engineer position at Stäubli was posted on 2026-06-22.
+This sales engineer position at Stäubli was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

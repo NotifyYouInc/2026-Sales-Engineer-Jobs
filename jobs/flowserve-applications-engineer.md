@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Flowserve](https://scoutify.ai/companies/flowserve?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Budapest, Budapest, Hungary |
-| Category | Software Engineer |
-| Posted | 2026-08-24 |
-| Apply | [View on company site](https://flowserve.wd1.myworkdayjobs.com/applied/job/Budapest-Hungary/Applications-Engineer_R-20565-1) |
+| Location | Coslada, Madrid, Spain |
+| Category | Sales Engineer |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://flowserve.wd1.myworkdayjobs.com/applied/job/Coslada-Spain/Applications-Engineer_R-19193) |
 
 ## About This Role
 
-This software engineer position at Flowserve was posted on 2026-08-24.
+This sales engineer position at Flowserve was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

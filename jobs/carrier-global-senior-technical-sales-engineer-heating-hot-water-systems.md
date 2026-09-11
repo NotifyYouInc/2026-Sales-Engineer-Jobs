@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Carrier Global](https://scoutify.ai/companies/carrier?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Dubai, Dubai, United Arab Emirates |
-| Category | Channel / Partner Sales |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://carrier.wd5.myworkdayjobs.com/jobs/job/Viessmann-Middle-East-FZEE-Wing-Office-605-0-Dubai-AE/Senior-Technical-Sales-Engineer---Heating---Hot-Water-Systems-_30200884) |
+| Category | Sales Engineer |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://carrier.wd5.myworkdayjobs.com/jobs/job/Dubai-United-Arab-Emirates/Senior-Technical-Sales-Engineer---Heating---Hot-Water-Systems-_30213212) |
 
 ## About This Role
 
-This channel / partner sales position at Carrier Global was posted on 2026-03-11.
+This sales engineer position at Carrier Global was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cognex](https://scoutify.ai/companies/cognex?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Shenzhen, Guangdong, China |
+| Location | Michigan, US |
 | Category | Sales Engineer |
-| Posted | 2026-07-30 |
-| Apply | [View on company site](https://cognex.wd1.myworkdayjobs.com/External_Career_Site/job/Shenzhen-China/Account-Sales-Engineer_R0012200) |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://cognex.wd1.myworkdayjobs.com/External_Career_Site/job/Michigan---Field/Account-Sales-Engineer_R0012350) |
 
 ## About This Role
 
-This sales engineer position at Cognex was posted on 2026-07-30.
+This sales engineer position at Cognex was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

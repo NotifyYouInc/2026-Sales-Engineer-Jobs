@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Veradigm](https://scoutify.ai/companies/veradigm?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Raleigh, North Carolina, United States |
-| Category | Customer Success |
+| Category | Sales Engineer |
 | Posted | 2026-09-01 |
 | Apply | [View on company site](https://veradigm.wd12.myworkdayjobs.com/vr/job/Raleigh-NC/Sr-Implementation-Consultant_JR10894) |
 
 ## About This Role
 
-This customer success position at Veradigm was posted on 2026-09-01.
+This sales engineer position at Veradigm was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

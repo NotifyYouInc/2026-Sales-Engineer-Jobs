@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [ABB](https://scoutify.ai/companies/abb?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Lüdenscheid, North Rhine-Westphalia, Germany |
-| Category | Software Engineer |
+| Category | Sales Engineer |
 | Posted | 2026-09-02 |
 | Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Luedenscheid-North-Rhine-Westphalia-Germany/Field-Application-Engineer--m-w-d--Building-Automation-----Kreis-Recklinghausen-Dortmund-Bochum-Mnster-Osnabrck-Bocholt_JR00043726) |
 
 ## About This Role
 
-This software engineer position at ABB was posted on 2026-09-02.
+This sales engineer position at ABB was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

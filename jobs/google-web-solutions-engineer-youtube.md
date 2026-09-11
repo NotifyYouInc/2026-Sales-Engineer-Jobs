@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Software Engineer |
-| Posted | 2026-05-15 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckRmgFmmNQqfOgGYfwNy5E9CH5xmzqZuJnUT0ZHHovFB6EjsACxwdTPgXOBt4_8HVP6MqUX92xq9JBG0kOcawVWPLrlf8BQlOX1L_Hbb9_uurxqEbBRmnLdGf8qKpTQ%3D%3D_V2&loc=IN&title=Web+Solutions+Engineer) |
+| Category | Sales Engineer |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckeZx-0sNZJBJigTIllmDLf5wLActccg-ORABaA_0FerMEjsA1Ny_i85JYSg7Vl7nQ6cwTDn4jgGKfAPIbJ6rzbUSgdD_KmkFTd-6LbLp0VltQNA75ZIR_jiZZwAJPg%3D%3D_V2&loc=IN&title=Web+Solutions+Engineer) |
 
 ## About This Role
 
-This software engineer position at Google was posted on 2026-05-15.
+This sales engineer position at Google was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

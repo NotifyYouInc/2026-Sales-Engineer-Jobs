@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Xylem](https://scoutify.ai/companies/xylem?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Herford, North Rhine-Westphalia, Germany |
-| Category | Software Engineer |
+| Category | Sales Engineer |
 | Posted | 2026-09-02 |
 | Apply | [View on company site](https://xylem.wd5.myworkdayjobs.com/xylem-careers/job/Herford/Application-Engineer--Sales-Support--m-w-d---UV-Desinfektion---Wasser---Abwasser_R50091-1) |
 
 ## About This Role
 
-This software engineer position at Xylem was posted on 2026-09-02.
+This sales engineer position at Xylem was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [SS&C Technologies](https://scoutify.ai/companies/ss-c-technologies?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | 3 locations |
-| Category | Customer Success |
+| Category | Sales Engineer |
 | Posted | 2026-09-03 |
 | Apply | [View on company site](https://ssctech.wd1.myworkdayjobs.com/ssctechnologies/job/Parramatta---3-Parramatta-Square/Client-Solutions-Specialist---superannuation--insurance--investments--and-pensions_R46071) |
 
 ## About This Role
 
-This customer success position at SS&C Technologies was posted on 2026-09-03.
+This sales engineer position at SS&C Technologies was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

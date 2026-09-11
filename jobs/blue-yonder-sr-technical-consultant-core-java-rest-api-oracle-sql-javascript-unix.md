@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Blue Yonder](https://scoutify.ai/companies/jda?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Pune, Maharashtra, India |
-| Category | Software Engineer |
+| Category | Sales Engineer |
 | Posted | 2026-09-02 |
 | Apply | [View on company site](https://jda.wd5.myworkdayjobs.com/JDA_Careers/job/Pune---BY/Sr-Technical-Consultant---Core-Java--Rest-API--Oracle-Sql--Javascript---Unix_262891) |
 
 ## About This Role
 
-This software engineer position at Blue Yonder was posted on 2026-09-02.
+This sales engineer position at Blue Yonder was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

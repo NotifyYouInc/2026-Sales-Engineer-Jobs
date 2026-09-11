@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Mindbody](https://scoutify.ai/companies/mindbody?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Australia |
-| Category | Customer Success |
+| Category | Sales Engineer |
 | Posted | 2026-09-02 |
 | Apply | [View on company site](https://www.playlist.com/careers/opportunities/4710388006?gh_jid=4710388006) |
 
 ## About This Role
 
-This customer success position at Mindbody was posted on 2026-09-02.
+This sales engineer position at Mindbody was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

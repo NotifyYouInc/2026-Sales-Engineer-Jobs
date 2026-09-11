@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Zendesk](https://scoutify.ai/companies/zendesk?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Lisbon, Lisbon, Portugal |
-| Category | Implementation / Professional Services |
-| Posted | 2026-04-08 |
-| Apply | [View on company site](https://zendesk.wd1.myworkdayjobs.com/zendesk/job/Remote-Spain/Senior-Solutions-Consultant_R33452) |
+| Location | Portugal |
+| Category | Sales Engineer |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://zendesk.wd1.myworkdayjobs.com/zendesk/job/Remote-Portugal/Solutions-Consultant_R35413) |
 
 ## About This Role
 
-This implementation / professional services position at Zendesk was posted on 2026-04-08.
+This sales engineer position at Zendesk was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

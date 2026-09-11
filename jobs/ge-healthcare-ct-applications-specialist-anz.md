@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [GE HealthCare](https://scoutify.ai/companies/ge-healthcare?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Brisbane, Queensland, Australia |
-| Category | Customer Success |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/AUS11-01-Brisbane-520-Wickham-St/CT-Applications-Specialist-A-NZ_R4039780-2) |
+| Location | Sydney, New South Wales, Australia |
+| Category | Sales Engineer |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/AUS08-01-Sydney-241-ORiordan-Street-8F/CT-Applications-Specialist-A-NZ_R4045990-1) |
 
 ## About This Role
 
-This customer success position at GE HealthCare was posted on 2026-04-17.
+This sales engineer position at GE HealthCare was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Danaher](https://scoutify.ai/companies/danaher?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Pakistan |
-| Category | Software Engineer |
+| Category | Sales Engineer |
 | Posted | 2026-09-02 |
 | Apply | [View on company site](https://danaher.wd1.myworkdayjobs.com/DanaherJobs/job/Pakistan/Field-Applications-Engineer_R1311285) |
 
 ## About This Role
 
-This software engineer position at Danaher was posted on 2026-09-02.
+This sales engineer position at Danaher was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

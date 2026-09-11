@@ -5,12 +5,12 @@
 | Company | [Vistex](https://scoutify.ai/companies/recruiting2-ultipro-com-oj116090?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | São Paulo, São Paulo, Brazil |
 | Category | Sales Engineer |
-| Posted | 2026-08-10 |
-| Apply | [View on company site](https://recruiting2.ultipro.com/vis1012visx/JobBoard/23e64b4e-ff01-4579-9e5a-835480ac7a51/OpportunityDetail?opportunityId=6492ab5b-5860-4571-ae83-a8224e507480) |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://recruiting2.ultipro.com/vis1012visx/JobBoard/23e64b4e-ff01-4579-9e5a-835480ac7a51/OpportunityDetail?opportunityId=e1dc5bc9-4700-4dbf-9f6d-964e246d1ecb) |
 
 ## About This Role
 
-This sales engineer position at Vistex was posted on 2026-08-10.
+This sales engineer position at Vistex was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

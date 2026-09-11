@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mimecast](https://scoutify.ai/companies/mimecast?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Colorado, US |
+| Location | Canada |
 | Category | Sales Engineer |
-| Posted | 2026-08-31 |
-| Apply | [View on company site](https://mimecast.wd5.myworkdayjobs.com/Mimecast-Careers/job/United-States-of-America---Colorado---Remote/Sales-Engineer_R6684-1) |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://mimecast.wd5.myworkdayjobs.com/Mimecast-Careers/job/Canada---Remote/Sales-Engineer_R6683-1) |
 
 ## About This Role
 
-This sales engineer position at Mimecast was posted on 2026-08-31.
+This sales engineer position at Mimecast was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

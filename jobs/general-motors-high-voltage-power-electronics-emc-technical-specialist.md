@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [General Motors](https://scoutify.ai/companies/general-motors?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Warren, Michigan, United States |
-| Category | Electrical / Hardware Engineer |
+| Category | Sales Engineer |
 | Posted | 2026-09-02 |
 | Apply | [View on company site](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/High-Voltage-Power-Electronics-EMC-Technical-Specialist_JR-202619131) |
 
 ## About This Role
 
-This electrical / hardware engineer position at General Motors was posted on 2026-09-02.
+This sales engineer position at General Motors was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

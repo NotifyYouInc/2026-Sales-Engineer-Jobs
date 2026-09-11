@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Thomson Reuters](https://scoutify.ai/companies/thomson-reuters?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Madrid, Madrid, Spain |
-| Category | Customer Success |
+| Category | Sales Engineer |
 | Posted | 2026-09-02 |
 | Apply | [View on company site](https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/Spain-Madrid-Madrid/Senior-Implementation-Consultant_JREQ203201-1) |
 
 ## About This Role
 
-This customer success position at Thomson Reuters was posted on 2026-09-02.
+This sales engineer position at Thomson Reuters was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

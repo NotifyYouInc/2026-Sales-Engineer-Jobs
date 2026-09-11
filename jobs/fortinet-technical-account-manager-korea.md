@@ -5,12 +5,12 @@
 | Company | [Fortinet](https://scoutify.ai/companies/us2-cx-oj39798?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Seoul, Seoul, South Korea |
 | Category | Sales Engineer |
-| Posted | 2026-02-13 |
-| Apply | [View on company site](https://edel.fa.us2.oraclecloud.com/jobs/#22139) |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://edel.fa.us2.oraclecloud.com/jobs/#23741) |
 
 ## About This Role
 
-This sales engineer position at Fortinet was posted on 2026-02-13.
+This sales engineer position at Fortinet was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

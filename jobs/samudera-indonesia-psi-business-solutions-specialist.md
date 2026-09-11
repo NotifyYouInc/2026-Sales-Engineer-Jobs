@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Samudera Indonesia](https://scoutify.ai/companies/samudera-indonesia?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Jakarta, Jakarta, Indonesia |
-| Category | Business Analyst |
+| Category | Sales Engineer |
 | Posted | 2026-09-03 |
 | Apply | [View on company site](https://samudera.wd3.myworkdayjobs.com/careers/job/Jakarta-Barat/PSI-Business-Solutions-Specialist_JR102048) |
 
 ## About This Role
 
-This business analyst position at Samudera Indonesia was posted on 2026-09-03.
+This sales engineer position at Samudera Indonesia was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

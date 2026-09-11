@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [American Electric Power](https://scoutify.ai/companies/aep?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Columbus, Ohio, United States |
-| Category | Cybersecurity Engineer |
-| Posted | 2026-08-28 |
-| Apply | [View on company site](https://aep.wd1.myworkdayjobs.com/AEPCareerSite/job/Columbus-OH/Solution-Engineer-Principal_R18360) |
+| Category | Sales Engineer |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://aep.wd1.myworkdayjobs.com/AEPCareerSite/job/Columbus-OH/Solution-Engineer-Principal_R18524) |
 
 ## About This Role
 
-This cybersecurity engineer position at American Electric Power was posted on 2026-08-28.
+This sales engineer position at American Electric Power was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

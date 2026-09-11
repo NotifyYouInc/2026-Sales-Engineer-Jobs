@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Zeiss](https://scoutify.ai/companies/zeissgroup?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Lutterworth, England, United Kingdom |
+| Location | Wixom, Michigan, United States |
 | Category | Sales Engineer |
-| Posted | 2026-08-10 |
-| Apply | [View on company site](https://zeissgroup.wd3.myworkdayjobs.com/External/job/Lutterworth/Applications-Engineer_JR_1051951) |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://zeissgroup.wd3.myworkdayjobs.com/External/job/Wixom-MI/Applications-Engineer_JR_1052596) |
 
 ## About This Role
 
-This sales engineer position at Zeiss was posted on 2026-08-10.
+This sales engineer position at Zeiss was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

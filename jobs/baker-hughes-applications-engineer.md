@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Baker Hughes](https://scoutify.ai/companies/baker-hughes?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Houston, Texas, United States |
-| Category | Software Engineer |
+| Category | Sales Engineer |
 | Posted | 2026-09-02 |
 | Apply | [View on company site](https://bakerhughes.wd5.myworkdayjobs.com/BakerHughes/job/US-TX-HOUSTON-2001-RANKIN-ROAD/Applications-Engineer_R168539) |
 
 ## About This Role
 
-This software engineer position at Baker Hughes was posted on 2026-09-02.
+This sales engineer position at Baker Hughes was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

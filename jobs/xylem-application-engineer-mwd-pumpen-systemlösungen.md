@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Xylem](https://scoutify.ai/companies/xylem?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | 2 locations |
-| Category | Software Engineer |
+| Category | Sales Engineer |
 | Posted | 2026-09-03 |
 | Apply | [View on company site](https://xylem.wd5.myworkdayjobs.com/xylem-careers/job/Pulheim/Application-Engineer--m-w-d--Pumpen---Systemlsungen_R50351) |
 
 ## About This Role
 
-This software engineer position at Xylem was posted on 2026-09-03.
+This sales engineer position at Xylem was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

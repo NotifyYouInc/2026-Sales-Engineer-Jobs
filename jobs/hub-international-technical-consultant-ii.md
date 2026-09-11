@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [HUB International](https://scoutify.ai/companies/hubinternational?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Miami, Florida, United States |
-| Category | Customer Success |
+| Category | Sales Engineer |
 | Posted | 2026-09-02 |
 | Apply | [View on company site](https://hubinternational.wd1.myworkdayjobs.com/hubinternational/job/Miami-FL/Technical-Consultant-II_R0038538) |
 
 ## About This Role
 
-This customer success position at HUB International was posted on 2026-09-02.
+This sales engineer position at HUB International was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Veeva](https://scoutify.ai/companies/veeva?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Poland |
+| Location | Wrocław, Lower Silesia, Poland |
 | Category | Sales Engineer |
-| Posted | 2026-09-01 |
-| Apply | [View on company site](https://jobs.lever.co/veeva/4ea9851b-cc73-4bea-a1ce-ae0f83f088b9) |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://jobs.lever.co/veeva/5bfdcc48-ca36-4a7f-b99d-c14dd1453c0a) |
 
 ## About This Role
 
-This sales engineer position at Veeva was posted on 2026-09-01.
+This sales engineer position at Veeva was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 
