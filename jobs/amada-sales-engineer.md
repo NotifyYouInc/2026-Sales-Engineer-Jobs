@@ -5,12 +5,12 @@
 | Company | [Amada](https://scoutify.ai/companies/recruiting-ultipro-com-oj5135?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Columbus, Ohio, United States |
 | Category | Sales Engineer |
-| Posted | 2026-08-26 |
-| Apply | [View on company site](https://recruiting.ultipro.com/ama1000amai/JobBoard/5e5a1f03-7baa-4f11-f6e9-efaa3e3bd82e/OpportunityDetail?opportunityId=0dac1fa8-ff4c-44e6-861a-e3d001ae0aeb) |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://recruiting.ultipro.com/ama1000amai/JobBoard/5e5a1f03-7baa-4f11-f6e9-efaa3e3bd82e/OpportunityDetail?opportunityId=16724cac-0dae-41a2-9a02-1318d10e5ce7) |
 
 ## About This Role
 
-This sales engineer position at Amada was posted on 2026-08-26.
+This sales engineer position at Amada was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

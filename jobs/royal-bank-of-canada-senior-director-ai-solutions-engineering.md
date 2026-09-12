@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Royal Bank of Canada](https://scoutify.ai/companies/rbc?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Toronto, Ontario, Canada |
-| Category | Engineering Manager |
-| Posted | 2026-05-24 |
+| Category | Sales Engineer |
+| Posted | 2026-09-04 |
 | Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/Senior-Director--AI-Solutions-Engineering_R-0000173778-1) |
 
 ## About This Role
 
-This engineering manager position at Royal Bank of Canada was posted on 2026-05-24.
+This sales engineer position at Royal Bank of Canada was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Rotork](https://scoutify.ai/companies/rotork?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Sinzig, Rheinland-Pfalz, Germany |
 | Category | Sales Engineer |
-| Posted | 2026-08-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Rotork1/744000143113455-inside-sales-engineer-9-monats-vertrag-mwd) |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Rotork1/744000147500631-inside-sales-engineer-9-monats-vertrag-mwd) |
 
 ## About This Role
 
-This sales engineer position at Rotork was posted on 2026-08-12.
+This sales engineer position at Rotork was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

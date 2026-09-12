@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Purchase, New York, United States |
-| Category | Product Marketing |
+| Category | Marketing |
 | Posted | 2026-09-03 |
 | Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Purchase-New-York/Product-Specialist--Product-Management--Global-Consumer-Credit-Commercialization_R-289911) |
 
 ## About This Role
 
-This product marketing position at Mastercard was posted on 2026-09-03.
+This marketing position at Mastercard was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

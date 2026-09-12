@@ -1,16 +1,16 @@
-# Technical Specialist, Construction at Autodesk
+# Technical Specialist Construction at Autodesk
 
 | Field | Details |
 |-------|---------|
 | Company | [Autodesk](https://scoutify.ai/companies/autodesk?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Quebec, CA |
+| Location | São Paulo, São Paulo, Brazil |
 | Category | Sales Engineer |
-| Posted | 2026-08-01 |
-| Apply | [View on company site](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Quebec-CAN---Remote/Technical-Specialist--Construction_26WD100286-2) |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Sao-Paulo-BRA/Technical-Specialist-Construction_26WD100783-1) |
 
 ## About This Role
 
-This sales engineer position at Autodesk was posted on 2026-08-01.
+This sales engineer position at Autodesk was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

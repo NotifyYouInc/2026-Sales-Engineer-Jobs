@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Carrier Global](https://scoutify.ai/companies/carrier?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Bangkok, Bangkok, Thailand |
+| Location | Chicopee, Massachusetts, United States |
 | Category | Sales Engineer |
-| Posted | 2026-08-14 |
-| Apply | [View on company site](https://carrier.wd5.myworkdayjobs.com/jobs/job/Carrier-Thailand-Limited-185863-74-Interlink-Tower-Debaratna-Road-Bangna-Tai-Bangna-Bangkok-10260-Thailand/Service-Sales-Engineer_30213651) |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://carrier.wd5.myworkdayjobs.com/jobs/job/CAM68-ALC---Mass-Chicopee-260-Griffith-Road-Chicopee-MA-01022-USA/Service-Sales-Engineer_30217360) |
 
 ## About This Role
 
-This sales engineer position at Carrier Global was posted on 2026-08-14.
+This sales engineer position at Carrier Global was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

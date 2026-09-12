@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Arlington, Texas, United States |
-| Category | Product Marketing |
+| Category | Marketing |
 | Posted | 2026-09-03 |
 | Apply | [View on company site](https://www.amazon.jobs/en/jobs/10527961/sr-ai-sales-specialist-aws-global-nonprofit-business) |
 
 ## About This Role
 
-This product marketing position at Amazon was posted on 2026-09-03.
+This marketing position at Amazon was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

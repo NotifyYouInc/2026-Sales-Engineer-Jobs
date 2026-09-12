@@ -5,12 +5,12 @@
 | Company | [Strategic HR Client Job Openings](https://scoutify.ai/companies/strategic-hr-client-job-openings?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Cincinnati, Ohio, United States |
 | Category | Sales Engineer |
-| Posted | 2026-07-24 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/strategichr/jobs/7816015003) |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/strategichr/jobs/7987099003) |
 
 ## About This Role
 
-This sales engineer position at Strategic HR Client Job Openings was posted on 2026-07-24.
+This sales engineer position at Strategic HR Client Job Openings was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

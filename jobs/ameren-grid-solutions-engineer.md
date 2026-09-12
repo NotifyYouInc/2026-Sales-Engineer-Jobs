@@ -5,12 +5,12 @@
 | Company | [Ameren](https://scoutify.ai/companies/ameren?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | St. Louis, Missouri, United States |
 | Category | Sales Engineer |
-| Posted | 2026-07-23 |
-| Apply | [View on company site](https://ameren.wd1.myworkdayjobs.com/External/job/St-Louis-MO/Grid-Solutions-Engineer_033753) |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://ameren.wd1.myworkdayjobs.com/External/job/St-Louis-MO/Grid-Solutions-Engineer_033944) |
 
 ## About This Role
 
-This sales engineer position at Ameren was posted on 2026-07-23.
+This sales engineer position at Ameren was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

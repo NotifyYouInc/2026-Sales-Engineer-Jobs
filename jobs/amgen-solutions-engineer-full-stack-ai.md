@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Amgen](https://scoutify.ai/companies/amgen?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Hyderabad, Telangana, India |
-| Category | Sales Engineer |
+| Category | AI / LLM Engineer |
 | Posted | 2026-09-04 |
 | Apply | [View on company site](https://amgen.wd1.myworkdayjobs.com/Careers/job/India---Hyderabad/Solutions-Engineer---Full-Stack---AI-Automation_R-243761) |
 
 ## About This Role
 
-This sales engineer position at Amgen was posted on 2026-09-04.
+This ai / llm engineer position at Amgen was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

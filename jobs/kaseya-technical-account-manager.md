@@ -1,16 +1,16 @@
-# Technical Account Manager  at Kaseya
+# Technical Account Manager at Kaseya
 
 | Field | Details |
 |-------|---------|
 | Company | [Kaseya](https://scoutify.ai/companies/kaseya?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Miami, Florida, United States |
-| Category | Customer Success |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://www.kaseya.com/careers/jobs/id/5821567004/?gh_jid=5821567004) |
+| Category | Sales Engineer |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://www.kaseya.com/careers/jobs/id/6173486004/?gh_jid=6173486004) |
 
 ## About This Role
 
-This customer success position at Kaseya was posted on 2026-04-24.
+This sales engineer position at Kaseya was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

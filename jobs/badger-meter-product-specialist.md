@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Badger Meter](https://scoutify.ai/companies/badgermeter?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Milwaukee, Wisconsin, United States |
-| Category | Product Marketing |
+| Category | Marketing |
 | Posted | 2026-09-03 |
 | Apply | [View on company site](https://badgermeter.wd5.myworkdayjobs.com/US_CareerSite/job/US---WI---Milwaukee-HQ/Product-Specialist_4575) |
 
 ## About This Role
 
-This product marketing position at Badger Meter was posted on 2026-09-03.
+This marketing position at Badger Meter was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Gurugram, Haryana, India |
+| Location | O'Fallon, Missouri, United States |
 | Category | Sales Engineer |
-| Posted | 2026-07-13 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Gurgaon-India/Associate-Product-Specialist--Product-Management_R-280604) |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/OFallon-Missouri/Associate-Product-Specialist--Product-Management_R-277014) |
 
 ## About This Role
 
-This sales engineer position at Mastercard was posted on 2026-07-13.
+This sales engineer position at Mastercard was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

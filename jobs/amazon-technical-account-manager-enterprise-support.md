@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Dallas, Texas, United States |
+| Location | Switzerland |
 | Category | Sales Engineer |
-| Posted | 2026-08-18 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10504455/technical-account-manager-enterprise-support) |
+| Posted | 2026-09-05 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10530582/technical-account-manager-enterprise-support) |
 
 ## About This Role
 
-This sales engineer position at Amazon was posted on 2026-08-18.
+This sales engineer position at Amazon was posted on 2026-09-05.
 
 ## Get Real-Time Alerts
 

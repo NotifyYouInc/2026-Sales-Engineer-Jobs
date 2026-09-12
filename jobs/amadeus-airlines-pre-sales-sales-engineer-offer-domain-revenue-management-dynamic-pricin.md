@@ -5,12 +5,12 @@
 | Company | [Amadeus](https://scoutify.ai/companies/amadeus?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | 2 locations |
 | Category | Sales Engineer |
-| Posted | 2026-05-20 |
+| Posted | 2026-09-04 |
 | Apply | [View on company site](https://amadeus.wd502.myworkdayjobs.com/jobs/job/Irving-Texas/Airlines-Pre-Sales-Sales-Engineer---Offer-Domain--Revenue-Management---Dynamic-Pricing-focus-_R35026-1) |
 
 ## About This Role
 
-This sales engineer position at Amadeus was posted on 2026-05-20.
+This sales engineer position at Amadeus was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

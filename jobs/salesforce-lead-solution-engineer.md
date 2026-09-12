@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Salesforce](https://scoutify.ai/companies/salesforce?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | San Francisco, California, United States |
+| Location | Gurugram, Haryana, India |
 | Category | Sales Engineer |
-| Posted | 2026-06-30 |
-| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Lead-Solution-Engineer_JR345448) |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Gurgaon/Lead-Solution-Engineer_JR358324) |
 
 ## About This Role
 
-This sales engineer position at Salesforce was posted on 2026-06-30.
+This sales engineer position at Salesforce was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

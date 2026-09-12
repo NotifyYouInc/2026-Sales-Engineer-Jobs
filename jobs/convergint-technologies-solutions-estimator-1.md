@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Convergint Technologies](https://scoutify.ai/companies/convergint-technologies?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | United States |
+| Location | San Diego, California, United States |
 | Category | Sales Engineer |
-| Posted | 2026-07-14 |
-| Apply | [View on company site](https://recruiting2.ultipro.com/con1074cvtg/JobBoard/1831b61a-1945-44fa-afd8-624795c9b30d/OpportunityDetail?opportunityId=5dadb5e9-6aba-47da-aa00-b9cf8d8167ef) |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://recruiting2.ultipro.com/con1074cvtg/JobBoard/1831b61a-1945-44fa-afd8-624795c9b30d/OpportunityDetail?opportunityId=46801b3a-cb87-4cde-b97c-b9ef18044ccc) |
 
 ## About This Role
 
-This sales engineer position at Convergint Technologies was posted on 2026-07-14.
+This sales engineer position at Convergint Technologies was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 
