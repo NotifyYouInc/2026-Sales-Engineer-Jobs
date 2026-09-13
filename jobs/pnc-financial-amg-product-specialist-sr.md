@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [PNC Financial](https://scoutify.ai/companies/pnc-financial?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Pennsylvania, US |
-| Category | Corporate Finance |
+| Category | Wealth Management / Private Banking |
 | Posted | 2026-09-02 |
 | Apply | [View on company site](https://pnc.wd5.myworkdayjobs.com/External/job/Home-Location-PA-PAH01/AMG-Product-Specialist-Sr_R234274-1) |
 
 ## About This Role
 
-This corporate finance position at PNC Financial was posted on 2026-09-02.
+This wealth management / private banking position at PNC Financial was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

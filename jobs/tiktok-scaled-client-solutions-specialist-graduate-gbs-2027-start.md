@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [TikTok](https://scoutify.ai/companies/tiktok?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | London, England, United Kingdom |
-| Category | Digital / Performance Marketing |
+| Category | Marketing |
 | Posted | 2026-09-03 |
 | Apply | [View on company site](https://careers.tiktok.com/position/7681315742148118789/detail) |
 
 ## About This Role
 
-This digital / performance marketing position at TikTok was posted on 2026-09-03.
+This marketing position at TikTok was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 
