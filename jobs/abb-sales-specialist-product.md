@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ABB](https://scoutify.ai/companies/abb?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Ankara, Ankara, Turkey |
+| Location | Faridabad, Haryana, India |
 | Category | Account Executive |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Ankara-Ankara-Turkey/Sales-Specialist---Product_JR00011461-1) |
+| Posted | 2026-09-06 |
+| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Faridabad-Haryana-India/Sales-Specialist---Product_JR00046141) |
 
 ## About This Role
 
-This account executive position at ABB was posted on 2026-04-16.
+This account executive position at ABB was posted on 2026-09-06.
 
 ## Get Real-Time Alerts
 

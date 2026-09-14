@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Carrier Global](https://scoutify.ai/companies/carrier?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Guangzhou, Guangdong, China |
+| Location | Nanchang, Jiangxi, China |
 | Category | Sales Engineer |
-| Posted | 2026-05-28 |
-| Apply | [View on company site](https://carrier.wd5.myworkdayjobs.com/jobs/job/LOC3427-Room1207B-Pearl-River-Tower-15-Zhujiang-West-Road-Tianhe-District-Guangzhou-Guangdong-China/Sales-Engineer--SASR_30206122) |
+| Posted | 2026-09-07 |
+| Apply | [View on company site](https://carrier.wd5.myworkdayjobs.com/jobs/job/LOC3164-Room-615-616-No2-Bayi-Avenue-Nanchang-Xihu-District-Jiangxi-China/Sales-Engineer--SASR_30217285) |
 
 ## About This Role
 
-This sales engineer position at Carrier Global was posted on 2026-05-28.
+This sales engineer position at Carrier Global was posted on 2026-09-07.
 
 ## Get Real-Time Alerts
 

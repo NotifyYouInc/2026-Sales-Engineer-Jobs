@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Couchbase](https://scoutify.ai/companies/couchbaseinc?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | India |
+| Location | Dubai, Dubai, United Arab Emirates |
 | Category | Sales Engineer |
-| Posted | 2026-07-24 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/couchbaseinc/jobs/4697613006) |
+| Posted | 2026-09-07 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/couchbaseinc/jobs/4708479006) |
 
 ## About This Role
 
-This sales engineer position at Couchbase was posted on 2026-07-24.
+This sales engineer position at Couchbase was posted on 2026-09-07.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Endeavour Group Careers](https://scoutify.ai/companies/endeavourgroupcareers?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Richmond, Victoria, Australia |
-| Category | IT & Systems Administration |
+| Category | Sales Engineer |
 | Posted | 2026-09-04 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/EndeavourGroupCareers/744000147419509-euc-technical-specialist) |
 
 ## About This Role
 
-This it & systems administration position at Endeavour Group Careers was posted on 2026-09-04.
+This sales engineer position at Endeavour Group Careers was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

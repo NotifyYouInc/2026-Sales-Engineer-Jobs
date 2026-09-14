@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [ABB](https://scoutify.ai/companies/abb?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Richmond, Virginia, United States |
-| Category | IT & Systems Administration |
+| Category | Sales Engineer |
 | Posted | 2026-09-02 |
 | Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Richmond-Virginia-USA/IS-Technology-Specialist_JR00045958) |
 
 ## About This Role
 
-This it & systems administration position at ABB was posted on 2026-09-02.
+This sales engineer position at ABB was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

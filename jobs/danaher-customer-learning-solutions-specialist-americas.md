@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Danaher](https://scoutify.ai/companies/danaher?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Austin, Texas, United States |
-| Category | Learning & Development |
+| Category | Sales Engineer |
 | Posted | 2026-09-03 |
 | Apply | [View on company site](https://danaher.wd1.myworkdayjobs.com/DanaherJobs/job/Austin-Texas-United-States/Customer-Learning-Solutions-Specialist---Americas_R1317901) |
 
 ## About This Role
 
-This learning & development position at Danaher was posted on 2026-09-03.
+This sales engineer position at Danaher was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

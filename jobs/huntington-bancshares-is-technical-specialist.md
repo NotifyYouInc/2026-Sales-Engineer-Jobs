@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Huntington Bancshares](https://scoutify.ai/companies/huntington?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Dallas, Texas, United States |
-| Category | IT & Systems Administration |
+| Category | Sales Engineer |
 | Posted | 2026-09-02 |
 | Apply | [View on company site](https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Dallas-TX/IS-Technical-Specialist_R0075380) |
 
 ## About This Role
 
-This it & systems administration position at Huntington Bancshares was posted on 2026-09-02.
+This sales engineer position at Huntington Bancshares was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

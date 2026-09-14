@@ -1,16 +1,16 @@
-# TECHNICAL SPECIALIST at Yokogawa
+# Technical specialist at Yokogawa
 
 | Field | Details |
 |-------|---------|
 | Company | [Yokogawa](https://scoutify.ai/companies/yokogawa?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Newnan, Georgia, United States |
+| Location | Bucharest, București, Romania |
 | Category | Sales Engineer |
-| Posted | 2026-05-07 |
-| Apply | [View on company site](https://yokogawa.wd3.myworkdayjobs.com/yokogawa-career-site/job/Newnan/TECHNICAL-SPECIALIST_R-11268) |
+| Posted | 2026-09-07 |
+| Apply | [View on company site](https://yokogawa.wd3.myworkdayjobs.com/yokogawa-career-site/job/Bucharest/Technical-specialist_R-12455) |
 
 ## About This Role
 
-This sales engineer position at Yokogawa was posted on 2026-05-07.
+This sales engineer position at Yokogawa was posted on 2026-09-07.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ABB](https://scoutify.ai/companies/abb?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Dubai, Dubai, United Arab Emirates |
+| Location | Abu Dhabi, Abu Dhabi, United Arab Emirates |
 | Category | Sales Engineer |
-| Posted | 2026-08-10 |
-| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Dubai-Dubai-United-Arab-Emirates/Sales-Support-Specialist-Emirati-Talents_JR00042239) |
+| Posted | 2026-09-06 |
+| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Abu-Dhabi-Abu-Dhabi-United-Arab-Emirates/Sales-Support-Specialist-Emirati-Talents_JR00046050) |
 
 ## About This Role
 
-This sales engineer position at ABB was posted on 2026-08-10.
+This sales engineer position at ABB was posted on 2026-09-06.
 
 ## Get Real-Time Alerts
 
