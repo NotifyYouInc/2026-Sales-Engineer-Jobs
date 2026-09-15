@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [RTB House](https://scoutify.ai/companies/rtbhouse?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | London, England, United Kingdom |
-| Category | Sales |
-| Posted | 2026-09-01 |
-| Apply | [View on company site](https://job-boards.eu.greenhouse.io/rtbhouse/jobs/4831152101) |
+| Location | Taiwan |
+| Category | Sales Engineer |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://job-boards.eu.greenhouse.io/rtbhouse/jobs/4966465101) |
 
 ## About This Role
 
-This sales position at RTB House was posted on 2026-09-01.
+This sales engineer position at RTB House was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

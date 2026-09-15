@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Fronius](https://scoutify.ai/companies/fronius?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Monterrey, Nuevo León, Mexico |
+| Location | Mexico City, Mexico City, Mexico |
 | Category | Sales Engineer |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://fronius.wd3.myworkdayjobs.com/job_board/job/Monterrey/Welding-Application-Support_REQ-10009085) |
+| Posted | 2026-09-07 |
+| Apply | [View on company site](https://fronius.wd3.myworkdayjobs.com/job_board/job/Mexico-City/Welding-Application-Support_REQ-10009085) |
 
 ## About This Role
 
-This sales engineer position at Fronius was posted on 2026-05-13.
+This sales engineer position at Fronius was posted on 2026-09-07.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Autodesk](https://scoutify.ai/companies/autodesk?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Georgia, US |
-| Category | Sales |
+| Category | Sales Leadership |
 | Posted | 2026-09-03 |
 | Apply | [View on company site](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Colorado-USA---Remote/Manager--Technical-Sales_26WD100759-1) |
 
 ## About This Role
 
-This sales position at Autodesk was posted on 2026-09-03.
+This sales leadership position at Autodesk was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

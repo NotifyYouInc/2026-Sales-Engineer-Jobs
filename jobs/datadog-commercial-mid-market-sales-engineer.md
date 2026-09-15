@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Datadog](https://scoutify.ai/companies/datadog?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Seoul, Seoul, South Korea |
+| Location | Tokyo, Tokyo, Japan |
 | Category | Sales Engineer |
-| Posted | 2026-08-20 |
-| Apply | [View on company site](https://careers.datadoghq.com/detail/8131949/?gh_jid=8131949) |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://careers.datadoghq.com/detail/8131985/?gh_jid=8131985) |
 
 ## About This Role
 
-This sales engineer position at Datadog was posted on 2026-08-20.
+This sales engineer position at Datadog was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

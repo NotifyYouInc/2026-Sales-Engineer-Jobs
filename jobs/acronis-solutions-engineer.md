@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Acronis](https://scoutify.ai/companies/acronis?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Japan |
-| Category | Technical & Solutions Architect |
-| Posted | 2026-05-28 |
-| Apply | [View on company site](https://acronis.wd502.myworkdayjobs.com/acronis_careers/job/Japan/Solutions-Engineer_R-100953) |
+| Location | Colombia |
+| Category | Sales Engineer |
+| Posted | 2026-09-07 |
+| Apply | [View on company site](https://acronis.wd502.myworkdayjobs.com/acronis_careers/job/Colombia---Remote/Solutions-Engineer_R-101247) |
 
 ## About This Role
 
-This technical & solutions architect position at Acronis was posted on 2026-05-28.
+This sales engineer position at Acronis was posted on 2026-09-07.
 
 ## Get Real-Time Alerts
 

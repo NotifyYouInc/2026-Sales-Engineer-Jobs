@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [InvoiceCloud](https://scoutify.ai/companies/invoicecloud?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | United States |
-| Category | Sales |
+| Category | Sales Leadership |
 | Posted | 2026-09-03 |
 | Apply | [View on company site](http://invoicecloud.net/careers/open-positions?gh_jid=7985445003) |
 
 ## About This Role
 
-This sales position at InvoiceCloud was posted on 2026-09-03.
+This sales leadership position at InvoiceCloud was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

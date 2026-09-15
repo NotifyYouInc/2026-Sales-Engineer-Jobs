@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Veeva](https://scoutify.ai/companies/veeva?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Boston, Massachusetts, United States |
+| Location | Philadelphia, Pennsylvania, United States |
 | Category | Sales Engineer |
-| Posted | 2026-09-02 |
-| Apply | [View on company site](https://jobs.lever.co/veeva/a6f09974-c1a5-4e95-a29e-879271928463) |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://jobs.lever.co/veeva/250501e0-475c-4af7-a3fe-e14c8dca7b5c) |
 
 ## About This Role
 
-This sales engineer position at Veeva was posted on 2026-09-02.
+This sales engineer position at Veeva was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

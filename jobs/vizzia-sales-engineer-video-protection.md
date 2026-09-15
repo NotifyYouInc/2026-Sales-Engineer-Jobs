@@ -5,12 +5,12 @@
 | Company | [Vizzia](https://scoutify.ai/companies/vizzia?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Paris, Île-de-France, France |
 | Category | Sales Engineer |
-| Posted | 2026-02-09 |
+| Posted | 2026-09-07 |
 | Apply | [View on company site](https://jobs.ashbyhq.com/vizzia/6f78b173-afef-468f-8dc9-814fe73c0b77) |
 
 ## About This Role
 
-This sales engineer position at Vizzia was posted on 2026-02-09.
+This sales engineer position at Vizzia was posted on 2026-09-07.
 
 ## Get Real-Time Alerts
 

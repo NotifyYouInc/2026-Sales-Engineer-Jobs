@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Arista Networks](https://scoutify.ai/companies/aristanetworks?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Mumbai, Maharashtra, India |
+| Location | Delhi, Delhi, India |
 | Category | Sales Engineer |
-| Posted | 2026-09-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AristaNetworks/744000147166899-senior-systems-engineer-pre-sales) |
+| Posted | 2026-09-07 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AristaNetworks/744000147837979-senior-systems-engineer-pre-sales) |
 
 ## About This Role
 
-This sales engineer position at Arista Networks was posted on 2026-09-03.
+This sales engineer position at Arista Networks was posted on 2026-09-07.
 
 ## Get Real-Time Alerts
 

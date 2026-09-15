@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Singapore, Singapore |
+| Location | 2 locations |
 | Category | Sales Engineer |
-| Posted | 2026-09-02 |
-| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Singapore-Singapore/Solutions-Engineer_2022992) |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Knoxville-Tennessee-US/Solutions-Engineer_2022799) |
 
 ## About This Role
 
-This sales engineer position at Cisco was posted on 2026-09-02.
+This sales engineer position at Cisco was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

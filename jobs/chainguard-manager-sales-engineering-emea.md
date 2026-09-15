@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Chainguard](https://scoutify.ai/companies/chainguard?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | United Kingdom |
-| Category | Sales |
+| Category | Sales Leadership |
 | Posted | 2026-09-07 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/chainguard/jobs/4710647006) |
 
 ## About This Role
 
-This sales position at Chainguard was posted on 2026-09-07.
+This sales leadership position at Chainguard was posted on 2026-09-07.
 
 ## Get Real-Time Alerts
 

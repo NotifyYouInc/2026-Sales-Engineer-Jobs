@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | 3 locations |
+| Location | London, England, United Kingdom |
 | Category | Sales Engineer |
-| Posted | 2026-08-16 |
-| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Boulder-Colorado-US/Solutions-Engineer---Splunk_2022353-1) |
+| Posted | 2026-09-07 |
+| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/London-United-Kingdom/Solutions-Engineer---Splunk_2022540-1) |
 
 ## About This Role
 
-This sales engineer position at Cisco was posted on 2026-08-16.
+This sales engineer position at Cisco was posted on 2026-09-07.
 
 ## Get Real-Time Alerts
 

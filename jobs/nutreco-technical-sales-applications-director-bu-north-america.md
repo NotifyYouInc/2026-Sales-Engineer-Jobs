@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Nutreco](https://scoutify.ai/companies/nutreco?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | 2 locations |
-| Category | Sales |
+| Category | Sales Leadership |
 | Posted | 2026-09-04 |
 | Apply | [View on company site](https://nutreco.wd3.myworkdayjobs.com/nutreco_external/job/Indianapolis/Technical-Sales---Applications-Director--BU-North-America_VAC28770-1) |
 
 ## About This Role
 
-This sales position at Nutreco was posted on 2026-09-04.
+This sales leadership position at Nutreco was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

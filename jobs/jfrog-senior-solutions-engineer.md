@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [JFrog](https://scoutify.ai/companies/jfrog?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Taipei, Taiwan, Taiwan |
+| Location | Spain |
 | Category | Sales Engineer |
-| Posted | 2026-09-03 |
-| Apply | [View on company site](https://join.jfrog.com/job/?job=8172978&gh_jid=8172978) |
+| Posted | 2026-09-07 |
+| Apply | [View on company site](https://join.jfrog.com/job/?job=8175086&gh_jid=8175086) |
 
 ## About This Role
 
-This sales engineer position at JFrog was posted on 2026-09-03.
+This sales engineer position at JFrog was posted on 2026-09-07.
 
 ## Get Real-Time Alerts
 

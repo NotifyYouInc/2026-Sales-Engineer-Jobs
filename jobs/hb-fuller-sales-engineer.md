@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [H.B. Fuller](https://scoutify.ai/companies/hbfuller?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | China |
+| Location | 2 locations |
 | Category | Sales Engineer |
-| Posted | 2026-07-12 |
-| Apply | [View on company site](https://hbfuller.wd1.myworkdayjobs.com/Careers/job/West-China/Sales-Engineer_R26_0000001225) |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://hbfuller.wd1.myworkdayjobs.com/Careers/job/South-China/Sales-Engineer_R26_0000001414) |
 
 ## About This Role
 
-This sales engineer position at H.B. Fuller was posted on 2026-07-12.
+This sales engineer position at H.B. Fuller was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

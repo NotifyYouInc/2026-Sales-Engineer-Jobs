@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Talkdesk](https://scoutify.ai/companies/talkdesk?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | United States |
-| Category | Sales |
+| Category | Sales Leadership |
 | Posted | 2026-09-04 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/talkdesk2/jobs/8175199) |
 
 ## About This Role
 
-This sales position at Talkdesk was posted on 2026-09-04.
+This sales leadership position at Talkdesk was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

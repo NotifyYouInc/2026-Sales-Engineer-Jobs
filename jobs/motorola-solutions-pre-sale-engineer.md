@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Motorola Solutions](https://scoutify.ai/companies/motorola-solutions?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Chicago, Illinois, United States |
+| Location | Tel Aviv, Tel Aviv, Israel |
 | Category | Sales Engineer |
-| Posted | 2026-04-06 |
-| Apply | [View on company site](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Chicago-IL/Pre-Sale-Engineer_R62798) |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Tel-Aviv-Israel-ZIL87/Pre-Sale-Engineer_R63752) |
 
 ## About This Role
 
-This sales engineer position at Motorola Solutions was posted on 2026-04-06.
+This sales engineer position at Motorola Solutions was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

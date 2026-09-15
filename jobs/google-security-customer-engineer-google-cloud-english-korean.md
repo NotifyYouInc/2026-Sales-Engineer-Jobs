@@ -5,12 +5,12 @@
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Seoul, Seoul, South Korea |
 | Category | Sales Engineer |
-| Posted | 2026-07-23 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckZXBCjnvgOoB_Crt0he-L3PllkLYGUSE9LmQaUIWqhtoEjsA1Ny_i6QSeETnlG6oXWIC2uciIyq_x3M0IZKcW24NLY2kyZ3nol113CKRyY1BGNeNAiERNrELfkuvlw%3D%3D_V2&loc=KR&title=Security+Customer+Engineer) |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckYGykcoPf5NW8wFNY1DcUJHJyISv7Y9ZM_AiPLM2h0BzEjsA1Ny_i6TJ_KkdoNbtEp7VHuXtorHPhbcnKan57YQl6auUljfYVbEl1QACbtMV9YDGuoZg647iy1AHfw%3D%3D_V2&loc=KR&title=Security+Customer+Engineer) |
 
 ## About This Role
 
-This sales engineer position at Google was posted on 2026-07-23.
+This sales engineer position at Google was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

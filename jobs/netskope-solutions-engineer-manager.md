@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Netskope](https://scoutify.ai/companies/netskope?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Not specified |
-| Category | Engineering Manager |
-| Posted | 2026-05-08 |
-| Apply | [View on company site](https://www.netskope.com/company/careers/open-positions/?gh_jid=7896682) |
+| Location | United States |
+| Category | Sales Engineer |
+| Posted | 2026-09-07 |
+| Apply | [View on company site](https://www.netskope.com/company/careers/open-positions/?gh_jid=8155161) |
 
 ## About This Role
 
-This engineering manager position at Netskope was posted on 2026-05-08.
+This sales engineer position at Netskope was posted on 2026-09-07.
 
 ## Get Real-Time Alerts
 

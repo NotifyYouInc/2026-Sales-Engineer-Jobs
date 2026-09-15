@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Hewlett Packard Enterprise](https://scoutify.ai/companies/hewlett-packard-enterprise?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Jakarta, Jakarta, Indonesia |
-| Category | Customer Success |
-| Posted | 2026-06-09 |
-| Apply | [View on company site](https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/Jakarta-Jakarta-Raya-Indonesia/Nonstop-Professional-Services-Delivery---Technical-Consultant_1205570) |
+| Location | Bengaluru, Karnataka, India |
+| Category | Sales Engineer |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/Bengaluru-Karntaka-India/Nonstop-Professional-Services-Delivery---Technical-Consultant_1205568-2) |
 
 ## About This Role
 
-This customer success position at Hewlett Packard Enterprise was posted on 2026-06-09.
+This sales engineer position at Hewlett Packard Enterprise was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

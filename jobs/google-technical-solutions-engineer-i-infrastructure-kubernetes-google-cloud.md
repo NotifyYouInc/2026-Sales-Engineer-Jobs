@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | 2 locations |
-| Category | DevOps Engineer |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckT3Vi097I9PmjjNoxz3p6QJN_bQNMXw0kK7V4z8YAycDEjsACxwdTCWFfXVT60spZb3rOR7yDkHsGECatCtbu0N2X1p2JL0y9ovEwOmt41Omke7boz9sDZp-iPZegA%3D%3D_V2&loc=PL&title=Technical+Solutions+Engineer+I) |
+| Category | Sales Engineer |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckSyBxJifAjzRheIsEMO3SEjGhulgoOIqdQ-258q0tPn7EjsA1Ny_i00a7ZSRTCmru1_kXZHUeVPvG3FlKDDPWgUqTUcNQKSNzdNLqJeOjCbcl9mHAvdJSwvah6wymA%3D%3D_V2&loc=PL&title=Technical+Solutions+Engineer+I) |
 
 ## About This Role
 
-This devops engineer position at Google was posted on 2026-05-19.
+This sales engineer position at Google was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

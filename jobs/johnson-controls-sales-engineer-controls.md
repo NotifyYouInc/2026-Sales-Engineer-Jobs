@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Johnson Controls](https://scoutify.ai/companies/jci?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Singapore, Singapore |
-| Category | Industrial Automation |
-| Posted | 2026-06-10 |
-| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Singapore-Singapore-Singapore/Sales-Engineer--Controls_WD30271800) |
+| Category | Sales Engineer |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Singapore-Singapore-Singapore/Sales-Engineer--Controls_WD30279098) |
 
 ## About This Role
 
-This industrial automation position at Johnson Controls was posted on 2026-06-10.
+This sales engineer position at Johnson Controls was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

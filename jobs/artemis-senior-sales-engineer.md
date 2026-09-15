@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Artemis](https://scoutify.ai/companies/artemis?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | United States |
+| Location | London, England, United Kingdom |
 | Category | Sales Engineer |
-| Posted | 2026-08-28 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/artemis/bda6ac4c-0102-49b9-9644-5b0c15c8e0ea) |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/artemis/c046673b-b350-47e7-87a7-8a2e1aba1458) |
 
 ## About This Role
 
-This sales engineer position at Artemis was posted on 2026-08-28.
+This sales engineer position at Artemis was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 
