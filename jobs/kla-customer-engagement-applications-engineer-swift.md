@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [KLA](https://scoutify.ai/companies/kla?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Hillsboro, Oregon, United States |
-| Category | Software Engineer |
-| Posted | 2026-06-10 |
-| Apply | [View on company site](https://kla.wd1.myworkdayjobs.com/UR/job/Hillsboro-OR/Customer-Engagement-Applications-Engineer---SWIFT_2636970) |
+| Category | Sales Engineer |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://kla.wd1.myworkdayjobs.com/UR/job/Hillsboro-OR/Customer-Engagement-Applications-Engineer---SWIFT_2639743) |
 
 ## About This Role
 
-This software engineer position at KLA was posted on 2026-06-10.
+This sales engineer position at KLA was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

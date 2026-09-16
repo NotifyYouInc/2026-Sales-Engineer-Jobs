@@ -1,16 +1,16 @@
-#  Anwendungstechniker im Vertrieb (m/w/d) Raum Mecklenburg-Vorpommern at Stanley Black & Decker
+# Anwendungstechniker im Vertrieb (m/w/d) Raum Mecklenburg-Vorpommern at Stanley Black & Decker
 
 | Field | Details |
 |-------|---------|
 | Company | [Stanley Black & Decker](https://scoutify.ai/companies/sbdinc?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | 3 locations |
+| Location | Germany |
 | Category | Sales Engineer |
-| Posted | 2026-07-30 |
-| Apply | [View on company site](https://sbdinc.wd1.myworkdayjobs.com/Stanley_Black_Decker_Career_Site/job/Rheingau-Taunus-Kreis-Idstein-Deutschland/XMLNAME--Anwendungstechniker-im-Vertrieb--m-w-d--Raum-Mecklenburg-Vorpommern_REQ-1000050549) |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://sbdinc.wd1.myworkdayjobs.com/Stanley_Black_Decker_Career_Site/job/Germany---Remote/Anwendungstechniker-im-Vertrieb--m-w-d--Raum-Mecklenburg-Vorpommern_REQ-1000052232) |
 
 ## About This Role
 
-This sales engineer position at Stanley Black & Decker was posted on 2026-07-30.
+This sales engineer position at Stanley Black & Decker was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

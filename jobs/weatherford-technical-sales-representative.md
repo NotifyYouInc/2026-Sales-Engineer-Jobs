@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Weatherford](https://scoutify.ai/companies/ocs-cx-oj117143?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Houston, Texas, United States |
-| Category | Account Executive |
-| Posted | 2025-11-18 |
-| Apply | [View on company site](https://fa-exmi-saasfaprod1.fa.ocs.oraclecloud.com/jobs/#104628) |
+| Location | Perth, Western Australia, Australia |
+| Category | Sales Engineer |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://fa-exmi-saasfaprod1.fa.ocs.oraclecloud.com/jobs/#107246) |
 
 ## About This Role
 
-This account executive position at Weatherford was posted on 2025-11-18.
+This sales engineer position at Weatherford was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

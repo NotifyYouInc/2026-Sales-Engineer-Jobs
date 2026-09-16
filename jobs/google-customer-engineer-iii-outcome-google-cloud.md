@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | 2 locations |
-| Category | Go To Market Engineer |
+| Category | Sales Engineer |
 | Posted | 2026-09-07 |
 | Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckRgLJuVgxJTjYdl-E_KEyzM2tFTN1R6WIATXjoeKeO_1EjsA1Ny_iwdIfyQqXvhODuKddXD5NwPxAeaNDAZ2WL_MNAYmdYJP76CnMCSmwP62xCetVEBgOl6OAEO0eg%3D%3D_V2&loc=US&title=Customer+Engineer+III) |
 
 ## About This Role
 
-This go to market engineer position at Google was posted on 2026-09-07.
+This sales engineer position at Google was posted on 2026-09-07.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Applied Materials](https://scoutify.ai/companies/applied-materials?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Boise, Idaho, United States |
-| Category | Marketing |
-| Posted | 2026-06-15 |
-| Apply | [View on company site](https://amat.wd1.myworkdayjobs.com/External/job/BoiseID/Customer-Engineer----C2-_R2620934) |
+| Location | Singapore, Singapore |
+| Category | Sales Engineer |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://amat.wd1.myworkdayjobs.com/External/job/SingaporeSGP/Customer-Engineer----C2-_R2624956) |
 
 ## About This Role
 
-This marketing position at Applied Materials was posted on 2026-06-15.
+This sales engineer position at Applied Materials was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

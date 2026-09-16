@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Docebo](https://scoutify.ai/companies/docebo?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Germany |
-| Category | Sales |
-| Posted | 2026-09-02 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/docebo/539b1a87-67c5-4a1e-8b96-9655dca6c158) |
+| Location | London, England, United Kingdom |
+| Category | Sales Engineer |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/docebo/e765bf7a-ac13-4108-aeef-0961dfa4d130) |
 
 ## About This Role
 
-This sales position at Docebo was posted on 2026-09-02.
+This sales engineer position at Docebo was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

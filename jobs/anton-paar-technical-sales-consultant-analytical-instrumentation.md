@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Anton Paar](https://scoutify.ai/companies/antonpaar?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Portland, Oregon, United States |
-| Category | Sales |
-| Posted | 2026-08-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AntonPaar1/744000145359809-technical-sales-consultant-analytical-instrumentation) |
+| Location | Denver, Colorado, United States |
+| Category | Sales Engineer |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AntonPaar1/744000148293654-technical-sales-consultant-analytical-instrumentation) |
 
 ## About This Role
 
-This sales position at Anton Paar was posted on 2026-08-24.
+This sales engineer position at Anton Paar was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

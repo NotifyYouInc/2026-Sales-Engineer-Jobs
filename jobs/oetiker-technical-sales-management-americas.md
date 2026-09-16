@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Oetiker](https://scoutify.ai/companies/oetiker?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Aguascalientes, Aguascalientes, Mexico |
-| Category | Sales |
+| Category | Sales Engineer |
 | Posted | 2026-09-04 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/oetiker/744000147574809-technical-sales-management-americas) |
 
 ## About This Role
 
-This sales position at Oetiker was posted on 2026-09-04.
+This sales engineer position at Oetiker was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

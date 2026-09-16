@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Air Products](https://scoutify.ai/companies/airproducts?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Germany |
+| Location | Lampertheim, Hesse, Germany |
 | Category | Sales Engineer |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://airproducts.wd5.myworkdayjobs.com/AP0001/job/Neuenstadt-Germany/Welding-Application-Specialist---Technischer-Berater-Schweitechnik--m-w-d-_JR-2026-20226-2) |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://airproducts.wd5.myworkdayjobs.com/AP0001/job/Lampertheim-Germany/Application-Specialist_JR-2025-18429) |
 
 ## About This Role
 
-This sales engineer position at Air Products was posted on 2026-04-20.
+This sales engineer position at Air Products was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

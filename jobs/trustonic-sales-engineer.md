@@ -5,12 +5,12 @@
 | Company | [Trustonic](https://scoutify.ai/companies/trustonic?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Bangkok, Bangkok, Thailand |
 | Category | Sales Engineer |
-| Posted | 2026-08-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/trustonic/744000145810089-sales-engineer) |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/trustonic/744000148463999-sales-engineer) |
 
 ## About This Role
 
-This sales engineer position at Trustonic was posted on 2026-08-26.
+This sales engineer position at Trustonic was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

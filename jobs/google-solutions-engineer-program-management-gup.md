@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | 2 locations |
-| Category | Program Manager |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckbcAqq0nmrf5MLvEDEVnNXwKd2omNdAFEPxrxqG4_IAqEjsACxwdTDXSN2F_Atb5n8AadZE4VLL5ECaHYbw2fjdSIKSYvPZ87vAIs4rfXj1njsiXJRUT0X8kMKhoyA%3D%3D_V2&loc=US&title=Solutions+Engineer) |
+| Location | Sunnyvale, California, United States |
+| Category | Sales Engineer |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckVc5D5zxcslkDaGD3Dh6vDASn1x21gtBMyqHcPqZt6JhEjsA1Ny_ixwOYiJ7zmZKL2-BbDy9k5ReHWKyDDgH4e6qLGZLIeKOwn_QY_xs-8P-vdCuQfr4VokfVFPxSg%3D%3D_V2&loc=US&title=Solutions+Engineer) |
 
 ## About This Role
 
-This program manager position at Google was posted on 2026-05-11.
+This sales engineer position at Google was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

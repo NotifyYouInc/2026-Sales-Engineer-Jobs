@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Semiconductor / Chip Design |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/jobs/results/116350755807339206-physical-design-and-implementation-engineer-cpu?sort_by=date&page=1) |
+| Category | Sales Engineer |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckWz8kB44pZfKmJqxVtXXPfkrP9ujX13UnBEnJsDfUgX2EjsA1Ny_i54zF5u_27mtEy663NJjByqP94Ozw3y8md-VkSr7cqgfecPMzXhj7klVzUvb5b6g4aLP9t5t8g%3D%3D_V2&loc=IN&title=Physical+Design+and+Implementation+Engineer) |
 
 ## About This Role
 
-This semiconductor / chip design position at Google was posted on 2026-02-27.
+This sales engineer position at Google was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

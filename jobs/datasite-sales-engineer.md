@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Datasite](https://scoutify.ai/companies/datasite?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | 2 locations |
+| Location | London, England, United Kingdom |
 | Category | Sales Engineer |
-| Posted | 2026-04-27 |
-| Apply | [View on company site](https://datasite.wd1.myworkdayjobs.com/datasite/job/USA---CA---Century-City-LA/Sales-Engineer_R36145) |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://datasite.wd1.myworkdayjobs.com/datasite/job/GBR---London/Sales-Engineer_R36325) |
 
 ## About This Role
 
-This sales engineer position at Datasite was posted on 2026-04-27.
+This sales engineer position at Datasite was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

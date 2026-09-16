@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [DevRev](https://scoutify.ai/companies/devrev?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Not specified |
-| Category | Sales Leadership |
+| Category | Sales Engineer |
 | Posted | 2026-09-08 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/devrev/jobs/6184040004) |
 
 ## About This Role
 
-This sales leadership position at DevRev was posted on 2026-09-08.
+This sales engineer position at DevRev was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

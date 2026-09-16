@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Red Hat](https://scoutify.ai/companies/red-hat?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | New Delhi, Delhi, India |
-| Category | Customer Success |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://redhat.wd5.myworkdayjobs.com/Jobs/job/New-Delhi/Junior-Technical-Account-Manager_R-054561-1) |
+| Location | Raleigh, North Carolina, United States |
+| Category | Sales Engineer |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://redhat.wd5.myworkdayjobs.com/Jobs/job/Raleigh/Junior-Technical-Account-Manager_R-059075-1) |
 
 ## About This Role
 
-This customer success position at Red Hat was posted on 2026-05-21.
+This sales engineer position at Red Hat was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

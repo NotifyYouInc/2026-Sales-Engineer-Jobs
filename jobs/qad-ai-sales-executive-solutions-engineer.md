@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [QAD](https://scoutify.ai/companies/qad?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Atlanta, Georgia, United States |
-| Category | Sales |
+| Category | Sales Engineer |
 | Posted | 2026-09-07 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/QADInc/744000147989525-ai-sales-executive-solutions-engineer) |
 
 ## About This Role
 
-This sales position at QAD was posted on 2026-09-07.
+This sales engineer position at QAD was posted on 2026-09-07.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Vanta](https://scoutify.ai/companies/vanta?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | United States |
-| Category | Go To Market Engineer |
+| Category | Sales Engineer |
 | Posted | 2026-09-04 |
 | Apply | [View on company site](https://jobs.ashbyhq.com/vanta/2f2ad814-2437-46bc-8829-9413f1840db0) |
 
 ## About This Role
 
-This go to market engineer position at Vanta was posted on 2026-09-04.
+This sales engineer position at Vanta was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

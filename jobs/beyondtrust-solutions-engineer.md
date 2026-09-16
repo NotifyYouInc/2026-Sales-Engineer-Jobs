@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [BeyondTrust](https://scoutify.ai/companies/beyondtrust?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Thailand |
+| Location | Calgary, Alberta, Canada |
 | Category | Sales Engineer |
-| Posted | 2026-04-28 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/beyondtrust/jobs/7861679) |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/beyondtrust/jobs/8176754) |
 
 ## About This Role
 
-This sales engineer position at BeyondTrust was posted on 2026-04-28.
+This sales engineer position at BeyondTrust was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

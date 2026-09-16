@@ -5,12 +5,12 @@
 | Company | [Trumpf](https://scoutify.ai/companies/trumpf?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Yokohama, Kanagawa, Japan |
 | Category | Sales Engineer |
-| Posted | 2026-06-16 |
+| Posted | 2026-09-09 |
 | Apply | [View on company site](https://trumpf.wd3.myworkdayjobs.com/trumpf_graduates_and_professionals/job/Yokohama/-Technical-Sales-MT_R00040631) |
 
 ## About This Role
 
-This sales engineer position at Trumpf was posted on 2026-06-16.
+This sales engineer position at Trumpf was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Ivalua](https://scoutify.ai/companies/ivalua?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Singapore, Singapore |
 | Category | Sales Engineer |
-| Posted | 2026-07-03 |
+| Posted | 2026-09-08 |
 | Apply | [View on company site](https://boards.greenhouse.io/ivalua/jobs/8030526?gh_jid=8030526) |
 
 ## About This Role
 
-This sales engineer position at Ivalua was posted on 2026-07-03.
+This sales engineer position at Ivalua was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

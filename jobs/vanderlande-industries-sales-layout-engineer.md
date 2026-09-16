@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Vanderlande Industries](https://scoutify.ai/companies/vanderlande-industries?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Barcelona, Catalonia, Spain |
-| Category | Semiconductor / Chip Design |
+| Category | Sales Engineer |
 | Posted | 2026-09-07 |
 | Apply | [View on company site](https://vanderlande.wd3.myworkdayjobs.com/careers/job/Barcelona-Office/Sales-Layout-Engineer_JR37861-1) |
 
 ## About This Role
 
-This semiconductor / chip design position at Vanderlande Industries was posted on 2026-09-07.
+This sales engineer position at Vanderlande Industries was posted on 2026-09-07.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Grove City, Ohio, United States |
-| Category | Account Executive |
-| Posted | 2026-08-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000145827040-aftermarket-sales-specialist) |
+| Category | Sales Engineer |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000148321314-aftermarket-sales-specialist) |
 
 ## About This Role
 
-This account executive position at Robert Bosch was posted on 2026-08-26.
+This sales engineer position at Robert Bosch was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

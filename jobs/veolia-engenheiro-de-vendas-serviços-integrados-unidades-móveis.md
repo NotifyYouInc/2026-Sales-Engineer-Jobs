@@ -5,12 +5,12 @@
 | Company | [Veolia](https://scoutify.ai/companies/veolia?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Belo Horizonte, Minas Gerais, Brazil |
 | Category | Sales Engineer |
-| Posted | 2026-09-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000147333865-engenheiro-de-vendas-servicos-integrados-unidades-moveis) |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000148253759-engenheiro-de-vendas-servicos-integrados-unidades-moveis) |
 
 ## About This Role
 
-This sales engineer position at Veolia was posted on 2026-09-03.
+This sales engineer position at Veolia was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

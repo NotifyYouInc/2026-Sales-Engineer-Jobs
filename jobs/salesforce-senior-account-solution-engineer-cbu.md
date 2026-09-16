@@ -1,16 +1,16 @@
-# Senior Account Solution Engineer - CBU at Salesforce
+# Senior Account Solution Engineer (CBU) at Salesforce
 
 | Field | Details |
 |-------|---------|
 | Company | [Salesforce](https://scoutify.ai/companies/salesforce?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Tokyo, Tokyo, Japan |
 | Category | Sales Engineer |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Japan---Tokyo/Senior-Account-Solution-Engineer---CBU_JR327770) |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Japan---Tokyo/Senior-Account-Solution-Engineer--CBU-_JR359123) |
 
 ## About This Role
 
-This sales engineer position at Salesforce was posted on 2026-03-11.
+This sales engineer position at Salesforce was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

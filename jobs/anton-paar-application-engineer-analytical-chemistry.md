@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Anton Paar](https://scoutify.ai/companies/antonpaar?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Ashland, California, United States |
-| Category | Software Engineer |
-| Posted | 2026-07-07 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AntonPaar1/744000136220025-application-engineer-analytical-chemistry) |
+| Location | Vernon Hills, Illinois, United States |
+| Category | Sales Engineer |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AntonPaar1/744000148281344-application-engineer-analytical-chemistry) |
 
 ## About This Role
 
-This software engineer position at Anton Paar was posted on 2026-07-07.
+This sales engineer position at Anton Paar was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

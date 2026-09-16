@@ -5,12 +5,12 @@
 | Company | [Inetum](https://scoutify.ai/companies/inetum?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Madrid, Madrid, Spain |
 | Category | Sales Engineer |
-| Posted | 2026-09-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Inetum2/744000147277599-consultor-preventa-iam) |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Inetum2/744000148233764-consultor-preventa-iam) |
 
 ## About This Role
 
-This sales engineer position at Inetum was posted on 2026-09-03.
+This sales engineer position at Inetum was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 
