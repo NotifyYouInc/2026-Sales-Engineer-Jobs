@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Carta](https://scoutify.ai/companies/carta?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Abu Dhabi, Abu Dhabi, United Arab Emirates |
+| Location | London, England, United Kingdom |
 | Category | Sales Engineer |
-| Posted | 2026-02-13 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/carta/jobs/7506068003) |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/carta/jobs/7989778003) |
 
 ## About This Role
 
-This sales engineer position at Carta was posted on 2026-02-13.
+This sales engineer position at Carta was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Blackrock](https://scoutify.ai/companies/blackrock?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | 3 locations |
-| Category | Customer Success |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://blackrock.wd1.myworkdayjobs.com/blackrock_professional/job/Singapore-Singapore/Associate--Implementation-Consultant--NE-_R261645) |
+| Location | Mumbai, Maharashtra, India |
+| Category | Sales Engineer |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://blackrock.wd1.myworkdayjobs.com/blackrock_professional/job/Mumbai-India/Associate--Implementation-Consultant_R266279) |
 
 ## About This Role
 
-This customer success position at Blackrock was posted on 2026-04-14.
+This sales engineer position at Blackrock was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

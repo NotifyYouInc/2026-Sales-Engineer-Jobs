@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Adyen](https://scoutify.ai/companies/adyen?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Chicago, Illinois, United States |
+| Location | Mexico City, Mexico City, Mexico |
 | Category | Sales Engineer |
-| Posted | 2026-08-20 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/adyen/jobs/8142106) |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/adyen/jobs/7842201) |
 
 ## About This Role
 
-This sales engineer position at Adyen was posted on 2026-08-20.
+This sales engineer position at Adyen was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

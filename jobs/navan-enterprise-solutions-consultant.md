@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Navan](https://scoutify.ai/companies/navan?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | London, England, United Kingdom |
-| Category | Customer Success |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://navan.com/careers/openings?gh_jid=7894792) |
+| Location | Amsterdam, North Holland, The Netherlands |
+| Category | Sales Engineer |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://navan.com/careers/openings?gh_jid=8189836) |
 
 ## About This Role
 
-This customer success position at Navan was posted on 2026-05-05.
+This sales engineer position at Navan was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

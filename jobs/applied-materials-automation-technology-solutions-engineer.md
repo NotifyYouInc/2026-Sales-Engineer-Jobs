@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Applied Materials](https://scoutify.ai/companies/applied-materials?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Gloucester, Massachusetts, United States |
-| Category | Sales Engineer |
+| Category | Industrial Automation |
 | Posted | 2026-09-08 |
 | Apply | [View on company site](https://amat.wd1.myworkdayjobs.com/External/job/GloucesterMA/Automation---Technology-Solutions-Engineer_R2627515) |
 
 ## About This Role
 
-This sales engineer position at Applied Materials was posted on 2026-09-08.
+This industrial automation position at Applied Materials was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

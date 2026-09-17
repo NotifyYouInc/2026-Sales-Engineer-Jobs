@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ABB](https://scoutify.ai/companies/abb?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Singapore, Singapore |
-| Category | Account Executive |
-| Posted | 2026-08-13 |
-| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Singapore-Central-Singapore-Singapore/Service-Sales-Specialist_JR00044014) |
+| Location | Jakarta, Jakarta, Indonesia |
+| Category | Sales Engineer |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Jakarta-Jakarta-Indonesia/Service-Sales-Specialist_JR00041436) |
 
 ## About This Role
 
-This account executive position at ABB was posted on 2026-08-13.
+This sales engineer position at ABB was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

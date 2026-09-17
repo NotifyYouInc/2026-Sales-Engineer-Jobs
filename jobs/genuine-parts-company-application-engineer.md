@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Genuine Parts Company](https://scoutify.ai/companies/genpt?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | 2 locations |
-| Category | Software Engineer |
-| Posted | 2026-08-28 |
-| Apply | [View on company site](https://genpt.wd1.myworkdayjobs.com/Careers/job/Salisbury-NC-USA/Application-Engineer_R26_0000027384-1) |
+| Location | Iowa, US |
+| Category | Sales Engineer |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://genpt.wd1.myworkdayjobs.com/Careers/job/USA-IA---Remote/Application-Engineer_R26_0000028881-1) |
 
 ## About This Role
 
-This software engineer position at Genuine Parts Company was posted on 2026-08-28.
+This sales engineer position at Genuine Parts Company was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

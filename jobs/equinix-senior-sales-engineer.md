@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Equinix](https://scoutify.ai/companies/equinix?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Redwood City, California, United States |
+| Location | 4 locations |
 | Category | Sales Engineer |
-| Posted | 2026-06-17 |
-| Apply | [View on company site](https://equinix.wd1.myworkdayjobs.com/external/job/Redwood-City/Senior-Sales-Engineer_JR-161635) |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://equinix.wd1.myworkdayjobs.com/external/job/Denver/Senior-Sales-Engineer_JR-163242) |
 
 ## About This Role
 
-This sales engineer position at Equinix was posted on 2026-06-17.
+This sales engineer position at Equinix was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

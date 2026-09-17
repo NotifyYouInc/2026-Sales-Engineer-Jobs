@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Genesys](https://scoutify.ai/companies/genesys?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Texas, US |
+| Location | Istanbul, Istanbul, Turkey |
 | Category | Sales Engineer |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://genesys.wd1.myworkdayjobs.com/Genesys/job/Texas-USA/Principal-Solution-Consultant_JR110082) |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://genesys.wd1.myworkdayjobs.com/Genesys/job/Istanbul-Flexible/Principal-Solution-Consultant_JR112109) |
 
 ## About This Role
 
-This sales engineer position at Genesys was posted on 2026-02-19.
+This sales engineer position at Genesys was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

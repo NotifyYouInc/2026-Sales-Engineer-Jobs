@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Salesforce](https://scoutify.ai/companies/salesforce?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Dublin, Leinster, Ireland |
-| Category | AI / LLM Engineer |
+| Category | Sales Engineer |
 | Posted | 2026-09-08 |
 | Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Ireland---Dublin/AI-Builder--Emerging-Talent---Spanish-Market_JR359471-2) |
 
 ## About This Role
 
-This ai / llm engineer position at Salesforce was posted on 2026-09-08.
+This sales engineer position at Salesforce was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

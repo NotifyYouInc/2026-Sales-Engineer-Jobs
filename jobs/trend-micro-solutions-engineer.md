@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Trend Micro](https://scoutify.ai/companies/trendmicro?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | São Paulo, São Paulo, Brazil |
+| Location | France |
 | Category | Sales Engineer |
-| Posted | 2026-08-26 |
-| Apply | [View on company site](https://trendmicro.wd3.myworkdayjobs.com/External/job/Sao-Paulo/Solutions-Engineer_R0010141) |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://trendmicro.wd3.myworkdayjobs.com/External/job/France-Off-Site/Solutions-Engineer_R0010198-1) |
 
 ## About This Role
 
-This sales engineer position at Trend Micro was posted on 2026-08-26.
+This sales engineer position at Trend Micro was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

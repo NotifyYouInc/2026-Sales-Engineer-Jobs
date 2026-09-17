@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ABB](https://scoutify.ai/companies/abb?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Faridabad, Haryana, India |
+| Location | Buenos Aires, Buenos Aires F.D., Argentina |
 | Category | Sales Engineer |
-| Posted | 2026-09-06 |
-| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Faridabad-Haryana-India/Sales-Specialist_JR00046137) |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Buenos-Aires-Capital-Federal-Argentina/Sales-Specialist_JR00044417) |
 
 ## About This Role
 
-This sales engineer position at ABB was posted on 2026-09-06.
+This sales engineer position at ABB was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

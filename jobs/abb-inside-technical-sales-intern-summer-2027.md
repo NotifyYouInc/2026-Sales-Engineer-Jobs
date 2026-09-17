@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [ABB](https://scoutify.ai/companies/abb?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Cary, North Carolina, United States |
-| Category | Business Development |
+| Category | Sales Engineer |
 | Posted | 2026-09-08 |
 | Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/USA-NC-Cary/Inside-Technical-Sales-Intern---Summer-2027_JR00044477) |
 
 ## About This Role
 
-This business development position at ABB was posted on 2026-09-08.
+This sales engineer position at ABB was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

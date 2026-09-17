@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Figma](https://scoutify.ai/companies/figma?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | 2 locations |
-| Category | Customer Success |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://boards.greenhouse.io/figma/jobs/5814274004?gh_jid=5814274004) |
+| Location | San Francisco, California, United States |
+| Category | Sales Engineer |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://boards.greenhouse.io/figma/jobs/6181922004?gh_jid=6181922004) |
 
 ## About This Role
 
-This customer success position at Figma was posted on 2026-03-09.
+This sales engineer position at Figma was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ABB](https://scoutify.ai/companies/abb?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Nashik, Maharashtra, India |
-| Category | Account Manager |
-| Posted | 2026-06-11 |
-| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Nashik-Maharashtra-India/Technical-Account-Manager_JR00037272) |
+| Location | Cairo, Cairo, Egypt |
+| Category | Sales Engineer |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Cairo-Cairo-Egypt/Technical-Account-Manager_JR00045964) |
 
 ## About This Role
 
-This account manager position at ABB was posted on 2026-06-11.
+This sales engineer position at ABB was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

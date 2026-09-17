@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ServiceNow](https://scoutify.ai/companies/servicenow?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Boston, Massachusetts, United States |
+| Location | San Francisco, California, United States |
 | Category | Sales Engineer |
-| Posted | 2026-08-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000142895466-advisory-solution-consultant-partner-sales-armis) |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000148520019-advisory-solution-consultant-partner-sales-armis) |
 
 ## About This Role
 
-This sales engineer position at ServiceNow was posted on 2026-08-11.
+This sales engineer position at ServiceNow was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

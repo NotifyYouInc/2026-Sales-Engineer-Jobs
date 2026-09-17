@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Zendesk](https://scoutify.ai/companies/zendesk?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Austin, Texas, United States |
+| Location | San Francisco, California, United States |
 | Category | Sales Engineer |
-| Posted | 2026-08-25 |
-| Apply | [View on company site](https://zendesk.wd1.myworkdayjobs.com/zendesk/job/Austin-Texas-United-States-of-America/Senior-Sales-Engineer_R35393) |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://zendesk.wd1.myworkdayjobs.com/zendesk/job/San-Francisco-California-United-States-of-America/Senior-Sales-Engineer_R35450-1) |
 
 ## About This Role
 
-This sales engineer position at Zendesk was posted on 2026-08-25.
+This sales engineer position at Zendesk was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

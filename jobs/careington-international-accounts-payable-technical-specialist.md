@@ -5,12 +5,12 @@
 | Company | [Careington International](https://scoutify.ai/companies/recruiting2-ultipro-com-oj20345?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | United States |
 | Category | Accounting |
-| Posted | 2026-08-12 |
-| Apply | [View on company site](https://recruiting2.ultipro.com/car1062crti/JobBoard/dfd57e74-9f42-4323-9fe6-a7258275231a/OpportunityDetail?opportunityId=bc9c7ed7-e171-4370-80ba-e33dc673ff17) |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://recruiting2.ultipro.com/car1062crti/JobBoard/dfd57e74-9f42-4323-9fe6-a7258275231a/OpportunityDetail?opportunityId=adf32f59-6c1e-4cfe-a599-34a272814e34) |
 
 ## About This Role
 
-This accounting position at Careington International was posted on 2026-08-12.
+This accounting position at Careington International was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

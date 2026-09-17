@@ -5,12 +5,12 @@
 | Company | [SGS](https://scoutify.ai/companies/sgs?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Algeria |
 | Category | Sales Engineer |
-| Posted | 2026-09-07 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SGS/744000147901634-sales-engineer-mechanical) |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SGS/744000148404619-sales-engineer-mechanical) |
 
 ## About This Role
 
-This sales engineer position at SGS was posted on 2026-09-07.
+This sales engineer position at SGS was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

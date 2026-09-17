@@ -5,12 +5,12 @@
 | Company | [LexisNexis Risk Solutions](https://scoutify.ai/companies/relx?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Dayton, Ohio, United States |
 | Category | Sales Engineer |
-| Posted | 2026-07-24 |
-| Apply | [View on company site](https://relx.wd3.myworkdayjobs.com/LexisNexisLegal/job/Dayton-OH/Solutions-Consultant---Small-Law_R116531) |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://relx.wd3.myworkdayjobs.com/LexisNexisLegal/job/Dayton-OH/Solutions-Consultant---Small-Law_R117874-1) |
 
 ## About This Role
 
-This sales engineer position at LexisNexis Risk Solutions was posted on 2026-07-24.
+This sales engineer position at LexisNexis Risk Solutions was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

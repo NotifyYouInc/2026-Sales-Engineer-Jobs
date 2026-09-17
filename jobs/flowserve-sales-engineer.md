@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Flowserve](https://scoutify.ai/companies/flowserve?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Benicia, California, United States |
+| Location | Houston, Texas, United States |
 | Category | Sales Engineer |
-| Posted | 2026-09-03 |
-| Apply | [View on company site](https://flowserve.wd1.myworkdayjobs.com/applied/job/Benicia-California-US/Sales-Engineer_R-20815) |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://flowserve.wd1.myworkdayjobs.com/applied/job/Houston-Texas-US/Sales-Engineer_R-20993) |
 
 ## About This Role
 
-This sales engineer position at Flowserve was posted on 2026-09-03.
+This sales engineer position at Flowserve was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

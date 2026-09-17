@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [IQVIA](https://scoutify.ai/companies/iqvia?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | 4 locations |
-| Category | AI / LLM Engineer |
+| Category | Sales Engineer |
 | Posted | 2026-09-08 |
 | Apply | [View on company site](https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Warsaw-Poland/Data---AI-Solutions-Consultant_R1552230) |
 
 ## About This Role
 
-This ai / llm engineer position at IQVIA was posted on 2026-09-08.
+This sales engineer position at IQVIA was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

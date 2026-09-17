@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Appian](https://scoutify.ai/companies/appian?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | 4 locations |
-| Category | Technology / IT Consulting |
-| Posted | 2026-06-09 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/appian/jobs/7993735) |
+| Location | Mexico City, Mexico City, Mexico |
+| Category | Sales Engineer |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/appian/jobs/8188442) |
 
 ## About This Role
 
-This technology / it consulting position at Appian was posted on 2026-06-09.
+This sales engineer position at Appian was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

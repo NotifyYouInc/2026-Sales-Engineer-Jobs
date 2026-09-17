@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | 2 locations |
+| Location | Florida, US |
 | Category | Sales Engineer |
-| Posted | 2026-08-24 |
-| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Boulder-Colorado-US/Leader--Solutions-Engineer--Splunk_2022596-1) |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/RTP-North-Carolina-US/Leader--Solutions-Engineer--Splunk_2023832) |
 
 ## About This Role
 
-This sales engineer position at Cisco was posted on 2026-08-24.
+This sales engineer position at Cisco was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

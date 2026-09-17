@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Salesforce](https://scoutify.ai/companies/salesforce?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | AI / LLM Engineer |
+| Category | Sales Engineer |
 | Posted | 2026-09-09 |
 | Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Bangalore/Senior-Technical-Consultant---AI-Engineering---Agentic-Salesforce-Delivery_JR358751) |
 
 ## About This Role
 
-This ai / llm engineer position at Salesforce was posted on 2026-09-09.
+This sales engineer position at Salesforce was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

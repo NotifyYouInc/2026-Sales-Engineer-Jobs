@@ -5,12 +5,12 @@
 | Company | [Renesas Electronics](https://scoutify.ai/companies/renesaselectronics?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Boston, Massachusetts, United States |
 | Category | Sales Engineer |
-| Posted | 2026-08-14 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/RenesasElectronics/744000143542017-field-applications-engineer-analog-power-local-to-the-bostonnew-england-area) |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/RenesasElectronics/744000148519609-field-applications-engineer-analog-power-local-to-the-bostonnew-england-area) |
 
 ## About This Role
 
-This sales engineer position at Renesas Electronics was posted on 2026-08-14.
+This sales engineer position at Renesas Electronics was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

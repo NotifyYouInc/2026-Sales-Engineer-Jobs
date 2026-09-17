@@ -1,16 +1,16 @@
-# Test Solutions Engineer at Micron
+# TEST SOLUTIONS ENGINEER at Micron
 
 | Field | Details |
 |-------|---------|
 | Company | [Micron](https://scoutify.ai/companies/micron?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Sānand, Gujarat, India |
+| Location | Taichung, Taiwan, Taiwan |
 | Category | Sales Engineer |
-| Posted | 2026-07-16 |
-| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Sanand---303A---ATSSDMOD-India/Test-Solutions-Engineer_JR105804) |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Taichung---Fab-16-Taiwan/TEST-SOLUTIONS-ENGINEER_JR111308) |
 
 ## About This Role
 
-This sales engineer position at Micron was posted on 2026-07-16.
+This sales engineer position at Micron was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

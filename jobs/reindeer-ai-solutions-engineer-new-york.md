@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Reindeer](https://scoutify.ai/companies/reindeer-ai?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | New York City, New York, United States |
-| Category | AI / LLM Engineer |
+| Category | Sales Engineer |
 | Posted | 2026-09-08 |
 | Apply | [View on company site](https://jobs.ashbyhq.com/reindeer-ai/bb04157d-ee7f-46af-8d42-377f8189e988) |
 
 ## About This Role
 
-This ai / llm engineer position at Reindeer was posted on 2026-09-08.
+This sales engineer position at Reindeer was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

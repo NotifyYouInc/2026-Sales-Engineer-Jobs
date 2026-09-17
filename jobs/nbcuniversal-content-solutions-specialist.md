@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [NBCUniversal](https://scoutify.ai/companies/nbcuniversal?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | London, England, United Kingdom |
+| Location | New York City, New York, United States |
 | Category | Sales Engineer |
-| Posted | 2026-09-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NBCUniversal3/744000147553141-content-solutions-specialist) |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NBCUniversal3/744000148582869-content-solutions-specialist) |
 
 ## About This Role
 
-This sales engineer position at NBCUniversal was posted on 2026-09-04.
+This sales engineer position at NBCUniversal was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

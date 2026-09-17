@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [ABB](https://scoutify.ai/companies/abb?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Sales Engineer |
+| Category | Industrial Automation |
 | Posted | 2026-09-09 |
 | Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Bangalore-Karnataka-India/Sr-Technical-Specialist_JR00045632) |
 
 ## About This Role
 
-This sales engineer position at ABB was posted on 2026-09-09.
+This industrial automation position at ABB was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

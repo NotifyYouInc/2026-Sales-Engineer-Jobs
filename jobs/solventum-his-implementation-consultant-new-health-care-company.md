@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Solventum](https://scoutify.ai/companies/solventum?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Murray, Utah, United States |
-| Category | Customer Success |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://healthcare.wd1.myworkdayjobs.com/search/job/US-Utah-Murray/HIS-Implementation-Consultant--New-Health-Care-Company-_R01128405) |
+| Category | Sales Engineer |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://healthcare.wd1.myworkdayjobs.com/search/job/US-Utah-Murray/HIS-Implementation-Consultant--New-Health-Care-Company-_R01133584) |
 
 ## About This Role
 
-This customer success position at Solventum was posted on 2026-03-13.
+This sales engineer position at Solventum was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

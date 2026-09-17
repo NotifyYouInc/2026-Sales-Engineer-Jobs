@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | 2 locations |
+| Location | Bellevue, Washington, United States |
 | Category | Sales Engineer |
-| Posted | 2026-09-04 |
-| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Knoxville-Tennessee-US/Solutions-Engineer_2022799) |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Bellevue-Washington-US/Solutions-Engineer_2022570) |
 
 ## About This Role
 
-This sales engineer position at Cisco was posted on 2026-09-04.
+This sales engineer position at Cisco was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

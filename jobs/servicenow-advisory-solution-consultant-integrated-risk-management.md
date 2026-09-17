@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ServiceNow](https://scoutify.ai/companies/servicenow?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Washington, US |
+| Location | Chicago, Illinois, United States |
 | Category | Sales Engineer |
-| Posted | 2026-08-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000145553810-advisory-solution-consultant-integrated-risk-management) |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000148592509-advisory-solution-consultant-integrated-risk-management) |
 
 ## About This Role
 
-This sales engineer position at ServiceNow was posted on 2026-08-25.
+This sales engineer position at ServiceNow was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

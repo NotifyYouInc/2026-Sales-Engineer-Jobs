@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Freudenberg Group](https://scoutify.ai/companies/freudenberg?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Braşov, Brașov County, Romania |
-| Category | AI / LLM Engineer |
+| Category | Sales Engineer |
 | Posted | 2026-09-08 |
 | Apply | [View on company site](https://freudenberg.wd3.myworkdayjobs.com/freudenberg-group/job/Brasov/AI-Solutions-Engineer_R_00106757) |
 
 ## About This Role
 
-This ai / llm engineer position at Freudenberg Group was posted on 2026-09-08.
+This sales engineer position at Freudenberg Group was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

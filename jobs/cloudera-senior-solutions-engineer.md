@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cloudera](https://scoutify.ai/companies/cloudera?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Switzerland |
+| Location | Singapore, Singapore |
 | Category | Sales Engineer |
-| Posted | 2026-07-22 |
-| Apply | [View on company site](https://cloudera.wd5.myworkdayjobs.com/External_Career/job/Switzerland-Remote/Senior-Solutions-Engineer_261032-1) |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://cloudera.wd5.myworkdayjobs.com/External_Career/job/Singapore--Singapore/Senior-Solutions-Engineer_261238) |
 
 ## About This Role
 
-This sales engineer position at Cloudera was posted on 2026-07-22.
+This sales engineer position at Cloudera was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

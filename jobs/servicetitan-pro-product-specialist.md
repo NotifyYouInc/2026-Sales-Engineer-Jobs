@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [ServiceTitan](https://scoutify.ai/companies/servicetitan?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Yerevan, Yerevan, Armenia |
-| Category | Customer Success |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://servicetitan.wd1.myworkdayjobs.com/ServiceTitan/job/Yerevan-Armenia/Pro-Product-Specialist_JR114362-1) |
+| Category | Sales Engineer |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://servicetitan.wd1.myworkdayjobs.com/ServiceTitan/job/Yerevan-Armenia/Pro-Product-Specialist_JR115814-1) |
 
 ## About This Role
 
-This customer success position at ServiceTitan was posted on 2026-04-15.
+This sales engineer position at ServiceTitan was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

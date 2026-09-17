@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [TAL](https://scoutify.ai/companies/tal?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Sydney, New South Wales, Australia |
-| Category | Customer Success |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/tal/744000121644697-claims-customer-solutions-specialist) |
+| Category | Sales Engineer |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/tal/744000148672269-claims-customer-solutions-specialist) |
 
 ## About This Role
 
-This customer success position at TAL was posted on 2026-04-20.
+This sales engineer position at TAL was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

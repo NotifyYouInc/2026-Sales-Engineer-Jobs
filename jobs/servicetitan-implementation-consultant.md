@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ServiceTitan](https://scoutify.ai/companies/servicetitan?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Yerevan, Yerevan, Armenia |
+| Location | United States |
 | Category | Sales Engineer |
-| Posted | 2026-09-07 |
-| Apply | [View on company site](https://servicetitan.wd1.myworkdayjobs.com/ServiceTitan/job/Yerevan-Armenia/Implementation-Consultant_JR115918) |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://servicetitan.wd1.myworkdayjobs.com/ServiceTitan/job/US-Remote/Implementation-Consultant_JR115935) |
 
 ## About This Role
 
-This sales engineer position at ServiceTitan was posted on 2026-09-07.
+This sales engineer position at ServiceTitan was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 
