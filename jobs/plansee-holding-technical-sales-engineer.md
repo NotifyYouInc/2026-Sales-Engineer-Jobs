@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Plansee Holding](https://scoutify.ai/companies/plansee-holding?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Budapest, Budapest, Hungary |
+| Location | Cergy-Pontoise, Île-de-France, France |
 | Category | Sales Engineer |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://myhr.wd3.myworkdayjobs.com/planseegroup_career/job/Budapest-Hungary/Technical-Sales-Engineer_JR-11489) |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://myhr.wd3.myworkdayjobs.com/planseegroup_career/job/Cergy-Pontoise-France/Technical-Sales-Engineer_JR-12831) |
 
 ## About This Role
 
-This sales engineer position at Plansee Holding was posted on 2026-05-19.
+This sales engineer position at Plansee Holding was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

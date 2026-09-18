@@ -1,16 +1,16 @@
-# Senior Technical Account Manager  at Dragos
+# Senior Technical Account Manager at Dragos
 
 | Field | Details |
 |-------|---------|
 | Company | [Dragos](https://scoutify.ai/companies/dragos?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Saudi Arabia |
-| Category | Customer Success |
-| Posted | 2026-04-03 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/dragos/jobs/5161409008) |
+| Location | Australia |
+| Category | Sales Engineer |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/dragos/jobs/5411964008) |
 
 ## About This Role
 
-This customer success position at Dragos was posted on 2026-04-03.
+This sales engineer position at Dragos was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

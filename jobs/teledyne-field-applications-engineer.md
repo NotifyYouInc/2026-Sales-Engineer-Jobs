@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Teledyne](https://scoutify.ai/companies/flir?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Milpitas, California, United States |
-| Category | Software Engineer |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Milpitas-CA/Field-Applications-Engineer_REQ34462) |
+| Location | France |
+| Category | Sales Engineer |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://flir.wd1.myworkdayjobs.com/flircareers/job/Field-Applications-Engineer_REQ34842) |
 
 ## About This Role
 
-This software engineer position at Teledyne was posted on 2026-04-30.
+This sales engineer position at Teledyne was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Customer Application Specialist (CAS), Pathology at Agilent
+# Customer Application Specialist (CAS) - Pathology at Agilent
 
 | Field | Details |
 |-------|---------|
 | Company | [Agilent](https://scoutify.ai/companies/agilent?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Philadelphia, Pennsylvania, United States |
+| Location | Florida, US |
 | Category | Sales Engineer |
-| Posted | 2026-08-11 |
-| Apply | [View on company site](https://agilent.wd5.myworkdayjobs.com/agilent_careers/job/US-PA-Remote-Location-Philadelphia-Area/Customer-Application-Specialist--CAS---Pathology_4039076) |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://agilent.wd5.myworkdayjobs.com/agilent_careers/job/US-FL-Remote-Location/Pre-Sales-Application-Engineer_4039768) |
 
 ## About This Role
 
-This sales engineer position at Agilent was posted on 2026-08-11.
+This sales engineer position at Agilent was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

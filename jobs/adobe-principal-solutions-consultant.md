@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Adobe](https://scoutify.ai/companies/adobe-inc?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Melbourne, Victoria, Australia |
-| Category | Implementation / Professional Services |
-| Posted | 2026-03-20 |
-| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Melbourne/Principal-Solutions-Consultant_R166862-1) |
+| Location | 3 locations |
+| Category | Sales Engineer |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Principal-Solutions-Consultant_R171622-1) |
 
 ## About This Role
 
-This implementation / professional services position at Adobe was posted on 2026-03-20.
+This sales engineer position at Adobe was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

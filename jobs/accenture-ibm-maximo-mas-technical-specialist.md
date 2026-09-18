@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | 5 locations |
-| Category | DevOps Engineer |
-| Posted | 2026-05-26 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Ontario---Toronto/IBM-Maximo--MAS---Technical-Specialist_R00331891) |
+| Location | Calgary, Alberta, Canada |
+| Category | Sales Engineer |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Alberta---Calgary/IBM-Maximo--MAS---Technical-Specialist_R00355447) |
 
 ## About This Role
 
-This devops engineer position at Accenture was posted on 2026-05-26.
+This sales engineer position at Accenture was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

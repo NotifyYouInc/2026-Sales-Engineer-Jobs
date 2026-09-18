@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Avnet](https://scoutify.ai/companies/avnet?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Subang Jaya, Selangor, Malaysia |
+| Location | Shanghai, Shanghai, China |
 | Category | Sales Engineer |
-| Posted | 2026-09-02 |
-| Apply | [View on company site](https://avnet.wd1.myworkdayjobs.com/external/job/Subang-Jaya-Selangor-Malaysia/Field-Application-Engineer_JR-024170) |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://avnet.wd1.myworkdayjobs.com/external/job/Shanghai-Shanghai-China/Field-Application-Engineer_JR-024250) |
 
 ## About This Role
 
-This sales engineer position at Avnet was posted on 2026-09-02.
+This sales engineer position at Avnet was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

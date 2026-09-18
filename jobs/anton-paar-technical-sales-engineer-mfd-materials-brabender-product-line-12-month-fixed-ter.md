@@ -5,12 +5,12 @@
 | Company | [Anton Paar](https://scoutify.ai/companies/antonpaar?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Les Ulis, Île-de-France, France |
 | Category | Sales Engineer |
-| Posted | 2026-09-08 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AntonPaar1/744000148267501-technical-sales-engineer-mfd-materials-brabender-product-line-12-month-fixed-term-contract) |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AntonPaar1/744000148439779-technical-sales-engineer-mfd-materials-brabender-product-line-12-month-fixed-term-contract) |
 
 ## About This Role
 
-This sales engineer position at Anton Paar was posted on 2026-09-08.
+This sales engineer position at Anton Paar was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

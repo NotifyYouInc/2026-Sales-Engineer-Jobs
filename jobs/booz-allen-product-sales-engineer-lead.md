@@ -5,12 +5,12 @@
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | McLean, Virginia, United States |
 | Category | Sales Engineer |
-| Posted | 2026-03-03 |
+| Posted | 2026-09-10 |
 | Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/McLean-VA/Product-Sales-Engineer--Lead_R0235042) |
 
 ## About This Role
 
-This sales engineer position at Booz Allen was posted on 2026-03-03.
+This sales engineer position at Booz Allen was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

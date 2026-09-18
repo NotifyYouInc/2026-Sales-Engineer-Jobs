@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Appian](https://scoutify.ai/companies/appian?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Boston, Massachusetts, United States |
-| Category | Technical & Solutions Architect |
-| Posted | 2026-06-18 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/appian/jobs/8017390) |
+| Location | Rome, Lazio, Italy |
+| Category | Sales Engineer |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/appian/jobs/8190989) |
 
 ## About This Role
 
-This technical & solutions architect position at Appian was posted on 2026-06-18.
+This sales engineer position at Appian was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

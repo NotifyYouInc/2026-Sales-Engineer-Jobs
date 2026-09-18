@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Druva](https://scoutify.ai/companies/druva?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Washington, District of Columbia, United States |
+| Location | Chicago, Illinois, United States |
 | Category | Sales Engineer |
-| Posted | 2026-07-15 |
-| Apply | [View on company site](https://www.druva.com/why-druva/explore/careers/jobs/8631457002/?gh_jid=8631457002) |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://www.druva.com/why-druva/explore/careers/jobs/8779833002/?gh_jid=8779833002) |
 
 ## About This Role
 
-This sales engineer position at Druva was posted on 2026-07-15.
+This sales engineer position at Druva was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

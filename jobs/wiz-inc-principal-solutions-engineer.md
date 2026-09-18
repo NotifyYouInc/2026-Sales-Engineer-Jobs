@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wiz, Inc.](https://scoutify.ai/companies/wiz-inc?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Tel Aviv, Tel Aviv, Israel |
-| Category | Technical & Solutions Architect |
-| Posted | 2026-07-01 |
-| Apply | [View on company site](https://www.wiz.io/careers/job/4691241006/:title?gh_jid=4691241006) |
+| Location | Australia |
+| Category | Sales Engineer |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://www.wiz.io/careers/job/4711937006/:title?gh_jid=4711937006) |
 
 ## About This Role
 
-This technical & solutions architect position at Wiz, Inc. was posted on 2026-07-01.
+This sales engineer position at Wiz, Inc. was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

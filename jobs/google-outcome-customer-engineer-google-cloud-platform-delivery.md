@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Tel Aviv, Tel Aviv, Israel |
-| Category | Customer Success |
-| Posted | 2026-06-11 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckcdYe0dljvFpOAIMNVGIMvSm-JLYVbBrSM8kaeEtezsHEjsACxwdTE3uzJiHHVi3aVsTJNr8DSdBX597TqSaw81ANXOluDx1fWqs08oprj6MQh2InaQJp4QjqqPelQ%3D%3D_V2&loc=IL&title=Outcome+Customer+Engineer) |
+| Category | Sales Engineer |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckcUJGEqwaBVJTIgiIthe9BIghXCuttSAPQY7UUjcxkaIEjsA1Ny_i1auOlaG0Ht2VHrKp_AZURWYqOhaaSJot349ek_HND_-mtwbxHjcCDyZO1ApBy4tEgvAXWleug%3D%3D_V2&loc=IL&title=Outcome+Customer+Engineer) |
 
 ## About This Role
 
-This customer success position at Google was posted on 2026-06-11.
+This sales engineer position at Google was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

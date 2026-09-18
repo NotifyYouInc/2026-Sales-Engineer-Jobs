@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Samsara](https://scoutify.ai/companies/samsara?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | United States |
-| Category | Customer Success |
-| Posted | 2026-04-09 |
-| Apply | [View on company site](https://www.samsara.com/company/careers/roles/7763623?gh_jid=7763623) |
+| Location | India |
+| Category | Sales Engineer |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://www.samsara.com/company/careers/roles/8169431?gh_jid=8169431) |
 
 ## About This Role
 
-This customer success position at Samsara was posted on 2026-04-09.
+This sales engineer position at Samsara was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

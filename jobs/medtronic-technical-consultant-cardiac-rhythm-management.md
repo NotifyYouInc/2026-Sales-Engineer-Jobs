@@ -1,16 +1,16 @@
-# Technical Consultant Cardiac Rhythm Management at Medtronic
+# Technical Consultant, Cardiac Rhythm Management at Medtronic
 
 | Field | Details |
 |-------|---------|
 | Company | [Medtronic](https://scoutify.ai/companies/medtronic?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Herzliya, Tel Aviv, Israel |
+| Location | Brussels, Brussels Capital, Belgium |
 | Category | Sales Engineer |
-| Posted | 2026-08-05 |
-| Apply | [View on company site](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Herzliya-Tel-Aviv-Israel/Technical-Consultant-Cardiac-Rhythm-Management_R73190-2) |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Brussels-Brussels-Belgium/Technical-Consultant--Cardiac-Rhythm-Management_R76579-1) |
 
 ## About This Role
 
-This sales engineer position at Medtronic was posted on 2026-08-05.
+This sales engineer position at Medtronic was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

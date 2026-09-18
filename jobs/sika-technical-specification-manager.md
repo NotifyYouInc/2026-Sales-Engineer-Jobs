@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sika](https://scoutify.ai/companies/sika?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Fort Lauderdale, Florida, United States |
+| Location | Dallas, Texas, United States |
 | Category | Sales Engineer |
-| Posted | 2026-08-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SikaAG/744000141998749-technical-specification-manager) |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SikaAG/744000148863100-technical-specification-manager) |
 
 ## About This Role
 
-This sales engineer position at Sika was posted on 2026-08-06.
+This sales engineer position at Sika was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

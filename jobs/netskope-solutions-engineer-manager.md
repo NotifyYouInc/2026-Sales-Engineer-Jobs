@@ -5,12 +5,12 @@
 | Company | [Netskope](https://scoutify.ai/companies/netskope?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | United States |
 | Category | Sales Engineer |
-| Posted | 2026-09-07 |
-| Apply | [View on company site](https://www.netskope.com/company/careers/open-positions/?gh_jid=8155161) |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://www.netskope.com/company/careers/open-positions/?gh_jid=8130279) |
 
 ## About This Role
 
-This sales engineer position at Netskope was posted on 2026-09-07.
+This sales engineer position at Netskope was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

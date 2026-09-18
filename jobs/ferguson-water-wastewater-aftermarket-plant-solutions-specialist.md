@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Ferguson](https://scoutify.ai/companies/ferguson?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Nashua, New Hampshire, United States |
+| Location | 2 locations |
 | Category | Sales Engineer |
-| Posted | 2026-06-22 |
-| Apply | [View on company site](https://ferguson.wd1.myworkdayjobs.com/ferguson_experienced/job/Nashua-NH/Water---Wastewater-Aftermarket---Plant-Solutions-Specialist_R-137663) |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://ferguson.wd1.myworkdayjobs.com/ferguson_experienced/job/Pelham-AL/Water---Wastewater-Aftermarket---Plant-Solutions-Specialist_R-140297) |
 
 ## About This Role
 
-This sales engineer position at Ferguson was posted on 2026-06-22.
+This sales engineer position at Ferguson was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

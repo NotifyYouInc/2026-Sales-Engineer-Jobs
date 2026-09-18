@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Unisys](https://scoutify.ai/companies/unisys?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Singapore, Singapore |
-| Category | Customer Success |
-| Posted | 2026-05-26 |
-| Apply | [View on company site](https://unisys.wd5.myworkdayjobs.com/External/job/Multi-Client-Singapore/Tech-Field-Engineer_REQ572200) |
+| Location | Newcastle, New South Wales, Australia |
+| Category | Sales Engineer |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://unisys.wd5.myworkdayjobs.com/External/job/Newcastle-NSW-Australia/Tech-Field-Engineer_REQ575504) |
 
 ## About This Role
 
-This customer success position at Unisys was posted on 2026-05-26.
+This sales engineer position at Unisys was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 
