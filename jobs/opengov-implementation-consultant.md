@@ -5,12 +5,12 @@
 | Company | [OpenGov](https://scoutify.ai/companies/opengov?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Chicago, Illinois, United States |
 | Category | Sales Engineer |
-| Posted | 2026-08-14 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/opengov/9ff8ad61-de02-43bd-bc39-31b27f5d616e) |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/opengov/add3f88b-3ee1-4c82-978b-3d4a6f06c13f) |
 
 ## About This Role
 
-This sales engineer position at OpenGov was posted on 2026-08-14.
+This sales engineer position at OpenGov was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

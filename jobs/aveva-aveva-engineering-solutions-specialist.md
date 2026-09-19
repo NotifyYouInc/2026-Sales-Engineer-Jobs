@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AVEVA](https://scoutify.ai/companies/aveva?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | São Paulo, São Paulo, Brazil |
-| Category | Technical Writer |
-| Posted | 2026-02-20 |
+| Location | 2 locations |
+| Category | Sales Engineer |
+| Posted | 2026-09-11 |
 | Apply | [View on company site](https://aveva.wd3.myworkdayjobs.com/AVEVA_careers/job/Home-Office-Brazil/AVEVA-Engineering-Solutions-Specialist_R013353) |
 
 ## About This Role
 
-This technical writer position at AVEVA was posted on 2026-02-20.
+This sales engineer position at AVEVA was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

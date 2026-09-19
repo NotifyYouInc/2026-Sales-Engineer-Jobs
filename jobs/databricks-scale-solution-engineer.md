@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Databricks](https://scoutify.ai/companies/databricks?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Tokyo, Tokyo, Japan |
+| Location | Heredia, Heredia Province, Costa Rica |
 | Category | Sales Engineer |
-| Posted | 2026-09-08 |
-| Apply | [View on company site](https://databricks.com/company/careers/open-positions/job?gh_jid=8779016002) |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://databricks.com/company/careers/open-positions/job?gh_jid=8779023002) |
 
 ## About This Role
 
-This sales engineer position at Databricks was posted on 2026-09-08.
+This sales engineer position at Databricks was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

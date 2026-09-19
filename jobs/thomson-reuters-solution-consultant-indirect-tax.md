@@ -5,12 +5,12 @@
 | Company | [Thomson Reuters](https://scoutify.ai/companies/thomson-reuters?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | London, England, United Kingdom |
 | Category | Sales Engineer |
-| Posted | 2026-08-12 |
-| Apply | [View on company site](https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/United-Kingdom-London/Solution-Consultant---Indirect-Tax_JREQ202889) |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/United-Kingdom-London/Solution-Consultant---Indirect-Tax_JREQ203476-2) |
 
 ## About This Role
 
-This sales engineer position at Thomson Reuters was posted on 2026-08-12.
+This sales engineer position at Thomson Reuters was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

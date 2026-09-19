@@ -5,12 +5,12 @@
 | Company | [SHI International](https://scoutify.ai/companies/shi-international?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Somerset, New Jersey, United States |
 | Category | Sales Engineer |
-| Posted | 2026-07-11 |
-| Apply | [View on company site](https://shi.wd12.myworkdayjobs.com/shicareers/job/Somerset-NJ-USA/Inside-Solutions-Engineer---Public-Sector_JR3376-1) |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://shi.wd12.myworkdayjobs.com/shicareers/job/Somerset-NJ-USA/Inside-Solutions-Engineer---Public-Sector_JR3720) |
 
 ## About This Role
 
-This sales engineer position at SHI International was posted on 2026-07-11.
+This sales engineer position at SHI International was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

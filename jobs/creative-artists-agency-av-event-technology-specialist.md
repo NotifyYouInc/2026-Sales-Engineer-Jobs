@@ -1,16 +1,16 @@
-# AV Event Technology Specialist at Creative Artists Agency
+# AV & Event Technology Specialist at Creative Artists Agency
 
 | Field | Details |
 |-------|---------|
 | Company | [Creative Artists Agency](https://scoutify.ai/companies/caa?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Los Angeles, California, United States |
-| Category | IT & Systems Administration |
-| Posted | 2026-09-01 |
-| Apply | [View on company site](https://caa.wd1.myworkdayjobs.com/Careers/job/Los-Angeles-CA/AV-Event-Technology-Specialist_JR9164) |
+| Location | Nashville, Tennessee, United States |
+| Category | Sales Engineer |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://caa.wd1.myworkdayjobs.com/Careers/job/Nashville-TN/AV---Event-Technology-Specialist_JR9194) |
 
 ## About This Role
 
-This it & systems administration position at Creative Artists Agency was posted on 2026-09-01.
+This sales engineer position at Creative Artists Agency was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

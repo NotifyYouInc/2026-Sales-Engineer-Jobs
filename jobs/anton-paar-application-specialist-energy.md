@@ -1,4 +1,4 @@
-# Application Specialist Energy at Anton Paar
+# Application Specialist - Energy at Anton Paar
 
 | Field | Details |
 |-------|---------|
@@ -6,7 +6,7 @@
 | Location | Bologna, Emilia-Romagna, Italy |
 | Category | Sales Engineer |
 | Posted | 2026-09-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AntonPaar1/744000148450159-application-specialist-energy) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AntonPaar1/744000148446895-application-specialist-energy) |
 
 ## About This Role
 

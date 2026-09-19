@@ -5,12 +5,12 @@
 | Company | [Crane Co.](https://scoutify.ai/companies/cranecompany?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Cincinnati, Ohio, United States |
 | Category | Sales Engineer |
-| Posted | 2026-07-30 |
-| Apply | [View on company site](https://cranecompany.wd5.myworkdayjobs.com/Careers/job/Cincinnati-Ohio/Inside-Sales-Engineer_JR102231) |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://cranecompany.wd5.myworkdayjobs.com/Careers/job/Cincinnati-Ohio/Inside-Sales-Engineer_JR102502) |
 
 ## About This Role
 
-This sales engineer position at Crane Co. was posted on 2026-07-30.
+This sales engineer position at Crane Co. was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

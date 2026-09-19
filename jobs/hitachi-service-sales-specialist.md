@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Hitachi](https://scoutify.ai/companies/hitachi?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Jakarta, Jakarta, Indonesia |
-| Category | Account Executive |
-| Posted | 2026-08-24 |
-| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Jakarta-Jakarta-Raya-Indonesia/Service-Sales-Specialist_R0127008) |
+| Location | Stone, England, United Kingdom |
+| Category | Sales Engineer |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Stone-Staffordshire-United-Kingdom/Service-Sales-Specialist_R0125136) |
 
 ## About This Role
 
-This account executive position at Hitachi was posted on 2026-08-24.
+This sales engineer position at Hitachi was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

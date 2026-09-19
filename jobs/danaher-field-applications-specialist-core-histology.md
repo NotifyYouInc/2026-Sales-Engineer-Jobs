@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Danaher](https://scoutify.ai/companies/danaher?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | 4 locations |
+| Location | Charlotte, North Carolina, United States |
 | Category | Sales Engineer |
-| Posted | 2026-06-26 |
-| Apply | [View on company site](https://danaher.wd1.myworkdayjobs.com/DanaherJobs/job/Philadelphia-Pennsylvania-United-States/Field-Applications-Specialist---Core-Histology_R1313317) |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://danaher.wd1.myworkdayjobs.com/DanaherJobs/job/Charlotte-North-Carolina-United-States/Field-Applications-Specialist---Core-Histology_R1318584) |
 
 ## About This Role
 
-This sales engineer position at Danaher was posted on 2026-06-26.
+This sales engineer position at Danaher was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

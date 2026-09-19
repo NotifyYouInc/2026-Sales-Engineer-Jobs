@@ -5,12 +5,12 @@
 | Company | [Anton Paar](https://scoutify.ai/companies/antonpaar?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Les Ulis, Île-de-France, France |
 | Category | Sales Engineer |
-| Posted | 2026-09-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AntonPaar1/744000148437049-ingenieure-technico-commerciale-gamme-brabender-hf) |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AntonPaar1/744000149017410-ingenieure-technico-commerciale-gamme-brabender-hf) |
 
 ## About This Role
 
-This sales engineer position at Anton Paar was posted on 2026-09-09.
+This sales engineer position at Anton Paar was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

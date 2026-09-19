@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [T-Systems International](https://scoutify.ai/companies/tsystemsinternational?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Spain |
-| Category | Software Engineer |
-| Posted | 2026-05-15 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/T-SystemsIberia/744000126675599-ai-software-solutions-engineer-mfd) |
+| Location | 8 locations |
+| Category | Sales Engineer |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/T-SystemsIberia/744000149026650-ai-software-solutions-engineer-mfd) |
 
 ## About This Role
 
-This software engineer position at T-Systems International was posted on 2026-05-15.
+This sales engineer position at T-Systems International was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

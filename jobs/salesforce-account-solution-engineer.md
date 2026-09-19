@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Salesforce](https://scoutify.ai/companies/salesforce?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Santiago, Santiago Metropolitan, Chile |
+| Location | Dublin, Leinster, Ireland |
 | Category | Sales Engineer |
-| Posted | 2026-08-27 |
-| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Chile---Santiago/Account-Solution-Engineer_JR357584) |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Ireland---Dublin/Account-Solution-Engineer_JR359410) |
 
 ## About This Role
 
-This sales engineer position at Salesforce was posted on 2026-08-27.
+This sales engineer position at Salesforce was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 
