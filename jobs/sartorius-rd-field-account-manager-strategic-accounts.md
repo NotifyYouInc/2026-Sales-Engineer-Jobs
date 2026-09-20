@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Sartorius](https://scoutify.ai/companies/sartorius?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Middlesbrough, England, United Kingdom |
-| Category | Strategy & Operations |
+| Category | Sales Engineer |
 | Posted | 2026-09-11 |
 | Apply | [View on company site](https://sartorius.wd3.myworkdayjobs.com/sartoriuscareers/job/Home-Office-Epsom/R-D-Field-Account-Manager-Strategic-Accounts_R41269) |
 
 ## About This Role
 
-This strategy & operations position at Sartorius was posted on 2026-09-11.
+This sales engineer position at Sartorius was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

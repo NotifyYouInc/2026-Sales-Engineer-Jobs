@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Microsoft](https://scoutify.ai/companies/microsoft?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Hong Kong, Hong Kong |
-| Category | Technical & Solutions Architect |
-| Posted | 2026-07-01 |
-| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556917286) |
+| Category | Sales Engineer |
+| Posted | 2026-09-12 |
+| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556994463) |
 
 ## About This Role
 
-This technical & solutions architect position at Microsoft was posted on 2026-07-01.
+This sales engineer position at Microsoft was posted on 2026-09-12.
 
 ## Get Real-Time Alerts
 
