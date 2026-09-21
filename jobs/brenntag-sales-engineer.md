@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Brenntag](https://scoutify.ai/companies/brenntag?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Shanghai, Shanghai, China |
+| Location | Guangzhou, Guangdong, China |
 | Category | Sales Engineer |
-| Posted | 2026-04-09 |
-| Apply | [View on company site](https://brenntag.wd3.myworkdayjobs.com/brenntag_jobs/job/ShanghaiChina/Sales-Engineer_JR109345) |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://brenntag.wd3.myworkdayjobs.com/brenntag_jobs/job/GuangzhouChina/Sales-Engineer_JR112306) |
 
 ## About This Role
 
-This sales engineer position at Brenntag was posted on 2026-04-09.
+This sales engineer position at Brenntag was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

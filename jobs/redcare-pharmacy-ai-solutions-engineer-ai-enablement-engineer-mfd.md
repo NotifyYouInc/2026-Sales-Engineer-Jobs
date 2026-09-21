@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Redcare Pharmacy](https://scoutify.ai/companies/redcarepharmacy?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Köln, North Rhine-Westphalia, Germany |
-| Category | AI / LLM Engineer |
-| Posted | 2026-07-15 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Redcare-Pharmacy/744000137860129-ai-solutions-engineer-ai-enablement-engineer-mfd) |
+| Category | Sales Engineer |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Redcare-Pharmacy/744000149299348-ai-solutions-engineer-ai-enablement-engineer-mfd) |
 
 ## About This Role
 
-This ai / llm engineer position at Redcare Pharmacy was posted on 2026-07-15.
+This sales engineer position at Redcare Pharmacy was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

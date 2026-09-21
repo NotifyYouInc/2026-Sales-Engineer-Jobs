@@ -5,12 +5,12 @@
 | Company | [Micron](https://scoutify.ai/companies/micron?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Taichung, Taiwan, Taiwan |
 | Category | Sales Engineer |
-| Posted | 2026-09-09 |
-| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Taichung---Fab-16-Taiwan/TEST-SOLUTIONS-ENGINEER_JR111308) |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Taichung---Fab-16-Taiwan/TEST-SOLUTIONS-ENGINEER_JR111132) |
 
 ## About This Role
 
-This sales engineer position at Micron was posted on 2026-09-09.
+This sales engineer position at Micron was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

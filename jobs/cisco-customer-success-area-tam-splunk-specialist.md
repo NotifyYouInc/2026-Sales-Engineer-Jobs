@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Allen, Texas, United States |
-| Category | Sales Engineer |
+| Category | Customer Success Manager |
 | Posted | 2026-09-09 |
 | Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Allen-Texas-US/Customer-Success-Area-TAM-Splunk-Specialist_2023087) |
 
 ## About This Role
 
-This sales engineer position at Cisco was posted on 2026-09-09.
+This customer success manager position at Cisco was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

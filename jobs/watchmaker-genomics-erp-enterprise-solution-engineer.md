@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Watchmaker Genomics](https://scoutify.ai/companies/watchmaker-genomics?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Cape Town, Western Cape, South Africa |
-| Category | Sales Engineer |
+| Category | IT & Systems Administration |
 | Posted | 2026-09-11 |
 | Apply | [View on company site](https://www.watchmakergenomics.com/company/careers/?gh_jid=5421630008) |
 
 ## About This Role
 
-This sales engineer position at Watchmaker Genomics was posted on 2026-09-11.
+This it & systems administration position at Watchmaker Genomics was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

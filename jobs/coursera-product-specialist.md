@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Coursera](https://scoutify.ai/companies/coursera?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Mexico City, Mexico City, Mexico |
-| Category | Sales Engineer |
+| Category | Customer Success Manager |
 | Posted | 2026-09-09 |
 | Apply | [View on company site](https://app.careerpuck.com/job-board/udemy/job/6156821004?gh_jid=6156821004) |
 
 ## About This Role
 
-This sales engineer position at Coursera was posted on 2026-09-09.
+This customer success manager position at Coursera was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

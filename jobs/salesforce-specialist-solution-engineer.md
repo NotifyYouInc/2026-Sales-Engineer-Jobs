@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Salesforce](https://scoutify.ai/companies/salesforce?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Dubai, Dubai, United Arab Emirates |
+| Location | 13 locations |
 | Category | Sales Engineer |
-| Posted | 2026-09-04 |
-| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/United-Arab-Emirates---Dubai/Specialist-Solution-Engineer_JR359148) |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/New-York---New-York/Specialist-Solution-Engineer_JR358388-1) |
 
 ## About This Role
 
-This sales engineer position at Salesforce was posted on 2026-09-04.
+This sales engineer position at Salesforce was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

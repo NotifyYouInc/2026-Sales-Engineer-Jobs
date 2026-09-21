@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Veolia](https://scoutify.ai/companies/veolia?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Boise, Idaho, United States |
-| Category | Sales Engineer |
+| Category | IT & Systems Administration |
 | Posted | 2026-09-11 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000149062980-operational-technology-specialist) |
 
 ## About This Role
 
-This sales engineer position at Veolia was posted on 2026-09-11.
+This it & systems administration position at Veolia was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

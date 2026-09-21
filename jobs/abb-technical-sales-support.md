@@ -5,12 +5,12 @@
 | Company | [ABB](https://scoutify.ai/companies/abb?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | 2 locations |
 | Category | Sales Engineer |
-| Posted | 2026-06-24 |
-| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Dalian-Liaoning-China/Technical-Sales-Support_JR00037864) |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Chengdu-Sichuan-China/Technical-Sales-Support_JR00037861) |
 
 ## About This Role
 
-This sales engineer position at ABB was posted on 2026-06-24.
+This sales engineer position at ABB was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

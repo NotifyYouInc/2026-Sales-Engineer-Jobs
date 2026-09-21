@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Braze](https://scoutify.ai/companies/braze?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Tokyo, Tokyo, Japan |
-| Category | Implementation / Professional Services |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://boards.greenhouse.io/braze/jobs/7650714?gh_jid=7650714) |
+| Category | Sales Engineer |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/braze/jobs/8045088) |
 
 ## About This Role
 
-This implementation / professional services position at Braze was posted on 2026-03-03.
+This sales engineer position at Braze was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

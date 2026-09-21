@@ -5,12 +5,12 @@
 | Company | [Applied Materials](https://scoutify.ai/companies/applied-materials?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | South Korea |
 | Category | Sales Engineer |
-| Posted | 2026-08-10 |
-| Apply | [View on company site](https://amat.wd1.myworkdayjobs.com/External/job/CheongJuKOR/DDP-Customer-Engineer_R2625828) |
+| Posted | 2026-09-13 |
+| Apply | [View on company site](https://amat.wd1.myworkdayjobs.com/External/job/Pyeongtaek-MokokKOR/DDP-Customer-Engineer_R2628568) |
 
 ## About This Role
 
-This sales engineer position at Applied Materials was posted on 2026-08-10.
+This sales engineer position at Applied Materials was posted on 2026-09-13.
 
 ## Get Real-Time Alerts
 

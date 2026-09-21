@@ -5,12 +5,12 @@
 | Company | [Tencent](https://scoutify.ai/companies/tencent?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Seoul, Seoul, South Korea |
 | Category | Sales Engineer |
-| Posted | 2026-07-22 |
-| Apply | [View on company site](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/SKorea-Seoul/Tencent-Cloud---Technical-Account-Manager--Korea-_R107828) |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/SKorea-Seoul/Tencent-Cloud---Technical-Account-Manager--Korea-_R108129) |
 
 ## About This Role
 
-This sales engineer position at Tencent was posted on 2026-07-22.
+This sales engineer position at Tencent was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

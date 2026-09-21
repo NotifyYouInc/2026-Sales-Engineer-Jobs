@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Irvine, California, United States |
-| Category | Technical & Solutions Architect |
-| Posted | 2026-06-08 |
-| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Irvine-California-US/Senior-Solutions-Engineer_2014165) |
+| Location | Perth, Western Australia, Australia |
+| Category | Sales Engineer |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Perth-Australia/Senior-Solutions-Engineer_2025043-1) |
 
 ## About This Role
 
-This technical & solutions architect position at Cisco was posted on 2026-06-08.
+This sales engineer position at Cisco was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

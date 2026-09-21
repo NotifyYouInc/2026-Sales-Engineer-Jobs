@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Avnet](https://scoutify.ai/companies/avnet?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Suzhou, Jiangsu, China |
+| Location | Shanghai, Shanghai, China |
 | Category | Sales Engineer |
-| Posted | 2026-08-27 |
-| Apply | [View on company site](https://avnet.wd1.myworkdayjobs.com/external/job/Suzhou-Jiangsu-China/Sales-Engineer--Shanghai_JR-024080) |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://avnet.wd1.myworkdayjobs.com/external/job/Shanghai-Shanghai-China/Sales-Engineer--Shanghai_JR-024081) |
 
 ## About This Role
 
-This sales engineer position at Avnet was posted on 2026-08-27.
+This sales engineer position at Avnet was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Airasia](https://scoutify.ai/companies/airasia?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
-| Category | Sales Engineer |
+| Category | IT & Systems Administration |
 | Posted | 2026-09-10 |
 | Apply | [View on company site](https://airasia.wd3.myworkdayjobs.com/careers/job/Kuala-Lumpur---RedQ/Senior-Executive--Jira-Technical-Specialist_JR0035276) |
 
 ## About This Role
 
-This sales engineer position at Airasia was posted on 2026-09-10.
+This it & systems administration position at Airasia was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

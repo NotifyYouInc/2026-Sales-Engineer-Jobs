@@ -1,16 +1,16 @@
-# Sales Support Specialist at Hitachi
+# Sales support  Specialist at Hitachi
 
 | Field | Details |
 |-------|---------|
 | Company | [Hitachi](https://scoutify.ai/companies/hitachi?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Chennai, Tamil Nadu, India |
+| Location | Shanghai, Shanghai, China |
 | Category | Sales Engineer |
-| Posted | 2026-07-08 |
-| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Chennai-Tamil-Nadu-India/Sales-Support-Specialist_R0136332) |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Shanghai-China/Sales-support--Specialist_R0145113-1) |
 
 ## About This Role
 
-This sales engineer position at Hitachi was posted on 2026-07-08.
+This sales engineer position at Hitachi was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

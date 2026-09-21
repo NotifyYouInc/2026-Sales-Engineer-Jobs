@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Airbyte](https://scoutify.ai/companies/airbyte?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | New York City, New York, United States |
-| Category | Sales Engineer |
+| Category | Customer Success Manager |
 | Posted | 2026-09-10 |
 | Apply | [View on company site](https://jobs.ashbyhq.com/airbyte/44ea7c1a-a61b-4b41-bc41-009dd6349d83) |
 
 ## About This Role
 
-This sales engineer position at Airbyte was posted on 2026-09-10.
+This customer success manager position at Airbyte was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

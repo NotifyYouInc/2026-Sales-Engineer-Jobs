@@ -6,7 +6,7 @@
 | Location | Cairo, Cairo, Egypt |
 | Category | Sales Engineer |
 | Posted | 2026-09-09 |
-| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Cairo-Cairo-Egypt/Technical-Account-Manager_JR00045964) |
+| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Cairo-Cairo-Egypt/Technical-Account-Manager_JR00045965) |
 
 ## About This Role
 

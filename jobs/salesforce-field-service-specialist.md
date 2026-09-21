@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Salesforce](https://scoutify.ai/companies/salesforce?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Madrid, Madrid, Spain |
+| Location | Sydney, New South Wales, Australia |
 | Category | Sales Engineer |
-| Posted | 2026-07-07 |
-| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Spain---Madrid/Field-Service-Specialist_JR345647) |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Australia---Sydney/Field-Service-Specialist_JR360046) |
 
 ## About This Role
 
-This sales engineer position at Salesforce was posted on 2026-07-07.
+This sales engineer position at Salesforce was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

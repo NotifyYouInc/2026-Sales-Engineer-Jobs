@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Stannah](https://scoutify.ai/companies/stannah?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Dartford, England, United Kingdom |
-| Category | Account Executive |
-| Posted | 2026-08-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Stannah1/744000144588479-technical-sales-advisor-minors) |
+| Category | Sales Engineer |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Stannah1/744000149274879-technical-sales-advisor-minors) |
 
 ## About This Role
 
-This account executive position at Stannah was posted on 2026-08-20.
+This sales engineer position at Stannah was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

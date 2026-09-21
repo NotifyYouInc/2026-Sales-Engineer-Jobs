@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Dykema](https://scoutify.ai/companies/recruiting-ultipro-com-oj31662?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Los Angeles, California, United States |
-| Category | Sales Engineer |
+| Category | IT & Systems Administration |
 | Posted | 2026-09-10 |
 | Apply | [View on company site](https://recruiting.ultipro.com/dyk1000dygos/JobBoard/6e73c009-d773-43d6-9336-480d49caffee/OpportunityDetail?opportunityId=726a108b-c48b-488a-80bc-87b8956f732f) |
 
 ## About This Role
 
-This sales engineer position at Dykema was posted on 2026-09-10.
+This it & systems administration position at Dykema was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

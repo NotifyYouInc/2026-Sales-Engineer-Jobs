@@ -5,12 +5,12 @@
 | Company | [Stannah](https://scoutify.ai/companies/stannah?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Dartford, England, United Kingdom |
 | Category | Sales Engineer |
-| Posted | 2026-09-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Stannah1/744000147165095-technical-sales-consultant-majors) |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Stannah1/744000149275609-technical-sales-consultant-majors) |
 
 ## About This Role
 
-This sales engineer position at Stannah was posted on 2026-09-03.
+This sales engineer position at Stannah was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

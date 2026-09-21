@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | New York City, New York, United States |
+| Location | São Paulo, São Paulo, Brazil |
 | Category | Sales Engineer |
-| Posted | 2026-07-09 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10469732/programmatic-solutions-consultant-amazon-ads) |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10538335/programmatic-solutions-consultant-amazon-ads) |
 
 ## About This Role
 
-This sales engineer position at Amazon was posted on 2026-07-09.
+This sales engineer position at Amazon was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

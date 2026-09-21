@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Exclusivenetworks](https://scoutify.ai/companies/exclusivenetworks?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Hong Kong, Hong Kong |
+| Location | Singapore, Singapore |
 | Category | Sales Engineer |
-| Posted | 2026-09-02 |
-| Apply | [View on company site](https://exclusivenetworks.wd103.myworkdayjobs.com/exclusive-networks-career/job/Hong-Kong/Pre-Sales-Engineer_JR2419-2) |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://exclusivenetworks.wd103.myworkdayjobs.com/exclusive-networks-career/job/Singapore/Pre-Sales-Engineer_JR2504-1) |
 
 ## About This Role
 
-This sales engineer position at Exclusivenetworks was posted on 2026-09-02.
+This sales engineer position at Exclusivenetworks was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

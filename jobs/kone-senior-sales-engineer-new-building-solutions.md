@@ -1,16 +1,16 @@
-# Senior Sales Engineer - New Building Solutions at Kone
+# Senior Sales Engineer, New Building Solutions at Kone
 
 | Field | Details |
 |-------|---------|
 | Company | [Kone](https://scoutify.ai/companies/kone?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Doha, Baladīyat ad Dawḩah, Qatar |
 | Category | Sales Engineer |
-| Posted | 2026-09-09 |
-| Apply | [View on company site](https://kone.wd3.myworkdayjobs.com/careers/job/Doha/Senior-Sales-Engineer---New-Building-Solutions_R0664314) |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://kone.wd3.myworkdayjobs.com/careers/job/Doha/Senior-Sales-Engineer--New-Building-Solutions_R0664510) |
 
 ## About This Role
 
-This sales engineer position at Kone was posted on 2026-09-09.
+This sales engineer position at Kone was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

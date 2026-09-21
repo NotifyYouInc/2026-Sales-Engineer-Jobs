@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Carrier Global](https://scoutify.ai/companies/carrier?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Indianapolis, Indiana, United States |
+| Location | 2 locations |
 | Category | Sales Engineer |
-| Posted | 2026-09-09 |
-| Apply | [View on company site](https://carrier.wd5.myworkdayjobs.com/jobs/job/CAI23-Carrier-Indianapolis-7310-West-Morris-Street-Indianapolis-IN-46231-USA/Mission-Critical-Associate-Field-Engineer---PLC---Automated-Logic---Sullivan--IN_30216995) |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://carrier.wd5.myworkdayjobs.com/jobs/job/CAI26-ALC---Chicago-2400-Ogden-Avenue-Lisle-IL-60532-USA/Mission-Critical-Associate-Field-Engineer---PLC---Automated-Logic---Sullivan--IN_30217379-1) |
 
 ## About This Role
 
-This sales engineer position at Carrier Global was posted on 2026-09-09.
+This sales engineer position at Carrier Global was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

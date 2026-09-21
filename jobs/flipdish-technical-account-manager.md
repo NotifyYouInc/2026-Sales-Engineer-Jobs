@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Flipdish](https://scoutify.ai/companies/flipdish?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Karachi, Sindh, Pakistan |
-| Category | Sales Engineer |
+| Category | Customer Success Manager |
 | Posted | 2026-09-10 |
 | Apply | [View on company site](https://job-boards.eu.greenhouse.io/flipdish/jobs/4968045101) |
 
 ## About This Role
 
-This sales engineer position at Flipdish was posted on 2026-09-10.
+This customer success manager position at Flipdish was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

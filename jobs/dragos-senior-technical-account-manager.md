@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Dragos](https://scoutify.ai/companies/dragos?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Australia |
-| Category | Sales Engineer |
+| Category | Customer Success Manager |
 | Posted | 2026-09-10 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/dragos/jobs/5411964008) |
 
 ## About This Role
 
-This sales engineer position at Dragos was posted on 2026-09-10.
+This customer success manager position at Dragos was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

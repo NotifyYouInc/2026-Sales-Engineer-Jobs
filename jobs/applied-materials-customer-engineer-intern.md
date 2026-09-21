@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Applied Materials](https://scoutify.ai/companies/applied-materials?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Shanghai, Shanghai, China |
+| Location | Hefei, Anhui, China |
 | Category | Sales Engineer |
-| Posted | 2026-09-07 |
-| Apply | [View on company site](https://amat.wd1.myworkdayjobs.com/External/job/ShanghaiCHN/Customer-Engineer-Intern_R2628009) |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://amat.wd1.myworkdayjobs.com/External/job/HefeiCHN/Customer-Engineer-Intern_R2628378) |
 
 ## About This Role
 
-This sales engineer position at Applied Materials was posted on 2026-09-07.
+This sales engineer position at Applied Materials was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

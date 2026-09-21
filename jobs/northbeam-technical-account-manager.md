@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Northbeam](https://scoutify.ai/companies/northbeam?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | United States |
-| Category | Sales Engineer |
+| Category | Customer Success Manager |
 | Posted | 2026-09-09 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/northbeam/jobs/4712105006) |
 
 ## About This Role
 
-This sales engineer position at Northbeam was posted on 2026-09-09.
+This customer success manager position at Northbeam was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

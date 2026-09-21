@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Samsara](https://scoutify.ai/companies/samsara?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | India |
-| Category | Sales Engineer |
+| Category | Customer Success Manager |
 | Posted | 2026-09-10 |
 | Apply | [View on company site](https://www.samsara.com/company/careers/roles/8169431?gh_jid=8169431) |
 
 ## About This Role
 
-This sales engineer position at Samsara was posted on 2026-09-10.
+This customer success manager position at Samsara was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

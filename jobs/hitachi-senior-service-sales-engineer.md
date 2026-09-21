@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Hitachi](https://scoutify.ai/companies/hitachi?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Oman |
+| Location | Bangkok, Bangkok, Thailand |
 | Category | Sales Engineer |
-| Posted | 2026-05-07 |
-| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Al-Hamriya-Masqa-Oman/Senior-Service-Sales-Engineer_R0128772-1) |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Bangkok-Thailand/Senior-Service-Sales-Engineer_R0144578) |
 
 ## About This Role
 
-This sales engineer position at Hitachi was posted on 2026-05-07.
+This sales engineer position at Hitachi was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Sales Engineer - B&R at ABB
+# Sales Engineer- B&R at ABB
 
 | Field | Details |
 |-------|---------|
 | Company | [ABB](https://scoutify.ai/companies/abb?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Istanbul, Istanbul, Turkey |
 | Category | Sales Engineer |
-| Posted | 2026-09-09 |
-| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Istanbul-stanbul-Trkiye/Sales-Engineer---B-R_JR00046823) |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Istanbul-stanbul-Trkiye/Sales-Engineer--B-R_JR00046822) |
 
 ## About This Role
 
-This sales engineer position at ABB was posted on 2026-09-09.
+This sales engineer position at ABB was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

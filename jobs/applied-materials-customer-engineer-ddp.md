@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Applied Materials](https://scoutify.ai/companies/applied-materials?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Shaoxing, Zhejiang, China |
-| Category | Customer Success |
-| Posted | 2026-08-24 |
-| Apply | [View on company site](https://amat.wd1.myworkdayjobs.com/External/job/ShaoxingCHN/Customer-Engineer-DDP_R2625374) |
+| Location | Shanghai, Shanghai, China |
+| Category | Sales Engineer |
+| Posted | 2026-09-12 |
+| Apply | [View on company site](https://amat.wd1.myworkdayjobs.com/External/job/ShanghaiCHN/Customer-Engineer-DDP_R2626967) |
 
 ## About This Role
 
-This customer success position at Applied Materials was posted on 2026-08-24.
+This sales engineer position at Applied Materials was posted on 2026-09-12.
 
 ## Get Real-Time Alerts
 

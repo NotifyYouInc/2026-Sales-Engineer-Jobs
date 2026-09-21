@@ -1,16 +1,16 @@
-# Senior Solution Sales Executive - Moveworks at ServiceNow
+# Senior Solution Sales Executive - MoveWorks at ServiceNow
 
 | Field | Details |
 |-------|---------|
 | Company | [ServiceNow](https://scoutify.ai/companies/servicenow?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | San Francisco, California, United States |
+| Location | Helsinki, Uusimaa, Finland |
 | Category | Sales Engineer |
-| Posted | 2026-06-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000134322050-senior-solution-sales-executive-moveworks) |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000149257860-senior-solution-sales-executive-moveworks) |
 
 ## About This Role
 
-This sales engineer position at ServiceNow was posted on 2026-06-25.
+This sales engineer position at ServiceNow was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

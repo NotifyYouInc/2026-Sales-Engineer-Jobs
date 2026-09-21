@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Unisys](https://scoutify.ai/companies/unisys?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Canberra, Australian Capital Territory, Australia |
-| Category | Customer Success |
-| Posted | 2026-06-04 |
-| Apply | [View on company site](https://unisys.wd5.myworkdayjobs.com/External/job/Canberra-ACT-Australia/Master-Technical-Field-Engineer_REQ573170) |
+| Location | Adelaide, South Australia, Australia |
+| Category | IT & Systems Administration |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://unisys.wd5.myworkdayjobs.com/External/job/Adelaide-SA-Australia/Master-Technical-Field-Engineer_REQ575724) |
 
 ## About This Role
 
-This customer success position at Unisys was posted on 2026-06-04.
+This it & systems administration position at Unisys was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 
