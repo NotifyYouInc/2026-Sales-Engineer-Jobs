@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [ABB](https://scoutify.ai/companies/abb?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Cairo, Cairo, Egypt |
-| Category | Sales Engineer |
-| Posted | 2026-09-09 |
-| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Cairo-Cairo-Egypt/Technical-Account-Manager_JR00045965) |
+| Category | Account Manager |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Cairo-Cairo-Egypt/Technical-Account-Manager_JR00043710) |
 
 ## About This Role
 
-This sales engineer position at ABB was posted on 2026-09-09.
+This account manager position at ABB was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

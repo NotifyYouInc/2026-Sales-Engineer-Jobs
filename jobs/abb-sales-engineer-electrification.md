@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [ABB](https://scoutify.ai/companies/abb?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Bucharest, București, Romania |
-| Category | Account Executive |
-| Posted | 2026-03-24 |
+| Category | Sales Engineer |
+| Posted | 2026-09-15 |
 | Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Bucharest-Bucureti-Romania/Sales-Engineer-Electrification_JR00027703) |
 
 ## About This Role
 
-This account executive position at ABB was posted on 2026-03-24.
+This sales engineer position at ABB was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

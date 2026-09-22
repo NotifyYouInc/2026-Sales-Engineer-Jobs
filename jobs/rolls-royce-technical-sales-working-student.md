@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Rolls-Royce](https://scoutify.ai/companies/rollsroyce?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Berlin, State of Berlin, Germany |
+| Location | 2 locations |
 | Category | Sales Engineer |
-| Posted | 2026-09-10 |
-| Apply | [View on company site](https://rollsroyce.wd3.myworkdayjobs.com/Intern_Graduate/job/Berlin/Technical-Sales-Working-Student--m-w-d-_JR6122485) |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://rollsroyce.wd3.myworkdayjobs.com/Intern_Graduate/job/Berlin/Technical-Sales-Working-Student_JR6159727-1) |
 
 ## About This Role
 
-This sales engineer position at Rolls-Royce was posted on 2026-09-10.
+This sales engineer position at Rolls-Royce was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

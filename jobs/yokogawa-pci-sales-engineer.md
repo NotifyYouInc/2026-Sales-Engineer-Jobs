@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Yokogawa](https://scoutify.ai/companies/yokogawa?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Baroda, Madhya Pradesh, India |
+| Location | Bengaluru, Karnataka, India |
 | Category | Sales Engineer |
-| Posted | 2026-08-24 |
-| Apply | [View on company site](https://yokogawa.wd3.myworkdayjobs.com/yokogawa-career-site/job/Baroda/PCI-Sales-Engineer_R-12703) |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://yokogawa.wd3.myworkdayjobs.com/yokogawa-career-site/job/YIL_Bangalore-SATP-5th-Floor-Corporate-Office/PCI-Sales-Engineer_R-12996) |
 
 ## About This Role
 
-This sales engineer position at Yokogawa was posted on 2026-08-24.
+This sales engineer position at Yokogawa was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

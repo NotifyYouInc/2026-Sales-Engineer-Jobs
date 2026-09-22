@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Vanderlande Industries](https://scoutify.ai/companies/vanderlande-industries?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Marietta, Georgia, United States |
+| Location | Santiago, Santiago Metropolitan, Chile |
 | Category | Sales Engineer |
-| Posted | 2026-06-08 |
-| Apply | [View on company site](https://vanderlande.wd3.myworkdayjobs.com/careers/job/Marietta-GA-USA/Service-Sales-Engineer_JR36321-1) |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://vanderlande.wd3.myworkdayjobs.com/careers/job/Chile-Las-Condes/Service-Sales-Engineer_JR35700) |
 
 ## About This Role
 
-This sales engineer position at Vanderlande Industries was posted on 2026-06-08.
+This sales engineer position at Vanderlande Industries was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

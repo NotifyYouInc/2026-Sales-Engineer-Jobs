@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Carrier Global](https://scoutify.ai/companies/carrier?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Montluel, Rhône-Alpes, France |
-| Category | Sales Engineer |
+| Category | Technical Support Engineer |
 | Posted | 2026-09-11 |
 | Apply | [View on company site](https://carrier.wd5.myworkdayjobs.com/jobs/job/Rte-De-Thil-01120-Montluel-France/Technical-Support-Engineer-H-F_30214220) |
 
 ## About This Role
 
-This sales engineer position at Carrier Global was posted on 2026-09-11.
+This technical support engineer position at Carrier Global was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

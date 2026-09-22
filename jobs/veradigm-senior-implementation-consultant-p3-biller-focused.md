@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Veradigm](https://scoutify.ai/companies/veradigm?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | United States |
-| Category | Sales Engineer |
+| Category | Customer Success |
 | Posted | 2026-09-10 |
 | Apply | [View on company site](https://veradigm.wd12.myworkdayjobs.com/vr/job/Remote---US/Senior-Implementation-Consultant--P3--Biller-Focused-_JR10930) |
 
 ## About This Role
 
-This sales engineer position at Veradigm was posted on 2026-09-10.
+This customer success position at Veradigm was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

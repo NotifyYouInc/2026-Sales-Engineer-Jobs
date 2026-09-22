@@ -1,16 +1,16 @@
-# Sales Advisor - Technical sales at Baker Hughes
+# Sales Advisor -Technical Sales at Baker Hughes
 
 | Field | Details |
 |-------|---------|
 | Company | [Baker Hughes](https://scoutify.ai/companies/baker-hughes?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Neuquén, Neuquen, Argentina |
+| Location | Dammam, Eastern Province, Saudi Arabia |
 | Category | Sales Engineer |
-| Posted | 2026-05-14 |
-| Apply | [View on company site](https://bakerhughes.wd5.myworkdayjobs.com/BakerHughes/job/AR-NEUQUEN-BENU-MUSA-1154/Sales-Advisor---Technical-sales_R162576) |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://bakerhughes.wd5.myworkdayjobs.com/BakerHughes/job/SA-DAMMAM-CO-MEDBIT-LTD/Sales-Advisor--Technical-Sales_R165929-1) |
 
 ## About This Role
 
-This sales engineer position at Baker Hughes was posted on 2026-05-14.
+This sales engineer position at Baker Hughes was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

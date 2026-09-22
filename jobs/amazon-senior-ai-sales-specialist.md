@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Auckland, Auckland, New Zealand |
-| Category | Sales Engineer |
+| Category | Account Executive |
 | Posted | 2026-09-14 |
 | Apply | [View on company site](https://www.amazon.jobs/en/jobs/10538445/senior-ai-sales-specialist) |
 
 ## About This Role
 
-This sales engineer position at Amazon was posted on 2026-09-14.
+This account executive position at Amazon was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Applied Materials](https://scoutify.ai/companies/applied-materials?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Chengdu, Sichuan, China |
-| Category | Sales Engineer |
+| Category | Semiconductor / Chip Design |
 | Posted | 2026-09-12 |
 | Apply | [View on company site](https://amat.wd1.myworkdayjobs.com/External/job/ChengduCHN/Customer-Engineer-II-Senior_R2628556) |
 
 ## About This Role
 
-This sales engineer position at Applied Materials was posted on 2026-09-12.
+This semiconductor / chip design position at Applied Materials was posted on 2026-09-12.
 
 ## Get Real-Time Alerts
 

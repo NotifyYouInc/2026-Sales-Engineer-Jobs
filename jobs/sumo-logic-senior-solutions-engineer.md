@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sumo Logic](https://scoutify.ai/companies/sumo-logic?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Sydney, New South Wales, Australia |
+| Location | Melbourne, Victoria, Australia |
 | Category | Sales Engineer |
-| Posted | 2026-09-02 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/sumologic/jobs/8162834) |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/sumologic/jobs/8203796) |
 
 ## About This Role
 
-This sales engineer position at Sumo Logic was posted on 2026-09-02.
+This sales engineer position at Sumo Logic was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

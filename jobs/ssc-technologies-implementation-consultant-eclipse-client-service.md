@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [SS&C Technologies](https://scoutify.ai/companies/ss-c-technologies?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | 3 locations |
-| Category | Sales Engineer |
+| Category | Customer Success |
 | Posted | 2026-09-10 |
 | Apply | [View on company site](https://ssctech.wd1.myworkdayjobs.com/ssctechnologies/job/Boston-MA---One-Post-Office-Square/Implementation-Consultant---Eclipse-Client-Service_R46098) |
 
 ## About This Role
 
-This sales engineer position at SS&C Technologies was posted on 2026-09-10.
+This customer success position at SS&C Technologies was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [TD Synnex](https://scoutify.ai/companies/synnex?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Hanoi, Hanoi, Vietnam |
+| Location | Ho Chi Minh City, Ho Chi Minh City (HCMC), Vietnam |
 | Category | Sales Engineer |
-| Posted | 2026-08-14 |
-| Apply | [View on company site](https://synnex.wd5.myworkdayjobs.com/tdsynnexcareers/job/Hanoi-Vietnam/Solutions-Consultant_R55152) |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://synnex.wd5.myworkdayjobs.com/tdsynnexcareers/job/Ho-Chi-Minh-City-Vietnam/Solutions-Consultant_R56267) |
 
 ## About This Role
 
-This sales engineer position at TD Synnex was posted on 2026-08-14.
+This sales engineer position at TD Synnex was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | 2 locations |
+| Location | Miami, Florida, United States |
 | Category | Sales Engineer |
-| Posted | 2026-09-10 |
-| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Kita-Japan/Solutions-Engineer_2024488) |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Miami-Florida-US/Solutions-Engineer_2021302-1) |
 
 ## About This Role
 
-This sales engineer position at Cisco was posted on 2026-09-10.
+This sales engineer position at Cisco was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

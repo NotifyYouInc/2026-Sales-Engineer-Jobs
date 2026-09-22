@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [T-Systems International](https://scoutify.ai/companies/tsystemsinternational?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | 7 locations |
-| Category | Sales Engineer |
+| Category | Technology / IT Consulting |
 | Posted | 2026-09-11 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/T-SystemsIberia/744000148999539-hxm-data-integration-consultant-sf-sap-hcm-mfd) |
 
 ## About This Role
 
-This sales engineer position at T-Systems International was posted on 2026-09-11.
+This technology / it consulting position at T-Systems International was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

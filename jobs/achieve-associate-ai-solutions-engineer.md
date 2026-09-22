@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Achieve](https://scoutify.ai/companies/achieve?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Tempe, Arizona, United States |
-| Category | Sales Engineer |
+| Category | AI / LLM Engineer |
 | Posted | 2026-09-11 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/Achieve1/3743990015218506-associate-ai-solutions-engineer) |
 
 ## About This Role
 
-This sales engineer position at Achieve was posted on 2026-09-11.
+This ai / llm engineer position at Achieve was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

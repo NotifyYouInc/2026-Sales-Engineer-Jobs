@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Hyperexponential](https://scoutify.ai/companies/hyperexponential?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | New York City, New York, United States |
-| Category | Corporate Finance |
-| Posted | 2026-06-22 |
+| Category | Actuary / Insurance Analytics |
+| Posted | 2026-09-15 |
 | Apply | [View on company site](https://jobs.ashbyhq.com/hyperexponential/d8f72d39-e39a-44a5-8263-1198d1a903c8) |
 
 ## About This Role
 
-This corporate finance position at Hyperexponential was posted on 2026-06-22.
+This actuary / insurance analytics position at Hyperexponential was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

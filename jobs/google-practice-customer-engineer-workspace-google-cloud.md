@@ -5,12 +5,12 @@
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Hong Kong, Hong Kong |
 | Category | Sales Engineer |
-| Posted | 2026-08-06 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckXKEBbgkMJddyr6aloeiD-oNS7bJgdTeqMIEbGyGc_M-EjsA1Ny_ixbXs_XqnHffLjhinDcFEA6KoyAVGsi-A9shNqO4kWL9PNHDZI7RcvN87QHrjGkVCDIH89zSmA%3D%3D_V2&loc=HK&title=Practice+Customer+Engineer) |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckX5fZjz9icoZjhZWoxzpHouk9p1o_WpOpiL7wjcdr3cUEjsA9yzvgi9pms2WFFEWMf9-7eyMnzmDXmgiE4ldQPkllMO6ExSvFrD3fykYSZ8QuqSePCHpeGrQdM5nKw%3D%3D_V2&loc=HK&title=Practice+Customer+Engineer) |
 
 ## About This Role
 
-This sales engineer position at Google was posted on 2026-08-06.
+This sales engineer position at Google was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [ServiceNow](https://scoutify.ai/companies/servicenow?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Montréal, Quebec, Canada |
-| Category | Sales Engineer |
+| Category | AI / LLM Engineer |
 | Posted | 2026-09-11 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000149068929-forward-deployed-solution-engineer-applied-ai-fde) |
 
 ## About This Role
 
-This sales engineer position at ServiceNow was posted on 2026-09-11.
+This ai / llm engineer position at ServiceNow was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

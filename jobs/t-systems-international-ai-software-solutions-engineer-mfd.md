@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [T-Systems International](https://scoutify.ai/companies/tsystemsinternational?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | 8 locations |
-| Category | Sales Engineer |
+| Category | AI / LLM Engineer |
 | Posted | 2026-09-11 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/T-SystemsIberia/744000149026650-ai-software-solutions-engineer-mfd) |
 
 ## About This Role
 
-This sales engineer position at T-Systems International was posted on 2026-09-11.
+This ai / llm engineer position at T-Systems International was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Santen Pharmaceutical Co.](https://scoutify.ai/companies/santenpharmaceuticalco?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Seoul, Seoul, South Korea |
-| Category | Sales Engineer |
+| Category | Human Resources / People Ops |
 | Posted | 2026-09-11 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/Santen/744000148959584-korea-people-solutions-specialist-1-year-contract) |
 
 ## About This Role
 
-This sales engineer position at Santen Pharmaceutical Co. was posted on 2026-09-11.
+This human resources / people ops position at Santen Pharmaceutical Co. was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

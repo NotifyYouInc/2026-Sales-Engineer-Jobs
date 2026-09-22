@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Trend Micro](https://scoutify.ai/companies/trendmicro?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | France |
+| Location | Istanbul, Istanbul, Turkey |
 | Category | Sales Engineer |
-| Posted | 2026-09-10 |
-| Apply | [View on company site](https://trendmicro.wd3.myworkdayjobs.com/External/job/France-Off-Site/Solutions-Engineer_R0010198-1) |
+| Posted | 2026-09-13 |
+| Apply | [View on company site](https://trendmicro.wd3.myworkdayjobs.com/External/job/Istanbul/Solutions-Engineer_R0010124) |
 
 ## About This Role
 
-This sales engineer position at Trend Micro was posted on 2026-09-10.
+This sales engineer position at Trend Micro was posted on 2026-09-13.
 
 ## Get Real-Time Alerts
 

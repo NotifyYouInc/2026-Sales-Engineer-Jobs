@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Gordon Food Service](https://scoutify.ai/companies/gordon-food-service?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Ajax, Ontario, Canada |
-| Category | Sales Engineer |
+| Category | Marketing |
 | Posted | 2026-09-11 |
 | Apply | [View on company site](https://gfs.wd5.myworkdayjobs.com/usjobs-gen-gfs/job/Ajax-Ontario/Product-Specialist--Protein-_R-57074) |
 
 ## About This Role
 
-This sales engineer position at Gordon Food Service was posted on 2026-09-11.
+This marketing position at Gordon Food Service was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

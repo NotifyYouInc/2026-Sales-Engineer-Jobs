@@ -5,12 +5,12 @@
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Wuxi, Jiangsu, China |
 | Category | Sales Engineer |
-| Posted | 2026-07-08 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000136407441-sr-sales-engineer-ps) |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000149498719-sr-sales-engineer-ps) |
 
 ## About This Role
 
-This sales engineer position at Robert Bosch was posted on 2026-07-08.
+This sales engineer position at Robert Bosch was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [ABB](https://scoutify.ai/companies/abb?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Ostrava, Moravskoslezský, Czechia |
-| Category | Sales Engineer |
+| Category | Learning & Development |
 | Posted | 2026-09-14 |
 | Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Ostrava-Moravskoslezsk-kraj-Czechia/Technical-Specialist---part-time_JR00046893) |
 
 ## About This Role
 
-This sales engineer position at ABB was posted on 2026-09-14.
+This learning & development position at ABB was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

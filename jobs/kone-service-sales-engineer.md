@@ -5,12 +5,12 @@
 | Company | [Kone](https://scoutify.ai/companies/kone?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Singapore, Singapore |
 | Category | Sales Engineer |
-| Posted | 2026-07-10 |
-| Apply | [View on company site](https://kone.wd3.myworkdayjobs.com/careers/job/Singapore/Service-Sales-Engineer_R0662520) |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://kone.wd3.myworkdayjobs.com/careers/job/Singapore/Service-Sales-Engineer_R0664251) |
 
 ## About This Role
 
-This sales engineer position at Kone was posted on 2026-07-10.
+This sales engineer position at Kone was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

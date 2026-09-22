@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Danaher](https://scoutify.ai/companies/danaher?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Shanghai, Shanghai, China |
+| Location | Taiwan |
 | Category | Sales Engineer |
-| Posted | 2026-09-10 |
-| Apply | [View on company site](https://danaher.wd1.myworkdayjobs.com/DanaherJobs/job/Shanghai-China/Field-Application-Specialist_R1318411) |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://danaher.wd1.myworkdayjobs.com/DanaherJobs/job/TWN---Remote/Field-Application-Specialist_R1318421) |
 
 ## About This Role
 
-This sales engineer position at Danaher was posted on 2026-09-10.
+This sales engineer position at Danaher was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

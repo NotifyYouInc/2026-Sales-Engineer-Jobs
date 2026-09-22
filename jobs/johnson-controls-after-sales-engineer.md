@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Johnson Controls](https://scoutify.ai/companies/jci?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Qingyuan, Guangdong, China |
-| Category | Sales Engineer |
+| Category | Customer Success |
 | Posted | 2026-09-14 |
 | Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Qingyuan-Guangdong-China/After-Sales-Engineer_WD30279662-1) |
 
 ## About This Role
 
-This sales engineer position at Johnson Controls was posted on 2026-09-14.
+This customer success position at Johnson Controls was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

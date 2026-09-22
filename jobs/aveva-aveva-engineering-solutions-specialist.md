@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [AVEVA](https://scoutify.ai/companies/aveva?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | 2 locations |
-| Category | Sales Engineer |
+| Category | Customer Success |
 | Posted | 2026-09-11 |
 | Apply | [View on company site](https://aveva.wd3.myworkdayjobs.com/AVEVA_careers/job/Home-Office-Brazil/AVEVA-Engineering-Solutions-Specialist_R013353) |
 
 ## About This Role
 
-This sales engineer position at AVEVA was posted on 2026-09-11.
+This customer success position at AVEVA was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

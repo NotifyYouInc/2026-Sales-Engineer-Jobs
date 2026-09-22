@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Astreya](https://scoutify.ai/companies/astreya?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Sales Engineer |
+| Category | Technology / IT Consulting |
 | Posted | 2026-09-12 |
 | Apply | [View on company site](https://astreya.wd5.myworkdayjobs.com/life-at-astreya-opportunities/job/Bangalore-India/Technical-Consultant_R0016923) |
 
 ## About This Role
 
-This sales engineer position at Astreya was posted on 2026-09-12.
+This technology / it consulting position at Astreya was posted on 2026-09-12.
 
 ## Get Real-Time Alerts
 

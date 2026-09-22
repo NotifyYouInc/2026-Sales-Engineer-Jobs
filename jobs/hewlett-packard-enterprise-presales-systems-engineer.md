@@ -1,16 +1,16 @@
-# Presales Systems Engineer at Hewlett Packard Enterprise
+# Presales, Systems Engineer at Hewlett Packard Enterprise
 
 | Field | Details |
 |-------|---------|
 | Company | [Hewlett Packard Enterprise](https://scoutify.ai/companies/hewlett-packard-enterprise?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Mississippi, US |
+| Location | Gurugram, Haryana, India |
 | Category | Sales Engineer |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/All-Tennessee-United-States-of-America/Presales-Systems-Engineer_1198623) |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/Gurgaon-Haryana-India/Presales--Systems-Engineer_1213223-1) |
 
 ## About This Role
 
-This sales engineer position at Hewlett Packard Enterprise was posted on 2026-04-21.
+This sales engineer position at Hewlett Packard Enterprise was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

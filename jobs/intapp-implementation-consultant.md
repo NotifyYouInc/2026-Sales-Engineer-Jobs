@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Intapp](https://scoutify.ai/companies/intapp?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | New York City, New York, United States |
-| Category | Sales Engineer |
+| Category | Customer Success |
 | Posted | 2026-09-10 |
 | Apply | [View on company site](https://intapp.wd1.myworkdayjobs.com/Intapp/job/US-NY-New-York/Implementation-Consultant_R2025309-1) |
 
 ## About This Role
 
-This sales engineer position at Intapp was posted on 2026-09-10.
+This customer success position at Intapp was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

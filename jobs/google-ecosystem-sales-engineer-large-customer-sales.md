@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | London, England, United Kingdom |
+| Location | New York City, New York, United States |
 | Category | Sales Engineer |
-| Posted | 2026-07-27 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckbPbH77ANP-oxzLkWDR6-L6HUAHFcsf-J8YPLXRKyPkVEjsA1Ny_i7ErMuLH_GM2ILSlDUg3JhmyihBTpx-8ircW_nkiUI8IEUYvjSwQF2NRsj-U2JbdH-ytVuF8wg%3D%3D_V2&loc=GB&title=Ecosystem+Sales+Engineer) |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckXhvI0zv9EPNsF4DuCt6ChF1SQw5NDRvEW2MDupDvDJEEjsA9yzvgmzI_HxU_4m7BxO7lpR-FA_-4dF_W2K6OEN4CjZlcdeqCV9kT2xt1k74Khk1hUJE9NYKfvvGAQ%3D%3D_V2&loc=US&title=Ecosystem+Sales+Engineer) |
 
 ## About This Role
 
-This sales engineer position at Google was posted on 2026-07-27.
+This sales engineer position at Google was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

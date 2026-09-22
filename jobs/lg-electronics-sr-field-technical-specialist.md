@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [LG Electronics](https://scoutify.ai/companies/lg-electronics?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | New Jersey, US |
-| Category | Sales Engineer |
+| Category | Customer Success |
 | Posted | 2026-09-11 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/lgelectronics/jobs/5422483008) |
 
 ## About This Role
 
-This sales engineer position at LG Electronics was posted on 2026-09-11.
+This customer success position at LG Electronics was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

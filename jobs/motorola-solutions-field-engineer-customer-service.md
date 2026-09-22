@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Motorola Solutions](https://scoutify.ai/companies/motorola-solutions?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Malaysia |
-| Category | Sales Engineer |
+| Category | Customer Success |
 | Posted | 2026-09-14 |
 | Apply | [View on company site](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Penang-Malaysia/Field-Engineer--Customer-Service-_R68707) |
 
 ## About This Role
 
-This sales engineer position at Motorola Solutions was posted on 2026-09-14.
+This customer success position at Motorola Solutions was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Rotork](https://scoutify.ai/companies/rotork?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Singapore, Singapore |
+| Location | Visakhapatnam, Andhra Pradesh, India |
 | Category | Sales Engineer |
-| Posted | 2026-08-30 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Rotork1/744000146346299-service-sales-engineer) |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Rotork1/744000149534300-service-sales-engineer) |
 
 ## About This Role
 
-This sales engineer position at Rotork was posted on 2026-08-30.
+This sales engineer position at Rotork was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

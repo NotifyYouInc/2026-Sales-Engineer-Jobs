@@ -1,16 +1,16 @@
-# Solutions Engineer I, API at SmartBear
+# Solutions Engineer I - API at SmartBear
 
 | Field | Details |
 |-------|---------|
 | Company | [SmartBear](https://scoutify.ai/companies/smartbear?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Somerville, Massachusetts, United States |
 | Category | Sales Engineer |
-| Posted | 2026-03-23 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/smartbear/jobs/7667858003) |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/smartbear/jobs/7991406003) |
 
 ## About This Role
 
-This sales engineer position at SmartBear was posted on 2026-03-23.
+This sales engineer position at SmartBear was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

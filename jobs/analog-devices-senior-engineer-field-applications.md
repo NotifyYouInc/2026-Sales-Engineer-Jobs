@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Analog Devices](https://scoutify.ai/companies/analogdevices?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Beijing, Beijing, China |
+| Location | Hayes, England, United Kingdom |
 | Category | Sales Engineer |
-| Posted | 2026-07-28 |
-| Apply | [View on company site](https://analogdevices.wd1.myworkdayjobs.com/External/job/China-Beijing-Haidian-Xixiaokou/Senior-Engineer--Field-Applications_R264037) |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://analogdevices.wd1.myworkdayjobs.com/External/job/United-Kingdom-Hayes/Senior-Engineer--Field-Applications_R265581) |
 
 ## About This Role
 
-This sales engineer position at Analog Devices was posted on 2026-07-28.
+This sales engineer position at Analog Devices was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

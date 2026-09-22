@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Addepar](https://scoutify.ai/companies/addepar?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | United States |
+| Location | New York City, New York, United States |
 | Category | Sales Engineer |
-| Posted | 2026-04-10 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/addepar1/jobs/8502377002) |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/addepar1/jobs/8802895002) |
 
 ## About This Role
 
-This sales engineer position at Addepar was posted on 2026-04-10.
+This sales engineer position at Addepar was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

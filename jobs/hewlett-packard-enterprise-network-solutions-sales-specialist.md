@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Hewlett Packard Enterprise](https://scoutify.ai/companies/hewlett-packard-enterprise?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Poland |
-| Category | Sales Engineer |
+| Category | Account Executive |
 | Posted | 2026-09-11 |
 | Apply | [View on company site](https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/Warszawa-Poland/Network-Solutions-Sales-Specialist_1211253) |
 
 ## About This Role
 
-This sales engineer position at Hewlett Packard Enterprise was posted on 2026-09-11.
+This account executive position at Hewlett Packard Enterprise was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

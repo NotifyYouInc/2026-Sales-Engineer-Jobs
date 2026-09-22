@@ -1,16 +1,16 @@
-# Technical Specialist - Embedded Linux at Carrier Global
+# Technical Specialist – Embedded Linux at Carrier Global
 
 | Field | Details |
 |-------|---------|
 | Company | [Carrier Global](https://scoutify.ai/companies/carrier?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | Embedded / Firmware Engineer |
-| Posted | 2026-05-20 |
-| Apply | [View on company site](https://carrier.wd5.myworkdayjobs.com/jobs/job/Building-No-12C-Floor-91011-Building-No-12B--Stilt-floor-Raheja-Mindspace-Cyberabad-Madhapur-Hyderabad---500081-Telangana-India/Technical-Specialist_30197679) |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://carrier.wd5.myworkdayjobs.com/jobs/job/Building-No-12C-Floor-91011-Building-No-12B--Stilt-floor-Raheja-Mindspace-Cyberabad-Madhapur-Hyderabad---500081-Telangana-India/Technical-Specialist---Embedded-Linux_30217916) |
 
 ## About This Role
 
-This embedded / firmware engineer position at Carrier Global was posted on 2026-05-20.
+This embedded / firmware engineer position at Carrier Global was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

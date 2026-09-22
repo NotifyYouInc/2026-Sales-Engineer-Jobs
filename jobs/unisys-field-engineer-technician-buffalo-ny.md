@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Unisys](https://scoutify.ai/companies/unisys?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Buffalo, New York, United States |
-| Category | Customer Success |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://unisys.wd5.myworkdayjobs.com/External/job/Buffalo-NY-United-States-of-America/Field-Engineer-Technician---Buffalo--NY_REQ570794) |
+| Location | Cheektowaga, New York, United States |
+| Category | Sales Engineer |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://unisys.wd5.myworkdayjobs.com/External/job/Cheektowaga-NY-United-States-of-America/Sr-Tech-Field-Engineer-Buffalo--NY_REQ573156) |
 
 ## About This Role
 
-This customer success position at Unisys was posted on 2026-03-02.
+This sales engineer position at Unisys was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

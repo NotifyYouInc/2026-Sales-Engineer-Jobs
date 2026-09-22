@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Avnet](https://scoutify.ai/companies/avnet?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Espoo, Uusimaa, Finland |
-| Category | Sales Engineer |
+| Category | Account Manager |
 | Posted | 2026-09-11 |
 | Apply | [View on company site](https://avnet.wd1.myworkdayjobs.com/external/job/Espoo-Finland/Technical-Account-Manager_JR-024154) |
 
 ## About This Role
 
-This sales engineer position at Avnet was posted on 2026-09-11.
+This account manager position at Avnet was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

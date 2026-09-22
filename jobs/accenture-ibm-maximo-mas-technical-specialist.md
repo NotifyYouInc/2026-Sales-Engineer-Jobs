@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Calgary, Alberta, Canada |
-| Category | Sales Engineer |
+| Category | Technology / IT Consulting |
 | Posted | 2026-09-10 |
 | Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Alberta---Calgary/IBM-Maximo--MAS---Technical-Specialist_R00355447) |
 
 ## About This Role
 
-This sales engineer position at Accenture was posted on 2026-09-10.
+This technology / it consulting position at Accenture was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

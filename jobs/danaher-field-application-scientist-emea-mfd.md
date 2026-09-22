@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Danaher](https://scoutify.ai/companies/danaher?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Germany |
+| Location | York, England, United Kingdom |
 | Category | Sales Engineer |
-| Posted | 2026-09-10 |
-| Apply | [View on company site](https://danaher.wd1.myworkdayjobs.com/DanaherJobs/job/DEU---Remote/Field-Application-Scientist---EMEA--m-f-d-_R1317328) |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://danaher.wd1.myworkdayjobs.com/DanaherJobs/job/York-United-Kingdom/Field-Application-Scientist---EMEA--m-f-d-_R1318967) |
 
 ## About This Role
 
-This sales engineer position at Danaher was posted on 2026-09-10.
+This sales engineer position at Danaher was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

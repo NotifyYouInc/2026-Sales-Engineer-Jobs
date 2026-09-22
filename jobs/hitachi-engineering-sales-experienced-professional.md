@@ -5,12 +5,12 @@
 | Company | [Hitachi](https://scoutify.ai/companies/hitachi?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Raleigh, North Carolina, United States |
 | Category | Sales Engineer |
-| Posted | 2026-09-04 |
-| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Raleigh-North-Carolina-United-States/Engineering-Sales-Experienced-Professional_R0138080) |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Raleigh-North-Carolina-United-States/Engineering-Sales-Experienced-Professional_R0140269) |
 
 ## About This Role
 
-This sales engineer position at Hitachi was posted on 2026-09-04.
+This sales engineer position at Hitachi was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

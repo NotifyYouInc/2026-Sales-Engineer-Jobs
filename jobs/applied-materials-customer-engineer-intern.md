@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Applied Materials](https://scoutify.ai/companies/applied-materials?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Hefei, Anhui, China |
-| Category | Sales Engineer |
+| Category | Customer Success |
 | Posted | 2026-09-14 |
 | Apply | [View on company site](https://amat.wd1.myworkdayjobs.com/External/job/HefeiCHN/Customer-Engineer-Intern_R2628378) |
 
 ## About This Role
 
-This sales engineer position at Applied Materials was posted on 2026-09-14.
+This customer success position at Applied Materials was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

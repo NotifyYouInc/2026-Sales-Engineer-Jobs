@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Celonis](https://scoutify.ai/companies/celonis?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Raleigh, North Carolina, United States |
-| Category | Sales Engineer |
+| Category | Data Scientist |
 | Posted | 2026-09-12 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/celonis/jobs/7885897003?gh_jid=7885897003) |
 
 ## About This Role
 
-This sales engineer position at Celonis was posted on 2026-09-12.
+This data scientist position at Celonis was posted on 2026-09-12.
 
 ## Get Real-Time Alerts
 

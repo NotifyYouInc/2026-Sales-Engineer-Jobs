@@ -1,16 +1,16 @@
-# Intern - Solutions Engineer at Micron
+# Intern- Solutions Engineer at Micron
 
 | Field | Details |
 |-------|---------|
 | Company | [Micron](https://scoutify.ai/companies/micron?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Singapore, Singapore |
-| Category | Technical & Solutions Architect |
-| Posted | 2026-05-10 |
-| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Fab-10A-Singapore/Intern---Solutions-Engineer_JR98556) |
+| Category | Sales Engineer |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Fab-10A-Singapore/Intern--Solutions-Engineer_JR109820) |
 
 ## About This Role
 
-This technical & solutions architect position at Micron was posted on 2026-05-10.
+This sales engineer position at Micron was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

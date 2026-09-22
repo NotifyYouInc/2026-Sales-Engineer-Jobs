@@ -5,12 +5,12 @@
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Philadelphia, Pennsylvania, United States |
 | Category | Sales Engineer |
-| Posted | 2026-03-31 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000117987433-technical-sales-engineer-remote) |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000149429440-technical-sales-engineer-remote) |
 
 ## About This Role
 
-This sales engineer position at Robert Bosch was posted on 2026-03-31.
+This sales engineer position at Robert Bosch was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

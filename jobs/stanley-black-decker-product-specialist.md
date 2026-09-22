@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Stanley Black & Decker](https://scoutify.ai/companies/sbdinc?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Shanghai, Shanghai, China |
-| Category | Sales Engineer |
+| Category | Marketing |
 | Posted | 2026-09-13 |
 | Apply | [View on company site](https://sbdinc.wd1.myworkdayjobs.com/Stanley_Black_Decker_Career_Site/job/Shanghai-China/Product-Specialist_REQ-1000050933) |
 
 ## About This Role
 
-This sales engineer position at Stanley Black & Decker was posted on 2026-09-13.
+This marketing position at Stanley Black & Decker was posted on 2026-09-13.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [FactSet](https://scoutify.ai/companies/factset?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Sofia, Sofia-Capital, Bulgaria |
-| Category | Sales Engineer |
+| Category | Customer Success |
 | Posted | 2026-09-11 |
 | Apply | [View on company site](https://factset.wd108.myworkdayjobs.com/FactSetCareers/job/Sofia-BGR/Senior-Technology-Specialist--Vermilion-Reporting_R33195-3) |
 
 ## About This Role
 
-This sales engineer position at FactSet was posted on 2026-09-11.
+This customer success position at FactSet was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

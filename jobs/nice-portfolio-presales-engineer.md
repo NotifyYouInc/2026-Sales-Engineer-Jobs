@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [NiCE](https://scoutify.ai/companies/nice?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | United Kingdom |
+| Location | South Africa |
 | Category | Sales Engineer |
-| Posted | 2026-07-29 |
-| Apply | [View on company site](https://boards.eu.greenhouse.io/nice/jobs/4930956101?gh_jid=4930956101) |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://boards.eu.greenhouse.io/nice/jobs/4973075101?gh_jid=4973075101) |
 
 ## About This Role
 
-This sales engineer position at NiCE was posted on 2026-07-29.
+This sales engineer position at NiCE was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

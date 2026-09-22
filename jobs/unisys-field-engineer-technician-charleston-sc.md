@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Unisys](https://scoutify.ai/companies/unisys?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Charleston, South Carolina, United States |
-| Category | Sales Engineer |
+| Category | Customer Success |
 | Posted | 2026-09-11 |
 | Apply | [View on company site](https://unisys.wd5.myworkdayjobs.com/External/job/N-Charleston-SC-United-States-of-America/Field-Engineer-Technician---Charleston--SC_REQ575759) |
 
 ## About This Role
 
-This sales engineer position at Unisys was posted on 2026-09-11.
+This customer success position at Unisys was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

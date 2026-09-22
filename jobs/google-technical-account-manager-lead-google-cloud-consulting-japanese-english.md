@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Tokyo, Tokyo, Japan |
-| Category | Customer Success |
-| Posted | 2026-07-30 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckTMS2ZRAyEe72hnrZEI6PugiYQBE2np6cEyyZi3zfJ8iEjsA1Ny_i7S551eDhgdDZ7gLbVGQH88Gob9MD1h2irgTVIIQ5pbUSWgTfd44NFbk1lFZUtTPV0yUvoyEVQ%3D%3D_V2&loc=JP&title=Technical+Account+Manager+Lead) |
+| Category | Customer Success Manager |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckXhZtQoyeOtSyU_so_BU1G7VOw0YB097d9-yBImcR8pcEjsA9yzvgpzGH6JpIv9TPYLLYKj_uejOGJLVdGZcUeVnwn788KthO4lqnUP9aTvbaxL-fUOw1w0bshbkWA%3D%3D_V2&loc=JP&title=Technical+Account+Manager+Lead) |
 
 ## About This Role
 
-This customer success position at Google was posted on 2026-07-30.
+This customer success manager position at Google was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 
