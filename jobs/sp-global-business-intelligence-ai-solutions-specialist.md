@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [S&P Global](https://scoutify.ai/companies/s-p-global?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | New York City, New York, United States |
-| Category | Data Analyst |
+| Category | Sales Engineer |
 | Posted | 2026-09-14 |
 | Apply | [View on company site](https://spgi.wd5.myworkdayjobs.com/SPGI_Careers/job/New-York-NY/Business-Intelligence---AI-Solutions-Specialist_331084-1) |
 
 ## About This Role
 
-This data analyst position at S&P Global was posted on 2026-09-14.
+This sales engineer position at S&P Global was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

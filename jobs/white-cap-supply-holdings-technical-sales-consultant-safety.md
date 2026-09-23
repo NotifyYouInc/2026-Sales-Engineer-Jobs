@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [White Cap Supply Holdings](https://scoutify.ai/companies/whitecap?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | 3 locations |
-| Category | Account Executive |
+| Category | Sales Engineer |
 | Posted | 2026-09-14 |
 | Apply | [View on company site](https://whitecap.wd1.myworkdayjobs.com/careers/job/Phoenix_85004/Technical-Sales-Consultant----Safety_WCJR-036068-1) |
 
 ## About This Role
 
-This account executive position at White Cap Supply Holdings was posted on 2026-09-14.
+This sales engineer position at White Cap Supply Holdings was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

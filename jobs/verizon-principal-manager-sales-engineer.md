@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Verizon](https://scoutify.ai/companies/verizon?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | 2 locations |
-| Category | Sales |
-| Posted | 2026-08-24 |
-| Apply | [View on company site](https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Irving-Texas/Principal-Manager-Sales-Engineer_R-1099968-1) |
+| Location | Indianapolis, Indiana, United States |
+| Category | Sales Engineer |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Indianapolis-Indiana/Principal-Manager-Sales-Engineer_R-1100992-1) |
 
 ## About This Role
 
-This sales position at Verizon was posted on 2026-08-24.
+This sales engineer position at Verizon was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

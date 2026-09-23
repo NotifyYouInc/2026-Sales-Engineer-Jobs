@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Valmont](https://scoutify.ai/companies/valmont?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Uberaba, Minas Gerais, Brazil |
-| Category | Marketing |
+| Category | Sales Engineer |
 | Posted | 2026-09-14 |
 | Apply | [View on company site](https://valmont.wd1.myworkdayjobs.com/ValmontCareers/job/Uberaba-MG/Irrigation-Product-Specialist_R28819) |
 
 ## About This Role
 
-This marketing position at Valmont was posted on 2026-09-14.
+This sales engineer position at Valmont was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

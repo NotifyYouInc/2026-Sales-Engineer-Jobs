@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Ferguson](https://scoutify.ai/companies/ferguson?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | United States |
-| Category | Marketing |
+| Category | Sales Engineer |
 | Posted | 2026-09-14 |
 | Apply | [View on company site](https://ferguson.wd1.myworkdayjobs.com/ferguson_experienced/job/Remote/Product-Specialist_R-140624) |
 
 ## About This Role
 
-This marketing position at Ferguson was posted on 2026-09-14.
+This sales engineer position at Ferguson was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

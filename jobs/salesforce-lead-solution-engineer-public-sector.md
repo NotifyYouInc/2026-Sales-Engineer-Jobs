@@ -1,16 +1,16 @@
-# Lead Solution Engineer - Public Sector at Salesforce
+# Lead Solution Engineer  - Public Sector at Salesforce
 
 | Field | Details |
 |-------|---------|
 | Company | [Salesforce](https://scoutify.ai/companies/salesforce?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | London, England, United Kingdom |
+| Location | Singapore, Singapore |
 | Category | Sales Engineer |
-| Posted | 2026-05-01 |
-| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/United-Kingdom---London/Lead-Solution-Engineer---Public-Sector_JR340529) |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Singapore---Singapore/Lead-Solution-Engineer----Public-Sector_JR359714) |
 
 ## About This Role
 
-This sales engineer position at Salesforce was posted on 2026-05-01.
+This sales engineer position at Salesforce was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

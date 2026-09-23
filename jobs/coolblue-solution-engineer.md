@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Coolblue](https://scoutify.ai/companies/coolblue?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Tilburg, North Brabant, The Netherlands |
-| Category | Industrial Automation |
+| Category | Sales Engineer |
 | Posted | 2026-09-15 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/Coolblue/744000149552069-solution-engineer) |
 
 ## About This Role
 
-This industrial automation position at Coolblue was posted on 2026-09-15.
+This sales engineer position at Coolblue was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

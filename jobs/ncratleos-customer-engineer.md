@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Ncratleos](https://scoutify.ai/companies/ncratleos?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | India |
-| Category | Sales Engineer |
-| Posted | 2026-09-08 |
-| Apply | [View on company site](https://ncratleos.wd1.myworkdayjobs.com/ext_apacatleos/job/INDIA-VIRTUAL-IND/Customer-Engineer_R1154472) |
+| Location | New South Wales, AU |
+| Category | Customer Success |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://ncratleos.wd1.myworkdayjobs.com/ext_apacatleos/job/NEW-SOUTH-WALES-VIRTUAL-AUS/Customer-Engineer_R1154640-2) |
 
 ## About This Role
 
-This sales engineer position at Ncratleos was posted on 2026-09-08.
+This customer success position at Ncratleos was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

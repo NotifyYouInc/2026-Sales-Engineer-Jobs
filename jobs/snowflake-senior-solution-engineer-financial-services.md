@@ -1,16 +1,16 @@
-# Senior Solution Engineer, Financial Services  at Snowflake
+# Senior Solution Engineer, Financial Services at Snowflake
 
 | Field | Details |
 |-------|---------|
 | Company | [Snowflake](https://scoutify.ai/companies/snowflake?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | New York City, New York, United States |
 | Category | Sales Engineer |
-| Posted | 2026-08-20 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/snowflake/3e456510-bf29-4dbf-9a27-33a8ace8a44a) |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/snowflake/0e1ea0b0-bf78-46e6-94d4-673d586271a1) |
 
 ## About This Role
 
-This sales engineer position at Snowflake was posted on 2026-08-20.
+This sales engineer position at Snowflake was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

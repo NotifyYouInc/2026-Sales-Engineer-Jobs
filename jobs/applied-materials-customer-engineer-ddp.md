@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Applied Materials](https://scoutify.ai/companies/applied-materials?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Shanghai, Shanghai, China |
+| Location | Chengdu, Sichuan, China |
 | Category | Sales Engineer |
-| Posted | 2026-09-12 |
-| Apply | [View on company site](https://amat.wd1.myworkdayjobs.com/External/job/ShanghaiCHN/Customer-Engineer-DDP_R2626967) |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://amat.wd1.myworkdayjobs.com/External/job/ChengduCHN/Customer-Engineer-DDP_R2628582) |
 
 ## About This Role
 
-This sales engineer position at Applied Materials was posted on 2026-09-12.
+This sales engineer position at Applied Materials was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

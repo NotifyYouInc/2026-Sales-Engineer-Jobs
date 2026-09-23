@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [RTB House](https://scoutify.ai/companies/rtbhouse?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Poland |
-| Category | Account Manager |
+| Category | Sales Engineer |
 | Posted | 2026-09-15 |
 | Apply | [View on company site](https://job-boards.eu.greenhouse.io/rtbhouse/jobs/4970814101) |
 
 ## About This Role
 
-This account manager position at RTB House was posted on 2026-09-15.
+This sales engineer position at RTB House was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

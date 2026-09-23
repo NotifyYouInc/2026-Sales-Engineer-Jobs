@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Thales](https://scoutify.ai/companies/thales?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Karachi, Sindh, Pakistan |
+| Location | Philippines |
 | Category | Sales Engineer |
-| Posted | 2026-08-31 |
-| Apply | [View on company site](https://thales.wd3.myworkdayjobs.com/Careers/job/Karachi/Technical-Consultant_R0337902) |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://thales.wd3.myworkdayjobs.com/Careers/job/Maynila/Technical-Consultant_R0336791) |
 
 ## About This Role
 
-This sales engineer position at Thales was posted on 2026-08-31.
+This sales engineer position at Thales was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | 3 locations |
+| Location | 4 locations |
 | Category | Sales Engineer |
-| Posted | 2026-09-09 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckUHHot2WztUptJIdORszzTAQXvrcbSIH8IRTlUedhMnMEjsA1Ny_ixnzugpf2EH8_9MhGL0YWjCAJ7qGk5aiUxfZJex4OQ8S4oORMzCf7t_-RNX5sYvkud6-2uxWfg%3D%3D_V2&loc=US&title=Agentic+Data+Cloud+Sales+Specialist) |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckVQKmXGswMnza-f0kzr5w5lrW0zs27EUHE2g6NatcozdEjsA9yzvgtYZpZJLOOjCyxfMOx44xY55e3p4FG22jMybJEtJcCeyK9eA4VcBg4BkI5sqGDLqYkBid67CYQ%3D%3D_V2&loc=US&title=Agentic+Data+Cloud+Sales+Specialist) |
 
 ## About This Role
 
-This sales engineer position at Google was posted on 2026-09-09.
+This sales engineer position at Google was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Johnson Controls](https://scoutify.ai/companies/jci?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Beijing, Beijing, China |
+| Location | Shijiazhuang, Hebei, China |
 | Category | Sales Engineer |
-| Posted | 2026-08-10 |
-| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Beijing-Beijing-China/Sales-Engineer_WD30276479) |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Shijiazhuang-Hebei-China/Sales-Engineer_WD30279902-2) |
 
 ## About This Role
 
-This sales engineer position at Johnson Controls was posted on 2026-08-10.
+This sales engineer position at Johnson Controls was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

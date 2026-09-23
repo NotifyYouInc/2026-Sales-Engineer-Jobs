@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Abbott](https://scoutify.ai/companies/abbott-laboratories?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Rungis, Île-de-France, France |
-| Category | Marketing |
+| Category | Sales Engineer |
 | Posted | 2026-09-14 |
 | Apply | [View on company site](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/France--Rungis--Miami-Building/Product-Specialist-Chef-de-produit--Endovasculaire--Rungis-H-F_31161389) |
 
 ## About This Role
 
-This marketing position at Abbott was posted on 2026-09-14.
+This sales engineer position at Abbott was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

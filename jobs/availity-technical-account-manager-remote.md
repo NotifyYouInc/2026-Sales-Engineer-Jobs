@@ -1,16 +1,16 @@
-# Technical Account Manager - Remote at Availity
+# Technical Account Manager (Remote) at Availity
 
 | Field | Details |
 |-------|---------|
 | Company | [Availity](https://scoutify.ai/companies/availity?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | United States |
-| Category | Account Manager |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://availity.wd1.myworkdayjobs.com/availity_careers_us/job/Remote---United-States/Technical-Account-Manager---Remote_R0008144) |
+| Category | Sales Engineer |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://availity.wd1.myworkdayjobs.com/availity_careers_us/job/Remote---United-States/Technical-Account-Manager--Remote-_R0008403) |
 
 ## About This Role
 
-This account manager position at Availity was posted on 2026-05-13.
+This sales engineer position at Availity was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

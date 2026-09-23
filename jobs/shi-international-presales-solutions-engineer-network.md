@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [SHI International](https://scoutify.ai/companies/shi-international?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Texas, US |
+| Location | Kentucky, US |
 | Category | Sales Engineer |
-| Posted | 2026-08-27 |
-| Apply | [View on company site](https://shi.wd12.myworkdayjobs.com/shicareers/job/US---TX---Home-Office/Presales-Solutions-Engineer---Network_JR3635) |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://shi.wd12.myworkdayjobs.com/shicareers/job/US---KY---Home-Office/Presales-Solutions-Engineer---Network_JR2685) |
 
 ## About This Role
 
-This sales engineer position at SHI International was posted on 2026-08-27.
+This sales engineer position at SHI International was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

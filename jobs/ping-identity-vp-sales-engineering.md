@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Ping Identity](https://scoutify.ai/companies/ping-identity?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Denver, Colorado, United States |
-| Category | Sales Leadership |
+| Category | Sales Engineer |
 | Posted | 2026-09-14 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/pingidentity/jobs/8797738002) |
 
 ## About This Role
 
-This sales leadership position at Ping Identity was posted on 2026-09-14.
+This sales engineer position at Ping Identity was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

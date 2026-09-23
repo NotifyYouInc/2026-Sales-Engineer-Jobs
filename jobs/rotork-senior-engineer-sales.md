@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Rotork](https://scoutify.ai/companies/rotork?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Pune, Maharashtra, India |
-| Category | Account Executive |
+| Category | Sales Engineer |
 | Posted | 2026-09-15 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/Rotork1/744000149559679-senior-engineer-sales) |
 
 ## About This Role
 
-This account executive position at Rotork was posted on 2026-09-15.
+This sales engineer position at Rotork was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

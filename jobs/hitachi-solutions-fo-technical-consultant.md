@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Hitachi Solutions](https://scoutify.ai/companies/hitachi-solutions?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Pune, Maharashtra, India |
-| Category | Technology / IT Consulting |
-| Posted | 2024-08-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/hitachisolutions/744000009519505-fo-technical-consultant) |
+| Category | Sales Engineer |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/hitachisolutions/744000149796649-fo-technical-consultant) |
 
 ## About This Role
 
-This technology / it consulting position at Hitachi Solutions was posted on 2024-08-27.
+This sales engineer position at Hitachi Solutions was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

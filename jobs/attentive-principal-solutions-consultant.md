@@ -5,12 +5,12 @@
 | Company | [Attentive](https://scoutify.ai/companies/attentive?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | United States |
 | Category | Sales Engineer |
-| Posted | 2026-08-11 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/attentive/jobs/4356042009) |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/attentive/jobs/4406084009) |
 
 ## About This Role
 
-This sales engineer position at Attentive was posted on 2026-08-11.
+This sales engineer position at Attentive was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

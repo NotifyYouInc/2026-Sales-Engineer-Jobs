@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Monolithic Power Systems](https://scoutify.ai/companies/monolithic-power-systems?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Software Engineer |
-| Posted | 2026-06-08 |
+| Category | Sales Engineer |
+| Posted | 2026-09-15 |
 | Apply | [View on company site](https://monolithicpower.wd12.myworkdayjobs.com/mps_careers/job/Bangalore---India/Customer-Application-Engineer_R-912) |
 
 ## About This Role
 
-This software engineer position at Monolithic Power Systems was posted on 2026-06-08.
+This sales engineer position at Monolithic Power Systems was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

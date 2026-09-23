@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Netskope](https://scoutify.ai/companies/netskope?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Italy |
+| Location | Spain |
 | Category | Sales Engineer |
-| Posted | 2026-09-11 |
-| Apply | [View on company site](https://www.netskope.com/company/careers/open-positions/?gh_jid=8190614) |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://www.netskope.com/company/careers/open-positions/?gh_jid=8185491) |
 
 ## About This Role
 
-This sales engineer position at Netskope was posted on 2026-09-11.
+This sales engineer position at Netskope was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

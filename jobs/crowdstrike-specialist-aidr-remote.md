@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CrowdStrike](https://scoutify.ai/companies/crowdstrike?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | United States |
+| Location | District of Columbia, US |
 | Category | Sales Engineer |
-| Posted | 2026-04-27 |
-| Apply | [View on company site](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Specialist--AIDR--Remote-_R28662) |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote-DC/Specialist--AIDR--Remote-_R30006) |
 
 ## About This Role
 
-This sales engineer position at CrowdStrike was posted on 2026-04-27.
+This sales engineer position at CrowdStrike was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

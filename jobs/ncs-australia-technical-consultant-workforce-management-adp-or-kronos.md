@@ -1,16 +1,16 @@
-# Technical Consultant - Workforce Management - ADP or Kronos at NCS Australia
+#  Technical Consultant - Workforce Management - ADP or Kronos at NCS Australia
 
 | Field | Details |
 |-------|---------|
 | Company | [NCS Australia](https://scoutify.ai/companies/ncs-australia?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | North Ryde, New South Wales, Australia |
 | Category | Sales Engineer |
-| Posted | 2026-09-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ncsaustralia/6000000001392655-technical-consultant-workforce-management-adp-or-kronos) |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ncsaustralia/6000000001410940-technical-consultant-workforce-management-adp-or-kronos) |
 
 ## About This Role
 
-This sales engineer position at NCS Australia was posted on 2026-09-10.
+This sales engineer position at NCS Australia was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

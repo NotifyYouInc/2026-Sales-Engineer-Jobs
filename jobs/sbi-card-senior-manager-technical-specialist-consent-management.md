@@ -5,12 +5,12 @@
 | Company | [SBI Card](https://scoutify.ai/companies/ap1-cx-oj95884?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Gurugram, Haryana, India |
 | Category | Sales Engineer |
-| Posted | 2026-07-03 |
+| Posted | 2026-09-16 |
 | Apply | [View on company site](https://edox.fa.ap1.oraclecloud.com/jobs/#20787) |
 
 ## About This Role
 
-This sales engineer position at SBI Card was posted on 2026-07-03.
+This sales engineer position at SBI Card was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

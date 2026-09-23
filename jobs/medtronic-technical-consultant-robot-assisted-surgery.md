@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Medtronic](https://scoutify.ai/companies/medtronic?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Budapest, Budapest, Hungary |
-| Category | Technology / IT Consulting |
+| Category | Sales Engineer |
 | Posted | 2026-09-14 |
 | Apply | [View on company site](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Budapest-Budapest-Hungary/Technical-Consultant--Robot-assisted-surgery_R76573-1) |
 
 ## About This Role
 
-This technology / it consulting position at Medtronic was posted on 2026-09-14.
+This sales engineer position at Medtronic was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

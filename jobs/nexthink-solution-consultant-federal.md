@@ -5,12 +5,12 @@
 | Company | [Nexthink](https://scoutify.ai/companies/nexthink?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Boston, Massachusetts, United States |
 | Category | Sales Engineer |
-| Posted | 2026-08-31 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/nexthink/744000146359819-solution-consultant-federal) |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/nexthink/744000149700209-solution-consultant-federal) |
 
 ## About This Role
 
-This sales engineer position at Nexthink was posted on 2026-08-31.
+This sales engineer position at Nexthink was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

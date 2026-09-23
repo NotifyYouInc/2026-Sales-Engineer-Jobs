@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [NXP Semiconductors](https://scoutify.ai/companies/nxp?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Novi, Michigan, United States |
-| Category | Account Executive |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://nxp.wd3.myworkdayjobs.com/careers/job/Novi/Technical-Sales-Engineer--Automotive_R-10062022) |
+| Location | United States |
+| Category | Sales Engineer |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://nxp.wd3.myworkdayjobs.com/careers/job/USA-home-based/Technical-Sales-Engineer--Automotive_R-10066806) |
 
 ## About This Role
 
-This account executive position at NXP Semiconductors was posted on 2026-02-27.
+This sales engineer position at NXP Semiconductors was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

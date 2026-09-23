@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Veeam Software](https://scoutify.ai/companies/veeamsoftware?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Bengaluru, Karnataka, India |
-| Category | Customer Success |
-| Posted | 2026-09-01 |
-| Apply | [View on company site](https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4958698101) |
+| Location | Paris, Île-de-France, France |
+| Category | Sales Engineer |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4975896101) |
 
 ## About This Role
 
-This customer success position at Veeam Software was posted on 2026-09-01.
+This sales engineer position at Veeam Software was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

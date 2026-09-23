@@ -5,12 +5,12 @@
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Linz, Upper Austria, Austria |
 | Category | Sales Engineer |
-| Posted | 2026-05-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000128398349-auendienstmitarbeiter-fur-die-marke-buderus-gebiet-oberosterreich-wmdiv) |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000149849829-auendienstmitarbeiter-fur-die-marke-buderus-gebiet-oberosterreich-wmdiv) |
 
 ## About This Role
 
-This sales engineer position at Robert Bosch was posted on 2026-05-26.
+This sales engineer position at Robert Bosch was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

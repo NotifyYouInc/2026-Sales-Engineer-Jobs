@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Highmark Health](https://scoutify.ai/companies/highmarkhealth?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Pittsburgh, Pennsylvania, United States |
-| Category | Implementation / Professional Services |
-| Posted | 2026-05-25 |
-| Apply | [View on company site](https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/Pittsburgh-PA-15222-FAP-5th-Avenue-Place/Senior-Business-Solutions-Consultant_J281839) |
+| Location | Arkansas, US |
+| Category | Sales Engineer |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/PA-Working-at-Home---Pennsylvania/Senior-Business-Solutions-Consultant_J286283-1) |
 
 ## About This Role
 
-This implementation / professional services position at Highmark Health was posted on 2026-05-25.
+This sales engineer position at Highmark Health was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

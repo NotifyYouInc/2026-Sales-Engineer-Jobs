@@ -5,12 +5,12 @@
 | Company | [Everience](https://scoutify.ai/companies/everience?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Nantes, Pays de la Loire, France |
 | Category | Sales Engineer |
-| Posted | 2026-08-14 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/EVERIENCE/744000143557480-chargee-daffaires-avant-vente-commerce-it-hf) |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/EVERIENCE/744000149667659-chargee-daffaires-avant-vente-commerce-it-hf) |
 
 ## About This Role
 
-This sales engineer position at Everience was posted on 2026-08-14.
+This sales engineer position at Everience was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

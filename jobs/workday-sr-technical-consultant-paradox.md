@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Workday](https://scoutify.ai/companies/workday?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | North Sydney, New South Wales, Australia |
+| Location | London, England, United Kingdom |
 | Category | Sales Engineer |
-| Posted | 2026-09-09 |
-| Apply | [View on company site](https://workday.wd5.myworkdayjobs.com/Workday/job/Australia-NSW-North-Sydney/Sr-Technical-Consultant---Paradox_JR-0109595) |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://workday.wd5.myworkdayjobs.com/Workday/job/United-Kingdom-London/Sr-Technical-Consultant---Paradox_JR-0109594-1) |
 
 ## About This Role
 
-This sales engineer position at Workday was posted on 2026-09-09.
+This sales engineer position at Workday was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

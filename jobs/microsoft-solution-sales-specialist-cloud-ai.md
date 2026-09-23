@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Microsoft](https://scoutify.ai/companies/microsoft?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Malaysia |
-| Category | Account Executive |
+| Category | Sales Engineer |
 | Posted | 2026-09-14 |
 | Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556991446) |
 
 ## About This Role
 
-This account executive position at Microsoft was posted on 2026-09-14.
+This sales engineer position at Microsoft was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

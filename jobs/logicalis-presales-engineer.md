@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Logicalis](https://scoutify.ai/companies/logicalis?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Guangzhou, Guangdong, China |
+| Location | Shanghai, Shanghai, China |
 | Category | Sales Engineer |
-| Posted | 2026-05-29 |
-| Apply | [View on company site](https://logicalis.wd3.myworkdayjobs.com/logicaliscareers/job/Guangzhou-GZ/Presales-Engineer_JR05208) |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://logicalis.wd3.myworkdayjobs.com/logicaliscareers/job/Shanghai-SH/Presales-Engineer_JR05467) |
 
 ## About This Role
 
-This sales engineer position at Logicalis was posted on 2026-05-29.
+This sales engineer position at Logicalis was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

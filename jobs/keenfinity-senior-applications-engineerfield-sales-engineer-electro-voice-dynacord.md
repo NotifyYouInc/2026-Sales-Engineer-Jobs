@@ -5,12 +5,12 @@
 | Company | [Keenfinity](https://scoutify.ai/companies/keenfinity?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Riyadh, Riyadh Region, Saudi Arabia |
 | Category | Sales Engineer |
-| Posted | 2026-08-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/keenfinity/744000145250059-senior-applications-engineerfield-sales-engineer-electro-voice-dynacord) |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/keenfinity/744000149784184-senior-applications-engineerfield-sales-engineer-electro-voice-dynacord) |
 
 ## About This Role
 
-This sales engineer position at Keenfinity was posted on 2026-08-24.
+This sales engineer position at Keenfinity was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

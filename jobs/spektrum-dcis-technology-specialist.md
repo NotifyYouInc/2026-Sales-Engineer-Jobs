@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Spektrum](https://scoutify.ai/companies/spektrum?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Norfolk, Virginia, United States |
-| Category | Technology / IT Consulting |
+| Category | Sales Engineer |
 | Posted | 2026-09-14 |
 | Apply | [View on company site](https://spektrum-group.com/jobs?gh_jid=4975852101) |
 
 ## About This Role
 
-This technology / it consulting position at Spektrum was posted on 2026-09-14.
+This sales engineer position at Spektrum was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

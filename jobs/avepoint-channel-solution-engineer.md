@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AvePoint](https://scoutify.ai/companies/avepoint?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Chicago, Illinois, United States |
+| Location | The Hague, South Holland, The Netherlands |
 | Category | Sales Engineer |
-| Posted | 2026-07-10 |
-| Apply | [View on company site](https://www.avepoint.com/careers/job-detail?gh_jid=7402801) |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://www.avepoint.com/careers/job-detail?gh_jid=8190925) |
 
 ## About This Role
 
-This sales engineer position at AvePoint was posted on 2026-07-10.
+This sales engineer position at AvePoint was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

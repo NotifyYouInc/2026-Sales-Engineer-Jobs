@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [GE HealthCare](https://scoutify.ai/companies/ge-healthcare?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Buc, Île-de-France, France |
+| Location | Tunisia |
 | Category | Sales Engineer |
-| Posted | 2026-06-09 |
-| Apply | [View on company site](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Buc/Ingnieur-d-Application-Surgery_R4041977) |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Tunisia/Ingnieur-d-Application-Surgery_R4046423-1) |
 
 ## About This Role
 
-This sales engineer position at GE HealthCare was posted on 2026-06-09.
+This sales engineer position at GE HealthCare was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

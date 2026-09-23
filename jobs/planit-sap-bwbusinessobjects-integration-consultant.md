@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Planit](https://scoutify.ai/companies/ap1-cx-oj85530?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Brisbane, Queensland, Australia |
-| Category | Technology / IT Consulting |
+| Category | Sales Engineer |
 | Posted | 2026-09-14 |
 | Apply | [View on company site](https://edtq.fa.ap1.oraclecloud.com/jobs/#851) |
 
 ## About This Role
 
-This technology / it consulting position at Planit was posted on 2026-09-14.
+This sales engineer position at Planit was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 
