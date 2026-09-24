@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [John H Carter](https://scoutify.ai/companies/john-h-carter?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Virginia, US |
-| Category | Software Engineer |
-| Posted | 2026-07-28 |
-| Apply | [View on company site](https://recruiting.ultipro.com/joh1009/JobBoard/7e86e39f-c1d1-04f0-7025-17e095d398e2/OpportunityDetail?opportunityId=29633d36-0884-4d50-b9fb-56d140573cfa) |
+| Category | Sales Engineer |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://recruiting.ultipro.com/joh1009/JobBoard/7e86e39f-c1d1-04f0-7025-17e095d398e2/OpportunityDetail?opportunityId=a3c981a5-6981-48cd-8df3-ded6a045ecf4) |
 
 ## About This Role
 
-This software engineer position at John H Carter was posted on 2026-07-28.
+This sales engineer position at John H Carter was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

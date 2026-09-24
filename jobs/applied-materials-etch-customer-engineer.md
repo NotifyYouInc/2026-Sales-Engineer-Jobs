@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Applied Materials](https://scoutify.ai/companies/applied-materials?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | South Korea |
-| Category | Semiconductor / Chip Design |
-| Posted | 2026-09-02 |
-| Apply | [View on company site](https://amat.wd1.myworkdayjobs.com/External/job/Icheon-GwangoKOR/ETCH-Customer-Engineer_R2627810-1) |
+| Location | Pyeongtaek, Gyeonggi-do, South Korea |
+| Category | Customer Success |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://amat.wd1.myworkdayjobs.com/External/job/Pyeongtaek-NF-SummitKOR/ETCH-Customer-Engineer_R2628773) |
 
 ## About This Role
 
-This semiconductor / chip design position at Applied Materials was posted on 2026-09-02.
+This customer success position at Applied Materials was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

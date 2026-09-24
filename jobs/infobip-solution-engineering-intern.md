@@ -5,12 +5,12 @@
 | Company | [Infobip](https://scoutify.ai/companies/infobip?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Sarajevo, Federation of B&H, Bosnia and Herzegovina |
 | Category | Sales Engineer |
-| Posted | 2026-09-09 |
-| Apply | [View on company site](https://infobip.wd3.myworkdayjobs.com/infobipcareers/job/Sarajevo-BiH/Solution-Engineering-Intern_JR104954) |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://infobip.wd3.myworkdayjobs.com/infobipcareers/job/Sarajevo-BiH/Solution-Engineering-Intern_JR104953) |
 
 ## About This Role
 
-This sales engineer position at Infobip was posted on 2026-09-09.
+This sales engineer position at Infobip was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

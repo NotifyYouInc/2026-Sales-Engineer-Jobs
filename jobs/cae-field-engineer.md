@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [CAE](https://scoutify.ai/companies/cae?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Arlington, Texas, United States |
-| Category | Customer Success |
-| Posted | 2026-03-23 |
-| Apply | [View on company site](https://cae.wd3.myworkdayjobs.com/career/job/Arlington-TX/Field-Engineer_120885-1) |
+| Category | Sales Engineer |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://cae.wd3.myworkdayjobs.com/career/job/Arlington-TX/Field-Engineer_123758) |
 
 ## About This Role
 
-This customer success position at CAE was posted on 2026-03-23.
+This sales engineer position at CAE was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

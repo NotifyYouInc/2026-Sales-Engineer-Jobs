@@ -5,12 +5,12 @@
 | Company | [ABB](https://scoutify.ai/companies/abb?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Pune, Maharashtra, India |
 | Category | Sales Engineer |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Pune-Maharashtra-India/Sr-Sales-Engineer-LV-Switchgear---OEM-Sales_JR00003529) |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Pune-Maharashtra-India/Sr-Sales-Engineer-LV-Switchgear---OEM-Sales_JR00047641) |
 
 ## About This Role
 
-This sales engineer position at ABB was posted on 2026-04-14.
+This sales engineer position at ABB was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

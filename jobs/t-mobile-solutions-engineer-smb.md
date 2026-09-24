@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [T-Mobile](https://scoutify.ai/companies/tmobile?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Parsippany, New Jersey, United States |
+| Location | Concord, California, United States |
 | Category | Sales Engineer |
-| Posted | 2026-08-25 |
-| Apply | [View on company site](https://tmobile.wd1.myworkdayjobs.com/External/job/Parsippany-New-Jersey/Solutions-Engineer--SMB_REQ369973-1) |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://tmobile.wd1.myworkdayjobs.com/External/job/Concord-California/Solutions-Engineer--SMB_REQ372537-1) |
 
 ## About This Role
 
-This sales engineer position at T-Mobile was posted on 2026-08-25.
+This sales engineer position at T-Mobile was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

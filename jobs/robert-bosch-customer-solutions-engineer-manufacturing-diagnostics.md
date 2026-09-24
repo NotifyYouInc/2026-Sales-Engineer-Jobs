@@ -5,12 +5,12 @@
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Plymouth, Minnesota, United States |
 | Category | Sales Engineer |
-| Posted | 2026-08-14 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000143584564-customer-solutions-engineer-manufacturing-diagnostics) |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000149922334-customer-solutions-engineer-manufacturing-diagnostics) |
 
 ## About This Role
 
-This sales engineer position at Robert Bosch was posted on 2026-08-14.
+This sales engineer position at Robert Bosch was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

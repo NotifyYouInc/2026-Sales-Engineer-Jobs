@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Arrow Electronics](https://scoutify.ai/companies/arrow-electronics?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Bulgaria |
+| Location | Clamart, Île-de-France, France |
 | Category | Sales Engineer |
-| Posted | 2026-09-02 |
-| Apply | [View on company site](https://arrow.wd1.myworkdayjobs.com/ac/job/BG-Bulgaria---remote/Technical-Sales-Engineer_R246046) |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://arrow.wd1.myworkdayjobs.com/ac/job/FR-Clamart-France-Solaris-Bldg/Technical-Sales-Engineer_R246775) |
 
 ## About This Role
 
-This sales engineer position at Arrow Electronics was posted on 2026-09-02.
+This sales engineer position at Arrow Electronics was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

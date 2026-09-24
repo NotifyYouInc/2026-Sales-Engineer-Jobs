@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Johnson Controls](https://scoutify.ai/companies/jci?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | 11 locations |
+| Location | Hamburg, Hamburg, Germany |
 | Category | Sales Engineer |
-| Posted | 2026-07-31 |
-| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Leinfelden-Echterdingen/Vertriebsmitarbeiter-Gaslschanlagen--m-w-d-_WD30275679-1) |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Hamburg---Germany/Vertriebsmitarbeiter-Gaslschanlagen--m-w-d-_WD30279810) |
 
 ## About This Role
 
-This sales engineer position at Johnson Controls was posted on 2026-07-31.
+This sales engineer position at Johnson Controls was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

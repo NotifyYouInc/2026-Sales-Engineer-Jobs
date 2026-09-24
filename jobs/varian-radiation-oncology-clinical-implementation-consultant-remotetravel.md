@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Varian](https://scoutify.ai/companies/onehealthineers?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Billings, Montana, United States |
+| Location | Halifax, Nova Scotia, Canada |
 | Category | Customer Success |
-| Posted | 2026-04-07 |
-| Apply | [View on company site](https://onehealthineers.wd3.myworkdayjobs.com/SHSJB/job/LAS-EH/Radiation-Oncology-Clinical-Implementation-Consultant--Remote-Travel-_R-27790-1) |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://onehealthineers.wd3.myworkdayjobs.com/SHSJB/job/YHZ-GR/Radiation-Oncology-Clinical-Implementation-Consultant--Remote-Travel-_R-30825-1) |
 
 ## About This Role
 
-This customer success position at Varian was posted on 2026-04-07.
+This customer success position at Varian was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

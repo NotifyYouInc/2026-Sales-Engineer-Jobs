@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [MSX International](https://scoutify.ai/companies/msxinternational?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Coventry, England, United Kingdom |
-| Category | Sales Engineer |
-| Posted | 2026-09-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/MSXInternational/3743990015131546-automotive-technical-specialist) |
+| Location | Lisbon, Lisbon, Portugal |
+| Category | Customer Success |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/MSXInternational/3743990015334686-automotive-technical-specialist) |
 
 ## About This Role
 
-This sales engineer position at MSX International was posted on 2026-09-09.
+This customer success position at MSX International was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

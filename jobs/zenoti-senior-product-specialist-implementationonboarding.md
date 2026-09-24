@@ -5,12 +5,12 @@
 | Company | [Zenoti](https://scoutify.ai/companies/zenoti?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Seattle, Washington, United States |
 | Category | Customer Success |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/zenoti/jobs/7703118003) |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/zenoti/jobs/7931739003) |
 
 ## About This Role
 
-This customer success position at Zenoti was posted on 2026-04-21.
+This customer success position at Zenoti was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

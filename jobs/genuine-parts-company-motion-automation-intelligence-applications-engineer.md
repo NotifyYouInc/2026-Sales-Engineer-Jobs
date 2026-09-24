@@ -1,16 +1,16 @@
-# Motion Automation Intelligence - Applications Engineer at Genuine Parts Company
+# Motion Automation Intelligence- Applications Engineer at Genuine Parts Company
 
 | Field | Details |
 |-------|---------|
 | Company | [Genuine Parts Company](https://scoutify.ai/companies/genpt?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Salisbury, North Carolina, United States |
+| Location | Danvers, Massachusetts, United States |
 | Category | Sales Engineer |
-| Posted | 2026-09-02 |
-| Apply | [View on company site](https://genpt.wd1.myworkdayjobs.com/Careers/job/Salisbury-NC-USA/Motion-Automation-Intelligence---Applications-Engineer_R26_0000028823) |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://genpt.wd1.myworkdayjobs.com/Careers/job/Danvers-MA-USA/Motion-Ai--Applications-Engineer_R25_0000037492) |
 
 ## About This Role
 
-This sales engineer position at Genuine Parts Company was posted on 2026-09-02.
+This sales engineer position at Genuine Parts Company was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

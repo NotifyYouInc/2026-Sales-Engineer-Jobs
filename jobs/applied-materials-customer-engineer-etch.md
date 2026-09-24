@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Applied Materials](https://scoutify.ai/companies/applied-materials?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Shanghai, Shanghai, China |
-| Category | Sales Engineer |
-| Posted | 2026-08-20 |
-| Apply | [View on company site](https://amat.wd1.myworkdayjobs.com/External/job/ShanghaiCHN/Customer-Engineer-ETCH_R2626648) |
+| Location | Shenzhen, Guangdong, China |
+| Category | Semiconductor / Chip Design |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://amat.wd1.myworkdayjobs.com/External/job/ShenzhenCHN/Customer-Engineer-ETCH_R2626968) |
 
 ## About This Role
 
-This sales engineer position at Applied Materials was posted on 2026-08-20.
+This semiconductor / chip design position at Applied Materials was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

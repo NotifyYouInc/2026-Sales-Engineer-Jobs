@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CAE](https://scoutify.ai/companies/cae?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Nevada, US |
-| Category | Cybersecurity Engineer |
-| Posted | 2026-09-02 |
-| Apply | [View on company site](https://cae.wd3.myworkdayjobs.com/career/job/Nellis-AFB-NV/Field-Engineer-Cyber-Analyst_123474) |
+| Location | New Mexico, US |
+| Category | Sales Engineer |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://cae.wd3.myworkdayjobs.com/career/job/Holloman-AFB-NM/Field-Engineer-Cyber-Analyst_123732) |
 
 ## About This Role
 
-This cybersecurity engineer position at CAE was posted on 2026-09-02.
+This sales engineer position at CAE was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

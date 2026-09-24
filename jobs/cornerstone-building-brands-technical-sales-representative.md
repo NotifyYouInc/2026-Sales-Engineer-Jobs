@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cornerstone Building Brands](https://scoutify.ai/companies/cornerstonebuildingbrands?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Houston, Texas, United States |
-| Category | Account Executive |
-| Posted | 2026-09-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/CornerstoneBuildingBrandsCareers/3743990015188416-technical-sales-representative) |
+| Location | Phoenix, Arizona, United States |
+| Category | Sales Engineer |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/CornerstoneBuildingBrandsCareers/3743990015318196-technical-sales-representative) |
 
 ## About This Role
 
-This account executive position at Cornerstone Building Brands was posted on 2026-09-10.
+This sales engineer position at Cornerstone Building Brands was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [ABB](https://scoutify.ai/companies/abb?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Mumbai, Maharashtra, India |
-| Category | Account Executive |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Mumbai-Maharashtra-India/Sales-specialist-Panel-builder_JR00031393) |
+| Category | Sales Engineer |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Mumbai-Maharashtra-India/Sales-specialist-Panel-builder_JR00046063-1) |
 
 ## About This Role
 
-This account executive position at ABB was posted on 2026-04-22.
+This sales engineer position at ABB was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

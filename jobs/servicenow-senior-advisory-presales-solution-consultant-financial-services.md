@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ServiceNow](https://scoutify.ai/companies/servicenow?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Glattbrugg, Zurich, Switzerland |
+| Location | Switzerland |
 | Category | Sales Engineer |
-| Posted | 2026-09-14 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000149290109-senior-advisory-presales-solution-consultant-financial-services) |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000149614544-senior-advisory-presales-solution-consultant-financial-services) |
 
 ## About This Role
 
-This sales engineer position at ServiceNow was posted on 2026-09-14.
+This sales engineer position at ServiceNow was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

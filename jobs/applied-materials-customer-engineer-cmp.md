@@ -1,16 +1,16 @@
-# Customer Engineer-CMP at Applied Materials
+# Customer Engineer CMP at Applied Materials
 
 | Field | Details |
 |-------|---------|
 | Company | [Applied Materials](https://scoutify.ai/companies/applied-materials?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Shanghai, Shanghai, China |
-| Category | Sales Engineer |
-| Posted | 2026-09-04 |
-| Apply | [View on company site](https://amat.wd1.myworkdayjobs.com/External/job/ShanghaiCHN/Customer-Engineer-CMP_R2626966) |
+| Category | Customer Success |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://amat.wd1.myworkdayjobs.com/External/job/ShanghaiCHN/Customer-Engineer-CMP_R2628788) |
 
 ## About This Role
 
-This sales engineer position at Applied Materials was posted on 2026-09-04.
+This customer success position at Applied Materials was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

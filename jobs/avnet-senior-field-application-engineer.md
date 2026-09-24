@@ -5,12 +5,12 @@
 | Company | [Avnet](https://scoutify.ai/companies/avnet?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Taiwan |
 | Category | Sales Engineer |
-| Posted | 2026-09-14 |
-| Apply | [View on company site](https://avnet.wd1.myworkdayjobs.com/external/job/Taipei-City-Taiwan/Senior-Field-Application-Engineer_JR-024312) |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://avnet.wd1.myworkdayjobs.com/external/job/Taipei-City-Taiwan/Senior-Field-Application-Engineer_JR-024353-1) |
 
 ## About This Role
 
-This sales engineer position at Avnet was posted on 2026-09-14.
+This sales engineer position at Avnet was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

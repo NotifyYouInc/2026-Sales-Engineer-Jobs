@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Aspentech](https://scoutify.ai/companies/aspentech?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Singapore, Singapore |
+| Location | South Africa |
 | Category | Sales Engineer |
-| Posted | 2026-09-15 |
-| Apply | [View on company site](https://aspentech.wd5.myworkdayjobs.com/aspentech/job/Singapore/Principal-Solution-Consultant_R9442) |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://aspentech.wd5.myworkdayjobs.com/aspentech/job/South-Africa-remote/Principal-Solution-Consultant_R9468) |
 
 ## About This Role
 
-This sales engineer position at Aspentech was posted on 2026-09-15.
+This sales engineer position at Aspentech was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Zendesk](https://scoutify.ai/companies/zendesk?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Mexico City, Mexico City, Mexico |
+| Location | São Paulo, São Paulo, Brazil |
 | Category | Sales Engineer |
-| Posted | 2026-08-31 |
-| Apply | [View on company site](https://zendesk.wd1.myworkdayjobs.com/zendesk/job/Mexico-City-Mexico/Sales-Engineer_R35399) |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://zendesk.wd1.myworkdayjobs.com/zendesk/job/So-Paulo-Brazil/Sales-Engineer_R35148) |
 
 ## About This Role
 
-This sales engineer position at Zendesk was posted on 2026-08-31.
+This sales engineer position at Zendesk was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

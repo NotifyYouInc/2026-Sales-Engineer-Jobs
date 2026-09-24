@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Omni](https://scoutify.ai/companies/omni?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | San Francisco, California, United States |
+| Location | United States |
 | Category | Sales Engineer |
-| Posted | 2025-10-20 |
+| Posted | 2026-09-16 |
 | Apply | [View on company site](https://jobs.ashbyhq.com/omni/7af7f222-0e2e-4520-b955-d6e4e1874dde) |
 
 ## About This Role
 
-This sales engineer position at Omni was posted on 2025-10-20.
+This sales engineer position at Omni was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

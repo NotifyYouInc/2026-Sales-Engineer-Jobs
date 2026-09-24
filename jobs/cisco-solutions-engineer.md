@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Buenos Aires, Buenos Aires F.D., Argentina |
+| Location | 3 locations |
 | Category | Sales Engineer |
-| Posted | 2026-09-14 |
-| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Buenos-Aires-Argentina/Solutions-Engineer_2025029) |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Boston-Massachusetts-US/Solutions-Engineer_2024541) |
 
 ## About This Role
 
-This sales engineer position at Cisco was posted on 2026-09-14.
+This sales engineer position at Cisco was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

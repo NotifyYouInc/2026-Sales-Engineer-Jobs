@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Braze](https://scoutify.ai/companies/braze?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Tokyo, Tokyo, Japan |
+| Location | New York City, New York, United States |
 | Category | Sales Engineer |
 | Posted | 2026-09-14 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/braze/jobs/8045088) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/braze/jobs/8201757) |
 
 ## About This Role
 

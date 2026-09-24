@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Salesforce](https://scoutify.ai/companies/salesforce?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | DevOps Engineer |
-| Posted | 2026-08-03 |
-| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Bangalore/Senior-Technical-Consultant_JR346560) |
+| Category | Sales Engineer |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Bangalore/Senior-Technical-Consultant_JR357524) |
 
 ## About This Role
 
-This devops engineer position at Salesforce was posted on 2026-08-03.
+This sales engineer position at Salesforce was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

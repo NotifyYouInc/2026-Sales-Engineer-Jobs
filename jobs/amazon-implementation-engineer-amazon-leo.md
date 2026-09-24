@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | San Diego, California, United States |
-| Category | Sales Engineer |
+| Category | Semiconductor / Chip Design |
 | Posted | 2026-09-16 |
 | Apply | [View on company site](https://www.amazon.jobs/en/jobs/10544111/implementation-engineer-amazon-leo) |
 
 ## About This Role
 
-This sales engineer position at Amazon was posted on 2026-09-16.
+This semiconductor / chip design position at Amazon was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 
