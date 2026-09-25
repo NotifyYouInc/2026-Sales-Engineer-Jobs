@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sika](https://scoutify.ai/companies/sika?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Dallas, Texas, United States |
+| Location | Houston, Texas, United States |
 | Category | Sales Engineer |
-| Posted | 2026-09-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SikaAG/744000148863100-technical-specification-manager) |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SikaAG/744000150208359-technical-specification-manager) |
 
 ## About This Role
 
-This sales engineer position at Sika was posted on 2026-09-10.
+This sales engineer position at Sika was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Xylem](https://scoutify.ai/companies/xylem?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Dordrecht, South Holland, The Netherlands |
 | Category | Sales Engineer |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://xylem.wd5.myworkdayjobs.com/xylem-careers/job/Dordrecht/Inside-Sales-Engineer_R46328) |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://xylem.wd5.myworkdayjobs.com/xylem-careers/job/Dordrecht/Inside-Sales-Engineer_R46331) |
 
 ## About This Role
 
-This sales engineer position at Xylem was posted on 2026-04-17.
+This sales engineer position at Xylem was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

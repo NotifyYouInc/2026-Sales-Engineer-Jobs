@@ -5,12 +5,12 @@
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | 3 locations |
 | Category | Customer Success |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/MINNEAPOLIS-MN/GPL-Change-Implementation-Consultant---Payables_R-540609-1) |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/MINNEAPOLIS-MN/GPL-Change-Implementation-Consultant---Payables_R-574075) |
 
 ## About This Role
 
-This customer success position at Wells Fargo was posted on 2026-05-13.
+This customer success position at Wells Fargo was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

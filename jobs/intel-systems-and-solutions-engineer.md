@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Intel](https://scoutify.ai/companies/intel?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | 2 locations |
-| Category | Technical & Solutions Architect |
-| Posted | 2026-07-31 |
-| Apply | [View on company site](https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Systems-and-Solutions-Engineer_JR0285495) |
+| Location | Bengaluru, Karnataka, India |
+| Category | Sales Engineer |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://intel.wd1.myworkdayjobs.com/External/job/India-Bangalore/Systems-and-Solutions-Engineer_JR0287102) |
 
 ## About This Role
 
-This technical & solutions architect position at Intel was posted on 2026-07-31.
+This sales engineer position at Intel was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

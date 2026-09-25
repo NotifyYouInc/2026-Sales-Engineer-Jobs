@@ -1,16 +1,16 @@
-# Principal Sales Engineer at Zscaler
+# Principal Sales Engineer  at Zscaler
 
 | Field | Details |
 |-------|---------|
 | Company | [Zscaler](https://scoutify.ai/companies/zscaler?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | 2 locations |
+| Location | Italy |
 | Category | Sales Engineer |
-| Posted | 2026-09-03 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/zscaler/jobs/5215336007) |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/zscaler/jobs/5229769007) |
 
 ## About This Role
 
-This sales engineer position at Zscaler was posted on 2026-09-03.
+This sales engineer position at Zscaler was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

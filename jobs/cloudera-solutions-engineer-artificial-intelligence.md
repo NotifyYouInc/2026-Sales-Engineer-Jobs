@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Cloudera](https://scoutify.ai/companies/cloudera?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Singapore, Singapore |
-| Category | Technical & Solutions Architect |
-| Posted | 2026-06-17 |
-| Apply | [View on company site](https://cloudera.wd5.myworkdayjobs.com/External_Career/job/Singapore--Singapore/Solutions-Engineer---Artificial-Intelligence_260934) |
+| Category | Sales Engineer |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://cloudera.wd5.myworkdayjobs.com/External_Career/job/Singapore-Remote/Principal-Solutions-Engineer---Artificial-Intelligence_260511) |
 
 ## About This Role
 
-This technical & solutions architect position at Cloudera was posted on 2026-06-17.
+This sales engineer position at Cloudera was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

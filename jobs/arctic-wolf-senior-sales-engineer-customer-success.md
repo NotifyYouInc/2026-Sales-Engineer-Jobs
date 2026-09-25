@@ -1,16 +1,16 @@
-# Senior Sales Engineer - Customer Success at Arctic Wolf
+# Senior Sales Engineer Customer Success at Arctic Wolf
 
 | Field | Details |
 |-------|---------|
 | Company | [Arctic Wolf](https://scoutify.ai/companies/arcticwolf?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Waterloo, Ontario, Canada |
+| Location | United Kingdom |
 | Category | Customer Success Manager |
-| Posted | 2026-05-01 |
-| Apply | [View on company site](https://arcticwolf.wd1.myworkdayjobs.com/External/job/Waterloo-ON-CAN/Senior-Sales-Engineer---Customer-Success_R26_434) |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://arcticwolf.wd1.myworkdayjobs.com/External/job/Remote-United-Kingdom/Senior-Sales-Engineer-Customer-Success_R26_1035) |
 
 ## About This Role
 
-This customer success manager position at Arctic Wolf was posted on 2026-05-01.
+This customer success manager position at Arctic Wolf was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

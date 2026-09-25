@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cogent](https://scoutify.ai/companies/cogent-rec-pro-ukg-net?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Not specified |
+| Location | St. Louis, Missouri, United States |
 | Category | Sales Engineer |
-| Posted | 2026-09-09 |
-| Apply | [View on company site](https://cogent.rec.pro.ukg.net/cog1001cogt/JobBoard/6ef4887f-e9d3-4536-8f81-818a63ab3102/OpportunityDetail?opportunityId=887d763d-2291-4592-9b85-e1c430aba820) |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://cogent.rec.pro.ukg.net/cog1001cogt/JobBoard/6ef4887f-e9d3-4536-8f81-818a63ab3102/OpportunityDetail?opportunityId=5fbe886a-4fad-4771-8099-e44bff87ca96) |
 
 ## About This Role
 
-This sales engineer position at Cogent was posted on 2026-09-09.
+This sales engineer position at Cogent was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Caseware](https://scoutify.ai/companies/caseware?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Apeldoorn, Gelderland, The Netherlands |
-| Category | Sales Engineer |
-| Posted | 2026-07-23 |
-| Apply | [View on company site](https://jobs.lever.co/caseware/78f4de69-d89e-4c40-a633-1d313c7cebe9) |
+| Location | Toronto, Ontario, Canada |
+| Category | Customer Success |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://jobs.lever.co/caseware/ccece3e3-54e2-47dc-84c9-131b89eec061) |
 
 ## About This Role
 
-This sales engineer position at Caseware was posted on 2026-07-23.
+This customer success position at Caseware was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

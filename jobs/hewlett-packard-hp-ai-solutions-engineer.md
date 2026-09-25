@@ -5,12 +5,12 @@
 | Company | [Hewlett Packard (HP)](https://scoutify.ai/companies/hp?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Sales Engineer |
-| Posted | 2026-08-15 |
-| Apply | [View on company site](https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Bengaluru-Karntaka-India/AI-Solutions-Engineer_3166378-1) |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Bengaluru-Karnataka-India/AI-Solutions-Engineer_3166376) |
 
 ## About This Role
 
-This sales engineer position at Hewlett Packard (HP) was posted on 2026-08-15.
+This sales engineer position at Hewlett Packard (HP) was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

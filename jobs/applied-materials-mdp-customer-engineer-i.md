@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Applied Materials](https://scoutify.ai/companies/applied-materials?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Chitose, Hokkaido, Japan |
-| Category | Marketing |
-| Posted | 2026-06-09 |
-| Apply | [View on company site](https://amat.wd1.myworkdayjobs.com/External/job/ChitoseJPN/MDP-Customer-Engineer-I_R2621475) |
+| Location | Yokkaichi, Mie, Japan |
+| Category | Sales Engineer |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://amat.wd1.myworkdayjobs.com/External/job/YokkaichiJPN/MDP-Customer-Engineer-I_R2628675-1) |
 
 ## About This Role
 
-This marketing position at Applied Materials was posted on 2026-06-09.
+This sales engineer position at Applied Materials was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

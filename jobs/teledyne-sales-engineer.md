@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Teledyne](https://scoutify.ai/companies/flir?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Italy |
+| Location | Eindhoven, North Brabant, The Netherlands |
 | Category | Sales Engineer |
-| Posted | 2026-09-09 |
-| Apply | [View on company site](https://flir.wd1.myworkdayjobs.com/flircareers/job/Italy---Field/Sales-Engineer_REQ36611) |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://flir.wd1.myworkdayjobs.com/flircareers/job/Netherlands---Eindhoven-L91/Sales-Engineer_REQ36240) |
 
 ## About This Role
 
-This sales engineer position at Teledyne was posted on 2026-09-09.
+This sales engineer position at Teledyne was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

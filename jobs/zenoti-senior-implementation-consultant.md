@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Zenoti](https://scoutify.ai/companies/zenoti?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Hyderabad, Telangana, India |
-| Category | Sales Engineer |
-| Posted | 2026-09-08 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/zenoti/jobs/7884747003) |
+| Category | Customer Success |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/zenoti/jobs/7958272003) |
 
 ## About This Role
 
-This sales engineer position at Zenoti was posted on 2026-09-08.
+This customer success position at Zenoti was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

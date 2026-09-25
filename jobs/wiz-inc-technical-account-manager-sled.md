@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Wiz, Inc.](https://scoutify.ai/companies/wiz-inc?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | United States |
-| Category | Customer Success Manager |
+| Category | Customer Success |
 | Posted | 2026-09-16 |
 | Apply | [View on company site](https://www.wiz.io/careers/job/4648829006/:title?gh_jid=4648829006) |
 
 ## About This Role
 
-This customer success manager position at Wiz, Inc. was posted on 2026-09-16.
+This customer success position at Wiz, Inc. was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

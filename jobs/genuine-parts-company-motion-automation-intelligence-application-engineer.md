@@ -1,16 +1,16 @@
-# Motion Automation Intelligence- Application Engineer at Genuine Parts Company
+# Motion Automation Intelligence - Application Engineer at Genuine Parts Company
 
 | Field | Details |
 |-------|---------|
 | Company | [Genuine Parts Company](https://scoutify.ai/companies/genpt?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Kirkland, Washington, United States |
-| Category | Software Engineer |
-| Posted | 2026-07-30 |
-| Apply | [View on company site](https://genpt.wd1.myworkdayjobs.com/Careers/job/Kirkland-WA-USA/Motion-Automation-Intelligence--Application-Engineer_R26_0000024336) |
+| Location | North Carolina, US |
+| Category | Sales Engineer |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://genpt.wd1.myworkdayjobs.com/Careers/job/USA-NC---Remote/Motion-Automation-Intelligence---Application-Engineer_R26_0000030773) |
 
 ## About This Role
 
-This software engineer position at Genuine Parts Company was posted on 2026-07-30.
+This sales engineer position at Genuine Parts Company was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [btranzsoftware](https://scoutify.ai/companies/btranzsoftware?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Riyadh, Riyadh Region, Saudi Arabia |
 | Category | Sales Engineer |
-| Posted | 2026-09-15 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BTranz/744000149552359-oracle-fusion-technical-consultant-arabic-speaker) |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BTranz/744000149777549-oracle-fusion-technical-consultant-arabic-speaker) |
 
 ## About This Role
 
-This sales engineer position at btranzsoftware was posted on 2026-09-15.
+This sales engineer position at btranzsoftware was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

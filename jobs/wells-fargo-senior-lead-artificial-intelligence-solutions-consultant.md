@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | 3 locations |
-| Category | AI / ML Research |
-| Posted | 2026-04-06 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/CONCORD-CA/Senior-Lead-Artificial-Intelligence-Solutions-Consultant_R-531950-1) |
+| Location | Charlotte, North Carolina, United States |
+| Category | Sales Engineer |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/CHARLOTTE-NC/Senior-Lead-Artificial-Intelligence-Solutions-Consultant_R-568851) |
 
 ## About This Role
 
-This ai / ml research position at Wells Fargo was posted on 2026-04-06.
+This sales engineer position at Wells Fargo was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

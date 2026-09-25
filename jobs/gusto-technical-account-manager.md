@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Gusto](https://scoutify.ai/companies/gusto?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Scottsdale, Arizona, United States |
-| Category | Customer Success Manager |
+| Category | Customer Success |
 | Posted | 2026-09-15 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/gusto/jobs/8203030) |
 
 ## About This Role
 
-This customer success manager position at Gusto was posted on 2026-09-15.
+This customer success position at Gusto was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

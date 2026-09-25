@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [ABB](https://scoutify.ai/companies/abb?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | DevOps Engineer |
-| Posted | 2026-06-10 |
-| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Bangalore-Karnataka-India/Solution-Engineer_JR00031466) |
+| Category | Sales Engineer |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Bangalore-Karnataka-India/Solution-Engineer_JR00045613) |
 
 ## About This Role
 
-This devops engineer position at ABB was posted on 2026-06-10.
+This sales engineer position at ABB was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Hitachi](https://scoutify.ai/companies/hitachi?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Sydney, New South Wales, Australia |
+| Location | Casablanca, Casablanca-Settat, Morocco |
 | Category | Sales Engineer |
-| Posted | 2026-07-21 |
-| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Sydney-New-South-Wales-Australia/Senior-Sales-Engineer_R0138597) |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Casablanca-Casablanca-Settat-Morocco/Senior-Sales-Engineer_R0142387) |
 
 ## About This Role
 
-This sales engineer position at Hitachi was posted on 2026-07-21.
+This sales engineer position at Hitachi was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Datadog](https://scoutify.ai/companies/datadog?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Boston, Massachusetts, United States |
-| Category | Sales Engineer |
-| Posted | 2026-07-07 |
-| Apply | [View on company site](https://careers.datadoghq.com/detail/8045678/?gh_jid=8045678) |
+| Location | Denver, Colorado, United States |
+| Category | Customer Success Manager |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://careers.datadoghq.com/detail/8204163/?gh_jid=8204163) |
 
 ## About This Role
 
-This sales engineer position at Datadog was posted on 2026-07-07.
+This customer success manager position at Datadog was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [MENA Consultant](https://scoutify.ai/companies/mena-consultant?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Qatar |
+| Location | Amman, Amman, Jordan |
 | Category | Sales Engineer |
-| Posted | 2026-08-23 |
-| Apply | [View on company site](https://job-boards.eu.greenhouse.io/menaconsultant/jobs/4958597101) |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://job-boards.eu.greenhouse.io/menaconsultant/jobs/4979554101) |
 
 ## About This Role
 
-This sales engineer position at MENA Consultant was posted on 2026-08-23.
+This sales engineer position at MENA Consultant was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

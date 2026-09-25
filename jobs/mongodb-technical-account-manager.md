@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [MongoDB](https://scoutify.ai/companies/mongodb?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Gurugram, Haryana, India |
-| Category | Customer Success Manager |
-| Posted | 2026-09-14 |
-| Apply | [View on company site](https://www.mongodb.com/careers/job/?gh_jid=8120184) |
+| Location | Bengaluru, Karnataka, India |
+| Category | Customer Success |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://www.mongodb.com/careers/job/?gh_jid=8213069) |
 
 ## About This Role
 
-This customer success manager position at MongoDB was posted on 2026-09-14.
+This customer success position at MongoDB was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

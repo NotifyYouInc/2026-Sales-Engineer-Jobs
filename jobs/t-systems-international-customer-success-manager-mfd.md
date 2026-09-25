@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [T-Systems International](https://scoutify.ai/companies/tsystemsinternational?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Granada, Andalusia, Spain |
-| Category | Customer Success Manager |
+| Category | Customer Success |
 | Posted | 2026-09-16 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/T-SystemsIberia/744000149789851-customer-success-manager-mfd) |
 
 ## About This Role
 
-This customer success manager position at T-Systems International was posted on 2026-09-16.
+This customer success position at T-Systems International was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

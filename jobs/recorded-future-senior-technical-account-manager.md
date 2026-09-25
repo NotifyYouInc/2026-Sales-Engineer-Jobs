@@ -5,12 +5,12 @@
 | Company | [Recorded Future](https://scoutify.ai/companies/recorded-future?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Singapore, Singapore |
 | Category | Customer Success |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/recordedfuture/jobs/8554698002) |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/recordedfuture/jobs/8812464002) |
 
 ## About This Role
 
-This customer success position at Recorded Future was posted on 2026-05-19.
+This customer success position at Recorded Future was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

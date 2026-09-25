@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Workiva](https://scoutify.ai/companies/workiva?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Sweden |
+| Location | Copenhagen, Capital Region, Denmark |
 | Category | Sales Engineer |
-| Posted | 2026-05-20 |
-| Apply | [View on company site](https://workiva.wd503.myworkdayjobs.com/careers/job/Remote---Sweden/Solution-Consultant---Nordics_R11765) |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://workiva.wd503.myworkdayjobs.com/careers/job/Copenhagen/Solution-Consultant---Nordics_R12485) |
 
 ## About This Role
 
-This sales engineer position at Workiva was posted on 2026-05-20.
+This sales engineer position at Workiva was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

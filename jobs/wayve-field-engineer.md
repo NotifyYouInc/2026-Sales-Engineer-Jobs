@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wayve](https://scoutify.ai/companies/wayve?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Sunnyvale, California, United States |
+| Location | Germany |
 | Category | Sales Engineer |
-| Posted | 2026-08-25 |
-| Apply | [View on company site](https://wayve.firststage.co/jobs?gh_jid=8746705002) |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://wayve.firststage.co/jobs?gh_jid=8816447002) |
 
 ## About This Role
 
-This sales engineer position at Wayve was posted on 2026-08-25.
+This sales engineer position at Wayve was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

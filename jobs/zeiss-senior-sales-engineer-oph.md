@@ -5,12 +5,12 @@
 | Company | [Zeiss](https://scoutify.ai/companies/zeissgroup?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Shanghai, Shanghai, China |
 | Category | Sales Engineer |
-| Posted | 2026-07-31 |
-| Apply | [View on company site](https://zeissgroup.wd3.myworkdayjobs.com/External/job/Shanghai/Senior-Sales-Engineer--OPH_JR_1051899) |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://zeissgroup.wd3.myworkdayjobs.com/External/job/Shanghai/Senior-Sales-Engineer--OPH_JR_1053293) |
 
 ## About This Role
 
-This sales engineer position at Zeiss was posted on 2026-07-31.
+This sales engineer position at Zeiss was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [voize](https://scoutify.ai/companies/voize?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Berlin, State of Berlin, Germany |
-| Category | Customer Success Manager |
+| Category | Customer Success |
 | Posted | 2026-09-15 |
 | Apply | [View on company site](https://jobs.ashbyhq.com/voize/7f0578e2-0872-4ddd-ba3a-1ab5b0993465) |
 
 ## About This Role
 
-This customer success manager position at voize was posted on 2026-09-15.
+This customer success position at voize was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

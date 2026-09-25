@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Appier](https://scoutify.ai/companies/appier?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Taipei, Taiwan, Taiwan |
-| Category | Sales Engineer |
-| Posted | 2026-06-24 |
+| Category | Customer Success |
+| Posted | 2026-09-18 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/appier/jobs/3785463) |
 
 ## About This Role
 
-This sales engineer position at Appier was posted on 2026-06-24.
+This customer success position at Appier was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 
