@@ -5,12 +5,12 @@
 | Company | [Inetum](https://scoutify.ai/companies/inetum?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | France |
 | Category | Sales Engineer |
-| Posted | 2026-06-15 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Inetum2/744000132144284-presales-specialist-ai-business-solutions-microsoft-hf) |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Inetum2/744000150417958-presales-specialist-ai-business-solutions-microsoft-hf) |
 
 ## About This Role
 
-This sales engineer position at Inetum was posted on 2026-06-15.
+This sales engineer position at Inetum was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

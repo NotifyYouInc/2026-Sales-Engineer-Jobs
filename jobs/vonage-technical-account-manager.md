@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Vonage](https://scoutify.ai/companies/vonage?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Madrid, Madrid, Spain |
-| Category | Customer Success |
+| Category | Customer Success Manager |
 | Posted | 2026-09-17 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/vonage/jobs/8816790002) |
 
 ## About This Role
 
-This customer success position at Vonage was posted on 2026-09-17.
+This customer success manager position at Vonage was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

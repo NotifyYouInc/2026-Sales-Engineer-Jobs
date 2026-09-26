@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [UiPath](https://scoutify.ai/companies/uipath?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Texas, US |
-| Category | Sales Engineer |
+| Category | Sales Leadership |
 | Posted | 2026-09-17 |
 | Apply | [View on company site](https://jobs.ashbyhq.com/uipath/32eef9a3-4899-441e-96a3-a5917760c939) |
 
 ## About This Role
 
-This sales engineer position at UiPath was posted on 2026-09-17.
+This sales leadership position at UiPath was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

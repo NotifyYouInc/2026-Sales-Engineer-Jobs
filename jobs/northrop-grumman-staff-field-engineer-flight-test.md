@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Northrop Grumman](https://scoutify.ai/companies/northrop-grumman?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Linthicum, Maryland, United States |
-| Category | Electrical / Hardware Engineer |
-| Posted | 2026-08-06 |
-| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Linthicum/Staff-Field-Engineer--Flight-Test-_R10244270) |
+| Location | 2 locations |
+| Category | Sales Engineer |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/Staff-Field-Engineer--Flight-Test-_R10251876) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Northrop Grumman was posted on 2026-08-06.
+This sales engineer position at Northrop Grumman was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

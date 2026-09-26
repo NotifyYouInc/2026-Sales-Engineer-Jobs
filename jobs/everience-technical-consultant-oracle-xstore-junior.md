@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Everience](https://scoutify.ai/companies/everience?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Milan, Lombardy, Italy |
-| Category | Sales Engineer |
+| Category | Technology / IT Consulting |
 | Posted | 2026-09-16 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/EVERIENCE/744000149862539-technical-consultant-oracle-xstore-junior) |
 
 ## About This Role
 
-This sales engineer position at Everience was posted on 2026-09-16.
+This technology / it consulting position at Everience was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

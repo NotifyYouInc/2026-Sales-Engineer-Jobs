@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Logicalis](https://scoutify.ai/companies/logicalis?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Lisbon, Lisbon, Portugal |
-| Category | Sales Engineer |
+| Category | Technology / IT Consulting |
 | Posted | 2026-09-16 |
 | Apply | [View on company site](https://logicalis.wd3.myworkdayjobs.com/logicaliscareers/job/Lisbon/Collaboration-Technical-Consultant_JR05476) |
 
 ## About This Role
 
-This sales engineer position at Logicalis was posted on 2026-09-16.
+This technology / it consulting position at Logicalis was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

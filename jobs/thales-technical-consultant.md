@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Thales](https://scoutify.ai/companies/thales?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Philippines |
-| Category | Sales Engineer |
+| Category | Technology / IT Consulting |
 | Posted | 2026-09-16 |
 | Apply | [View on company site](https://thales.wd3.myworkdayjobs.com/Careers/job/Maynila/Technical-Consultant_R0336791) |
 
 ## About This Role
 
-This sales engineer position at Thales was posted on 2026-09-16.
+This technology / it consulting position at Thales was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

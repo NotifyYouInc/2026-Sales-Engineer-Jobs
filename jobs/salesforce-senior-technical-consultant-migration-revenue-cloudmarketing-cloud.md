@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Salesforce](https://scoutify.ai/companies/salesforce?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | 2 locations |
-| Category | Sales Engineer |
+| Category | Technology / IT Consulting |
 | Posted | 2026-09-17 |
 | Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Hyderabad/Senior-Technical-Consultant--Migration-Revenue-Cloud-Marketing-Cloud_JR360365) |
 
 ## About This Role
 
-This sales engineer position at Salesforce was posted on 2026-09-17.
+This technology / it consulting position at Salesforce was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

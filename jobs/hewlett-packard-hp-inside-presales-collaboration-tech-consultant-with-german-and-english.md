@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Hewlett Packard (HP)](https://scoutify.ai/companies/hp?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Sant Cugat del Vallès, Catalonia, Spain |
-| Category | Sales Engineer |
+| Category | Technology / IT Consulting |
 | Posted | 2026-09-18 |
 | Apply | [View on company site](https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Sant-Cugat-del-Valles-Barcelona-Spain/Inside-Presales-Collaboration-Tech-Consultant-with-German-and-English_3166534-1) |
 
 ## About This Role
 
-This sales engineer position at Hewlett Packard (HP) was posted on 2026-09-18.
+This technology / it consulting position at Hewlett Packard (HP) was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

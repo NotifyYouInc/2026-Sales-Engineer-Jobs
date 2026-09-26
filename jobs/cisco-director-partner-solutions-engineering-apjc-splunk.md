@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | 4 locations |
-| Category | Sales Engineer |
+| Category | Sales Leadership |
 | Posted | 2026-09-16 |
 | Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Singapore-Singapore/Director--Partner-Solutions-Engineering_2023330) |
 
 ## About This Role
 
-This sales engineer position at Cisco was posted on 2026-09-16.
+This sales leadership position at Cisco was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

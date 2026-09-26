@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Shimadzu Scientific Instruments](https://scoutify.ai/companies/recruiting-ultipro-com-oj97207?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | South San Francisco, California, United States |
+| Location | Dallas, Texas, United States |
 | Category | Sales Engineer |
-| Posted | 2026-07-10 |
-| Apply | [View on company site](https://recruiting.ultipro.com/shi1000/JobBoard/2bc2a753-1232-400c-84cf-ef90d5762b76/OpportunityDetail?opportunityId=ef03c37d-e752-4b73-b864-973a2319c81e) |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://recruiting.ultipro.com/shi1000/JobBoard/2bc2a753-1232-400c-84cf-ef90d5762b76/OpportunityDetail?opportunityId=524b15be-8a94-48f3-8cee-e9ea8d92b50d) |
 
 ## About This Role
 
-This sales engineer position at Shimadzu Scientific Instruments was posted on 2026-07-10.
+This sales engineer position at Shimadzu Scientific Instruments was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

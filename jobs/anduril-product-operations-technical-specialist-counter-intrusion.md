@@ -5,12 +5,12 @@
 | Company | [Anduril](https://scoutify.ai/companies/andurilindustries?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Irvine, California, United States |
 | Category | Customer Success |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://boards.greenhouse.io/andurilindustries/jobs/5140621007?gh_jid=5140621007) |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://boards.greenhouse.io/andurilindustries/jobs/5210130007?gh_jid=5210130007) |
 
 ## About This Role
 
-This customer success position at Anduril was posted on 2026-05-18.
+This customer success position at Anduril was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

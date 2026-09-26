@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Regions Bank](https://scoutify.ai/companies/regions-bank?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Charlotte, North Carolina, United States |
-| Category | Investment Banking |
-| Posted | 2026-08-25 |
-| Apply | [View on company site](https://regions.wd5.myworkdayjobs.com/regions_careers/job/Charlotte-NC---Charlotte-Uptown-Branch/Credit-Products-Leveraged-Finance-Product-Specialist_R105385-1) |
+| Category | Corporate Finance |
+| Posted | 2026-09-19 |
+| Apply | [View on company site](https://regions.wd5.myworkdayjobs.com/regions_careers/job/Charlotte-NC---Charlotte-Uptown-Branch/Credit-Products-Leveraged-Finance-Product-Specialist_R106113) |
 
 ## About This Role
 
-This investment banking position at Regions Bank was posted on 2026-08-25.
+This corporate finance position at Regions Bank was posted on 2026-09-19.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [GE Vernova](https://scoutify.ai/companies/ge-vernova?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | United States |
-| Category | Sales Engineer |
+| Category | Sales Leadership |
 | Posted | 2026-09-17 |
 | Apply | [View on company site](https://gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite/job/Remote/Senior-Technical-Sales-Manager---Power-Stability_R5053383-3) |
 
 ## About This Role
 
-This sales engineer position at GE Vernova was posted on 2026-09-17.
+This sales leadership position at GE Vernova was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Ensemble Health Partners](https://scoutify.ai/companies/ensemble-health-partners?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | United States |
-| Category | Sales Engineer |
+| Category | Technology / IT Consulting |
 | Posted | 2026-09-17 |
 | Apply | [View on company site](https://ensemblehp.wd5.myworkdayjobs.com/ensemblehealthpartnerscareers/job/Remote---Nationwide/Revenue-Recovery-Technology-Specialist_R031310-1) |
 
 ## About This Role
 
-This sales engineer position at Ensemble Health Partners was posted on 2026-09-17.
+This technology / it consulting position at Ensemble Health Partners was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

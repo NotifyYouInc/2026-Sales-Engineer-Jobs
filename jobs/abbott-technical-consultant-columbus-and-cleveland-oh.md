@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Abbott](https://scoutify.ai/companies/abbott-laboratories?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | 2 locations |
-| Category | Customer Success |
+| Category | Technology / IT Consulting |
 | Posted | 2026-09-18 |
 | Apply | [View on company site](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Illinois---Abbott-Park/Technical-Consultant---Columbus-and-Cleveland-OH_31162357) |
 
 ## About This Role
 
-This customer success position at Abbott was posted on 2026-09-18.
+This technology / it consulting position at Abbott was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

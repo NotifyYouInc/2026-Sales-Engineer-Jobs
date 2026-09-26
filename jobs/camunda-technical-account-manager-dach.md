@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Camunda](https://scoutify.ai/companies/camunda?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Austria |
-| Category | Customer Success |
+| Category | Customer Success Manager |
 | Posted | 2026-09-18 |
 | Apply | [View on company site](https://jobs.ashbyhq.com/camunda/5c194367-ef3b-49e6-8dac-7feba555915c) |
 
 ## About This Role
 
-This customer success position at Camunda was posted on 2026-09-18.
+This customer success manager position at Camunda was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

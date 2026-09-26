@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [EXFO](https://scoutify.ai/companies/exfo?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | United States |
+| Location | France |
 | Category | Sales Engineer |
-| Posted | 2026-09-14 |
-| Apply | [View on company site](https://exfo.wd10.myworkdayjobs.com/EXFO_Careers/job/Remote---USA/Sales-Engineer_R-100467) |
+| Posted | 2026-09-19 |
+| Apply | [View on company site](https://exfo.wd10.myworkdayjobs.com/EXFO_Careers/job/Remote---USA/Sales-Engineer_R-100468) |
 
 ## About This Role
 
-This sales engineer position at EXFO was posted on 2026-09-14.
+This sales engineer position at EXFO was posted on 2026-09-19.
 
 ## Get Real-Time Alerts
 

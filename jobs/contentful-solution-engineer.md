@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Contentful](https://scoutify.ai/companies/contentful?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Sydney, New South Wales, Australia |
+| Location | Denver, Colorado, United States |
 | Category | Sales Engineer |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/contentful/jobs/7821660) |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/contentful/jobs/8209335) |
 
 ## About This Role
 
-This sales engineer position at Contentful was posted on 2026-04-21.
+This sales engineer position at Contentful was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

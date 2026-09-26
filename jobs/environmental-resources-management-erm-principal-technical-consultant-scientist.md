@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Environmental Resources Management (ERM)](https://scoutify.ai/companies/environmental-resources-management-erm?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | 2 locations |
-| Category | Sales Engineer |
+| Category | Technology / IT Consulting |
 | Posted | 2026-09-17 |
 | Apply | [View on company site](https://erm.wd3.myworkdayjobs.com/erm_careers/job/Richmond-Virginia/Principal-Technical-Consultant--Scientist_R00032066-1) |
 
 ## About This Role
 
-This sales engineer position at Environmental Resources Management (ERM) was posted on 2026-09-17.
+This technology / it consulting position at Environmental Resources Management (ERM) was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

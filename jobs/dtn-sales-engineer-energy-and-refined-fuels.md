@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [DTN](https://scoutify.ai/companies/dtn?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Texas, US |
+| Location | 3 locations |
 | Category | Sales Engineer |
-| Posted | 2026-06-25 |
-| Apply | [View on company site](https://dtn.wd1.myworkdayjobs.com/dtn_careers/job/Remote-TX/Sales-Engineer---Energy-and-Refined-Fuels_R-002944) |
+| Posted | 2026-09-19 |
+| Apply | [View on company site](https://dtn.wd1.myworkdayjobs.com/dtn_careers/job/Remote-TX/Sales-Engineer---Energy-and-Refined-Fuels_R-003136) |
 
 ## About This Role
 
-This sales engineer position at DTN was posted on 2026-06-25.
+This sales engineer position at DTN was posted on 2026-09-19.
 
 ## Get Real-Time Alerts
 

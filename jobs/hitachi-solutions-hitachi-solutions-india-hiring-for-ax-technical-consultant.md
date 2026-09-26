@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Hitachi Solutions](https://scoutify.ai/companies/hitachi-solutions?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Chennai, Tamil Nadu, India |
-| Category | Sales Engineer |
+| Category | Technology / IT Consulting |
 | Posted | 2026-09-18 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/hitachisolutions/744000150288599-hitachi-solutions-india-hiring-for-ax-technical-consultant) |
 
 ## About This Role
 
-This sales engineer position at Hitachi Solutions was posted on 2026-09-18.
+This technology / it consulting position at Hitachi Solutions was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

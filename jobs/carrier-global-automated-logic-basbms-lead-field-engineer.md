@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Carrier Global](https://scoutify.ai/companies/carrier?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Kennesaw, Georgia, United States |
-| Category | Sales Engineer |
+| Category | Industrial Automation |
 | Posted | 2026-09-16 |
 | Apply | [View on company site](https://carrier.wd5.myworkdayjobs.com/jobs/job/CAG16-AL-Georgia-ATL-1975-Vaughn-Road-Kennesaw-GA-30144-USA/Automated-Logic--BAS-BMS-Lead-Field-Engineer_30217733) |
 
 ## About This Role
 
-This sales engineer position at Carrier Global was posted on 2026-09-16.
+This industrial automation position at Carrier Global was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

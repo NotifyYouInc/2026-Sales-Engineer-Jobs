@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Motorola Solutions](https://scoutify.ai/companies/motorola-solutions?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Florida, US |
+| Location | Arizona, US |
 | Category | Sales Engineer |
-| Posted | 2026-07-20 |
-| Apply | [View on company site](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Florida-Remote-Work/Field-Engineer---US-Remote_R66444) |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Arizona-Remote-Work/Field-Engineer---US-Remote_R68209) |
 
 ## About This Role
 
-This sales engineer position at Motorola Solutions was posted on 2026-07-20.
+This sales engineer position at Motorola Solutions was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

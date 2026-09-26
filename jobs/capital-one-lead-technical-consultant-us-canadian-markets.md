@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Capital One](https://scoutify.ai/companies/capital-one?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | 3 locations |
-| Category | Sales Engineer |
+| Category | Technology / IT Consulting |
 | Posted | 2026-09-16 |
 | Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Riverwoods-IL/Lead-Technical-Consultant---US---Canadian-Markets_R1000735-1) |
 
 ## About This Role
 
-This sales engineer position at Capital One was posted on 2026-09-16.
+This technology / it consulting position at Capital One was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

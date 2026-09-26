@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [State Street](https://scoutify.ai/companies/statestreet?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Hyderabad, Telangana, India |
-| Category | Customer Success |
+| Category | Technology / IT Consulting |
 | Posted | 2026-09-16 |
 | Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Hyderabad-India/Fintech---Technical-Consultant--Officer_R-797984) |
 
 ## About This Role
 
-This customer success position at State Street was posted on 2026-09-16.
+This technology / it consulting position at State Street was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

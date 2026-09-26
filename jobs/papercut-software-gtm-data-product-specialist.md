@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [PaperCut Software](https://scoutify.ai/companies/papercutsoftware?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Melbourne, Victoria, Australia |
-| Category | Sales Engineer |
+| Category | Operations |
 | Posted | 2026-09-17 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/PaperCutSoftware/744000150000129-gtm-data-product-specialist) |
 
 ## About This Role
 
-This sales engineer position at PaperCut Software was posted on 2026-09-17.
+This operations position at PaperCut Software was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

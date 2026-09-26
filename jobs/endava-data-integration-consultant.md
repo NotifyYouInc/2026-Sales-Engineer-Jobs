@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Endava](https://scoutify.ai/companies/endava?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | New York City, New York, United States |
-| Category | Sales Engineer |
+| Category | Technology / IT Consulting |
 | Posted | 2026-09-16 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/Endava/744000149938599-data-integration-consultant) |
 
 ## About This Role
 
-This sales engineer position at Endava was posted on 2026-09-16.
+This technology / it consulting position at Endava was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

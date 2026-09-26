@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Smiths Group](https://scoutify.ai/companies/smithsgroup?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Oyster Creek, Texas, United States |
-| Category | Sales Engineer |
+| Category | Industrial Automation |
 | Posted | 2026-09-17 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/SmithsGroup2/744000150222369-condition-monitoring-engineer-or-technical-specialist) |
 
 ## About This Role
 
-This sales engineer position at Smiths Group was posted on 2026-09-17.
+This industrial automation position at Smiths Group was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

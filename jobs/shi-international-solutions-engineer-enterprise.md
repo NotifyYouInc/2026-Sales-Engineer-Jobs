@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [SHI International](https://scoutify.ai/companies/shi-international?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Utah, US |
+| Location | Minnesota, US |
 | Category | Sales Engineer |
-| Posted | 2026-09-03 |
-| Apply | [View on company site](https://shi.wd12.myworkdayjobs.com/shicareers/job/US---UT---Home-Office/Solutions-Engineer---Enterprise_JR3678) |
+| Posted | 2026-09-19 |
+| Apply | [View on company site](https://shi.wd12.myworkdayjobs.com/shicareers/job/US---MN---Home-Office/Solutions-Engineer---Enterprise_JR3781) |
 
 ## About This Role
 
-This sales engineer position at SHI International was posted on 2026-09-03.
+This sales engineer position at SHI International was posted on 2026-09-19.
 
 ## Get Real-Time Alerts
 

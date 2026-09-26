@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Carvana](https://scoutify.ai/companies/carvana?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Tempe, Arizona, United States |
-| Category | Sales Engineer |
-| Posted | 2026-08-17 |
-| Apply | [View on company site](https://www.carvana.com/careers/apply?gh_jid=8138046) |
+| Category | Legal |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://www.carvana.com/careers/apply?gh_jid=8214417) |
 
 ## About This Role
 
-This sales engineer position at Carvana was posted on 2026-08-17.
+This legal position at Carvana was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Global Partners](https://scoutify.ai/companies/global?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Massachusetts, US |
+| Location | Houston, Texas, United States |
 | Category | IT & Systems Administration |
-| Posted | 2026-05-12 |
-| Apply | [View on company site](https://global.wd1.myworkdayjobs.com/globalpartnerscareers/job/Field-MA/Terminal-Technology-Specialist_R0030595) |
+| Posted | 2026-09-19 |
+| Apply | [View on company site](https://global.wd1.myworkdayjobs.com/globalpartnerscareers/job/Houston-TX/Terminal-Technology-Specialist_R0031917) |
 
 ## About This Role
 
-This it & systems administration position at Global Partners was posted on 2026-05-12.
+This it & systems administration position at Global Partners was posted on 2026-09-19.
 
 ## Get Real-Time Alerts
 

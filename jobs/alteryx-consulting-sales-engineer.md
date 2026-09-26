@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Alteryx](https://scoutify.ai/companies/alteryx?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
-| Location | Illinois, US |
+| Location | Connecticut, US |
 | Category | Sales Engineer |
-| Posted | 2026-09-16 |
-| Apply | [View on company site](https://alteryx.wd108.myworkdayjobs.com/alteryxcareers/job/Washington-USA---Remote/Consulting-Sales-Engineer_R12483) |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://alteryx.wd108.myworkdayjobs.com/alteryxcareers/job/Massachusetts-USA---Remote/Consulting-Sales-Engineer_R12492) |
 
 ## About This Role
 
-This sales engineer position at Alteryx was posted on 2026-09-16.
+This sales engineer position at Alteryx was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

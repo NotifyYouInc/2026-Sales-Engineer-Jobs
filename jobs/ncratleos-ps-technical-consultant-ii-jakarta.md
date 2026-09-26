@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Ncratleos](https://scoutify.ai/companies/ncratleos?utm_source=github&utm_medium=repo&utm_campaign=sales-engineer-jobs) |
 | Location | Jakarta, Jakarta, Indonesia |
-| Category | Sales Engineer |
+| Category | Technology / IT Consulting |
 | Posted | 2026-09-18 |
 | Apply | [View on company site](https://ncratleos.wd1.myworkdayjobs.com/ext_apacatleos/job/JAKARTA-IDN/PS-Technical-Consultant-II-Jakarta_R1154006-2) |
 
 ## About This Role
 
-This sales engineer position at Ncratleos was posted on 2026-09-18.
+This technology / it consulting position at Ncratleos was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 
